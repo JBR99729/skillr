@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication evidence source",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which interpretation is best supported?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-001",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a class investigation, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which interpretation is best supported?"
     },
     "answers": [
       "Purpose, audience and medium shape science communication; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication message",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "audioPrompt": "During a museum evidence display, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “Communication can influence individual action and community policy”. Which response applies the communication model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “Communication can influence individual action and community policy”. Which response applies the communication model most accurately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “Communication can influence individual action and community policy”. Which response applies the communication model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “Communication can influence individual action and community policy”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-002",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a museum evidence display, the evidence states, “Communication can influence individual action and community policy”. Which response applies the communication model most accurately?"
     },
     "answers": [
       "Simplifying a message always makes it inaccurate; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication medium",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare medium with audience. The evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare medium with audience. The evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which conclusion uses evidence appropriately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. The evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. The evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-003",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a field-team briefing, students compare medium with audience. The evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication audience",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. What is the strongest scientific response to this result?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-004",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a laboratory notebook, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that purpose, audience and medium shape science communication",
@@ -123,14 +123,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication viewpoint or policy",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-005\"></use></svg>",
+    "question": "A community science meeting for Science Communication Shapes Decisions reports that credibility depends on evidence and transparency. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A community science meeting for Science Communication Shapes Decisions reports that credibility depends on evidence and transparency. Which revision would make the reasoning most reliable?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that credibility depends on evidence and transparency. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that credibility depends on evidence and transparency. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-005",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A community science meeting for Science Communication Shapes Decisions reports that credibility depends on evidence and transparency. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A famous communicator is automatically a reliable source; the same outcome must therefore occur in every setting",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication evidence source",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “The audience needs a clear action”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “The audience needs a clear action”. Which interpretation is best supported?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-006",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a digital model review, the evidence states, “The audience needs a clear action”. Which interpretation is best supported?"
     },
     "answers": [
       "Simplifying a message always makes it inaccurate; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication message",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "audioPrompt": "During a student research poster, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Trace claims to evidence”. Which response applies the communication model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Trace claims to evidence”. Which response applies the communication model most accurately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, the evidence states, “Trace claims to evidence”. Which response applies the communication model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, the evidence states, “Trace claims to evidence”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-007",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a student research poster, the evidence states, “Trace claims to evidence”. Which response applies the communication model most accurately?"
     },
     "answers": [
       "The observation supports the idea that purpose, audience and medium shape science communication, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication medium",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare medium with audience. The evidence states, “Purpose”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare medium with audience. The evidence states, “Purpose”. Which conclusion uses evidence appropriately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “Purpose”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “Purpose”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-008",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an engineering design check, students compare medium with audience. The evidence states, “Purpose”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication audience",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. What is the strongest scientific response to this result?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-009",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a data-team discussion, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication viewpoint or policy",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-010\"></use></svg>",
+    "question": "A school science report for Science Communication Shapes Decisions reports that communication can influence individual action and community policy. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for Science Communication Shapes Decisions reports that communication can influence individual action and community policy. Which revision would make the reasoning most reliable?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that communication can influence individual action and community policy. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that communication can influence individual action and community policy. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-010",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A school science report for Science Communication Shapes Decisions reports that communication can influence individual action and community policy. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports purpose, audience and medium shape science communication, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication evidence source",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which interpretation is best supported?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-011",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a council evidence summary, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. Which interpretation is best supported?"
     },
     "answers": [
       "A famous communicator is automatically a reliable source; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication message",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "audioPrompt": "During a peer-review conversation, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. Which response applies the communication model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. Which response applies the communication model most accurately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. Which response applies the communication model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-012",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a peer-review conversation, the evidence states, “Distinguish useful audience adaptation from distortion or omission”. Which response applies the communication model most accurately?"
     },
     "answers": [
       "Simplifying a message always makes it inaccurate; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication medium",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare medium with audience. The evidence states, “Credibility depends on evidence and transparency”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare medium with audience. The evidence states, “Credibility depends on evidence and transparency”. Which conclusion uses evidence appropriately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. The evidence states, “Credibility depends on evidence and transparency”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. The evidence states, “Credibility depends on evidence and transparency”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-013",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an environmental monitoring project, students compare medium with audience. The evidence states, “Credibility depends on evidence and transparency”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links medium with audience, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication audience",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “The audience needs a clear action”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “The audience needs a clear action”. What is the strongest scientific response to this result?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-014",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a medical research case, the evidence states, “The audience needs a clear action”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication viewpoint or policy",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-015\"></use></svg>",
+    "question": "A science-news fact check for Science Communication Shapes Decisions reports that trace claims to evidence. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for Science Communication Shapes Decisions reports that trace claims to evidence. Which revision would make the reasoning most reliable?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that trace claims to evidence. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that trace claims to evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-015",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that investigating campaigns designed to increase rates of organ donation. Which revision would make the reasoning most reliable?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: A science-news fact check for Science Communication Shapes Decisions reports that trace claims to evidence. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A famous communicator is automatically a reliable source; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication evidence source",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Purpose”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Purpose”. Which interpretation is best supported?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “Purpose”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “Purpose”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-016",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “The audience needs a clear action.”. Which interpretation is best supported?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a classroom model test, the evidence states, “Purpose”. Which interpretation is best supported?"
     },
     "answers": [
       "Purpose, audience and medium shape science communication; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication message",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "audioPrompt": "During a regional planning workshop, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which response applies the communication model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which response applies the communication model most accurately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which response applies the communication model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-017",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, students are investigating campaigns designed to increase rates of organ donation. Which response applies the communication model most accurately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a regional planning workshop, the evidence states, “A tsunami alert converts seismic and ocean data into an urgent public message”. Which response applies the communication model most accurately?"
     },
     "answers": [
       "A famous communicator is automatically a reliable source; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication medium",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare medium with audience. The evidence states, “Communication can influence individual action and community policy”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare medium with audience. The evidence states, “Communication can influence individual action and community policy”. Which conclusion uses evidence appropriately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “Communication can influence individual action and community policy”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “Communication can influence individual action and community policy”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-018",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “The audience needs a clear action.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In an equipment selection task, students compare medium with audience. The evidence states, “Communication can influence individual action and community policy”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication audience",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. What is the strongest scientific response to this result?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-019",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, students are investigating campaigns designed to increase rates of organ donation. What is the strongest scientific response to this result?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a public information draft, the evidence states, “Good communication supports timely decisions without exaggerating certainty”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that purpose, audience and medium shape science communication",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication viewpoint or policy",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-020\"></use></svg>",
+    "question": "An independent replication study for Science Communication Shapes Decisions reports that distinguish useful audience adaptation from distortion or omission. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for Science Communication Shapes Decisions reports that distinguish useful audience adaptation from distortion or omission. Which revision would make the reasoning most reliable?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that distinguish useful audience adaptation from distortion or omission. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that distinguish useful audience adaptation from distortion or omission. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-020",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that the audience needs a clear action. Which revision would make the reasoning most reliable?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is viewpoint or policy. Question context: An independent replication study for Science Communication Shapes Decisions reports that distinguish useful audience adaptation from distortion or omission. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Simplifying a message always makes it inaccurate; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication evidence source",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Credibility depends on evidence and transparency”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Credibility depends on evidence and transparency”. Which interpretation is best supported?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, the evidence states, “Credibility depends on evidence and transparency”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, the evidence states, “Credibility depends on evidence and transparency”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-021",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, students are investigating campaigns designed to increase rates of organ donation. Which interpretation is best supported?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is evidence source. Question context: In a risk-assessment meeting, the evidence states, “Credibility depends on evidence and transparency”. Which interpretation is best supported?"
     },
     "answers": [
       "A famous communicator is automatically a reliable source; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication message",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “The audience needs a clear action”. Which response applies the communication model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “The audience needs a clear action”. Which response applies the communication model most accurately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action”. Which response applies the communication model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action”. Which response applies the communication model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-022",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action.”. Which response applies the communication model most accurately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is message. Question context: During a graph interpretation task, the evidence states, “The audience needs a clear action”. Which response applies the communication model most accurately?"
     },
     "answers": [
       "The observation supports the idea that purpose, audience and medium shape science communication, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication medium",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare medium with audience. The evidence states, “Trace claims to evidence”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare medium with audience. The evidence states, “Trace claims to evidence”. Which conclusion uses evidence appropriately?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. The evidence states, “Trace claims to evidence”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. The evidence states, “Trace claims to evidence”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-023",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. Students are investigating campaigns designed to increase rates of organ donation. Which conclusion uses evidence appropriately?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is medium. Question context: In a claim-evidence-reasoning response, students compare medium with audience. The evidence states, “Trace claims to evidence”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "communication audience",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Purpose”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Purpose”. What is the strongest scientific response to this result?",
+    "visual": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “Purpose”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “Purpose”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h04.svg#ac9s8h04-p-024",
-      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “The audience needs a clear action.”. What is the strongest scientific response to this result?"
+      "alt_text": "Science Communication Shapes Decisions evidence model linking evidence source, message, medium, audience, viewpoint or policy. The highlighted stage is audience. Question context: During a scientific-method audit, the evidence states, “Purpose”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",

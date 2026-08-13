@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-001",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a class investigation, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?"
     },
     "answers": [
       "Arguments distinguish claim, evidence and reasoning; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, the evidence states, “Claim: Battery A lasts longer under the tested load.”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a museum evidence display, the evidence states, “Claim: Battery A lasts longer under the tested load.”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Claim: Battery A lasts longer under the tested load.”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Claim: Battery A lasts longer under the tested load.”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-002",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Claim: Battery A lasts longer under the tested load.”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a museum evidence display, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?"
     },
     "answers": [
       "A quotation is reasoning; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol.”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-003",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a field-team briefing, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, students are evaluating a claim that one brand of battery lasts longer than another brand of battery. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, students are evaluating a claim that one brand of battery lasts longer than another brand of battery. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, students are evaluating a claim that one brand of battery lasts longer than another brand of battery. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, students are evaluating a claim that one brand of battery lasts longer than another brand of battery. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-004",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, students are evaluating a claim that one brand of battery lasts longer than another brand of battery. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a laboratory notebook, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that arguments distinguish claim, evidence and reasoning",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-006",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a digital model review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?"
     },
     "answers": [
       "A quotation is reasoning; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, the evidence states, “Arguments distinguish claim.”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a student research poster, the evidence states, “Arguments distinguish claim.”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Arguments distinguish claim.”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Arguments distinguish claim.”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-007",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Arguments distinguish claim.”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a student research poster, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?"
     },
     "answers": [
       "The observation supports the idea that arguments distinguish claim, evidence and reasoning, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare evidence with reasoning. The evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare evidence with reasoning. The evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-008",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain.”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-009",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain.”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a data-team discussion, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Build an Evidence-Based Argument reports that examining competing ideas. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Build an Evidence-Based Argument reports that examining competing ideas. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that examining competing ideas. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that examining competing ideas. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-010\"></use></svg>",
+    "question": "A school science report for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-010",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that examining competing ideas. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A school science report for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports arguments distinguish claim, evidence and reasoning, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, the evidence states, “Use repeated discharge times.”. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, the evidence states, “Use repeated discharge times.”. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Use repeated discharge times.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Use repeated discharge times.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-011",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Use repeated discharge times.”. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a council evidence summary, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?"
     },
     "answers": [
       "More sources automatically means stronger evidence; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a peer-review conversation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-012",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a peer-review conversation, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?"
     },
     "answers": [
       "A quotation is reasoning; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Claim: Battery A lasts longer under the tested load.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Claim: Battery A lasts longer under the tested load.”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Claim: Battery A lasts longer under the tested load.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Claim: Battery A lasts longer under the tested load.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-013",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Claim: Battery A lasts longer under the tested load.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an environmental monitoring project, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links evidence with reasoning, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, the evidence states, “Sources and culturally governed information are used with attribution and protocol.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, the evidence states, “Sources and culturally governed information are used with attribution and protocol.”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Sources and culturally governed information are used with attribution and protocol.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Sources and culturally governed information are used with attribution and protocol.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-014",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Sources and culturally governed information are used with attribution and protocol.”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a medical research case, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Build an Evidence-Based Argument reports that evaluating a claim that one brand of battery lasts longer than another brand of battery. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Build an Evidence-Based Argument reports that evaluating a claim that one brand of battery lasts longer than another brand of battery. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that evaluating a claim that one brand of battery lasts longer than another brand of battery. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that evaluating a claim that one brand of battery lasts longer than another brand of battery. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-015\"></use></svg>",
+    "question": "A science-news fact check for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-015",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that evaluating a claim that one brand of battery lasts longer than another brand of battery. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A science-news fact check for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "More sources automatically means stronger evidence; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, the evidence states, “Evidence quality and competing explanations are evaluated.”. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, the evidence states, “Evidence quality and competing explanations are evaluated.”. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Evidence quality and competing explanations are evaluated.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Evidence quality and competing explanations are evaluated.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Arguments distinguish claim”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Arguments distinguish claim”. Which interpretation is best supported?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Arguments distinguish claim”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Arguments distinguish claim”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-016",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Evidence quality and competing explanations are evaluated.”. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a classroom model test, the evidence states, “Arguments distinguish claim”. Which interpretation is best supported?"
     },
     "answers": [
       "Arguments distinguish claim, evidence and reasoning; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a regional planning workshop, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which response applies the argument model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which response applies the argument model most accurately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which response applies the argument model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-017",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, students are analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a regional planning workshop, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which response applies the argument model most accurately?"
     },
     "answers": [
       "More sources automatically means stronger evidence; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim.”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which conclusion uses evidence appropriately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-018",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In an equipment selection task, students compare evidence with reasoning. The evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, the evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, the evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. What is the strongest scientific response to this result?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-019",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Acknowledging and considering the ethical issues or cultural protocols when using or citing secondary.”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a public information draft, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that arguments distinguish claim, evidence and reasoning",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Build an Evidence-Based Argument reports that reasoning explains why the data support the limited tested claim and what remains uncertain. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Build an Evidence-Based Argument reports that reasoning explains why the data support the limited tested claim and what remains uncertain. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that reasoning explains why the data support the limited tested claim and what remains uncertain. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that reasoning explains why the data support the limited tested claim and what remains uncertain. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-020\"></use></svg>",
+    "question": "An independent replication study for Build an Evidence-Based Argument reports that explain how the evidence supports or weakens the claim. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for Build an Evidence-Based Argument reports that explain how the evidence supports or weakens the claim. Which revision would make the reasoning most reliable?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that explain how the evidence supports or weakens the claim. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that explain how the evidence supports or weakens the claim. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-020",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that reasoning explains why the data support the limited tested claim and what remains uncertain. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: An independent replication study for Build an Evidence-Based Argument reports that explain how the evidence supports or weakens the claim. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A quotation is reasoning; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are examining competing ideas. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are examining competing ideas. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, students are examining competing ideas. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, students are examining competing ideas. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Evidence quality and competing explanations are evaluated”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Evidence quality and competing explanations are evaluated”. Which interpretation is best supported?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, the evidence states, “Evidence quality and competing explanations are evaluated”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, the evidence states, “Evidence quality and competing explanations are evaluated”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-021",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, students are examining competing ideas. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a risk-assessment meeting, the evidence states, “Evidence quality and competing explanations are evaluated”. Which interpretation is best supported?"
     },
     "answers": [
       "More sources automatically means stronger evidence; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “Use repeated discharge times.”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “Use repeated discharge times.”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times.”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times.”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “Use repeated discharge times”. Which response applies the argument model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “Use repeated discharge times”. Which response applies the argument model most accurately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times”. Which response applies the argument model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-022",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times.”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a graph interpretation task, the evidence states, “Use repeated discharge times”. Which response applies the argument model most accurately?"
     },
     "answers": [
       "The observation supports the idea that arguments distinguish claim, evidence and reasoning, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare evidence with reasoning. Students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare evidence with reasoning. Students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. Students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. Students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare evidence with reasoning. The evidence states, “Prioritise relevance”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare evidence with reasoning. The evidence states, “Prioritise relevance”. Which conclusion uses evidence appropriately?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. The evidence states, “Prioritise relevance”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. The evidence states, “Prioritise relevance”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-023",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. Students are evaluating the quality of evidence of primary and secondary sources used when constructing an argument. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with reasoning. The evidence states, “Prioritise relevance”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, the evidence states, “Claim: Battery A lasts longer under the tested load.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, the evidence states, “Claim: Battery A lasts longer under the tested load.”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Claim: Battery A lasts longer under the tested load.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Claim: Battery A lasts longer under the tested load.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Arguments distinguish claim”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Arguments distinguish claim”. What is the strongest scientific response to this result?",
+    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Arguments distinguish claim”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Arguments distinguish claim”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-p-024",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Claim: Battery A lasts longer under the tested load.”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a scientific-method audit, the evidence states, “Arguments distinguish claim”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",

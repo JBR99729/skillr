@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, the evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, the evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-001",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a class investigation, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?"
     },
     "answers": [
       "Biological organisation proceeds from specialised cells to tissues, organs and systems; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. Which response applies the system model most accurately?",
-    "audioPrompt": "During a museum evidence display, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-002",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a museum evidence display, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?"
     },
     "answers": [
       "All cells in an organ are the same; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare organ with organ system. The evidence states, “Structure at each level supports function.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare organ with organ system. The evidence states, “Structure at each level supports function.”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Structure at each level supports function.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Structure at each level supports function.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-003",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Structure at each level supports function.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a field-team briefing, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, students are describing the structure of each organ in a system and relating its function to the overall function of. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, students are describing the structure of each organ in a system and relating its function to the overall function of. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, students are describing the structure of each organ in a system and relating its function to the overall function of. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, students are describing the structure of each organ in a system and relating its function to the overall function of. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-004",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, students are describing the structure of each organ in a system and relating its function to the overall function of. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a laboratory notebook, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that biological organisation proceeds from specialised cells to tissues, organs and systems",
@@ -123,14 +123,14 @@ window.skillrPracticeQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for From Cells to Organ Systems reports that damaged alveoli reduce oxygen transfer and affect the whole respiratory system. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for From Cells to Organ Systems reports that damaged alveoli reduce oxygen transfer and affect the whole respiratory system. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that damaged alveoli reduce oxygen transfer and affect the whole respiratory system. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that damaged alveoli reduce oxygen transfer and affect the whole respiratory system. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-005\"></use></svg>",
+    "question": "A community science meeting for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A community science meeting for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-005",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that damaged alveoli reduce oxygen transfer and affect the whole respiratory system. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A community science meeting for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "An organ works alone; the same outcome must therefore occur in every setting",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, the evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, the evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-006",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a digital model review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?"
     },
     "answers": [
       "All cells in an organ are the same; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, the evidence states, “Alveoli have thin walls and a large surface area.”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a student research poster, the evidence states, “Alveoli have thin walls and a large surface area.”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Alveoli have thin walls and a large surface area.”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Alveoli have thin walls and a large surface area.”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-007",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Alveoli have thin walls and a large surface area.”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a student research poster, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?"
     },
     "answers": [
       "The observation supports the idea that biological organisation proceeds from specialised cells to tissues, organs and systems, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism.”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-008",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an engineering design check, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, students are researching how a disorder in cells or tissues can affect how an organ functions. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, students are researching how a disorder in cells or tissues can affect how an organ functions. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, students are researching how a disorder in cells or tissues can affect how an organ functions. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, students are researching how a disorder in cells or tissues can affect how an organ functions. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-009",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, students are researching how a disorder in cells or tissues can affect how an organ functions. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a data-team discussion, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A school science report for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-010\"></use></svg>",
+    "question": "A school science report for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-010",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A school science report for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports biological organisation proceeds from specialised cells to tissues, organs and systems, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-011",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a council evidence summary, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?"
     },
     "answers": [
       "An organ works alone; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a peer-review conversation, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-012",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a peer-review conversation, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?"
     },
     "answers": [
       "All cells in an organ are the same; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare organ with organ system. The evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare organ with organ system. The evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-013",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an environmental monitoring project, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links organ with organ system, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-014",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, students are investigating how an artificial organ mimics or augments the function or functions of a real organ. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a medical research case, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-015\"></use></svg>",
+    "question": "A science-news fact check for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-015",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A science-news fact check for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "An organ works alone; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, students are describing the structure of each organ in a system and relating its function to the overall function of. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, students are describing the structure of each organ in a system and relating its function to the overall function of. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, students are describing the structure of each organ in a system and relating its function to the overall function of. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, students are describing the structure of each organ in a system and relating its function to the overall function of. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which interpretation is best supported?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-016",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, students are describing the structure of each organ in a system and relating its function to the overall function of. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a classroom model test, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which interpretation is best supported?"
     },
     "answers": [
       "Biological organisation proceeds from specialised cells to tissues, organs and systems; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system.”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a regional planning workshop, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system.”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system.”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system.”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “Alveoli have thin walls and a large surface area”. Which response applies the system model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “Alveoli have thin walls and a large surface area”. Which response applies the system model most accurately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Alveoli have thin walls and a large surface area”. Which response applies the system model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Alveoli have thin walls and a large surface area”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-017",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system.”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a regional planning workshop, the evidence states, “Alveoli have thin walls and a large surface area”. Which response applies the system model most accurately?"
     },
     "answers": [
       "An organ works alone; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare organ with organ system. The evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare organ with organ system. The evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism”. Which conclusion uses evidence appropriately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-018",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “Comparing the structure and function of analogous systems in a plant and an animal.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In an equipment selection task, students compare organ with organ system. The evidence states, “A change at one level can affect survival of the whole organism”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, the evidence states, “Alveoli have thin walls and a large surface area.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, the evidence states, “Alveoli have thin walls and a large surface area.”. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Alveoli have thin walls and a large surface area.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Alveoli have thin walls and a large surface area.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. What is the strongest scientific response to this result?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-019",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Alveoli have thin walls and a large surface area.”. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a public information draft, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that biological organisation proceeds from specialised cells to tissues, organs and systems",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-020\"></use></svg>",
+    "question": "An independent replication study for From Cells to Organ Systems reports that compare specialised cell types and the jobs they perform. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for From Cells to Organ Systems reports that compare specialised cell types and the jobs they perform. Which revision would make the reasoning most reliable?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that compare specialised cell types and the jobs they perform. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that compare specialised cell types and the jobs they perform. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-020",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: An independent replication study for From Cells to Organ Systems reports that compare specialised cell types and the jobs they perform. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "All cells in an organ are the same; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are researching how a disorder in cells or tissues can affect how an organ functions. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are researching how a disorder in cells or tissues can affect how an organ functions. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, students are researching how a disorder in cells or tissues can affect how an organ functions. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, students are researching how a disorder in cells or tissues can affect how an organ functions. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Structure at each level supports function”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Structure at each level supports function”. Which interpretation is best supported?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, the evidence states, “Structure at each level supports function”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, the evidence states, “Structure at each level supports function”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-021",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, students are researching how a disorder in cells or tissues can affect how an organ functions. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a risk-assessment meeting, the evidence states, “Structure at each level supports function”. Which interpretation is best supported?"
     },
     "answers": [
       "An organ works alone; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “Biological organisation proceeds from specialised cells to tissues.”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “Biological organisation proceeds from specialised cells to tissues.”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “Biological organisation proceeds from specialised cells to tissues.”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “Biological organisation proceeds from specialised cells to tissues.”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which response applies the system model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which response applies the system model most accurately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which response applies the system model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-022",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “Biological organisation proceeds from specialised cells to tissues.”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a graph interpretation task, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which response applies the system model most accurately?"
     },
     "answers": [
       "The observation supports the idea that biological organisation proceeds from specialised cells to tissues, organs and systems, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare organ with organ system. Students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare organ with organ system. Students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. Students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. Students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare organ with organ system. The evidence states, “Trace its inputs”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare organ with organ system. The evidence states, “Trace its inputs”. Which conclusion uses evidence appropriately?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. The evidence states, “Trace its inputs”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. The evidence states, “Trace its inputs”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-023",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. Students are examining the specialised cells and tissues involved in structure and function of particular organs in. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a claim-evidence-reasoning response, students compare organ with organ system. The evidence states, “Trace its inputs”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. What is the strongest scientific response to this result?",
+    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-p-024",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “These structures shorten diffusion distance and increase gas exchange.”. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a scientific-method audit, the evidence states, “Biological organisation proceeds from specialised cells to tissues”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",

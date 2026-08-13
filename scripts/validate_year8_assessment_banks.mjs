@@ -161,6 +161,8 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
       else { localPrompts.add(prompt); globalPrompts.add(prompt); }
       if (GENERIC.some((pattern) => pattern.test(String(item.question)) || pattern.test(String(item.explanation)))) add(code, `${tag} generic curriculum prompt`);
       if (/\.\.\.|…/.test(String(item.question)) || answers(item).some((choice) => /\.\.\.|…/.test(String(choice?.text ?? choice)))) add(code, `${tag} truncated text`);
+      if (/\b(?:and|or|of|to|with|including|such as|the)\.(?:[”"']?\s|$)/i.test(String(item.question))) add(code, `${tag} sentence fragment`);
+      if (/[.!?][”"']?\.(?:\s|$)/.test(String(item.question))) add(code, `${tag} doubled punctuation`);
       if (item.audio_prompt !== item.question && item.audioPrompt !== item.question) add(code, `${tag} missing/mismatched audio prompt`);
       const choices = answers(item);
       if (choices.length !== 3) add(code, `${tag} does not have 3 choices`);
@@ -190,6 +192,7 @@ const result = {
   totals,
   requiredTotals: { practice: registryCodes.size * 24, test: registryCodes.size * 16, combined: registryCodes.size * 40 },
   failureCounts: Object.fromEntries(Object.entries(failures).sort((a, b) => b[1] - a[1])),
+  errorExamples: errors.slice(0, 20),
   checks: ["registry parity", "24/16 banks", "Practice/Test separation", "unique IDs/prompts", "3 choices", "answer keys", "balanced A/B/C positions", "audio parity", "summary/hint", "visual paths/SVG symbols/alt text", "full headings", "8/12 rotation", "QA badge absence"],
 };
 console.log(JSON.stringify(result, null, 2));

@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, the evidence states, “Comparing the observable properties of different types of rocks and identifying them using a provided.”. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, the evidence states, “Comparing the observable properties of different types of rocks and identifying them using a provided.”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Comparing the observable properties of different types of rocks and identifying them using a provided.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Comparing the observable properties of different types of rocks and identifying them using a provided.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-001",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Comparing the observable properties of different types of rocks and identifying them using a provided.”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a class investigation, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?"
     },
     "answers": [
       "Igneous, sedimentary and metamorphic rocks form through different processes; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a museum evidence display, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-002",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a museum evidence display, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?"
     },
     "answers": [
       "All rock-cycle changes take the same time; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered.”. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-003",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a field-team briefing, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, students are exploring the major processes of the rock cycle including weathering. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, students are exploring the major processes of the rock cycle including weathering. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, students are exploring the major processes of the rock cycle including weathering. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, students are exploring the major processes of the rock cycle including weathering. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-004",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, students are exploring the major processes of the rock cycle including weathering. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a laboratory notebook, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that igneous, sedimentary and metamorphic rocks form through different processes",
@@ -123,14 +123,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for Rocks Record Their Formation reports that investigating how First Nations Australians have used quarrying to access rocks for use as or production. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for Rocks Record Their Formation reports that investigating how First Nations Australians have used quarrying to access rocks for use as or production. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that investigating how First Nations Australians have used quarrying to access rocks for use as or production. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that investigating how First Nations Australians have used quarrying to access rocks for use as or production. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-005\"></use></svg>",
+    "question": "A community science meeting for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A community science meeting for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-005",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that investigating how First Nations Australians have used quarrying to access rocks for use as or production. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A community science meeting for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Every rock follows one fixed circular path; the same outcome must therefore occur in every setting",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, the evidence states, “Igneous.”. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, the evidence states, “Igneous.”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Igneous.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Igneous.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “Deposition”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “Deposition”. Which interpretation is best supported?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Deposition”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Deposition”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-006",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Igneous.”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a digital model review, the evidence states, “Deposition”. Which interpretation is best supported?"
     },
     "answers": [
       "All rock-cycle changes take the same time; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a student research poster, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-007",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a student research poster, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?"
     },
     "answers": [
       "The observation supports the idea that igneous, sedimentary and metamorphic rocks form through different processes, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare metamorphic with weathering and melting. Students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare metamorphic with weathering and melting. Students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. Students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. Students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-008",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. Students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an engineering design check, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, the evidence states, “Observable properties provide evidence of formation.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, the evidence states, “Observable properties provide evidence of formation.”. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Observable properties provide evidence of formation.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Observable properties provide evidence of formation.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-009",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Observable properties provide evidence of formation.”. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a data-team discussion, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Rocks Record Their Formation reports that examining fossil evidence. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Rocks Record Their Formation reports that examining fossil evidence. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that examining fossil evidence. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that examining fossil evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-010\"></use></svg>",
+    "question": "A school science report for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-010",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that examining fossil evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A school science report for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports igneous, sedimentary and metamorphic rocks form through different processes, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, the evidence states, “Sandstone contains visible grains in layers.”. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, the evidence states, “Sandstone contains visible grains in layers.”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Sandstone contains visible grains in layers.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Sandstone contains visible grains in layers.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “Its layered”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “Its layered”. Which interpretation is best supported?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Its layered”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Its layered”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-011",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Sandstone contains visible grains in layers.”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a council evidence summary, the evidence states, “Its layered”. Which interpretation is best supported?"
     },
     "answers": [
       "Every rock follows one fixed circular path; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses.”. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a peer-review conversation, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses.”. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses.”. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses.”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-012",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses.”. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a peer-review conversation, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?"
     },
     "answers": [
       "All rock-cycle changes take the same time; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare metamorphic with weathering and melting. Students are explaining the uses of different types of rocks with reference to their properties and formation. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare metamorphic with weathering and melting. Students are explaining the uses of different types of rocks with reference to their properties and formation. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. Students are explaining the uses of different types of rocks with reference to their properties and formation. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. Students are explaining the uses of different types of rocks with reference to their properties and formation. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-013",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. Students are explaining the uses of different types of rocks with reference to their properties and formation. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an environmental monitoring project, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links metamorphic with weathering and melting, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, the evidence states, “Deposition.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, the evidence states, “Deposition.”. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-014",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition.”. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a medical research case, the evidence states, “Deposition”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Rocks Record Their Formation reports that comparing the observable properties of different types of rocks and identifying them using a provided. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Rocks Record Their Formation reports that comparing the observable properties of different types of rocks and identifying them using a provided. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that comparing the observable properties of different types of rocks and identifying them using a provided. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that comparing the observable properties of different types of rocks and identifying them using a provided. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-015\"></use></svg>",
+    "question": "A science-news fact check for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-015",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that comparing the observable properties of different types of rocks and identifying them using a provided. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A science-news fact check for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Every rock follows one fixed circular path; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Igneous”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Igneous”. Which interpretation is best supported?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, the evidence states, “Igneous”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, the evidence states, “Igneous”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-016",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, students are exploring the traditional geological knowledges of First Nations Australians that are used in the. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a classroom model test, the evidence states, “Igneous”. Which interpretation is best supported?"
     },
     "answers": [
       "Igneous, sedimentary and metamorphic rocks form through different processes; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, the evidence states, “Its layered.”. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a regional planning workshop, the evidence states, “Its layered.”. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Its layered.”. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Its layered.”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “Sandstone contains visible grains in layers”. Which response applies the cycle model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “Sandstone contains visible grains in layers”. Which response applies the cycle model most accurately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Sandstone contains visible grains in layers”. Which response applies the cycle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Sandstone contains visible grains in layers”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-017",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Its layered.”. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a regional planning workshop, the evidence states, “Sandstone contains visible grains in layers”. Which response applies the cycle model most accurately?"
     },
     "answers": [
       "Every rock follows one fixed circular path; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare metamorphic with weathering and melting. Students are exploring the major processes of the rock cycle including weathering. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare metamorphic with weathering and melting. Students are exploring the major processes of the rock cycle including weathering. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. Students are exploring the major processes of the rock cycle including weathering. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. Students are exploring the major processes of the rock cycle including weathering. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare metamorphic with weathering and melting. The evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare metamorphic with weathering and melting. The evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which conclusion uses evidence appropriately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. The evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. The evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-018",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. Students are exploring the major processes of the rock cycle including weathering. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In an equipment selection task, students compare metamorphic with weathering and melting. The evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, students are investigating how First Nations Australians have used quarrying to access rocks for use as or production. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, students are investigating how First Nations Australians have used quarrying to access rocks for use as or production. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, students are investigating how First Nations Australians have used quarrying to access rocks for use as or production. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, students are investigating how First Nations Australians have used quarrying to access rocks for use as or production. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “Its layered”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “Its layered”. What is the strongest scientific response to this result?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, the evidence states, “Its layered”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, the evidence states, “Its layered”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-019",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, students are investigating how First Nations Australians have used quarrying to access rocks for use as or production. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a public information draft, the evidence states, “Its layered”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that igneous, sedimentary and metamorphic rocks form through different processes",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-020\"></use></svg>",
+    "question": "An independent replication study for Rocks Record Their Formation reports that contrast rapid eruption and cooling with slow burial and metamorphism. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for Rocks Record Their Formation reports that contrast rapid eruption and cooling with slow burial and metamorphism. Which revision would make the reasoning most reliable?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that contrast rapid eruption and cooling with slow burial and metamorphism. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that contrast rapid eruption and cooling with slow burial and metamorphism. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-020",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: An independent replication study for Rocks Record Their Formation reports that contrast rapid eruption and cooling with slow burial and metamorphism. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "All rock-cycle changes take the same time; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Observable properties provide evidence of formation”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Observable properties provide evidence of formation”. Which interpretation is best supported?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, the evidence states, “Observable properties provide evidence of formation”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, the evidence states, “Observable properties provide evidence of formation”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-021",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, students are analysing the role of forces and heat energy in the formation of different types of rocks and comparing. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a risk-assessment meeting, the evidence states, “Observable properties provide evidence of formation”. Which interpretation is best supported?"
     },
     "answers": [
       "Every rock follows one fixed circular path; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a graph interpretation task, students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “Deposition”. Which response applies the cycle model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “Deposition”. Which response applies the cycle model most accurately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, the evidence states, “Deposition”. Which response applies the cycle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, the evidence states, “Deposition”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-022",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, students are exploring how the mining of ores and minerals impacts on local environments and examining environmental. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a graph interpretation task, the evidence states, “Deposition”. Which response applies the cycle model most accurately?"
     },
     "answers": [
       "The observation supports the idea that igneous, sedimentary and metamorphic rocks form through different processes, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation.”. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Trace several possible routes through the network”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Trace several possible routes through the network”. Which conclusion uses evidence appropriately?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Trace several possible routes through the network”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Trace several possible routes through the network”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-023",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a claim-evidence-reasoning response, students compare metamorphic with weathering and melting. The evidence states, “Trace several possible routes through the network”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, students are examining fossil evidence. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, students are examining fossil evidence. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, students are examining fossil evidence. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, students are examining fossil evidence. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Igneous”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Igneous”. What is the strongest scientific response to this result?",
+    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, the evidence states, “Igneous”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, the evidence states, “Igneous”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-p-024",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, students are examining fossil evidence. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a scientific-method audit, the evidence states, “Igneous”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
