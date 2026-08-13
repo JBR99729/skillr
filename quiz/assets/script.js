@@ -3265,7 +3265,36 @@ function renderImageDragState(
     );
   }
 
-  function printCertificate(percentage) {
+  const logoSources = [
+    "/icons/icon-512.png",
+    "/icons/apple-touch-icon.png"
+  ];
+
+  async function fetchImageDataUrl(url) {
+    try {
+      const response = await fetch(url, { credentials: "same-origin" });
+      if (!response.ok) return null;
+      const blob = await response.blob();
+      return await new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = () => resolve(null);
+        reader.readAsDataURL(blob);
+      });
+    } catch {
+      return null;
+    }
+  }
+
+  async function loadLogoDataUrl() {
+    for (const url of logoSources) {
+      const dataUrl = await fetchImageDataUrl(url);
+      if (dataUrl) return dataUrl;
+    }
+    return null;
+  }
+
+  async function printCertificate(percentage) {
     const studentName =
       getStudentName() || "Student";
 
@@ -3275,18 +3304,24 @@ function renderImageDragState(
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;");
 
-    const certificateWindow =
-      window.open("", "_blank");
+    try {
+      const certificateWindow =
+        window.open("", "_blank");
 
-    if (!certificateWindow) {
-      alert(
-        "Please allow pop-ups to print the certificate."
-      );
-      return;
-    }
+      if (!certificateWindow) {
+        alert(
+          "Please allow pop-ups to print the certificate."
+        );
+        return;
+      }
 
-    certificateWindow.document.write(
-      `<!DOCTYPE html>
+      const logoDataUrl = await loadLogoDataUrl();
+      const logoMarkup = logoDataUrl
+        ? `<img class="certificate-logo" src="${escapeCertificateText(logoDataUrl)}" alt="">`
+        : "";
+
+      certificateWindow.document.write(
+        `<!DOCTYPE html>
       <html lang="en-AU">
       <head>
         <meta charset="UTF-8">
@@ -3325,6 +3360,13 @@ function renderImageDragState(
             justify-content: center;
             break-inside: avoid;
             page-break-inside: avoid;
+          }
+          .certificate-logo {
+            display: block;
+            width: 1.05in;
+            height: 1.05in;
+            margin: 0 auto 0.15in;
+            object-fit: contain;
           }
           .certificate p {
             margin: 0.12in 0;
@@ -3372,10 +3414,11 @@ function renderImageDragState(
               overflow: hidden;
             }
           }
-        </style>
+      </style>
       </head>
       <body>
         <section class="certificate">
+          ${logoMarkup}
           <p class="brand">SkillrHub Learning</p>
           <h1>Completion Certificate</h1>
           <p>This certifies that</p>
@@ -3387,11 +3430,15 @@ function renderImageDragState(
         </section>
       </body>
       </html>`
-    );
+      );
 
-    certificateWindow.document.close();
-    certificateWindow.focus();
-    certificateWindow.print();
+      certificateWindow.document.close();
+      certificateWindow.focus();
+      certificateWindow.print();
+    } catch (error) {
+      console.error("Certificate print failed:", error);
+      alert("The certificate could not be prepared right now.");
+    }
   }
 
   function updateCertificateAction(percentage) {
@@ -3425,7 +3472,9 @@ function renderImageDragState(
 
     button.addEventListener(
       "click",
-      () => printCertificate(percentage)
+      () => {
+        void printCertificate(percentage);
+      }
     );
 
     const actions =
