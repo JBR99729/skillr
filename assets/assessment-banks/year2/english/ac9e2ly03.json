@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY03-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "safety_poster_purpose_apply",
+    "question": "A poster says, ‘Wear a helmet every time you ride.’ What is its main purpose?",
+    "audio_prompt": "A poster says, ‘Wear a helmet every time you ride.’ What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-001",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Safety poster purpose. Notice: Identify imaginative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to explain why helmets are made from hard materials",
+        "is_correct": false
+      },
+      {
+        "text": "to recount what happened on one child's bike ride",
+        "is_correct": false
+      },
+      {
+        "text": "to persuade riders to act safely",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The command urges riders to take a safety action.",
+      "hint": "Ask what the poster wants its audience to do."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "safety_poster_purpose_reason",
+    "question": "A student answers “to explain why helmets are made from hard materials”. Which feedback helps? Task: A poster says, ‘Wear a helmet every time you ride.’ What is its main purpose?",
+    "audio_prompt": "A student answers “to explain why helmets are made from hard materials”. Which feedback helps? Task: A poster says, ‘Wear a helmet every time you ride.’ What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-002",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Safety poster purpose. Notice: Identify imaginative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Ask what the poster wants its audience to do.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “to explain why helmets are made from hard materials”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “to recount what happened on one child's bike ride” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ask what the poster wants its audience to do. The command urges riders to take a safety action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "frog_report_purpose_apply",
+    "question": "A page has the heading ‘Frog Habitats’, factual sentences and a labelled pond diagram. What is its purpose?",
+    "audio_prompt": "A page has the heading ‘Frog Habitats’, factual sentences and a labelled pond diagram. What is its purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-003",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Frog report purpose. Notice: Identify informative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to give steps for building a frog pond",
+        "is_correct": false
+      },
+      {
+        "text": "to inform readers about where frogs live",
+        "is_correct": true
+      },
+      {
+        "text": "to convince readers that frogs make the best pets",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The heading, facts and labels provide information about frog habitats.",
+      "hint": "Use the text features as evidence for its purpose."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "frog_report_purpose_reason",
+    "question": "A student answers “to convince readers that frogs make the best pets”. Which feedback helps? Task: A page has the heading ‘Frog Habitats’, factual sentences and a labelled pond diagram. What is its purpose?",
+    "audio_prompt": "A student answers “to convince readers that frogs make the best pets”. Which feedback helps? Task: A page has the heading ‘Frog Habitats’, factual sentences and a labelled pond diagram. What is its purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-004",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Frog report purpose. Notice: Identify informative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “to convince readers that frogs make the best pets”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “to give steps for building a frog pond” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the text features as evidence for its purpose.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the text features as evidence for its purpose. The heading, facts and labels provide information about frog habitats.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "imaginative_text_clues_apply",
+    "question": "A text begins, ‘At midnight, the tiny dragon unlocked the moon gate.’ What is the most likely purpose?",
+    "audio_prompt": "A text begins, ‘At midnight, the tiny dragon unlocked the moon gate.’ What is the most likely purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-005",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Imaginative text clues. Notice: Identify persuasive purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to entertain readers with an imagined event",
+        "is_correct": true
+      },
+      {
+        "text": "to give exact moon-gate safety rules",
+        "is_correct": false
+      },
+      {
+        "text": "to list scientific facts about dragons",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The invented character and magical event signal an imaginative purpose.",
+      "hint": "Look for story clues that could not be a factual explanation."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "imaginative_text_clues_reason",
+    "question": "A student answers “to give exact moon-gate safety rules”. Which feedback helps? Task: A text begins, ‘At midnight, the tiny dragon unlocked the moon gate.’ What is the most likely purpose?",
+    "audio_prompt": "A student answers “to give exact moon-gate safety rules”. Which feedback helps? Task: A text begins, ‘At midnight, the tiny dragon unlocked the moon gate.’ What is the most likely purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-006",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Imaginative text clues. Notice: Identify persuasive purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “to give exact moon-gate safety rules”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for story clues that could not be a factual explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “to list scientific facts about dragons” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for story clues that could not be a factual explanation. The invented character and magical event signal an imaginative purpose.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "advertisement_audience_apply",
+    "question": "An advertisement shows a bright lunch box and says, ‘Easy lids for little hands!’ Who is it mainly trying to influence?",
+    "audio_prompt": "An advertisement shows a bright lunch box and says, ‘Easy lids for little hands!’ Who is it mainly trying to influence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-007",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Advertisement audience. Notice: Identify audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "teachers choosing storage tubs for classroom pencils",
+        "is_correct": false
+      },
+      {
+        "text": "shop workers deciding where to stack lunch boxes",
+        "is_correct": false
+      },
+      {
+        "text": "families choosing lunch boxes for young children",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The product and wording address families who need a child-friendly lunch box.",
+      "hint": "Ask who would use or choose the advertised item."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "advertisement_audience_reason",
+    "question": "A student answers “shop workers deciding where to stack lunch boxes”. Which feedback helps? Task: An advertisement shows a bright lunch box and says, ‘Easy lids for little hands!’ Who is it mainly trying to influence?",
+    "audio_prompt": "A student answers “shop workers deciding where to stack lunch boxes”. Which feedback helps? Task: An advertisement shows a bright lunch box and says, ‘Easy lids for little hands!’ Who is it mainly trying to influence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-008",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Advertisement audience. Notice: Identify audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Ask who would use or choose the advertised item.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “shop workers deciding where to stack lunch boxes”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “teachers choosing storage tubs for classroom pencils” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ask who would use or choose the advertised item. The product and wording address families who need a child-friendly lunch box.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "audience_language_choice_apply",
+    "question": "Which sentence best suits an information card for young children at a zoo?",
+    "audio_prompt": "Which sentence best suits an information card for young children at a zoo?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-009",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Audience language choice. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The arboreal marsupial exhibits extended inactivity.",
+        "is_correct": false
+      },
+      {
+        "text": "Koalas sleep for many hours each day.",
+        "is_correct": true
+      },
+      {
+        "text": "Koalas are the most wonderful animals at the zoo!",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The accurate, familiar wording informs young zoo visitors clearly.",
+      "hint": "Match the vocabulary to young readers and an informative purpose."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "audience_language_choice_reason",
+    "question": "A student answers “The arboreal marsupial exhibits extended inactivity.”. Which feedback helps? Task: Which sentence best suits an information card for young children at a zoo?",
+    "audio_prompt": "A student answers “The arboreal marsupial exhibits extended inactivity.”. Which feedback helps? Task: Which sentence best suits an information card for young children at a zoo?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-010",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Audience language choice. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The arboreal marsupial exhibits extended inactivity.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Koalas are the most wonderful animals at the zoo!” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the vocabulary to young readers and an informative purpose.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the vocabulary to young readers and an informative purpose. The accurate, familiar wording informs young zoo visitors clearly.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "topic_is_not_purpose_apply",
+    "question": "Two texts are about dogs. One tells a funny dog story; the other explains dog care. What is true?",
+    "audio_prompt": "Two texts are about dogs. One tells a funny dog story; the other explains dog care. What is true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-011",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Topic is not purpose. Notice: Identify imaginative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "They share a topic but have different purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "They must have the same purpose because both mention dogs.",
+        "is_correct": false
+      },
+      {
+        "text": "They must have different topics because one uses facts and one uses events.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Topic tells what texts are about; story and care guide show different purposes.",
+      "hint": "Separate the subject matter from what each text is designed to do."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "topic_is_not_purpose_reason",
+    "question": "A student answers “They must have different topics because one uses facts and one uses events.”. Which feedback helps? Task: Two texts are about dogs. One tells a funny dog story; the other explains dog care. What is true?",
+    "audio_prompt": "A student answers “They must have different topics because one uses facts and one uses events.”. Which feedback helps? Task: Two texts are about dogs. One tells a funny dog story; the other explains dog care. What is true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-012",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Topic is not purpose. Notice: Identify imaginative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “They must have different topics because one uses facts and one uses events.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Separate the subject matter from what each text is designed to do.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “They must have the same purpose because both mention dogs.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Separate the subject matter from what each text is designed to do. Topic tells what texts are about; story and care guide show different purposes.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "persuasive_choice_for_families_apply",
+    "question": "A school wants families to walk to school more often. Which line best suits a persuasive flyer?",
+    "audio_prompt": "A school wants families to walk to school more often. Which line best suits a persuasive flyer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-013",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Persuasive choice for families. Notice: Identify informative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Some families walk to school on Friday mornings.",
+        "is_correct": false
+      },
+      {
+        "text": "First put on your shoes, then walk towards the school gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Walk with us on Fridays for a safer, healthier trip!",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The line directly invites families and gives positive reasons to act.",
+      "hint": "Choose wording that encourages the intended audience."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "persuasive_choice_for_families_reason",
+    "question": "A student answers “Some families walk to school on Friday mornings.”. Which feedback helps? Task: A school wants families to walk to school more often. Which line best suits a persuasive flyer?",
+    "audio_prompt": "A student answers “Some families walk to school on Friday mornings.”. Which feedback helps? Task: A school wants families to walk to school more often. Which line best suits a persuasive flyer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-014",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Persuasive choice for families. Notice: Identify informative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose wording that encourages the intended audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Some families walk to school on Friday mornings.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “First put on your shoes, then walk towards the school gate.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose wording that encourages the intended audience. The line directly invites families and gives positive reasons to act.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "library_sign_audience_apply",
+    "question": "A sign beside picture books says, ‘Choose one book, then return it to this basket.’ Who is the sign mainly for?",
+    "audio_prompt": "A sign beside picture books says, ‘Choose one book, then return it to this basket.’ Who is the sign mainly for?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-015",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Library sign audience. Notice: Identify persuasive purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "all visitors returning any kind of library book",
+        "is_correct": false
+      },
+      {
+        "text": "young library visitors choosing picture books",
+        "is_correct": true
+      },
+      {
+        "text": "adults choosing long chapter books from another shelf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The simple directions and location beside picture books identify young library users.",
+      "hint": "Use the placement and wording to infer who needs the message."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "library_sign_audience_reason",
+    "question": "A student answers “adults choosing long chapter books from another shelf”. Which feedback helps? Task: A sign beside picture books says, ‘Choose one book, then return it to this basket.’ Who is the sign mainly for?",
+    "audio_prompt": "A student answers “adults choosing long chapter books from another shelf”. Which feedback helps? Task: A sign beside picture books says, ‘Choose one book, then return it to this basket.’ Who is the sign mainly for?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-016",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Library sign audience. Notice: Identify persuasive purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “adults choosing long chapter books from another shelf”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “all visitors returning any kind of library book” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the placement and wording to infer who needs the message.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the placement and wording to infer who needs the message. The simple directions and location beside picture books identify young library users.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "recipe_purpose_apply",
+    "question": "A page lists ingredients and numbered steps for damper. What is its main purpose?",
+    "audio_prompt": "A page lists ingredients and numbered steps for damper. What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-017",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Recipe purpose. Notice: Identify audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to instruct readers how to make damper",
+        "is_correct": true
+      },
+      {
+        "text": "to persuade readers that one bakery is best",
+        "is_correct": false
+      },
+      {
+        "text": "to entertain with a fictional baker's adventure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ingredients and ordered steps are features of an instructional recipe.",
+      "hint": "Ask what a reader can do by following the page."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "recipe_purpose_reason",
+    "question": "A student answers “to persuade readers that one bakery is best”. Which feedback helps? Task: A page lists ingredients and numbered steps for damper. What is its main purpose?",
+    "audio_prompt": "A student answers “to persuade readers that one bakery is best”. Which feedback helps? Task: A page lists ingredients and numbered steps for damper. What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-018",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Recipe purpose. Notice: Identify audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “to persuade readers that one bakery is best”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what a reader can do by following the page.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “to entertain with a fictional baker's adventure” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ask what a reader can do by following the page. Ingredients and ordered steps are features of an instructional recipe.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "audience_for_a_story_apply",
+    "question": "A story uses short chapters, familiar school events and Year 2 characters. Who is a likely audience?",
+    "audio_prompt": "A story uses short chapters, familiar school events and Year 2 characters. Who is a likely audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-019",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Audience for a story. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "preschool children who need single words and picture clues",
+        "is_correct": false
+      },
+      {
+        "text": "adults seeking detailed school policies and rules",
+        "is_correct": false
+      },
+      {
+        "text": "primary-school readers",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The language, setting and characters are designed to connect with primary-school readers.",
+      "hint": "Combine clues from vocabulary, content and design."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "audience_for_a_story_reason",
+    "question": "A student answers “adults seeking detailed school policies and rules”. Which feedback helps? Task: A story uses short chapters, familiar school events and Year 2 characters. Who is a likely audience?",
+    "audio_prompt": "A student answers “adults seeking detailed school policies and rules”. Which feedback helps? Task: A story uses short chapters, familiar school events and Year 2 characters. Who is a likely audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-020",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Audience for a story. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Combine clues from vocabulary, content and design.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “adults seeking detailed school policies and rules”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “preschool children who need single words and picture clues” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine clues from vocabulary, content and design. The language, setting and characters are designed to connect with primary-school readers.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "informative_audio_text_apply",
+    "question": "A short podcast explains why magpies sing and includes recorded bird calls. What is its main purpose?",
+    "audio_prompt": "A short podcast explains why magpies sing and includes recorded bird calls. What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-021",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Informative audio text. Notice: Identify imaginative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to persuade listeners to feed magpies near their homes",
+        "is_correct": false
+      },
+      {
+        "text": "to inform listeners about magpie calls",
+        "is_correct": true
+      },
+      {
+        "text": "to entertain listeners with a made-up singing-magpie story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The explanation and examples provide factual information in audio form.",
+      "hint": "Use what the speaker explains and demonstrates as evidence."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "informative_audio_text_reason",
+    "question": "A student answers “to persuade listeners to feed magpies near their homes”. Which feedback helps? Task: A short podcast explains why magpies sing and includes recorded bird calls. What is its main purpose?",
+    "audio_prompt": "A student answers “to persuade listeners to feed magpies near their homes”. Which feedback helps? Task: A short podcast explains why magpies sing and includes recorded bird calls. What is its main purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-022",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Informative audio text. Notice: Identify imaginative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “to persuade listeners to feed magpies near their homes”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “to entertain listeners with a made-up singing-magpie story” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use what the speaker explains and demonstrates as evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use what the speaker explains and demonstrates as evidence. The explanation and examples provide factual information in audio form.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "same_topic_different_audience_apply",
+    "question": "Two texts explain handwashing. One uses simple pictures for young children; one gives detailed notes for nurses. What mainly differs?",
+    "audio_prompt": "Two texts explain handwashing. One uses simple pictures for young children; one gives detailed notes for nurses. What mainly differs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-023",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Same topic different audience. Notice: Identify informative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the intended audience and amount of detail",
+        "is_correct": true
+      },
+      {
+        "text": "the topic, because only one is about hygiene",
+        "is_correct": false
+      },
+      {
+        "text": "the language, because both must use the same words",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both share a topic but adjust vocabulary and detail for different audiences.",
+      "hint": "Compare who will use each text and what each group needs."
+    }
+  },
+  {
+    "id": "AC9E2LY03-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "practice",
+    "skill": "same_topic_different_audience_reason",
+    "question": "A student answers “the language, because both must use the same words”. Which feedback helps? Task: Two texts explain handwashing. One uses simple pictures for young children; one gives detailed notes for nurses. What mainly differs?",
+    "audio_prompt": "A student answers “the language, because both must use the same words”. Which feedback helps? Task: Two texts explain handwashing. One uses simple pictures for young children; one gives detailed notes for nurses. What mainly differs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-p-024",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: Same topic different audience. Notice: Identify informative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the language, because both must use the same words”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare who will use each text and what each group needs.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the topic, because only one is about hygiene” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare who will use each text and what each group needs. Both share a topic but adjust vocabulary and detail for different audiences.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_museum_label_apply",
+    "question": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "audio_prompt": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-001",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: museum label. Notice: Identify imaginative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "teach visitors how to build the canoe step by step",
+        "is_correct": false
+      },
+      {
+        "text": "convince visitors that this canoe is the museum's best object",
+        "is_correct": false
+      },
+      {
+        "text": "inform visitors about the displayed canoe",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Names, dates and material details provide information about an exhibit.",
+      "hint": "Use the factual details and museum setting as clues."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_museum_label_reason",
+    "question": "A student answers “teach visitors how to build the canoe step by step”. Which feedback helps? Task: A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "audio_prompt": "A student answers “teach visitors how to build the canoe step by step”. Which feedback helps? Task: A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-002",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: museum label. Notice: Identify imaginative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the factual details and museum setting as clues.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “teach visitors how to build the canoe step by step”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “convince visitors that this canoe is the museum's best object” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the factual details and museum setting as clues. Names, dates and material details provide information about an exhibit.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_party_invitation_apply",
+    "question": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "audio_prompt": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-003",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: party invitation. Notice: Identify informative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "all students who enjoy picnics but were not invited",
+        "is_correct": false
+      },
+      {
+        "text": "people invited to the class picnic",
+        "is_correct": true
+      },
+      {
+        "text": "people reading a recount after the picnic has finished",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Event details and the invitation address the people expected at the picnic.",
+      "hint": "Ask who needs the date, time and place."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_party_invitation_reason",
+    "question": "A student answers “people reading a recount after the picnic has finished”. Which feedback helps? Task: A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "audio_prompt": "A student answers “people reading a recount after the picnic has finished”. Which feedback helps? Task: A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-004",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: party invitation. Notice: Identify informative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “people reading a recount after the picnic has finished”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “all students who enjoy picnics but were not invited” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask who needs the date, time and place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ask who needs the date, time and place. Event details and the invitation address the people expected at the picnic.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_persuasive_community_message_apply",
+    "question": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "audio_prompt": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-005",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: persuasive community message. Notice: Identify persuasive purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It asks visitors to act and gives a reason.",
+        "is_correct": true
+      },
+      {
+        "text": "It explains several turtle species with labelled facts.",
+        "is_correct": false
+      },
+      {
+        "text": "It recounts what one visitor saw beside the creek.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request and safety reason are designed to influence visitor behaviour.",
+      "hint": "Find the language that encourages an action."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_persuasive_community_message_reason",
+    "question": "A student answers “It explains several turtle species with labelled facts.”. Which feedback helps? Task: A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "audio_prompt": "A student answers “It explains several turtle species with labelled facts.”. Which feedback helps? Task: A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-006",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: persuasive community message. Notice: Identify persuasive purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “It explains several turtle species with labelled facts.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the language that encourages an action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “It recounts what one visitor saw beside the creek.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the language that encourages an action. The request and safety reason are designed to influence visitor behaviour.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_imaginative_audience_clue_apply",
+    "question": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "audio_prompt": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-007",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: imaginative audience clue. Notice: Identify audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "older readers wanting long chapters without picture support",
+        "is_correct": false
+      },
+      {
+        "text": "adults choosing a detailed factual wildlife guide",
+        "is_correct": false
+      },
+      {
+        "text": "young children listening or beginning to read",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Large print, repetition and playful pictures support young children.",
+      "hint": "Use several design and language clues together."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_imaginative_audience_clue_reason",
+    "question": "A student answers “adults choosing a detailed factual wildlife guide”. Which feedback helps? Task: A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "audio_prompt": "A student answers “adults choosing a detailed factual wildlife guide”. Which feedback helps? Task: A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-008",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: imaginative audience clue. Notice: Identify audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use several design and language clues together.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “adults choosing a detailed factual wildlife guide”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “older readers wanting long chapters without picture support” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use several design and language clues together. Large print, repetition and playful pictures support young children.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_instructions_for_classmates_apply",
+    "question": "Which opening suits spoken instructions for classmates making a paper fan?",
+    "audio_prompt": "Which opening suits spoken instructions for classmates making a paper fan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-009",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: instructions for classmates. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Fold the paper until it looks like a fan.",
+        "is_correct": false
+      },
+      {
+        "text": "You need one sheet of paper. First, fold the bottom edge up.",
+        "is_correct": true
+      },
+      {
+        "text": "Paper fans can help people feel cooler on a hot day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening names the material and begins a clear ordered procedure.",
+      "hint": "Match the wording to a familiar audience that must complete a task."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_instructions_for_classmates_reason",
+    "question": "A student answers “Fold the paper until it looks like a fan.”. Which feedback helps? Task: Which opening suits spoken instructions for classmates making a paper fan?",
+    "audio_prompt": "A student answers “Fold the paper until it looks like a fan.”. Which feedback helps? Task: Which opening suits spoken instructions for classmates making a paper fan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-010",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: instructions for classmates. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Fold the paper until it looks like a fan.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Paper fans can help people feel cooler on a hot day.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the wording to a familiar audience that must complete a task.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the wording to a familiar audience that must complete a task. The opening names the material and begins a clear ordered procedure.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_same_topic_new_purpose_apply",
+    "question": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "audio_prompt": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-011",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: same topic new purpose. Notice: Identify imaginative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The purpose changed from informing to persuading.",
+        "is_correct": true
+      },
+      {
+        "text": "The topic changed because the poster uses fewer shark facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the layout changed; the purpose stayed informative.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The report provides facts, while the poster urges readers to protect habitats.",
+      "hint": "Notice whether the text explains information or asks for action."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_same_topic_new_purpose_reason",
+    "question": "A student answers “Only the layout changed; the purpose stayed informative.”. Which feedback helps? Task: A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "audio_prompt": "A student answers “Only the layout changed; the purpose stayed informative.”. Which feedback helps? Task: A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-012",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: same topic new purpose. Notice: Identify imaginative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Only the layout changed; the purpose stayed informative.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice whether the text explains information or asks for action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The topic changed because the poster uses fewer shark facts.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Notice whether the text explains information or asks for action. The report provides facts, while the poster urges readers to protect habitats.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_weather_alert_apply",
+    "question": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "audio_prompt": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-013",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: weather alert. Notice: Identify informative purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to explain storm types to students doing a weather project",
+        "is_correct": false
+      },
+      {
+        "text": "to report yesterday's storm after the danger has passed",
+        "is_correct": false
+      },
+      {
+        "text": "to warn people in the area and prompt safe action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The urgent warning and command address people who may be in danger.",
+      "hint": "Use the immediate action words and delivery context as evidence."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_weather_alert_reason",
+    "question": "A student answers “to explain storm types to students doing a weather project”. Which feedback helps? Task: A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "audio_prompt": "A student answers “to explain storm types to students doing a weather project”. Which feedback helps? Task: A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-014",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: weather alert. Notice: Identify informative purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the immediate action words and delivery context as evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “to explain storm types to students doing a weather project”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “to report yesterday's storm after the danger has passed” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the immediate action words and delivery context as evidence. The urgent warning and command address people who may be in danger.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_council_playground_poster_apply",
+    "question": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "audio_prompt": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-015",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: council playground poster. Notice: Identify persuasive purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a fictional story with no plan pictures",
+        "is_correct": false
+      },
+      {
+        "text": "clear pictures of both plans and directions for voting",
+        "is_correct": true
+      },
+      {
+        "text": "technical building details with no voting information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The audience needs to compare the choices and know how to respond.",
+      "hint": "Match the design features to families making a decision."
+    }
+  },
+  {
+    "id": "AC9E2LY03-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY03",
+    "bank": "test",
+    "skill": "test_council_playground_poster_reason",
+    "question": "A student answers “technical building details with no voting information”. Which feedback helps? Task: A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "audio_prompt": "A student answers “technical building details with no voting information”. Which feedback helps? Task: A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly03.svg#ac9e2ly03-t-016",
+      "alt_text": "Three-step Purpose and Audience organiser. Read: council playground poster. Notice: Identify persuasive purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “technical building details with no voting information”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a fictional story with no plan pictures” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the design features to families making a decision.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the design features to families making a decision. The audience needs to compare the choices and know how to respond.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

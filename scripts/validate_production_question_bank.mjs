@@ -27,7 +27,8 @@ for (const [index, item] of items.entries()) {
   if (prompts.has(promptKey)) errors.push(`${where}: duplicate prompt with ${prompts.get(promptKey)}`);
   prompts.set(promptKey, where);
   if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${where}: early-years item must have exactly 3 answers`);
-  if (new Set((item.answers || []).map((answer) => String(answer.text).trim().toLowerCase())).size !== (item.answers || []).length) errors.push(`${where}: duplicate answer choices`);
+  if (item.audio_answers !== undefined && (!Array.isArray(item.audio_answers) || item.audio_answers.length !== item.answers?.length || item.audio_answers.some((answer) => !String(answer).trim()))) errors.push(`${where}: audio_answers must describe every visible answer`);
+  if (new Set((item.answers || []).map((answer) => String(answer.text).replace(/\s+/g, " ").trim())).size !== (item.answers || []).length) errors.push(`${where}: duplicate answer choices`);
   const correct = (item.answers || []).filter((answer) => answer.is_correct);
   if (correct.length !== 1) errors.push(`${where}: expected exactly one correct answer`);
   if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index > 2) errors.push(`${where}: invalid correct_index`);

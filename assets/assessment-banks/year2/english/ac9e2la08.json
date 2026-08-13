@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA08-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "read_a_cave_image_clue_apply",
+    "question": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "audio_prompt": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-001",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read a cave image clue. Notice: Observe image details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Niko has just finished exploring and is closing the cave.",
+        "is_correct": false
+      },
+      {
+        "text": "Niko may be about to explore the dark cave.",
+        "is_correct": true
+      },
+      {
+        "text": "Niko is using the torch only to look at the door.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The torch and dark cave add setting and suggest an exploration not stated in the words.",
+      "hint": "Combine the direction of the open door with the place and object shown."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "read_a_cave_image_clue_reason",
+    "question": "A student answers “Niko has just finished exploring and is closing the cave.”. Which feedback helps? Task: Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "audio_prompt": "A student answers “Niko has just finished exploring and is closing the cave.”. Which feedback helps? Task: Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-002",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read a cave image clue. Notice: Observe image details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Niko has just finished exploring and is closing the cave.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Niko is using the torch only to look at the door.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Combine the direction of the open door with the place and object shown.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine the direction of the open door with the place and object shown. The torch and dark cave add setting and suggest an exploration not stated in the words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "infer_worry_from_a_face_apply",
+    "question": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "audio_prompt": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-003",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Infer worry from a face. Notice: Read written meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Jo feels worried about the race.",
+        "is_correct": true
+      },
+      {
+        "text": "Jo feels excited and sure she will win.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo feels surprised because the race is over.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Wide eyes and a bitten lip are visual clues that Jo is worried.",
+      "hint": "Notice the face and body clues, then connect them to the coming event."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "infer_worry_from_a_face_reason",
+    "question": "A student answers “Jo feels surprised because the race is over.”. Which feedback helps? Task: Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "audio_prompt": "A student answers “Jo feels surprised because the race is over.”. Which feedback helps? Task: Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-004",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Infer worry from a face. Notice: Read written meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Jo feels surprised because the race is over.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice the face and body clues, then connect them to the coming event.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Jo feels excited and sure she will win.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Notice the face and body clues, then connect them to the coming event. Wide eyes and a bitten lip are visual clues that Jo is worried.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "use_diagram_labels_apply",
+    "question": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "audio_prompt": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-005",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Use diagram labels. Notice: Identify added information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the order in which the three parts grow",
+        "is_correct": false
+      },
+      {
+        "text": "the size the whole plant will reach",
+        "is_correct": false
+      },
+      {
+        "text": "the names and places of the seed parts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The labelled diagram adds specific information about parts and where they are.",
+      "hint": "Read what the labels point to, rather than guessing a sequence or future size."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "use_diagram_labels_reason",
+    "question": "A student answers “the order in which the three parts grow”. Which feedback helps? Task: A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "audio_prompt": "A student answers “the order in which the three parts grow”. Which feedback helps? Task: A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-006",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Use diagram labels. Notice: Identify added information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Read what the labels point to, rather than guessing a sequence or future size.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the order in which the three parts grow”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the size the whole plant will reach” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read what the labels point to, rather than guessing a sequence or future size. The labelled diagram adds specific information about parts and where they are.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "follow_picture_order_apply",
+    "question": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "audio_prompt": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-007",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Follow picture order. Notice: Make an inference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "They show that getting the cloth caused the spill.",
+        "is_correct": false
+      },
+      {
+        "text": "They show the order used to clean the spill.",
+        "is_correct": true
+      },
+      {
+        "text": "They show the cleaning actions but not which comes first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The numbered pictures make the sequence of actions clear.",
+      "hint": "Track the panel numbers and what changes from first to last."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "follow_picture_order_reason",
+    "question": "A student answers “They show the cleaning actions but not which comes first.”. Which feedback helps? Task: A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "audio_prompt": "A student answers “They show the cleaning actions but not which comes first.”. Which feedback helps? Task: A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-008",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Follow picture order. Notice: Make an inference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “They show the cleaning actions but not which comes first.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “They show that getting the cloth caused the spill.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Track the panel numbers and what changes from first to last.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Track the panel numbers and what changes from first to last. The numbered pictures make the sequence of actions clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "add_a_storm_warning_apply",
+    "question": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "audio_prompt": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-009",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Add a storm warning. Notice: Explain combined meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A storm may make the walk difficult.",
+        "is_correct": true
+      },
+      {
+        "text": "The clouds show that night has already begun.",
+        "is_correct": false
+      },
+      {
+        "text": "The walkers will stay dry without changing their plan.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dark clouds add a warning and support a prediction about a storm.",
+      "hint": "Use the weather clue to predict how it may affect the walk."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "add_a_storm_warning_reason",
+    "question": "A student answers “The clouds show that night has already begun.”. Which feedback helps? Task: Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "audio_prompt": "A student answers “The clouds show that night has already begun.”. Which feedback helps? Task: Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-010",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Add a storm warning. Notice: Explain combined meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The clouds show that night has already begun.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the weather clue to predict how it may affect the walk.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The walkers will stay dry without changing their plan.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the weather clue to predict how it may affect the walk. Dark clouds add a warning and support a prediction about a storm.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "show_size_with_an_image_apply",
+    "question": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "audio_prompt": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-011",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Show size with an image. Notice: Observe image details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The boat only looks smaller because it is far behind the cliff.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliff and boat are about the same height.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliff is much larger than the boat.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The direct visual comparison shows the great scale of the cliff.",
+      "hint": "Compare the two objects where they meet in the same scene."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "show_size_with_an_image_reason",
+    "question": "A student answers “The cliff and boat are about the same height.”. Which feedback helps? Task: Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "audio_prompt": "A student answers “The cliff and boat are about the same height.”. Which feedback helps? Task: Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-012",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Show size with an image. Notice: Observe image details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare the two objects where they meet in the same scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The cliff and boat are about the same height.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The boat only looks smaller because it is far behind the cliff.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the two objects where they meet in the same scene. The direct visual comparison shows the great scale of the cliff.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "combine_words_and_expression_apply",
+    "question": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "audio_prompt": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-013",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Combine words and expression. Notice: Read written meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mara is happy and crying with laughter.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara may be sad even though she says she is fine.",
+        "is_correct": true
+      },
+      {
+        "text": "Mara is angry and wants to shout.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The image adds sadness that is different from the spoken words.",
+      "hint": "Use both the tears and body position, not the words alone."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "combine_words_and_expression_reason",
+    "question": "A student answers “Mara is happy and crying with laughter.”. Which feedback helps? Task: Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "audio_prompt": "A student answers “Mara is happy and crying with laughter.”. Which feedback helps? Task: Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-014",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Combine words and expression. Notice: Read written meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Mara is happy and crying with laughter.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Mara is angry and wants to shout.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use both the tears and body position, not the words alone.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use both the tears and body position, not the words alone. The image adds sadness that is different from the spoken words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "find_a_hidden_pet_clue_apply",
+    "question": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "audio_prompt": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-015",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Find a hidden pet clue. Notice: Identify added information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Pip is probably hiding under the bed.",
+        "is_correct": true
+      },
+      {
+        "text": "Pip has left the house through the window.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip is probably hiding on top of the bed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visible tail adds a clue to Pip's hidden location.",
+      "hint": "Notice the small detail the characters may not have seen yet."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "find_a_hidden_pet_clue_reason",
+    "question": "A student answers “Pip is probably hiding on top of the bed.”. Which feedback helps? Task: Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "audio_prompt": "A student answers “Pip is probably hiding on top of the bed.”. Which feedback helps? Task: Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-016",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Find a hidden pet clue. Notice: Identify added information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Pip is probably hiding on top of the bed.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice the small detail the characters may not have seen yet.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Pip has left the house through the window.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Notice the small detail the characters may not have seen yet. The visible tail adds a clue to Pip's hidden location.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "build_a_gloomy_mood_apply",
+    "question": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "audio_prompt": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-017",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Build a gloomy mood. Notice: Make an inference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The wait feels calm and cosy.",
+        "is_correct": false
+      },
+      {
+        "text": "The wait feels busy and cheerful.",
+        "is_correct": false
+      },
+      {
+        "text": "The wait feels gloomy and lonely.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+      "hint": "Use the colours, weather and lack of other people as mood clues."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "build_a_gloomy_mood_reason",
+    "question": "A student answers “The wait feels calm and cosy.”. Which feedback helps? Task: Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "audio_prompt": "A student answers “The wait feels calm and cosy.”. Which feedback helps? Task: Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-018",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Build a gloomy mood. Notice: Make an inference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the colours, weather and lack of other people as mood clues.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The wait feels calm and cosy.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The wait feels busy and cheerful.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the colours, weather and lack of other people as mood clues. The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "see_roots_below_the_soil_apply",
+    "question": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "audio_prompt": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-019",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: See roots below the soil. Notice: Explain combined meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It shows that leaves pull water from the sky.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows where the plant takes in the water.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows that roots stay dry above the soil.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cut-away view reveals the underground roots and their role.",
+      "hint": "Look at the part the diagram lets you see that is usually hidden."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "see_roots_below_the_soil_reason",
+    "question": "A student answers “It shows that roots stay dry above the soil.”. Which feedback helps? Task: A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "audio_prompt": "A student answers “It shows that roots stay dry above the soil.”. Which feedback helps? Task: A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-020",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: See roots below the soil. Notice: Explain combined meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “It shows that roots stay dry above the soil.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “It shows that leaves pull water from the sky.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look at the part the diagram lets you see that is usually hidden.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look at the part the diagram lets you see that is usually hidden. The cut-away view reveals the underground roots and their role.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "combine_action_and_speech_apply",
+    "question": "Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "audio_prompt": "Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-021",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Combine action and speech. Notice: Observe image details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Lena is kindly sharing the toy.",
+        "is_correct": true
+      },
+      {
+        "text": "Lena is hiding the toy from the child.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena is angry that the child is nearby.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The smile and reaching hands show that the action is friendly sharing.",
+      "hint": "Use facial expression and body position to explain the action."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "combine_action_and_speech_reason",
+    "question": "A student answers “Lena is hiding the toy from the child.”. Which feedback helps? Task: Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "audio_prompt": "A student answers “Lena is hiding the toy from the child.”. Which feedback helps? Task: Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-022",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Combine action and speech. Notice: Observe image details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Lena is hiding the toy from the child.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use facial expression and body position to explain the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Lena is angry that the child is nearby.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use facial expression and body position to explain the action. The smile and reaching hands show that the action is friendly sharing.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "compare_before_and_after_apply",
+    "question": "A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "audio_prompt": "A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-023",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Compare before and after. Notice: Read written meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "They show that the creek dried up after the rain.",
+        "is_correct": false
+      },
+      {
+        "text": "They show no visible change in the creek.",
+        "is_correct": false
+      },
+      {
+        "text": "They show how much higher and faster the creek became.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The paired photos make the size and movement of the change visible.",
+      "hint": "Compare the water level and movement in both images."
+    }
+  },
+  {
+    "id": "AC9E2LA08-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "skill": "compare_before_and_after_reason",
+    "question": "A student answers “They show no visible change in the creek.”. Which feedback helps? Task: A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "audio_prompt": "A student answers “They show no visible change in the creek.”. Which feedback helps? Task: A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-p-024",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Compare before and after. Notice: Read written meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare the water level and movement in both images.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “They show no visible change in the creek.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “They show that the creek dried up after the rain.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the water level and movement in both images. The paired photos make the size and movement of the change visible.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "use_a_trail_map_apply",
+    "question": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "audio_prompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-001",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Use a trail map. Notice: Observe image details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Turn right when you reach the river.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn left when you reach the river.",
+        "is_correct": true
+      },
+      {
+        "text": "Turn left before you reach the river.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The map adds the direction and landmark that the words do not give.",
+      "hint": "Check both the arrow direction and where the turn happens."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "use_a_trail_map_reason",
+    "question": "A student answers “Turn right when you reach the river.”. Which feedback helps? Task: Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "audio_prompt": "A student answers “Turn right when you reach the river.”. Which feedback helps? Task: Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-002",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Use a trail map. Notice: Observe image details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Turn right when you reach the river.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Turn left before you reach the river.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check both the arrow direction and where the turn happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check both the arrow direction and where the turn happens. The map adds the direction and landmark that the words do not give.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "read_a_water_poster_apply",
+    "question": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "audio_prompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-003",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read a water poster. Notice: Read written meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It shows water being wasted and why saving it matters.",
+        "is_correct": true
+      },
+      {
+        "text": "It suggests a dripping tap cannot affect the water supply.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests the empty dam is sending water to the tap.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+      "hint": "Connect the wasted drops with the low water supply."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "read_a_water_poster_reason",
+    "question": "A student answers “It suggests the empty dam is sending water to the tap.”. Which feedback helps? Task: A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "audio_prompt": "A student answers “It suggests the empty dam is sending water to the tap.”. Which feedback helps? Task: A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-004",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read a water poster. Notice: Read written meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “It suggests the empty dam is sending water to the tap.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect the wasted drops with the low water supply.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “It suggests a dripping tap cannot affect the water supply.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect the wasted drops with the low water supply. The dripping tap and empty dam make the need to save water clearer and more urgent.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "see_what_the_reader_knows_apply",
+    "question": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "audio_prompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-005",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: See what the reader knows. Notice: Identify added information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Pip has already left the maze.",
+        "is_correct": false
+      },
+      {
+        "text": "The maze has no exit at all.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip is close to the exit even if Pip cannot see it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The overhead view gives the reader information hidden from the character.",
+      "hint": "Compare what is visible from above with what Pip can see inside the maze."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "see_what_the_reader_knows_reason",
+    "question": "A student answers “Pip has already left the maze.”. Which feedback helps? Task: In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "audio_prompt": "A student answers “Pip has already left the maze.”. Which feedback helps? Task: In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-006",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: See what the reader knows. Notice: Identify added information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare what is visible from above with what Pip can see inside the maze.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Pip has already left the maze.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The maze has no exit at all.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare what is visible from above with what Pip can see inside the maze. The overhead view gives the reader information hidden from the character.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "interpret_a_class_chart_apply",
+    "question": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "audio_prompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-007",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Interpret a class chart. Notice: Make an inference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every class collected exactly 12 cans.",
+        "is_correct": false
+      },
+      {
+        "text": "Class 2B collected the most cans.",
+        "is_correct": true
+      },
+      {
+        "text": "Class 2A collected more than 2B.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The graph adds amounts that allow the classes to be compared.",
+      "hint": "Read each value and find the largest one."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "interpret_a_class_chart_reason",
+    "question": "A student answers “Class 2A collected more than 2B.”. Which feedback helps? Task: Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "audio_prompt": "A student answers “Class 2A collected more than 2B.”. Which feedback helps? Task: Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-008",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Interpret a class chart. Notice: Make an inference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Class 2A collected more than 2B.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every class collected exactly 12 cans.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Read each value and find the largest one.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read each value and find the largest one. The graph adds amounts that allow the classes to be compared.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "notice_a_joking_contrast_apply",
+    "question": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "audio_prompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-009",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Notice a joking contrast. Notice: Explain combined meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The child is joking because the sandwich is enormous.",
+        "is_correct": true
+      },
+      {
+        "text": "The child is complaining that the sandwich is too small.",
+        "is_correct": false
+      },
+      {
+        "text": "The sandwich is ordinary-sized but drawn closer to the reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+      "hint": "Compare the describing word with the two sizes shown side by side."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "notice_a_joking_contrast_reason",
+    "question": "A student answers “The child is complaining that the sandwich is too small.”. Which feedback helps? Task: Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "audio_prompt": "A student answers “The child is complaining that the sandwich is too small.”. Which feedback helps? Task: Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-010",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Notice a joking contrast. Notice: Explain combined meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The child is complaining that the sandwich is too small.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the describing word with the two sizes shown side by side.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The sandwich is ordinary-sized but drawn closer to the reader.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the describing word with the two sizes shown side by side. The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "follow_a_folding_diagram_apply",
+    "question": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "audio_prompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-011",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Follow a folding diagram. Notice: Observe image details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "which side of the paper should face up",
+        "is_correct": false
+      },
+      {
+        "text": "how many more folds come after this one",
+        "is_correct": false
+      },
+      {
+        "text": "the direction and exact corners for this fold",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The diagram makes the movement and meeting corners clear.",
+      "hint": "Use only the arrow and the starting and finishing points shown."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "follow_a_folding_diagram_reason",
+    "question": "A student answers “how many more folds come after this one”. Which feedback helps? Task: A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "audio_prompt": "A student answers “how many more folds come after this one”. Which feedback helps? Task: A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-012",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Follow a folding diagram. Notice: Observe image details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use only the arrow and the starting and finishing points shown.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “how many more folds come after this one”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “which side of the paper should face up” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use only the arrow and the starting and finishing points shown. The diagram makes the movement and meeting corners clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "notice_a_hopeful_clue_apply",
+    "question": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "audio_prompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-013",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Notice a hopeful clue. Notice: Read written meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The cub is moving farther away from every animal.",
+        "is_correct": false
+      },
+      {
+        "text": "The cub may soon find its mother.",
+        "is_correct": true
+      },
+      {
+        "text": "The cub's mother has left the forest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+      "hint": "Look beyond the main character for information the words do not state."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "notice_a_hopeful_clue_reason",
+    "question": "A student answers “The cub is moving farther away from every animal.”. Which feedback helps? Task: Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "audio_prompt": "A student answers “The cub is moving farther away from every animal.”. Which feedback helps? Task: Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-014",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Notice a hopeful clue. Notice: Read written meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The cub is moving farther away from every animal.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The cub's mother has left the forest.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look beyond the main character for information the words do not state.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look beyond the main character for information the words do not state. The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "read_heat_arrows_apply",
+    "question": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "audio_prompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-015",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read heat arrows. Notice: Identify added information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Sunlight warms the ice and helps it melt into water.",
+        "is_correct": true
+      },
+      {
+        "text": "The puddle freezes the sunlight into ice.",
+        "is_correct": false
+      },
+      {
+        "text": "The arrows show the ice moving closer to the sun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The arrows and puddle show the direction of heat and the change from ice to water.",
+      "hint": "Follow the arrows, then compare the ice with the puddle."
+    }
+  },
+  {
+    "id": "AC9E2LA08-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "skill": "read_heat_arrows_reason",
+    "question": "A student answers “The arrows show the ice moving closer to the sun.”. Which feedback helps? Task: A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "audio_prompt": "A student answers “The arrows show the ice moving closer to the sun.”. Which feedback helps? Task: A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la08.svg#ac9e2la08-t-016",
+      "alt_text": "Three-step How Images Add Meaning organiser. Read: Read heat arrows. Notice: Identify added information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The arrows show the ice moving closer to the sun.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Follow the arrows, then compare the ice with the puddle.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The puddle freezes the sunlight into ice.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Follow the arrows, then compare the ice with the puddle. The arrows and puddle show the direction of heat and the change from ice to water.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

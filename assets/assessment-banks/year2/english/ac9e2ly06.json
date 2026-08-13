@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY06-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_an_information_report_apply",
+    "question": "Which plan best suits a short report about wombats?",
+    "audio_prompt": "Which plan best suits a short report about wombats?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-001",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan an information report. Notice: Plan for purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "wombat facts in the order they were found, with no grouping",
+        "is_correct": false
+      },
+      {
+        "text": "one opinion about wombats followed by the same slogan three times",
+        "is_correct": false
+      },
+      {
+        "text": "heading, habitat facts, food facts and a labelled image",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Grouped factual sections and a labelled image suit an information report.",
+      "hint": "Match the structure to a purpose of explaining facts."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_an_information_report_reason",
+    "question": "A student answers “wombat facts in the order they were found, with no grouping”. Which feedback helps? Task: Which plan best suits a short report about wombats?",
+    "audio_prompt": "A student answers “wombat facts in the order they were found, with no grouping”. Which feedback helps? Task: Which plan best suits a short report about wombats?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-002",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan an information report. Notice: Plan for purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the structure to a purpose of explaining facts.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “wombat facts in the order they were found, with no grouping”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “one opinion about wombats followed by the same slogan three times” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the structure to a purpose of explaining facts. Grouped factual sections and a labelled image suit an information report.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_an_imaginative_text_apply",
+    "question": "Which notes are most useful for planning a story?",
+    "audio_prompt": "Which notes are most useful for planning a story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-003",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan an imaginative text. Notice: Use suitable structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "three prices and a shop slogan",
+        "is_correct": false
+      },
+      {
+        "text": "character, setting, problem, events and ending",
+        "is_correct": true
+      },
+      {
+        "text": "materials and numbered experiment steps",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characters, setting, problem and events provide a clear story structure.",
+      "hint": "Choose notes that can shape an imaginative sequence."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_an_imaginative_text_reason",
+    "question": "A student answers “materials and numbered experiment steps”. Which feedback helps? Task: Which notes are most useful for planning a story?",
+    "audio_prompt": "A student answers “materials and numbered experiment steps”. Which feedback helps? Task: Which notes are most useful for planning a story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-004",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan an imaginative text. Notice: Use suitable structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “materials and numbered experiment steps”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “three prices and a shop slogan” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose notes that can shape an imaginative sequence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose notes that can shape an imaginative sequence. Characters, setting, problem and events provide a clear story structure.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_a_persuasive_message_apply",
+    "question": "The class wants a new drinking fountain. Which plan best suits a persuasive letter?",
+    "audio_prompt": "The class wants a new drinking fountain. Which plan best suits a persuasive letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-005",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan a persuasive message. Notice: Write varied sentences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "state the request, give reasons and finish with a clear call to act",
+        "is_correct": true
+      },
+      {
+        "text": "describe fountain parts under headings without making a request",
+        "is_correct": false
+      },
+      {
+        "text": "tell a story about a thirsty child without asking the reader to act",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A persuasive letter needs a position, supporting reasons and a requested action.",
+      "hint": "Plan how to influence the intended reader."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "plan_a_persuasive_message_reason",
+    "question": "A student answers “describe fountain parts under headings without making a request”. Which feedback helps? Task: The class wants a new drinking fountain. Which plan best suits a persuasive letter?",
+    "audio_prompt": "A student answers “describe fountain parts under headings without making a request”. Which feedback helps? Task: The class wants a new drinking fountain. Which plan best suits a persuasive letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-006",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Plan a persuasive message. Notice: Write varied sentences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “describe fountain parts under headings without making a request”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Plan how to influence the intended reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “tell a story about a thirsty child without asking the reader to act” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Plan how to influence the intended reader. A persuasive letter needs a position, supporting reasons and a requested action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "use_a_compound_sentence_apply",
+    "question": "Which sentence joins two complete ideas clearly?",
+    "audio_prompt": "Which sentence joins two complete ideas clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-007",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Use a compound sentence. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Because the muddy path.",
+        "is_correct": false
+      },
+      {
+        "text": "Wearing boots under.",
+        "is_correct": false
+      },
+      {
+        "text": "The path was muddy, so we wore our boots.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both parts are complete ideas, and so shows a result.",
+      "hint": "Check that each side can make sense and the joining word fits."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "use_a_compound_sentence_reason",
+    "question": "A student answers “Wearing boots under.”. Which feedback helps? Task: Which sentence joins two complete ideas clearly?",
+    "audio_prompt": "A student answers “Wearing boots under.”. Which feedback helps? Task: Which sentence joins two complete ideas clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-008",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Use a compound sentence. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check that each side can make sense and the joining word fits.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Wearing boots under.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Because the muddy path.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check that each side can make sense and the joining word fits. Both parts are complete ideas, and so shows a result.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "build_a_precise_noun_group_apply",
+    "question": "Which noun group gives the most precise detail in a beach description?",
+    "audio_prompt": "Which noun group gives the most precise detail in a beach description?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-009",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Build a precise noun group. Notice: Edit content and conventions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the shells on the beach",
+        "is_correct": false
+      },
+      {
+        "text": "the three smooth white shells",
+        "is_correct": true
+      },
+      {
+        "text": "the smooth shell near them",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The number and adjectives help the reader picture the shells precisely.",
+      "hint": "Choose words that identify and describe the noun."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "build_a_precise_noun_group_reason",
+    "question": "A student answers “the shells on the beach”. Which feedback helps? Task: Which noun group gives the most precise detail in a beach description?",
+    "audio_prompt": "A student answers “the shells on the beach”. Which feedback helps? Task: Which noun group gives the most precise detail in a beach description?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-010",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Build a precise noun group. Notice: Edit content and conventions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the shells on the beach”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the smooth shell near them” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose words that identify and describe the noun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose words that identify and describe the noun. The number and adjectives help the reader picture the shells precisely.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "choose_topic_vocabulary_apply",
+    "question": "Which word best suits a report explaining how a seed begins to grow?",
+    "audio_prompt": "Which word best suits a report explaining how a seed begins to grow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-011",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Choose topic vocabulary. Notice: Plan for purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "germinate",
+        "is_correct": true
+      },
+      {
+        "text": "wake up",
+        "is_correct": false
+      },
+      {
+        "text": "open",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Germinate is a precise topic word for a seed beginning to grow.",
+      "hint": "Use vocabulary that names the process accurately."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "choose_topic_vocabulary_reason",
+    "question": "A student answers “open”. Which feedback helps? Task: Which word best suits a report explaining how a seed begins to grow?",
+    "audio_prompt": "A student answers “open”. Which feedback helps? Task: Which word best suits a report explaining how a seed begins to grow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-012",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Choose topic vocabulary. Notice: Plan for purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “open”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use vocabulary that names the process accurately.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “wake up” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use vocabulary that names the process accurately. Germinate is a precise topic word for a seed beginning to grow.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "edit_for_missing_meaning_apply",
+    "question": "A draft says, ‘Recycling helps.’ Which edit makes the informative idea clearer?",
+    "audio_prompt": "A draft says, ‘Recycling helps.’ Which edit makes the informative idea clearer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-013",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Edit for missing meaning. Notice: Use suitable structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Recycling changes things and can be useful.",
+        "is_correct": false
+      },
+      {
+        "text": "Recycling helps because it is helpful for materials.",
+        "is_correct": false
+      },
+      {
+        "text": "Recycling saves materials by turning used items into new products.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The edit explains how recycling helps by adding important meaning.",
+      "hint": "Improve the idea before checking surface details."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "edit_for_missing_meaning_reason",
+    "question": "A student answers “Recycling changes things and can be useful.”. Which feedback helps? Task: A draft says, ‘Recycling helps.’ Which edit makes the informative idea clearer?",
+    "audio_prompt": "A student answers “Recycling changes things and can be useful.”. Which feedback helps? Task: A draft says, ‘Recycling helps.’ Which edit makes the informative idea clearer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-014",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Edit for missing meaning. Notice: Use suitable structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Improve the idea before checking surface details.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Recycling changes things and can be useful.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Recycling helps because it is helpful for materials.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Improve the idea before checking surface details. The edit explains how recycling helps by adding important meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "vary_sentence_structure_apply",
+    "question": "A draft has ‘The bell rang. We lined up.’ Which edit joins the ideas as a clear compound sentence?",
+    "audio_prompt": "A draft has ‘The bell rang. We lined up.’ Which edit joins the ideas as a clear compound sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-015",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Vary sentence structure. Notice: Write varied sentences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The bell rang because.",
+        "is_correct": false
+      },
+      {
+        "text": "The bell rang, so we lined up.",
+        "is_correct": true
+      },
+      {
+        "text": "So lining the bell up.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "So joins two complete ideas and shows that the bell led to lining up.",
+      "hint": "Keep both complete ideas and choose a conjunction that shows their link."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "vary_sentence_structure_reason",
+    "question": "A student answers “So lining the bell up.”. Which feedback helps? Task: A draft has ‘The bell rang. We lined up.’ Which edit joins the ideas as a clear compound sentence?",
+    "audio_prompt": "A student answers “So lining the bell up.”. Which feedback helps? Task: A draft has ‘The bell rang. We lined up.’ Which edit joins the ideas as a clear compound sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-016",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Vary sentence structure. Notice: Write varied sentences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “So lining the bell up.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The bell rang because.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep both complete ideas and choose a conjunction that shows their link.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep both complete ideas and choose a conjunction that shows their link. So joins two complete ideas and shows that the bell led to lining up.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "choose_a_verb_group_apply",
+    "question": "Which sentence uses a verb group to show an action happening now?",
+    "audio_prompt": "Which sentence uses a verb group to show an action happening now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-017",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Choose a verb group. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The kookaburra is calling from the fence.",
+        "is_correct": true
+      },
+      {
+        "text": "The noisy kookaburra on the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The kookaburra call yesterday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Is calling is a verb group showing the action in progress.",
+      "hint": "Find the group of words carrying the action and time."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "choose_a_verb_group_reason",
+    "question": "A student answers “The noisy kookaburra on the fence.”. Which feedback helps? Task: Which sentence uses a verb group to show an action happening now?",
+    "audio_prompt": "A student answers “The noisy kookaburra on the fence.”. Which feedback helps? Task: Which sentence uses a verb group to show an action happening now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-018",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Choose a verb group. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The noisy kookaburra on the fence.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the group of words carrying the action and time.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The kookaburra call yesterday.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the group of words carrying the action and time. Is calling is a verb group showing the action in progress.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "edit_a_common_spelling_apply",
+    "question": "A draft says, ‘We went becos it was fun.’ Which edit uses the common spelling?",
+    "audio_prompt": "A draft says, ‘We went becos it was fun.’ Which edit uses the common spelling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-019",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Edit a common spelling. Notice: Edit content and conventions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We went becaus it was fun.",
+        "is_correct": false
+      },
+      {
+        "text": "We went becoz it was fun.",
+        "is_correct": false
+      },
+      {
+        "text": "We went because it was fun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Because is the conventional spelling needed in the edited sentence.",
+      "hint": "Recall the familiar whole word and check every letter group."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "edit_a_common_spelling_reason",
+    "question": "A student answers “We went becoz it was fun.”. Which feedback helps? Task: A draft says, ‘We went becos it was fun.’ Which edit uses the common spelling?",
+    "audio_prompt": "A student answers “We went becoz it was fun.”. Which feedback helps? Task: A draft says, ‘We went becos it was fun.’ Which edit uses the common spelling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-020",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Edit a common spelling. Notice: Edit content and conventions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Recall the familiar whole word and check every letter group.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “We went becoz it was fun.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “We went becaus it was fun.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recall the familiar whole word and check every letter group. Because is the conventional spelling needed in the edited sentence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "add_a_useful_caption_apply",
+    "question": "A report image shows a joey inside a pouch. Which caption best explains the relationship in the image?",
+    "audio_prompt": "A report image shows a joey inside a pouch. Which caption best explains the relationship in the image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-021",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Add a useful caption. Notice: Plan for purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A kangaroo has a pouch on the front of its body.",
+        "is_correct": false
+      },
+      {
+        "text": "A young kangaroo, called a joey, grows safely in the pouch.",
+        "is_correct": true
+      },
+      {
+        "text": "This joey looks comfortable inside the pouch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The caption identifies the joey and explains the pictured relationship.",
+      "hint": "Choose a factual caption that helps readers interpret the image."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "add_a_useful_caption_reason",
+    "question": "A student answers “A kangaroo has a pouch on the front of its body.”. Which feedback helps? Task: A report image shows a joey inside a pouch. Which caption best explains the relationship in the image?",
+    "audio_prompt": "A student answers “A kangaroo has a pouch on the front of its body.”. Which feedback helps? Task: A report image shows a joey inside a pouch. Which caption best explains the relationship in the image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-022",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Add a useful caption. Notice: Plan for purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “A kangaroo has a pouch on the front of its body.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “This joey looks comfortable inside the pouch.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a factual caption that helps readers interpret the image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose a factual caption that helps readers interpret the image. The caption identifies the joey and explains the pictured relationship.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "change_language_for_audience_apply",
+    "question": "A note for classmates says, ‘Put scraps in the green bin.’ Which version suits a formal letter to the principal?",
+    "audio_prompt": "A note for classmates says, ‘Put scraps in the green bin.’ Which version suits a formal letter to the principal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-023",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Change language for audience. Notice: Use suitable structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Please consider adding another green bin for food scraps.",
+        "is_correct": true
+      },
+      {
+        "text": "Put another green bin here now, please.",
+        "is_correct": false
+      },
+      {
+        "text": "The green bin is beside our classroom and holds scraps.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite request and specific reason suit communication with the principal.",
+      "hint": "Keep the purpose but adjust tone and detail for the audience."
+    }
+  },
+  {
+    "id": "AC9E2LY06-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "practice",
+    "skill": "change_language_for_audience_reason",
+    "question": "A student answers “The green bin is beside our classroom and holds scraps.”. Which feedback helps? Task: A note for classmates says, ‘Put scraps in the green bin.’ Which version suits a formal letter to the principal?",
+    "audio_prompt": "A student answers “The green bin is beside our classroom and holds scraps.”. Which feedback helps? Task: A note for classmates says, ‘Put scraps in the green bin.’ Which version suits a formal letter to the principal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-p-024",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: Change language for audience. Notice: Use suitable structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The green bin is beside our classroom and holds scraps.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the purpose but adjust tone and detail for the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Put another green bin here now, please.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep the purpose but adjust tone and detail for the audience. The polite request and specific reason suit communication with the principal.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_write_for_an_audience_apply",
+    "question": "Which sentence best suits a reminder for Year 2 students returning library books?",
+    "audio_prompt": "Which sentence best suits a reminder for Year 2 students returning library books?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-001",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: write for an audience. Notice: Plan for purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Patrons must facilitate the restitution of borrowed volumes.",
+        "is_correct": false
+      },
+      {
+        "text": "Library books should be returned at the correct time and place.",
+        "is_correct": false
+      },
+      {
+        "text": "Please place your library book in the blue return box by Friday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sentence uses clear, familiar language and gives students a specific action.",
+      "hint": "Match vocabulary and detail to the intended readers."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_write_for_an_audience_reason",
+    "question": "A student answers “Patrons must facilitate the restitution of borrowed volumes.”. Which feedback helps? Task: Which sentence best suits a reminder for Year 2 students returning library books?",
+    "audio_prompt": "A student answers “Patrons must facilitate the restitution of borrowed volumes.”. Which feedback helps? Task: Which sentence best suits a reminder for Year 2 students returning library books?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-002",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: write for an audience. Notice: Plan for purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match vocabulary and detail to the intended readers.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Patrons must facilitate the restitution of borrowed volumes.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Library books should be returned at the correct time and place.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match vocabulary and detail to the intended readers. The sentence uses clear, familiar language and gives students a specific action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_order_a_procedure_apply",
+    "question": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "audio_prompt": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-003",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: order a procedure. Notice: Use suitable structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "bake, mix, then fill the tray",
+        "is_correct": false
+      },
+      {
+        "text": "mix the batter, fill the tray, then bake",
+        "is_correct": true
+      },
+      {
+        "text": "fill the tray, bake, then make the batter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The mixture must be prepared and placed in the tray before baking.",
+      "hint": "Imagine completing each action and check what must happen first."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_order_a_procedure_reason",
+    "question": "A student answers “fill the tray, bake, then make the batter”. Which feedback helps? Task: A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "audio_prompt": "A student answers “fill the tray, bake, then make the batter”. Which feedback helps? Task: A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-004",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: order a procedure. Notice: Use suitable structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “fill the tray, bake, then make the batter”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “bake, mix, then fill the tray” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Imagine completing each action and check what must happen first.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Imagine completing each action and check what must happen first. The mixture must be prepared and placed in the tray before baking.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_choose_a_useful_image_apply",
+    "question": "A report explains the parts of a flower. Which image adds the most useful information?",
+    "audio_prompt": "A report explains the parts of a flower. Which image adds the most useful information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-005",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: choose a useful image. Notice: Write varied sentences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a clear flower diagram with each part labelled",
+        "is_correct": true
+      },
+      {
+        "text": "a colourful garden photo with the flower parts too small to see",
+        "is_correct": false
+      },
+      {
+        "text": "a close flower picture with no labels to identify each part",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled diagram directly supports the report's explanation.",
+      "hint": "Choose an image that helps the audience understand the content."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_choose_a_useful_image_reason",
+    "question": "A student answers “a colourful garden photo with the flower parts too small to see”. Which feedback helps? Task: A report explains the parts of a flower. Which image adds the most useful information?",
+    "audio_prompt": "A student answers “a colourful garden photo with the flower parts too small to see”. Which feedback helps? Task: A report explains the parts of a flower. Which image adds the most useful information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-006",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: choose a useful image. Notice: Write varied sentences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a colourful garden photo with the flower parts too small to see”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an image that helps the audience understand the content.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “a close flower picture with no labels to identify each part” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose an image that helps the audience understand the content. A labelled diagram directly supports the report's explanation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_punctuation_apply",
+    "question": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "audio_prompt": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-007",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit punctuation. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We packed, hats water snacks and maps.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed hats water snacks and, maps.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed hats, water, snacks and maps.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Commas separate the listed items so each one is clear.",
+      "hint": "Place commas between items, not between the verb and its first item."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_punctuation_reason",
+    "question": "A student answers “We packed hats water snacks and, maps.”. Which feedback helps? Task: Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "audio_prompt": "A student answers “We packed hats water snacks and, maps.”. Which feedback helps? Task: Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-008",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit punctuation. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Place commas between items, not between the verb and its first item.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “We packed hats water snacks and, maps.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “We packed, hats water snacks and maps.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Place commas between items, not between the verb and its first item. Commas separate the listed items so each one is clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_spell_a_two_syllable_word_apply",
+    "question": "A student writes littel in a class story. Which edit gives the common spelling?",
+    "audio_prompt": "A student writes littel in a class story. Which edit gives the common spelling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-009",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: spell a two-syllable word. Notice: Edit content and conventions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "litlee",
+        "is_correct": false
+      },
+      {
+        "text": "little",
+        "is_correct": true
+      },
+      {
+        "text": "litul",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Little is the conventional spelling of this common two-syllable word.",
+      "hint": "Say the word, recall its familiar pattern and check it visually."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_spell_a_two_syllable_word_reason",
+    "question": "A student answers “litlee”. Which feedback helps? Task: A student writes littel in a class story. Which edit gives the common spelling?",
+    "audio_prompt": "A student answers “litlee”. Which feedback helps? Task: A student writes littel in a class story. Which edit gives the common spelling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-010",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: spell a two-syllable word. Notice: Edit content and conventions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “litlee”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “litul” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word, recall its familiar pattern and check it visually.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say the word, recall its familiar pattern and check it visually. Little is the conventional spelling of this common two-syllable word.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_text_flow_apply",
+    "question": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "audio_prompt": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-011",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit text flow. Notice: Plan for purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "group related food and habitat facts under clear headings",
+        "is_correct": true
+      },
+      {
+        "text": "move one habitat fact into the middle of the food section",
+        "is_correct": false
+      },
+      {
+        "text": "put all food and habitat facts into one paragraph without headings",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Grouping related facts makes the report easier to follow.",
+      "hint": "Edit the organisation before polishing punctuation."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_text_flow_reason",
+    "question": "A student answers “put all food and habitat facts into one paragraph without headings”. Which feedback helps? Task: A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "audio_prompt": "A student answers “put all food and habitat facts into one paragraph without headings”. Which feedback helps? Task: A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-012",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit text flow. Notice: Plan for purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “put all food and habitat facts into one paragraph without headings”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Edit the organisation before polishing punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “move one habitat fact into the middle of the food section” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Edit the organisation before polishing punctuation. Grouping related facts makes the report easier to follow.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_strengthen_persuasion_apply",
+    "question": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "audio_prompt": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-013",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: strengthen persuasion. Notice: Use suitable structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Trees grow leaves and branches as they get bigger.",
+        "is_correct": false
+      },
+      {
+        "text": "Green trees would make one corner look a little nicer.",
+        "is_correct": false
+      },
+      {
+        "text": "Trees would shade the play area on hot days.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Shade on hot days directly supports the request for school trees.",
+      "hint": "Add a reason that matters to the audience and proposed action."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_strengthen_persuasion_reason",
+    "question": "A student answers “Trees grow leaves and branches as they get bigger.”. Which feedback helps? Task: A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "audio_prompt": "A student answers “Trees grow leaves and branches as they get bigger.”. Which feedback helps? Task: A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-014",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: strengthen persuasion. Notice: Use suitable structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Add a reason that matters to the audience and proposed action.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Trees grow leaves and branches as they get bigger.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Green trees would make one corner look a little nicer.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add a reason that matters to the audience and proposed action. Shade on hot days directly supports the request for school trees.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_an_imaginative_ending_apply",
+    "question": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "audio_prompt": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-015",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit an imaginative ending. Notice: Write varied sentences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Tali found the moonbird, but the story ended before she could free it.",
+        "is_correct": false
+      },
+      {
+        "text": "Tali opened the cage, and the moonbird flew home along a silver beam.",
+        "is_correct": true
+      },
+      {
+        "text": "Tali opened the cage, then listed three ordinary facts about bird wings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The completed ending resolves the lost-bird problem and continues the story's magical world.",
+      "hint": "Choose an ending that finishes the main problem and still belongs in the imagined story."
+    }
+  },
+  {
+    "id": "AC9E2LY06-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY06",
+    "bank": "test",
+    "skill": "test_edit_an_imaginative_ending_reason",
+    "question": "A student answers “Tali opened the cage, then listed three ordinary facts about bird wings.”. Which feedback helps? Task: Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "audio_prompt": "A student answers “Tali opened the cage, then listed three ordinary facts about bird wings.”. Which feedback helps? Task: Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly06.svg#ac9e2ly06-t-016",
+      "alt_text": "Three-step Planning, Writing and Editing Texts organiser. Read: edit an imaginative ending. Notice: Write varied sentences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Tali opened the cage, then listed three ordinary facts about bird wings.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Tali found the moonbird, but the story ended before she could free it.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an ending that finishes the main problem and still belongs in the imagined story.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose an ending that finishes the main problem and still belongs in the imagined story. The completed ending resolves the lost-bird problem and continues the story's magical world.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

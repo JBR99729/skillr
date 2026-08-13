@@ -36,6 +36,7 @@ function liveItem(item) {
     visualHtml,
     visualMeta: item.visual,
     answers: item.answers.map((answer) => answer.text),
+    ...(Array.isArray(item.audio_answers) ? { audioAnswers: item.audio_answers } : {}),
     correct: item.correct_index,
     explanation: `${item.explanation.summary}\nHint: ${item.explanation.hint}`,
     structuredExplanation: item.explanation,

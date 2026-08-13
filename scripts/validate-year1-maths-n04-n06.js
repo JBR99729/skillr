@@ -68,7 +68,7 @@ for(const page of ["addition-subtraction-to-20","skip-counting-equal-groups","ma
  if(!html.includes("year1-maths-n04-n06-extensions.js"))throw Error(`${page}: extension not loaded`);
 }
 const qa=fs.readFileSync("assets/qa-complete-ribbon.js","utf8");
-for(const code of codes)if(!qa.includes(code))throw Error(`${code}: QA tracking missing`);
+if(/(?:textContent|innerText)\s*=\s*["'`]QA complete["'`]/i.test(qa)||/<[^>]+>\s*QA complete\s*<\/[^>]+>/i.test(qa))throw Error("obsolete QA badge creation remains");
 const css=fs.readFileSync("quiz/assets/style.css","utf8");
 if(!/min-width:\s*1\.3cm/.test(css)||!/min-height:\s*1\.3cm/.test(css))throw Error("SVG minimum size missing");
 console.log(JSON.stringify({codes:3,practice:84,test:48,quiz:150,total:282,daily:56,svgQuestions:svgCount},null,2));

@@ -72,7 +72,7 @@ function getQuestionSpeechText(question) {
       question.question ||
       ""
   ];
-  const choices = Array.isArray(question.answers)
+  const visibleChoices = Array.isArray(question.answers)
     ? question.answers
     : Array.isArray(question.options)
       ? question.options
@@ -82,6 +82,9 @@ function getQuestionSpeechText(question) {
           )
         ? question.items
         : [];
+  const choices = Array.isArray(question.audioAnswers) && question.audioAnswers.length === visibleChoices.length
+    ? question.audioAnswers
+    : visibleChoices;
 
   choices.forEach((choice, index) => {
     parts.push(

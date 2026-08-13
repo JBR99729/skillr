@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA01-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_a_teacher_to_explain_apply",
+    "question": "Noah cannot follow one step in a maths task. What should he say to his teacher?",
+    "audio_prompt": "Noah cannot follow one step in a maths task. What should he say to his teacher?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-001",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking a teacher to explain. Notice: Identify context. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Could you please show me that step again?",
+        "is_correct": true
+      },
+      {
+        "text": "Could you tell me the answer instead?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you please do this step for me?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite question clearly asks the teacher for the help Noah needs.",
+      "hint": "Choose words that fit a student speaking respectfully to a teacher."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_a_teacher_to_explain_reason",
+    "question": "A student answers “Could you tell me the answer instead?”. Which feedback helps? Task: Noah cannot follow one step in a maths task. What should he say to his teacher?",
+    "audio_prompt": "A student answers “Could you tell me the answer instead?”. Which feedback helps? Task: Noah cannot follow one step in a maths task. What should he say to his teacher?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-002",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking a teacher to explain. Notice: Identify context. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Could you tell me the answer instead?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose words that fit a student speaking respectfully to a teacher.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Could you please do this step for me?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose words that fit a student speaking respectfully to a teacher. The polite question clearly asks the teacher for the help Noah needs.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_a_friend_for_a_turn_apply",
+    "question": "Luca's friend is using the blue pencil. Which request is friendly and respectful?",
+    "audio_prompt": "Luca's friend is using the blue pencil. Which request is friendly and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-003",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking a friend for a turn. Notice: Identify speaker roles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Can I use the blue pencil before you finish?",
+        "is_correct": false
+      },
+      {
+        "text": "I need the blue pencil more, so pass it to me.",
+        "is_correct": false
+      },
+      {
+        "text": "Can I use the blue pencil when you finish?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Luca asks for a later turn without demanding that his friend stop.",
+      "hint": "Look for a request that respects the other person's turn."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_a_friend_for_a_turn_reason",
+    "question": "A student answers “I need the blue pencil more, so pass it to me.”. Which feedback helps? Task: Luca's friend is using the blue pencil. Which request is friendly and respectful?",
+    "audio_prompt": "A student answers “I need the blue pencil more, so pass it to me.”. Which feedback helps? Task: Luca's friend is using the blue pencil. Which request is friendly and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-004",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking a friend for a turn. Notice: Identify speaker roles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for a request that respects the other person's turn.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I need the blue pencil more, so pass it to me.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Can I use the blue pencil before you finish?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for a request that respects the other person's turn. Luca asks for a later turn without demanding that his friend stop.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "welcoming_a_class_visitor_apply",
+    "question": "Zara is the class host when a visitor arrives. Which greeting best fits her role?",
+    "audio_prompt": "Zara is the class host when a visitor arrives. Which greeting best fits her role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-005",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: welcoming a class visitor. Notice: Choose suitable wording. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Welcome. You can find a place by yourself.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome to our class. Would you like me to show you around?",
+        "is_correct": true
+      },
+      {
+        "text": "Hello. Our teacher can help you if you need anything.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A class host welcomes the visitor and offers useful help.",
+      "hint": "Think about what a friendly host should say and do."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "welcoming_a_class_visitor_reason",
+    "question": "A student answers “Welcome. You can find a place by yourself.”. Which feedback helps? Task: Zara is the class host when a visitor arrives. Which greeting best fits her role?",
+    "audio_prompt": "A student answers “Welcome. You can find a place by yourself.”. Which feedback helps? Task: Zara is the class host when a visitor arrives. Which greeting best fits her role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-006",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: welcoming a class visitor. Notice: Choose suitable wording. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Welcome. You can find a place by yourself.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Hello. Our teacher can help you if you need anything.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about what a friendly host should say and do.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Think about what a friendly host should say and do. A class host welcomes the visitor and offers useful help.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "giving_clear_team_directions_apply",
+    "question": "Eli is leading a playground team. Which direction is clear and respectful?",
+    "audio_prompt": "Eli is leading a playground team. Which direction is clear and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-007",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: giving clear team directions. Notice: Use respectful tone. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Please collect one cone each, then meet beside the line.",
+        "is_correct": true
+      },
+      {
+        "text": "Please collect some equipment and go over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect two cones each, then wait wherever you want.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The direction politely tells each team member exactly what to do and where to meet.",
+      "hint": "A leader's words should be specific, useful and respectful."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "giving_clear_team_directions_reason",
+    "question": "A student answers “Collect two cones each, then wait wherever you want.”. Which feedback helps? Task: Eli is leading a playground team. Which direction is clear and respectful?",
+    "audio_prompt": "A student answers “Collect two cones each, then wait wherever you want.”. Which feedback helps? Task: Eli is leading a playground team. Which direction is clear and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-008",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: giving clear team directions. Notice: Use respectful tone. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Collect two cones each, then wait wherever you want.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A leader's words should be specific, useful and respectful.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Please collect some equipment and go over there.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A leader's words should be specific, useful and respectful. The direction politely tells each team member exactly what to do and where to meet.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "disagreeing_with_a_reason_apply",
+    "question": "A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
+    "audio_prompt": "A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-009",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: disagreeing with a reason. Notice: Explain a language choice. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I disagree because my answer looks better.",
+        "is_correct": false
+      },
+      {
+        "text": "The blue line is a road because that was my first idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I see it differently because the blue line shows a creek.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply respects the partner while using a map clue to explain another view.",
+      "hint": "Choose a reply that focuses on evidence, not on putting down the speaker."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "disagreeing_with_a_reason_reason",
+    "question": "A student answers “I disagree because my answer looks better.”. Which feedback helps? Task: A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
+    "audio_prompt": "A student answers “I disagree because my answer looks better.”. Which feedback helps? Task: A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-010",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: disagreeing with a reason. Notice: Explain a language choice. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a reply that focuses on evidence, not on putting down the speaker.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I disagree because my answer looks better.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The blue line is a road because that was my first idea.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a reply that focuses on evidence, not on putting down the speaker. The reply respects the partner while using a map clue to explain another view.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "using_a_community_greeting_respectfully_apply",
+    "question": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
+    "audio_prompt": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-011",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: using a community greeting respectfully. Notice: Identify context. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Guess how it sounds and change any hard parts.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen carefully, practise it as taught and use it respectfully.",
+        "is_correct": true
+      },
+      {
+        "text": "Use it in every community without checking how it belongs there.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listening to the language teacher respects community knowledge and the way the greeting is used.",
+      "hint": "Let the person sharing the language guide its pronunciation and use."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "using_a_community_greeting_respectfully_reason",
+    "question": "A student answers “Use it in every community without checking how it belongs there.”. Which feedback helps? Task: A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
+    "audio_prompt": "A student answers “Use it in every community without checking how it belongs there.”. Which feedback helps? Task: A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-012",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: using a community greeting respectfully. Notice: Identify context. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Use it in every community without checking how it belongs there.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Guess how it sounds and change any hard parts.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Let the person sharing the language guide its pronunciation and use.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Let the person sharing the language guide its pronunciation and use. Listening to the language teacher respects community knowledge and the way the greeting is used.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "apologising_after_an_accident_apply",
+    "question": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
+    "audio_prompt": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-013",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: apologising after an accident. Notice: Identify speaker roles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I'm sorry I knocked it over. I will help you rebuild it.",
+        "is_correct": true
+      },
+      {
+        "text": "Sorry it fell. You can rebuild it now.",
+        "is_correct": false
+      },
+      {
+        "text": "I did not mean to knock it over, so I do not need to help.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ruby names what happened, apologises and offers to repair the harm.",
+      "hint": "A sincere apology does not blame the other person or dismiss their feelings."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "apologising_after_an_accident_reason",
+    "question": "A student answers “Sorry it fell. You can rebuild it now.”. Which feedback helps? Task: Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
+    "audio_prompt": "A student answers “Sorry it fell. You can rebuild it now.”. Which feedback helps? Task: Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-014",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: apologising after an accident. Notice: Identify speaker roles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Sorry it fell. You can rebuild it now.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A sincere apology does not blame the other person or dismiss their feelings.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I did not mean to knock it over, so I do not need to help.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A sincere apology does not blame the other person or dismiss their feelings. Ruby names what happened, apologises and offers to repair the harm.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "leaving_a_clear_office_message_apply",
+    "question": "Ava leaves a message for the school office. Which message gives enough information?",
+    "audio_prompt": "Ava leaves a message for the school office. Which message gives enough information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-015",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: leaving a clear office message. Notice: Choose suitable wording. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Hello, I found something that belongs to a teacher.",
+        "is_correct": false
+      },
+      {
+        "text": "This is Ava. Please tell him that I found the things.",
+        "is_correct": false
+      },
+      {
+        "text": "Hello, this is Ava from 2B. I found Mr Lee's keys.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ava gives her name, class and a clear reason for the message.",
+      "hint": "An unfamiliar listener needs names and the important detail."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "leaving_a_clear_office_message_reason",
+    "question": "A student answers “This is Ava. Please tell him that I found the things.”. Which feedback helps? Task: Ava leaves a message for the school office. Which message gives enough information?",
+    "audio_prompt": "A student answers “This is Ava. Please tell him that I found the things.”. Which feedback helps? Task: Ava leaves a message for the school office. Which message gives enough information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-016",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: leaving a clear office message. Notice: Choose suitable wording. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "An unfamiliar listener needs names and the important detail.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “This is Ava. Please tell him that I found the things.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Hello, I found something that belongs to a teacher.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An unfamiliar listener needs names and the important detail. Ava gives her name, class and a clear reason for the message.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "helping_a_younger_reading_buddy_apply",
+    "question": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
+    "audio_prompt": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-017",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: helping a younger reading buddy. Notice: Use respectful tone. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "That word is easy, so just guess it quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's try it together. Start with the first sound.",
+        "is_correct": true
+      },
+      {
+        "text": "I will say the word now, and you can skip the sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ben gives calm, useful help without embarrassing the younger reader.",
+      "hint": "A buddy should guide the reader and help them keep trying."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "helping_a_younger_reading_buddy_reason",
+    "question": "A student answers “That word is easy, so just guess it quickly.”. Which feedback helps? Task: Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
+    "audio_prompt": "A student answers “That word is easy, so just guess it quickly.”. Which feedback helps? Task: Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-018",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: helping a younger reading buddy. Notice: Use respectful tone. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “That word is easy, so just guess it quickly.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I will say the word now, and you can skip the sounds.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "A buddy should guide the reader and help them keep trying.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A buddy should guide the reader and help them keep trying. Ben gives calm, useful help without embarrassing the younger reader.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_for_urgent_help_apply",
+    "question": "Sam falls near the gate and cannot stand. What should Priya call out?",
+    "audio_prompt": "Sam falls near the gate and cannot stand. What should Priya call out?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-019",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking for urgent help. Notice: Explain a language choice. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Please help! Sam has fallen near the gate.",
+        "is_correct": true
+      },
+      {
+        "text": "Something might have happened somewhere.",
+        "is_correct": false
+      },
+      {
+        "text": "Could somebody perhaps come here later?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Urgent language should be direct and tell helpers who needs help and where.",
+      "hint": "In an emergency, give the key information quickly and clearly."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "asking_for_urgent_help_reason",
+    "question": "A student answers “Could somebody perhaps come here later?”. Which feedback helps? Task: Sam falls near the gate and cannot stand. What should Priya call out?",
+    "audio_prompt": "A student answers “Could somebody perhaps come here later?”. Which feedback helps? Task: Sam falls near the gate and cannot stand. What should Priya call out?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-020",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking for urgent help. Notice: Explain a language choice. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Could somebody perhaps come here later?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "In an emergency, give the key information quickly and clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Something might have happened somewhere.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In an emergency, give the key information quickly and clearly. Urgent language should be direct and tell helpers who needs help and where.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "writing_in_a_class_learning_chat_apply",
+    "question": "Which message suits a class chat used for learning?",
+    "audio_prompt": "Which message suits a class chat used for learning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-021",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: writing in a class learning chat. Notice: Identify context. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "What page are we reading? Please answer right now.",
+        "is_correct": false
+      },
+      {
+        "text": "Could someone send a photo of the finished answers?",
+        "is_correct": false
+      },
+      {
+        "text": "Could someone please remind me which page we are reading?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The message has a clear learning purpose and uses respectful online language.",
+      "hint": "School chat language should still be polite, safe and useful."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "writing_in_a_class_learning_chat_reason",
+    "question": "A student answers “What page are we reading? Please answer right now.”. Which feedback helps? Task: Which message suits a class chat used for learning?",
+    "audio_prompt": "A student answers “What page are we reading? Please answer right now.”. Which feedback helps? Task: Which message suits a class chat used for learning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-022",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: writing in a class learning chat. Notice: Identify context. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "School chat language should still be polite, safe and useful.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “What page are we reading? Please answer right now.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Could someone send a photo of the finished answers?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "School chat language should still be polite, safe and useful. The message has a clear learning purpose and uses respectful online language.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "refusing_an_invitation_kindly_apply",
+    "question": "Jo does not want to play a chasing game. Which reply is clear and respectful?",
+    "audio_prompt": "Jo does not want to play a chasing game. Which reply is clear and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-023",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: refusing an invitation kindly. Notice: Identify speaker roles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "No, I do not like your game at all.",
+        "is_correct": false
+      },
+      {
+        "text": "No thank you. I would rather choose a different game.",
+        "is_correct": true
+      },
+      {
+        "text": "Maybe I will play, but I will not tell you when.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Jo sets a clear boundary without insulting the other person.",
+      "hint": "A respectful refusal can be firm and kind at the same time."
+    }
+  },
+  {
+    "id": "AC9E2LA01-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "practice",
+    "skill": "refusing_an_invitation_kindly_reason",
+    "question": "A student answers “Maybe I will play, but I will not tell you when.”. Which feedback helps? Task: Jo does not want to play a chasing game. Which reply is clear and respectful?",
+    "audio_prompt": "A student answers “Maybe I will play, but I will not tell you when.”. Which feedback helps? Task: Jo does not want to play a chasing game. Which reply is clear and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-p-024",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: refusing an invitation kindly. Notice: Identify speaker roles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Maybe I will play, but I will not tell you when.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “No, I do not like your game at all.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "A respectful refusal can be firm and kind at the same time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A respectful refusal can be firm and kind at the same time. Jo sets a clear boundary without insulting the other person.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "changing_a_request_for_two_roles_apply",
+    "question": "Which pair asks for an item in ways that suit both listeners?",
+    "audio_prompt": "Which pair asks for an item in ways that suit both listeners?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-001",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: changing a request for two roles. Notice: Identify context. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Sibling: Can I use it next? Librarian: May I borrow this book, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Sibling: Give it here. Librarian: Give me that book.",
+        "is_correct": false
+      },
+      {
+        "text": "Sibling: I formally request it. Librarian: Hey, pass me that book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.",
+      "hint": "Check the relationship with each listener as well as the purpose."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "changing_a_request_for_two_roles_reason",
+    "question": "A student answers “Sibling: Give it here. Librarian: Give me that book.”. Which feedback helps? Task: Which pair asks for an item in ways that suit both listeners?",
+    "audio_prompt": "A student answers “Sibling: Give it here. Librarian: Give me that book.”. Which feedback helps? Task: Which pair asks for an item in ways that suit both listeners?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-002",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: changing a request for two roles. Notice: Identify context. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Sibling: Give it here. Librarian: Give me that book.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the relationship with each listener as well as the purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Sibling: I formally request it. Librarian: Hey, pass me that book.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the relationship with each listener as well as the purpose. Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "giving_useful_feedback_on_artwork_apply",
+    "question": "A partner asks for feedback on a bird painting. Which comment is kind and useful?",
+    "audio_prompt": "A partner asks for feedback on a bird painting. Which comment is kind and useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-003",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: giving useful feedback on artwork. Notice: Identify speaker roles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The bird is bright because you used lots of paint.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more colours so every part of the page looks busy.",
+        "is_correct": false
+      },
+      {
+        "text": "The bright wings stand out. You could add a branch to show where the bird is.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The comment names a strength and offers a respectful suggestion the artist can use.",
+      "hint": "Useful feedback helps the listener without insulting their work."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "giving_useful_feedback_on_artwork_reason",
+    "question": "A student answers “Add more colours so every part of the page looks busy.”. Which feedback helps? Task: A partner asks for feedback on a bird painting. Which comment is kind and useful?",
+    "audio_prompt": "A student answers “Add more colours so every part of the page looks busy.”. Which feedback helps? Task: A partner asks for feedback on a bird painting. Which comment is kind and useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-004",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: giving useful feedback on artwork. Notice: Identify speaker roles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Useful feedback helps the listener without insulting their work.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Add more colours so every part of the page looks busy.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The bird is bright because you used lots of paint.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Useful feedback helps the listener without insulting their work. The comment names a strength and offers a respectful suggestion the artist can use.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "asking_permission_at_home_apply",
+    "question": "Mason wants to ride his bike after homework. Which words suit asking his carer?",
+    "audio_prompt": "Mason wants to ride his bike after homework. Which words suit asking his carer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-005",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking permission at home. Notice: Choose suitable wording. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Can I ride now and finish my homework later?",
+        "is_correct": false
+      },
+      {
+        "text": "May I ride my bike after I finish my homework?",
+        "is_correct": true
+      },
+      {
+        "text": "I am taking my bike out now; I will be back soon.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Mason asks permission and shows that he understands the home expectation.",
+      "hint": "Choose a respectful question rather than an announcement or demand."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "asking_permission_at_home_reason",
+    "question": "A student answers “Can I ride now and finish my homework later?”. Which feedback helps? Task: Mason wants to ride his bike after homework. Which words suit asking his carer?",
+    "audio_prompt": "A student answers “Can I ride now and finish my homework later?”. Which feedback helps? Task: Mason wants to ride his bike after homework. Which words suit asking his carer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-006",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: asking permission at home. Notice: Choose suitable wording. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Can I ride now and finish my homework later?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I am taking my bike out now; I will be back soon.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a respectful question rather than an announcement or demand.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose a respectful question rather than an announcement or demand. Mason asks permission and shows that he understands the home expectation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "clarifying_an_unclear_instruction_apply",
+    "question": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
+    "audio_prompt": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-007",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: clarifying an unclear instruction. Notice: Use respectful tone. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Do you mean we should colour the map before adding the labels?",
+        "is_correct": true
+      },
+      {
+        "text": "Should I use only blue for the whole map?",
+        "is_correct": false
+      },
+      {
+        "text": "Can I finish the map after lunch instead?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question identifies the exact part of the instruction that needs clarification.",
+      "hint": "Ask a specific, respectful question about what is unclear."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "clarifying_an_unclear_instruction_reason",
+    "question": "A student answers “Can I finish the map after lunch instead?”. Which feedback helps? Task: The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
+    "audio_prompt": "A student answers “Can I finish the map after lunch instead?”. Which feedback helps? Task: The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-008",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: clarifying an unclear instruction. Notice: Use respectful tone. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Can I finish the map after lunch instead?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask a specific, respectful question about what is unclear.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Should I use only blue for the whole map?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ask a specific, respectful question about what is unclear. The question identifies the exact part of the instruction that needs clarification.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "responding_during_welcome_to_country_apply",
+    "question": "An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
+    "audio_prompt": "An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-009",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: responding during Welcome to Country. Notice: Explain a language choice. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Write down unfamiliar words to use later without asking when they fit.",
+        "is_correct": false
+      },
+      {
+        "text": "Stay quiet but keep working on another task during the speech.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen quietly and follow the cultural guidance shared at the event.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listening and following the shared guidance respects the Elder's role and the cultural protocol.",
+      "hint": "Think about the role of the speaker and how a respectful audience behaves."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "responding_during_welcome_to_country_reason",
+    "question": "A student answers “Write down unfamiliar words to use later without asking when they fit.”. Which feedback helps? Task: An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
+    "audio_prompt": "A student answers “Write down unfamiliar words to use later without asking when they fit.”. Which feedback helps? Task: An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-010",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: responding during Welcome to Country. Notice: Explain a language choice. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Think about the role of the speaker and how a respectful audience behaves.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Write down unfamiliar words to use later without asking when they fit.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Stay quiet but keep working on another task during the speech.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Think about the role of the speaker and how a respectful audience behaves. Listening and following the shared guidance respects the Elder's role and the cultural protocol.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "noticing_tone_and_body_language_apply",
+    "question": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
+    "audio_prompt": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-011",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: noticing tone and body language. Notice: Identify context. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Both messages mean the same because the word is unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Her tone and body language make the second message sound upset.",
+        "is_correct": true
+      },
+      {
+        "text": "The louder voice shows that the second message is friendlier.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The same word can communicate a different feeling when tone and body language change.",
+      "hint": "Use clues from the voice, face and posture as well as the word."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "noticing_tone_and_body_language_reason",
+    "question": "A student answers “The louder voice shows that the second message is friendlier.”. Which feedback helps? Task: Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
+    "audio_prompt": "A student answers “The louder voice shows that the second message is friendlier.”. Which feedback helps? Task: Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-012",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: noticing tone and body language. Notice: Identify context. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The louder voice shows that the second message is friendlier.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Both messages mean the same because the word is unchanged.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use clues from the voice, face and posture as well as the word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use clues from the voice, face and posture as well as the word. The same word can communicate a different feeling when tone and body language change.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "requesting_quiet_respectfully_apply",
+    "question": "People are reading in the library. Which request is firm and respectful?",
+    "audio_prompt": "People are reading in the library. Which request is firm and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-013",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: requesting quiet respectfully. Notice: Identify speaker roles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Please use quiet voices so everyone can keep reading.",
+        "is_correct": true
+      },
+      {
+        "text": "You need to stop talking right now.",
+        "is_correct": false
+      },
+      {
+        "text": "Could people maybe make less noise sometime?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request clearly states what is needed and gives a reason without insulting anyone.",
+      "hint": "Look for clear words that respect the listeners."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "requesting_quiet_respectfully_reason",
+    "question": "A student answers “You need to stop talking right now.”. Which feedback helps? Task: People are reading in the library. Which request is firm and respectful?",
+    "audio_prompt": "A student answers “You need to stop talking right now.”. Which feedback helps? Task: People are reading in the library. Which request is firm and respectful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-014",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: requesting quiet respectfully. Notice: Identify speaker roles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “You need to stop talking right now.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for clear words that respect the listeners.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Could people maybe make less noise sometime?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for clear words that respect the listeners. The request clearly states what is needed and gives a reason without insulting anyone.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "entering_a_group_discussion_apply",
+    "question": "Three classmates are discussing a story ending. How can Nia join the discussion politely?",
+    "audio_prompt": "Three classmates are discussing a story ending. How can Nia join the discussion politely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-015",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: entering a group discussion. Notice: Choose suitable wording. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Say the idea straight away while a classmate is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "Wait for a pause, then begin talking about a different story.",
+        "is_correct": false
+      },
+      {
+        "text": "May I add an idea about why the character left?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Nia signals that she wants to contribute while respecting the speakers and topic.",
+      "hint": "Choose words that make space for an idea without taking over the group."
+    }
+  },
+  {
+    "id": "AC9E2LA01-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA01",
+    "bank": "test",
+    "skill": "entering_a_group_discussion_reason",
+    "question": "A student answers “Wait for a pause, then begin talking about a different story.”. Which feedback helps? Task: Three classmates are discussing a story ending. How can Nia join the discussion politely?",
+    "audio_prompt": "A student answers “Wait for a pause, then begin talking about a different story.”. Which feedback helps? Task: Three classmates are discussing a story ending. How can Nia join the discussion politely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la01.svg#ac9e2la01-t-016",
+      "alt_text": "Three-step Language Choices for Different Situations organiser. Read: entering a group discussion. Notice: Choose suitable wording. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose words that make space for an idea without taking over the group.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Wait for a pause, then begin talking about a different story.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Say the idea straight away while a classmate is speaking.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose words that make space for an idea without taking over the group. Nia signals that she wants to contribute while respecting the speakers and topic.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

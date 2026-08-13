@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY08-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "separate_words_clearly_apply",
+    "question": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "audio_prompt": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-001",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Separate words clearly. Notice: Form lower-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Join every word into one longer shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Write ‘the big dog’ with a clear space between each word.",
+        "is_correct": true
+      },
+      {
+        "text": "Put a space between every letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Word spaces show where one word ends and the next begins.",
+      "hint": "Add gaps between words, not inside them."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "separate_words_clearly_reason",
+    "question": "A student answers “Join every word into one longer shape.”. Which feedback helps? Task: A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "audio_prompt": "A student answers “Join every word into one longer shape.”. Which feedback helps? Task: A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-002",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Separate words clearly. Notice: Form lower-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Join every word into one longer shape.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Put a space between every letter.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Add gaps between words, not inside them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add gaps between words, not inside them. Word spaces show where one word ends and the next begins.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "keep_letters_on_the_line_apply",
+    "question": "In a sample, some letters float above the writing line. What should the writer practise?",
+    "audio_prompt": "In a sample, some letters float above the writing line. What should the writer practise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-003",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Keep letters on the line. Notice: Form upper-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "placing the main parts of letters on the line",
+        "is_correct": true
+      },
+      {
+        "text": "making every letter the same size while leaving it above the line",
+        "is_correct": false
+      },
+      {
+        "text": "making the word darker without changing where its letters sit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent placement on the line makes words easier to recognise.",
+      "hint": "Check where each letter sits compared with the guide line."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "keep_letters_on_the_line_reason",
+    "question": "A student answers “making the word darker without changing where its letters sit”. Which feedback helps? Task: In a sample, some letters float above the writing line. What should the writer practise?",
+    "audio_prompt": "A student answers “making the word darker without changing where its letters sit”. Which feedback helps? Task: In a sample, some letters float above the writing line. What should the writer practise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-004",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Keep letters on the line. Notice: Form upper-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “making the word darker without changing where its letters sit”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check where each letter sits compared with the guide line.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “making every letter the same size while leaving it above the line” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check where each letter sits compared with the guide line. Consistent placement on the line makes words easier to recognise.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_consistent_size_apply",
+    "question": "The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
+    "audio_prompt": "The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-005",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use consistent size. Notice: Use consistent size. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Make every letter as tall as the lower-case k.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the changing sizes but place the word carefully on the line.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep letters of the same kind at a consistent size.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent letter size helps the word look clear and balanced.",
+      "hint": "Compare letters with similar height and adjust them to match."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_consistent_size_reason",
+    "question": "A student answers “Make every letter as tall as the lower-case k.”. Which feedback helps? Task: The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
+    "audio_prompt": "A student answers “Make every letter as tall as the lower-case k.”. Which feedback helps? Task: The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-006",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use consistent size. Notice: Use consistent size. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare letters with similar height and adjust them to match.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Make every letter as tall as the lower-case k.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Keep the changing sizes but place the word carefully on the line.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare letters with similar height and adjust them to match. Consistent letter size helps the word look clear and balanced.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "form_a_recognisable_letter_apply",
+    "question": "A lower-case a is open at the side and looks like u. What change helps?",
+    "audio_prompt": "A lower-case a is open at the side and looks like u. What change helps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-007",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Form a recognisable letter. Notice: Space words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Add a tall downstroke so the open shape looks like d.",
+        "is_correct": false
+      },
+      {
+        "text": "Close the round part before adding the short downstroke.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the open round part smaller but leave the gap at its side.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Closing the round part preserves the recognisable shape of lower-case a.",
+      "hint": "Focus on the movement that distinguishes the two letter shapes."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "form_a_recognisable_letter_reason",
+    "question": "A student answers “Make the open round part smaller but leave the gap at its side.”. Which feedback helps? Task: A lower-case a is open at the side and looks like u. What change helps?",
+    "audio_prompt": "A student answers “Make the open round part smaller but leave the gap at its side.”. Which feedback helps? Task: A lower-case a is open at the side and looks like u. What change helps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-008",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Form a recognisable letter. Notice: Space words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Make the open round part smaller but leave the gap at its side.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Add a tall downstroke so the open shape looks like d.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Focus on the movement that distinguishes the two letter shapes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focus on the movement that distinguishes the two letter shapes. Closing the round part preserves the recognisable shape of lower-case a.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_upper_case_appropriately_apply",
+    "question": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
+    "audio_prompt": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-009",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use upper-case appropriately. Notice: Write with growing fluency. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mina — capital first letter only",
+        "is_correct": true
+      },
+      {
+        "text": "mINA — lower-case first letter and three capitals",
+        "is_correct": false
+      },
+      {
+        "text": "MINa — three capitals then lower-case a",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The name begins with an upper-case M followed by clear lower-case letters.",
+      "hint": "Use a capital at the start of the name and lower-case for the remaining letters."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_upper_case_appropriately_reason",
+    "question": "A student answers “mINA — lower-case first letter and three capitals”. Which feedback helps? Task: Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
+    "audio_prompt": "A student answers “mINA — lower-case first letter and three capitals”. Which feedback helps? Task: Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-010",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use upper-case appropriately. Notice: Write with growing fluency. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “mINA — lower-case first letter and three capitals”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a capital at the start of the name and lower-case for the remaining letters.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “MINa — three capitals then lower-case a” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a capital at the start of the name and lower-case for the remaining letters. The name begins with an upper-case M followed by clear lower-case letters.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "build_fluency_carefully_apply",
+    "question": "Zac forms letters clearly when writing slowly. What is the best way to build speed?",
+    "audio_prompt": "Zac forms letters clearly when writing slowly. What is the best way to build speed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-011",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Build fluency carefully. Notice: Form lower-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Rush long pages until letter shapes disappear.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop checking formation once the first word is written.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat short accurate practice and increase pace gradually.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Brief accurate repetition builds smoother movement without losing legibility.",
+      "hint": "Keep clear formation while increasing pace a little at a time."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "build_fluency_carefully_reason",
+    "question": "A student answers “Stop checking formation once the first word is written.”. Which feedback helps? Task: Zac forms letters clearly when writing slowly. What is the best way to build speed?",
+    "audio_prompt": "A student answers “Stop checking formation once the first word is written.”. Which feedback helps? Task: Zac forms letters clearly when writing slowly. What is the best way to build speed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-012",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Build fluency carefully. Notice: Form lower-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep clear formation while increasing pace a little at a time.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Stop checking formation once the first word is written.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Rush long pages until letter shapes disappear.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep clear formation while increasing pace a little at a time. Brief accurate repetition builds smoother movement without losing legibility.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "review_a_sentence_apply",
+    "question": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
+    "audio_prompt": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-013",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Review a sentence. Notice: Form upper-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the darkness of the letters that are already clear",
+        "is_correct": false
+      },
+      {
+        "text": "the spaces between those words",
+        "is_correct": true
+      },
+      {
+        "text": "the size of every letter, without separating the words",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The letter shapes are clear, so the specific next improvement is word spacing.",
+      "hint": "Choose the feature shown by the evidence, not an unrelated change."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "review_a_sentence_reason",
+    "question": "A student answers “the darkness of the letters that are already clear”. Which feedback helps? Task: After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
+    "audio_prompt": "A student answers “the darkness of the letters that are already clear”. Which feedback helps? Task: After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-014",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Review a sentence. Notice: Form upper-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the darkness of the letters that are already clear”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the size of every letter, without separating the words” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the feature shown by the evidence, not an unrelated change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the feature shown by the evidence, not an unrelated change. The letter shapes are clear, so the specific next improvement is word spacing.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "keep_tall_letters_consistent_apply",
+    "question": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
+    "audio_prompt": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-015",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Keep tall letters consistent. Notice: Use consistent size. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "making h and l reach the same tall-letter height",
+        "is_correct": true
+      },
+      {
+        "text": "making every letter the height of a lower-case a",
+        "is_correct": false
+      },
+      {
+        "text": "changing h and l into capital letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent tall-letter height helps h and l stay recognisable and balanced.",
+      "hint": "Compare letters that belong to the same height group."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "keep_tall_letters_consistent_reason",
+    "question": "A student answers “changing h and l into capital letters”. Which feedback helps? Task: In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
+    "audio_prompt": "A student answers “changing h and l into capital letters”. Which feedback helps? Task: In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-016",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Keep tall letters consistent. Notice: Use consistent size. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “changing h and l into capital letters”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare letters that belong to the same height group.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “making every letter the height of a lower-case a” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare letters that belong to the same height group. Consistent tall-letter height helps h and l stay recognisable and balanced.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "place_a_descender_apply",
+    "question": "The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
+    "audio_prompt": "The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-017",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Place a descender. Notice: Space words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Lift the whole g above the line.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the tail so g looks like a.",
+        "is_correct": false
+      },
+      {
+        "text": "Let the tail extend below the line while the round part sits on it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Lower-case g has a main part on the line and a descender below it.",
+      "hint": "Check which part sits on the line and which part descends."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "place_a_descender_reason",
+    "question": "A student answers “Lift the whole g above the line.”. Which feedback helps? Task: The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
+    "audio_prompt": "A student answers “Lift the whole g above the line.”. Which feedback helps? Task: The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-018",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Place a descender. Notice: Space words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check which part sits on the line and which part descends.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Lift the whole g above the line.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Remove the tail so g looks like a.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check which part sits on the line and which part descends. Lower-case g has a main part on the line and a descender below it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "start_a_sentence_clearly_apply",
+    "question": "Which handwritten sentence begins with the correct case?",
+    "audio_prompt": "Which handwritten sentence begins with the correct case?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-019",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Start a sentence clearly. Notice: Write with growing fluency. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "birds build nests. — lower-case b begins the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Birds build nests. — capital B begins the sentence",
+        "is_correct": true
+      },
+      {
+        "text": "bIRDS build nests. — capitals appear inside the first word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
+      "hint": "Check the first letter and then the case of the remaining word."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "start_a_sentence_clearly_reason",
+    "question": "A student answers “bIRDS build nests. — capitals appear inside the first word”. Which feedback helps? Task: Which handwritten sentence begins with the correct case?",
+    "audio_prompt": "A student answers “bIRDS build nests. — capitals appear inside the first word”. Which feedback helps? Task: Which handwritten sentence begins with the correct case?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-020",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Start a sentence clearly. Notice: Write with growing fluency. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “bIRDS build nests. — capitals appear inside the first word”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “birds build nests. — lower-case b begins the sentence” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the first letter and then the case of the remaining word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the first letter and then the case of the remaining word. A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_even_letter_spacing_apply",
+    "question": "The letters in c a t are so far apart that they look like separate words. What should change?",
+    "audio_prompt": "The letters in c a t are so far apart that they look like separate words. What should change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-021",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use even letter spacing. Notice: Form lower-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Move the letters closer while keeping the word space after cat wider.",
+        "is_correct": true
+      },
+      {
+        "text": "Push the letters until they overlap.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every gap as wide as a word space.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letters within a word sit closer together than the gap between words.",
+      "hint": "Compare letter spacing with word spacing."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "use_even_letter_spacing_reason",
+    "question": "A student answers “Push the letters until they overlap.”. Which feedback helps? Task: The letters in c a t are so far apart that they look like separate words. What should change?",
+    "audio_prompt": "A student answers “Push the letters until they overlap.”. Which feedback helps? Task: The letters in c a t are so far apart that they look like separate words. What should change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-022",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Use even letter spacing. Notice: Form lower-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Push the letters until they overlap.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare letter spacing with word spacing.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Make every gap as wide as a word space.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare letter spacing with word spacing. Letters within a word sit closer together than the gap between words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "choose_focused_practice_apply",
+    "question": "A writer wants to improve lower-case m and n. Which practice is most focused?",
+    "audio_prompt": "A writer wants to improve lower-case m and n. Which practice is most focused?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-023",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Choose focused practice. Notice: Form upper-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Write one long sentence and check m and n only after finishing.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise capital M and N because their movements are the same as lower-case.",
+        "is_correct": false
+      },
+      {
+        "text": "Write short words with m and n, checking each hump and starting point.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Short targeted word practice develops the specific related letter movements.",
+      "hint": "Choose practice that repeats the exact letters while preserving meaning and spacing."
+    }
+  },
+  {
+    "id": "AC9E2LY08-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "practice",
+    "skill": "choose_focused_practice_reason",
+    "question": "A student answers “Practise capital M and N because their movements are the same as lower-case.”. Which feedback helps? Task: A writer wants to improve lower-case m and n. Which practice is most focused?",
+    "audio_prompt": "A student answers “Practise capital M and N because their movements are the same as lower-case.”. Which feedback helps? Task: A writer wants to improve lower-case m and n. Which practice is most focused?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-p-024",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: Choose focused practice. Notice: Form upper-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose practice that repeats the exact letters while preserving meaning and spacing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Practise capital M and N because their movements are the same as lower-case.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Write one long sentence and check m and n only after finishing.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose practice that repeats the exact letters while preserving meaning and spacing. Short targeted word practice develops the specific related letter movements.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_compare_samples_apply",
+    "question": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
+    "audio_prompt": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-001",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: compare samples. Notice: Form lower-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Sample B because finishing faster makes writing clearer",
+        "is_correct": false
+      },
+      {
+        "text": "Sample A",
+        "is_correct": true
+      },
+      {
+        "text": "Both, because even spaces can make overlapping shapes readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Clear shapes and even spacing make Sample A easier to read.",
+      "hint": "Judge legibility by whether the writing can be recognised easily."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_compare_samples_reason",
+    "question": "A student answers “Sample B because finishing faster makes writing clearer”. Which feedback helps? Task: Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
+    "audio_prompt": "A student answers “Sample B because finishing faster makes writing clearer”. Which feedback helps? Task: Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-002",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: compare samples. Notice: Form lower-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Sample B because finishing faster makes writing clearer”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Both, because even spaces can make overlapping shapes readable” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Judge legibility by whether the writing can be recognised easily.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Judge legibility by whether the writing can be recognised easily. Clear shapes and even spacing make Sample A easier to read.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_fix_crowding_apply",
+    "question": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
+    "audio_prompt": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-003",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: fix crowding. Notice: Form upper-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Make the gap between red and kite wider than letter gaps.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove every gap in both words.",
+        "is_correct": false
+      },
+      {
+        "text": "Put a large gap between each letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A wider word space separates red from kite while letters within each word stay grouped.",
+      "hint": "Word gaps should be easy to distinguish from letter gaps."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_fix_crowding_reason",
+    "question": "A student answers “Put a large gap between each letter.”. Which feedback helps? Task: In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
+    "audio_prompt": "A student answers “Put a large gap between each letter.”. Which feedback helps? Task: In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-004",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: fix crowding. Notice: Form upper-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Put a large gap between each letter.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Word gaps should be easy to distinguish from letter gaps.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Remove every gap in both words.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Word gaps should be easy to distinguish from letter gaps. A wider word space separates red from kite while letters within each word stay grouped.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_lower_case_formation_apply",
+    "question": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
+    "audio_prompt": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-005",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: lower-case formation. Notice: Use consistent size. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Add a separate dot above the d.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn every lower-case d into upper-case D.",
+        "is_correct": false
+      },
+      {
+        "text": "Form the round part first, then move up and down for the tall stroke.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A consistent movement pattern helps form a recognisable unjoined lower-case d.",
+      "hint": "Use the taught starting point and direction for the letter."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_lower_case_formation_reason",
+    "question": "A student answers “Add a separate dot above the d.”. Which feedback helps? Task: A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
+    "audio_prompt": "A student answers “Add a separate dot above the d.”. Which feedback helps? Task: A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-006",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: lower-case formation. Notice: Use consistent size. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the taught starting point and direction for the letter.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Add a separate dot above the d.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Turn every lower-case d into upper-case D.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the taught starting point and direction for the letter. A consistent movement pattern helps form a recognisable unjoined lower-case d.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_alignment_apply",
+    "question": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
+    "audio_prompt": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-007",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: alignment. Notice: Space words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Raise every other word to different heights.",
+        "is_correct": false
+      },
+      {
+        "text": "Place sun on the same baseline as the other words.",
+        "is_correct": true
+      },
+      {
+        "text": "Make sun darker without moving it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using one baseline keeps the whole sentence aligned and readable.",
+      "hint": "Compare the bottom of the word with surrounding words."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_alignment_reason",
+    "question": "A student answers “Make sun darker without moving it.”. Which feedback helps? Task: Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
+    "audio_prompt": "A student answers “Make sun darker without moving it.”. Which feedback helps? Task: Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-008",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: alignment. Notice: Space words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Make sun darker without moving it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Raise every other word to different heights.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the bottom of the word with surrounding words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the bottom of the word with surrounding words. Using one baseline keeps the whole sentence aligned and readable.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_mixed_case_apply",
+    "question": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
+    "audio_prompt": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-009",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: mixed case. Notice: Write with growing fluency. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "bike — all four letters are lower-case",
+        "is_correct": true
+      },
+      {
+        "text": "BIke — B and I are capitals",
+        "is_correct": false
+      },
+      {
+        "text": "bIKE — I, K and E are capitals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bike uses lower-case letters consistently when no capital is needed.",
+      "hint": "Check whether an upper-case letter has a reason to appear."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_mixed_case_reason",
+    "question": "A student answers “BIke — B and I are capitals”. Which feedback helps? Task: A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
+    "audio_prompt": "A student answers “BIke — B and I are capitals”. Which feedback helps? Task: A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-010",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: mixed case. Notice: Write with growing fluency. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “BIke — B and I are capitals”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether an upper-case letter has a reason to appear.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “bIKE — I, K and E are capitals” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether an upper-case letter has a reason to appear. Bike uses lower-case letters consistently when no capital is needed.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_set_one_goal_apply",
+    "question": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
+    "audio_prompt": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-011",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: set one goal. Notice: Form lower-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Make all the already-even letters larger.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise the already-neat letter shapes before checking spaces.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave one clear, even gap between words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence identifies spacing as the one feature that needs improvement.",
+      "hint": "Keep the strengths and target the feature that is inconsistent."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_set_one_goal_reason",
+    "question": "A student answers “Practise the already-neat letter shapes before checking spaces.”. Which feedback helps? Task: A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
+    "audio_prompt": "A student answers “Practise the already-neat letter shapes before checking spaces.”. Which feedback helps? Task: A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-012",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: set one goal. Notice: Form lower-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep the strengths and target the feature that is inconsistent.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Practise the already-neat letter shapes before checking spaces.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Make all the already-even letters larger.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep the strengths and target the feature that is inconsistent. The evidence identifies spacing as the one feature that needs improvement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_distinguish_n_and_m_apply",
+    "question": "A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
+    "audio_prompt": "A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-013",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: distinguish n and m. Notice: Form upper-case letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Add a dot above m.",
+        "is_correct": false
+      },
+      {
+        "text": "Form two clear humps for m.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one hump but make it much taller.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two clear humps distinguish lower-case m from lower-case n.",
+      "hint": "Focus on the movement feature that separates the two letters."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_distinguish_n_and_m_reason",
+    "question": "A student answers “Add a dot above m.”. Which feedback helps? Task: A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
+    "audio_prompt": "A student answers “Add a dot above m.”. Which feedback helps? Task: A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-014",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: distinguish n and m. Notice: Form upper-case letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Add a dot above m.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Use one hump but make it much taller.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Focus on the movement feature that separates the two letters.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focus on the movement feature that separates the two letters. Two clear humps distinguish lower-case m from lower-case n.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_track_fluent_growth_apply",
+    "question": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
+    "audio_prompt": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-015",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: track fluent growth. Notice: Use consistent size. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "His fluency improved while legibility stayed secure.",
+        "is_correct": true
+      },
+      {
+        "text": "His fluency stayed the same because the sentence did not change.",
+        "is_correct": false
+      },
+      {
+        "text": "Speed alone proves improvement even if the letters cannot be read.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The same clear result completed more smoothly is evidence of growing fluency.",
+      "hint": "Check both time and legibility before judging progress."
+    }
+  },
+  {
+    "id": "AC9E2LY08-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY08",
+    "bank": "test",
+    "skill": "test_track_fluent_growth_reason",
+    "question": "A student answers “Speed alone proves improvement even if the letters cannot be read.”. Which feedback helps? Task: On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
+    "audio_prompt": "A student answers “Speed alone proves improvement even if the letters cannot be read.”. Which feedback helps? Task: On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly08.svg#ac9e2ly08-t-016",
+      "alt_text": "Three-step Legible and Fluent Handwriting organiser. Read: track fluent growth. Notice: Use consistent size. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Speed alone proves improvement even if the letters cannot be read.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check both time and legibility before judging progress.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “His fluency stayed the same because the sentence did not change.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check both time and legibility before judging progress. The same clear result completed more smoothly is evidence of growing fluency.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

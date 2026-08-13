@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA07-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "describe_the_pictured_beetle_apply",
+    "question": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "audio_prompt": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-001",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe the pictured beetle. Notice: Identify nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the tiny spotted beetle",
+        "is_correct": true
+      },
+      {
+        "text": "the large spotted beetle",
+        "is_correct": false
+      },
+      {
+        "text": "the tiny plain beetle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Choose words that name the thing and match both its size and pattern."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "describe_the_pictured_beetle_reason",
+    "question": "A student answers “the large spotted beetle”. Which feedback helps? Task: A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "audio_prompt": "A student answers “the large spotted beetle”. Which feedback helps? Task: A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-002",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe the pictured beetle. Notice: Identify nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the large spotted beetle”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose words that name the thing and match both its size and pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the tiny plain beetle” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose words that name the thing and match both its size and pattern. The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "build_a_boot_noun_group_apply",
+    "question": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "audio_prompt": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-003",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a boot noun group. Notice: Build noun groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The two clean boots",
+        "is_correct": false
+      },
+      {
+        "text": "The muddy boot",
+        "is_correct": false
+      },
+      {
+        "text": "The two muddy boots",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Check the number of boots and their condition."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "build_a_boot_noun_group_reason",
+    "question": "A student answers “The muddy boot”. Which feedback helps? Task: A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "audio_prompt": "A student answers “The muddy boot”. Which feedback helps? Task: A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-004",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a boot noun group. Notice: Build noun groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the number of boots and their condition.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The muddy boot”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The two clean boots” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the number of boots and their condition. The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_a_hopping_verb_group_apply",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-005",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose a hopping verb group. Notice: Use articles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "hopped",
+        "is_correct": false
+      },
+      {
+        "text": "is hopping",
+        "is_correct": true
+      },
+      {
+        "text": "the quick hop",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Look for a helping word followed by an action word."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_a_hopping_verb_group_reason",
+    "question": "A student answers “hopped”. Which feedback helps? Task: The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "audio_prompt": "A student answers “hopped”. Which feedback helps? Task: The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-006",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose a hopping verb group. Notice: Use articles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “hopped”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the quick hop” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for a helping word followed by an action word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for a helping word followed by an action word. Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "show_a_future_action_apply",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-007",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Show a future action. Notice: Identify verb groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "will visit",
+        "is_correct": true
+      },
+      {
+        "text": "visited",
+        "is_correct": false
+      },
+      {
+        "text": "the farm visit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Choose two words that tell what the class plans to do."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "show_a_future_action_reason",
+    "question": "A student answers “the farm visit”. Which feedback helps? Task: Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "audio_prompt": "A student answers “the farm visit”. Which feedback helps? Task: Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-008",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Show a future action. Notice: Identify verb groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the farm visit”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose two words that tell what the class plans to do.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “visited” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose two words that tell what the class plans to do. Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "improve_birds_fly_apply",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-009",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Improve birds fly. Notice: Add precise details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The green parrots fly above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The bright green parrots above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The bright green parrots are flying above the trees.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Find both a detailed naming group and a complete two-word action group."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "improve_birds_fly_reason",
+    "question": "A student answers “The green parrots fly above the trees.”. Which feedback helps? Task: A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "audio_prompt": "A student answers “The green parrots fly above the trees.”. Which feedback helps? Task: A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-010",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Improve birds fly. Notice: Add precise details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Find both a detailed naming group and a complete two-word action group.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The green parrots fly above the trees.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The bright green parrots above the trees.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find both a detailed naming group and a complete two-word action group. The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "locate_the_whole_noun_group_apply",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-011",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Locate the whole noun group. Notice: Identify nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "smooth stones rolled",
+        "is_correct": false
+      },
+      {
+        "text": "The three smooth stones",
+        "is_correct": true
+      },
+      {
+        "text": "rolled downhill",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Start at the article and stop before the action word."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "locate_the_whole_noun_group_reason",
+    "question": "A student answers “rolled downhill”. Which feedback helps? Task: In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "audio_prompt": "A student answers “rolled downhill”. Which feedback helps? Task: In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-012",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Locate the whole noun group. Notice: Identify nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “rolled downhill”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “smooth stones rolled” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Start at the article and stop before the action word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Start at the article and stop before the action word. The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_useful_details_apply",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-013",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose useful details. Notice: Build noun groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the small wet puppy",
+        "is_correct": true
+      },
+      {
+        "text": "the small dry puppy",
+        "is_correct": false
+      },
+      {
+        "text": "the large wet puppy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use both size and condition clues from the context."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_useful_details_reason",
+    "question": "A student answers “the small dry puppy”. Which feedback helps? Task: A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "audio_prompt": "A student answers “the small dry puppy”. Which feedback helps? Task: A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-014",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose useful details. Notice: Build noun groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the small dry puppy”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use both size and condition clues from the context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the large wet puppy” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use both size and condition clues from the context. Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "describe_a_rabbit_exactly_apply",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-015",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe a rabbit exactly. Notice: Use articles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a smooth white rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a fluffy grey rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a fluffy white rabbit",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Choose the group that matches both texture and colour."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "describe_a_rabbit_exactly_reason",
+    "question": "A student answers “a fluffy grey rabbit”. Which feedback helps? Task: A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "audio_prompt": "A student answers “a fluffy grey rabbit”. Which feedback helps? Task: A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-016",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe a rabbit exactly. Notice: Use articles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the group that matches both texture and colour.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a fluffy grey rabbit”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a smooth white rabbit” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the group that matches both texture and colour. A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_a_shining_verb_group_apply",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-017",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose a shining verb group. Notice: Identify verb groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "shone",
+        "is_correct": false
+      },
+      {
+        "text": "was shining",
+        "is_correct": true
+      },
+      {
+        "text": "the shining moon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Find the helping word and action word, not a single verb or naming group."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "choose_a_shining_verb_group_reason",
+    "question": "A student answers “shone”. Which feedback helps? Task: The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "audio_prompt": "A student answers “shone”. Which feedback helps? Task: The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-018",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Choose a shining verb group. Notice: Identify verb groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “shone”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the shining moon” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the helping word and action word, not a single verb or naming group.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Find the helping word and action word, not a single verb or naming group. Was shining works together to tell what the moon was doing.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "build_a_precise_leaf_group_apply",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-019",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a precise leaf group. Notice: Add precise details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the large yellow leaf",
+        "is_correct": true
+      },
+      {
+        "text": "a small yellow leaf",
+        "is_correct": false
+      },
+      {
+        "text": "the large green leaf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use every clue needed to choose the exact object."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "build_a_precise_leaf_group_reason",
+    "question": "A student answers “the large green leaf”. Which feedback helps? Task: A child must collect the one large yellow leaf. Which label identifies it best?",
+    "audio_prompt": "A student answers “the large green leaf”. Which feedback helps? Task: A child must collect the one large yellow leaf. Which label identifies it best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-020",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a precise leaf group. Notice: Add precise details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the large green leaf”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use every clue needed to choose the exact object.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “a small yellow leaf” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use every clue needed to choose the exact object. Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "expand_a_simple_train_sentence_apply",
+    "question": "A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "audio_prompt": "A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-021",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Expand a simple train sentence. Notice: Identify nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The short silver train was moving through the tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "The long silver train moved through the tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "The long silver train was moving through the tunnel.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group matches the train, and was moving forms the requested verb group.",
+      "hint": "Check the visible details and look for a helping word with the action."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "expand_a_simple_train_sentence_reason",
+    "question": "A student answers “The short silver train was moving through the tunnel.”. Which feedback helps? Task: A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "audio_prompt": "A student answers “The short silver train was moving through the tunnel.”. Which feedback helps? Task: A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-022",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Expand a simple train sentence. Notice: Identify nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the visible details and look for a helping word with the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The short silver train was moving through the tunnel.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The long silver train moved through the tunnel.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the visible details and look for a helping word with the action. The noun group matches the train, and was moving forms the requested verb group.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "find_a_future_verb_group_apply",
+    "question": "In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "audio_prompt": "In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-023",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Find a future verb group. Notice: Build noun groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "perform",
+        "is_correct": false
+      },
+      {
+        "text": "will perform",
+        "is_correct": true
+      },
+      {
+        "text": "The two young singers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Will perform works together to show the future action.",
+      "hint": "Look for the helping word and the action word beside it."
+    }
+  },
+  {
+    "id": "AC9E2LA07-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "skill": "find_a_future_verb_group_reason",
+    "question": "A student answers “The two young singers”. Which feedback helps? Task: In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "audio_prompt": "A student answers “The two young singers”. Which feedback helps? Task: In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-p-024",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Find a future verb group. Notice: Build noun groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The two young singers”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “perform” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for the helping word and the action word beside it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for the helping word and the action word beside it. Will perform works together to show the future action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "build_a_wave_sentence_apply",
+    "question": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "audio_prompt": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-001",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a wave sentence. Notice: Identify nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The two enormous grey waves were crashing onto the rocks.",
+        "is_correct": true
+      },
+      {
+        "text": "The two small grey waves were crashing onto the rocks.",
+        "is_correct": false
+      },
+      {
+        "text": "The two enormous grey waves crashed onto the rocks.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Check every pictured detail and look for a two-word verb group."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "build_a_wave_sentence_reason",
+    "question": "A student answers “The two small grey waves were crashing onto the rocks.”. Which feedback helps? Task: A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "audio_prompt": "A student answers “The two small grey waves were crashing onto the rocks.”. Which feedback helps? Task: A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-002",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Build a wave sentence. Notice: Identify nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The two small grey waves were crashing onto the rocks.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check every pictured detail and look for a two-word verb group.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The two enormous grey waves crashed onto the rocks.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check every pictured detail and look for a two-word verb group. The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "find_the_finished_action_apply",
+    "question": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "audio_prompt": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-003",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Find the finished action. Notice: Build noun groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "finished",
+        "is_correct": false
+      },
+      {
+        "text": "the finished model",
+        "is_correct": false
+      },
+      {
+        "text": "has finished",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Has finished is a verb group telling what Mina completed.",
+      "hint": "Look for a helping word with the action word."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "find_the_finished_action_reason",
+    "question": "A student answers “the finished model”. Which feedback helps? Task: Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "audio_prompt": "A student answers “the finished model”. Which feedback helps? Task: Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-004",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Find the finished action. Notice: Build noun groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for a helping word with the action word.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the finished model”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “finished” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for a helping word with the action word. Has finished is a verb group telling what Mina completed.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "select_an_exact_backpack_group_apply",
+    "question": "The lost bag is red and torn. Which noun group identifies it precisely?",
+    "audio_prompt": "The lost bag is red and torn. Which noun group identifies it precisely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-005",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Select an exact backpack group. Notice: Use articles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the new red backpack",
+        "is_correct": false
+      },
+      {
+        "text": "the torn red backpack",
+        "is_correct": true
+      },
+      {
+        "text": "the torn blue backpack",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adjectives torn and red point to the correct backpack.",
+      "hint": "Use both details that separate this bag from other bags."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "select_an_exact_backpack_group_reason",
+    "question": "A student answers “the new red backpack”. Which feedback helps? Task: The lost bag is red and torn. Which noun group identifies it precisely?",
+    "audio_prompt": "A student answers “the new red backpack”. Which feedback helps? Task: The lost bag is red and torn. Which noun group identifies it precisely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-006",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Select an exact backpack group. Notice: Use articles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the new red backpack”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the torn blue backpack” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use both details that separate this bag from other bags.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use both details that separate this bag from other bags. The adjectives torn and red point to the correct backpack.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "expand_dog_barked_apply",
+    "question": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "audio_prompt": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-007",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Expand dog barked. Notice: Identify verb groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The nervous brown dog was barking.",
+        "is_correct": true
+      },
+      {
+        "text": "The calm brown dog was barking.",
+        "is_correct": false
+      },
+      {
+        "text": "The nervous brown dog barked once.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Keep the given appearance, feeling and continuing action."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "expand_dog_barked_reason",
+    "question": "A student answers “The nervous brown dog barked once.”. Which feedback helps? Task: Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "audio_prompt": "A student answers “The nervous brown dog barked once.”. Which feedback helps? Task: Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-008",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Expand dog barked. Notice: Identify verb groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The nervous brown dog barked once.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the given appearance, feeling and continuing action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The calm brown dog was barking.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep the given appearance, feeling and continuing action. The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "track_a_landing_verb_group_apply",
+    "question": "In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "audio_prompt": "In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-009",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Track a landing verb group. Notice: Add precise details. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "landed",
+        "is_correct": false
+      },
+      {
+        "text": "The three silver planes",
+        "is_correct": false
+      },
+      {
+        "text": "have landed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Have landed works together to express what the planes have done.",
+      "hint": "Find the helping word and action word together."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "track_a_landing_verb_group_reason",
+    "question": "A student answers “landed”. Which feedback helps? Task: In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "audio_prompt": "A student answers “landed”. Which feedback helps? Task: In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-010",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Track a landing verb group. Notice: Add precise details. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Find the helping word and action word together.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “landed”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The three silver planes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find the helping word and action word together. Have landed works together to express what the planes have done.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "match_a_bridge_image_apply",
+    "question": "Which noun group best matches a picture of one crooked old bridge?",
+    "audio_prompt": "Which noun group best matches a picture of one crooked old bridge?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-011",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Match a bridge image. Notice: Identify nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the crooked new bridge",
+        "is_correct": false
+      },
+      {
+        "text": "the crooked old bridge",
+        "is_correct": true
+      },
+      {
+        "text": "the straight old bridge",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Crooked and old give accurate details about the noun bridge.",
+      "hint": "Choose the naming group whose describing words match every visible clue."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "match_a_bridge_image_reason",
+    "question": "A student answers “the straight old bridge”. Which feedback helps? Task: Which noun group best matches a picture of one crooked old bridge?",
+    "audio_prompt": "A student answers “the straight old bridge”. Which feedback helps? Task: Which noun group best matches a picture of one crooked old bridge?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-012",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Match a bridge image. Notice: Identify nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the straight old bridge”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the crooked new bridge” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the naming group whose describing words match every visible clue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the naming group whose describing words match every visible clue. Crooked and old give accurate details about the noun bridge.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "describe_resting_hikers_apply",
+    "question": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "audio_prompt": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-013",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe resting hikers. Notice: Build noun groups. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The two tired young hikers were resting beside the track.",
+        "is_correct": true
+      },
+      {
+        "text": "The two energetic young hikers were resting beside the track.",
+        "is_correct": false
+      },
+      {
+        "text": "The two tired young hikers rested beside the track.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Check the hikers' details and look for a helping word with the action."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "describe_resting_hikers_reason",
+    "question": "A student answers “The two energetic young hikers were resting beside the track.”. Which feedback helps? Task: Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "audio_prompt": "A student answers “The two energetic young hikers were resting beside the track.”. Which feedback helps? Task: Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-014",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Describe resting hikers. Notice: Build noun groups. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The two energetic young hikers were resting beside the track.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the hikers' details and look for a helping word with the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The two tired young hikers rested beside the track.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the hikers' details and look for a helping word with the action. The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "replace_an_inaccurate_detail_apply",
+    "question": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "audio_prompt": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-015",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Replace an inaccurate detail. Notice: Use articles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the rough round pebble",
+        "is_correct": false
+      },
+      {
+        "text": "the smooth square pebble",
+        "is_correct": false
+      },
+      {
+        "text": "the smooth round pebble",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Replace the inaccurate detail and include both visible features."
+    }
+  },
+  {
+    "id": "AC9E2LA07-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "skill": "replace_an_inaccurate_detail_reason",
+    "question": "A student answers “the smooth square pebble”. Which feedback helps? Task: A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "audio_prompt": "A student answers “the smooth square pebble”. Which feedback helps? Task: A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la07.svg#ac9e2la07-t-016",
+      "alt_text": "Three-step Building Noun Groups and Verb Groups organiser. Read: Replace an inaccurate detail. Notice: Use articles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Replace the inaccurate detail and include both visible features.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the smooth square pebble”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the rough round pebble” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replace the inaccurate detail and include both visible features. Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

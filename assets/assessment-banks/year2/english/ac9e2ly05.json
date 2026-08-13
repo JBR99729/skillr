@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY05-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "predict_from_a_clue_apply",
+    "question": "The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
+    "audio_prompt": "The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-001",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Predict from a clue. Notice: Predict. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Dad may put the washing back outside to keep drying.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain may begin soon.",
+        "is_correct": true
+      },
+      {
+        "text": "The dark clouds may clear because the rain has already finished.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Darkening sky and bringing washing in are clues that rain may be coming.",
+      "hint": "Use events in the text, not a wild guess."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "predict_from_a_clue_reason",
+    "question": "A student answers “Dad may put the washing back outside to keep drying.”. Which feedback helps? Task: The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
+    "audio_prompt": "A student answers “Dad may put the washing back outside to keep drying.”. Which feedback helps? Task: The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-002",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Predict from a clue. Notice: Predict. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Dad may put the washing back outside to keep drying.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The dark clouds may clear because the rain has already finished.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use events in the text, not a wild guess.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use events in the text, not a wild guess. Darkening sky and bringing washing in are clues that rain may be coming.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "visualise_a_setting_apply",
+    "question": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
+    "audio_prompt": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-003",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Visualise a setting. Notice: Visualise and connect. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "yellow leaves swirling over a thin walkway",
+        "is_correct": true
+      },
+      {
+        "text": "brown leaves lying still across a wide road",
+        "is_correct": false
+      },
+      {
+        "text": "yellow leaves falling straight down beside a broad path",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Golden, spun and narrow provide colour, movement and shape for visualising.",
+      "hint": "Build the picture from each descriptive clue."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "visualise_a_setting_reason",
+    "question": "A student answers “yellow leaves falling straight down beside a broad path”. Which feedback helps? Task: Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
+    "audio_prompt": "A student answers “yellow leaves falling straight down beside a broad path”. Which feedback helps? Task: Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-004",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Visualise a setting. Notice: Visualise and connect. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “yellow leaves falling straight down beside a broad path”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Build the picture from each descriptive clue.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “brown leaves lying still across a wide road” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Build the picture from each descriptive clue. Golden, spun and narrow provide colour, movement and shape for visualising.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "find_literal_meaning_apply",
+    "question": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
+    "audio_prompt": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-005",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Find literal meaning. Notice: Monitor and question. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Nia dislikes every green apple.",
+        "is_correct": false
+      },
+      {
+        "text": "The basket belongs to Nia's grandmother.",
+        "is_correct": false
+      },
+      {
+        "text": "Nia put three red apples in a basket.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The number, colour, object and action are directly stated in the sentence.",
+      "hint": "For literal meaning, use only information the words clearly give."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "find_literal_meaning_reason",
+    "question": "A student answers “Nia dislikes every green apple.”. Which feedback helps? Task: The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
+    "audio_prompt": "A student answers “Nia dislikes every green apple.”. Which feedback helps? Task: The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-006",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Find literal meaning. Notice: Monitor and question. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "For literal meaning, use only information the words clearly give.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Nia dislikes every green apple.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The basket belongs to Nia's grandmother.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For literal meaning, use only information the words clearly give. The number, colour, object and action are directly stated in the sentence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "infer_a_feeling_apply",
+    "question": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
+    "audio_prompt": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-007",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Infer a feeling. Notice: Summarise. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "calm because he has taken one deep breath",
+        "is_correct": false
+      },
+      {
+        "text": "nervous about speaking",
+        "is_correct": true
+      },
+      {
+        "text": "excited because the crowd is waiting for him",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
+      "hint": "Combine the character's actions with what you know about the situation."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "infer_a_feeling_reason",
+    "question": "A student answers “excited because the crowd is waiting for him”. Which feedback helps? Task: Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
+    "audio_prompt": "A student answers “excited because the crowd is waiting for him”. Which feedback helps? Task: Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-008",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Infer a feeling. Notice: Summarise. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “excited because the crowd is waiting for him”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “calm because he has taken one deep breath” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Combine the character's actions with what you know about the situation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine the character's actions with what you know about the situation. Gripping the card and taking a deep breath before a crowd suggest nervousness.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "monitor_confusion_apply",
+    "question": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
+    "audio_prompt": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-009",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Monitor confusion. Notice: Infer with evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Stop, reread and ask whether the order makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Read on because an unusual sequence does not need checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the sentence to the end without rereading the paragraph.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring means noticing a meaning problem and checking the text again.",
+      "hint": "Respond when an idea conflicts with a sensible sequence."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "monitor_confusion_reason",
+    "question": "A student answers “Read on because an unusual sequence does not need checking.”. Which feedback helps? Task: A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
+    "audio_prompt": "A student answers “Read on because an unusual sequence does not need checking.”. Which feedback helps? Task: A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-010",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Monitor confusion. Notice: Infer with evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Read on because an unusual sequence does not need checking.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Respond when an idea conflicts with a sensible sequence.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Move the sentence to the end without rereading the paragraph.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respond when an idea conflicts with a sensible sequence. Monitoring means noticing a meaning problem and checking the text again.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "choose_a_summary_apply",
+    "question": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
+    "audio_prompt": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-011",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Choose a summary. Notice: Predict. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One bee landed on a purple flower at 10 o'clock.",
+        "is_correct": false
+      },
+      {
+        "text": "Bees, seeds, purple, flying, garden, wings.",
+        "is_correct": false
+      },
+      {
+        "text": "Bees collect food and help plants reproduce.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The summary keeps the main idea and important supporting information.",
+      "hint": "Leave out small examples and keep what the whole passage is mostly about."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "choose_a_summary_reason",
+    "question": "A student answers “Bees, seeds, purple, flying, garden, wings.”. Which feedback helps? Task: A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
+    "audio_prompt": "A student answers “Bees, seeds, purple, flying, garden, wings.”. Which feedback helps? Task: A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-012",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Choose a summary. Notice: Predict. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Leave out small examples and keep what the whole passage is mostly about.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Bees, seeds, purple, flying, garden, wings.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One bee landed on a purple flower at 10 o'clock.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leave out small examples and keep what the whole passage is mostly about. The summary keeps the main idea and important supporting information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "ask_a_useful_question_apply",
+    "question": "After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
+    "audio_prompt": "After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-013",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Ask a useful question. Notice: Visualise and connect. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Does the sentence contain the word plastic?",
+        "is_correct": false
+      },
+      {
+        "text": "How can people stop plastic reaching the ocean?",
+        "is_correct": true
+      },
+      {
+        "text": "What colour was the piece of plastic in the picture?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question connects to the problem and invites further thinking.",
+      "hint": "Ask about an important idea that the text raises."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "ask_a_useful_question_reason",
+    "question": "A student answers “Does the sentence contain the word plastic?”. Which feedback helps? Task: After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
+    "audio_prompt": "A student answers “Does the sentence contain the word plastic?”. Which feedback helps? Task: After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-014",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Ask a useful question. Notice: Visualise and connect. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Does the sentence contain the word plastic?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “What colour was the piece of plastic in the picture?” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask about an important idea that the text raises.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ask about an important idea that the text raises. The question connects to the problem and invites further thinking.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "make_a_text_connection_apply",
+    "question": "A character checks a map before a hike. Which connection could help a reader understand why?",
+    "audio_prompt": "A character checks a map before a hike. Which connection could help a reader understand why?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-015",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Make a text connection. Notice: Monitor and question. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I have used a map to avoid taking a wrong path.",
+        "is_correct": true
+      },
+      {
+        "text": "I have worn hiking shoes on a long walk.",
+        "is_correct": false
+      },
+      {
+        "text": "I once saw a map printed in bright colours.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The relevant experience explains how a map helps with finding a route.",
+      "hint": "Choose a connection that sheds light on the character's action."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "make_a_text_connection_reason",
+    "question": "A student answers “I once saw a map printed in bright colours.”. Which feedback helps? Task: A character checks a map before a hike. Which connection could help a reader understand why?",
+    "audio_prompt": "A student answers “I once saw a map printed in bright colours.”. Which feedback helps? Task: A character checks a map before a hike. Which connection could help a reader understand why?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-016",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Make a text connection. Notice: Monitor and question. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I once saw a map printed in bright colours.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a connection that sheds light on the character's action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I have worn hiking shoes on a long walk.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a connection that sheds light on the character's action. The relevant experience explains how a map helps with finding a route.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "predict_from_a_pattern_apply",
+    "question": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
+    "audio_prompt": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-017",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Predict from a pattern. Notice: Summarise. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The puppy may wait by the front door instead, with no new clue.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy may stop eating breakfast because the pattern happened twice.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy may wait there for food again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated morning behaviour supports a prediction that it will happen again.",
+      "hint": "Base the prediction on the pattern in the text."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "predict_from_a_pattern_reason",
+    "question": "A student answers “The puppy may wait by the front door instead, with no new clue.”. Which feedback helps? Task: On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
+    "audio_prompt": "A student answers “The puppy may wait by the front door instead, with no new clue.”. Which feedback helps? Task: On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-018",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Predict from a pattern. Notice: Summarise. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Base the prediction on the pattern in the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The puppy may wait by the front door instead, with no new clue.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The puppy may stop eating breakfast because the pattern happened twice.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Base the prediction on the pattern in the text. The repeated morning behaviour supports a prediction that it will happen again.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "monitor_a_pronoun_apply",
+    "question": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
+    "audio_prompt": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-019",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Monitor a pronoun. Notice: Infer with evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Assume her means Ella because Ella's name comes first.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread nearby sentences for a clue about who her refers to.",
+        "is_correct": true
+      },
+      {
+        "text": "Assume her means Priya because Priya's name is closest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rereading context can clarify an uncertain pronoun reference.",
+      "hint": "Notice exactly what is unclear and search nearby for evidence."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "monitor_a_pronoun_reason",
+    "question": "A student answers “Assume her means Priya because Priya's name is closest.”. Which feedback helps? Task: The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
+    "audio_prompt": "A student answers “Assume her means Priya because Priya's name is closest.”. Which feedback helps? Task: The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-020",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Monitor a pronoun. Notice: Infer with evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Assume her means Priya because Priya's name is closest.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Assume her means Ella because Ella's name comes first.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice exactly what is unclear and search nearby for evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice exactly what is unclear and search nearby for evidence. Rereading context can clarify an uncertain pronoun reference.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "summarise_a_sequence_apply",
+    "question": "A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
+    "audio_prompt": "A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-021",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Summarise a sequence. Notice: Predict. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A caterpillar changes through stages into a butterfly.",
+        "is_correct": true
+      },
+      {
+        "text": "The caterpillar ate one green leaf on Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "The passage is about every insect in the garden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The summary captures the important change across the whole sequence.",
+      "hint": "Combine the key stages into one main idea."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "summarise_a_sequence_reason",
+    "question": "A student answers “The caterpillar ate one green leaf on Tuesday.”. Which feedback helps? Task: A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
+    "audio_prompt": "A student answers “The caterpillar ate one green leaf on Tuesday.”. Which feedback helps? Task: A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-022",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Summarise a sequence. Notice: Predict. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The caterpillar ate one green leaf on Tuesday.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Combine the key stages into one main idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The passage is about every insect in the garden.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine the key stages into one main idea. The summary captures the important change across the whole sequence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "infer_a_place_apply",
+    "question": "People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
+    "audio_prompt": "People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-023",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Infer a place. Notice: Visualise and connect. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "in a quiet bookshop with a sales counter",
+        "is_correct": false
+      },
+      {
+        "text": "in a classroom reading corner with no borrowing desk",
+        "is_correct": false
+      },
+      {
+        "text": "in a library",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Quiet voices, bookshelves and a borrowing scanner are clues for a library.",
+      "hint": "Combine all the setting clues rather than relying on one word."
+    }
+  },
+  {
+    "id": "AC9E2LY05-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "practice",
+    "skill": "infer_a_place_reason",
+    "question": "A student answers “in a classroom reading corner with no borrowing desk”. Which feedback helps? Task: People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
+    "audio_prompt": "A student answers “in a classroom reading corner with no borrowing desk”. Which feedback helps? Task: People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-p-024",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: Infer a place. Notice: Visualise and connect. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Combine all the setting clues rather than relying on one word.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “in a classroom reading corner with no borrowing desk”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “in a quiet bookshop with a sales counter” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine all the setting clues rather than relying on one word. Quiet voices, bookshelves and a borrowing scanner are clues for a library.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_connect_to_knowledge_apply",
+    "question": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
+    "audio_prompt": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-001",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: connect to knowledge. Notice: Predict. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Students wear jackets for every sport played on an oval.",
+        "is_correct": false
+      },
+      {
+        "text": "Frost forms in very cold conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "Frost usually forms on the hottest, sunniest mornings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Knowing frost signals cold conditions helps connect the two details.",
+      "hint": "Use relevant real-world knowledge that fits the text clue."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_connect_to_knowledge_reason",
+    "question": "A student answers “Students wear jackets for every sport played on an oval.”. Which feedback helps? Task: A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
+    "audio_prompt": "A student answers “Students wear jackets for every sport played on an oval.”. Which feedback helps? Task: A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-002",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: connect to knowledge. Notice: Predict. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Students wear jackets for every sport played on an oval.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Frost usually forms on the hottest, sunniest mornings.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use relevant real-world knowledge that fits the text clue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use relevant real-world knowledge that fits the text clue. Knowing frost signals cold conditions helps connect the two details.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_revise_prediction_apply",
+    "question": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
+    "audio_prompt": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-003",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: revise prediction. Notice: Visualise and connect. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Change the prediction to fit the new clue.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the shed prediction because a first prediction should not change.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the prediction to the roof because any new guess is a revision.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Readers revise predictions when later evidence points somewhere different.",
+      "hint": "A prediction should remain connected to the newest clues."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_revise_prediction_reason",
+    "question": "A student answers “Change the prediction to the roof because any new guess is a revision.”. Which feedback helps? Task: At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
+    "audio_prompt": "A student answers “Change the prediction to the roof because any new guess is a revision.”. Which feedback helps? Task: At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-004",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: revise prediction. Notice: Visualise and connect. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the prediction to the roof because any new guess is a revision.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A prediction should remain connected to the newest clues.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Keep the shed prediction because a first prediction should not change.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction should remain connected to the newest clues. Readers revise predictions when later evidence points somewhere different.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_infer_a_cause_apply",
+    "question": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
+    "audio_prompt": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-005",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: infer a cause. Notice: Monitor and question. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Someone probably spilled water on every coat inside.",
+        "is_correct": false
+      },
+      {
+        "text": "It is probably hot and dry outside, so the windows fogged.",
+        "is_correct": false
+      },
+      {
+        "text": "It is probably wet outside.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
+      "hint": "Combine several clues to reach one reasonable idea."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_infer_a_cause_reason",
+    "question": "A student answers “Someone probably spilled water on every coat inside.”. Which feedback helps? Task: The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
+    "audio_prompt": "A student answers “Someone probably spilled water on every coat inside.”. Which feedback helps? Task: The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-006",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: infer a cause. Notice: Monitor and question. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Combine several clues to reach one reasonable idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Someone probably spilled water on every coat inside.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “It is probably hot and dry outside, so the windows fogged.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine several clues to reach one reasonable idea. Dripping coats, an umbrella and foggy windows together suggest wet weather.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_main_idea_apply",
+    "question": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
+    "audio_prompt": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-007",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: main idea. Notice: Summarise. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Roots take in water for a plant.",
+        "is_correct": false
+      },
+      {
+        "text": "Roots do several important jobs for a plant.",
+        "is_correct": true
+      },
+      {
+        "text": "Roots store food for a plant.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All supporting points explain useful jobs performed by roots.",
+      "hint": "Find the idea that covers every important sentence."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_main_idea_reason",
+    "question": "A student answers “Roots store food for a plant.”. Which feedback helps? Task: A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
+    "audio_prompt": "A student answers “Roots store food for a plant.”. Which feedback helps? Task: A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-008",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: main idea. Notice: Summarise. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Roots store food for a plant.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Roots take in water for a plant.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the idea that covers every important sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Find the idea that covers every important sentence. All supporting points explain useful jobs performed by roots.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_literal_and_inferred_apply",
+    "question": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
+    "audio_prompt": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-009",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: literal and inferred. Notice: Infer with evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mika may be feeling cold.",
+        "is_correct": true
+      },
+      {
+        "text": "Mika closed the window.",
+        "is_correct": false
+      },
+      {
+        "text": "Mika pulled on a jumper.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Feeling cold is not stated but is supported by the two actions.",
+      "hint": "Choose an idea built from clues rather than copied directly."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_literal_and_inferred_reason",
+    "question": "A student answers “Mika closed the window.”. Which feedback helps? Task: The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
+    "audio_prompt": "A student answers “Mika closed the window.”. Which feedback helps? Task: The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-010",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: literal and inferred. Notice: Infer with evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Mika closed the window.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an idea built from clues rather than copied directly.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Mika pulled on a jumper.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose an idea built from clues rather than copied directly. Feeling cold is not stated but is supported by the two actions.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_monitor_a_word_apply",
+    "question": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
+    "audio_prompt": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-011",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: monitor a word. Notice: Predict. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the familiar meaning now without rereading the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the river picture alone without checking the nearby words",
+        "is_correct": false
+      },
+      {
+        "text": "the nearby sentences to see which meaning fits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Context can show that current means moving water in this river passage.",
+      "hint": "Words can have more than one meaning, so reread around the word."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_monitor_a_word_reason",
+    "question": "A student answers “the river picture alone without checking the nearby words”. Which feedback helps? Task: A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
+    "audio_prompt": "A student answers “the river picture alone without checking the nearby words”. Which feedback helps? Task: A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-012",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: monitor a word. Notice: Predict. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Words can have more than one meaning, so reread around the word.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the river picture alone without checking the nearby words”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the familiar meaning now without rereading the sentence” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words can have more than one meaning, so reread around the word. Context can show that current means moving water in this river passage.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_visualise_movement_apply",
+    "question": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
+    "audio_prompt": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-013",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: visualise movement. Notice: Visualise and connect. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a large ship resting on still sand",
+        "is_correct": false
+      },
+      {
+        "text": "a small boat moving up and down on dark waves",
+        "is_correct": true
+      },
+      {
+        "text": "a tiny boat tied inside a bright shed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Tiny, bobbed, dark and rolling build a specific mental image.",
+      "hint": "Use size, action and setting words together."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_visualise_movement_reason",
+    "question": "A student answers “a large ship resting on still sand”. Which feedback helps? Task: Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
+    "audio_prompt": "A student answers “a large ship resting on still sand”. Which feedback helps? Task: Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-014",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: visualise movement. Notice: Visualise and connect. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a large ship resting on still sand”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a tiny boat tied inside a bright shed” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use size, action and setting words together.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use size, action and setting words together. Tiny, bobbed, dark and rolling build a specific mental image.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_question_an_inference_apply",
+    "question": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
+    "audio_prompt": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-015",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: question an inference. Notice: Monitor and question. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Is there another clue showing Jaya touched or hid the note?",
+        "is_correct": true
+      },
+      {
+        "text": "What words were written on the torn note?",
+        "is_correct": false
+      },
+      {
+        "text": "When did another character first notice the tear?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question seeks more relevant evidence before accepting the inference.",
+      "hint": "Ask for a clue that could support or challenge the inferred action."
+    }
+  },
+  {
+    "id": "AC9E2LY05-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY05",
+    "bank": "test",
+    "skill": "test_question_an_inference_reason",
+    "question": "A student answers “When did another character first notice the tear?”. Which feedback helps? Task: A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
+    "audio_prompt": "A student answers “When did another character first notice the tear?”. Which feedback helps? Task: A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly05.svg#ac9e2ly05-t-016",
+      "alt_text": "Three-step Comprehension Strategies organiser. Read: question an inference. Notice: Monitor and question. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “When did another character first notice the tear?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask for a clue that could support or challenge the inferred action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “What words were written on the torn note?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ask for a clue that could support or challenge the inferred action. The question seeks more relevant evidence before accepting the inference.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

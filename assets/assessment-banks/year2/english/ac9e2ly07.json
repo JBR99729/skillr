@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY07-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "clear_presentation_opening_apply",
+    "question": "Which opening clearly introduces a one-minute talk about bees?",
+    "audio_prompt": "Which opening clearly introduces a one-minute talk about bees?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-001",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Clear presentation opening. Notice: Plan presentation structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Today I will explain how bees carry pollen between flowers.",
+        "is_correct": true
+      },
+      {
+        "text": "Today I am going to say some facts about bees.",
+        "is_correct": false
+      },
+      {
+        "text": "Bees are interesting, so please listen to my talk.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening names the topic and tells the audience what will be explained.",
+      "hint": "Choose an opening that prepares listeners for the main idea."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "clear_presentation_opening_reason",
+    "question": "A student answers “Today I am going to say some facts about bees.”. Which feedback helps? Task: Which opening clearly introduces a one-minute talk about bees?",
+    "audio_prompt": "A student answers “Today I am going to say some facts about bees.”. Which feedback helps? Task: Which opening clearly introduces a one-minute talk about bees?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-002",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Clear presentation opening. Notice: Plan presentation structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Today I am going to say some facts about bees.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an opening that prepares listeners for the main idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Bees are interesting, so please listen to my talk.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose an opening that prepares listeners for the main idea. The opening names the topic and tells the audience what will be explained.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "choose_useful_visual_support_apply",
+    "question": "A student explains the frog life cycle. Which visual would help the audience most?",
+    "audio_prompt": "A student explains the frog life cycle. Which visual would help the audience most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-003",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Choose useful visual support. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "one large photo showing only an adult frog",
+        "is_correct": false
+      },
+      {
+        "text": "pictures of the stages placed randomly without arrows",
+        "is_correct": false
+      },
+      {
+        "text": "an ordered diagram from eggs to tadpole to adult frog",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An ordered life-cycle diagram makes the changing stages easier to follow.",
+      "hint": "Choose a visual that adds structure or information to the talk."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "choose_useful_visual_support_reason",
+    "question": "A student answers “pictures of the stages placed randomly without arrows”. Which feedback helps? Task: A student explains the frog life cycle. Which visual would help the audience most?",
+    "audio_prompt": "A student answers “pictures of the stages placed randomly without arrows”. Which feedback helps? Task: A student explains the frog life cycle. Which visual would help the audience most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-004",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Choose useful visual support. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a visual that adds structure or information to the talk.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “pictures of the stages placed randomly without arrows”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “one large photo showing only an adult frog” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a visual that adds structure or information to the talk. An ordered life-cycle diagram makes the changing stages easier to follow.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_topic_vocabulary_apply",
+    "question": "Which sentence uses accurate vocabulary in a talk about weather?",
+    "audio_prompt": "Which sentence uses accurate vocabulary in a talk about weather?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-005",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use topic vocabulary. Notice: Choose visual support. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The weather container caught about this much rain.",
+        "is_correct": false
+      },
+      {
+        "text": "The rain gauge collected 12 millimetres of rain.",
+        "is_correct": true
+      },
+      {
+        "text": "The wind vane collected 12 millimetres of rain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rain gauge and millimetres are precise words for reporting rainfall.",
+      "hint": "Choose topic words that name the tool and measurement accurately."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_topic_vocabulary_reason",
+    "question": "A student answers “The weather container caught about this much rain.”. Which feedback helps? Task: Which sentence uses accurate vocabulary in a talk about weather?",
+    "audio_prompt": "A student answers “The weather container caught about this much rain.”. Which feedback helps? Task: Which sentence uses accurate vocabulary in a talk about weather?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-006",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use topic vocabulary. Notice: Choose visual support. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The weather container caught about this much rain.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The wind vane collected 12 millimetres of rain.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose topic words that name the tool and measurement accurately.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose topic words that name the tool and measurement accurately. Rain gauge and millimetres are precise words for reporting rainfall.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "volume_for_the_room_apply",
+    "question": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
+    "audio_prompt": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-007",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Volume for the room. Notice: Vary delivery. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Increase her volume enough for the back row to hear clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the same volume but move closer to the first row.",
+        "is_correct": false
+      },
+      {
+        "text": "Use her loudest voice for every word, even when the room can hear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
+      "hint": "Match volume to the size and distance of the audience."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "volume_for_the_room_reason",
+    "question": "A student answers “Use her loudest voice for every word, even when the room can hear.”. Which feedback helps? Task: Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
+    "audio_prompt": "A student answers “Use her loudest voice for every word, even when the room can hear.”. Which feedback helps? Task: Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-008",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Volume for the room. Notice: Vary delivery. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Use her loudest voice for every word, even when the room can hear.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match volume to the size and distance of the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Keep the same volume but move closer to the first row.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match volume to the size and distance of the audience. A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "pace_for_an_important_point_apply",
+    "question": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
+    "audio_prompt": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-009",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Pace for an important point. Notice: Respond to feedback. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Rush the rule so the talk ends sooner.",
+        "is_correct": false
+      },
+      {
+        "text": "Mumble the rule while changing the slide.",
+        "is_correct": false
+      },
+      {
+        "text": "Slow slightly and pause before the rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A slower pace and purposeful pause draw attention to the key rule.",
+      "hint": "Use pace and pauses to make important meaning clear."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "pace_for_an_important_point_reason",
+    "question": "A student answers “Rush the rule so the talk ends sooner.”. Which feedback helps? Task: Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
+    "audio_prompt": "A student answers “Rush the rule so the talk ends sooner.”. Which feedback helps? Task: Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-010",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Pace for an important point. Notice: Respond to feedback. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use pace and pauses to make important meaning clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Rush the rule so the talk ends sooner.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Mumble the rule while changing the slide.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use pace and pauses to make important meaning clear. A slower pace and purposeful pause draw attention to the key rule.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "tone_for_purpose_apply",
+    "question": "Which tone best suits a cheerful welcome to new students?",
+    "audio_prompt": "Which tone best suits a cheerful welcome to new students?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-011",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Tone for purpose. Notice: Plan presentation structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "angry and accusing",
+        "is_correct": false
+      },
+      {
+        "text": "warm and friendly",
+        "is_correct": true
+      },
+      {
+        "text": "bored and dismissive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A warm, friendly tone supports the purpose of making newcomers feel welcome.",
+      "hint": "Match the feeling in the voice to the message and audience."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "tone_for_purpose_reason",
+    "question": "A student answers “bored and dismissive”. Which feedback helps? Task: Which tone best suits a cheerful welcome to new students?",
+    "audio_prompt": "A student answers “bored and dismissive”. Which feedback helps? Task: Which tone best suits a cheerful welcome to new students?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-012",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Tone for purpose. Notice: Plan presentation structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “bored and dismissive”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “angry and accusing” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the feeling in the voice to the message and audience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the feeling in the voice to the message and audience. A warm, friendly tone supports the purpose of making newcomers feel welcome.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_rehearsal_feedback_apply",
+    "question": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
+    "audio_prompt": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-013",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use rehearsal feedback. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Rehearse again at a steadier pace while keeping the diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the fast pace but repeat every sentence a second time.",
+        "is_correct": false
+      },
+      {
+        "text": "Slow down only while pointing to the diagram, then rush the spoken points.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The presenter can keep the strength and practise the delivery point that needs work.",
+      "hint": "Use feedback to make one clear, testable improvement."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_rehearsal_feedback_reason",
+    "question": "A student answers “Keep the fast pace but repeat every sentence a second time.”. Which feedback helps? Task: A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
+    "audio_prompt": "A student answers “Keep the fast pace but repeat every sentence a second time.”. Which feedback helps? Task: A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-014",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use rehearsal feedback. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Keep the fast pace but repeat every sentence a second time.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback to make one clear, testable improvement.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Slow down only while pointing to the diagram, then rush the spoken points.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use feedback to make one clear, testable improvement. The presenter can keep the strength and practise the delivery point that needs work.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "welcome_the_audience_apply",
+    "question": "Which greeting best starts a class presentation for visiting families?",
+    "audio_prompt": "Which greeting best starts a class presentation for visiting families?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-015",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Welcome the audience. Notice: Choose visual support. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Hello. Our garden changed in some ways.",
+        "is_correct": false
+      },
+      {
+        "text": "Good afternoon. Gardens are places where people grow plants.",
+        "is_correct": false
+      },
+      {
+        "text": "Good afternoon, families. We will show how our garden has changed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The greeting welcomes the audience and clearly introduces the topic.",
+      "hint": "Choose an opening with a suitable tone and useful topic information."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "welcome_the_audience_reason",
+    "question": "A student answers “Good afternoon. Gardens are places where people grow plants.”. Which feedback helps? Task: Which greeting best starts a class presentation for visiting families?",
+    "audio_prompt": "A student answers “Good afternoon. Gardens are places where people grow plants.”. Which feedback helps? Task: Which greeting best starts a class presentation for visiting families?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-016",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Welcome the audience. Notice: Choose visual support. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose an opening with a suitable tone and useful topic information.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Good afternoon. Gardens are places where people grow plants.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Hello. Our garden changed in some ways.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose an opening with a suitable tone and useful topic information. The greeting welcomes the audience and clearly introduces the topic.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "order_supporting_points_apply",
+    "question": "A talk explains how to care for a pet fish. Which order is easiest to follow?",
+    "audio_prompt": "A talk explains how to care for a pet fish. Which order is easiest to follow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-017",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Order supporting points. Notice: Vary delivery. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "safe tank, final reminder, food, clean water",
+        "is_correct": false
+      },
+      {
+        "text": "food, clean water, safe tank, final reminder",
+        "is_correct": true
+      },
+      {
+        "text": "food, clean water, food again, final reminder",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Related care points follow a clear sequence before the closing reminder.",
+      "hint": "Put the main information between an understood topic and the conclusion."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "order_supporting_points_reason",
+    "question": "A student answers “safe tank, final reminder, food, clean water”. Which feedback helps? Task: A talk explains how to care for a pet fish. Which order is easiest to follow?",
+    "audio_prompt": "A student answers “safe tank, final reminder, food, clean water”. Which feedback helps? Task: A talk explains how to care for a pet fish. Which order is easiest to follow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-018",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Order supporting points. Notice: Vary delivery. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “safe tank, final reminder, food, clean water”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “food, clean water, food again, final reminder” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the main information between an understood topic and the conclusion.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Put the main information between an understood topic and the conclusion. Related care points follow a clear sequence before the closing reminder.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_a_prompt_card_apply",
+    "question": "Which prompt card would help a student speak to the audience instead of reading every word?",
+    "audio_prompt": "Which prompt card would help a student speak to the audience instead of reading every word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-019",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use a prompt card. Notice: Respond to feedback. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "three short key phrases in large print",
+        "is_correct": true
+      },
+      {
+        "text": "the full talk written as several small paragraphs",
+        "is_correct": false
+      },
+      {
+        "text": "one detailed topic picture with no words to cue the speaking points",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Short key phrases remind the speaker of ideas while allowing eye contact.",
+      "hint": "A prompt should cue ideas rather than replace the presentation."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "use_a_prompt_card_reason",
+    "question": "A student answers “one detailed topic picture with no words to cue the speaking points”. Which feedback helps? Task: Which prompt card would help a student speak to the audience instead of reading every word?",
+    "audio_prompt": "A student answers “one detailed topic picture with no words to cue the speaking points”. Which feedback helps? Task: Which prompt card would help a student speak to the audience instead of reading every word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-020",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Use a prompt card. Notice: Respond to feedback. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “one detailed topic picture with no words to cue the speaking points”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A prompt should cue ideas rather than replace the presentation.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the full talk written as several small paragraphs” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prompt should cue ideas rather than replace the presentation. Short key phrases remind the speaker of ideas while allowing eye contact.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "gesture_supports_meaning_apply",
+    "question": "While explaining the parts of a plant diagram, which action helps listeners follow?",
+    "audio_prompt": "While explaining the parts of a plant diagram, which action helps listeners follow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-021",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Gesture supports meaning. Notice: Plan presentation structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Point to the next label while still explaining the previous part.",
+        "is_correct": false
+      },
+      {
+        "text": "Point quickly to every label before beginning the explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Point to each labelled part as it is explained.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Pointing to the matching label connects the spoken explanation with the visual.",
+      "hint": "Make movement direct attention to the exact idea being discussed."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "gesture_supports_meaning_reason",
+    "question": "A student answers “Point to the next label while still explaining the previous part.”. Which feedback helps? Task: While explaining the parts of a plant diagram, which action helps listeners follow?",
+    "audio_prompt": "A student answers “Point to the next label while still explaining the previous part.”. Which feedback helps? Task: While explaining the parts of a plant diagram, which action helps listeners follow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-022",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Gesture supports meaning. Notice: Plan presentation structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Make movement direct attention to the exact idea being discussed.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Point to the next label while still explaining the previous part.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Point quickly to every label before beginning the explanation.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Make movement direct attention to the exact idea being discussed. Pointing to the matching label connects the spoken explanation with the visual.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "practise_a_difficult_word_apply",
+    "question": "During rehearsal, a speaker stumbles over evaporation. What is the best next step?",
+    "audio_prompt": "During rehearsal, a speaker stumbles over evaporation. What is the best next step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-023",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Practise a difficult word. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Repeat the whole sentence without isolating the difficult word.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise the word slowly, then use it in the full sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace evaporation with water change and stop practising it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Focused word practice supports accurate topic vocabulary in the complete talk.",
+      "hint": "Repair the difficult part before rehearsing it in context."
+    }
+  },
+  {
+    "id": "AC9E2LY07-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "practice",
+    "skill": "practise_a_difficult_word_reason",
+    "question": "A student answers “Replace evaporation with water change and stop practising it.”. Which feedback helps? Task: During rehearsal, a speaker stumbles over evaporation. What is the best next step?",
+    "audio_prompt": "A student answers “Replace evaporation with water change and stop practising it.”. Which feedback helps? Task: During rehearsal, a speaker stumbles over evaporation. What is the best next step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-p-024",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: Practise a difficult word. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Replace evaporation with water change and stop practising it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Repeat the whole sentence without isolating the difficult word.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Repair the difficult part before rehearsing it in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repair the difficult part before rehearsing it in context. Focused word practice supports accurate topic vocabulary in the complete talk.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_organise_a_talk_apply",
+    "question": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
+    "audio_prompt": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-001",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: organise a talk. Notice: Plan presentation structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "greeting, watering advice, sunlight advice, final reminder",
+        "is_correct": true
+      },
+      {
+        "text": "final reminder, sunlight advice, greeting, watering advice",
+        "is_correct": false
+      },
+      {
+        "text": "watering advice repeated four times with no opening",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear talk opens the topic, groups useful points and closes with a reminder.",
+      "hint": "Arrange the presentation so listeners know the topic before the details."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_organise_a_talk_reason",
+    "question": "A student answers “final reminder, sunlight advice, greeting, watering advice”. Which feedback helps? Task: A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
+    "audio_prompt": "A student answers “final reminder, sunlight advice, greeting, watering advice”. Which feedback helps? Task: A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-002",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: organise a talk. Notice: Plan presentation structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “final reminder, sunlight advice, greeting, watering advice”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Arrange the presentation so listeners know the topic before the details.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “watering advice repeated four times with no opening” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Arrange the presentation so listeners know the topic before the details. A clear talk opens the topic, groups useful points and closes with a reminder.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_visual_does_not_repeat_apply",
+    "question": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
+    "audio_prompt": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-003",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: visual does not repeat. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Keep the paragraph and highlight nearly every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the paragraph into ten full-sentence bullet points.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the paragraph with a few key words and one useful image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Brief prompts and a relevant image support the speaker instead of duplicating the whole talk.",
+      "hint": "A visual should help listeners follow, not become a script to read aloud."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_visual_does_not_repeat_reason",
+    "question": "A student answers “Change the paragraph into ten full-sentence bullet points.”. Which feedback helps? Task: A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
+    "audio_prompt": "A student answers “Change the paragraph into ten full-sentence bullet points.”. Which feedback helps? Task: A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-004",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: visual does not repeat. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "A visual should help listeners follow, not become a script to read aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the paragraph into ten full-sentence bullet points.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Keep the paragraph and highlight nearly every sentence.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A visual should help listeners follow, not become a script to read aloud. Brief prompts and a relevant image support the speaker instead of duplicating the whole talk.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_pause_after_a_question_apply",
+    "question": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
+    "audio_prompt": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-005",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: pause after a question. Notice: Choose visual support. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Repeat the question straight away without waiting for anyone.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause briefly so the audience can think or respond.",
+        "is_correct": true
+      },
+      {
+        "text": "Move to the next slide after one second without looking for responses.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A short pause gives listeners time to process and respond to the question.",
+      "hint": "Think about what the audience needs after being asked something."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_pause_after_a_question_reason",
+    "question": "A student answers “Repeat the question straight away without waiting for anyone.”. Which feedback helps? Task: A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
+    "audio_prompt": "A student answers “Repeat the question straight away without waiting for anyone.”. Which feedback helps? Task: A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-006",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: pause after a question. Notice: Choose visual support. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Repeat the question straight away without waiting for anyone.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Move to the next slide after one second without looking for responses.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about what the audience needs after being asked something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Think about what the audience needs after being asked something. A short pause gives listeners time to process and respond to the question.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_adjust_for_young_audience_apply",
+    "question": "A student will explain recycling to a Foundation class. Which change best suits the audience?",
+    "audio_prompt": "A student will explain recycling to a Foundation class. Which change best suits the audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-007",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: adjust for young audience. Notice: Vary delivery. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use familiar words, short points and clear pictures of the bins.",
+        "is_correct": true
+      },
+      {
+        "text": "Use unexplained technical terms in long sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak quickly because younger listeners need less time.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Familiar language, concise points and clear pictures support younger listeners.",
+      "hint": "Adjust vocabulary, detail and pace for the audience."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_adjust_for_young_audience_reason",
+    "question": "A student answers “Speak quickly because younger listeners need less time.”. Which feedback helps? Task: A student will explain recycling to a Foundation class. Which change best suits the audience?",
+    "audio_prompt": "A student answers “Speak quickly because younger listeners need less time.”. Which feedback helps? Task: A student will explain recycling to a Foundation class. Which change best suits the audience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-008",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: adjust for young audience. Notice: Vary delivery. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Speak quickly because younger listeners need less time.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Adjust vocabulary, detail and pace for the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Use unexplained technical terms in long sentences.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adjust vocabulary, detail and pace for the audience. Familiar language, concise points and clear pictures support younger listeners.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_respond_to_delivery_evidence_apply",
+    "question": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
+    "audio_prompt": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-009",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: respond to delivery evidence. Notice: Respond to feedback. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Repeat the ending twice while keeping the same quiet volume.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more details to the ending without changing the volume.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise the ending with steady volume and a clear final sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A steady volume and clear final sentence help the audience hear the conclusion.",
+      "hint": "Use the rehearsal evidence to target the exact delivery problem."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_respond_to_delivery_evidence_reason",
+    "question": "A student answers “Repeat the ending twice while keeping the same quiet volume.”. Which feedback helps? Task: During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
+    "audio_prompt": "A student answers “Repeat the ending twice while keeping the same quiet volume.”. Which feedback helps? Task: During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-010",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: respond to delivery evidence. Notice: Respond to feedback. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the rehearsal evidence to target the exact delivery problem.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Repeat the ending twice while keeping the same quiet volume.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Add more details to the ending without changing the volume.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the rehearsal evidence to target the exact delivery problem. A steady volume and clear final sentence help the audience hear the conclusion.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_reflect_after_presenting_apply",
+    "question": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
+    "audio_prompt": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-011",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: reflect after presenting. Notice: Plan presentation structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Add labels to every picture but leave the main message unstated.",
+        "is_correct": false
+      },
+      {
+        "text": "State the main message clearly in the opening and ending.",
+        "is_correct": true
+      },
+      {
+        "text": "State the main message once in the middle, between two pictures.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeating the main message at key structural points makes it easier to remember.",
+      "hint": "Reflect on what the audience understood, then revise the structure."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_reflect_after_presenting_reason",
+    "question": "A student answers “State the main message once in the middle, between two pictures.”. Which feedback helps? Task: After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
+    "audio_prompt": "A student answers “State the main message once in the middle, between two pictures.”. Which feedback helps? Task: After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-012",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: reflect after presenting. Notice: Plan presentation structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “State the main message once in the middle, between two pictures.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Add labels to every picture but leave the main message unstated.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Reflect on what the audience understood, then revise the structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reflect on what the audience understood, then revise the structure. Repeating the main message at key structural points makes it easier to remember.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_accurate_topic_word_apply",
+    "question": "A speaker explains that water changes into vapour. Which word names this process accurately?",
+    "audio_prompt": "A speaker explains that water changes into vapour. Which word names this process accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-013",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: accurate topic word. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "evaporation",
+        "is_correct": true
+      },
+      {
+        "text": "melting",
+        "is_correct": false
+      },
+      {
+        "text": "freezing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaporation is the process in which liquid water changes into water vapour.",
+      "hint": "Choose the process that changes a liquid into a gas."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_accurate_topic_word_reason",
+    "question": "A student answers “melting”. Which feedback helps? Task: A speaker explains that water changes into vapour. Which word names this process accurately?",
+    "audio_prompt": "A student answers “melting”. Which feedback helps? Task: A speaker explains that water changes into vapour. Which word names this process accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-014",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: accurate topic word. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “melting”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the process that changes a liquid into a gas.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “freezing” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the process that changes a liquid into a gas. Evaporation is the process in which liquid water changes into water vapour.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_act_on_visual_feedback_apply",
+    "question": "Listeners say the labels on a map are too small to read. What should the presenter revise?",
+    "audio_prompt": "Listeners say the labels on a map are too small to read. What should the presenter revise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-015",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: act on visual feedback. Notice: Choose visual support. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Make the labels smaller so more fit.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the map unchanged and speak about unseen labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Enlarge the labels and check them from the back of the room.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Larger labels tested at audience distance make the visual usable.",
+      "hint": "Respond to the exact problem the listeners reported."
+    }
+  },
+  {
+    "id": "AC9E2LY07-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY07",
+    "bank": "test",
+    "skill": "test_act_on_visual_feedback_reason",
+    "question": "A student answers “Keep the map unchanged and speak about unseen labels.”. Which feedback helps? Task: Listeners say the labels on a map are too small to read. What should the presenter revise?",
+    "audio_prompt": "A student answers “Keep the map unchanged and speak about unseen labels.”. Which feedback helps? Task: Listeners say the labels on a map are too small to read. What should the presenter revise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly07.svg#ac9e2ly07-t-016",
+      "alt_text": "Three-step Rehearsing and Delivering Presentations organiser. Read: act on visual feedback. Notice: Choose visual support. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Respond to the exact problem the listeners reported.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Keep the map unchanged and speak about unseen labels.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Make the labels smaller so more fit.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respond to the exact problem the listeners reported. Larger labels tested at audience distance make the visual usable.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

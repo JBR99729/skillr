@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY02-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond_to_a_partner_apply",
+    "question": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
+    "audio_prompt": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-001",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Gardens have plants, and shade cloth comes in many colours.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree because the seedlings dried out. We could add a shade cloth.",
+        "is_correct": true
+      },
+      {
+        "text": "No, the garden is fine, so we do not need to discuss your idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reply connects to Lina's point, gives a reason and extends the idea.",
+      "hint": "Choose a response that uses what the partner actually said."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond_to_a_partner_reason",
+    "question": "A student answers “Gardens have plants, and shade cloth comes in many colours.”. Which feedback helps? Task: Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
+    "audio_prompt": "A student answers “Gardens have plants, and shade cloth comes in many colours.”. Which feedback helps? Task: Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-002",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Gardens have plants, and shade cloth comes in many colours.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “No, the garden is fine, so we do not need to discuss your idea.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a response that uses what the partner actually said.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose a response that uses what the partner actually said. The reply connects to Lina's point, gives a reason and extends the idea.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "paraphrase_an_instruction_apply",
+    "question": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
+    "audio_prompt": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-003",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "So I collect a tray and three leaves before joining my group?",
+        "is_correct": true
+      },
+      {
+        "text": "I will do something with leaves later.",
+        "is_correct": false
+      },
+      {
+        "text": "I heard the word group, so I can skip the other steps.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates the important steps in order and asks for confirmation.",
+      "hint": "Listen for every action and its order."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "paraphrase_an_instruction_reason",
+    "question": "A student answers “I heard the word group, so I can skip the other steps.”. Which feedback helps? Task: The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
+    "audio_prompt": "A student answers “I heard the word group, so I can skip the other steps.”. Which feedback helps? Task: The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-004",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I heard the word group, so I can skip the other steps.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for every action and its order.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I will do something with leaves later.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listen for every action and its order. The reply restates the important steps in order and asks for confirmation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respectful_disagreement_apply",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "audio_prompt": "Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-005",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "That is a terrible idea.",
+        "is_correct": false
+      },
+      {
+        "text": "You are wrong, and I will not explain.",
+        "is_correct": false
+      },
+      {
+        "text": "I think it should continue because the lost map has not been found.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Look for a calm disagreement with a relevant reason."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respectful_disagreement_reason",
+    "question": "A student answers “That is a terrible idea.”. Which feedback helps? Task: Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "audio_prompt": "A student answers “That is a terrible idea.”. Which feedback helps? Task: Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-006",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for a calm disagreement with a relevant reason.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “That is a terrible idea.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “You are wrong, and I will not explain.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for a calm disagreement with a relevant reason. The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "order_oral_instructions_apply",
+    "question": "Which instruction clearly explains how to plant a seed?",
+    "audio_prompt": "Which instruction clearly explains how to plant a seed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-007",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "First water the empty pot, then add the seed, then find some soil.",
+        "is_correct": false
+      },
+      {
+        "text": "First fill the pot, next place the seed, then cover and water it.",
+        "is_correct": true
+      },
+      {
+        "text": "Fill the pot and add the seed; cover or water it sometime later.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The clear instruction uses precise actions in a logical order.",
+      "hint": "Choose steps another person could follow without guessing."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "order_oral_instructions_reason",
+    "question": "A student answers “Fill the pot and add the seed; cover or water it sometime later.”. Which feedback helps? Task: Which instruction clearly explains how to plant a seed?",
+    "audio_prompt": "A student answers “Fill the pot and add the seed; cover or water it sometime later.”. Which feedback helps? Task: Which instruction clearly explains how to plant a seed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-008",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Fill the pot and add the seed; cover or water it sometime later.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “First water the empty pot, then add the seed, then find some soil.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose steps another person could follow without guessing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose steps another person could follow without guessing. The clear instruction uses precise actions in a logical order.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "clarify_a_missing_detail_apply",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question?",
+    "audio_prompt": "A partner says, ‘Put it over there.’ What is the most useful question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-009",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Which book should I put on which shelf?",
+        "is_correct": true
+      },
+      {
+        "text": "Which shelf has the tallest books?",
+        "is_correct": false
+      },
+      {
+        "text": "Should I put all the books somewhere on these shelves?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question asks for the missing object and location.",
+      "hint": "Identify exactly what the unclear words fail to tell you."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "clarify_a_missing_detail_reason",
+    "question": "A student answers “Which shelf has the tallest books?”. Which feedback helps? Task: A partner says, ‘Put it over there.’ What is the most useful question?",
+    "audio_prompt": "A student answers “Which shelf has the tallest books?”. Which feedback helps? Task: A partner says, ‘Put it over there.’ What is the most useful question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-010",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Which shelf has the tallest books?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the unclear words fail to tell you.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Should I put all the books somewhere on these shelves?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the unclear words fail to tell you. The question asks for the missing object and location.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "suitable_speaking_volume_apply",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "audio_prompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-011",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use a soft voice while looking down, even if group members miss words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a whole-class voice that carries clearly to every other table.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear voice that the table group can hear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Match the volume to the size and distance of the audience."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "suitable_speaking_volume_reason",
+    "question": "A student answers “Use a whole-class voice that carries clearly to every other table.”. Which feedback helps? Task: Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "audio_prompt": "A student answers “Use a whole-class voice that carries clearly to every other table.”. Which feedback helps? Task: Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-012",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the volume to the size and distance of the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Use a whole-class voice that carries clearly to every other table.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Use a soft voice while looking down, even if group members miss words.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the volume to the size and distance of the audience. A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "extend_an_idea_apply",
+    "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "audio_prompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-013",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We could decorate every plane before deciding which flew farthest.",
+        "is_correct": false
+      },
+      {
+        "text": "We could launch each plane from the same line and measure the distance.",
+        "is_correct": true
+      },
+      {
+        "text": "We could launch the planes from different places to finish faster.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Choose a response that adds a useful connected detail."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "extend_an_idea_reason",
+    "question": "A student answers “We could decorate every plane before deciding which flew farthest.”. Which feedback helps? Task: Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "audio_prompt": "A student answers “We could decorate every plane before deciding which flew farthest.”. Which feedback helps? Task: Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-014",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “We could decorate every plane before deciding which flew farthest.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “We could launch the planes from different places to finish faster.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a response that adds a useful connected detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose a response that adds a useful connected detail. The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "summarise_a_partner_s_idea_apply",
+    "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "audio_prompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-015",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "You suggest a comfortable, quiet reading place near the window.",
+        "is_correct": true
+      },
+      {
+        "text": "You suggest a noisy game corner with cushions by the door.",
+        "is_correct": false
+      },
+      {
+        "text": "You want a quiet reading corner, but its place and furniture do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates Zoe's main idea without changing it.",
+      "hint": "Keep the important place, purpose and feature from the original idea."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "summarise_a_partner_s_idea_reason",
+    "question": "A student answers “You want a quiet reading corner, but its place and furniture do not matter.”. Which feedback helps? Task: Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "audio_prompt": "A student answers “You want a quiet reading corner, but its place and furniture do not matter.”. Which feedback helps? Task: Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-016",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “You want a quiet reading corner, but its place and furniture do not matter.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the important place, purpose and feature from the original idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “You suggest a noisy game corner with cushions by the door.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep the important place, purpose and feature from the original idea. The reply restates Zoe's main idea without changing it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond_to_a_correction_apply",
+    "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "audio_prompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-017",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Let's move that step to the end without checking when the glue dries.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's keep the order and change only the picture beside that step.",
+        "is_correct": false
+      },
+      {
+        "text": "Thanks, let's move that step earlier and read the order again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Choose wording that supports shared work and addresses the exact issue."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond_to_a_correction_reason",
+    "question": "A student answers “Let's move that step to the end without checking when the glue dries.”. Which feedback helps? Task: A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "audio_prompt": "A student answers “Let's move that step to the end without checking when the glue dries.”. Which feedback helps? Task: A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-018",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose wording that supports shared work and addresses the exact issue.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Let's move that step to the end without checking when the glue dries.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Let's keep the order and change only the picture beside that step.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose wording that supports shared work and addresses the exact issue. The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "make_a_clear_statement_apply",
+    "question": "The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "audio_prompt": "The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-019",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The shell looks nice and has some colours.",
+        "is_correct": false
+      },
+      {
+        "text": "The shell has five dark stripes and one chipped edge.",
+        "is_correct": true
+      },
+      {
+        "text": "The shell probably came from the biggest animal in the sea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The statement reports specific visible features of the shell.",
+      "hint": "Use precise details that stay on the discussion topic."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "make_a_clear_statement_reason",
+    "question": "A student answers “The shell probably came from the biggest animal in the sea.”. Which feedback helps? Task: The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "audio_prompt": "A student answers “The shell probably came from the biggest animal in the sea.”. Which feedback helps? Task: The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-020",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The shell probably came from the biggest animal in the sea.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The shell looks nice and has some colours.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use precise details that stay on the discussion topic.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use precise details that stay on the discussion topic. The statement reports specific visible features of the shell.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "use_a_calm_tone_apply",
+    "question": "A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "audio_prompt": "A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-021",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Remember, we wait behind the line until our turn.",
+        "is_correct": true
+      },
+      {
+        "text": "You always forget—get behind the line.",
+        "is_correct": false
+      },
+      {
+        "text": "Move back now; you have ruined the game.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reminder states the rule calmly without blaming the teammate.",
+      "hint": "Choose language that is clear, firm and respectful."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "use_a_calm_tone_reason",
+    "question": "A student answers “You always forget—get behind the line.”. Which feedback helps? Task: A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "audio_prompt": "A student answers “You always forget—get behind the line.”. Which feedback helps? Task: A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-022",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “You always forget—get behind the line.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose language that is clear, firm and respectful.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Move back now; you have ruined the game.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose language that is clear, firm and respectful. The reminder states the rule calmly without blaming the teammate.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "check_the_next_step_apply",
+    "question": "After giving three directions, what is a useful way to check the listener understood?",
+    "audio_prompt": "After giving three directions, what is a useful way to check the listener understood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-023",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Say the same directions more quickly without pausing.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask, ‘Did you like the directions I gave?’",
+        "is_correct": false
+      },
+      {
+        "text": "Ask, ‘What will you do first?’",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Asking the listener to state the first action checks their understanding.",
+      "hint": "Use a question that reveals whether the directions can be followed."
+    }
+  },
+  {
+    "id": "AC9E2LY02-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "check_the_next_step_reason",
+    "question": "A student answers “Ask, ‘Did you like the directions I gave?’”. Which feedback helps? Task: After giving three directions, what is a useful way to check the listener understood?",
+    "audio_prompt": "A student answers “Ask, ‘Did you like the directions I gave?’”. Which feedback helps? Task: After giving three directions, what is a useful way to check the listener understood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-024",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use a question that reveals whether the directions can be followed.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Ask, ‘Did you like the directions I gave?’”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Say the same directions more quickly without pausing.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a question that reveals whether the directions can be followed. Asking the listener to state the first action checks their understanding.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_group_decision_apply",
+    "question": "A group must choose a class pet. Which student response helps the discussion move forward?",
+    "audio_prompt": "A group must choose a class pet. Which student response helps the discussion move forward?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-001",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: group decision. Notice: Listen actively. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Let's vote before anyone explains what each pet needs.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's list what each animal needs before we decide.",
+        "is_correct": true
+      },
+      {
+        "text": "Let's choose the smallest animal because it must be the easiest to care for.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listing needs helps the group compare ideas using relevant information.",
+      "hint": "Look for a response that includes others and supports a fair decision."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_group_decision_reason",
+    "question": "A student answers “Let's vote before anyone explains what each pet needs.”. Which feedback helps? Task: A group must choose a class pet. Which student response helps the discussion move forward?",
+    "audio_prompt": "A student answers “Let's vote before anyone explains what each pet needs.”. Which feedback helps? Task: A group must choose a class pet. Which student response helps the discussion move forward?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-002",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: group decision. Notice: Listen actively. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Let's vote before anyone explains what each pet needs.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Let's choose the smallest animal because it must be the easiest to care for.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for a response that includes others and supports a fair decision.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for a response that includes others and supports a fair decision. Listing needs helps the group compare ideas using relevant information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_receive_directions_apply",
+    "question": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "audio_prompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-003",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: receive directions. Notice: Respond relevantly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "turn left",
+        "is_correct": true
+      },
+      {
+        "text": "wait beside the gate",
+        "is_correct": false
+      },
+      {
+        "text": "walk back to the coach",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Turning left is the second action in the spoken sequence.",
+      "hint": "Replay the directions in the order they were given."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_receive_directions_reason",
+    "question": "A student answers “walk back to the coach”. Which feedback helps? Task: The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "audio_prompt": "A student answers “walk back to the coach”. Which feedback helps? Task: The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-004",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: receive directions. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “walk back to the coach”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Replay the directions in the order they were given.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “wait beside the gate” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Replay the directions in the order they were given. Turning left is the second action in the spoken sequence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_respond_to_an_opinion_apply",
+    "question": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "audio_prompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-005",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: respond to an opinion. Notice: Express opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I like the colours, but I did not read any labels.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer all diagrams because pictures are always clearer than words.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer it too, and the arrows also show how the parts connect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply responds to Eli's reason and adds another feature of the diagram.",
+      "hint": "Choose the reply that stays with the same text and idea."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_respond_to_an_opinion_reason",
+    "question": "A student answers “I like the colours, but I did not read any labels.”. Which feedback helps? Task: Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "audio_prompt": "A student answers “I like the colours, but I did not read any labels.”. Which feedback helps? Task: Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-006",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: respond to an opinion. Notice: Express opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the reply that stays with the same text and idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I like the colours, but I did not read any labels.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I prefer all diagrams because pictures are always clearer than words.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the reply that stays with the same text and idea. The reply responds to Eli's reason and adds another feature of the diagram.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_give_route_instructions_apply",
+    "question": "Which directions help a visitor reach the library from the office?",
+    "audio_prompt": "Which directions help a visitor reach the library from the office?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-007",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: give route instructions. Notice: Extend ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Turn right somewhere after leaving the office.",
+        "is_correct": false
+      },
+      {
+        "text": "Go straight past two rooms, turn right, and enter the door marked Library.",
+        "is_correct": true
+      },
+      {
+        "text": "Walk down the hall until the library seems close.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The directions give an ordered route with clear landmarks.",
+      "hint": "Choose wording a visitor can follow without already knowing the school."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_give_route_instructions_reason",
+    "question": "A student answers “Walk down the hall until the library seems close.”. Which feedback helps? Task: Which directions help a visitor reach the library from the office?",
+    "audio_prompt": "A student answers “Walk down the hall until the library seems close.”. Which feedback helps? Task: Which directions help a visitor reach the library from the office?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-008",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: give route instructions. Notice: Extend ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Walk down the hall until the library seems close.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Turn right somewhere after leaving the office.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose wording a visitor can follow without already knowing the school.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose wording a visitor can follow without already knowing the school. The directions give an ordered route with clear landmarks.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_statement_and_opinion_apply",
+    "question": "During a discussion, which sentence is an opinion that invites a response?",
+    "audio_prompt": "During a discussion, which sentence is an opinion that invites a response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-009",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: statement and opinion. Notice: Give clear instructions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I think the new playground plan is safer because the path is wider.",
+        "is_correct": true
+      },
+      {
+        "text": "The plan shows two paths.",
+        "is_correct": false
+      },
+      {
+        "text": "Draw the path with a ruler.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I think signals an opinion, and the speaker gives a reason others can discuss.",
+      "hint": "Find a view rather than a fact or an instruction."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_statement_and_opinion_reason",
+    "question": "A student answers “The plan shows two paths.”. Which feedback helps? Task: During a discussion, which sentence is an opinion that invites a response?",
+    "audio_prompt": "A student answers “The plan shows two paths.”. Which feedback helps? Task: During a discussion, which sentence is an opinion that invites a response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-010",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: statement and opinion. Notice: Give clear instructions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The plan shows two paths.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find a view rather than a fact or an instruction.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Draw the path with a ruler.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find a view rather than a fact or an instruction. I think signals an opinion, and the speaker gives a reason others can discuss.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_improve_craft_instructions_apply",
+    "question": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "audio_prompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-011",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: improve craft instructions. Notice: Listen actively. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Choose colours before finding the puppet template.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut out all the pieces somehow, then start making it.",
+        "is_correct": false
+      },
+      {
+        "text": "First cut the paper shape along the dotted line.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The added first step names a precise action and where to do it.",
+      "hint": "A useful instruction tells the listener what action comes next."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_improve_craft_instructions_reason",
+    "question": "A student answers “Cut out all the pieces somehow, then start making it.”. Which feedback helps? Task: A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "audio_prompt": "A student answers “Cut out all the pieces somehow, then start making it.”. Which feedback helps? Task: A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-012",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: improve craft instructions. Notice: Listen actively. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "A useful instruction tells the listener what action comes next.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Cut out all the pieces somehow, then start making it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Choose colours before finding the puppet template.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful instruction tells the listener what action comes next. The added first step names a precise action and where to do it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_share_an_investigation_role_apply",
+    "question": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "audio_prompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-013",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: share an investigation role. Notice: Respond relevantly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Kim and Jay, share the jobs as you go.",
+        "is_correct": false
+      },
+      {
+        "text": "Kim, pour to the marked line; Jay, write each result in the table.",
+        "is_correct": true
+      },
+      {
+        "text": "Kim, do the water job; Jay, help with the results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The instruction names each role and the exact action required.",
+      "hint": "Check that every listener knows who does what."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_share_an_investigation_role_reason",
+    "question": "A student answers “Kim and Jay, share the jobs as you go.”. Which feedback helps? Task: A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "audio_prompt": "A student answers “Kim and Jay, share the jobs as you go.”. Which feedback helps? Task: A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-014",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: share an investigation role. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Kim and Jay, share the jobs as you go.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Kim, do the water job; Jay, help with the results.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that every listener knows who does what.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that every listener knows who does what. The instruction names each role and the exact action required.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_clarify_a_location_apply",
+    "question": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "audio_prompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-015",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: clarify a location. Notice: Express opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Do you mean the sports shed or the garden shed?",
+        "is_correct": true
+      },
+      {
+        "text": "Should I bring some equipment from either shed?",
+        "is_correct": false
+      },
+      {
+        "text": "Can I meet beside the closest shed without checking which one?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question identifies the two possible locations and requests a precise choice.",
+      "hint": "Ask about the exact detail that could cause confusion."
+    }
+  },
+  {
+    "id": "AC9E2LY02-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY02",
+    "bank": "test",
+    "skill": "test_clarify_a_location_reason",
+    "question": "A student answers “Can I meet beside the closest shed without checking which one?”. Which feedback helps? Task: A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "audio_prompt": "A student answers “Can I meet beside the closest shed without checking which one?”. Which feedback helps? Task: A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-t-016",
+      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: clarify a location. Notice: Express opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Can I meet beside the closest shed without checking which one?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask about the exact detail that could cause confusion.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Should I bring some equipment from either shed?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ask about the exact detail that could cause confusion. The question identifies the two possible locations and requests a precise choice.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

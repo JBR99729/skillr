@@ -5,8 +5,37 @@ on:
     branches: [main]
     paths:
       - "assets/year2-*.js"
+      - "assets/display-only.js"
+      - "assets/multi-strand-worksheet-pack.js"
+      - "assets/qa-complete-*.js"
+      - "assets/assessment-banks/year2/**"
+      - "assets/assessment-visuals/year2/**"
+      - "quiz/year-2/**"
+      - "quiz/assets/script.js"
+      - "scripts/*year2_*.mjs"
+      - "scripts/publish_production_question_bank.mjs"
+      - "scripts/validate_production_question_bank.mjs"
       - "pwa-register.js"
       - "worksheets/year2/**"
+      - "year2/curriculum/**"
+      - ".github/workflows/validate-year2-content.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "assets/year2-*.js"
+      - "assets/display-only.js"
+      - "assets/multi-strand-worksheet-pack.js"
+      - "assets/qa-complete-*.js"
+      - "assets/assessment-banks/year2/**"
+      - "assets/assessment-visuals/year2/**"
+      - "quiz/year-2/**"
+      - "quiz/assets/script.js"
+      - "scripts/*year2_*.mjs"
+      - "scripts/publish_production_question_bank.mjs"
+      - "scripts/validate_production_question_bank.mjs"
+      - "pwa-register.js"
+      - "worksheets/year2/**"
+      - "year2/curriculum/**"
       - ".github/workflows/validate-year2-content.yml"
   workflow_dispatch:
 
@@ -31,7 +60,27 @@ jobs:
           node --check assets/year2-english-render.js
           node --check assets/year2-english-practice-quick-read.js
           node --check assets/year2-english-worksheet-page.js
+          node --check assets/year2-english-assessment-ui.js
+          node --check assets/display-only.js
+          node --check assets/multi-strand-worksheet-pack.js
+          node --check assets/qa-complete-badges.js
+          node --check assets/qa-complete-ribbon.js
+          node --check scripts/build_year2_english_quality_banks.mjs
+          node --check scripts/publish_year2_english_quality_banks.mjs
+          node --check scripts/validate_year2_english_quality_banks.mjs
+          node --check scripts/validate_production_question_bank.mjs
+          node --check scripts/year2_english_items_la123.mjs
+          node --check scripts/year2_english_items_la.mjs
+          node --check scripts/year2_english_items_le.mjs
+          node --check scripts/year2_english_items_ly.mjs
+          node --check quiz/assets/script.js
           node --check pwa-register.js
+      - name: Validate Year 2 English assessment banks
+        run: |
+          for bank in assets/assessment-banks/year2/english/*.json; do
+            node scripts/validate_production_question_bank.mjs "$bank"
+          done
+          node scripts/validate_year2_english_quality_banks.mjs
       - name: Validate unit and worksheet counts
         run: |
           node <<'NODE'
