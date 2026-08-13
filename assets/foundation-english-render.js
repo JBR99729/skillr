@@ -36,6 +36,22 @@
     return ORDER.map((c) => `<li><a href="/foundation/english/${UNITS[c].slug}/">${c}: ${esc(UNITS[c].title)}</a></li>`).join("");
   }
 
+  function ensureVocabularySection() {
+    if (q("#foundation-english-key-vocabulary")) return true;
+    const stack = q(".fcr-topic-stack");
+    const vocabulary = unit.canonical?.vocabulary || unit.vocabulary || [];
+    if (!stack || !vocabulary.length) return false;
+    const section = document.createElement("section");
+    section.className = "fcr-section";
+    section.id = "foundation-english-key-vocabulary";
+    section.setAttribute("aria-labelledby", "foundation-english-key-vocabulary-title");
+    section.innerHTML = `<div class="fcr-section-head"><div><h2 id="foundation-english-key-vocabulary-title">Key Vocabulary</h2><p>Say each word, show its meaning and use it in this lesson.</p></div><span class="fcr-badge">Say it • show it • use it</span></div><dl class="fcr-three">${vocabulary.map((item) => `<div class="fcr-card"><dt><strong>${esc(item.term)}</strong></dt><dd style="margin:6px 0 0">${esc(item.definition)}</dd></div>`).join("")}</dl>`;
+    const meaningSection = [...stack.children].find((child) => child.querySelector?.("h2")?.textContent.trim() === "What It Means");
+    if (meaningSection?.nextSibling) stack.insertBefore(section, meaningSection.nextSibling);
+    else stack.appendChild(section);
+    return true;
+  }
+
   function render() {
     if (window.SkillrFoundationV11Renderer && window.SkillrFoundationCanonical) {
       window.SkillrFoundationV11Renderer.renderTopic({
@@ -43,6 +59,7 @@
         order: ORDER,
         config: { subject: "English", pathSegment: "english", quizSubject: "english" }
       });
+      ensureVocabularySection();
       return;
     }
     ensureCss();
