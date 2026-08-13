@@ -166,6 +166,116 @@
   });
   byId("datePreset").addEventListener("change",()=>{ byId("customDates").hidden=byId("datePreset").value!=="custom"; render(); });
   byId("dateFrom").addEventListener("change",render); byId("dateTo").addEventListener("change",render);
+
+  function warmupUrl() {
+    const state = window.SkillrProgress.read();
+    const latest = [...state.attempts]
+      .sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt))
+      .find((item) => item.attemptUrl || item.curriculumCode);
+    if (latest?.attemptUrl) {
+      try {
+        const url = new URL(latest.attemptUrl, window.location.origin);
+        if (url.origin === window.location.origin && url.pathname.startsWith("/quiz/")) {
+          url.searchParams.set("warmup", "1");
+          return `${url.pathname}${url.search}`;
+        }
+      } catch (_) {}
+    }
+    const code = String(latest?.curriculumCode || "").toUpperCase();
+    const drill = code.match(/^DRILL:(FOUNDATION|YEAR\s*-?\s*\d+|GRADE-K)/);
+    if (drill) {
+      const year = drill[1] === "FOUNDATION" || drill[1] === "GRADE-K" ? "grade-k" : `year-${drill[1].replace(/\D/g, "")}`;
+      return `/quiz/${year}/daily-drills/?warmup=1`;
+    }
+    const match = code.match(/^AC9([MES])([F\d])/);
+    if (match) {
+      const subject = match[1] === "M" ? "math" : match[1] === "S" ? "science" : "english";
+      const year = match[2] === "F" ? "grade-k" : `year-${match[2]}`;
+      return `/quiz/${year}/${subject}/${code.toLowerCase()}/practice/?warmup=1`;
+    }
+    return "/quiz/grade-k/math/ac9mfn01/practice/?warmup=1";
+  }
+
+  byId("quickWarmup").addEventListener("click", () => {
+    window.location.href = warmupUrl();
+  });
+
+  function roundedRect(context, x, y, width, height, radius) {
+    context.beginPath();
+    context.moveTo(x + radius, y);
+    context.lineTo(x + width - radius, y);
+    context.quadraticCurveTo(x + width, y, x + width, y + radius);
+    context.lineTo(x + width, y + height - radius);
+    context.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+    context.lineTo(x + radius, y + height);
+    context.quadraticCurveTo(x, y + height, x, y + height - radius);
+    context.lineTo(x, y + radius);
+    context.quadraticCurveTo(x, y, x + radius, y);
+    context.closePath();
+    context.fill();
+  }
+
+  byId("saveSnapshot").addEventListener("click", () => {
+    const state = window.SkillrProgress.read();
+    const attempts = state.attempts.filter(inSelectedRange);
+    const questions = attempts.reduce((sum, item) => sum + (Number(item.total) || 0), 0);
+    const correct = attempts.reduce((sum, item) => sum + (Number(item.score) || 0), 0);
+    const accuracy = questions ? Math.round(correct / questions * 100) : 0;
+    const skills = new Set(attempts.map((item) => item.curriculumCode || item.quizTitle).filter(Boolean));
+    const drills = attempts.filter((item) => item.mode === "daily-drill").length;
+    const canvas = document.createElement("canvas");
+    canvas.width = 1200;
+    canvas.height = 675;
+    const context = canvas.getContext("2d");
+    const gradient = context.createLinearGradient(0, 0, 1200, 675);
+    gradient.addColorStop(0, "#eef6ff");
+    gradient.addColorStop(1, "#f3ecff");
+    context.fillStyle = gradient;
+    context.fillRect(0, 0, 1200, 675);
+    context.fillStyle = "#17335f";
+    context.font = "800 34px system-ui, sans-serif";
+    context.fillText("SkillrHub Progress Snapshot", 70, 82);
+    context.font = "700 48px system-ui, sans-serif";
+    context.fillText(state.profile.name || "Learner", 70, 150);
+    context.font = "500 22px system-ui, sans-serif";
+    context.fillStyle = "#52647d";
+    context.fillText(`Saved locally • ${new Date().toLocaleDateString("en-AU")}`, 70, 188);
+    const cards = [
+      ["Questions", questions], ["Accuracy", `${accuracy}%`],
+      ["Skills covered", skills.size], ["Daily drills", drills]
+    ];
+    cards.forEach(([label, value], index) => {
+      const x = 70 + index * 270;
+      context.fillStyle = "rgba(255,255,255,.9)";
+      roundedRect(context, x, 245, 235, 150, 24);
+      context.fillStyle = "#17335f";
+      context.font = "800 42px system-ui, sans-serif";
+      context.fillText(String(value), x + 24, 310);
+      context.fillStyle = "#66758a";
+      context.font = "600 19px system-ui, sans-serif";
+      context.fillText(label, x + 24, 355);
+    });
+    context.fillStyle = "#17335f";
+    context.font = "700 22px system-ui, sans-serif";
+    context.fillText("Recent learning", 70, 470);
+    context.fillStyle = "#52647d";
+    context.font = "500 19px system-ui, sans-serif";
+    const recent = [...attempts].sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt)).slice(0, 3);
+    if (!recent.length) context.fillText("No completed activities in this date range yet.", 70, 515);
+    recent.forEach((item, index) => {
+      const title = activityTitle(item).slice(0, 82);
+      context.fillText(`• ${title} — ${item.percentage}%`, 70, 515 + index * 38);
+    });
+    context.fillStyle = "#2457d6";
+    context.font = "700 18px system-ui, sans-serif";
+    context.fillText("skillrhub.com • No learner account required", 70, 630);
+    const link = document.createElement("a");
+    link.download = `SkillrHub-Progress-${new Date().toISOString().slice(0, 10)}.png`;
+    link.href = canvas.toDataURL("image/png");
+    link.click();
+    byId("dashboardToolMessage").textContent = "Progress snapshot saved to this device.";
+  });
+
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
   byId("loadProgress").addEventListener("change",async(event)=>{ try { await window.SkillrProgress.importBackup(event.target.files[0]); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; });
   addEventListener("beforeinstallprompt",(event)=>{ event.preventDefault(); deferredPrompt=event; });

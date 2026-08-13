@@ -37,6 +37,7 @@
       id: typeof attempt.id === "string" ? attempt.id.slice(0, 100) : uniqueId(),
       curriculumCode: String(attempt.curriculumCode || "").slice(0, 100),
       quizTitle: String(attempt.quizTitle || "SkillrHub activity").slice(0, 180),
+      attemptUrl: String(attempt.attemptUrl || "").slice(0, 500),
       mode: ["practice", "test", "daily-drill"].includes(attempt.mode) ? attempt.mode : "practice",
       score,
       total,

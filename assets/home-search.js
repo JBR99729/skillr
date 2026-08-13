@@ -12,6 +12,47 @@
     firstStage.open = true;
   }
 
+  var drillYear = document.getElementById("daily-drill-year");
+  var drillStart = document.getElementById("daily-drill-start");
+  var drillStreak = document.getElementById("daily-drill-streak");
+
+  function localDateKey(value) {
+    var date = new Date(value);
+    if (!Number.isFinite(date.getTime())) return "";
+    return [date.getFullYear(), String(date.getMonth() + 1).padStart(2, "0"), String(date.getDate()).padStart(2, "0")].join("-");
+  }
+
+  function currentDailyStreak() {
+    try {
+      var state = JSON.parse(localStorage.getItem("skillrhubProgressV1") || "null");
+      var days = new Set((state && state.attempts || [])
+        .filter(function (item) { return item.mode === "daily-drill"; })
+        .map(function (item) { return localDateKey(item.completedAt); })
+        .filter(Boolean));
+      var cursor = new Date();
+      var today = localDateKey(cursor);
+      if (!days.has(today)) cursor.setDate(cursor.getDate() - 1);
+      var count = 0;
+      while (days.has(localDateKey(cursor))) {
+        count += 1;
+        cursor.setDate(cursor.getDate() - 1);
+      }
+      return count;
+    } catch (_) {
+      return 0;
+    }
+  }
+
+  if (drillStart && drillYear) {
+    drillStart.addEventListener("click", function () {
+      window.location.href = "/quiz/" + drillYear.value + "/daily-drills/";
+    });
+  }
+  if (drillStreak) {
+    var streak = currentDailyStreak();
+    drillStreak.textContent = streak ? "🔥 " + streak + " day streak" : "🔥 Start your streak today";
+  }
+
   if (!input || !results || !form) return;
 
   function normalise(value) {
