@@ -1,10 +1,27 @@
 "use strict";
 (() => {
   const LEVELS=["easy","easy","core","core","core","application","application","challenge"];
-  const Q=(year,skill,set,pos,type,question,extra={})=>({
-    id:`s-${year}-${skill}-s${set+1}-q${pos+1}`,
-    year,subject:"science",skill,set,difficulty:LEVELS[pos],type,question,...extra
-  });
+  const Q=(year,skill,set,pos,type,question,extra={})=>{
+    const item={
+      id:`s-${year}-${skill}-s${set+1}-q${pos+1}`,
+      year,subject:"science",skill,set,difficulty:LEVELS[pos],type,question,...extra
+    };
+    item.audioPrompt=item.audioPrompt||question;
+    item.hint=item.hint||({
+      single:"Use the science idea in the question, then compare every choice.",
+      "true-false":"Check whether every part of the statement agrees with the evidence.",
+      text:"Use the precise science term from the topic.",
+      "fill-blank":"Read the completed statement and check that its meaning is accurate.",
+      multiple:"Check each statement separately because two are correct."
+    }[type]||"Use the evidence and scientific ideas in the question.");
+    if(type==="single"&&Array.isArray(item.answers)&&item.answers.length===3&&Number.isInteger(item.correct)){
+      const target=(set*8+pos)%3;
+      const shift=(item.correct-target+3)%3;
+      item.answers=[...item.answers.slice(shift),...item.answers.slice(0,shift)];
+      item.correct=target;
+    }
+    return item;
+  };
   const contexts=[
     "During a class discussion","While reviewing the topic","In a science notebook","During a practical lesson",
     "When checking a model","In a short investigation","While interpreting evidence","During revision",
