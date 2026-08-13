@@ -34,6 +34,78 @@ function playQuizSound(isCorrect) {
 
   });
 }
+
+const CURRICULUM_READ_ALOUD_STORAGE_KEY =
+  "skillrCurriculumReadAloudEnabled";
+
+function isCurriculumReadAloudPath(pathname) {
+  return /^\/quiz\/(?:grade-k|year-\d+)\/(?:math|maths|english|science)\/ac9[a-z0-9]+\/(?:practice|test)\/(?:index\.html)?$/i.test(
+    pathname
+  );
+}
+
+function normaliseSpeechText(value) {
+  return String(value ?? "")
+    .replace(/≤/g, " less than or equal to ")
+    .replace(/≥/g, " greater than or equal to ")
+    .replace(/≠/g, " not equal to ")
+    .replace(/[×✕]/g, " multiplied by ")
+    .replace(/÷/g, " divided by ")
+    .replace(/[−–]/g, " minus ")
+    .replace(/\+/g, " plus ")
+    .replace(/=/g, " equals ")
+    .replace(/</g, " less than ")
+    .replace(/>/g, " greater than ")
+    .replace(/%/g, " percent ")
+    .replace(/²/g, " squared ")
+    .replace(/³/g, " cubed ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function getQuestionSpeechText(question) {
+  const parts = [
+    question.audio_prompt ||
+      question.audioPrompt ||
+      question.question ||
+      ""
+  ];
+  const choices = Array.isArray(question.answers)
+    ? question.answers
+    : Array.isArray(question.options)
+      ? question.options
+      : Array.isArray(question.items) &&
+          question.items.every(
+            (item) => typeof item === "string"
+          )
+        ? question.items
+        : [];
+
+  choices.forEach((choice, index) => {
+    parts.push(
+      `Option ${String.fromCharCode(65 + index)}. ${choice}`
+    );
+  });
+
+  if (Array.isArray(question.categories)) {
+    question.categories.forEach((category) => {
+      parts.push(category.label || category.name || "");
+    });
+  }
+
+  return normaliseSpeechText(
+    parts
+      .filter(Boolean)
+      .map((part) => {
+        const text = String(part).trim();
+        return /[.!?]$/.test(text)
+          ? text
+          : `${text}.`;
+      })
+      .join(" ")
+  );
+}
+
 function getYearLabel(yearSegment) {
   const labels = {
     "grade-k": "Foundation",
@@ -204,6 +276,30 @@ document.addEventListener("DOMContentLoaded", () => {
       window.location.pathname
     );
 
+  const readAloudAvailable =
+    isCurriculumReadAloudPath(
+      window.location.pathname
+    ) &&
+    "speechSynthesis" in window &&
+    typeof window.SpeechSynthesisUtterance ===
+      "function";
+  let readAloudEnabled = true;
+  let readAloudControls = null;
+
+  if (readAloudAvailable) {
+    try {
+      readAloudEnabled =
+        localStorage.getItem(
+          CURRICULUM_READ_ALOUD_STORAGE_KEY
+        ) !== "false";
+    } catch (error) {
+      console.warn(
+        "Read-aloud preference could not be loaded:",
+        error
+      );
+    }
+  }
+
   if (isPracticePage) {
     config.preReadSeconds = 0;
 
@@ -364,6 +460,119 @@ document.addEventListener("DOMContentLoaded", () => {
   let draggedItemIndex = null;
   let imageDragAnswers = {};
   let draggedImageId = null;
+
+  function stopReadAloud() {
+    if (readAloudAvailable) {
+      window.speechSynthesis.cancel();
+    }
+  }
+
+  function updateReadAloudControls() {
+    if (!readAloudControls) {
+      return;
+    }
+
+    readAloudControls.toggle.textContent =
+      readAloudEnabled ? "🔊 Sound on" : "🔇 Sound off";
+    readAloudControls.toggle.setAttribute(
+      "aria-pressed",
+      String(readAloudEnabled)
+    );
+    readAloudControls.readAgain.disabled =
+      !readAloudEnabled;
+  }
+
+  function readCurrentQuestion() {
+    if (
+      !readAloudAvailable ||
+      !readAloudEnabled
+    ) {
+      return;
+    }
+
+    const question =
+      activeQuestions[currentQuestionIndex];
+    const speechText = question
+      ? getQuestionSpeechText(question)
+      : "";
+
+    if (!speechText) {
+      return;
+    }
+
+    stopReadAloud();
+    const utterance =
+      new window.SpeechSynthesisUtterance(
+        speechText
+      );
+    utterance.lang = "en-AU";
+    window.speechSynthesis.speak(utterance);
+  }
+
+  function ensureReadAloudControls() {
+    if (
+      !readAloudAvailable ||
+      readAloudControls
+    ) {
+      return;
+    }
+
+    const container = document.createElement("div");
+    const readAgain = document.createElement("button");
+    const toggle = document.createElement("button");
+
+    container.className = "read-aloud-controls";
+    container.setAttribute(
+      "aria-label",
+      "Question audio controls"
+    );
+    readAgain.type = "button";
+    readAgain.className = "button button-secondary";
+    readAgain.textContent = "🔊 Read again";
+    toggle.type = "button";
+    toggle.className = "button button-secondary";
+
+    readAgain.addEventListener(
+      "click",
+      readCurrentQuestion
+    );
+    toggle.addEventListener("click", () => {
+      readAloudEnabled = !readAloudEnabled;
+
+      try {
+        localStorage.setItem(
+          CURRICULUM_READ_ALOUD_STORAGE_KEY,
+          String(readAloudEnabled)
+        );
+      } catch (error) {
+        console.warn(
+          "Read-aloud preference could not be saved:",
+          error
+        );
+      }
+
+      updateReadAloudControls();
+
+      if (readAloudEnabled) {
+        readCurrentQuestion();
+      } else {
+        stopReadAloud();
+      }
+    });
+
+    container.append(readAgain, toggle);
+    elements.questionText.insertAdjacentElement(
+      "afterend",
+      container
+    );
+    readAloudControls = {
+      container,
+      readAgain,
+      toggle
+    };
+    updateReadAloudControls();
+  }
+
   function shuffleArray(items) {
     const copy = [...items];
 
@@ -1053,6 +1262,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function renderQuestion() {
+    stopReadAloud();
     resetQuestionState();
 
     const question =
@@ -1180,6 +1390,8 @@ default:
   );
     }
 
+    ensureReadAloudControls();
+    readCurrentQuestion();
     focusFirstQuestionControl();
   }
 
@@ -2891,6 +3103,8 @@ function renderImageDragState(
     return;
   }
 
+  stopReadAloud();
+
   const question =
     activeQuestions[
       currentQuestionIndex
@@ -2958,6 +3172,8 @@ function renderImageDragState(
     if (!answerChecked) {
       return;
     }
+
+    stopReadAloud();
 
     currentQuestionIndex += 1;
 
@@ -3594,6 +3810,11 @@ function renderImageDragState(
       window.location.reload();
 
     }
+  );
+
+  window.addEventListener(
+    "pagehide",
+    stopReadAloud
   );
 
 
