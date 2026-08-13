@@ -1,0 +1,72 @@
+name: Validate Foundation pre-module notes
+
+on:
+  pull_request:
+    paths:
+      - "quiz/assets/foundation-maths-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/grade-k/math/**/practice/index.html"
+      - "quiz/grade-k/math/**/practice/questions.js"
+      - "quiz/grade-k/math/**/test/index.html"
+      - "quiz/grade-k/math/**/test/questions.js"
+      - "quiz/grade-k/math/**/worksheet/**"
+      - "assets/foundation-*.js"
+      - "scripts/validate_foundation_maths_pre_module_notes.mjs"
+      - "scripts/validate_foundation_maths_pre_module_flow.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/build_foundation_maths_live_routes.py"
+      - "service-worker.js"
+      - ".github/workflows/validate-foundation-pre-module-notes.yml"
+  push:
+    branches: [main]
+    paths:
+      - "quiz/assets/foundation-maths-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/grade-k/math/**/practice/index.html"
+      - "quiz/grade-k/math/**/practice/questions.js"
+      - "quiz/grade-k/math/**/test/index.html"
+      - "quiz/grade-k/math/**/test/questions.js"
+      - "quiz/grade-k/math/**/worksheet/**"
+      - "assets/foundation-*.js"
+      - "scripts/validate_foundation_maths_pre_module_notes.mjs"
+      - "scripts/validate_foundation_maths_pre_module_flow.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/build_foundation_maths_live_routes.py"
+      - "service-worker.js"
+      - ".github/workflows/validate-foundation-pre-module-notes.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check quiz/assets/foundation-maths-pre-module-notes.js
+          node --check quiz/assets/script.js
+          node --check service-worker.js
+
+      - name: Validate Foundation Maths pre-module notes and launch wiring
+        run: node scripts/validate_foundation_maths_pre_module_notes.mjs
+
+      - name: Exercise mandatory Practice and Test launch flows in Chrome
+        run: node scripts/validate_foundation_maths_pre_module_flow.mjs
+
+      - name: Validate read-aloud compatibility
+        run: node scripts/validate_curriculum_read_aloud.mjs
+
+      - name: Re-run Foundation canonical release gates
+        run: |
+          node scripts/validate_foundation_maths_topic_modules.mjs
+          node scripts/validate_foundation_v11.mjs
+          node scripts/validate_foundation_classroom_rollout.mjs

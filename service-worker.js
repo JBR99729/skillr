@@ -82,6 +82,7 @@ self.addEventListener("fetch", (event) => {
       url.pathname === "/assets/year7-router.js" ||
       url.pathname.startsWith("/assets/year7-") ||
       url.pathname === "/quiz/assets/script.js" ||
+      url.pathname === "/quiz/assets/foundation-maths-pre-module-notes.js" ||
       url.pathname === "/quiz/assets/separate-result.js" ||
       url.pathname === "/assets/qa-complete-badges.js" ||
       url.pathname === "/assets/foundation-maths-practice-quick-read.js" ||
