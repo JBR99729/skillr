@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S4I01-P-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A class observation is described as “information noticed or measured”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “information noticed or measured”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-001",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “information noticed or measured”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "testable question",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "observation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-002",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A class observation is described as “question answerable through evidence collection”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “question answerable through evidence collection”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-002",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “question answerable through evidence collection”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "testable question",
+        "is_correct": true
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "testable question is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-003",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A class observation is described as “factor that can change or be measured”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “factor that can change or be measured”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-003",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “factor that can change or be measured”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "prediction",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "variable is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-004",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A class observation is described as “expected result with an evidence-based reason”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “expected result with an evidence-based reason”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-004",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “expected result with an evidence-based reason”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": false
+      },
+      {
+        "text": "prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "prediction is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-005",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A class observation is described as “way one variable changes with another”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “way one variable changes with another”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-005",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “way one variable changes with another”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": true
+      },
+      {
+        "text": "observation",
+        "is_correct": false
+      },
+      {
+        "text": "testable question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "relationship is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-006",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A student needs a heading for this evidence: “information noticed or measured”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “information noticed or measured”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-006",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “information noticed or measured”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": true
+      },
+      {
+        "text": "prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "observation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-007",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A student needs a heading for this evidence: “question answerable through evidence collection”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “question answerable through evidence collection”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-007",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “question answerable through evidence collection”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "prediction",
+        "is_correct": false
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "testable question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "testable question is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-008",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A student needs a heading for this evidence: “factor that can change or be measured”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “factor that can change or be measured”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-008",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “factor that can change or be measured”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "variable is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-009",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A student needs a heading for this evidence: “expected result with an evidence-based reason”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “expected result with an evidence-based reason”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-009",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “expected result with an evidence-based reason”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "observation",
+        "is_correct": false
+      },
+      {
+        "text": "prediction",
+        "is_correct": true
+      },
+      {
+        "text": "testable question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "prediction is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-010",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A student needs a heading for this evidence: “way one variable changes with another”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “way one variable changes with another”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-010",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “way one variable changes with another”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "testable question",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "relationship",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "relationship is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-011",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "During a Year 4 discussion, Student 1 says, “Question asks for an opinion”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Question asks for an opinion”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-011",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Question asks for an opinion”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Use an observable or measurable outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use an observable or measurable outcome.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-012",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "During a Year 4 discussion, Student 2 says, “Prediction repeats the question”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Prediction repeats the question”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-012",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Prediction repeats the question”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      },
+      {
+        "text": "State an expected direction or result and a reason.",
+        "is_correct": true
+      },
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State an expected direction or result and a reason.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-013",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "During a Year 4 discussion, Student 3 says, “Several variables bundled together”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Several variables bundled together”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-013",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Several variables bundled together”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      },
+      {
+        "text": "Focus on one relationship at a time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focus on one relationship at a time.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-014",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "During a Year 4 discussion, Student 4 says, “Prediction treated as a result”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Prediction treated as a result”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-014",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Prediction treated as a result”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Collect evidence before deciding whether it was supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      },
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Collect evidence before deciding whether it was supported.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-015",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A group writes this claim on a poster: “Question asks for an opinion”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Question asks for an opinion”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-015",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Question asks for an opinion”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Use an observable or measurable outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use an observable or measurable outcome.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-016",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A group writes this claim on a poster: “Prediction repeats the question”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Prediction repeats the question”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-016",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Prediction repeats the question”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      },
+      {
+        "text": "State an expected direction or result and a reason.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State an expected direction or result and a reason.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-017",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A group writes this claim on a poster: “Several variables bundled together”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Several variables bundled together”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-017",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Several variables bundled together”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Focus on one relationship at a time.",
+        "is_correct": true
+      },
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      },
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focus on one relationship at a time.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-018",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A group writes this claim on a poster: “Prediction treated as a result”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Prediction treated as a result”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-018",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Prediction treated as a result”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      },
+      {
+        "text": "Collect evidence before deciding whether it was supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Collect evidence before deciding whether it was supported.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-019",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "Study the classroom example. Which question is most testable?",
+    "audio_prompt": "Study the classroom example. Which question is most testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-019",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which question is most testable?"
+    },
+    "answers": [
+      {
+        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "is_correct": false
+      },
+      {
+        "text": "Is science fun?",
+        "is_correct": false
+      },
+      {
+        "text": "How does surface type affect the distance a block slides?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How does surface type affect the distance a block slides?",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-020",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "Use the investigation evidence. Which statement is a prediction?",
+    "audio_prompt": "Use the investigation evidence. Which statement is a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-020",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which statement is a prediction?"
+    },
+    "answers": [
+      {
+        "text": "The warmer water will melt the ice faster because it transfers more heat energy",
+        "is_correct": true
+      },
+      {
+        "text": "The ice melted in 4 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "The timer showed 240 seconds",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The warmer water will melt the ice faster because it transfers more heat energy",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-021",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "The class is preparing “Observation walk”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Observation walk”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-021",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Observation walk”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Begin observation walk, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Record patterns around the classroom or outdoors, then turn three into testable questions.",
+        "is_correct": true
+      },
+      {
+        "text": "Carry out observation walk once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Record patterns around the classroom or outdoors, then turn three into testable questions.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-022",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "The class is preparing “Question clinic”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Question clinic”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-022",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Question clinic”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Begin question clinic, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out question clinic once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Revise opinion, yes/no and multi-variable questions into focused relationship questions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revise opinion, yes/no and multi-variable questions into focused relationship questions.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-023",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "The class is preparing “Prediction evidence ladder”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Prediction evidence ladder”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-023",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Prediction evidence ladder”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Write if–then–because predictions and rate whether the reason comes from observation, prior science or unsupported preference.",
+        "is_correct": true
+      },
+      {
+        "text": "Begin prediction evidence ladder, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out prediction evidence ladder once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Write if–then–because predictions and rate whether the reason comes from observation, prior science or unsupported preference.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-P-024",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A results display includes “Which towel is best?”. Which interpretation matches that evidence?",
+    "audio_prompt": "A results display includes “Which towel is best?”. Which interpretation matches that evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-p-024",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “Which towel is best?”. Which interpretation matches that evidence?"
+    },
+    "answers": [
+      {
+        "text": "How does daily light duration affect plant height over 3 weeks?",
+        "is_correct": false
+      },
+      {
+        "text": "How does towel material affect volume absorbed in 30 seconds?",
+        "is_correct": true
+      },
+      {
+        "text": "How does magnet distance affect paperclip attraction?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Which towel is best? is linked to How does towel material affect volume absorbed in 30 seconds?.",
+      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A museum activity card says, “information noticed or measured”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “information noticed or measured”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-001",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “information noticed or measured”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "testable question",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "observation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-002",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A museum activity card says, “question answerable through evidence collection”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “question answerable through evidence collection”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-002",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “question answerable through evidence collection”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "testable question",
+        "is_correct": true
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "testable question is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-003",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A museum activity card says, “factor that can change or be measured”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “factor that can change or be measured”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-003",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “factor that can change or be measured”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "prediction",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "variable is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-004",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A museum activity card says, “expected result with an evidence-based reason”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “expected result with an evidence-based reason”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-004",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “expected result with an evidence-based reason”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "observation",
+        "is_correct": false
+      },
+      {
+        "text": "prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "prediction is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-005",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A museum activity card says, “way one variable changes with another”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “way one variable changes with another”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-005",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “way one variable changes with another”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": true
+      },
+      {
+        "text": "observation",
+        "is_correct": false
+      },
+      {
+        "text": "testable question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "relationship is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-006",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A different class records this conclusion: “Question asks for an opinion”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Question asks for an opinion”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-006",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Question asks for an opinion”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Use an observable or measurable outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use an observable or measurable outcome.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-007",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A different class records this conclusion: “Prediction repeats the question”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Prediction repeats the question”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-007",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Prediction repeats the question”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Prediction repeats the question",
+        "is_correct": false
+      },
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      },
+      {
+        "text": "State an expected direction or result and a reason.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State an expected direction or result and a reason.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-008",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A different class records this conclusion: “Several variables bundled together”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Several variables bundled together”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-008",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Several variables bundled together”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Focus on one relationship at a time.",
+        "is_correct": true
+      },
+      {
+        "text": "Several variables bundled together",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focus on one relationship at a time.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-009",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A different class records this conclusion: “Prediction treated as a result”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Prediction treated as a result”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-009",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Prediction treated as a result”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Prediction treated as a result",
+        "is_correct": false
+      },
+      {
+        "text": "Collect evidence before deciding whether it was supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Question asks for an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Collect evidence before deciding whether it was supported.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-010",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new field-note example asks: Which question is most testable?",
+    "audio_prompt": "A new field-note example asks: Which question is most testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-010",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which question is most testable?"
+    },
+    "answers": [
+      {
+        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "is_correct": false
+      },
+      {
+        "text": "Is science fun?",
+        "is_correct": false
+      },
+      {
+        "text": "How does surface type affect the distance a block slides?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How does surface type affect the distance a block slides?",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-011",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new design task asks: Which statement is a prediction?",
+    "audio_prompt": "A new design task asks: Which statement is a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-011",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement is a prediction?"
+    },
+    "answers": [
+      {
+        "text": "The warmer water will melt the ice faster because it transfers more heat energy",
+        "is_correct": true
+      },
+      {
+        "text": "The ice melted in 4 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "The timer showed 240 seconds",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The warmer water will melt the ice faster because it transfers more heat energy",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-012",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new group wants to adapt “Observation walk”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Observation walk”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-012",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Observation walk”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Begin observation walk, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Record patterns around the classroom or outdoors, then turn three into testable questions.",
+        "is_correct": true
+      },
+      {
+        "text": "Carry out observation walk once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Record patterns around the classroom or outdoors, then turn three into testable questions.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-013",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new group wants to adapt “Question clinic”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Question clinic”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-013",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Question clinic”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Begin question clinic, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out question clinic once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Revise opinion, yes/no and multi-variable questions into focused relationship questions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revise opinion, yes/no and multi-variable questions into focused relationship questions.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-014",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new group wants to adapt “Prediction evidence ladder”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Prediction evidence ladder”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-014",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Prediction evidence ladder”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Write if–then–because predictions and rate whether the reason comes from observation, prior science or unsupported preference.",
+        "is_correct": true
+      },
+      {
+        "text": "Begin prediction evidence ladder, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out prediction evidence ladder once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Write if–then–because predictions and rate whether the reason comes from observation, prior science or unsupported preference.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-015",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new scientific questions and evidence-based predictions investigation reports “Which towel is best?”. Which conclusion is best supported by the display?",
+    "audio_prompt": "A new scientific questions and evidence-based predictions investigation reports “Which towel is best?”. Which conclusion is best supported by the display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-015",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new scientific questions and evidence-based predictions investigation reports “Which towel is best?”. Which conclusion is best supported by the display?"
+    },
+    "answers": [
+      {
+        "text": "How does daily light duration affect plant height over 3 weeks?",
+        "is_correct": false
+      },
+      {
+        "text": "How does towel material affect volume absorbed in 30 seconds?",
+        "is_correct": true
+      },
+      {
+        "text": "How does magnet distance affect paperclip attraction?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Which towel is best? is linked to How does towel material affect volume absorbed in 30 seconds?.",
+      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+    }
+  },
+  {
+    "id": "AC9S4I01-T-016",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I01",
+    "bank": "test",
+    "skill": "scientific_questions_and_evidence_based_predictions",
+    "question": "A new scientific questions and evidence-based predictions investigation reports “Do plants like light?”. Which conclusion is best supported by the display?",
+    "audio_prompt": "A new scientific questions and evidence-based predictions investigation reports “Do plants like light?”. Which conclusion is best supported by the display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01.svg#ac9s4i01-t-016",
+      "alt_text": "Scientific Questions and Evidence-based Predictions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new scientific questions and evidence-based predictions investigation reports “Do plants like light?”. Which conclusion is best supported by the display?"
+    },
+    "answers": [
+      {
+        "text": "How does towel material affect volume absorbed in 30 seconds?",
+        "is_correct": false
+      },
+      {
+        "text": "How does magnet distance affect paperclip attraction?",
+        "is_correct": false
+      },
+      {
+        "text": "How does daily light duration affect plant height over 3 weeks?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Do plants like light? is linked to How does daily light duration affect plant height over 3 weeks?.",
+      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+    }
+  }
+]

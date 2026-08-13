@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S4I04-P-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A class observation is described as “way of showing data, information or a system”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “way of showing data, information or a system”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-001",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “way of showing data, information or a system”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": false
+      },
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "representation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-002",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A class observation is described as “graph using column height to represent values”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “graph using column height to represent values”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-002",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “graph using column height to represent values”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": true
+      },
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "model",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "column graph is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-003",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A class observation is described as “relationship between graph intervals and values”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “relationship between graph intervals and values”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-003",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “relationship between graph intervals and values”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "model",
+        "is_correct": false
+      },
+      {
+        "text": "scale",
+        "is_correct": true
+      },
+      {
+        "text": "pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scale is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-004",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A class observation is described as “simplified representation used to explain or predict”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “simplified representation used to explain or predict”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-004",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “simplified representation used to explain or predict”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "pattern",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "model",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "model is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-005",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A class observation is described as “regularity or relationship identified in evidence”. Which scientific term best labels it?",
+    "audio_prompt": "A class observation is described as “regularity or relationship identified in evidence”. Which scientific term best labels it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-005",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “regularity or relationship identified in evidence”. Which scientific term best labels it?"
+    },
+    "answers": [
+      {
+        "text": "pattern",
+        "is_correct": true
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "column graph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "pattern is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-006",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student needs a heading for this evidence: “way of showing data, information or a system”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “way of showing data, information or a system”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-006",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “way of showing data, information or a system”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      },
+      {
+        "text": "model",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "representation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-007",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student needs a heading for this evidence: “graph using column height to represent values”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “graph using column height to represent values”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-007",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “graph using column height to represent values”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "model",
+        "is_correct": false
+      },
+      {
+        "text": "pattern",
+        "is_correct": false
+      },
+      {
+        "text": "column graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "column graph is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-008",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student needs a heading for this evidence: “relationship between graph intervals and values”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “relationship between graph intervals and values”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-008",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “relationship between graph intervals and values”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "scale",
+        "is_correct": true
+      },
+      {
+        "text": "pattern",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "scale is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-009",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student needs a heading for this evidence: “simplified representation used to explain or predict”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “simplified representation used to explain or predict”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-009",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “simplified representation used to explain or predict”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "model",
+        "is_correct": true
+      },
+      {
+        "text": "column graph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "model is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-010",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student needs a heading for this evidence: “regularity or relationship identified in evidence”. Which heading is most precise?",
+    "audio_prompt": "A student needs a heading for this evidence: “regularity or relationship identified in evidence”. Which heading is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-010",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “regularity or relationship identified in evidence”. Which heading is most precise?"
+    },
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": false
+      },
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "pattern is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-011",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "During a Year 4 discussion, Student 1 says, “Graph values differ from table”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Graph values differ from table”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-011",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Graph values differ from table”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Audit every plotted value against the source.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      },
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Audit every plotted value against the source.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-012",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "During a Year 4 discussion, Student 2 says, “Axis intervals change partway”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Axis intervals change partway”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-012",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Axis intervals change partway”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      },
+      {
+        "text": "Use a consistent scale unless a break is clearly justified.",
+        "is_correct": true
+      },
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a consistent scale unless a break is clearly justified.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-013",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "During a Year 4 discussion, Student 3 says, “Model treated as exact reality”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Model treated as exact reality”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-013",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Model treated as exact reality”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      },
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      },
+      {
+        "text": "State simplifications and limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State simplifications and limits.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-014",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "During a Year 4 discussion, Student 4 says, “Pattern described without values”. Which response best corrects the science?",
+    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Pattern described without values”. Which response best corrects the science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-014",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Pattern described without values”. Which response best corrects the science?"
+    },
+    "answers": [
+      {
+        "text": "Support interpretation with categories, quantities or comparisons.",
+        "is_correct": true
+      },
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      },
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Support interpretation with categories, quantities or comparisons.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-015",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A group writes this claim on a poster: “Graph values differ from table”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Graph values differ from table”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-015",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Graph values differ from table”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      },
+      {
+        "text": "Audit every plotted value against the source.",
+        "is_correct": true
+      },
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Audit every plotted value against the source.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-016",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A group writes this claim on a poster: “Axis intervals change partway”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Axis intervals change partway”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-016",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Axis intervals change partway”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      },
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      },
+      {
+        "text": "Use a consistent scale unless a break is clearly justified.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a consistent scale unless a break is clearly justified.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-017",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A group writes this claim on a poster: “Model treated as exact reality”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Model treated as exact reality”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-017",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Model treated as exact reality”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "State simplifications and limits.",
+        "is_correct": true
+      },
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      },
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State simplifications and limits.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-018",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A group writes this claim on a poster: “Pattern described without values”. Which edit makes the claim scientifically accurate?",
+    "audio_prompt": "A group writes this claim on a poster: “Pattern described without values”. Which edit makes the claim scientifically accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-018",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Pattern described without values”. Which edit makes the claim scientifically accurate?"
+    },
+    "answers": [
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      },
+      {
+        "text": "Support interpretation with categories, quantities or comparisons.",
+        "is_correct": true
+      },
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Support interpretation with categories, quantities or comparisons.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-019",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "Study the classroom example. Which representation best shows exact recorded values?",
+    "audio_prompt": "Study the classroom example. Which representation best shows exact recorded values?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-019",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which representation best shows exact recorded values?"
+    },
+    "answers": [
+      {
+        "text": "an unrelated image",
+        "is_correct": false
+      },
+      {
+        "text": "a title only",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled table",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "a labelled table",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-020",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "Use the investigation evidence. Which statement best describes a scientific model?",
+    "audio_prompt": "Use the investigation evidence. Which statement best describes a scientific model?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-020",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which statement best describes a scientific model?"
+    },
+    "answers": [
+      {
+        "text": "A purposeful simplification used to show important parts or relationships",
+        "is_correct": true
+      },
+      {
+        "text": "A perfect copy of reality",
+        "is_correct": false
+      },
+      {
+        "text": "The group states its preferred outcome instead of using the recorded scientific evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A purposeful simplification used to show important parts or relationships",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-021",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "The class is preparing “Table-to-graph conversion”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Table-to-graph conversion”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-021",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Table-to-graph conversion”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Begin table-to-graph conversion, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Create a labelled column graph from a table, then audit every bar against the source value.",
+        "is_correct": true
+      },
+      {
+        "text": "Carry out table-to-graph conversion once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Create a labelled column graph from a table, then audit every bar against the source value.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-022",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "The class is preparing “Model limitation labels”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Model limitation labels”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-022",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Model limitation labels”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Begin model limitation labels, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out model limitation labels once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-023",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "The class is preparing “Representation choice”. Which plan would produce useful scientific evidence?",
+    "audio_prompt": "The class is preparing “Representation choice”. Which plan would produce useful scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-023",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Representation choice”. Which plan would produce useful scientific evidence?"
+    },
+    "answers": [
+      {
+        "text": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
+        "is_correct": true
+      },
+      {
+        "text": "Begin representation choice, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out representation choice once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-P-024",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "practice",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A student wants to demonstrate “Choose suitable representations”. Which action gives the clearest evidence of that skill?",
+    "audio_prompt": "A student wants to demonstrate “Choose suitable representations”. Which action gives the clearest evidence of that skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-p-024",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A student wants to demonstrate “Choose suitable representations”. Which action gives the clearest evidence of that skill?"
+    },
+    "answers": [
+      {
+        "text": "State a preferred answer without using the observations or measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
+      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-001",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": false
+      },
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "representation is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-002",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-002",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": true
+      },
+      {
+        "text": "scale",
+        "is_correct": false
+      },
+      {
+        "text": "model",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "column graph is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-003",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-003",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "model",
+        "is_correct": false
+      },
+      {
+        "text": "scale",
+        "is_correct": true
+      },
+      {
+        "text": "pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scale is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-004",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-004",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "pattern",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "model",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "model is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-005",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?",
+    "audio_prompt": "A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-005",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?"
+    },
+    "answers": [
+      {
+        "text": "pattern",
+        "is_correct": true
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "column graph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "pattern is the precise term for this observation or relationship.",
+      "hint": "Match the evidence in the description to the most precise scientific term."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-006",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-006",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      },
+      {
+        "text": "Audit every plotted value against the source.",
+        "is_correct": true
+      },
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Audit every plotted value against the source.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-007",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-007",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Axis intervals change partway",
+        "is_correct": false
+      },
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      },
+      {
+        "text": "Use a consistent scale unless a break is clearly justified.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a consistent scale unless a break is clearly justified.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-008",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-008",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "State simplifications and limits.",
+        "is_correct": true
+      },
+      {
+        "text": "Model treated as exact reality",
+        "is_correct": false
+      },
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State simplifications and limits.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-009",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?",
+    "audio_prompt": "A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-009",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?"
+    },
+    "answers": [
+      {
+        "text": "Pattern described without values",
+        "is_correct": false
+      },
+      {
+        "text": "Support interpretation with categories, quantities or comparisons.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph values differ from table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Support interpretation with categories, quantities or comparisons.",
+      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-010",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A new field-note example asks: Which representation best shows exact recorded values?",
+    "audio_prompt": "A new field-note example asks: Which representation best shows exact recorded values?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-010",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which representation best shows exact recorded values?"
+    },
+    "answers": [
+      {
+        "text": "an unrelated image",
+        "is_correct": false
+      },
+      {
+        "text": "a title only",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled table",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "a labelled table",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-011",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A new design task asks: Which statement best describes a scientific model?",
+    "audio_prompt": "A new design task asks: Which statement best describes a scientific model?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-011",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement best describes a scientific model?"
+    },
+    "answers": [
+      {
+        "text": "A purposeful simplification used to show important parts or relationships",
+        "is_correct": true
+      },
+      {
+        "text": "A perfect copy of reality",
+        "is_correct": false
+      },
+      {
+        "text": "The group states its preferred outcome instead of using the recorded scientific evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A purposeful simplification used to show important parts or relationships",
+      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-012",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-012",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Begin table-to-graph conversion, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Create a labelled column graph from a table, then audit every bar against the source value.",
+        "is_correct": true
+      },
+      {
+        "text": "Carry out table-to-graph conversion once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Create a labelled column graph from a table, then audit every bar against the source value.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-013",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-013",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Begin model limitation labels, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out model limitation labels once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-014",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?",
+    "audio_prompt": "A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-014",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?"
+    },
+    "answers": [
+      {
+        "text": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
+        "is_correct": true
+      },
+      {
+        "text": "Begin representation choice, change two important conditions together, then compare only the preferred observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry out representation choice once, omit the measurements and report the original prediction as the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
+      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-015",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "In a new assessment, which response would best demonstrate “Choose suitable representations”?",
+    "audio_prompt": "In a new assessment, which response would best demonstrate “Choose suitable representations”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-015",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Choose suitable representations”?"
+    },
+    "answers": [
+      {
+        "text": "State a preferred answer without using the observations or measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
+      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+    }
+  },
+  {
+    "id": "AC9S4I04-T-016",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables_column_graphs_and_scientific_models",
+    "question": "In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?",
+    "audio_prompt": "In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-016",
+      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?"
+    },
+    "answers": [
+      {
+        "text": "State a preferred answer without using the observations or measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a relevant observation or measurement, demonstrate “Construct accurate tables/graphs”, and explain the result.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a relevant observation or measurement, demonstrate “Construct accurate tables/graphs”, and explain the result.",
+      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+    }
+  }
+]
