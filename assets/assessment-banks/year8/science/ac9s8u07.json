@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: Ice melts and can be frozen back into ice with the same mass. How should the change be classified?",
+    "audio_prompt": "During a class investigation, students observe: Ice melts and can be frozen back into ice with the same mass. How should the change be classified?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-001",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Ice melts and can be frozen back into ice with the same mass."
     },
     "answers": [
       {
-        "text": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances; this interpretation can be checked against further evidence",
+        "text": "A physical change because the substance remains water",
         "is_correct": true
       },
       {
-        "text": "Any colour change proves a reaction; one matching observation makes this explanation certain",
+        "text": "A chemical change because energy was transferred",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "A chemical change because liquid particles are a new substance",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Melting changes state but does not form a new substance.",
+      "hint": "Ask whether the particles' chemical identity changed."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
+    "question": "During a museum evidence display, students observe: Vinegar and bicarbonate produce bubbles, and the gas can extinguish a flame. Why do the observations support a chemical change?",
+    "audio_prompt": "During a museum evidence display, students observe: Vinegar and bicarbonate produce bubbles, and the gas can extinguish a flame. Why do the observations support a chemical change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-002",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Vinegar and bicarbonate produce bubbles, and the gas can extinguish a flame."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; the wider pattern does not need to be considered",
+        "text": "Any bubble proves a chemical reaction, including boiling bubbles",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that indicators include gas, precipitate, persistent colour or temperature change, within the limits of the investigation",
+        "text": "A gas with properties different from the reactants formed",
         "is_correct": true
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "The reactants only changed state because all gases are evaporated liquids",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Formation of a gas with new properties is evidence that new substances formed.",
+      "hint": "Use the gas test, not bubbles alone."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Blue copper sulfate solution and clear sodium hydroxide solution form a blue solid. Which evidence is most useful?",
+    "audio_prompt": "During a field-team briefing, students observe: Blue copper sulfate solution and clear sodium hydroxide solution form a blue solid. Which evidence is most useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-003",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Blue copper sulfate solution and clear sodium hydroxide solution form a blue solid."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The mixture stayed blue, so no particles changed",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The liquids became heavier because solids contain more matter",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "An insoluble precipitate formed from two solutions",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A new precipitate is evidence of a chemical reaction in solution.",
+      "hint": "Name the new observable material."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: Steel wool gains mass after being heated in air. Which explanation fits conservation of matter?",
+    "audio_prompt": "During a laboratory notebook, students observe: Steel wool gains mass after being heated in air. Which explanation fits conservation of matter?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-004",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Steel wool gains mass after being heated in air."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that physical changes do not create a new substance; chemical changes rearrange particles into new substances",
+        "text": "Iron atoms combined with oxygen atoms from the air",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Heating created extra iron atoms",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "The balance added mass because hot objects always weigh more permanently",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The product includes oxygen from the surroundings, so its mass can exceed the starting iron mass.",
+      "hint": "Treat the air as part of the reacting system."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "A community science meeting for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: Sugar dissolves in water and can be recovered by evaporating the water. What is the strongest conclusion?",
+    "audio_prompt": "During a community science meeting, students observe: Sugar dissolves in water and can be recovered by evaporating the water. What is the strongest conclusion?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-005",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A community science meeting for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Sugar dissolves in water and can be recovered by evaporating the water."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; the same outcome must therefore occur in every setting",
+        "text": "Dissolving was chemical because the sugar became invisible",
         "is_correct": false
       },
       {
-        "text": "The evidence supports indicators include gas, precipitate, persistent colour or temperature change, but it does not prove that every case will be identical",
+        "text": "Dissolving was a physical change because the sugar remained chemically present",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "Evaporation changed water particles into sugar particles",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Recovery of unchanged sugar supports dissolution as a physical change.",
+      "hint": "Visibility is not the same as existence."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: A glow stick warms slightly and emits light after its inner tube is broken. Which inference is justified?",
+    "audio_prompt": "During a digital model review, students observe: A glow stick warms slightly and emits light after its inner tube is broken. Which inference is justified?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-006",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A glow stick warms slightly and emits light after its inner tube is broken."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; one matching observation makes this explanation certain",
+        "text": "Light alone always proves a chemical reaction, including reflected sunlight",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "The tube breaking mechanically creates unlimited energy",
         "is_correct": false
       },
       {
-        "text": "Energy evidence must be interpreted with other observations; this interpretation can be checked against further evidence",
+        "text": "Energy release and new light-emitting products support a chemical reaction",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A combination of energy change and changed substances supports chemical reaction.",
+      "hint": "Combine more than one observation."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
+    "question": "During a student research poster, students observe: An unknown white powder turns universal indicator red when mixed with water. What can be concluded safely?",
+    "audio_prompt": "During a student research poster, students observe: An unknown white powder turns universal indicator red when mixed with water. What can be concluded safely?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-007",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: An unknown white powder turns universal indicator red when mixed with water."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that physical changes do not create a new substance; chemical changes rearrange particles into new substances, within the limits of the investigation",
+        "text": "The solution is acidic, but this test alone does not identify the exact powder",
         "is_correct": true
       },
       {
-        "text": "Any colour change proves a reaction; the wider pattern does not need to be considered",
+        "text": "The powder must be pure hydrochloric acid",
         "is_correct": false
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "A red colour proves the powder underwent combustion",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An indicator can classify acidity without uniquely identifying a substance.",
+      "hint": "Separate what the test detects from a specific identity claim."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Wax near a candle flame melts, while wax vapour in the flame reacts with oxygen. Which comparison is correct?",
+    "audio_prompt": "During an engineering design check, students observe: Wax near a candle flame melts, while wax vapour in the flame reacts with oxygen. Which comparison is correct?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-008",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Wax near a candle flame melts, while wax vapour in the flame reacts with oxygen."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Both are chemical because both require energy",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "Melting is physical; combustion is chemical because new substances form",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Both are physical because the candle still contains some wax",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "One event changes state, while the other rearranges atoms into new substances.",
+      "hint": "Classify the two processes separately."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A reaction mixture cools from 22°C to 15°C in an insulated cup. What does the temperature change suggest?",
+    "audio_prompt": "During a data-team discussion, students observe: A reaction mixture cools from 22°C to 15°C in an insulated cup. What does the temperature change suggest?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-009",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A reaction mixture cools from 22°C to 15°C in an insulated cup."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "No reaction occurred because reactions can only release heat",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Cold particles were created and replaced the reactants",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that energy evidence must be interpreted with other observations",
+        "text": "The reaction absorbed thermal energy from its surroundings",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A temperature decrease in an insulated reaction can indicate an endothermic energy transfer.",
+      "hint": "Trace the direction of thermal energy transfer."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: A student sees a colour change when two liquids mix, but one liquid is a strong dye. What should be done before claiming a new substance formed?",
+    "audio_prompt": "During a school science report, students observe: A student sees a colour change when two liquids mix, but one liquid is a strong dye. What should be done before claiming a new substance formed?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-010",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A student sees a colour change when two liquids mix, but one liquid is a strong dye."
     },
     "answers": [
       {
-        "text": "The evidence supports physical changes do not create a new substance; chemical changes rearrange particles into new substances, but it does not prove that every case will be identical",
+        "text": "Seek additional evidence such as a precipitate, gas, sustained temperature change or changed properties",
         "is_correct": true
       },
       {
-        "text": "Melting is chemical because it needs energy; the same outcome must therefore occur in every setting",
+        "text": "Accept colour alone because all colour changes are chemical",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "Ignore all observations because coloured substances cannot react",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Colour change can be ambiguous, so multiple lines of evidence strengthen a reaction claim.",
+      "hint": "Consider a non-reaction explanation for the colour."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: Paper is cut into strips. Which classification or inference is best supported in case 1?",
+    "audio_prompt": "During a council evidence summary, students observe: Paper is cut into strips. Which classification or inference is best supported in case 1?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-011",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Paper is cut into strips."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; one matching observation makes this explanation certain",
+        "text": "Cutting creates new molecules",
         "is_correct": false
       },
       {
-        "text": "Indicators include gas, precipitate, persistent colour or temperature change; this interpretation can be checked against further evidence",
+        "text": "A physical change alters size, not substance",
         "is_correct": true
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "All irreversible changes are chemical",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A physical change alters size, not substance.",
+      "hint": "For case 1, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
+    "question": "During a peer-review conversation, students observe: Copper wire is bent. Which classification or inference is best supported in case 2?",
+    "audio_prompt": "During a peer-review conversation, students observe: Copper wire is bent. Which classification or inference is best supported in case 2?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-012",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Copper wire is bent."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; the wider pattern does not need to be considered",
+        "text": "Metal becomes a new element",
         "is_correct": false
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Force always causes reaction",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that energy evidence must be interpreted with other observations, within the limits of the investigation",
+        "text": "A physical shape change occurs",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A physical shape change occurs.",
+      "hint": "For case 2, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: Water freezes. Which classification or inference is best supported in case 3?",
+    "audio_prompt": "During an environmental monitoring project, students observe: Water freezes. Which classification or inference is best supported in case 3?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-013",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Water freezes."
     },
     "answers": [
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "State changes but water remains water",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Ice is a new chemical",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Cooling destroys liquid particles",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "State changes but water remains water.",
+      "hint": "For case 3, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: Alcohol evaporates. Which classification or inference is best supported in case 4?",
+    "audio_prompt": "During a medical research case, students observe: Alcohol evaporates. Which classification or inference is best supported in case 4?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-014",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Alcohol evaporates."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Alcohol reacts with air",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that indicators include gas, precipitate, persistent colour or temperature change",
+        "text": "A physical state change occurs",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Gas has a different identity",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A physical state change occurs.",
+      "hint": "For case 4, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: Salt crystals are ground. Which classification or inference is best supported in case 5?",
+    "audio_prompt": "During a science-news fact check, students observe: Salt crystals are ground. Which classification or inference is best supported in case 5?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-015",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Salt crystals are ground."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; the same outcome must therefore occur in every setting",
+        "text": "Grinding makes new salt",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "Powdering is combustion",
         "is_correct": false
       },
       {
-        "text": "The evidence supports energy evidence must be interpreted with other observations, but it does not prove that every case will be identical",
+        "text": "Only particle-piece size changes",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Only particle-piece size changes.",
+      "hint": "For case 5, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: Iron develops reddish-brown rust. Which classification or inference is best supported in case 6?",
+    "audio_prompt": "During a classroom model test, students observe: Iron develops reddish-brown rust. Which classification or inference is best supported in case 6?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-016",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Iron develops reddish-brown rust."
     },
     "answers": [
       {
-        "text": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances; this interpretation can be checked against further evidence",
+        "text": "Iron reacts with oxygen and water to form new substances",
         "is_correct": true
       },
       {
-        "text": "Melting is chemical because it needs energy; one matching observation makes this explanation certain",
+        "text": "Rust is melted iron",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Colour alone proves the claim",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Iron reacts with oxygen and water to form new substances.",
+      "hint": "For case 6, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?",
+    "question": "During a regional planning workshop, students observe: Magnesium burns with bright light and leaves white ash. Which classification or inference is best supported in case 7?",
+    "audio_prompt": "During a regional planning workshop, students observe: Magnesium burns with bright light and leaves white ash. Which classification or inference is best supported in case 7?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-017",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Magnesium burns with bright light and leaves white ash."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; the wider pattern does not need to be considered",
+        "text": "Magnesium only melts",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that indicators include gas, precipitate, persistent colour or temperature change, within the limits of the investigation",
+        "text": "A new oxide forms with energy release",
         "is_correct": true
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Ash is trapped light",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A new oxide forms with energy release.",
+      "hint": "For case 7, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: An egg white becomes opaque when heated. Which classification or inference is best supported in case 8?",
+    "audio_prompt": "During an equipment selection task, students observe: An egg white becomes opaque when heated. Which classification or inference is best supported in case 8?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-018",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: An egg white becomes opaque when heated."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The egg only changes state",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "White colour alone is proof",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "Proteins undergo chemical changes that are difficult to reverse",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Proteins undergo chemical changes that are difficult to reverse.",
+      "hint": "For case 8, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: Toast browns and develops new aromas. Which classification or inference is best supported in case 9?",
+    "audio_prompt": "During a public information draft, students observe: Toast browns and develops new aromas. Which classification or inference is best supported in case 9?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-019",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Toast browns and develops new aromas."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that physical changes do not create a new substance; chemical changes rearrange particles into new substances",
+        "text": "Heating causes reactions that form new substances",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Bread merely melts",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Aroma is stored heat",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Heating causes reactions that form new substances.",
+      "hint": "For case 9, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: A tablet fizzes in water and the sealed bag inflates. Which classification or inference is best supported in case 10?",
+    "audio_prompt": "During an independent replication study, students observe: A tablet fizzes in water and the sealed bag inflates. Which classification or inference is best supported in case 10?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-020",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A tablet fizzes in water and the sealed bag inflates."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; the same outcome must therefore occur in every setting",
+        "text": "Water boils at room temperature",
         "is_correct": false
       },
       {
-        "text": "The evidence supports indicators include gas, precipitate, persistent colour or temperature change, but it does not prove that every case will be identical",
+        "text": "A reaction produces gas",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "The bag creates air",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reaction produces gas.",
+      "hint": "For case 10, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: Milk sours and its pH falls. Which classification or inference is best supported in case 11?",
+    "audio_prompt": "During a risk-assessment meeting, students observe: Milk sours and its pH falls. Which classification or inference is best supported in case 11?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-021",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Milk sours and its pH falls."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; one matching observation makes this explanation certain",
+        "text": "Milk only freezes",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "pH measures colour",
         "is_correct": false
       },
       {
-        "text": "Energy evidence must be interpreted with other observations; this interpretation can be checked against further evidence",
+        "text": "Microbial reactions form acidic substances",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Microbial reactions form acidic substances.",
+      "hint": "For case 11, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?",
+    "question": "During a graph interpretation task, students observe: A silver surface tarnishes. Which classification or inference is best supported in case 12?",
+    "audio_prompt": "During a graph interpretation task, students observe: A silver surface tarnishes. Which classification or inference is best supported in case 12?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-022",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A silver surface tarnishes."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that physical changes do not create a new substance; chemical changes rearrange particles into new substances, within the limits of the investigation",
+        "text": "Silver reacts with substances in air",
         "is_correct": true
       },
       {
-        "text": "Melting is chemical because it needs energy; the wider pattern does not need to be considered",
+        "text": "Metal evaporates into blackness",
         "is_correct": false
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Tarnish is shadow",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Silver reacts with substances in air.",
+      "hint": "For case 12, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: Hydrogen burns in oxygen and water forms. Which classification or inference is best supported in case 13?",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: Hydrogen burns in oxygen and water forms. Which classification or inference is best supported in case 13?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-023",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Hydrogen burns in oxygen and water forms."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Atoms are destroyed",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "Atoms rearrange into a new compound",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Oxygen becomes energy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Atoms rearrange into a new compound.",
+      "hint": "For case 13, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: A precipitate disappears when acid is added. Which classification or inference is best supported in case 14?",
+    "audio_prompt": "During a scientific-method audit, students observe: A precipitate disappears when acid is added. Which classification or inference is best supported in case 14?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-024",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A precipitate disappears when acid is added."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "The solid becomes invisible without particles",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Acid deletes matter",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that energy evidence must be interpreted with other observations",
+        "text": "A further chemical reaction may form soluble products",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A further chemical reaction may form soluble products.",
+      "hint": "For case 14, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: A catalyst speeds a reaction but remains after it. Which classification or inference is best supported in case 15?",
+    "audio_prompt": "During the new research proposal, students observe: A catalyst speeds a reaction but remains after it. Which classification or inference is best supported in case 15?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-001",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A catalyst speeds a reaction but remains after it."
     },
     "answers": [
       {
-        "text": "The evidence supports physical changes do not create a new substance; chemical changes rearrange particles into new substances, but it does not prove that every case will be identical",
+        "text": "It changes reaction rate without being consumed overall",
         "is_correct": true
       },
       {
-        "text": "Any colour change proves a reaction; the same outcome must therefore occur in every setting",
+        "text": "It supplies all product matter",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "It makes energy from nothing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It changes reaction rate without being consumed overall.",
+      "hint": "For case 15, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: Powder reacts faster than a lump of equal mass. Which classification or inference is best supported in case 16?",
+    "audio_prompt": "During the cross-school data comparison, students observe: Powder reacts faster than a lump of equal mass. Which classification or inference is best supported in case 16?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-002",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Powder reacts faster than a lump of equal mass."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; one matching observation makes this explanation certain",
+        "text": "Powder has different atoms",
         "is_correct": false
       },
       {
-        "text": "Indicators include gas, precipitate, persistent colour or temperature change; this interpretation can be checked against further evidence",
+        "text": "Greater surface area increases collision opportunities",
         "is_correct": true
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Lumps contain less matter",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Greater surface area increases collision opportunities.",
+      "hint": "For case 16, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
+    "question": "During the technology evaluation panel, students observe: A reaction is faster when warmed. Which classification or inference is best supported in case 17?",
+    "audio_prompt": "During the technology evaluation panel, students observe: A reaction is faster when warmed. Which classification or inference is best supported in case 17?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-003",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A reaction is faster when warmed."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; the wider pattern does not need to be considered",
+        "text": "Heat adds reactant atoms",
         "is_correct": false
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Temperature guarantees explosion",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that energy evidence must be interpreted with other observations, within the limits of the investigation",
+        "text": "Higher kinetic energy increases successful collisions",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Higher kinetic energy increases successful collisions.",
+      "hint": "For case 17, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: Concentrated acid reacts faster than dilute acid. Which classification or inference is best supported in case 18?",
+    "audio_prompt": "During the science exhibition caption, students observe: Concentrated acid reacts faster than dilute acid. Which classification or inference is best supported in case 18?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-004",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Concentrated acid reacts faster than dilute acid."
     },
     "answers": [
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "More reactant particles per volume increases collision frequency",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Concentration changes particle identity",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Dilute acid has no particles",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "More reactant particles per volume increases collision frequency.",
+      "hint": "For case 18, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: A sealed reaction has 80 g before and after. Which classification or inference is best supported in case 19?",
+    "audio_prompt": "During the policy evidence hearing, students observe: A sealed reaction has 80 g before and after. Which classification or inference is best supported in case 19?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-005",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A sealed reaction has 80 g before and after."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "No reaction occurred",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that indicators include gas, precipitate, persistent colour or temperature change",
+        "text": "Total mass is conserved",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Products have no mass",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Total mass is conserved.",
+      "hint": "For case 19, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: An open flask loses mass while gas escapes. Which classification or inference is best supported in case 20?",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: An open flask loses mass while gas escapes. Which classification or inference is best supported in case 20?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-006",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: An open flask loses mass while gas escapes."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; the same outcome must therefore occur in every setting",
+        "text": "Atoms were destroyed",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "The balance consumed mass",
         "is_correct": false
       },
       {
-        "text": "The evidence supports energy evidence must be interpreted with other observations, but it does not prove that every case will be identical",
+        "text": "Matter left the measured system as gas",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Matter left the measured system as gas.",
+      "hint": "For case 20, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: A cold pack cools when salts mix with water. Which classification or inference is best supported in case 21?",
+    "audio_prompt": "During the model limitations review, students observe: A cold pack cools when salts mix with water. Which classification or inference is best supported in case 21?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-007",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A cold pack cools when salts mix with water."
     },
     "answers": [
       {
-        "text": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances; this interpretation can be checked against further evidence",
+        "text": "The process absorbs thermal energy from surroundings",
         "is_correct": true
       },
       {
-        "text": "Any colour change proves a reaction; one matching observation makes this explanation certain",
+        "text": "Cold is a substance produced",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Energy conservation fails",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The process absorbs thermal energy from surroundings.",
+      "hint": "For case 21, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
+    "question": "During the ethics committee discussion, students observe: A hand warmer heats when exposed to air. Which classification or inference is best supported in case 22?",
+    "audio_prompt": "During the ethics committee discussion, students observe: A hand warmer heats when exposed to air. Which classification or inference is best supported in case 22?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-008",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A hand warmer heats when exposed to air."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; the wider pattern does not need to be considered",
+        "text": "Air creates unlimited heat",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that indicators include gas, precipitate, persistent colour or temperature change, within the limits of the investigation",
+        "text": "An exothermic oxidation transfers energy outward",
         "is_correct": true
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Iron merely changes state",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An exothermic oxidation transfers energy outward.",
+      "hint": "For case 22, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: Universal indicator turns purple in cleaner. Which classification or inference is best supported in case 23?",
+    "audio_prompt": "During the coastal field station report, students observe: Universal indicator turns purple in cleaner. Which classification or inference is best supported in case 23?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-009",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Universal indicator turns purple in cleaner."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Purple identifies one exact chemical",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "All colour change is combustion",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "The solution is strongly basic",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The solution is strongly basic.",
+      "hint": "For case 23, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: Limewater turns cloudy when exhaled gas bubbles through. Which classification or inference is best supported in case 24?",
+    "audio_prompt": "During the renewable-energy trial, students observe: Limewater turns cloudy when exhaled gas bubbles through. Which classification or inference is best supported in case 24?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-010",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Limewater turns cloudy when exhaled gas bubbles through."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that physical changes do not create a new substance; chemical changes rearrange particles into new substances",
+        "text": "A precipitate test indicates carbon dioxide",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Cloudiness is boiling",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Oxygen becomes solid",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A precipitate test indicates carbon dioxide.",
+      "hint": "For case 24, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: A splint relights in a collected gas. Which classification or inference is best supported in case 25?",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A splint relights in a collected gas. Which classification or inference is best supported in case 25?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-011",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A splint relights in a collected gas."
     },
     "answers": [
       {
-        "text": "Any colour change proves a reaction; the same outcome must therefore occur in every setting",
+        "text": "The gas must be hydrogen",
         "is_correct": false
       },
       {
-        "text": "The evidence supports indicators include gas, precipitate, persistent colour or temperature change, but it does not prove that every case will be identical",
+        "text": "The gas supports combustion and is likely oxygen",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "Any gas relights splints",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The gas supports combustion and is likely oxygen.",
+      "hint": "For case 25, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: A squeaky pop occurs with a lit splint. Which classification or inference is best supported in case 26?",
+    "audio_prompt": "During the geological survey update, students observe: A squeaky pop occurs with a lit splint. Which classification or inference is best supported in case 26?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-012",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A squeaky pop occurs with a lit splint."
     },
     "answers": [
       {
-        "text": "Melting is chemical because it needs energy; one matching observation makes this explanation certain",
+        "text": "The gas is certainly carbon dioxide",
         "is_correct": false
       },
       {
-        "text": "Physical change is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Sound creates hydrogen",
         "is_correct": false
       },
       {
-        "text": "Energy evidence must be interpreted with other observations; this interpretation can be checked against further evidence",
+        "text": "The test supports hydrogen gas",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about physical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The test supports hydrogen gas.",
+      "hint": "For case 26, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: A glowing chip extinguishes in carbon dioxide. Which classification or inference is best supported in case 27?",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A glowing chip extinguishes in carbon dioxide. Which classification or inference is best supported in case 27?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-013",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A glowing chip extinguishes in carbon dioxide."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that physical changes do not create a new substance; chemical changes rearrange particles into new substances, within the limits of the investigation",
+        "text": "The gas does not support combustion under this test",
         "is_correct": true
       },
       {
-        "text": "Any colour change proves a reaction; the wider pattern does not need to be considered",
+        "text": "The gas has no particles",
         "is_correct": false
       },
       {
-        "text": "New substance evidence caused the result because the two occurred together once",
+        "text": "Flames are physical substances",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about chemical change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The gas does not support combustion under this test.",
+      "hint": "For case 27, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: Electrolysis separates water into gases. Which classification or inference is best supported in case 28?",
+    "audio_prompt": "During the documentary planning session, students observe: Electrolysis separates water into gases. Which classification or inference is best supported in case 28?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-014",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Electrolysis separates water into gases."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Water simply evaporates",
         "is_correct": false
       },
       {
-        "text": "The model links new substance evidence with temperature change, so it can explain the relationship while still having limits",
+        "text": "Electrical energy drives a chemical decomposition",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Electricity becomes atoms",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Indicators include gas, precipitate, persistent colour or temperature change. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new substance evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Electrical energy drives a chemical decomposition.",
+      "hint": "For case 28, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: Photosynthesis makes glucose and oxygen. Which classification or inference is best supported in case 29?",
+    "audio_prompt": "During the national data-set review, students observe: Photosynthesis makes glucose and oxygen. Which classification or inference is best supported in case 29?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-015",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? observation card stating: Photosynthesis makes glucose and oxygen."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Plants create matter from nothing",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to temperature change alone",
+        "text": "Light turns directly into oxygen atoms",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that energy evidence must be interpreted with other observations",
+        "text": "Atoms from reactants rearrange using transferred energy",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Energy evidence must be interpreted with other observations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about temperature change, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Atoms from reactants rearrange using transferred energy.",
+      "hint": "For case 29, decide whether substance identity changed and use specific evidence."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: A reaction diagram has fewer atoms after reaction. Which classification or inference is best supported in case 30?",
+    "audio_prompt": "During the final evidence conference, students observe: A reaction diagram has fewer atoms after reaction. Which classification or inference is best supported in case 30?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-016",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? observation card stating: A reaction diagram has fewer atoms after reaction."
     },
     "answers": [
       {
-        "text": "The evidence supports physical changes do not create a new substance; chemical changes rearrange particles into new substances, but it does not prove that every case will be identical",
+        "text": "The diagram violates conservation and must retain every atom",
         "is_correct": true
       },
       {
-        "text": "Melting is chemical because it needs energy; the same outcome must therefore occur in every setting",
+        "text": "Atoms normally vanish",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about physical change is stronger than measured or documented evidence",
+        "text": "Products need not contain reactant atoms",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Physical changes do not create a new substance; chemical changes rearrange particles into new substances. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about test and inference, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The diagram violates conservation and must retain every atom.",
+      "hint": "For case 30, decide whether substance identity changed and use specific evidence."
     }
   }
 ]

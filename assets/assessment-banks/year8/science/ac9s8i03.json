@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_quantity",
-    "question": "In a class investigation, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: A measuring cylinder has marks every 1 millilitre and the meniscus is halfway between 36 and 37. Which record is justified?",
+    "audio_prompt": "During a class investigation, students observe: A measuring cylinder has marks every 1 millilitre and the meniscus is halfway between 36 and 37. Which record is justified?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-001",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a class investigation, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: A measuring cylinder has marks every 1 millilitre and the meniscus is halfway between 36 and 37."
     },
     "answers": [
       {
-        "text": "Equipment range and resolution must suit the quantity; this interpretation can be checked against further evidence",
+        "text": "36.5 mL, read at eye level from the bottom of the meniscus",
         "is_correct": true
       },
       {
-        "text": "More decimal places always means more precision; one matching observation makes this explanation certain",
+        "text": "36.5000 mL because more decimals mean greater precision",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "About 40 mL because scale marks are optional",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The reading and digits should match the scale resolution and correct meniscus method.",
+      "hint": "Estimate only one sensible digit beyond the graduations."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_instrument_range",
-    "question": "During a museum evidence display, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?",
+    "question": "During a museum evidence display, students observe: A leaf is about 6 centimetres long. Which instrument is most suitable?",
+    "audio_prompt": "During a museum evidence display, students observe: A leaf is about 6 centimetres long. Which instrument is most suitable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-002",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a museum evidence display, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: A leaf is about 6 centimetres long."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; the wider pattern does not need to be considered",
+        "text": "A 50-metre tape marked every metre",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that measurements use correct scale-reading conventions, within the limits of the investigation",
+        "text": "A millimetre ruler with a range longer than the leaf",
         "is_correct": true
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "A micrometer designed for very small thicknesses",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Instrument range and resolution must suit the size and required precision.",
+      "hint": "Choose an instrument that spans the leaf and gives useful detail."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_resolution",
-    "question": "In a field-team briefing, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: A digital balance displays 12.34 grams for the same object several times. What can be concluded from the display alone?",
+    "audio_prompt": "During a field-team briefing, students observe: A digital balance displays 12.34 grams for the same object several times. What can be concluded from the display alone?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-003",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In a field-team briefing, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: A digital balance displays 12.34 grams for the same object several times."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The mass is certainly accurate because the display is digital",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The last two digits prove the balance has no uncertainty",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "Its resolution is 0.01 g, but calibration is needed before claiming accuracy",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Resolution describes display detail; accuracy also depends on calibration and method.",
+      "hint": "Do not confuse decimal places with closeness to the true value."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_correct_reading",
-    "question": "During a laboratory notebook, the evidence states, “Check calibration”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Check calibration”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: Timing one pendulum swing gives values that vary with reaction time. Which method improves the timing precision?",
+    "audio_prompt": "During a laboratory notebook, students observe: Timing one pendulum swing gives values that vary with reaction time. Which method improves the timing precision?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-004",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a laboratory notebook, the evidence states, “Check calibration”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: Timing one pendulum swing gives values that vary with reaction time."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that equipment range and resolution must suit the quantity",
+        "text": "Time 20 swings and divide by 20, repeating the measurement",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Round each single-swing time to the nearest whole second",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "Start timing before release and stop whenever convenient",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Timing many cycles reduces the relative effect of start-stop reaction time.",
+      "hint": "Make the measured interval much longer than the timing delay."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A community science meeting for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: Temperatures are recorded as 21.4, 22, 23.17 and 24 degrees Celsius with the same thermometer. What should be corrected?",
+    "audio_prompt": "During a community science meeting, students observe: Temperatures are recorded as 21.4, 22, 23.17 and 24 degrees Celsius with the same thermometer. What should be corrected?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-005",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A community science meeting for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: Temperatures are recorded as 21.4, 22, 23.17 and 24 degrees Celsius with the same thermometer."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; the same outcome must therefore occur in every setting",
+        "text": "Remove all units to make the table shorter",
         "is_correct": false
       },
       {
-        "text": "The evidence supports measurements use correct scale-reading conventions, but it does not prove that every case will be identical",
+        "text": "Use consistent precision justified by the thermometer's graduations",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "Add five decimal places to every value regardless of the scale",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Measurements from one instrument should use consistent, justified precision and units.",
+      "hint": "Check whether the number of digits matches the instrument."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_quantity",
-    "question": "In a digital model review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: A thermometer range is minus 10 to 110 degrees Celsius, but a furnace is near 600 degrees Celsius. Why is this thermometer unsuitable?",
+    "audio_prompt": "During a digital model review, students observe: A thermometer range is minus 10 to 110 degrees Celsius, but a furnace is near 600 degrees Celsius. Why is this thermometer unsuitable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-006",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a digital model review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: A thermometer range is minus 10 to 110 degrees Celsius, but a furnace is near 600 degrees Celsius."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; one matching observation makes this explanation certain",
+        "text": "Its range is too wide to measure any temperature",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "All thermometers can measure any temperature if held longer",
         "is_correct": false
       },
       {
-        "text": "Data tables record units and precision consistently; this interpretation can be checked against further evidence",
+        "text": "The expected value exceeds its range and could damage the instrument or give no valid reading",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An instrument must safely include the expected measurement within its range.",
+      "hint": "Compare 600 degrees with the instrument maximum."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_instrument_range",
-    "question": "During a student research poster, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?",
+    "question": "During a student research poster, students observe: A student views a ruler from an angle and records an object endpoint. Which procedure reduces parallax error?",
+    "audio_prompt": "During a student research poster, students observe: A student views a ruler from an angle and records an object endpoint. Which procedure reduces parallax error?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-007",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a student research poster, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: A student views a ruler from an angle and records an object endpoint."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that equipment range and resolution must suit the quantity, within the limits of the investigation",
+        "text": "Place the scale beside the object and view the endpoint perpendicular to the ruler",
         "is_correct": true
       },
       {
-        "text": "More decimal places always means more precision; the wider pattern does not need to be considered",
+        "text": "View from a steeper angle so the marks look farther apart",
         "is_correct": false
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "Take extra decimal places from the angled view",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A perpendicular line of sight reduces apparent displacement against a scale.",
+      "hint": "Align the eye directly above the reading."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_resolution",
-    "question": "In an engineering design check, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: A pH strip changes to a colour between the chart values 6 and 7. Which report is honest?",
+    "audio_prompt": "During an engineering design check, students observe: A pH strip changes to a colour between the chart values 6 and 7. Which report is honest?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-008",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In an engineering design check, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: A pH strip changes to a colour between the chart values 6 and 7."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The pH is exactly 6.500 because the colour looked halfway",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "The pH is approximately between 6 and 7, limited by the colour scale",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The pH must be neutral because it is near 7",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Reported precision cannot exceed what the comparison scale can resolve.",
+      "hint": "Use approximate language for a coarse colour match."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_correct_reading",
-    "question": "During a data-team discussion, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: Five mass readings are 8.42, 8.41, 8.43, 8.42 and 9.87 grams. What should happen before calculating a final value?",
+    "audio_prompt": "During a data-team discussion, students observe: Five mass readings are 8.42, 8.41, 8.43, 8.42 and 9.87 grams. What should happen before calculating a final value?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-009",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a data-team discussion, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: Five mass readings are 8.42, 8.41, 8.43, 8.42 and 9.87 grams."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Delete 9.87 immediately because it spoils the average",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "Average only the two readings that are exactly equal",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that data tables record units and precision consistently",
+        "text": "Check the 9.87 g reading, the balance and the sample, then document whether it is repeated or retained",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An unusual measurement is investigated transparently before treatment.",
+      "hint": "Check for a recording, equipment or sample change."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A school science report for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: Students must measure 25.0 millilitres accurately for a solution. Which equipment is best?",
+    "audio_prompt": "During a school science report, students observe: Students must measure 25.0 millilitres accurately for a solution. Which equipment is best?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-010",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A school science report for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: Students must measure 25.0 millilitres accurately for a solution."
     },
     "answers": [
       {
-        "text": "The evidence supports equipment range and resolution must suit the quantity, but it does not prove that every case will be identical",
+        "text": "A calibrated 25.0 mL volumetric pipette used correctly",
         "is_correct": true
       },
       {
-        "text": "A digital display is automatically accurate; the same outcome must therefore occur in every setting",
+        "text": "A 250 mL beaker with marks every 50 mL",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "A drinking cup filled to an estimated line",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Volumetric equipment gives suitable precision for a specified liquid volume.",
+      "hint": "Choose the equipment designed to deliver that exact volume."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_quantity",
-    "question": "In a council evidence summary, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: In study 11 of water temperature and sugar dissolving time, the expected dissolving time spans a known range. How should the team obtain useful dissolving time measurements? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: In study 11 of water temperature and sugar dissolving time, the expected dissolving time spans a known range. How should the team obtain useful dissolving time measurements? Use the water temperature and sugar dissolving time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-011",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a council evidence summary, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 11 of water temperature and sugar dissolving time, the expected dissolving time spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; one matching observation makes this explanation certain",
+        "text": "For water temperature and sugar dissolving time: Use any instrument and add extra decimal places to its dissolving time readings",
         "is_correct": false
       },
       {
-        "text": "Measurements use correct scale-reading conventions; this interpretation can be checked against further evidence",
+        "text": "For water temperature and sugar dissolving time: Choose a calibrated instrument whose range and resolution suit dissolving time, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For water temperature and sugar dissolving time: Estimate dissolving time by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful dissolving time data require suitable range, resolution, technique, units and precision. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Match the instrument to the size and detail required for dissolving time. Apply this to water temperature and sugar dissolving time."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_instrument_range",
-    "question": "During a peer-review conversation, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?",
+    "question": "During a peer-review conversation, students observe: In study 12 of ramp angle and toy-car travel time, the expected travel time spans a known range. How should the team obtain useful travel time measurements? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: In study 12 of ramp angle and toy-car travel time, the expected travel time spans a known range. How should the team obtain useful travel time measurements? Use the ramp angle and toy-car travel time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-012",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a peer-review conversation, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 12 of ramp angle and toy-car travel time, the expected travel time spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; the wider pattern does not need to be considered",
+        "text": "For ramp angle and toy-car travel time: Use any instrument and add extra decimal places to its travel time readings",
         "is_correct": false
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For ramp angle and toy-car travel time: Estimate travel time by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that data tables record units and precision consistently, within the limits of the investigation",
+        "text": "For ramp angle and toy-car travel time: Choose a calibrated instrument whose range and resolution suit travel time, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful travel time data require suitable range, resolution, technique, units and precision. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Match the instrument to the size and detail required for travel time. Apply this to ramp angle and toy-car travel time."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_resolution",
-    "question": "In an environmental monitoring project, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: In study 13 of light intensity and pondweed bubble rate, the expected bubbles per minute spans a known range. How should the team obtain useful bubbles per minute measurements? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: In study 13 of light intensity and pondweed bubble rate, the expected bubbles per minute spans a known range. How should the team obtain useful bubbles per minute measurements? Use the light intensity and pondweed bubble rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-013",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In an environmental monitoring project, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 13 of light intensity and pondweed bubble rate, the expected bubbles per minute spans a known range."
     },
     "answers": [
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For light intensity and pondweed bubble rate: Choose a calibrated instrument whose range and resolution suit bubbles per minute, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For light intensity and pondweed bubble rate: Use any instrument and add extra decimal places to its bubbles per minute readings",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For light intensity and pondweed bubble rate: Estimate bubbles per minute by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful bubbles per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Match the instrument to the size and detail required for bubbles per minute. Apply this to light intensity and pondweed bubble rate."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_correct_reading",
-    "question": "During a medical research case, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: In study 14 of soil type and bean-seedling height, the expected height after 14 days spans a known range. How should the team obtain useful height after 14 days measurements? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: In study 14 of soil type and bean-seedling height, the expected height after 14 days spans a known range. How should the team obtain useful height after 14 days measurements? Use the soil type and bean-seedling height evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-014",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a medical research case, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 14 of soil type and bean-seedling height, the expected height after 14 days spans a known range."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For soil type and bean-seedling height: Use any instrument and add extra decimal places to its height after 14 days readings",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that measurements use correct scale-reading conventions",
+        "text": "For soil type and bean-seedling height: Choose a calibrated instrument whose range and resolution suit height after 14 days, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For soil type and bean-seedling height: Estimate height after 14 days by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful height after 14 days data require suitable range, resolution, technique, units and precision. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Match the instrument to the size and detail required for height after 14 days. Apply this to soil type and bean-seedling height."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A science-news fact check for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: In study 15 of wire length and electrical current, the expected current spans a known range. How should the team obtain useful current measurements? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: In study 15 of wire length and electrical current, the expected current spans a known range. How should the team obtain useful current measurements? Use the wire length and electrical current evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-015",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A science-news fact check for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 15 of wire length and electrical current, the expected current spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; the same outcome must therefore occur in every setting",
+        "text": "For wire length and electrical current: Use any instrument and add extra decimal places to its current readings",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For wire length and electrical current: Estimate current by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The evidence supports data tables record units and precision consistently, but it does not prove that every case will be identical",
+        "text": "For wire length and electrical current: Choose a calibrated instrument whose range and resolution suit current, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful current data require suitable range, resolution, technique, units and precision. This conclusion concerns wire length and electrical current.",
+      "hint": "Match the instrument to the size and detail required for current. Apply this to wire length and electrical current."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_quantity",
-    "question": "In a classroom model test, the evidence states, “Equipment range and resolution must suit the quantity”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Equipment range and resolution must suit the quantity”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: In study 16 of exercise duration and pulse recovery, the expected recovery time spans a known range. How should the team obtain useful recovery time measurements? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: In study 16 of exercise duration and pulse recovery, the expected recovery time spans a known range. How should the team obtain useful recovery time measurements? Use the exercise duration and pulse recovery evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-016",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a classroom model test, the evidence states, “Equipment range and resolution must suit the quantity”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 16 of exercise duration and pulse recovery, the expected recovery time spans a known range."
     },
     "answers": [
       {
-        "text": "Equipment range and resolution must suit the quantity; this interpretation can be checked against further evidence",
+        "text": "For exercise duration and pulse recovery: Choose a calibrated instrument whose range and resolution suit recovery time, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "A digital display is automatically accurate; one matching observation makes this explanation certain",
+        "text": "For exercise duration and pulse recovery: Use any instrument and add extra decimal places to its recovery time readings",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For exercise duration and pulse recovery: Estimate recovery time by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful recovery time data require suitable range, resolution, technique, units and precision. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Match the instrument to the size and detail required for recovery time. Apply this to exercise duration and pulse recovery."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_instrument_range",
-    "question": "During a regional planning workshop, the evidence states, “A measuring cylinder has 1 mL graduations”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “A measuring cylinder has 1 mL graduations”. Which response applies the measurement model most accurately?",
+    "question": "During a regional planning workshop, students observe: In study 17 of salt concentration and egg buoyancy, the expected floating height spans a known range. How should the team obtain useful floating height measurements? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: In study 17 of salt concentration and egg buoyancy, the expected floating height spans a known range. How should the team obtain useful floating height measurements? Use the salt concentration and egg buoyancy evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-017",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a regional planning workshop, the evidence states, “A measuring cylinder has 1 mL graduations”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 17 of salt concentration and egg buoyancy, the expected floating height spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; the wider pattern does not need to be considered",
+        "text": "For salt concentration and egg buoyancy: Use any instrument and add extra decimal places to its floating height readings",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that measurements use correct scale-reading conventions, within the limits of the investigation",
+        "text": "For salt concentration and egg buoyancy: Choose a calibrated instrument whose range and resolution suit floating height, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For salt concentration and egg buoyancy: Estimate floating height by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful floating height data require suitable range, resolution, technique, units and precision. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Match the instrument to the size and detail required for floating height. Apply this to salt concentration and egg buoyancy."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_resolution",
-    "question": "In an equipment selection task, students compare resolution with correct reading. The evidence states, “Data tables record units and precision consistently”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare resolution with correct reading. The evidence states, “Data tables record units and precision consistently”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: In study 18 of insulation material and cooling, the expected temperature loss spans a known range. How should the team obtain useful temperature loss measurements? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: In study 18 of insulation material and cooling, the expected temperature loss spans a known range. How should the team obtain useful temperature loss measurements? Use the insulation material and cooling evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-018",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In an equipment selection task, students compare resolution with correct reading. The evidence states, “Data tables record units and precision consistently”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 18 of insulation material and cooling, the expected temperature loss spans a known range."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For insulation material and cooling: Use any instrument and add extra decimal places to its temperature loss readings",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For insulation material and cooling: Estimate temperature loss by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For insulation material and cooling: Choose a calibrated instrument whose range and resolution suit temperature loss, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful temperature loss data require suitable range, resolution, technique, units and precision. This conclusion concerns insulation material and cooling.",
+      "hint": "Match the instrument to the size and detail required for temperature loss. Apply this to insulation material and cooling."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_correct_reading",
-    "question": "During a public information draft, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: In study 19 of surface area and evaporation, the expected mass of water lost spans a known range. How should the team obtain useful mass of water lost measurements? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: In study 19 of surface area and evaporation, the expected mass of water lost spans a known range. How should the team obtain useful mass of water lost measurements? Use the surface area and evaporation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-019",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a public information draft, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 19 of surface area and evaporation, the expected mass of water lost spans a known range."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that equipment range and resolution must suit the quantity",
+        "text": "For surface area and evaporation: Choose a calibrated instrument whose range and resolution suit mass of water lost, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For surface area and evaporation: Use any instrument and add extra decimal places to its mass of water lost readings",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For surface area and evaporation: Estimate mass of water lost by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful mass of water lost data require suitable range, resolution, technique, units and precision. This conclusion concerns surface area and evaporation.",
+      "hint": "Match the instrument to the size and detail required for mass of water lost. Apply this to surface area and evaporation."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "An independent replication study for Measure with Useful Precision reports that check calibration. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Measure with Useful Precision reports that check calibration. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: In study 20 of pH and amylase activity, the expected time to digest starch spans a known range. How should the team obtain useful time to digest starch measurements? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: In study 20 of pH and amylase activity, the expected time to digest starch spans a known range. How should the team obtain useful time to digest starch measurements? Use the pH and amylase activity evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-020",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: An independent replication study for Measure with Useful Precision reports that check calibration. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 20 of pH and amylase activity, the expected time to digest starch spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; the same outcome must therefore occur in every setting",
+        "text": "For pH and amylase activity: Use any instrument and add extra decimal places to its time to digest starch readings",
         "is_correct": false
       },
       {
-        "text": "The evidence supports measurements use correct scale-reading conventions, but it does not prove that every case will be identical",
+        "text": "For pH and amylase activity: Choose a calibrated instrument whose range and resolution suit time to digest starch, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For pH and amylase activity: Estimate time to digest starch by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful time to digest starch data require suitable range, resolution, technique, units and precision. This conclusion concerns pH and amylase activity.",
+      "hint": "Match the instrument to the size and detail required for time to digest starch. Apply this to pH and amylase activity."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_quantity",
-    "question": "In a risk-assessment meeting, the evidence states, “Measurements use correct scale-reading conventions”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Measurements use correct scale-reading conventions”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: In study 21 of drop height and crater diameter, the expected crater diameter spans a known range. How should the team obtain useful crater diameter measurements? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: In study 21 of drop height and crater diameter, the expected crater diameter spans a known range. How should the team obtain useful crater diameter measurements? Use the drop height and crater diameter evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-021",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a risk-assessment meeting, the evidence states, “Measurements use correct scale-reading conventions”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 21 of drop height and crater diameter, the expected crater diameter spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; one matching observation makes this explanation certain",
+        "text": "For drop height and crater diameter: Use any instrument and add extra decimal places to its crater diameter readings",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For drop height and crater diameter: Estimate crater diameter by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "Data tables record units and precision consistently; this interpretation can be checked against further evidence",
+        "text": "For drop height and crater diameter: Choose a calibrated instrument whose range and resolution suit crater diameter, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful crater diameter data require suitable range, resolution, technique, units and precision. This conclusion concerns drop height and crater diameter.",
+      "hint": "Match the instrument to the size and detail required for crater diameter. Apply this to drop height and crater diameter."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_instrument_range",
-    "question": "During a graph interpretation task, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which response applies the measurement model most accurately?",
+    "question": "During a graph interpretation task, students observe: In study 22 of fertiliser concentration and duckweed growth, the expected change in frond number spans a known range. How should the team obtain useful change in frond number measurements? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: In study 22 of fertiliser concentration and duckweed growth, the expected change in frond number spans a known range. How should the team obtain useful change in frond number measurements? Use the fertiliser concentration and duckweed growth evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-022",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a graph interpretation task, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 22 of fertiliser concentration and duckweed growth, the expected change in frond number spans a known range."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that equipment range and resolution must suit the quantity, within the limits of the investigation",
+        "text": "For fertiliser concentration and duckweed growth: Choose a calibrated instrument whose range and resolution suit change in frond number, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "A digital display is automatically accurate; the wider pattern does not need to be considered",
+        "text": "For fertiliser concentration and duckweed growth: Use any instrument and add extra decimal places to its change in frond number readings",
         "is_correct": false
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For fertiliser concentration and duckweed growth: Estimate change in frond number by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful change in frond number data require suitable range, resolution, technique, units and precision. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Match the instrument to the size and detail required for change in frond number. Apply this to fertiliser concentration and duckweed growth."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_resolution",
-    "question": "In a claim-evidence-reasoning response, students compare resolution with correct reading. The evidence states, “Match recorded digits to instrument resolution”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare resolution with correct reading. The evidence states, “Match recorded digits to instrument resolution”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: In study 23 of blade length and paper-turbine rotation, the expected rotations per minute spans a known range. How should the team obtain useful rotations per minute measurements? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: In study 23 of blade length and paper-turbine rotation, the expected rotations per minute spans a known range. How should the team obtain useful rotations per minute measurements? Use the blade length and paper-turbine rotation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-023",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In a claim-evidence-reasoning response, students compare resolution with correct reading. The evidence states, “Match recorded digits to instrument resolution”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 23 of blade length and paper-turbine rotation, the expected rotations per minute spans a known range."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For blade length and paper-turbine rotation: Use any instrument and add extra decimal places to its rotations per minute readings",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For blade length and paper-turbine rotation: Choose a calibrated instrument whose range and resolution suit rotations per minute, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For blade length and paper-turbine rotation: Estimate rotations per minute by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful rotations per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Match the instrument to the size and detail required for rotations per minute. Apply this to blade length and paper-turbine rotation."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "practice",
     "skill": "measurement_correct_reading",
-    "question": "During a scientific-method audit, the evidence states, “Equipment range and resolution must suit the quantity”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Equipment range and resolution must suit the quantity”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: In study 24 of detergent concentration and surface tension, the expected drops held on a coin spans a known range. How should the team obtain useful drops held on a coin measurements? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: In study 24 of detergent concentration and surface tension, the expected drops held on a coin spans a known range. How should the team obtain useful drops held on a coin measurements? Use the detergent concentration and surface tension evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-p-024",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a scientific-method audit, the evidence states, “Equipment range and resolution must suit the quantity”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 24 of detergent concentration and surface tension, the expected drops held on a coin spans a known range."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For detergent concentration and surface tension: Use any instrument and add extra decimal places to its drops held on a coin readings",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For detergent concentration and surface tension: Estimate drops held on a coin by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that data tables record units and precision consistently",
+        "text": "For detergent concentration and surface tension: Choose a calibrated instrument whose range and resolution suit drops held on a coin, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful drops held on a coin data require suitable range, resolution, technique, units and precision. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Match the instrument to the size and detail required for drops held on a coin. Apply this to detergent concentration and surface tension."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A new research proposal for Measure with Useful Precision reports that equipment range and resolution must suit the quantity. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Measure with Useful Precision reports that equipment range and resolution must suit the quantity. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: In study 25 of sound frequency and perceived pitch, the expected reported pitch spans a known range. How should the team obtain useful reported pitch measurements? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: In study 25 of sound frequency and perceived pitch, the expected reported pitch spans a known range. How should the team obtain useful reported pitch measurements? Use the sound frequency and perceived pitch evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-001",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A new research proposal for Measure with Useful Precision reports that equipment range and resolution must suit the quantity. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 25 of sound frequency and perceived pitch, the expected reported pitch spans a known range."
     },
     "answers": [
       {
-        "text": "The evidence supports equipment range and resolution must suit the quantity, but it does not prove that every case will be identical",
+        "text": "For sound frequency and perceived pitch: Choose a calibrated instrument whose range and resolution suit reported pitch, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "More decimal places always means more precision; the same outcome must therefore occur in every setting",
+        "text": "For sound frequency and perceived pitch: Use any instrument and add extra decimal places to its reported pitch readings",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For sound frequency and perceived pitch: Estimate reported pitch by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful reported pitch data require suitable range, resolution, technique, units and precision. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Match the instrument to the size and detail required for reported pitch. Apply this to sound frequency and perceived pitch."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_quantity",
-    "question": "In a cross-school data comparison, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: In study 26 of acid concentration and reaction rate, the expected gas volume per minute spans a known range. How should the team obtain useful gas volume per minute measurements? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: In study 26 of acid concentration and reaction rate, the expected gas volume per minute spans a known range. How should the team obtain useful gas volume per minute measurements? Use the acid concentration and reaction rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-002",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a cross-school data comparison, the evidence states, “A measuring cylinder has 1 mL graduations”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 26 of acid concentration and reaction rate, the expected gas volume per minute spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; one matching observation makes this explanation certain",
+        "text": "For acid concentration and reaction rate: Use any instrument and add extra decimal places to its gas volume per minute readings",
         "is_correct": false
       },
       {
-        "text": "Measurements use correct scale-reading conventions; this interpretation can be checked against further evidence",
+        "text": "For acid concentration and reaction rate: Choose a calibrated instrument whose range and resolution suit gas volume per minute, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For acid concentration and reaction rate: Estimate gas volume per minute by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful gas volume per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Match the instrument to the size and detail required for gas volume per minute. Apply this to acid concentration and reaction rate."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_instrument_range",
-    "question": "During a technology evaluation panel, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?",
+    "question": "During the technology evaluation panel, students observe: In study 27 of shade cover and soil moisture, the expected soil moisture after six hours spans a known range. How should the team obtain useful soil moisture after six hours measurements? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: In study 27 of shade cover and soil moisture, the expected soil moisture after six hours spans a known range. How should the team obtain useful soil moisture after six hours measurements? Use the shade cover and soil moisture evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-003",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a technology evaluation panel, the evidence states, “Data tables record units and precision consistently”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 27 of shade cover and soil moisture, the expected soil moisture after six hours spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; the wider pattern does not need to be considered",
+        "text": "For shade cover and soil moisture: Use any instrument and add extra decimal places to its soil moisture after six hours readings",
         "is_correct": false
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For shade cover and soil moisture: Estimate soil moisture after six hours by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that data tables record units and precision consistently, within the limits of the investigation",
+        "text": "For shade cover and soil moisture: Choose a calibrated instrument whose range and resolution suit soil moisture after six hours, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful soil moisture after six hours data require suitable range, resolution, technique, units and precision. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Match the instrument to the size and detail required for soil moisture after six hours. Apply this to shade cover and soil moisture."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_resolution",
-    "question": "In a science exhibition caption, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: In study 28 of magnet distance and force, the expected force reading spans a known range. How should the team obtain useful force reading measurements? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: In study 28 of magnet distance and force, the expected force reading spans a known range. How should the team obtain useful force reading measurements? Use the magnet distance and force evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-004",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In a science exhibition caption, students compare resolution with correct reading. The evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 28 of magnet distance and force, the expected force reading spans a known range."
     },
     "answers": [
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For magnet distance and force: Choose a calibrated instrument whose range and resolution suit force reading, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For magnet distance and force: Use any instrument and add extra decimal places to its force reading readings",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For magnet distance and force: Estimate force reading by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful force reading data require suitable range, resolution, technique, units and precision. This conclusion concerns magnet distance and force.",
+      "hint": "Match the instrument to the size and detail required for force reading. Apply this to magnet distance and force."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_correct_reading",
-    "question": "During a policy evidence hearing, the evidence states, “Check calibration”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Check calibration”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: In study 29 of water depth and wave speed, the expected wave travel time spans a known range. How should the team obtain useful wave travel time measurements? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: In study 29 of water depth and wave speed, the expected wave travel time spans a known range. How should the team obtain useful wave travel time measurements? Use the water depth and wave speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-005",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a policy evidence hearing, the evidence states, “Check calibration”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 29 of water depth and wave speed, the expected wave travel time spans a known range."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For water depth and wave speed: Use any instrument and add extra decimal places to its wave travel time readings",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that measurements use correct scale-reading conventions",
+        "text": "For water depth and wave speed: Choose a calibrated instrument whose range and resolution suit wave travel time, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For water depth and wave speed: Estimate wave travel time by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful wave travel time data require suitable range, resolution, technique, units and precision. This conclusion concerns water depth and wave speed.",
+      "hint": "Match the instrument to the size and detail required for wave travel time. Apply this to water depth and wave speed."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A controlled follow-up investigation for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: In study 30 of antibiotic concentration and inhibition zone, the expected inhibition-zone diameter spans a known range. How should the team obtain useful inhibition-zone diameter measurements? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: In study 30 of antibiotic concentration and inhibition zone, the expected inhibition-zone diameter spans a known range. How should the team obtain useful inhibition-zone diameter measurements? Use the antibiotic concentration and inhibition zone evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-006",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A controlled follow-up investigation for Measure with Useful Precision reports that measurements use correct scale-reading conventions. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 30 of antibiotic concentration and inhibition zone, the expected inhibition-zone diameter spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; the same outcome must therefore occur in every setting",
+        "text": "For antibiotic concentration and inhibition zone: Use any instrument and add extra decimal places to its inhibition-zone diameter readings",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For antibiotic concentration and inhibition zone: Estimate inhibition-zone diameter by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The evidence supports data tables record units and precision consistently, but it does not prove that every case will be identical",
+        "text": "For antibiotic concentration and inhibition zone: Choose a calibrated instrument whose range and resolution suit inhibition-zone diameter, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful inhibition-zone diameter data require suitable range, resolution, technique, units and precision. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Match the instrument to the size and detail required for inhibition-zone diameter. Apply this to antibiotic concentration and inhibition zone."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_quantity",
-    "question": "In a model limitations review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: In study 31 of fruit ripeness and vitamin C, the expected titration volume spans a known range. How should the team obtain useful titration volume measurements? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: In study 31 of fruit ripeness and vitamin C, the expected titration volume spans a known range. How should the team obtain useful titration volume measurements? Use the fruit ripeness and vitamin C evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-007",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a model limitations review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 31 of fruit ripeness and vitamin C, the expected titration volume spans a known range."
     },
     "answers": [
       {
-        "text": "Equipment range and resolution must suit the quantity; this interpretation can be checked against further evidence",
+        "text": "For fruit ripeness and vitamin C: Choose a calibrated instrument whose range and resolution suit titration volume, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "More decimal places always means more precision; one matching observation makes this explanation certain",
+        "text": "For fruit ripeness and vitamin C: Use any instrument and add extra decimal places to its titration volume readings",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For fruit ripeness and vitamin C: Estimate titration volume by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful titration volume data require suitable range, resolution, technique, units and precision. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Match the instrument to the size and detail required for titration volume. Apply this to fruit ripeness and vitamin C."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_instrument_range",
-    "question": "During an ethics committee discussion, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?",
+    "question": "During the ethics committee discussion, students observe: In study 32 of roof colour and model-house temperature, the expected inside temperature rise spans a known range. How should the team obtain useful inside temperature rise measurements? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: In study 32 of roof colour and model-house temperature, the expected inside temperature rise spans a known range. How should the team obtain useful inside temperature rise measurements? Use the roof colour and model-house temperature evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-008",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During an ethics committee discussion, the evidence states, “Match recorded digits to instrument resolution”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 32 of roof colour and model-house temperature, the expected inside temperature rise spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; the wider pattern does not need to be considered",
+        "text": "For roof colour and model-house temperature: Use any instrument and add extra decimal places to its inside temperature rise readings",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that measurements use correct scale-reading conventions, within the limits of the investigation",
+        "text": "For roof colour and model-house temperature: Choose a calibrated instrument whose range and resolution suit inside temperature rise, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For roof colour and model-house temperature: Estimate inside temperature rise by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful inside temperature rise data require suitable range, resolution, technique, units and precision. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Match the instrument to the size and detail required for inside temperature rise. Apply this to roof colour and model-house temperature."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_resolution",
-    "question": "In a coastal field station report, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: In study 33 of salinity and seed germination, the expected germination percentage spans a known range. How should the team obtain useful germination percentage measurements? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: In study 33 of salinity and seed germination, the expected germination percentage spans a known range. How should the team obtain useful germination percentage measurements? Use the salinity and seed germination evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-009",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In a coastal field station report, students compare resolution with correct reading. The evidence states, “Equipment range and resolution must suit the quantity”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 33 of salinity and seed germination, the expected germination percentage spans a known range."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For salinity and seed germination: Use any instrument and add extra decimal places to its germination percentage readings",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For salinity and seed germination: Estimate germination percentage by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For salinity and seed germination: Choose a calibrated instrument whose range and resolution suit germination percentage, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful germination percentage data require suitable range, resolution, technique, units and precision. This conclusion concerns salinity and seed germination.",
+      "hint": "Match the instrument to the size and detail required for germination percentage. Apply this to salinity and seed germination."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_correct_reading",
-    "question": "During a renewable-energy trial, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: In study 34 of load and bridge deflection, the expected bridge deflection spans a known range. How should the team obtain useful bridge deflection measurements? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: In study 34 of load and bridge deflection, the expected bridge deflection spans a known range. How should the team obtain useful bridge deflection measurements? Use the load and bridge deflection evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-010",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a renewable-energy trial, the evidence states, “A measuring cylinder has 1 mL graduations”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 34 of load and bridge deflection, the expected bridge deflection spans a known range."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that equipment range and resolution must suit the quantity",
+        "text": "For load and bridge deflection: Choose a calibrated instrument whose range and resolution suit bridge deflection, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For load and bridge deflection: Use any instrument and add extra decimal places to its bridge deflection readings",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For load and bridge deflection: Estimate bridge deflection by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful bridge deflection data require suitable range, resolution, technique, units and precision. This conclusion concerns load and bridge deflection.",
+      "hint": "Match the instrument to the size and detail required for bridge deflection. Apply this to load and bridge deflection."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A hospital innovation briefing for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: In study 35 of wind speed and transpiration, the expected plant mass loss spans a known range. How should the team obtain useful plant mass loss measurements? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: In study 35 of wind speed and transpiration, the expected plant mass loss spans a known range. How should the team obtain useful plant mass loss measurements? Use the wind speed and transpiration evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-011",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A hospital innovation briefing for Measure with Useful Precision reports that data tables record units and precision consistently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 35 of wind speed and transpiration, the expected plant mass loss spans a known range."
     },
     "answers": [
       {
-        "text": "More decimal places always means more precision; the same outcome must therefore occur in every setting",
+        "text": "For wind speed and transpiration: Use any instrument and add extra decimal places to its plant mass loss readings",
         "is_correct": false
       },
       {
-        "text": "The evidence supports measurements use correct scale-reading conventions, but it does not prove that every case will be identical",
+        "text": "For wind speed and transpiration: Choose a calibrated instrument whose range and resolution suit plant mass loss, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For wind speed and transpiration: Estimate plant mass loss by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful plant mass loss data require suitable range, resolution, technique, units and precision. This conclusion concerns wind speed and transpiration.",
+      "hint": "Match the instrument to the size and detail required for plant mass loss. Apply this to wind speed and transpiration."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_quantity",
-    "question": "In a geological survey update, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: In study 36 of particle size and dissolving, the expected dissolving time spans a known range. How should the team obtain useful dissolving time measurements? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: In study 36 of particle size and dissolving, the expected dissolving time spans a known range. How should the team obtain useful dissolving time measurements? Use the particle size and dissolving evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-012",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is quantity. Question context: In a geological survey update, the evidence states, “Record 36.5 mL rather than 36.500 mL or an unqualified 37”. Which interpretation is best supported?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 36 of particle size and dissolving, the expected dissolving time spans a known range."
     },
     "answers": [
       {
-        "text": "A digital display is automatically accurate; one matching observation makes this explanation certain",
+        "text": "For particle size and dissolving: Use any instrument and add extra decimal places to its dissolving time readings",
         "is_correct": false
       },
       {
-        "text": "Quantity is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For particle size and dissolving: Estimate dissolving time by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "Data tables record units and precision consistently; this interpretation can be checked against further evidence",
+        "text": "For particle size and dissolving: Choose a calibrated instrument whose range and resolution suit dissolving time, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about quantity, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful dissolving time data require suitable range, resolution, technique, units and precision. This conclusion concerns particle size and dissolving.",
+      "hint": "Match the instrument to the size and detail required for dissolving time. Apply this to particle size and dissolving."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_instrument_range",
-    "question": "During a materials-testing laboratory, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: In study 37 of string length and pendulum period, the expected period spans a known range. How should the team obtain useful period measurements? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: In study 37 of string length and pendulum period, the expected period spans a known range. How should the team obtain useful period measurements? Use the string length and pendulum period evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-013",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is instrument range. Question context: During a materials-testing laboratory, the evidence states, “Check calibration”. Which response applies the measurement model most accurately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 37 of string length and pendulum period, the expected period spans a known range."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that equipment range and resolution must suit the quantity, within the limits of the investigation",
+        "text": "For string length and pendulum period: Choose a calibrated instrument whose range and resolution suit period, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "More decimal places always means more precision; the wider pattern does not need to be considered",
+        "text": "For string length and pendulum period: Use any instrument and add extra decimal places to its period readings",
         "is_correct": false
       },
       {
-        "text": "Resolution caused the result because the two occurred together once",
+        "text": "For string length and pendulum period: Estimate period by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about instrument range, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful period data require suitable range, resolution, technique, units and precision. This conclusion concerns string length and pendulum period.",
+      "hint": "Match the instrument to the size and detail required for period. Apply this to string length and pendulum period."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_resolution",
-    "question": "In a documentary planning session, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: In study 38 of battery temperature and motor speed, the expected motor rotations per minute spans a known range. How should the team obtain useful motor rotations per minute measurements? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: In study 38 of battery temperature and motor speed, the expected motor rotations per minute spans a known range. How should the team obtain useful motor rotations per minute measurements? Use the battery temperature and motor speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-014",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is resolution. Question context: In a documentary planning session, students compare resolution with correct reading. The evidence states, “Measurements use correct scale-reading conventions”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 38 of battery temperature and motor speed, the expected motor rotations per minute spans a known range."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For battery temperature and motor speed: Use any instrument and add extra decimal places to its motor rotations per minute readings",
         "is_correct": false
       },
       {
-        "text": "The model links resolution with correct reading, so it can explain the relationship while still having limits",
+        "text": "For battery temperature and motor speed: Choose a calibrated instrument whose range and resolution suit motor rotations per minute, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For battery temperature and motor speed: Estimate motor rotations per minute by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Measurements use correct scale-reading conventions. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about resolution, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful motor rotations per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Match the instrument to the size and detail required for motor rotations per minute. Apply this to battery temperature and motor speed."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_correct_reading",
-    "question": "During a national data-set review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: In study 39 of stream velocity and sediment size, the expected largest transported grain spans a known range. How should the team obtain useful largest transported grain measurements? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: In study 39 of stream velocity and sediment size, the expected largest transported grain spans a known range. How should the team obtain useful largest transported grain measurements? Use the stream velocity and sediment size evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-015",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is correct reading. Question context: During a national data-set review, the evidence states, “Read the bottom of the meniscus at eye level and estimate one additional digit only when justified”. What is the strongest scientific response to this result?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 39 of stream velocity and sediment size, the expected largest transported grain spans a known range."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For stream velocity and sediment size: Use any instrument and add extra decimal places to its largest transported grain readings",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to correct reading alone",
+        "text": "For stream velocity and sediment size: Estimate largest transported grain by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that data tables record units and precision consistently",
+        "text": "For stream velocity and sediment size: Choose a calibrated instrument whose range and resolution suit largest transported grain, then record values with units and justified precision",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Data tables record units and precision consistently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about correct reading, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful largest transported grain data require suitable range, resolution, technique, units and precision. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Match the instrument to the size and detail required for largest transported grain. Apply this to stream velocity and sediment size."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8I03",
     "bank": "test",
     "skill": "measurement_recorded_value_and_unit",
-    "question": "A final evidence conference for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: In study 40 of leaf area and photosynthesis, the expected oxygen production rate spans a known range. How should the team obtain useful oxygen production rate measurements? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: In study 40 of leaf area and photosynthesis, the expected oxygen production rate spans a known range. How should the team obtain useful oxygen production rate measurements? Use the leaf area and photosynthesis evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i03.svg#ac9s8i03-t-016",
-      "alt_text": "Measure with Useful Precision evidence model linking quantity, instrument range, resolution, correct reading, recorded value and unit. The highlighted stage is recorded value and unit. Question context: A final evidence conference for Measure with Useful Precision reports that match recorded digits to instrument resolution. Which revision would make the reasoning most reliable?"
+      "alt_text": "Measure with Useful Precision observation card stating: In study 40 of leaf area and photosynthesis, the expected oxygen production rate spans a known range."
     },
     "answers": [
       {
-        "text": "The evidence supports equipment range and resolution must suit the quantity, but it does not prove that every case will be identical",
+        "text": "For leaf area and photosynthesis: Choose a calibrated instrument whose range and resolution suit oxygen production rate, then record values with units and justified precision",
         "is_correct": true
       },
       {
-        "text": "A digital display is automatically accurate; the same outcome must therefore occur in every setting",
+        "text": "For leaf area and photosynthesis: Use any instrument and add extra decimal places to its oxygen production rate readings",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about quantity is stronger than measured or documented evidence",
+        "text": "For leaf area and photosynthesis: Estimate oxygen production rate by sight because repeated estimates guarantee accuracy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equipment range and resolution must suit the quantity. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recorded value and unit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Useful oxygen production rate data require suitable range, resolution, technique, units and precision. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Match the instrument to the size and detail required for oxygen production rate. Apply this to leaf area and photosynthesis."
     }
   }
 ]

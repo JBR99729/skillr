@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_divergent",
-    "question": "In a class investigation, the evidence states, “At a convergent boundary”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “At a convergent boundary”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: Earthquake epicentres and active volcanoes form narrow belts around the Pacific Ocean. Which explanation best fits this pattern?",
+    "audio_prompt": "During a class investigation, students observe: Earthquake epicentres and active volcanoes form narrow belts around the Pacific Ocean. Which explanation best fits this pattern?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-001",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a class investigation, the evidence states, “At a convergent boundary”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Earthquake epicentres and active volcanoes form narrow belts around the Pacific Ocean."
     },
     "answers": [
       {
-        "text": "Divergent, convergent and transform boundaries have distinct relative motions and features; this interpretation can be checked against further evidence",
+        "text": "The belts mark boundaries where tectonic plates interact",
         "is_correct": true
       },
       {
-        "text": "Earthquakes occur randomly; one matching observation makes this explanation certain",
+        "text": "Earthquakes randomly create plate boundaries after they occur",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Volcanoes occur only where continents are far from every plate edge",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Global earthquake and volcano belts provide evidence for tectonic plate boundaries.",
+      "hint": "Look for one process that explains both mapped patterns."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_convergent",
-    "question": "During a museum evidence display, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?",
+    "question": "During a museum evidence display, students observe: Matching magnetic stripes occur in the same order on both sides of a mid-ocean ridge. What does this evidence support?",
+    "audio_prompt": "During a museum evidence display, students observe: Matching magnetic stripes occur in the same order on both sides of a mid-ocean ridge. What does this evidence support?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-002",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a museum evidence display, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Matching magnetic stripes occur in the same order on both sides of a mid-ocean ridge."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; the wider pattern does not need to be considered",
+        "text": "The ridge pulls old crust inward without creating new crust",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that spatial and historical evidence supports plate tectonic theory, within the limits of the investigation",
+        "text": "New ocean crust forms at the ridge and moves outward on both sides",
         "is_correct": true
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Earth's magnetic field pushes continents through fixed ocean crust",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Symmetrical magnetic stripes record seafloor spreading from a mid-ocean ridge.",
+      "hint": "Use the symmetry and the youngest crust at the centre."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_transform",
-    "question": "In a field-team briefing, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Ocean-floor rocks are youngest beside a ridge and progressively older farther away. Which conclusion is best supported?",
+    "audio_prompt": "During a field-team briefing, students observe: Ocean-floor rocks are youngest beside a ridge and progressively older farther away. Which conclusion is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-003",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In a field-team briefing, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Ocean-floor rocks are youngest beside a ridge and progressively older farther away."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "All ocean-floor rocks formed at the same time but age faster near continents",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Continents produce ocean crust and push it towards the ridge",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "Oceanic crust is produced at the ridge and carried away as plates move",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The age pattern is predicted by seafloor spreading.",
+      "hint": "Trace where new rock would begin and where it would travel."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a laboratory notebook, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: A dense oceanic plate meets a less dense continental plate, and a deep trench lies offshore. What process is most likely occurring?",
+    "audio_prompt": "During a laboratory notebook, students observe: A dense oceanic plate meets a less dense continental plate, and a deep trench lies offshore. What process is most likely occurring?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-004",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a laboratory notebook, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A dense oceanic plate meets a less dense continental plate, and a deep trench lies offshore."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that divergent, convergent and transform boundaries have distinct relative motions and features",
+        "text": "The oceanic plate is subducting beneath the continental plate",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "The continental plate is sinking beneath the denser oceanic plate",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "Both plates are separating and forming a mid-ocean ridge",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "At this convergent boundary, denser oceanic lithosphere subducts beneath continental lithosphere.",
+      "hint": "Compare plate density and the trench location."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_evidence",
-    "question": "A community science meeting for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: Two continental plates move towards each other and the crust between them thickens and folds. Which landform is most likely to develop?",
+    "audio_prompt": "During a community science meeting, students observe: Two continental plates move towards each other and the crust between them thickens and folds. Which landform is most likely to develop?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-005",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A community science meeting for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Two continental plates move towards each other and the crust between them thickens and folds."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; the same outcome must therefore occur in every setting",
+        "text": "A deep ocean trench filled with new basalt",
         "is_correct": false
       },
       {
-        "text": "The evidence supports spatial and historical evidence supports plate tectonic theory, but it does not prove that every case will be identical",
+        "text": "A high mountain range",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "A broad mid-ocean ridge where plates separate",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Continental collision compresses, folds and uplifts crust to build mountains.",
+      "hint": "Imagine what happens when buoyant continental crust is compressed."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_divergent",
-    "question": "In a digital model review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: Two plates slide horizontally past each other along a fault. Which hazard is most directly expected?",
+    "audio_prompt": "During a digital model review, students observe: Two plates slide horizontally past each other along a fault. Which hazard is most directly expected?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-006",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a digital model review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Two plates slide horizontally past each other along a fault."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; one matching observation makes this explanation certain",
+        "text": "A chain of volcanoes caused by one plate melting beneath the other",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "New ocean crust produced as magma fills a widening gap",
         "is_correct": false
       },
       {
-        "text": "Tectonic activity affects people and can be mitigated through engineering and warning systems; this interpretation can be checked against further evidence",
+        "text": "Shallow earthquakes caused by sudden fault movement",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Transform boundaries commonly generate shallow earthquakes without creating or destroying crust.",
+      "hint": "Focus on friction and sudden sideways movement."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_convergent",
-    "question": "During a student research poster, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?",
+    "question": "During a student research poster, students observe: GPS stations on opposite sides of a rift move apart by several centimetres each year. What prediction follows if this movement continues?",
+    "audio_prompt": "During a student research poster, students observe: GPS stations on opposite sides of a rift move apart by several centimetres each year. What prediction follows if this movement continues?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-007",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a student research poster, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: GPS stations on opposite sides of a rift move apart by several centimetres each year."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that divergent, convergent and transform boundaries have distinct relative motions and features, within the limits of the investigation",
+        "text": "The rift will widen as the plates diverge",
         "is_correct": true
       },
       {
-        "text": "Earthquakes occur randomly; the wider pattern does not need to be considered",
+        "text": "The rift will close because separation always causes compression",
         "is_correct": false
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "The plates will stop moving once an earthquake is measured",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Repeated GPS measurements can directly show divergent plate motion.",
+      "hint": "Extend the measured direction of movement through time."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_transform",
-    "question": "In an engineering design check, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Earthquake foci beneath an island arc become progressively deeper away from an ocean trench. What does the sloping pattern reveal?",
+    "audio_prompt": "During an engineering design check, students observe: Earthquake foci beneath an island arc become progressively deeper away from an ocean trench. What does the sloping pattern reveal?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-008",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In an engineering design check, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Earthquake foci beneath an island arc become progressively deeper away from an ocean trench."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "A plate rises from the mantle and becomes shallower inland",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "A plate descends into the mantle beneath the island arc",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Earthquakes are produced by weather at increasing depths",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A dipping zone of earthquakes maps the path of a subducting plate.",
+      "hint": "Connect the trench to the change in earthquake depth."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a data-team discussion, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A model uses rigid foam pieces floating on liquid to represent tectonic plates and the mantle. Which limitation matters most?",
+    "audio_prompt": "During a data-team discussion, students observe: A model uses rigid foam pieces floating on liquid to represent tectonic plates and the mantle. Which limitation matters most?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-009",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a data-team discussion, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A model uses rigid foam pieces floating on liquid to represent tectonic plates and the mantle."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "The model is invalid because plates cannot be represented by any solid material",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "The model proves the mantle is a hollow ocean beneath the crust",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that tectonic activity affects people and can be mitigated through engineering and warning systems",
+        "text": "The liquid moves far faster and is much less viscous than Earth's mantle",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Plate models can show relative motion but greatly distort material properties and timescale.",
+      "hint": "Compare the model's materials and speed with the real Earth."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_evidence",
-    "question": "A school science report for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: The east coast of South America and west coast of Africa fit in shape and contain matching fossils and rock layers. Why is the combined evidence stronger than shape alone?",
+    "audio_prompt": "During a school science report, students observe: The east coast of South America and west coast of Africa fit in shape and contain matching fossils and rock layers. Why is the combined evidence stronger than shape alone?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-010",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A school science report for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: The east coast of South America and west coast of Africa fit in shape and contain matching fossils and rock layers."
     },
     "answers": [
       {
-        "text": "The evidence supports divergent, convergent and transform boundaries have distinct relative motions and features, but it does not prove that every case will be identical",
+        "text": "Independent biological and geological matches support the continents having once been joined",
         "is_correct": true
       },
       {
-        "text": "Convection alone pushes every plate; the same outcome must therefore occur in every setting",
+        "text": "Matching coastlines prove the continents have never changed shape",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "The same fossils show organisms swam across the modern Atlantic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Several independent lines of evidence strengthen the inference of past continental connection.",
+      "hint": "Ask whether one explanation accounts for all three observations."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_divergent",
-    "question": "In a council evidence summary, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: A map shows a mid-ocean ridge with arrows pointing away on both sides. Which plate movement does the map represent?",
+    "audio_prompt": "During a council evidence summary, students observe: A map shows a mid-ocean ridge with arrows pointing away on both sides. Which plate movement does the map represent?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-011",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a council evidence summary, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A map shows a mid-ocean ridge with arrows pointing away on both sides."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; one matching observation makes this explanation certain",
+        "text": "Convergence and subduction",
         "is_correct": false
       },
       {
-        "text": "Spatial and historical evidence supports plate tectonic theory; this interpretation can be checked against further evidence",
+        "text": "Divergence and seafloor spreading",
         "is_correct": true
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Transform motion with no new crust",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Divergence and seafloor spreading.",
+      "hint": "Follow the arrows."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_convergent",
-    "question": "During a peer-review conversation, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?",
+    "question": "During a peer-review conversation, students observe: Sediment is thinnest near a ridge and thickens towards the continents. Why does thickness change?",
+    "audio_prompt": "During a peer-review conversation, students observe: Sediment is thinnest near a ridge and thickens towards the continents. Why does thickness change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-012",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a peer-review conversation, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Sediment is thinnest near a ridge and thickens towards the continents."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; the wider pattern does not need to be considered",
+        "text": "Ridge water dissolves all sediment",
         "is_correct": false
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Continents pull sediment out of young crust",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that tectonic activity affects people and can be mitigated through engineering and warning systems, within the limits of the investigation",
+        "text": "Crust near the ridge is younger and has had less time to collect sediment",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Crust near the ridge is younger and has had less time to collect sediment.",
+      "hint": "Connect age with accumulation time."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_transform",
-    "question": "In an environmental monitoring project, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: A volcanic island chain becomes older with distance from one active volcano. Which model explains the age trend?",
+    "audio_prompt": "During an environmental monitoring project, students observe: A volcanic island chain becomes older with distance from one active volcano. Which model explains the age trend?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-013",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In an environmental monitoring project, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A volcanic island chain becomes older with distance from one active volcano."
     },
     "answers": [
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "A moving plate passed over a relatively fixed hotspot",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "A hotspot travelled rapidly beneath a fixed plate",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "All islands erupted simultaneously",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A moving plate passed over a relatively fixed hotspot.",
+      "hint": "Track plate motion across the source."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a medical research case, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: A coastline rises suddenly during a large subduction-zone earthquake. What most likely caused the uplift?",
+    "audio_prompt": "During a medical research case, students observe: A coastline rises suddenly during a large subduction-zone earthquake. What most likely caused the uplift?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-014",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a medical research case, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A coastline rises suddenly during a large subduction-zone earthquake."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Ocean tides permanently lifted the crust",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that spatial and historical evidence supports plate tectonic theory",
+        "text": "Stored strain was released as the overriding plate moved",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "Magma created a new continent instantly",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Stored strain was released as the overriding plate moved.",
+      "hint": "Link locking, strain and release."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_evidence",
-    "question": "A science-news fact check for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: Shallow earthquakes occur along the centre of an ocean ridge. Why are they shallow?",
+    "audio_prompt": "During a science-news fact check, students observe: Shallow earthquakes occur along the centre of an ocean ridge. Why are they shallow?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-015",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A science-news fact check for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Shallow earthquakes occur along the centre of an ocean ridge."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; the same outcome must therefore occur in every setting",
+        "text": "A descending plate reaches the core",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Deep mantle rock freezes at the ridge",
         "is_correct": false
       },
       {
-        "text": "The evidence supports tectonic activity affects people and can be mitigated through engineering and warning systems, but it does not prove that every case will be identical",
+        "text": "Brittle crust fractures close to the surface as plates separate",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Brittle crust fractures close to the surface as plates separate.",
+      "hint": "Use the boundary type and depth."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_divergent",
-    "question": "In a classroom model test, the evidence states, “Divergent”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Divergent”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: A trench, deep earthquakes and a continental volcanic arc occur in parallel bands. Which boundary arrangement fits all three?",
+    "audio_prompt": "During a classroom model test, students observe: A trench, deep earthquakes and a continental volcanic arc occur in parallel bands. Which boundary arrangement fits all three?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-016",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a classroom model test, the evidence states, “Divergent”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A trench, deep earthquakes and a continental volcanic arc occur in parallel bands."
     },
     "answers": [
       {
-        "text": "Divergent, convergent and transform boundaries have distinct relative motions and features; this interpretation can be checked against further evidence",
+        "text": "Oceanic crust subducts beneath a continent",
         "is_correct": true
       },
       {
-        "text": "Convection alone pushes every plate; one matching observation makes this explanation certain",
+        "text": "Two continents slide apart",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Two oceanic plates move side by side",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Oceanic crust subducts beneath a continent.",
+      "hint": "Explain all three bands together."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_convergent",
-    "question": "During a regional planning workshop, the evidence states, “At a convergent boundary”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “At a convergent boundary”. Which response applies the plate model most accurately?",
+    "question": "During a regional planning workshop, students observe: Fossils of the same land reptile occur in South America and Africa. Which inference is most reasonable?",
+    "audio_prompt": "During a regional planning workshop, students observe: Fossils of the same land reptile occur in South America and Africa. Which inference is most reasonable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-017",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a regional planning workshop, the evidence states, “At a convergent boundary”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Fossils of the same land reptile occur in South America and Africa."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; the wider pattern does not need to be considered",
+        "text": "The reptile crossed the modern Atlantic routinely",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that spatial and historical evidence supports plate tectonic theory, within the limits of the investigation",
+        "text": "The continents were connected when the reptile lived",
         "is_correct": true
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Identical fossils evolved independently by chance",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The continents were connected when the reptile lived.",
+      "hint": "Consider the animal's habitat."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_transform",
-    "question": "In an equipment selection task, students compare transform with earthquake and volcano pattern. The evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare transform with earthquake and volcano pattern. The evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: Ancient glacial scratches in India, Africa and Australia align when continents are reassembled. What does the alignment support?",
+    "audio_prompt": "During an equipment selection task, students observe: Ancient glacial scratches in India, Africa and Australia align when continents are reassembled. What does the alignment support?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-018",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In an equipment selection task, students compare transform with earthquake and volcano pattern. The evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Ancient glacial scratches in India, Africa and Australia align when continents are reassembled."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Several unrelated glaciers moved across oceans",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The scratches were made by modern plate motion",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "The continents once formed a connected landmass near a polar region",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The continents once formed a connected landmass near a polar region.",
+      "hint": "Reconstruct one continuous ice flow."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a public information draft, the evidence states, “The linked pattern is explained by plate motion”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “The linked pattern is explained by plate motion”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: Satellite data show Australia moving northeast about seven centimetres per year. What does this measurement demonstrate?",
+    "audio_prompt": "During a public information draft, students observe: Satellite data show Australia moving northeast about seven centimetres per year. What does this measurement demonstrate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-019",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a public information draft, the evidence states, “The linked pattern is explained by plate motion”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Satellite data show Australia moving northeast about seven centimetres per year."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that divergent, convergent and transform boundaries have distinct relative motions and features",
+        "text": "Tectonic plates move measurably today",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Only oceans move while continents remain fixed",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "Plate movement occurs only during earthquakes",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Tectonic plates move measurably today.",
+      "hint": "Use what repeated positions measure."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_evidence",
-    "question": "An independent replication study for Plate Boundaries Shape Earth reports that compare ridge push. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Plate Boundaries Shape Earth reports that compare ridge push. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: A fault is locked for decades while GPS records deformation nearby. What hazard prediction is justified?",
+    "audio_prompt": "During an independent replication study, students observe: A fault is locked for decades while GPS records deformation nearby. What hazard prediction is justified?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-020",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: An independent replication study for Plate Boundaries Shape Earth reports that compare ridge push. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A fault is locked for decades while GPS records deformation nearby."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; the same outcome must therefore occur in every setting",
+        "text": "The locked fault can never move again",
         "is_correct": false
       },
       {
-        "text": "The evidence supports spatial and historical evidence supports plate tectonic theory, but it does not prove that every case will be identical",
+        "text": "Strain is accumulating and may be released in an earthquake",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Volcanic magma must be forming under the fault",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Strain is accumulating and may be released in an earthquake.",
+      "hint": "Separate risk from certainty."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_divergent",
-    "question": "In a risk-assessment meeting, the evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: P-waves reach a station before S-waves after an earthquake. How can the time gap be used?",
+    "audio_prompt": "During a risk-assessment meeting, students observe: P-waves reach a station before S-waves after an earthquake. How can the time gap be used?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-021",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a risk-assessment meeting, the evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: P-waves reach a station before S-waves after an earthquake."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; one matching observation makes this explanation certain",
+        "text": "It directly gives the earthquake's magnitude",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "It identifies the plate's chemical composition",
         "is_correct": false
       },
       {
-        "text": "Tectonic activity affects people and can be mitigated through engineering and warning systems; this interpretation can be checked against further evidence",
+        "text": "It helps estimate distance from the station to the earthquake",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It helps estimate distance from the station to the earthquake.",
+      "hint": "Think speed difference and travel distance."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_convergent",
-    "question": "During a graph interpretation task, the evidence states, “Subduction can produce a trench”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Subduction can produce a trench”. Which response applies the plate model most accurately?",
+    "question": "During a graph interpretation task, students observe: Distances from three seismic stations to one earthquake are drawn as circles. Why use three circles?",
+    "audio_prompt": "During a graph interpretation task, students observe: Distances from three seismic stations to one earthquake are drawn as circles. Why use three circles?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-022",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a graph interpretation task, the evidence states, “Subduction can produce a trench”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Distances from three seismic stations to one earthquake are drawn as circles."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that divergent, convergent and transform boundaries have distinct relative motions and features, within the limits of the investigation",
+        "text": "Their intersection locates the epicentre",
         "is_correct": true
       },
       {
-        "text": "Convection alone pushes every plate; the wider pattern does not need to be considered",
+        "text": "Their areas calculate plate thickness",
         "is_correct": false
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Three stations prevent aftershocks",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Their intersection locates the epicentre.",
+      "hint": "Look for the common intersection."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_transform",
-    "question": "In a claim-evidence-reasoning response, students compare transform with earthquake and volcano pattern. The evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare transform with earthquake and volcano pattern. The evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: A tsunami arrives after the seafloor moves vertically during an earthquake. What initiated the wave?",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A tsunami arrives after the seafloor moves vertically during an earthquake. What initiated the wave?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-023",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In a claim-evidence-reasoning response, students compare transform with earthquake and volcano pattern. The evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A tsunami arrives after the seafloor moves vertically during an earthquake."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Horizontal wind below the ocean",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "Sudden displacement of a large volume of seawater",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Earthquake sound turning into water",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Sudden displacement of a large volume of seawater.",
+      "hint": "Trace the displaced water."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "practice",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a scientific-method audit, the evidence states, “Divergent”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Divergent”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: A subducting plate contains water-rich minerals. How can this promote volcanism above it?",
+    "audio_prompt": "During a scientific-method audit, students observe: A subducting plate contains water-rich minerals. How can this promote volcanism above it?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-p-024",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a scientific-method audit, the evidence states, “Divergent”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A subducting plate contains water-rich minerals."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Water cools the mantle into magma",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "The plate burns in contact with air",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that tectonic activity affects people and can be mitigated through engineering and warning systems",
+        "text": "Released water lowers the melting temperature of mantle rock",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Released water lowers the melting temperature of mantle rock.",
+      "hint": "Water changes melting conditions."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_evidence",
-    "question": "A new research proposal for Plate Boundaries Shape Earth reports that divergent. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Plate Boundaries Shape Earth reports that divergent. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: No volcanoes line a long transform boundary. Why is this unsurprising?",
+    "audio_prompt": "During the new research proposal, students observe: No volcanoes line a long transform boundary. Why is this unsurprising?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-001",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A new research proposal for Plate Boundaries Shape Earth reports that divergent. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: No volcanoes line a long transform boundary."
     },
     "answers": [
       {
-        "text": "The evidence supports divergent, convergent and transform boundaries have distinct relative motions and features, but it does not prove that every case will be identical",
+        "text": "Sliding plates usually produce little melting",
         "is_correct": true
       },
       {
-        "text": "Earthquakes occur randomly; the same outcome must therefore occur in every setting",
+        "text": "Transform boundaries contain no earthquakes",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Volcanoes can form only at the equator",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Sliding plates usually produce little melting.",
+      "hint": "Ask whether crust melts there."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_divergent",
-    "question": "In a cross-school data comparison, the evidence states, “At a convergent boundary”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “At a convergent boundary”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: A rift valley contains normal faults and young volcanic rock. Which forces formed it?",
+    "audio_prompt": "During the cross-school data comparison, students observe: A rift valley contains normal faults and young volcanic rock. Which forces formed it?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-002",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a cross-school data comparison, the evidence states, “At a convergent boundary”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A rift valley contains normal faults and young volcanic rock."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; one matching observation makes this explanation certain",
+        "text": "Compression shortened and thickened the crust",
         "is_correct": false
       },
       {
-        "text": "Spatial and historical evidence supports plate tectonic theory; this interpretation can be checked against further evidence",
+        "text": "Tension stretched and thinned the crust",
         "is_correct": true
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Sideways shear left crust width unchanged",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Tension stretched and thinned the crust.",
+      "hint": "Match faulting to stress."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_convergent",
-    "question": "During a technology evaluation panel, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?",
+    "question": "During the technology evaluation panel, students observe: An ocean basin closes as subduction continues. What may eventually happen?",
+    "audio_prompt": "During the technology evaluation panel, students observe: An ocean basin closes as subduction continues. What may eventually happen?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-003",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a technology evaluation panel, the evidence states, “Tectonic activity affects people and can be mitigated through engineering and warning systems”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: An ocean basin closes as subduction continues."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; the wider pattern does not need to be considered",
+        "text": "The ridge must widen forever",
         "is_correct": false
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Both continents will sink into the mantle",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that tectonic activity affects people and can be mitigated through engineering and warning systems, within the limits of the investigation",
+        "text": "The continents on either side may collide",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The continents on either side may collide.",
+      "hint": "Extend convergence through time."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_transform",
-    "question": "In a science exhibition caption, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: Crustal rocks are folded but neither continent readily subducts. Which collision is occurring?",
+    "audio_prompt": "During the science exhibition caption, students observe: Crustal rocks are folded but neither continent readily subducts. Which collision is occurring?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-004",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In a science exhibition caption, students compare transform with earthquake and volcano pattern. The evidence states, “The linked pattern is explained by plate motion”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Crustal rocks are folded but neither continent readily subducts."
     },
     "answers": [
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "Continent–continent convergence",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Ocean–ocean divergence",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Oceanic transform motion",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Continent–continent convergence.",
+      "hint": "Buoyant continental crust resists sinking."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a policy evidence hearing, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: A plate map places a city 500 km from the nearest boundary. Which statement is safest?",
+    "audio_prompt": "During the policy evidence hearing, students observe: A plate map places a city 500 km from the nearest boundary. Which statement is safest?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-005",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a policy evidence hearing, the evidence states, “Compare ridge push”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A plate map places a city 500 km from the nearest boundary."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Earthquakes are impossible away from boundaries",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that spatial and historical evidence supports plate tectonic theory",
+        "text": "Boundary hazards may be lower, but intraplate earthquakes can still occur",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "The city cannot move with a plate",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Boundary hazards may be lower, but intraplate earthquakes can still occur.",
+      "hint": "Avoid turning a pattern into an absolute rule."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_evidence",
-    "question": "A controlled follow-up investigation for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: A computer model predicts plate speed but assumes constant mantle flow. Which limitation should be tested?",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A computer model predicts plate speed but assumes constant mantle flow. Which limitation should be tested?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-006",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A controlled follow-up investigation for Plate Boundaries Shape Earth reports that spatial and historical evidence supports plate tectonic theory. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A computer model predicts plate speed but assumes constant mantle flow."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; the same outcome must therefore occur in every setting",
+        "text": "Models cannot use measured data",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Plate speed never changes",
         "is_correct": false
       },
       {
-        "text": "The evidence supports tectonic activity affects people and can be mitigated through engineering and warning systems, but it does not prove that every case will be identical",
+        "text": "Real mantle flow varies in space and time",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Real mantle flow varies in space and time.",
+      "hint": "Identify the simplifying assumption."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_divergent",
-    "question": "In a model limitations review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: Earth's lithosphere is broken into moving plates. What lies directly beneath and permits slow movement?",
+    "audio_prompt": "During the model limitations review, students observe: Earth's lithosphere is broken into moving plates. What lies directly beneath and permits slow movement?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-007",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a model limitations review, the evidence states, “Subduction can produce a trench”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Earth's lithosphere is broken into moving plates."
     },
     "answers": [
       {
-        "text": "Divergent, convergent and transform boundaries have distinct relative motions and features; this interpretation can be checked against further evidence",
+        "text": "The weaker, deformable asthenosphere",
         "is_correct": true
       },
       {
-        "text": "Earthquakes occur randomly; one matching observation makes this explanation certain",
+        "text": "The rigid inner core",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "A global empty space",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The weaker, deformable asthenosphere.",
+      "hint": "Recall the mechanical layers."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_convergent",
-    "question": "During an ethics committee discussion, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?",
+    "question": "During the ethics committee discussion, students observe: Dense old oceanic lithosphere approaches a trench. Why can it sink?",
+    "audio_prompt": "During the ethics committee discussion, students observe: Dense old oceanic lithosphere approaches a trench. Why can it sink?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-008",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During an ethics committee discussion, the evidence states, “Overlay earthquake and volcano locations with plate boundaries”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Dense old oceanic lithosphere approaches a trench."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; the wider pattern does not need to be considered",
+        "text": "It becomes lighter with age",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that spatial and historical evidence supports plate tectonic theory, within the limits of the investigation",
+        "text": "It is cooler and denser than underlying mantle material",
         "is_correct": true
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "Gravity acts only at trenches",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It is cooler and denser than underlying mantle material.",
+      "hint": "Relate cooling to density."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_transform",
-    "question": "In a coastal field station report, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: A ridge is higher than the older seafloor beside it. Which explanation fits?",
+    "audio_prompt": "During the coastal field station report, students observe: A ridge is higher than the older seafloor beside it. Which explanation fits?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-009",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In a coastal field station report, students compare transform with earthquake and volcano pattern. The evidence states, “Divergent”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A ridge is higher than the older seafloor beside it."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Old crust contains no rock",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Ridges are pushed up by tides",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "Hot young lithosphere is more buoyant before it cools",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Hot young lithosphere is more buoyant before it cools.",
+      "hint": "Compare temperature and density."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a renewable-energy trial, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: A mountain chain contains marine fossils far above sea level. What tectonic history is indicated?",
+    "audio_prompt": "During the renewable-energy trial, students observe: A mountain chain contains marine fossils far above sea level. What tectonic history is indicated?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-010",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a renewable-energy trial, the evidence states, “At a convergent boundary”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A mountain chain contains marine fossils far above sea level."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that divergent, convergent and transform boundaries have distinct relative motions and features",
+        "text": "Former seafloor sediments were uplifted during collision",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Sea level once reached the upper mantle",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "Fossils grew inside mountain rock",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Former seafloor sediments were uplifted during collision.",
+      "hint": "Combine depositional setting and uplift."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_evidence",
-    "question": "A hospital innovation briefing for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: A boundary has volcanoes on an island arc and a trench oceanward. Which plates are interacting?",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A boundary has volcanoes on an island arc and a trench oceanward. Which plates are interacting?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-011",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A hospital innovation briefing for Plate Boundaries Shape Earth reports that tectonic activity affects people and can be mitigated through engineering and warning systems. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A boundary has volcanoes on an island arc and a trench oceanward."
     },
     "answers": [
       {
-        "text": "Earthquakes occur randomly; the same outcome must therefore occur in every setting",
+        "text": "Two continents diverging",
         "is_correct": false
       },
       {
-        "text": "The evidence supports spatial and historical evidence supports plate tectonic theory, but it does not prove that every case will be identical",
+        "text": "Two oceanic plates, with one subducting",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Two plates at a transform fault",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Two oceanic plates, with one subducting.",
+      "hint": "Island arc plus trench is diagnostic."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_divergent",
-    "question": "In a geological survey update, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: Alternating magnetic polarity bands widen away from a ridge. What do wider bands record?",
+    "audio_prompt": "During the geological survey update, students observe: Alternating magnetic polarity bands widen away from a ridge. What do wider bands record?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-012",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is divergent. Question context: In a geological survey update, the evidence states, “The linked pattern is explained by plate motion”. Which interpretation is best supported?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Alternating magnetic polarity bands widen away from a ridge."
     },
     "answers": [
       {
-        "text": "Convection alone pushes every plate; one matching observation makes this explanation certain",
+        "text": "Stronger rocks moving faster today",
         "is_correct": false
       },
       {
-        "text": "Divergent is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Continents reversing direction",
         "is_correct": false
       },
       {
-        "text": "Tectonic activity affects people and can be mitigated through engineering and warning systems; this interpretation can be checked against further evidence",
+        "text": "Longer intervals between magnetic reversals during crust formation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about divergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Longer intervals between magnetic reversals during crust formation.",
+      "hint": "Band width combines time and spreading."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_convergent",
-    "question": "During a materials-testing laboratory, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: A palaeomagnetic direction differs from the continent's present latitude. What may the mismatch reveal?",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A palaeomagnetic direction differs from the continent's present latitude. What may the mismatch reveal?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-013",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is convergent. Question context: During a materials-testing laboratory, the evidence states, “Compare ridge push”. Which response applies the plate model most accurately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A palaeomagnetic direction differs from the continent's present latitude."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that divergent, convergent and transform boundaries have distinct relative motions and features, within the limits of the investigation",
+        "text": "The continent moved or rotated since the rock formed",
         "is_correct": true
       },
       {
-        "text": "Earthquakes occur randomly; the wider pattern does not need to be considered",
+        "text": "Earth's poles never existed",
         "is_correct": false
       },
       {
-        "text": "Transform caused the result because the two occurred together once",
+        "text": "The rock is necessarily artificial",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about convergent, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The continent moved or rotated since the rock formed.",
+      "hint": "Treat magnetism as a past compass."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_transform",
-    "question": "In a documentary planning session, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: Heat moves material slowly within the mantle. How is this linked to plates?",
+    "audio_prompt": "During the documentary planning session, students observe: Heat moves material slowly within the mantle. How is this linked to plates?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-014",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is transform. Question context: In a documentary planning session, students compare transform with earthquake and volcano pattern. The evidence states, “Spatial and historical evidence supports plate tectonic theory”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: Heat moves material slowly within the mantle."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Mantle circulation carries continents as floating islands",
         "is_correct": false
       },
       {
-        "text": "The model links transform with earthquake and volcano pattern, so it can explain the relationship while still having limits",
+        "text": "Mantle motion contributes to forces that move lithospheric plates",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Convection occurs only in liquid water",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spatial and historical evidence supports plate tectonic theory. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about transform, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Mantle motion contributes to forces that move lithospheric plates.",
+      "hint": "Use slow solid-state flow."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_earthquake_and_volcano_pattern",
-    "question": "During a national data-set review, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: A cross-section exaggerates mantle convection speed. Why might the exaggeration be useful?",
+    "audio_prompt": "During the national data-set review, students observe: A cross-section exaggerates mantle convection speed. Why might the exaggeration be useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-015",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is earthquake and volcano pattern. Question context: During a national data-set review, the evidence states, “Subduction can produce a trench”. What is the strongest scientific response to this result?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A cross-section exaggerates mantle convection speed."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "It proves mantle rock moves at walking speed",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to earthquake and volcano pattern alone",
+        "text": "It removes the need for evidence",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that tectonic activity affects people and can be mitigated through engineering and warning systems",
+        "text": "It makes direction visible, provided the timescale limitation is stated",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tectonic activity affects people and can be mitigated through engineering and warning systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earthquake and volcano pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It makes direction visible, provided the timescale limitation is stated.",
+      "hint": "Distinguish communication from literal scale."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8U03",
     "bank": "test",
     "skill": "plate_evidence",
-    "question": "A final evidence conference for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: A new fault cuts across older folded rock layers. Which event happened later?",
+    "audio_prompt": "During the final evidence conference, students observe: A new fault cuts across older folded rock layers. Which event happened later?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u03.svg#ac9s8u03-t-016",
-      "alt_text": "Plate Boundaries Shape Earth evidence model linking divergent, convergent, transform, earthquake and volcano pattern, evidence. The highlighted stage is evidence. Question context: A final evidence conference for Plate Boundaries Shape Earth reports that overlay earthquake and volcano locations with plate boundaries. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plate Boundaries Shape Earth observation card stating: A new fault cuts across older folded rock layers."
     },
     "answers": [
       {
-        "text": "The evidence supports divergent, convergent and transform boundaries have distinct relative motions and features, but it does not prove that every case will be identical",
+        "text": "Faulting, because the fault cuts the folds",
         "is_correct": true
       },
       {
-        "text": "Convection alone pushes every plate; the same outcome must therefore occur in every setting",
+        "text": "Folding, because layers are always youngest",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about divergent is stronger than measured or documented evidence",
+        "text": "Both must have happened together",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Divergent, convergent and transform boundaries have distinct relative motions and features. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Faulting, because the fault cuts the folds.",
+      "hint": "Use cross-cutting relationships."
     }
   }
 ]

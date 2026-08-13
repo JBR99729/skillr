@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: A micrograph shows a rigid outer boundary, chloroplasts and one large vacuole. Which classification is justified?",
+    "audio_prompt": "During a class investigation, students observe: A micrograph shows a rigid outer boundary, chloroplasts and one large vacuole. Which classification is justified?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-001",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A micrograph shows a rigid outer boundary, chloroplasts and one large vacuole."
     },
     "answers": [
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "It is a plant cell because all three structures are characteristic of plant cells",
         "is_correct": true
       },
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "It is an animal cell because animal cells have cell walls",
         "is_correct": false
       },
       {
-        "text": "Observation is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "It is bacterial because chloroplasts are bacteria",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It is a plant cell because all three structures are characteristic of plant cells",
+      "hint": "Use structures that distinguish common plant and animal cells."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "question": "During a museum evidence display, students observe: A cell has a nucleus, cytoplasm and membrane but no wall or chloroplasts. What conclusion fits the evidence?",
+    "audio_prompt": "During a museum evidence display, students observe: A cell has a nucleus, cytoplasm and membrane but no wall or chloroplasts. What conclusion fits the evidence?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-002",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell has a nucleus, cytoplasm and membrane but no wall or chloroplasts."
     },
     "answers": [
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "It must be plant because it has a nucleus",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "The structures are consistent with an animal cell",
         "is_correct": true
       },
       {
-        "text": "Scientific conclusion caused the result because the two occurred together once",
+        "text": "It cannot be living without chloroplasts",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The structures are consistent with an animal cell",
+      "hint": "Identify which structures are shared and plant-specific."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Normally excluded dye enters a damaged cell. Which structure most likely failed?",
+    "audio_prompt": "During a field-team briefing, students observe: Normally excluded dye enters a damaged cell. Which structure most likely failed?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-003",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Normally excluded dye enters a damaged cell."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The nucleus that forms an outer wall",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The chloroplast that admits all substances",
         "is_correct": false
       },
       {
-        "text": "The model links scientific conclusion with observation, so it can explain the relationship while still having limits",
+        "text": "The cell membrane that controls exchange",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The cell membrane that controls exchange",
+      "hint": "Identify the boundary regulating exchange."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: A lit leaf cell cannot make enough glucose. Damage to which structure best explains this?",
+    "audio_prompt": "During a laboratory notebook, students observe: A lit leaf cell cannot make enough glucose. Damage to which structure best explains this?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-004",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A lit leaf cell cannot make enough glucose."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "Chloroplasts, where photosynthesis captures light energy",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "The nucleus, which directly absorbs light",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to observation alone",
+        "text": "The cell wall, where glucose is produced",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Chloroplasts, where photosynthesis captures light energy",
+      "hint": "Link the failed process to its organelle."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: Equal-sized onion cells appear at widths of 4 cm and 2 cm in two images. Why do the images differ?",
+    "audio_prompt": "During a community science meeting, students observe: Equal-sized onion cells appear at widths of 4 cm and 2 cm in two images. Why do the images differ?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-005",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Equal-sized onion cells appear at widths of 4 cm and 2 cm in two images."
     },
     "answers": [
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "One actual cell is twice as large",
         "is_correct": false
       },
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "The 4 cm image has twice the magnification",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about scientific conclusion is stronger than measured or documented evidence",
+        "text": "The wider image contains twice as many organelles",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The 4 cm image has twice the magnification",
+      "hint": "Separate image size from actual size."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: A model shows organelles as bright shapes with large gaps. Which limitation should be stated?",
+    "audio_prompt": "During a digital model review, students observe: A model shows organelles as bright shapes with large gaps. Which limitation should be stated?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-006",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A model shows organelles as bright shapes with large gaps."
     },
     "answers": [
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "It proves organelles never move",
         "is_correct": false
       },
       {
-        "text": "Scientific conclusion is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "It shows cells are visible without magnification",
         "is_correct": false
       },
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "Its colours, spacing and relative sizes may not match a living cell",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Its colours, spacing and relative sizes may not match a living cell",
+      "hint": "Consider changes made for visibility."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "question": "During a student research poster, students observe: A cell loses its nucleus but its membrane remains intact. Which long-term effect is likely?",
+    "audio_prompt": "During a student research poster, students observe: A cell loses its nucleus but its membrane remains intact. Which long-term effect is likely?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-007",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell loses its nucleus but its membrane remains intact."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "Gene-directed activities and normal division cannot be maintained",
         "is_correct": true
       },
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "The cell immediately becomes a plant cell",
         "is_correct": false
       },
       {
-        "text": "Evidence caused the result because the two occurred together once",
+        "text": "Chloroplasts replace the nucleus",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Gene-directed activities and normal division cannot be maintained",
+      "hint": "Connect the nucleus to genetic information."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Freshwater enters a plant cell and its vacuole expands. How do the vacuole and wall act together?",
+    "audio_prompt": "During an engineering design check, students observe: Freshwater enters a plant cell and its vacuole expands. How do the vacuole and wall act together?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-008",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Freshwater enters a plant cell and its vacuole expands."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The wall pumps water out while the vacuole makes glucose",
         "is_correct": false
       },
       {
-        "text": "The model links evidence with scientific conclusion, so it can explain the relationship while still having limits",
+        "text": "The vacuole stores water while the wall resists expansion and supports the cell",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The vacuole turns into a nucleus",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The vacuole stores water while the wall resists expansion and supports the cell",
+      "hint": "Think about pressure and support."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A 2 mm microscope field fits about 10 cells across. What is one cell's estimated width?",
+    "audio_prompt": "During a data-team discussion, students observe: A 2 mm microscope field fits about 10 cells across. What is one cell's estimated width?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-009",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A 2 mm microscope field fits about 10 cells across."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "About 5 mm",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to scientific conclusion alone",
+        "text": "About 20 mm",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "About 0.2 mm",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "About 0.2 mm",
+      "hint": "Divide field width by cells across."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: A student labels the cell wall as controlling every activity. Which correction is accurate?",
+    "audio_prompt": "During a school science report, students observe: A student labels the cell wall as controlling every activity. Which correction is accurate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-010",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A student labels the cell wall as controlling every activity."
     },
     "answers": [
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "The nucleus regulates many activities; the wall mainly supports plant cells",
         "is_correct": true
       },
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "Chloroplasts control all animal cells",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about evidence is stronger than measured or documented evidence",
+        "text": "The membrane stores all genetic information",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The nucleus regulates many activities; the wall mainly supports plant cells",
+      "hint": "Distinguish control from support."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: A cheek cell image is 30 mm wide at 300 times magnification. What is its actual width?",
+    "audio_prompt": "During a council evidence summary, students observe: A cheek cell image is 30 mm wide at 300 times magnification. What is its actual width?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-011",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cheek cell image is 30 mm wide at 300 times magnification."
     },
     "answers": [
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "10 mm",
         "is_correct": false
       },
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "0.1 mm",
         "is_correct": true
       },
       {
-        "text": "Evidence is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "9000 mm",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "0.1 mm",
+      "hint": "Actual size equals image size divided by magnification."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "question": "During a peer-review conversation, students observe: A 0.05 mm cell is drawn 25 mm wide. What magnification was used?",
+    "audio_prompt": "During a peer-review conversation, students observe: A 0.05 mm cell is drawn 25 mm wide. What magnification was used?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-012",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A 0.05 mm cell is drawn 25 mm wide."
     },
     "answers": [
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "20 times",
         "is_correct": false
       },
       {
-        "text": "Observation caused the result because the two occurred together once",
+        "text": "1250 times",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "500 times",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "500 times",
+      "hint": "Divide image width by actual width."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: A micrograph scale bar representing 20 micrometres is 10 mm long; a cell is 30 mm long. What is the cell's actual length?",
+    "audio_prompt": "During an environmental monitoring project, students observe: A micrograph scale bar representing 20 micrometres is 10 mm long; a cell is 30 mm long. What is the cell's actual length?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-013",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A micrograph scale bar representing 20 micrometres is 10 mm long; a cell is 30 mm long."
     },
     "answers": [
       {
-        "text": "The model links observation with evidence, so it can explain the relationship while still having limits",
+        "text": "60 micrometres",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "30 micrometres",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "600 micrometres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "60 micrometres",
+      "hint": "Compare cell length with the scale bar."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: A cell image is enlarged but its scale bar is accidentally left unchanged. Why is measurement unreliable?",
+    "audio_prompt": "During a medical research case, students observe: A cell image is enlarged but its scale bar is accidentally left unchanged. Why is measurement unreliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-014",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell image is enlarged but its scale bar is accidentally left unchanged."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Enlarging creates new organelles",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "The bar no longer represents the same image-to-actual-size ratio",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to evidence alone",
+        "text": "Scale bars work only on plant cells",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The bar no longer represents the same image-to-actual-size ratio",
+      "hint": "Scale bars must enlarge with images."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: A specimen is viewed first at 100 times and then 400 times magnification. What changes at 400 times?",
+    "audio_prompt": "During a science-news fact check, students observe: A specimen is viewed first at 100 times and then 400 times magnification. What changes at 400 times?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-015",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A specimen is viewed first at 100 times and then 400 times magnification."
     },
     "answers": [
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "Cells become four times larger in reality",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about observation is stronger than measured or documented evidence",
+        "text": "More whole cells always fit in view",
         "is_correct": false
       },
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "Each cell appears larger and fewer cells usually fit in the field",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Each cell appears larger and fewer cells usually fit in the field",
+      "hint": "Distinguish viewing field from specimen size."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: A microscope image has a dark circular outline but no visible nucleus. What is the safest conclusion?",
+    "audio_prompt": "During a classroom model test, students observe: A microscope image has a dark circular outline but no visible nucleus. What is the safest conclusion?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-016",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A microscope image has a dark circular outline but no visible nucleus."
     },
     "answers": [
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "The nucleus may be unstained or out of focus, so absence is not established",
         "is_correct": true
       },
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "The cell definitely has no genetic material",
         "is_correct": false
       },
       {
-        "text": "Observation is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "The outline must be a chloroplast",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The nucleus may be unstained or out of focus, so absence is not established",
+      "hint": "Consider limits of preparation and imaging."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "question": "During a regional planning workshop, students observe: Iodine stain makes a cell nucleus easier to see. What role does the stain play?",
+    "audio_prompt": "During a regional planning workshop, students observe: Iodine stain makes a cell nucleus easier to see. What role does the stain play?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-017",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Iodine stain makes a cell nucleus easier to see."
     },
     "answers": [
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "It creates a new nucleus",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "It increases contrast between structures",
         "is_correct": true
       },
       {
-        "text": "Scientific conclusion caused the result because the two occurred together once",
+        "text": "It magnifies the specimen",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It increases contrast between structures",
+      "hint": "Staining affects contrast, not size."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: A student sees rectangular cells in onion epidermis. Why is shape alone insufficient to identify every plant cell?",
+    "audio_prompt": "During an equipment selection task, students observe: A student sees rectangular cells in onion epidermis. Why is shape alone insufficient to identify every plant cell?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-018",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A student sees rectangular cells in onion epidermis."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "All plant cells are perfect rectangles",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Animal cells always have square walls",
         "is_correct": false
       },
       {
-        "text": "The model links scientific conclusion with observation, so it can explain the relationship while still having limits",
+        "text": "Plant cells vary in shape according to location and function",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Plant cells vary in shape according to location and function",
+      "hint": "Avoid generalising one tissue sample."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: A red blood cell lacks a nucleus when mature. Why does this not disprove cell theory?",
+    "audio_prompt": "During a public information draft, students observe: A red blood cell lacks a nucleus when mature. Why does this not disprove cell theory?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-019",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A red blood cell lacks a nucleus when mature."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "It formed from a nucleated cell and remains a specialised cell",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Only cells with nuclei are living",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to observation alone",
+        "text": "It is actually a tissue, not a cell",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It formed from a nucleated cell and remains a specialised cell",
+      "hint": "Cell theory does not require every mature cell to retain every structure."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: A bacterial cell has a membrane and cytoplasm but no nucleus. Which statement is accurate?",
+    "audio_prompt": "During an independent replication study, students observe: A bacterial cell has a membrane and cytoplasm but no nucleus. Which statement is accurate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-020",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A bacterial cell has a membrane and cytoplasm but no nucleus."
     },
     "answers": [
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "It has no genetic information",
         "is_correct": false
       },
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "Its genetic material is present without being enclosed in a nucleus",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about scientific conclusion is stronger than measured or documented evidence",
+        "text": "Its membrane is a hidden nucleus",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Its genetic material is present without being enclosed in a nucleus",
+      "hint": "Separate genetic material from a membrane-bound nucleus."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: Muscle cells contain many mitochondria. How does this structure suit their function?",
+    "audio_prompt": "During a risk-assessment meeting, students observe: Muscle cells contain many mitochondria. How does this structure suit their function?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-021",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Muscle cells contain many mitochondria."
     },
     "answers": [
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "Mitochondria make muscle cells rigid",
         "is_correct": false
       },
       {
-        "text": "Scientific conclusion is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Mitochondria store genetic information outside the cell",
         "is_correct": false
       },
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "Many mitochondria support high rates of energy release for contraction",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Many mitochondria support high rates of energy release for contraction",
+      "hint": "Link energy demand with cellular respiration."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_observation",
-    "question": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "question": "During a graph interpretation task, students observe: A sperm cell has a long tail and many mitochondria near its base. What structure-function link is supported?",
+    "audio_prompt": "During a graph interpretation task, students observe: A sperm cell has a long tail and many mitochondria near its base. What structure-function link is supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-022",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A sperm cell has a long tail and many mitochondria near its base."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "Mitochondria release energy used for tail movement",
         "is_correct": true
       },
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "The tail performs photosynthesis",
         "is_correct": false
       },
       {
-        "text": "Evidence caused the result because the two occurred together once",
+        "text": "The nucleus pumps the tail mechanically",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Mitochondria release energy used for tail movement",
+      "hint": "Connect movement with energy supply."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_evidence",
-    "question": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: A root hair cell has a long projection but no chloroplasts. Why is this arrangement useful?",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A root hair cell has a long projection but no chloroplasts. Why is this arrangement useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-023",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A root hair cell has a long projection but no chloroplasts."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The projection captures sunlight underground",
         "is_correct": false
       },
       {
-        "text": "The model links evidence with scientific conclusion, so it can explain the relationship while still having limits",
+        "text": "The projection increases absorption area and underground cells receive little light",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Missing chloroplasts make it an animal cell",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The projection increases absorption area and underground cells receive little light",
+      "hint": "Use location and function together."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "practice",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: Palisade leaf cells contain more chloroplasts than epidermal cells. Which explanation is strongest?",
+    "audio_prompt": "During a scientific-method audit, students observe: Palisade leaf cells contain more chloroplasts than epidermal cells. Which explanation is strongest?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-024",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Palisade leaf cells contain more chloroplasts than epidermal cells."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Epidermal cells are not living",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to scientific conclusion alone",
+        "text": "Chloroplast number determines cell-wall thickness",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "Palisade cells receive light and carry out much photosynthesis",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Palisade cells receive light and carry out much photosynthesis",
+      "hint": "Link organelle abundance to specialised function."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "A new research proposal for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: A nerve cell has a very long extension. How does this help the organism?",
+    "audio_prompt": "During the new research proposal, students observe: A nerve cell has a very long extension. How does this help the organism?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-001",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A new research proposal for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A nerve cell has a very long extension."
     },
     "answers": [
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "It carries electrical signals over long distances",
         "is_correct": true
       },
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "It absorbs soil minerals",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about evidence is stronger than measured or documented evidence",
+        "text": "It increases photosynthetic surface area",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It carries electrical signals over long distances",
+      "hint": "Relate cell form to signal transmission."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_evidence",
-    "question": "In a cross-school data comparison, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: Several similar cells work together to contract the stomach. What level of organisation do they form?",
+    "audio_prompt": "During the cross-school data comparison, students observe: Several similar cells work together to contract the stomach. What level of organisation do they form?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-002",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a cross-school data comparison, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Several similar cells work together to contract the stomach."
     },
     "answers": [
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "An organ system",
         "is_correct": false
       },
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "Muscle tissue",
         "is_correct": true
       },
       {
-        "text": "Evidence is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "An organelle",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Muscle tissue",
+      "hint": "Similar specialised cells form tissue."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "During a technology evaluation panel, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
+    "question": "During the technology evaluation panel, students observe: A model cell uses a plastic bag for membrane and water for cytoplasm. What useful feature can it demonstrate?",
+    "audio_prompt": "During the technology evaluation panel, students observe: A model cell uses a plastic bag for membrane and water for cytoplasm. What useful feature can it demonstrate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-003",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a technology evaluation panel, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A model cell uses a plastic bag for membrane and water for cytoplasm."
     },
     "answers": [
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "Exact molecular movement through a living membrane",
         "is_correct": false
       },
       {
-        "text": "Observation caused the result because the two occurred together once",
+        "text": "The real colour and thickness of cytoplasm",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "A flexible boundary enclosing internal material",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A flexible boundary enclosing internal material",
+      "hint": "Name one function represented without claiming exact realism."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "In a science exhibition caption, students compare observation with evidence. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare observation with evidence. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: A diagram draws a mitochondrion larger than the nucleus. What should a reader check before comparing size?",
+    "audio_prompt": "During the science exhibition caption, students observe: A diagram draws a mitochondrion larger than the nucleus. What should a reader check before comparing size?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-004",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a science exhibition caption, students compare observation with evidence. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A diagram draws a mitochondrion larger than the nucleus."
     },
     "answers": [
       {
-        "text": "The model links observation with evidence, so it can explain the relationship while still having limits",
+        "text": "Whether the diagram is to scale",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Whether mitochondria are always outside cells",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Whether nuclei occur only in plants",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Whether the diagram is to scale",
+      "hint": "Diagrams often prioritise clarity over scale."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_evidence",
-    "question": "During a policy evidence hearing, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: A three-dimensional cell model hides organelles behind one another. Why might a cross-section be added?",
+    "audio_prompt": "During the policy evidence hearing, students observe: A three-dimensional cell model hides organelles behind one another. Why might a cross-section be added?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-005",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a policy evidence hearing, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A three-dimensional cell model hides organelles behind one another."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "It proves organelles are flat",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "It reveals internal positions that the outer view obscures",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to evidence alone",
+        "text": "It increases actual cell magnification",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It reveals internal positions that the outer view obscures",
+      "hint": "Different representations reveal different information."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "A controlled follow-up investigation for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: Electron microscopy reveals much finer membrane detail than a school light microscope. Why?",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: Electron microscopy reveals much finer membrane detail than a school light microscope. Why?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-006",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A controlled follow-up investigation for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Electron microscopy reveals much finer membrane detail than a school light microscope."
     },
     "answers": [
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "Electrons make structures physically larger",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about observation is stronger than measured or documented evidence",
+        "text": "Light microscopes cannot view any cells",
         "is_correct": false
       },
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "Electron microscopes have greater resolving power",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Electron microscopes have greater resolving power",
+      "hint": "Resolution concerns distinguishable detail."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "In a model limitations review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: Two close points blur into one under a microscope. Which property is limiting the observation?",
+    "audio_prompt": "During the model limitations review, students observe: Two close points blur into one under a microscope. Which property is limiting the observation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-007",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a model limitations review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Two close points blur into one under a microscope."
     },
     "answers": [
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "Resolution",
         "is_correct": true
       },
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "Field colour",
         "is_correct": false
       },
       {
-        "text": "Observation is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Cell metabolism",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Resolution",
+      "hint": "Ask whether nearby details can be distinguished."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_evidence",
-    "question": "During an ethics committee discussion, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
+    "question": "During the ethics committee discussion, students observe: A student focuses using high power first and cannot find the specimen. Which method is better?",
+    "audio_prompt": "During the ethics committee discussion, students observe: A student focuses using high power first and cannot find the specimen. Which method is better?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-008",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During an ethics committee discussion, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A student focuses using high power first and cannot find the specimen."
     },
     "answers": [
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "Add more stain until the cell grows",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "Locate and centre it at low power before increasing magnification",
         "is_correct": true
       },
       {
-        "text": "Scientific conclusion caused the result because the two occurred together once",
+        "text": "Remove the objective lens",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Locate and centre it at low power before increasing magnification",
+      "hint": "Low power provides a wider field."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In a coastal field station report, students compare scientific conclusion with observation. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare scientific conclusion with observation. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: A membrane is described as selectively permeable. Which observation supports that description?",
+    "audio_prompt": "During the coastal field station report, students observe: A membrane is described as selectively permeable. Which observation supports that description?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-009",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a coastal field station report, students compare scientific conclusion with observation. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A membrane is described as selectively permeable."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Every substance crosses at the same rate",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Nothing can cross the membrane",
         "is_correct": false
       },
       {
-        "text": "The model links scientific conclusion with observation, so it can explain the relationship while still having limits",
+        "text": "Some substances cross readily while others are restricted",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Some substances cross readily while others are restricted",
+      "hint": "Selective means differing passage."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "During a renewable-energy trial, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: Mitochondria stop functioning in an active cell. Which immediate process is most affected?",
+    "audio_prompt": "During the renewable-energy trial, students observe: Mitochondria stop functioning in an active cell. Which immediate process is most affected?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-010",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a renewable-energy trial, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: Mitochondria stop functioning in an active cell."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "Release of usable energy through aerobic respiration",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Construction of the cellulose wall",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to observation alone",
+        "text": "Capture of light by chlorophyll",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Release of usable energy through aerobic respiration",
+      "hint": "Match organelle with process."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_evidence",
-    "question": "A hospital innovation briefing for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: A plant cell's chloroplasts are concentrated near its illuminated surface. What advantage is likely?",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A plant cell's chloroplasts are concentrated near its illuminated surface. What advantage is likely?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-011",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A hospital innovation briefing for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A plant cell's chloroplasts are concentrated near its illuminated surface."
     },
     "answers": [
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "The nucleus receives more soil minerals",
         "is_correct": false
       },
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "More chlorophyll is positioned to capture available light",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about scientific conclusion is stronger than measured or documented evidence",
+        "text": "The wall becomes selectively permeable",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "More chlorophyll is positioned to capture available light",
+      "hint": "Use the direction of the resource."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "In a geological survey update, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: A cell wall is removed while the membrane remains. Which difference would be expected?",
+    "audio_prompt": "During the geological survey update, students observe: A cell wall is removed while the membrane remains. Which difference would be expected?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-012",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a geological survey update, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell wall is removed while the membrane remains."
     },
     "answers": [
       {
-        "text": "; one matching observation makes this explanation certain",
+        "text": "The cell loses all genetic material",
         "is_correct": false
       },
       {
-        "text": "Scientific conclusion is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Photosynthesis must increase",
         "is_correct": false
       },
       {
-        "text": "Cells are the basic units of living things; this interpretation can be checked against further evidence",
+        "text": "The cell loses rigid support but still has a boundary controlling exchange",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cells are the basic units of living things. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The cell loses rigid support but still has a boundary controlling exchange",
+      "hint": "Separate wall and membrane roles."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "During a materials-testing laboratory, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: A vacuole loses water during dry conditions. What happens to many plant cells?",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A vacuole loses water during dry conditions. What happens to many plant cells?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-013",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a materials-testing laboratory, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A vacuole loses water during dry conditions."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
+        "text": "They lose internal pressure and become less firm",
         "is_correct": true
       },
       {
-        "text": "; the wider pattern does not need to be considered",
+        "text": "Their cell walls dissolve into glucose",
         "is_correct": false
       },
       {
-        "text": "Evidence caused the result because the two occurred together once",
+        "text": "Their nuclei leave the cells",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The nucleus, cell membrane and cytoplasm are represented in both plant and animal cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "They lose internal pressure and become less firm",
+      "hint": "Connect vacuole volume to turgor."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_evidence",
-    "question": "In a documentary planning session, students compare evidence with scientific conclusion. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare evidence with scientific conclusion. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: A cell's ribosomes are blocked. Which product decreases most directly?",
+    "audio_prompt": "During the documentary planning session, students observe: A cell's ribosomes are blocked. Which product decreases most directly?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-014",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a documentary planning session, students compare evidence with scientific conclusion. The evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell's ribosomes are blocked."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Light energy",
         "is_correct": false
       },
       {
-        "text": "The model links evidence with scientific conclusion, so it can explain the relationship while still having limits",
+        "text": "Proteins",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Cellulose walls in animal cells",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plant-cell models also show a cell wall, chloroplasts and a large vacuole, with functions linked to the cell's needs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Proteins",
+      "hint": "Ribosomes assemble proteins."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_scientific_conclusion",
-    "question": "During a national data-set review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: A cell model includes a nucleus in every red blood cell. What revision improves accuracy?",
+    "audio_prompt": "During the national data-set review, students observe: A cell model includes a nucleus in every red blood cell. What revision improves accuracy?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-015",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a national data-set review, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A cell model includes a nucleus in every red blood cell."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Add chloroplasts to transport oxygen",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to scientific conclusion alone",
+        "text": "Remove the membrane",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
+        "text": "Show that mature mammalian red blood cells usually lack nuclei",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plant and animal cells can be compared using visible evidence and scientifically useful models. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Show that mature mammalian red blood cells usually lack nuclei",
+      "hint": "Models should represent exceptions to a generalised cell."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8U01",
     "bank": "test",
     "skill": "scalejourney_observation",
-    "question": "A final evidence conference for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: A student says larger magnification always reveals more detail. Which counterexample challenges this?",
+    "audio_prompt": "During the final evidence conference, students observe: A student says larger magnification always reveals more detail. Which counterexample challenges this?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-t-016",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A final evidence conference for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells observation card stating: A student says larger magnification always reveals more detail."
     },
     "answers": [
       {
-        "text": "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
+        "text": "An enlarged blurry image has greater size but no greater resolution",
         "is_correct": true
       },
       {
-        "text": "; the same outcome must therefore occur in every setting",
+        "text": "A focused image contains cells",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about evidence is stronger than measured or documented evidence",
+        "text": "A scale bar shows micrometres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Microscopes extended human observation and changed scientific understanding of cells. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An enlarged blurry image has greater size but no greater resolution",
+      "hint": "Magnification without resolution can be empty enlargement."
     }
   }
 ]

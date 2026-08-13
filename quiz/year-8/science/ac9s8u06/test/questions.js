@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A new research proposal for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A new research proposal for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: A bicycle pump warms during rapid compression. Which particle-model explanation fits observation 15?",
+    "audioPrompt": "During the new research proposal, students observe: A bicycle pump warms during rapid compression. Which particle-model explanation fits observation 15?",
+    "visual": "Classify Matter with Particle Models observation card stating: A bicycle pump warms during rapid compression.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A bicycle pump warms during rapid compression.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-001",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A new research proposal for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A bicycle pump warms during rapid compression."
     },
     "answers": [
-      "The evidence supports elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, but it does not prove that every case will be identical",
-      "A compound is any sample with several atom types; the same outcome must therefore occur in every setting",
-      "A confident opinion about element is stronger than measured or documented evidence"
+      "Work increases gas-particle kinetic energy",
+      "Compression creates fire",
+      "Air particles melt"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Work increases gas-particle kinetic energy.\nHint: For observation 15, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Work increases gas-particle kinetic energy.",
+      "hint": "For observation 15, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a cross-school data comparison, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a cross-school data comparison, the evidence states, “A box contains identical particles”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: Oil and water form separate layers. Which particle-model explanation fits observation 16?",
+    "audioPrompt": "During the cross-school data comparison, students observe: Oil and water form separate layers. Which particle-model explanation fits observation 16?",
+    "visual": "Classify Matter with Particle Models observation card stating: Oil and water form separate layers.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Oil and water form separate layers.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-002",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a cross-school data comparison, the evidence states, “A box contains identical particles”. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Oil and water form separate layers."
     },
     "answers": [
-      "A formula is a picture of shape; one matching observation makes this explanation certain",
-      "Representations show different information and have limitations; this interpretation can be checked against further evidence",
-      "Element is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Oil has no particles",
+      "Their particles attract their own type differently",
+      "Water particles become heavier atoms"
     ],
     "correct": 1,
-    "explanation": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Their particles attract their own type differently.\nHint: For observation 16, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Their particles attract their own type differently.",
+      "hint": "For observation 16, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a technology evaluation panel, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a technology evaluation panel, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: Sugar dissolves faster in warm water. Which particle-model explanation fits observation 17?",
+    "audioPrompt": "During the technology evaluation panel, students observe: Sugar dissolves faster in warm water. Which particle-model explanation fits observation 17?",
+    "visual": "Classify Matter with Particle Models observation card stating: Sugar dissolves faster in warm water.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Sugar dissolves faster in warm water.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-003",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a technology evaluation panel, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Sugar dissolves faster in warm water."
     },
     "answers": [
-      "A compound is any sample with several atom types; the wider pattern does not need to be considered",
-      "Mixture caused the result because the two occurred together once",
-      "The observation supports the idea that symbols and formulas communicate composition efficiently, within the limits of the investigation"
+      "Warmth creates extra sugar",
+      "Sugar particles melt",
+      "Faster particle motion increases collision and spreading rates"
     ],
     "correct": 2,
-    "explanation": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Faster particle motion increases collision and spreading rates.\nHint: For observation 17, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Faster particle motion increases collision and spreading rates.",
+      "hint": "For observation 17, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a science exhibition caption, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a science exhibition caption, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: Crushing sugar speeds dissolving. Which particle-model explanation fits observation 18?",
+    "audioPrompt": "During the science exhibition caption, students observe: Crushing sugar speeds dissolving. Which particle-model explanation fits observation 18?",
+    "visual": "Classify Matter with Particle Models observation card stating: Crushing sugar speeds dissolving.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Crushing sugar speeds dissolving.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-004",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a science exhibition caption, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Crushing sugar speeds dissolving."
     },
     "answers": [
-      "The model links mixture with particle model, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Smaller pieces expose more surface to water particles",
+      "Crushing changes sugar chemically",
+      "Small particles have no mass"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Smaller pieces expose more surface to water particles.\nHint: For observation 18, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Smaller pieces expose more surface to water particles.",
+      "hint": "For observation 18, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a policy evidence hearing, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a policy evidence hearing, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: Stirring speeds dissolving. Which particle-model explanation fits observation 19?",
+    "audioPrompt": "During the policy evidence hearing, students observe: Stirring speeds dissolving. Which particle-model explanation fits observation 19?",
+    "visual": "Classify Matter with Particle Models observation card stating: Stirring speeds dissolving.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Stirring speeds dissolving.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-005",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a policy evidence hearing, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Stirring speeds dissolving."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that representations show different information and have limitations",
-      "Several conditions can change together and the result can still be attributed to particle model alone"
+      "Stirring creates solvent",
+      "Bulk movement brings fresh solvent to the solute surface",
+      "Sugar atoms become water"
     ],
     "correct": 1,
-    "explanation": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Bulk movement brings fresh solvent to the solute surface.\nHint: For observation 19, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Bulk movement brings fresh solvent to the solute surface.",
+      "hint": "For observation 19, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A controlled follow-up investigation for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A controlled follow-up investigation for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: A saturated solution leaves undissolved salt. Which particle-model explanation fits observation 20?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: A saturated solution leaves undissolved salt. Which particle-model explanation fits observation 20?",
+    "visual": "Classify Matter with Particle Models observation card stating: A saturated solution leaves undissolved salt.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A saturated solution leaves undissolved salt.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-006",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A controlled follow-up investigation for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A saturated solution leaves undissolved salt."
     },
     "answers": [
-      "A formula is a picture of shape; the same outcome must therefore occur in every setting",
-      "A confident opinion about element is stronger than measured or documented evidence",
-      "The evidence supports symbols and formulas communicate composition efficiently, but it does not prove that every case will be identical"
+      "Water has stopped moving",
+      "Salt loses all particles",
+      "Dissolving and crystallising reach balance at that temperature"
     ],
     "correct": 2,
-    "explanation": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Dissolving and crystallising reach balance at that temperature.\nHint: For observation 20, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Dissolving and crystallising reach balance at that temperature.",
+      "hint": "For observation 20, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a model limitations review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a model limitations review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: Crystals grow as a solution cools. Which particle-model explanation fits observation 21?",
+    "audioPrompt": "During the model limitations review, students observe: Crystals grow as a solution cools. Which particle-model explanation fits observation 21?",
+    "visual": "Classify Matter with Particle Models observation card stating: Crystals grow as a solution cools.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Crystals grow as a solution cools.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-007",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a model limitations review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Crystals grow as a solution cools."
     },
     "answers": [
-      "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances; this interpretation can be checked against further evidence",
-      "A compound is any sample with several atom types; one matching observation makes this explanation certain",
-      "Element is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Lower solubility allows solute particles to arrange into a solid",
+      "Cooling creates solute",
+      "Water freezes into salt"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Lower solubility allows solute particles to arrange into a solid.\nHint: For observation 21, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Lower solubility allows solute particles to arrange into a solid.",
+      "hint": "For observation 21, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During an ethics committee discussion, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During an ethics committee discussion, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: Ink spreads faster in water than gel. Which particle-model explanation fits observation 22?",
+    "audioPrompt": "During the ethics committee discussion, students observe: Ink spreads faster in water than gel. Which particle-model explanation fits observation 22?",
+    "visual": "Classify Matter with Particle Models observation card stating: Ink spreads faster in water than gel.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Ink spreads faster in water than gel.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-008",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During an ethics committee discussion, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Ink spreads faster in water than gel."
     },
     "answers": [
-      "A formula is a picture of shape; the wider pattern does not need to be considered",
-      "The observation supports the idea that representations show different information and have limitations, within the limits of the investigation",
-      "Mixture caused the result because the two occurred together once"
+      "Gel contains no spaces",
+      "Particles move more freely through the less viscous medium",
+      "Ink particles are larger in water"
     ],
     "correct": 1,
-    "explanation": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Particles move more freely through the less viscous medium.\nHint: For observation 22, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Particles move more freely through the less viscous medium.",
+      "hint": "For observation 22, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a coastal field station report, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a coastal field station report, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: Air can be compressed far more than water. Which particle-model explanation fits observation 23?",
+    "audioPrompt": "During the coastal field station report, students observe: Air can be compressed far more than water. Which particle-model explanation fits observation 23?",
+    "visual": "Classify Matter with Particle Models observation card stating: Air can be compressed far more than water.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Air can be compressed far more than water.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-009",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a coastal field station report, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Air can be compressed far more than water."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links mixture with particle model, so it can explain the relationship while still having limits"
+      "Gas particles are softer",
+      "Liquid particles have no motion",
+      "Gas particles have much more space between them"
     ],
     "correct": 2,
-    "explanation": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Gas particles have much more space between them.\nHint: For observation 23, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Gas particles have much more space between them.",
+      "hint": "For observation 23, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a renewable-energy trial, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a renewable-energy trial, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: A sealed bottle dents after hot air cools. Which particle-model explanation fits observation 24?",
+    "audioPrompt": "During the renewable-energy trial, students observe: A sealed bottle dents after hot air cools. Which particle-model explanation fits observation 24?",
+    "visual": "Classify Matter with Particle Models observation card stating: A sealed bottle dents after hot air cools.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A sealed bottle dents after hot air cools.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-010",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a renewable-energy trial, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A sealed bottle dents after hot air cools."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to particle model alone"
+      "Lower internal pressure lets outside air push inward",
+      "Cooling removes all internal air",
+      "The bottle attracts gravity"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Lower internal pressure lets outside air push inward.\nHint: For observation 24, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Lower internal pressure lets outside air push inward.",
+      "hint": "For observation 24, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A hospital innovation briefing for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A hospital innovation briefing for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: Aerosol pressure rises in heat. Which particle-model explanation fits observation 25?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: Aerosol pressure rises in heat. Which particle-model explanation fits observation 25?",
+    "visual": "Classify Matter with Particle Models observation card stating: Aerosol pressure rises in heat.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Aerosol pressure rises in heat.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-011",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A hospital innovation briefing for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Aerosol pressure rises in heat."
     },
     "answers": [
-      "A compound is any sample with several atom types; the same outcome must therefore occur in every setting",
-      "The evidence supports representations show different information and have limitations, but it does not prove that every case will be identical",
-      "A confident opinion about element is stronger than measured or documented evidence"
+      "Heat removes pressure",
+      "Particle collisions intensify, creating rupture risk",
+      "The can creates gas atoms"
     ],
     "correct": 1,
-    "explanation": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Particle collisions intensify, creating rupture risk.\nHint: For observation 25, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Particle collisions intensify, creating rupture risk.",
+      "hint": "For observation 25, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a geological survey update, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a geological survey update, the evidence states, “The formula records ratio”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: A model draws particles with speed lines. Which particle-model explanation fits observation 26?",
+    "audioPrompt": "During the geological survey update, students observe: A model draws particles with speed lines. Which particle-model explanation fits observation 26?",
+    "visual": "Classify Matter with Particle Models observation card stating: A model draws particles with speed lines.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A model draws particles with speed lines.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-012",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a geological survey update, the evidence states, “The formula records ratio”. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A model draws particles with speed lines."
     },
     "answers": [
-      "A formula is a picture of shape; one matching observation makes this explanation certain",
-      "Element is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Symbols and formulas communicate composition efficiently; this interpretation can be checked against further evidence"
+      "Particles grow tails when heated",
+      "Lines show chemical bonds",
+      "The lines represent motion, not real tails"
     ],
     "correct": 2,
-    "explanation": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The lines represent motion, not real tails.\nHint: For observation 26, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about element, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The lines represent motion, not real tails.",
+      "hint": "For observation 26, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a materials-testing laboratory, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a materials-testing laboratory, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: A model enlarges particles enormously. Which particle-model explanation fits observation 27?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: A model enlarges particles enormously. Which particle-model explanation fits observation 27?",
+    "visual": "Classify Matter with Particle Models observation card stating: A model enlarges particles enormously.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A model enlarges particles enormously.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-013",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a materials-testing laboratory, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A model enlarges particles enormously."
     },
     "answers": [
-      "The observation supports the idea that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, within the limits of the investigation",
-      "A compound is any sample with several atom types; the wider pattern does not need to be considered",
-      "Mixture caused the result because the two occurred together once"
+      "The scale is distorted so particles can be seen",
+      "Particles really are visible dots",
+      "Magnification changes actual size"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The scale is distorted so particles can be seen.\nHint: For observation 27, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about compound, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The scale is distorted so particles can be seen.",
+      "hint": "For observation 27, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a documentary planning session, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a documentary planning session, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: Two gases mix evenly. Which particle-model explanation fits observation 28?",
+    "audioPrompt": "During the documentary planning session, students observe: Two gases mix evenly. Which particle-model explanation fits observation 28?",
+    "visual": "Classify Matter with Particle Models observation card stating: Two gases mix evenly.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: Two gases mix evenly.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-014",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a documentary planning session, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: Two gases mix evenly."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links mixture with particle model, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Heavier gas always stays completely separate",
+      "Random motion produces diffusion in both directions",
+      "Particles choose equal spacing"
     ],
     "correct": 1,
-    "explanation": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Random motion produces diffusion in both directions.\nHint: For observation 28, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Representations show different information and have limitations. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about mixture, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Random motion produces diffusion in both directions.",
+      "hint": "For observation 28, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a national data-set review, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a national data-set review, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: A smell crosses a room despite no breeze. Which particle-model explanation fits observation 29?",
+    "audioPrompt": "During the national data-set review, students observe: A smell crosses a room despite no breeze. Which particle-model explanation fits observation 29?",
+    "visual": "Classify Matter with Particle Models observation card stating: A smell crosses a room despite no breeze.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A smell crosses a room despite no breeze.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-015",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a national data-set review, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A smell crosses a room despite no breeze."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to particle model alone",
-      "Repeated evidence can support the conclusion that symbols and formulas communicate composition efficiently"
+      "Sound carries the smell",
+      "Odour creates air currents",
+      "Molecular collisions cause gradual diffusion"
     ],
     "correct": 2,
-    "explanation": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Molecular collisions cause gradual diffusion.\nHint: For observation 29, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Symbols and formulas communicate composition efficiently. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about particle model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Molecular collisions cause gradual diffusion.",
+      "hint": "For observation 29, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A final evidence conference for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A final evidence conference for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: A liquid is hard to compress. Which particle-model explanation fits observation 30?",
+    "audioPrompt": "During the final evidence conference, students observe: A liquid is hard to compress. Which particle-model explanation fits observation 30?",
+    "visual": "Classify Matter with Particle Models observation card stating: A liquid is hard to compress.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models observation card stating: A liquid is hard to compress.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-t-016",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A final evidence conference for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models observation card stating: A liquid is hard to compress."
     },
     "answers": [
-      "The evidence supports elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, but it does not prove that every case will be identical",
-      "A formula is a picture of shape; the same outcome must therefore occur in every setting",
-      "A confident opinion about element is stronger than measured or documented evidence"
+      "Its particles are already close together",
+      "Liquid particles are infinitely rigid",
+      "Liquids contain no gaps at all"
     ],
     "correct": 0,
-    "explanation": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Its particles are already close together.\nHint: For observation 30, keep particle identity, number, spacing and motion distinct.",
     "structuredExplanation": {
-      "summary": "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances together without chemical bonding. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about symbol and formula, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Its particles are already close together.",
+      "hint": "For observation 30, keep particle identity, number, spacing and motion distinct."
     },
     "qualitySchema": "production-v1"
   }

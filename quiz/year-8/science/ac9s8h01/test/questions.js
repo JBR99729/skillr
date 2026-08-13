@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "timeline stronger explanation",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Evidence Changes Scientific Ideas reports that scientific knowledge is durable but open to revision. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Evidence Changes Scientific Ideas reports that scientific knowledge is durable but open to revision. Which revision would make the reasoning most reliable?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A new research proposal for Evidence Changes Scientific Ideas reports that scientific knowledge is durable but open to revision. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A new research proposal for Evidence Changes Scientific Ideas reports that scientific knowledge is durable but open to revision. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: An old model treats stomach ulcers as mainly stress-related; bacteria are repeatedly found and antibiotic trials improve recovery. Why revise the model?",
+    "audioPrompt": "During the new research proposal, students observe: An old model treats stomach ulcers as mainly stress-related; bacteria are repeatedly found and antibiotic trials improve recovery. Why revise the model?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: An old model treats stomach ulcers as mainly stress-related; bacteria are repeatedly found and antibiotic trials improve recovery.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: An old model treats stomach ulcers as mainly stress-related; bacteria are repeatedly found and antibiotic trials improve recovery.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-001",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A new research proposal for Evidence Changes Scientific Ideas reports that scientific knowledge is durable but open to revision. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: An old model treats stomach ulcers as mainly stress-related; bacteria are repeatedly found and antibiotic trials improve recovery."
     },
     "answers": [
-      "The evidence supports scientific knowledge is durable but open to revision, but it does not prove that every case will be identical",
-      "Science changes because facts are unreliable; the same outcome must therefore occur in every setting",
-      "A confident opinion about earlier explanation is stronger than measured or documented evidence"
+      "The bacterial evidence and treatment outcomes explain cases the stress-only model misses",
+      "Stress can never affect health because bacteria were found",
+      "Any successful treatment proves its proposed mechanism"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The bacterial evidence and treatment outcomes explain cases the stress-only model misses\nHint: Use converging observations and intervention evidence.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The bacterial evidence and treatment outcomes explain cases the stress-only model misses",
+      "hint": "Use converging observations and intervention evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "timeline earlier explanation",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. Which interpretation is best supported?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a cross-school data comparison, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a cross-school data comparison, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: Air samples preserved over decades show rising carbon dioxide while spectroscopy identifies its heat absorption. What is gained by combining evidence?",
+    "audioPrompt": "During the cross-school data comparison, students observe: Air samples preserved over decades show rising carbon dioxide while spectroscopy identifies its heat absorption. What is gained by combining evidence?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Air samples preserved over decades show rising carbon dioxide while spectroscopy identifies its heat absorption.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Air samples preserved over decades show rising carbon dioxide while spectroscopy identifies its heat absorption.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-002",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a cross-school data comparison, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. Which interpretation is best supported?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Air samples preserved over decades show rising carbon dioxide while spectroscopy identifies its heat absorption."
     },
     "answers": [
-      "One surprising result automatically overturns a theory; one matching observation makes this explanation certain",
-      "New technologies and perspectives can reveal evidence unavailable earlier; this interpretation can be checked against further evidence",
-      "Earlier explanation is the only relevant feature, so no mechanism or consequence needs explaining"
+      "The two findings cancel because they use different instruments",
+      "A measured trend and a tested mechanism jointly strengthen the explanation",
+      "Correlation alone proves every climate effect"
     ],
     "correct": 1,
-    "explanation": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A measured trend and a tested mechanism jointly strengthen the explanation\nHint: Identify the roles of trend and mechanism.",
     "structuredExplanation": {
-      "summary": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A measured trend and a tested mechanism jointly strengthen the explanation",
+      "hint": "Identify the roles of trend and mechanism."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "timeline new evidence",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “A revised explanation should account for existing and new evidence”. Which response applies the timeline model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “A revised explanation should account for existing and new evidence”. Which response applies the timeline model most accurately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a technology evaluation panel, the evidence states, “A revised explanation should account for existing and new evidence”. Which response applies the timeline model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a technology evaluation panel, the evidence states, “A revised explanation should account for existing and new evidence”. Which response applies the timeline model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: A prediction succeeds in three locations but fails in a fourth with different soil. How should the explanation change?",
+    "audioPrompt": "During the technology evaluation panel, students observe: A prediction succeeds in three locations but fails in a fourth with different soil. How should the explanation change?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A prediction succeeds in three locations but fails in a fourth with different soil.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A prediction succeeds in three locations but fails in a fourth with different soil.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-003",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a technology evaluation panel, the evidence states, “A revised explanation should account for existing and new evidence”. Which response applies the timeline model most accurately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A prediction succeeds in three locations but fails in a fourth with different soil."
     },
     "answers": [
-      "Science changes because facts are unreliable; the wider pattern does not need to be considered",
-      "Challenge caused the result because the two occurred together once",
-      "The observation supports the idea that a revised explanation should account for existing and new evidence, within the limits of the investigation"
+      "Claim the fourth location does not count",
+      "Reverse the conclusion for all locations",
+      "Add or test soil conditions as a possible limit on where the relationship applies"
     ],
     "correct": 2,
-    "explanation": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Add or test soil conditions as a possible limit on where the relationship applies\nHint: Look for a boundary condition.",
     "structuredExplanation": {
-      "summary": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Add or test soil conditions as a possible limit on where the relationship applies",
+      "hint": "Look for a boundary condition."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "timeline challenge",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare challenge with revised model. The evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare challenge with revised model. The evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which conclusion uses evidence appropriately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a science exhibition caption, students compare challenge with revised model. The evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a science exhibition caption, students compare challenge with revised model. The evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: Researchers discover archived data that were excluded from an influential analysis. What must happen before revising the conclusion?",
+    "audioPrompt": "During the science exhibition caption, students observe: Researchers discover archived data that were excluded from an influential analysis. What must happen before revising the conclusion?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Researchers discover archived data that were excluded from an influential analysis.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Researchers discover archived data that were excluded from an influential analysis.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-004",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a science exhibition caption, students compare challenge with revised model. The evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Researchers discover archived data that were excluded from an influential analysis."
     },
     "answers": [
-      "The model links challenge with revised model, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Reanalyse transparently with justified inclusion rules and report the effect",
+      "Include only archived values that support the old conclusion",
+      "Assume omitted data always reverse a finding"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Reanalyse transparently with justified inclusion rules and report the effect\nHint: Apply consistent rules and show the outcome.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Reanalyse transparently with justified inclusion rules and report the effect",
+      "hint": "Apply consistent rules and show the outcome."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "timeline revised model",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Require repeatable evidence”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Require repeatable evidence”. What is the strongest scientific response to this result?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a policy evidence hearing, the evidence states, “Require repeatable evidence”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a policy evidence hearing, the evidence states, “Require repeatable evidence”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: A simulation reproduces a storm path but not its intensity. What does this reveal?",
+    "audioPrompt": "During the policy evidence hearing, students observe: A simulation reproduces a storm path but not its intensity. What does this reveal?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A simulation reproduces a storm path but not its intensity.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A simulation reproduces a storm path but not its intensity.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-005",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a policy evidence hearing, the evidence states, “Require repeatable evidence”. What is the strongest scientific response to this result?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A simulation reproduces a storm path but not its intensity."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that new technologies and perspectives can reveal evidence unavailable earlier",
-      "Several conditions can change together and the result can still be attributed to revised model alone"
+      "A partly successful model is completely true",
+      "The model captures some processes but needs testing for missing intensity controls",
+      "The real storm intensity must be wrong"
     ],
     "correct": 1,
-    "explanation": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The model captures some processes but needs testing for missing intensity controls\nHint: State specifically what works and what does not.",
     "structuredExplanation": {
-      "summary": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The model captures some processes but needs testing for missing intensity controls",
+      "hint": "State specifically what works and what does not."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "timeline stronger explanation",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Evidence Changes Scientific Ideas reports that new technologies and perspectives can reveal evidence unavailable earlier. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Evidence Changes Scientific Ideas reports that new technologies and perspectives can reveal evidence unavailable earlier. Which revision would make the reasoning most reliable?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A controlled follow-up investigation for Evidence Changes Scientific Ideas reports that new technologies and perspectives can reveal evidence unavailable earlier. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A controlled follow-up investigation for Evidence Changes Scientific Ideas reports that new technologies and perspectives can reveal evidence unavailable earlier. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: A new sensor is more precise but reads consistently high against a standard. Can its data alone justify revision?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: A new sensor is more precise but reads consistently high against a standard. Can its data alone justify revision?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A new sensor is more precise but reads consistently high against a standard.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A new sensor is more precise but reads consistently high against a standard.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-006",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A controlled follow-up investigation for Evidence Changes Scientific Ideas reports that new technologies and perspectives can reveal evidence unavailable earlier. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A new sensor is more precise but reads consistently high against a standard."
     },
     "answers": [
-      "One surprising result automatically overturns a theory; the same outcome must therefore occur in every setting",
-      "A confident opinion about earlier explanation is stronger than measured or documented evidence",
-      "The evidence supports a revised explanation should account for existing and new evidence, but it does not prove that every case will be identical"
+      "Yes; more decimal places guarantee accuracy",
+      "No; new instruments can never improve evidence",
+      "No; precision does not remove calibration bias"
     ],
     "correct": 2,
-    "explanation": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "No; precision does not remove calibration bias\nHint: Separate repeatability from accuracy.",
     "structuredExplanation": {
-      "summary": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "No; precision does not remove calibration bias",
+      "hint": "Separate repeatability from accuracy."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "timeline earlier explanation",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Ocean-floor mapping”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Ocean-floor mapping”. Which interpretation is best supported?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a model limitations review, the evidence states, “Ocean-floor mapping”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a model limitations review, the evidence states, “Ocean-floor mapping”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: Peer reviewers find an alternative explanation for a reported pattern. How can criticism strengthen science?",
+    "audioPrompt": "During the model limitations review, students observe: Peer reviewers find an alternative explanation for a reported pattern. How can criticism strengthen science?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Peer reviewers find an alternative explanation for a reported pattern.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Peer reviewers find an alternative explanation for a reported pattern.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-007",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a model limitations review, the evidence states, “Ocean-floor mapping”. Which interpretation is best supported?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Peer reviewers find an alternative explanation for a reported pattern."
     },
     "answers": [
-      "Scientific knowledge is durable but open to revision; this interpretation can be checked against further evidence",
-      "Science changes because facts are unreliable; one matching observation makes this explanation certain",
-      "Earlier explanation is the only relevant feature, so no mechanism or consequence needs explaining"
+      "It prompts tests that distinguish explanations and exposes unsupported assumptions",
+      "It weakens science by preventing agreement",
+      "It proves the original researchers were dishonest"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It prompts tests that distinguish explanations and exposes unsupported assumptions\nHint: Use criticism to design a discriminating test.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It prompts tests that distinguish explanations and exposes unsupported assumptions",
+      "hint": "Use criticism to design a discriminating test."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "timeline new evidence",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Show that explanations are revised to account for a larger”. Which response applies the timeline model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Show that explanations are revised to account for a larger”. Which response applies the timeline model most accurately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During an ethics committee discussion, the evidence states, “Show that explanations are revised to account for a larger”. Which response applies the timeline model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During an ethics committee discussion, the evidence states, “Show that explanations are revised to account for a larger”. Which response applies the timeline model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: A medicine appears effective until a blinded comparison shows placebo and treatment groups improve equally. How should the efficacy claim change?",
+    "audioPrompt": "During the ethics committee discussion, students observe: A medicine appears effective until a blinded comparison shows placebo and treatment groups improve equally. How should the efficacy claim change?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A medicine appears effective until a blinded comparison shows placebo and treatment groups improve equally.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A medicine appears effective until a blinded comparison shows placebo and treatment groups improve equally.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-008",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During an ethics committee discussion, the evidence states, “Show that explanations are revised to account for a larger”. Which response applies the timeline model most accurately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A medicine appears effective until a blinded comparison shows placebo and treatment groups improve equally."
     },
     "answers": [
-      "One surprising result automatically overturns a theory; the wider pattern does not need to be considered",
-      "The observation supports the idea that new technologies and perspectives can reveal evidence unavailable earlier, within the limits of the investigation",
-      "Challenge caused the result because the two occurred together once"
+      "Patient reports are always false",
+      "The controlled evidence does not support an effect beyond placebo under these conditions",
+      "The medicine must cause every improvement in both groups"
     ],
     "correct": 1,
-    "explanation": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The controlled evidence does not support an effect beyond placebo under these conditions\nHint: Compare outcomes between controlled groups.",
     "structuredExplanation": {
-      "summary": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The controlled evidence does not support an effect beyond placebo under these conditions",
+      "hint": "Compare outcomes between controlled groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "timeline challenge",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare challenge with revised model. The evidence states, “Scientific knowledge is durable but open to revision”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare challenge with revised model. The evidence states, “Scientific knowledge is durable but open to revision”. Which conclusion uses evidence appropriately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a coastal field station report, students compare challenge with revised model. The evidence states, “Scientific knowledge is durable but open to revision”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a coastal field station report, students compare challenge with revised model. The evidence states, “Scientific knowledge is durable but open to revision”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: A fossil reconstruction gains a new bone that changes the estimated posture. Which revision is proportionate?",
+    "audioPrompt": "During the coastal field station report, students observe: A fossil reconstruction gains a new bone that changes the estimated posture. Which revision is proportionate?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A fossil reconstruction gains a new bone that changes the estimated posture.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A fossil reconstruction gains a new bone that changes the estimated posture.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-009",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a coastal field station report, students compare challenge with revised model. The evidence states, “Scientific knowledge is durable but open to revision”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A fossil reconstruction gains a new bone that changes the estimated posture."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links challenge with revised model, so it can explain the relationship while still having limits"
+      "Discard all knowledge about the organism",
+      "Force the new bone into the old posture",
+      "Update the posture model while retaining features still supported by other bones"
     ],
     "correct": 2,
-    "explanation": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Update the posture model while retaining features still supported by other bones\nHint: Revise only conclusions affected by the evidence.",
     "structuredExplanation": {
-      "summary": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Update the posture model while retaining features still supported by other bones",
+      "hint": "Revise only conclusions affected by the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "timeline revised model",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. What is the strongest scientific response to this result?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a renewable-energy trial, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a renewable-energy trial, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: Historical navigation records extend cyclone observations before modern satellites. How can older evidence contribute?",
+    "audioPrompt": "During the renewable-energy trial, students observe: Historical navigation records extend cyclone observations before modern satellites. How can older evidence contribute?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Historical navigation records extend cyclone observations before modern satellites.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Historical navigation records extend cyclone observations before modern satellites.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-010",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a renewable-energy trial, the evidence states, “Continental drift proposed moving continents but lacked a convincing mechanism”. What is the strongest scientific response to this result?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Historical navigation records extend cyclone observations before modern satellites."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that scientific knowledge is durable but open to revision",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to revised model alone"
+      "When critically checked, it can extend the time series and reveal rare patterns",
+      "Non-digital records contain no scientific information",
+      "Every historical description has modern measurement precision"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "When critically checked, it can extend the time series and reveal rare patterns\nHint: Use the records while noting their limitations.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "When critically checked, it can extend the time series and reveal rare patterns",
+      "hint": "Use the records while noting their limitations."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "timeline stronger explanation",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Evidence Changes Scientific Ideas reports that a revised explanation should account for existing and new evidence. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Evidence Changes Scientific Ideas reports that a revised explanation should account for existing and new evidence. Which revision would make the reasoning most reliable?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A hospital innovation briefing for Evidence Changes Scientific Ideas reports that a revised explanation should account for existing and new evidence. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A hospital innovation briefing for Evidence Changes Scientific Ideas reports that a revised explanation should account for existing and new evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: A chemical model predicts a product that spectroscopy does not detect. What test would most directly challenge the model?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: A chemical model predicts a product that spectroscopy does not detect. What test would most directly challenge the model?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A chemical model predicts a product that spectroscopy does not detect.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A chemical model predicts a product that spectroscopy does not detect.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-011",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A hospital innovation briefing for Evidence Changes Scientific Ideas reports that a revised explanation should account for existing and new evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A chemical model predicts a product that spectroscopy does not detect."
     },
     "answers": [
-      "Science changes because facts are unreliable; the same outcome must therefore occur in every setting",
-      "The evidence supports new technologies and perspectives can reveal evidence unavailable earlier, but it does not prove that every case will be identical",
-      "A confident opinion about earlier explanation is stronger than measured or documented evidence"
+      "Ask students which model sounds more convincing",
+      "Repeat with validated spectroscopy and quantify the predicted product's detection limit",
+      "Change the product name without changing the model"
     ],
     "correct": 1,
-    "explanation": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Repeat with validated spectroscopy and quantify the predicted product's detection limit\nHint: Test the missing prediction with a suitable method.",
     "structuredExplanation": {
-      "summary": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Repeat with validated spectroscopy and quantify the predicted product's detection limit",
+      "hint": "Test the missing prediction with a suitable method."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "timeline earlier explanation",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which interpretation is best supported?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a geological survey update, the evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a geological survey update, the evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: Two teams obtain conflicting results using different temperatures. What is the most useful next investigation?",
+    "audioPrompt": "During the geological survey update, students observe: Two teams obtain conflicting results using different temperatures. What is the most useful next investigation?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Two teams obtain conflicting results using different temperatures.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Two teams obtain conflicting results using different temperatures.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-012",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is earlier explanation. Question context: In a geological survey update, the evidence states, “Plate tectonics explained both movement and the global pattern more successfully”. Which interpretation is best supported?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Two teams obtain conflicting results using different temperatures."
     },
     "answers": [
-      "One surprising result automatically overturns a theory; one matching observation makes this explanation certain",
-      "Earlier explanation is the only relevant feature, so no mechanism or consequence needs explaining",
-      "A revised explanation should account for existing and new evidence; this interpretation can be checked against further evidence"
+      "Average the conclusions without examining methods",
+      "Accept the result published first",
+      "Repeat across controlled temperatures to test whether temperature explains the conflict"
     ],
     "correct": 2,
-    "explanation": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Repeat across controlled temperatures to test whether temperature explains the conflict\nHint: Find the methodological difference that can be tested.",
     "structuredExplanation": {
-      "summary": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about earlier explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Repeat across controlled temperatures to test whether temperature explains the conflict",
+      "hint": "Find the methodological difference that can be tested."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "timeline new evidence",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Require repeatable evidence”. Which response applies the timeline model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Require repeatable evidence”. Which response applies the timeline model most accurately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a materials-testing laboratory, the evidence states, “Require repeatable evidence”. Which response applies the timeline model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a materials-testing laboratory, the evidence states, “Require repeatable evidence”. Which response applies the timeline model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: A revised model is more complex but predicts no new observations. Why is complexity alone insufficient?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: A revised model is more complex but predicts no new observations. Why is complexity alone insufficient?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A revised model is more complex but predicts no new observations.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A revised model is more complex but predicts no new observations.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-013",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is new evidence. Question context: During a materials-testing laboratory, the evidence states, “Require repeatable evidence”. Which response applies the timeline model most accurately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A revised model is more complex but predicts no new observations."
     },
     "answers": [
-      "The observation supports the idea that scientific knowledge is durable but open to revision, within the limits of the investigation",
-      "Science changes because facts are unreliable; the wider pattern does not need to be considered",
-      "Challenge caused the result because the two occurred together once"
+      "A revision should improve explanation or testable prediction, not merely add detail",
+      "Complex models are always less scientific",
+      "More variables guarantee greater accuracy"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A revision should improve explanation or testable prediction, not merely add detail\nHint: Ask what evidential performance improves.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about new evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A revision should improve explanation or testable prediction, not merely add detail",
+      "hint": "Ask what evidential performance improves."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "timeline challenge",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare challenge with revised model. The evidence states, “New technologies and perspectives can reveal evidence unavailable earlier”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare challenge with revised model. The evidence states, “New technologies and perspectives can reveal evidence unavailable earlier”. Which conclusion uses evidence appropriately?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a documentary planning session, students compare challenge with revised model. The evidence states, “New technologies and perspectives can reveal evidence unavailable earlier”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a documentary planning session, students compare challenge with revised model. The evidence states, “New technologies and perspectives can reveal evidence unavailable earlier”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: Community observers report an animal breeding earlier for many years, and records confirm the dates. How can this alter knowledge?",
+    "audioPrompt": "During the documentary planning session, students observe: Community observers report an animal breeding earlier for many years, and records confirm the dates. How can this alter knowledge?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: Community observers report an animal breeding earlier for many years, and records confirm the dates.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: Community observers report an animal breeding earlier for many years, and records confirm the dates.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-014",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is challenge. Question context: In a documentary planning session, students compare challenge with revised model. The evidence states, “New technologies and perspectives can reveal evidence unavailable earlier”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: Community observers report an animal breeding earlier for many years, and records confirm the dates."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links challenge with revised model, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Local observations cannot count as evidence",
+      "Long-term observations can reveal a phenological trend for further causal testing",
+      "The records prove one cause without comparison"
     ],
     "correct": 1,
-    "explanation": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Long-term observations can reveal a phenological trend for further causal testing\nHint: Recognise the trend without overclaiming its cause.",
     "structuredExplanation": {
-      "summary": "New technologies and perspectives can reveal evidence unavailable earlier. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about challenge, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Long-term observations can reveal a phenological trend for further causal testing",
+      "hint": "Recognise the trend without overclaiming its cause."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "timeline revised model",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Ocean-floor mapping”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Ocean-floor mapping”. What is the strongest scientific response to this result?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a national data-set review, the evidence states, “Ocean-floor mapping”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a national data-set review, the evidence states, “Ocean-floor mapping”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: A correction to a dataset slightly changes an estimate but not its uncertainty range. How should the conclusion be reported?",
+    "audioPrompt": "During the national data-set review, students observe: A correction to a dataset slightly changes an estimate but not its uncertainty range. How should the conclusion be reported?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A correction to a dataset slightly changes an estimate but not its uncertainty range.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A correction to a dataset slightly changes an estimate but not its uncertainty range.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-015",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is revised model. Question context: During a national data-set review, the evidence states, “Ocean-floor mapping”. What is the strongest scientific response to this result?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A correction to a dataset slightly changes an estimate but not its uncertainty range."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to revised model alone",
-      "Repeated evidence can support the conclusion that a revised explanation should account for existing and new evidence"
+      "Hide the correction because the conclusion is similar",
+      "Claim the correction overturns the entire field",
+      "Update the estimate and note that the overall interpretation remains supported"
     ],
     "correct": 2,
-    "explanation": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Update the estimate and note that the overall interpretation remains supported\nHint: Compare the corrected result with uncertainty.",
     "structuredExplanation": {
-      "summary": "A revised explanation should account for existing and new evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about revised model, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Update the estimate and note that the overall interpretation remains supported",
+      "hint": "Compare the corrected result with uncertainty."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "timeline stronger explanation",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Evidence Changes Scientific Ideas reports that show that explanations are revised to account for a larger. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Evidence Changes Scientific Ideas reports that show that explanations are revised to account for a larger. Which revision would make the reasoning most reliable?",
-    "visual": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A final evidence conference for Evidence Changes Scientific Ideas reports that show that explanations are revised to account for a larger. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A final evidence conference for Evidence Changes Scientific Ideas reports that show that explanations are revised to account for a larger. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: A theory explains many observations but has an unresolved anomaly. Which description is accurate?",
+    "audioPrompt": "During the final evidence conference, students observe: A theory explains many observations but has an unresolved anomaly. Which description is accurate?",
+    "visual": "Evidence Changes Scientific Ideas observation card stating: A theory explains many observations but has an unresolved anomaly.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evidence Changes Scientific Ideas observation card stating: A theory explains many observations but has an unresolved anomaly.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h01.svg#ac9s8h01-t-016",
-      "alt_text": "Evidence Changes Scientific Ideas evidence model linking earlier explanation, new evidence, challenge, revised model, stronger explanation. The highlighted stage is stronger explanation. Question context: A final evidence conference for Evidence Changes Scientific Ideas reports that show that explanations are revised to account for a larger. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evidence Changes Scientific Ideas observation card stating: A theory explains many observations but has an unresolved anomaly."
     },
     "answers": [
-      "The evidence supports scientific knowledge is durable but open to revision, but it does not prove that every case will be identical",
-      "One surprising result automatically overturns a theory; the same outcome must therefore occur in every setting",
-      "A confident opinion about earlier explanation is stronger than measured or documented evidence"
+      "The theory remains useful while the anomaly motivates further tests",
+      "One anomaly makes every supported prediction false",
+      "Useful theories cannot have unanswered questions"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The theory remains useful while the anomaly motivates further tests\nHint: Weigh the full evidence and the specific limit.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge is durable but open to revision. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stronger explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The theory remains useful while the anomaly motivates further tests",
+      "hint": "Weigh the full evidence and the specific limit."
     },
     "qualitySchema": "production-v1"
   }

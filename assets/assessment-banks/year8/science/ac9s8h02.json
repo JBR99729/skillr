@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_world_view",
-    "question": "In a class investigation, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns. What is the strongest reason to include practitioners in fire research?",
+    "audio_prompt": "During a class investigation, students observe: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns. What is the strongest reason to include practitioners in fire research?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-001",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a class investigation, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns."
     },
     "answers": [
       {
-        "text": "World views influence priorities, methods, interpretation and recognition; this interpretation can be checked against further evidence",
+        "text": "Their place-based knowledge can shape useful questions, methods and interpretation",
         "is_correct": true
       },
       {
-        "text": "Culture only obstructs science; one matching observation makes this explanation certain",
+        "text": "Cultural knowledge should be used only after scientists finish the research",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "One fire practice can be copied unchanged to every ecosystem",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Respectful collaboration can connect long-term place-based knowledge with scientific investigation.",
+      "hint": "Consider who holds relevant knowledge of that Country."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_question_and_priority",
-    "question": "During a museum evidence display, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?",
+    "question": "During a museum evidence display, students observe: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted. What should the researchers do?",
+    "audio_prompt": "During a museum evidence display, students observe: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted. What should the researchers do?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-002",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a museum evidence display, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; the wider pattern does not need to be considered",
+        "text": "Publish it because all information collected by researchers is public",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that collaboration across perspectives can develop knowledge, within the limits of the investigation",
+        "text": "Follow permissions and cultural protocols, including limits on recording or sharing",
         "is_correct": true
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Remove the Traditional Owners' names and publish it without asking",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Ethical collaboration respects Indigenous Cultural and Intellectual Property and community authority.",
+      "hint": "Consent covers how knowledge is used, not only how it is collected."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_knowledge_practice",
-    "question": "In a field-team briefing, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region. How can cultural experience contribute to the investigation?",
+    "audio_prompt": "During a field-team briefing, students observe: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region. How can cultural experience contribute to the investigation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-003",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In a field-team briefing, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Traditional designs need no testing because age proves every claim",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Engineering tests make the cultural source irrelevant",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "Long-term building practice can identify designs worth testing and explain local constraints",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Established practice can guide scientific questions while testing examines mechanisms and limits.",
+      "hint": "Value both the knowledge source and the evidence from testing."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_collaboration",
-    "question": "During a laboratory notebook, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: A medical study recruits only adults from one city, although the treatment will be used nationally. How could researchers' assumptions affect the knowledge produced?",
+    "audio_prompt": "During a laboratory notebook, students observe: A medical study recruits only adults from one city, although the treatment will be used nationally. How could researchers' assumptions affect the knowledge produced?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-004",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a laboratory notebook, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A medical study recruits only adults from one city, although the treatment will be used nationally."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that world views influence priorities, methods, interpretation and recognition",
+        "text": "The narrow sample may overlook responses in groups not represented",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "A city sample automatically represents every population",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Including more perspectives would make measurement impossible",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Who is included in research affects how confidently findings apply to different people.",
+      "hint": "Compare the sample with the population affected."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_recognition_and_bias",
-    "question": "A community science meeting for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: Two communities rank water research priorities differently: one prioritises farm yield and the other river health. What does this show about science priorities?",
+    "audio_prompt": "During a community science meeting, students observe: Two communities rank water research priorities differently: one prioritises farm yield and the other river health. What does this show about science priorities?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-005",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A community science meeting for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Two communities rank water research priorities differently: one prioritises farm yield and the other river health."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; the same outcome must therefore occur in every setting",
+        "text": "Only one community can understand water scientifically",
         "is_correct": false
       },
       {
-        "text": "The evidence supports collaboration across perspectives can develop knowledge, but it does not prove that every case will be identical",
+        "text": "Values and lived needs can influence which scientific questions receive attention",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Evidence is unnecessary whenever communities hold different values",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "World views can shape research priorities while evidence remains necessary to answer questions.",
+      "hint": "Distinguish choosing a question from testing an answer."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_world_view",
-    "question": "In a digital model review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search. Which revision is most appropriate?",
+    "audio_prompt": "During a digital model review, students observe: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search. Which revision is most appropriate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-006",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a digital model review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; one matching observation makes this explanation certain",
+        "text": "Credit only the laboratory because written data is the only knowledge",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Remove all scientific testing so the accounts cannot disagree",
         "is_correct": false
       },
       {
-        "text": "Cultural knowledge requires accurate attribution and appropriate protocols; this interpretation can be checked against further evidence",
+        "text": "Acknowledge the knowledge holders and explain both their contribution and the laboratory tests",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Accurate accounts recognise distinct contributions and do not erase the cultural source.",
+      "hint": "Ask whose knowledge made the investigation possible."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_question_and_priority",
-    "question": "During a student research poster, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?",
+    "question": "During a student research poster, students observe: A research team consults community representatives only after its data collection is complete. How could the collaboration be improved?",
+    "audio_prompt": "During a student research poster, students observe: A research team consults community representatives only after its data collection is complete. How could the collaboration be improved?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-007",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a student research poster, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A research team consults community representatives only after its data collection is complete."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that world views influence priorities, methods, interpretation and recognition, within the limits of the investigation",
+        "text": "Involve appropriate knowledge holders early in setting questions, methods and permissions",
         "is_correct": true
       },
       {
-        "text": "Culture only obstructs science; the wider pattern does not need to be considered",
+        "text": "Ask the community only to promote the final conclusions",
         "is_correct": false
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Avoid community input because it may change the research question",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Early, continuing participation supports relevant questions, ethical methods and shared interpretation.",
+      "hint": "Meaningful collaboration begins before conclusions are written."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_knowledge_practice",
-    "question": "In an engineering design check, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements. How should the two knowledge sources be used?",
+    "audio_prompt": "During an engineering design check, students observe: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements. How should the two knowledge sources be used?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-008",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In an engineering design check, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Assume instrument data always makes long-term local observation worthless",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "Compare their scales and methods, looking for agreement, differences and complementary evidence",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Treat every claim as equally supported without examining how it was obtained",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Knowledge practices can complement each other when their evidence, scale and limitations are examined.",
+      "hint": "Compare rather than automatically ranking or equating."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_collaboration",
-    "question": "During a data-team discussion, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A facial-recognition system performs less accurately for groups underrepresented in its training data. How did human decisions shape this technical result?",
+    "audio_prompt": "During a data-team discussion, students observe: A facial-recognition system performs less accurately for groups underrepresented in its training data. How did human decisions shape this technical result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-009",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a data-team discussion, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A facial-recognition system performs less accurately for groups underrepresented in its training data."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Computer systems cannot reflect human assumptions",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "The underrepresented groups must have used the system incorrectly",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that cultural knowledge requires accurate attribution and appropriate protocols",
+        "text": "Choices about whose data to collect created bias in the system's performance",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Decisions about data and design can embed social assumptions in scientific technologies.",
+      "hint": "Trace the error pattern back to the training sample."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_recognition_and_bias",
-    "question": "A school science report for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: Researchers translate one cultural category into a scientific database but the translation loses important distinctions. What is the best response?",
+    "audio_prompt": "During a school science report, students observe: Researchers translate one cultural category into a scientific database but the translation loses important distinctions. What is the best response?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-010",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A school science report for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers translate one cultural category into a scientific database but the translation loses important distinctions."
     },
     "answers": [
       {
-        "text": "The evidence supports world views influence priorities, methods, interpretation and recognition, but it does not prove that every case will be identical",
+        "text": "Work with knowledge holders to preserve meaning and record the limits of the translation",
         "is_correct": true
       },
       {
-        "text": "All cultural knowledge can be freely shared; the same outcome must therefore occur in every setting",
+        "text": "Force every category into the database without noting changes",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Claim the cultural categories are wrong because they do not match the database",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Cross-knowledge collaboration requires careful translation, attribution and acknowledgement of limits.",
+      "hint": "A shared label should not erase the original meaning."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_world_view",
-    "question": "In a council evidence summary, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: Island fishers track currents through cloud, bird and swell patterns. How can collaboration improve an ocean study?",
+    "audio_prompt": "During a council evidence summary, students observe: Island fishers track currents through cloud, bird and swell patterns. How can collaboration improve an ocean study?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-011",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a council evidence summary, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Island fishers track currents through cloud, bird and swell patterns."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; one matching observation makes this explanation certain",
+        "text": "Replace the knowledge with a single buoy reading",
         "is_correct": false
       },
       {
-        "text": "Collaboration across perspectives can develop knowledge; this interpretation can be checked against further evidence",
+        "text": "Use holders' guidance with permission to choose sites and interpret linked indicators",
         "is_correct": true
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Publish protected routes without consent",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Use holders' guidance with permission to choose sites and interpret linked indicators",
+      "hint": "Consider expertise, permission and scale."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_question_and_priority",
-    "question": "During a peer-review conversation, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?",
+    "question": "During a peer-review conversation, students observe: A plant survey uses only common English names and merges several locally distinct species. What could be lost?",
+    "audio_prompt": "During a peer-review conversation, students observe: A plant survey uses only common English names and merges several locally distinct species. What could be lost?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-012",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a peer-review conversation, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A plant survey uses only common English names and merges several locally distinct species."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; the wider pattern does not need to be considered",
+        "text": "Scientific names become illegal",
         "is_correct": false
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Every local name must describe the same species",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that cultural knowledge requires accurate attribution and appropriate protocols, within the limits of the investigation",
+        "text": "Ecological distinctions encoded in local classification",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Ecological distinctions encoded in local classification",
+      "hint": "Ask what information the categories preserve."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_knowledge_practice",
-    "question": "In an environmental monitoring project, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: A research grant prioritises profitable crops over staple foods important to remote communities. What shaped the research agenda?",
+    "audio_prompt": "During an environmental monitoring project, students observe: A research grant prioritises profitable crops over staple foods important to remote communities. What shaped the research agenda?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-013",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In an environmental monitoring project, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A research grant prioritises profitable crops over staple foods important to remote communities."
     },
     "answers": [
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "Economic and institutional values influenced which problem received resources",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Evidence proved staple foods cannot be studied",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Scientists have no role in selecting questions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Economic and institutional values influenced which problem received resources",
+      "hint": "Separate priority-setting from evidence testing."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_collaboration",
-    "question": "During a medical research case, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: Women were excluded from early drug trials. What limitation can follow?",
+    "audio_prompt": "During a medical research case, students observe: Women were excluded from early drug trials. What limitation can follow?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-014",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a medical research case, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Women were excluded from early drug trials."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Male results always predict female results exactly",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that collaboration across perspectives can develop knowledge",
+        "text": "Dose and side-effect knowledge may not apply reliably to women",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Including women would remove all variation",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Dose and side-effect knowledge may not apply reliably to women",
+      "hint": "Compare participants with intended users."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_recognition_and_bias",
-    "question": "A science-news fact check for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: A citizen-science app requires expensive phones. How might its design shape knowledge?",
+    "audio_prompt": "During a science-news fact check, students observe: A citizen-science app requires expensive phones. How might its design shape knowledge?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-015",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A science-news fact check for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A citizen-science app requires expensive phones."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; the same outcome must therefore occur in every setting",
+        "text": "Phone cost changes the species being observed",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Digital data cannot be biased",
         "is_correct": false
       },
       {
-        "text": "The evidence supports cultural knowledge requires accurate attribution and appropriate protocols, but it does not prove that every case will be identical",
+        "text": "Observations may overrepresent people and places with device access",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Observations may overrepresent people and places with device access",
+      "hint": "Identify who is able to contribute."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_world_view",
-    "question": "In a classroom model test, the evidence states, “World views influence priorities”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “World views influence priorities”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons. What can researchers learn?",
+    "audio_prompt": "During a classroom model test, students observe: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons. What can researchers learn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-016",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a classroom model test, the evidence states, “World views influence priorities”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons."
     },
     "answers": [
       {
-        "text": "World views influence priorities, methods, interpretation and recognition; this interpretation can be checked against further evidence",
+        "text": "Locally observed indicators may better guide timing for that Country",
         "is_correct": true
       },
       {
-        "text": "All cultural knowledge can be freely shared; one matching observation makes this explanation certain",
+        "text": "One calendar must be universally correct",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Cultural calendars do not involve systematic observation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Locally observed indicators may better guide timing for that Country",
+      "hint": "Relate categories to place-based evidence."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_question_and_priority",
-    "question": "During a regional planning workshop, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which response applies the perspective model most accurately?",
+    "question": "During a regional planning workshop, students observe: Traditional Owners request co-authorship after guiding sampling and interpretation. What response recognises contribution?",
+    "audio_prompt": "During a regional planning workshop, students observe: Traditional Owners request co-authorship after guiding sampling and interpretation. What response recognises contribution?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-017",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a regional planning workshop, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Traditional Owners request co-authorship after guiding sampling and interpretation."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; the wider pattern does not need to be considered",
+        "text": "List them only as study subjects",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that collaboration across perspectives can develop knowledge, within the limits of the investigation",
+        "text": "Agree authorship roles and attribution through transparent collaboration",
         "is_correct": true
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Remove their interpretation from the report",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Agree authorship roles and attribution through transparent collaboration",
+      "hint": "Match credit to intellectual contribution."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_knowledge_practice",
-    "question": "In an equipment selection task, students compare knowledge practice with collaboration. The evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare knowledge practice with collaboration. The evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: A conservation plan separates people from a landscape managed culturally for generations. Which assumption should be examined?",
+    "audio_prompt": "During an equipment selection task, students observe: A conservation plan separates people from a landscape managed culturally for generations. Which assumption should be examined?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-018",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In an equipment selection task, students compare knowledge practice with collaboration. The evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A conservation plan separates people from a landscape managed culturally for generations."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "That management practices can never affect ecosystems",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "That conservation requires no evidence",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "That ecological health always requires excluding human stewardship",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "That ecological health always requires excluding human stewardship",
+      "hint": "Question the human-nature separation in the plan."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_collaboration",
-    "question": "During a public information draft, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: Researchers record oral knowledge but judge it unreliable only because it is not written. What bias is present?",
+    "audio_prompt": "During a public information draft, students observe: Researchers record oral knowledge but judge it unreliable only because it is not written. What bias is present?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-019",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a public information draft, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers record oral knowledge but judge it unreliable only because it is not written."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that world views influence priorities, methods, interpretation and recognition",
+        "text": "They privilege one form of recording without evaluating the knowledge's methods and evidence",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Oral transmission guarantees perfect accuracy",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Written sources never require checking",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "They privilege one form of recording without evaluating the knowledge's methods and evidence",
+      "hint": "Evaluate reliability, not format alone."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_recognition_and_bias",
-    "question": "An independent replication study for World Views Shape Scientific Knowledge reports that apply attribution. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for World Views Shape Scientific Knowledge reports that apply attribution. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: A disease definition is based on symptoms common in one population. How may world view affect diagnosis elsewhere?",
+    "audio_prompt": "During an independent replication study, students observe: A disease definition is based on symptoms common in one population. How may world view affect diagnosis elsewhere?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-020",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: An independent replication study for World Views Shape Scientific Knowledge reports that apply attribution. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A disease definition is based on symptoms common in one population."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; the same outcome must therefore occur in every setting",
+        "text": "Disease biology changes whenever language changes",
         "is_correct": false
       },
       {
-        "text": "The evidence supports collaboration across perspectives can develop knowledge, but it does not prove that every case will be identical",
+        "text": "The chosen norm may miss different symptom patterns or expressions",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Definitions cannot influence medical practice",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The chosen norm may miss different symptom patterns or expressions",
+      "hint": "Check who established the diagnostic norm."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_world_view",
-    "question": "In a risk-assessment meeting, the evidence states, “Collaboration across perspectives can develop knowledge”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Collaboration across perspectives can develop knowledge”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: A community measures river health using culturally important species while an agency uses nutrient levels. What is a productive approach?",
+    "audio_prompt": "During a risk-assessment meeting, students observe: A community measures river health using culturally important species while an agency uses nutrient levels. What is a productive approach?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-021",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a risk-assessment meeting, the evidence states, “Collaboration across perspectives can develop knowledge”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A community measures river health using culturally important species while an agency uses nutrient levels."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; one matching observation makes this explanation certain",
+        "text": "Discard species observations because only chemicals matter",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Combine numbers without explaining what either indicates",
         "is_correct": false
       },
       {
-        "text": "Cultural knowledge requires accurate attribution and appropriate protocols; this interpretation can be checked against further evidence",
+        "text": "Investigate relationships between both indicator sets and their purposes",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Investigate relationships between both indicator sets and their purposes",
+      "hint": "Compare what each measure reveals."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_question_and_priority",
-    "question": "During a graph interpretation task, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which response applies the perspective model most accurately?",
+    "question": "During a graph interpretation task, students observe: A drone survey is proposed over a sacred site. What must scientific planning include?",
+    "audio_prompt": "During a graph interpretation task, students observe: A drone survey is proposed over a sacred site. What must scientific planning include?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-022",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a graph interpretation task, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A drone survey is proposed over a sacred site."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that world views influence priorities, methods, interpretation and recognition, within the limits of the investigation",
+        "text": "Traditional Owner permission, cultural restrictions and alternative methods",
         "is_correct": true
       },
       {
-        "text": "All cultural knowledge can be freely shared; the wider pattern does not need to be considered",
+        "text": "Only aviation approval",
         "is_correct": false
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Assurance that images will be public",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Traditional Owner permission, cultural restrictions and alternative methods",
+      "hint": "Technical capability does not replace cultural authority."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_knowledge_practice",
-    "question": "In a claim-evidence-reasoning response, students compare knowledge practice with collaboration. The evidence states, “Identify both constraints and productive knowledge contributions”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare knowledge practice with collaboration. The evidence states, “Identify both constraints and productive knowledge contributions”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: A language has precise terms for stages of sea-ice formation. How can these terms contribute scientifically?",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A language has precise terms for stages of sea-ice formation. How can these terms contribute scientifically?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-023",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In a claim-evidence-reasoning response, students compare knowledge practice with collaboration. The evidence states, “Identify both constraints and productive knowledge contributions”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A language has precise terms for stages of sea-ice formation."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Translation must collapse all stages into 'ice'",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "They can identify observable distinctions useful for monitoring change",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Vocabulary creates sea ice conditions",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "They can identify observable distinctions useful for monitoring change",
+      "hint": "Treat fine categories as testable observational knowledge."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "practice",
     "skill": "perspective_collaboration",
-    "question": "During a scientific-method audit, the evidence states, “World views influence priorities”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “World views influence priorities”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: An algorithm labels emotional expression using one culture's facial norms. What risk follows?",
+    "audio_prompt": "During a scientific-method audit, students observe: An algorithm labels emotional expression using one culture's facial norms. What risk follows?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-024",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a scientific-method audit, the evidence states, “World views influence priorities”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: An algorithm labels emotional expression using one culture's facial norms."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Algorithms become culturally neutral after coding",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Faces have no measurable features",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that cultural knowledge requires accurate attribution and appropriate protocols",
+        "text": "It may misclassify people whose expressions follow different conventions",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It may misclassify people whose expressions follow different conventions",
+      "hint": "Examine whose norms define the labels."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_recognition_and_bias",
-    "question": "A new research proposal for World Views Shape Scientific Knowledge reports that world views influence priorities. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for World Views Shape Scientific Knowledge reports that world views influence priorities. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: A flood model excludes informal settlements because official maps omit them. How does institutional data shape the result?",
+    "audio_prompt": "During the new research proposal, students observe: A flood model excludes informal settlements because official maps omit them. How does institutional data shape the result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-001",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A new research proposal for World Views Shape Scientific Knowledge reports that world views influence priorities. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A flood model excludes informal settlements because official maps omit them."
     },
     "answers": [
       {
-        "text": "The evidence supports world views influence priorities, methods, interpretation and recognition, but it does not prove that every case will be identical",
+        "text": "Risk to unrecorded communities becomes invisible in predictions",
         "is_correct": true
       },
       {
-        "text": "Culture only obstructs science; the same outcome must therefore occur in every setting",
+        "text": "Unmapped homes cannot flood",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Adding settlements would change rainfall",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Risk to unrecorded communities becomes invisible in predictions",
+      "hint": "Look for absences created before modelling."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_world_view",
-    "question": "In a cross-school data comparison, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects. What would shared priority-setting involve?",
+    "audio_prompt": "During the cross-school data comparison, students observe: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects. What would shared priority-setting involve?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-002",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a cross-school data comparison, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; one matching observation makes this explanation certain",
+        "text": "Scientists choose because communities cannot value evidence",
         "is_correct": false
       },
       {
-        "text": "Collaboration across perspectives can develop knowledge; this interpretation can be checked against further evidence",
+        "text": "Negotiate questions that respect community needs and scientific goals",
         "is_correct": true
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Study only the easiest topic",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Negotiate questions that respect community needs and scientific goals",
+      "hint": "Meaningful partnership shares decisions."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_question_and_priority",
-    "question": "During a technology evaluation panel, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?",
+    "question": "During the technology evaluation panel, students observe: Researchers patent a product derived from shared medicinal knowledge. Which ethical issue is central?",
+    "audio_prompt": "During the technology evaluation panel, students observe: Researchers patent a product derived from shared medicinal knowledge. Which ethical issue is central?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-003",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a technology evaluation panel, the evidence states, “Cultural knowledge requires accurate attribution and appropriate protocols”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers patent a product derived from shared medicinal knowledge."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; the wider pattern does not need to be considered",
+        "text": "Whether the patent document uses enough diagrams",
         "is_correct": false
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Whether laboratory equipment was expensive",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that cultural knowledge requires accurate attribution and appropriate protocols, within the limits of the investigation",
+        "text": "Consent, attribution and fair benefit-sharing with knowledge holders",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Consent, attribution and fair benefit-sharing with knowledge holders",
+      "hint": "Trace ownership and benefits."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_knowledge_practice",
-    "question": "In a science exhibition caption, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: A textbook depicts scientific progress only through European men. How can this framing affect knowledge?",
+    "audio_prompt": "During the science exhibition caption, students observe: A textbook depicts scientific progress only through European men. How can this framing affect knowledge?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-004",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In a science exhibition caption, students compare knowledge practice with collaboration. The evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A textbook depicts scientific progress only through European men."
     },
     "answers": [
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "It erases contributors and narrows students' view of who produces science",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "It makes the described experiments invalid",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Adding contributors changes experimental results",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It erases contributors and narrows students' view of who produces science",
+      "hint": "Distinguish historical framing from result validity."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_collaboration",
-    "question": "During a policy evidence hearing, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: Pastoral observations and satellite images disagree about pasture condition. What should the team do?",
+    "audio_prompt": "During the policy evidence hearing, students observe: Pastoral observations and satellite images disagree about pasture condition. What should the team do?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-005",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a policy evidence hearing, the evidence states, “Apply attribution”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Pastoral observations and satellite images disagree about pasture condition."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Assume the satellite is correct at every scale",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that collaboration across perspectives can develop knowledge",
+        "text": "Compare timing, scale and definitions, then investigate the mismatch together",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Average an image with an opinion numerically",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Compare timing, scale and definitions, then investigate the mismatch together",
+      "hint": "Check whether sources measure the same thing."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_recognition_and_bias",
-    "question": "A controlled follow-up investigation for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: A hearing invites technical experts but no residents exposed to pollution. What evidence may be missed?",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A hearing invites technical experts but no residents exposed to pollution. What evidence may be missed?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-006",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A controlled follow-up investigation for World Views Shape Scientific Knowledge reports that collaboration across perspectives can develop knowledge. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A hearing invites technical experts but no residents exposed to pollution."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; the same outcome must therefore occur in every setting",
+        "text": "Residents automatically know chemical concentrations exactly",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Experts cannot measure pollution",
         "is_correct": false
       },
       {
-        "text": "The evidence supports cultural knowledge requires accurate attribution and appropriate protocols, but it does not prove that every case will be identical",
+        "text": "Place-specific exposure patterns and lived impacts that can guide measurement",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Place-specific exposure patterns and lived impacts that can guide measurement",
+      "hint": "Include relevant experiential and technical evidence."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_world_view",
-    "question": "In a model limitations review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family. Why does the definition matter?",
+    "audio_prompt": "During the model limitations review, students observe: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family. Why does the definition matter?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-007",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a model limitations review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family."
     },
     "answers": [
       {
-        "text": "World views influence priorities, methods, interpretation and recognition; this interpretation can be checked against further evidence",
+        "text": "It changes which outcomes the study measures and values",
         "is_correct": true
       },
       {
-        "text": "Culture only obstructs science; one matching observation makes this explanation certain",
+        "text": "Definitions cannot affect data collection",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Only laboratory definitions are testable",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It changes which outcomes the study measures and values",
+      "hint": "Trace the concept into chosen measures."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_question_and_priority",
-    "question": "During an ethics committee discussion, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?",
+    "question": "During the ethics committee discussion, students observe: A seed project stores samples without agreements about future use. What should be established?",
+    "audio_prompt": "During the ethics committee discussion, students observe: A seed project stores samples without agreements about future use. What should be established?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-008",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During an ethics committee discussion, the evidence states, “Identify both constraints and productive knowledge contributions”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A seed project stores samples without agreements about future use."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; the wider pattern does not need to be considered",
+        "text": "Ownership transfers automatically to the freezer operator",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that collaboration across perspectives can develop knowledge, within the limits of the investigation",
+        "text": "Ongoing consent, governance, access and benefit-sharing conditions",
         "is_correct": true
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "Future uses need no review",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Ongoing consent, governance, access and benefit-sharing conditions",
+      "hint": "Plan governance beyond initial collection."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_knowledge_practice",
-    "question": "In a coastal field station report, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: School science examples show technology only as modern electronics. What world-view assumption is hidden?",
+    "audio_prompt": "During the coastal field station report, students observe: School science examples show technology only as modern electronics. What world-view assumption is hidden?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-009",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In a coastal field station report, students compare knowledge practice with collaboration. The evidence states, “World views influence priorities”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: School science examples show technology only as modern electronics."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Electronics are not technologies",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Older practices require no scientific knowledge",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "Technology is being narrowly defined and may exclude sophisticated material and ecological practices",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Technology is being narrowly defined and may exclude sophisticated material and ecological practices",
+      "hint": "Examine what counts as technology."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_collaboration",
-    "question": "During a renewable-energy trial, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: A survey asks households to select one fixed family structure. How might design affect findings?",
+    "audio_prompt": "During the renewable-energy trial, students observe: A survey asks households to select one fixed family structure. How might design affect findings?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-010",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a renewable-energy trial, the evidence states, “Earthquake-resistant building knowledge can develop through long cultural experience with local materials”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A survey asks households to select one fixed family structure."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that world views influence priorities, methods, interpretation and recognition",
+        "text": "People outside the assumed categories may be misrepresented or omitted",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Fixed categories eliminate sampling error",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Family structure cannot influence health research",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "People outside the assumed categories may be misrepresented or omitted",
+      "hint": "Question assumptions embedded in response options."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_recognition_and_bias",
-    "question": "A hospital innovation briefing for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: A reef study schedules fieldwork without consulting customary access rules. What is the likely consequence?",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A reef study schedules fieldwork without consulting customary access rules. What is the likely consequence?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-011",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A hospital innovation briefing for World Views Shape Scientific Knowledge reports that cultural knowledge requires accurate attribution and appropriate protocols. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A reef study schedules fieldwork without consulting customary access rules."
     },
     "answers": [
       {
-        "text": "Culture only obstructs science; the same outcome must therefore occur in every setting",
+        "text": "Customary rules alter ocean chemistry",
         "is_correct": false
       },
       {
-        "text": "The evidence supports collaboration across perspectives can develop knowledge, but it does not prove that every case will be identical",
+        "text": "The work may breach protocols and lose guidance about suitable places and times",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "A permit erases all other responsibilities",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The work may breach protocols and lose guidance about suitable places and times",
+      "hint": "Legal access and ethical cultural access differ."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_world_view",
-    "question": "In a geological survey update, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: Researchers return final results but not data interpretations to a partner community. What would reciprocity require?",
+    "audio_prompt": "During the geological survey update, students observe: Researchers return final results but not data interpretations to a partner community. What would reciprocity require?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-012",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is world view. Question context: In a geological survey update, the evidence states, “Respectful comparison can strengthen knowledge without erasing its cultural source”. Which interpretation is best supported?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers return final results but not data interpretations to a partner community."
     },
     "answers": [
       {
-        "text": "All cultural knowledge can be freely shared; one matching observation makes this explanation certain",
+        "text": "Keep all outputs technical to preserve authority",
         "is_correct": false
       },
       {
-        "text": "World view is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Return only equipment receipts",
         "is_correct": false
       },
       {
-        "text": "Cultural knowledge requires accurate attribution and appropriate protocols; this interpretation can be checked against further evidence",
+        "text": "Share accessible findings and involve partners in interpreting implications",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about world view, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Share accessible findings and involve partners in interpreting implications",
+      "hint": "Collaboration continues through interpretation and benefit."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_question_and_priority",
-    "question": "During a materials-testing laboratory, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: An AI language tool has little training data from small language communities. What outcome is predictable?",
+    "audio_prompt": "During the materials-testing laboratory, students observe: An AI language tool has little training data from small language communities. What outcome is predictable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-013",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is question and priority. Question context: During a materials-testing laboratory, the evidence states, “Apply attribution”. Which response applies the perspective model most accurately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: An AI language tool has little training data from small language communities."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that world views influence priorities, methods, interpretation and recognition, within the limits of the investigation",
+        "text": "It will likely perform less reliably for those languages",
         "is_correct": true
       },
       {
-        "text": "Culture only obstructs science; the wider pattern does not need to be considered",
+        "text": "Small languages are scientifically simpler",
         "is_correct": false
       },
       {
-        "text": "Knowledge practice caused the result because the two occurred together once",
+        "text": "All models perform equally without data",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and priority, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It will likely perform less reliably for those languages",
+      "hint": "Link representation to model performance."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_knowledge_practice",
-    "question": "In a documentary planning session, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: A scientist assumes land is unused because it lacks permanent buildings. Which perspective is overlooked?",
+    "audio_prompt": "During the documentary planning session, students observe: A scientist assumes land is unused because it lacks permanent buildings. Which perspective is overlooked?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-014",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is knowledge practice. Question context: In a documentary planning session, students compare knowledge practice with collaboration. The evidence states, “Collaboration across perspectives can develop knowledge”. Which conclusion uses evidence appropriately?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A scientist assumes land is unused because it lacks permanent buildings."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Only buildings provide evidence of land use",
         "is_correct": false
       },
       {
-        "text": "The model links knowledge practice with collaboration, so it can explain the relationship while still having limits",
+        "text": "Seasonal cultural use and stewardship may leave different visible signs",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Cultural use prevents ecological study",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Collaboration across perspectives can develop knowledge. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about knowledge practice, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Seasonal cultural use and stewardship may leave different visible signs",
+      "hint": "Look beyond one definition of occupation."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_collaboration",
-    "question": "During a national data-set review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: Community monitors choose sampling points near places used for food gathering. What value does this add?",
+    "audio_prompt": "During the national data-set review, students observe: Community monitors choose sampling points near places used for food gathering. What value does this add?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-015",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is collaboration. Question context: During a national data-set review, the evidence states, “Engineering tests can examine why flexible bamboo structures perform well”. What is the strongest scientific response to this result?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Community monitors choose sampling points near places used for food gathering."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "It makes all other sampling sites invalid",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to collaboration alone",
+        "text": "Values cannot guide scientifically valid site choice",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that cultural knowledge requires accurate attribution and appropriate protocols",
+        "text": "It targets exposure and ecological changes important to community decisions",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cultural knowledge requires accurate attribution and appropriate protocols. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about collaboration, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It targets exposure and ecological changes important to community decisions",
+      "hint": "Site relevance and sound measurement can coexist."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8H02",
     "bank": "test",
     "skill": "perspective_recognition_and_bias",
-    "question": "A final evidence conference for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: A collaboration finds two knowledge systems use different explanations for the same pattern. What is a respectful scientific response?",
+    "audio_prompt": "During the final evidence conference, students observe: A collaboration finds two knowledge systems use different explanations for the same pattern. What is a respectful scientific response?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-016",
-      "alt_text": "World Views Shape Scientific Knowledge evidence model linking world view, question and priority, knowledge practice, collaboration, recognition and bias. The highlighted stage is recognition and bias. Question context: A final evidence conference for World Views Shape Scientific Knowledge reports that identify both constraints and productive knowledge contributions. Which revision would make the reasoning most reliable?"
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A collaboration finds two knowledge systems use different explanations for the same pattern."
     },
     "answers": [
       {
-        "text": "The evidence supports world views influence priorities, methods, interpretation and recognition, but it does not prove that every case will be identical",
+        "text": "Clarify meanings, evidence and limits without forcing false equivalence or automatic dismissal",
         "is_correct": true
       },
       {
-        "text": "All cultural knowledge can be freely shared; the same outcome must therefore occur in every setting",
+        "text": "Declare both explanations identical",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about world view is stronger than measured or documented evidence",
+        "text": "Rank them by the researchers' cultural familiarity",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "World views influence priorities, methods, interpretation and recognition. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about recognition and bias, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Clarify meanings, evidence and limits without forcing false equivalence or automatic dismissal",
+      "hint": "Compare carefully and preserve distinctions."
     }
   }
 ]

@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "investigation reasoned hypothesis",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Ask Questions Science Can Test reports that investigable questions can be answered with evidence. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Ask Questions Science Can Test reports that investigable questions can be answered with evidence. Which revision would make the reasoning most reliable?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A new research proposal for Ask Questions Science Can Test reports that investigable questions can be answered with evidence. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A new research proposal for Ask Questions Science Can Test reports that investigable questions can be answered with evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: bike stopping distances differ. How does starting speed affect stopping distance on the same dry surface with one braking method?",
+    "audioPrompt": "During the new research proposal, students observe: bike stopping distances differ. How does starting speed affect stopping distance on the same dry surface with one braking method?",
+    "visual": "Ask Questions Science Can Test observation card stating: bike stopping distances differ.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: bike stopping distances differ.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-001",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A new research proposal for Ask Questions Science Can Test reports that investigable questions can be answered with evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: bike stopping distances differ."
     },
     "answers": [
-      "The evidence supports investigable questions can be answered with evidence, but it does not prove that every case will be identical",
-      "A topic is an investigable question; the same outcome must therefore occur in every setting",
-      "A confident opinion about observation is stronger than measured or documented evidence"
+      "Higher starting speed will increase stopping distance",
+      "Which rider is safest?",
+      "Stopping distance depends only on rider confidence"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 25: bike stopping distances differ.\nHint: Check that the cause and response can both be measured. Focus on bike stopping distances differ.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 25: bike stopping distances differ.",
+      "hint": "Check that the cause and response can both be measured. Focus on bike stopping distances differ."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "investigation observation",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Observation: brighter light appears to increase solar-cell output”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Observation: brighter light appears to increase solar-cell output”. Which interpretation is best supported?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a cross-school data comparison, the evidence states, “Observation: brighter light appears to increase solar-cell output”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a cross-school data comparison, the evidence states, “Observation: brighter light appears to increase solar-cell output”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: duckweed fronds multiply under coloured lights. How does light wavelength affect change in duckweed frond number over seven days?",
+    "audioPrompt": "During the cross-school data comparison, students observe: duckweed fronds multiply under coloured lights. How does light wavelength affect change in duckweed frond number over seven days?",
+    "visual": "Ask Questions Science Can Test observation card stating: duckweed fronds multiply under coloured lights.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: duckweed fronds multiply under coloured lights.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-002",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a cross-school data comparison, the evidence states, “Observation: brighter light appears to increase solar-cell output”. Which interpretation is best supported?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: duckweed fronds multiply under coloured lights."
     },
     "answers": [
-      "A hypothesis is a guess; one matching observation makes this explanation certain",
-      "Predictions state an expected pattern; this interpretation can be checked against further evidence",
-      "Observation is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Which colour makes plants happy?",
+      "Growth may differ among wavelengths because pigments absorb wavelengths differently",
+      "Green light must produce most growth because plants look green"
     ],
     "correct": 1,
-    "explanation": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 26: duckweed fronds multiply under coloured lights.\nHint: Check that the cause and response can both be measured. Focus on duckweed fronds multiply under coloured lights.",
     "structuredExplanation": {
-      "summary": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 26: duckweed fronds multiply under coloured lights.",
+      "hint": "Check that the cause and response can both be measured. Focus on duckweed fronds multiply under coloured lights."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "investigation investigable question",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “Hypotheses connect variables with scientific reasoning and can be tested”. Which response applies the investigation model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “Hypotheses connect variables with scientific reasoning and can be tested”. Which response applies the investigation model most accurately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a technology evaluation panel, the evidence states, “Hypotheses connect variables with scientific reasoning and can be tested”. Which response applies the investigation model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a technology evaluation panel, the evidence states, “Hypotheses connect variables with scientific reasoning and can be tested”. Which response applies the investigation model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: steel wool gains mass while rusting. How does exposure to salt solution affect mass change of equal steel-wool samples?",
+    "audioPrompt": "During the technology evaluation panel, students observe: steel wool gains mass while rusting. How does exposure to salt solution affect mass change of equal steel-wool samples?",
+    "visual": "Ask Questions Science Can Test observation card stating: steel wool gains mass while rusting.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: steel wool gains mass while rusting.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-003",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a technology evaluation panel, the evidence states, “Hypotheses connect variables with scientific reasoning and can be tested”. Which response applies the investigation model most accurately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: steel wool gains mass while rusting."
     },
     "answers": [
-      "A topic is an investigable question; the wider pattern does not need to be considered",
-      "Independent and dependent variable caused the result because the two occurred together once",
-      "The observation supports the idea that hypotheses connect variables with scientific reasoning and can be tested, within the limits of the investigation"
+      "Why does metal get old?",
+      "Rusting removes all matter from steel",
+      "Salt exposure will increase the rate of rust-related mass change"
     ],
     "correct": 2,
-    "explanation": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 27: steel wool gains mass while rusting.\nHint: Check that the cause and response can both be measured. Focus on steel wool gains mass while rusting.",
     "structuredExplanation": {
-      "summary": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 27: steel wool gains mass while rusting.",
+      "hint": "Check that the cause and response can both be measured. Focus on steel wool gains mass while rusting."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "investigation independent and dependent variable",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare independent and dependent variable with prediction. The evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare independent and dependent variable with prediction. The evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which conclusion uses evidence appropriately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a science exhibition caption, students compare independent and dependent variable with prediction. The evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a science exhibition caption, students compare independent and dependent variable with prediction. The evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: balls rebound to different heights. How does ball material affect rebound height from a fixed drop height?",
+    "audioPrompt": "During the science exhibition caption, students observe: balls rebound to different heights. How does ball material affect rebound height from a fixed drop height?",
+    "visual": "Ask Questions Science Can Test observation card stating: balls rebound to different heights.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: balls rebound to different heights.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-004",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a science exhibition caption, students compare independent and dependent variable with prediction. The evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: balls rebound to different heights."
     },
     "answers": [
-      "The model links independent and dependent variable with prediction, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "More elastic materials will return a greater fraction of the drop height",
+      "Which ball is the most fun?",
+      "A high rebound proves gravity is weaker for that ball"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 28: balls rebound to different heights.\nHint: Check that the cause and response can both be measured. Focus on balls rebound to different heights.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 28: balls rebound to different heights.",
+      "hint": "Check that the cause and response can both be measured. Focus on balls rebound to different heights."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "investigation prediction",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Add a scientific reason linking the variables”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Add a scientific reason linking the variables”. What is the strongest scientific response to this result?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a policy evidence hearing, the evidence states, “Add a scientific reason linking the variables”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a policy evidence hearing, the evidence states, “Add a scientific reason linking the variables”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: pulse rates change after exercise. How does exercise duration affect recovery time to resting pulse for the same participant?",
+    "audioPrompt": "During the policy evidence hearing, students observe: pulse rates change after exercise. How does exercise duration affect recovery time to resting pulse for the same participant?",
+    "visual": "Ask Questions Science Can Test observation card stating: pulse rates change after exercise.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: pulse rates change after exercise.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-005",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a policy evidence hearing, the evidence states, “Add a scientific reason linking the variables”. What is the strongest scientific response to this result?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: pulse rates change after exercise."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that predictions state an expected pattern",
-      "Several conditions can change together and the result can still be attributed to prediction alone"
+      "Why does exercise make hearts healthy?",
+      "Longer exercise may increase recovery time under matched intensity",
+      "Pulse rate alone measures every aspect of fitness"
     ],
     "correct": 1,
-    "explanation": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 29: pulse rates change after exercise.\nHint: Check that the cause and response can both be measured. Focus on pulse rates change after exercise.",
     "structuredExplanation": {
-      "summary": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 29: pulse rates change after exercise.",
+      "hint": "Check that the cause and response can both be measured. Focus on pulse rates change after exercise."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "investigation reasoned hypothesis",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Ask Questions Science Can Test reports that predictions state an expected pattern. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Ask Questions Science Can Test reports that predictions state an expected pattern. Which revision would make the reasoning most reliable?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A controlled follow-up investigation for Ask Questions Science Can Test reports that predictions state an expected pattern. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A controlled follow-up investigation for Ask Questions Science Can Test reports that predictions state an expected pattern. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: saltwater samples conduct electricity differently. How does salt concentration affect current at fixed voltage and electrode spacing?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: saltwater samples conduct electricity differently. How does salt concentration affect current at fixed voltage and electrode spacing?",
+    "visual": "Ask Questions Science Can Test observation card stating: saltwater samples conduct electricity differently.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: saltwater samples conduct electricity differently.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-006",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A controlled follow-up investigation for Ask Questions Science Can Test reports that predictions state an expected pattern. Which revision would make the reasoning most reliable?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: saltwater samples conduct electricity differently."
     },
     "answers": [
-      "A hypothesis is a guess; the same outcome must therefore occur in every setting",
-      "A confident opinion about observation is stronger than measured or documented evidence",
-      "The evidence supports hypotheses connect variables with scientific reasoning and can be tested, but it does not prove that every case will be identical"
+      "Does salty water contain electricity?",
+      "Salt creates electrical energy from nothing",
+      "Current will increase with salt concentration within the tested range"
     ],
     "correct": 2,
-    "explanation": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 30: saltwater samples conduct electricity differently.\nHint: Check that the cause and response can both be measured. Focus on saltwater samples conduct electricity differently.",
     "structuredExplanation": {
-      "summary": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 30: saltwater samples conduct electricity differently.",
+      "hint": "Check that the cause and response can both be measured. Focus on saltwater samples conduct electricity differently."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "investigation observation",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. Which interpretation is best supported?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a model limitations review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a model limitations review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: compost bins reach different temperatures. How does the ratio of green to brown material affect peak compost temperature?",
+    "audioPrompt": "During the model limitations review, students observe: compost bins reach different temperatures. How does the ratio of green to brown material affect peak compost temperature?",
+    "visual": "Ask Questions Science Can Test observation card stating: compost bins reach different temperatures.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: compost bins reach different temperatures.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-007",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a model limitations review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. Which interpretation is best supported?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: compost bins reach different temperatures."
     },
     "answers": [
-      "Investigable questions can be answered with evidence; this interpretation can be checked against further evidence",
-      "A topic is an investigable question; one matching observation makes this explanation certain",
-      "Observation is the only relevant feature, so no mechanism or consequence needs explaining"
+      "A balanced material ratio may produce a higher peak through microbial activity",
+      "Which compost smells nicest?",
+      "Heat proves the material is burning with a flame"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 31: compost bins reach different temperatures.\nHint: Check that the cause and response can both be measured. Focus on compost bins reach different temperatures.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 31: compost bins reach different temperatures.",
+      "hint": "Check that the cause and response can both be measured. Focus on compost bins reach different temperatures."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "investigation investigable question",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Require a changed variable”. Which response applies the investigation model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Require a changed variable”. Which response applies the investigation model most accurately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During an ethics committee discussion, the evidence states, “Require a changed variable”. Which response applies the investigation model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During an ethics committee discussion, the evidence states, “Require a changed variable”. Which response applies the investigation model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: paper helicopters fall at different speeds. How does rotor length affect descent time from a fixed height?",
+    "audioPrompt": "During the ethics committee discussion, students observe: paper helicopters fall at different speeds. How does rotor length affect descent time from a fixed height?",
+    "visual": "Ask Questions Science Can Test observation card stating: paper helicopters fall at different speeds.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: paper helicopters fall at different speeds.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-008",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During an ethics committee discussion, the evidence states, “Require a changed variable”. Which response applies the investigation model most accurately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: paper helicopters fall at different speeds."
     },
     "answers": [
-      "A hypothesis is a guess; the wider pattern does not need to be considered",
-      "The observation supports the idea that predictions state an expected pattern, within the limits of the investigation",
-      "Independent and dependent variable caused the result because the two occurred together once"
+      "Why do paper helicopters want to fly?",
+      "Longer rotors may increase descent time by increasing air resistance",
+      "A longer rotor reduces the force of gravity"
     ],
     "correct": 1,
-    "explanation": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 32: paper helicopters fall at different speeds.\nHint: Check that the cause and response can both be measured. Focus on paper helicopters fall at different speeds.",
     "structuredExplanation": {
-      "summary": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 32: paper helicopters fall at different speeds.",
+      "hint": "Check that the cause and response can both be measured. Focus on paper helicopters fall at different speeds."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "investigation independent and dependent variable",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare independent and dependent variable with prediction. The evidence states, “Investigable questions can be answered with evidence”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare independent and dependent variable with prediction. The evidence states, “Investigable questions can be answered with evidence”. Which conclusion uses evidence appropriately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a coastal field station report, students compare independent and dependent variable with prediction. The evidence states, “Investigable questions can be answered with evidence”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a coastal field station report, students compare independent and dependent variable with prediction. The evidence states, “Investigable questions can be answered with evidence”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: water evaporates from dishes of different widths. How does exposed surface area affect mass lost in one hour at fixed temperature?",
+    "audioPrompt": "During the coastal field station report, students observe: water evaporates from dishes of different widths. How does exposed surface area affect mass lost in one hour at fixed temperature?",
+    "visual": "Ask Questions Science Can Test observation card stating: water evaporates from dishes of different widths.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: water evaporates from dishes of different widths.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-009",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a coastal field station report, students compare independent and dependent variable with prediction. The evidence states, “Investigable questions can be answered with evidence”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: water evaporates from dishes of different widths."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links independent and dependent variable with prediction, so it can explain the relationship while still having limits"
+      "Where does missing water go forever?",
+      "Wide dishes make water chemically decompose",
+      "Greater exposed area will increase evaporation rate"
     ],
     "correct": 2,
-    "explanation": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 33: water evaporates from dishes of different widths.\nHint: Check that the cause and response can both be measured. Focus on water evaporates from dishes of different widths.",
     "structuredExplanation": {
-      "summary": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 33: water evaporates from dishes of different widths.",
+      "hint": "Check that the cause and response can both be measured. Focus on water evaporates from dishes of different widths."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "investigation prediction",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Observation: brighter light appears to increase solar-cell output”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Observation: brighter light appears to increase solar-cell output”. What is the strongest scientific response to this result?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a renewable-energy trial, the evidence states, “Observation: brighter light appears to increase solar-cell output”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a renewable-energy trial, the evidence states, “Observation: brighter light appears to increase solar-cell output”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: lichens differ between roadside and park trees. How does distance from a busy road relate to lichen coverage on the same tree species?",
+    "audioPrompt": "During the renewable-energy trial, students observe: lichens differ between roadside and park trees. How does distance from a busy road relate to lichen coverage on the same tree species?",
+    "visual": "Ask Questions Science Can Test observation card stating: lichens differ between roadside and park trees.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: lichens differ between roadside and park trees.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-010",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a renewable-energy trial, the evidence states, “Observation: brighter light appears to increase solar-cell output”. What is the strongest scientific response to this result?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: lichens differ between roadside and park trees."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that investigable questions can be answered with evidence",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to prediction alone"
+      "Lichen coverage may increase farther from traffic, but other site factors must be considered",
+      "Do lichens dislike cars?",
+      "A roadside pattern proves one pollutant caused all differences"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 34: lichens differ between roadside and park trees.\nHint: Check that the cause and response can both be measured. Focus on lichens differ between roadside and park trees.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 34: lichens differ between roadside and park trees.",
+      "hint": "Check that the cause and response can both be measured. Focus on lichens differ between roadside and park trees."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "investigation reasoned hypothesis",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Ask Questions Science Can Test reports that hypotheses connect variables with scientific reasoning and can be tested. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Ask Questions Science Can Test reports that hypotheses connect variables with scientific reasoning and can be tested. Which revision would make the reasoning most reliable?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A hospital innovation briefing for Ask Questions Science Can Test reports that hypotheses connect variables with scientific reasoning and can be tested. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A hospital innovation briefing for Ask Questions Science Can Test reports that hypotheses connect variables with scientific reasoning and can be tested. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: springs extend under added masses. How does hanging mass affect spring extension before permanent deformation?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: springs extend under added masses. How does hanging mass affect spring extension before permanent deformation?",
+    "visual": "Ask Questions Science Can Test observation card stating: springs extend under added masses.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: springs extend under added masses.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-011",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A hospital innovation briefing for Ask Questions Science Can Test reports that hypotheses connect variables with scientific reasoning and can be tested. Which revision would make the reasoning most reliable?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: springs extend under added masses."
     },
     "answers": [
-      "A topic is an investigable question; the same outcome must therefore occur in every setting",
-      "The evidence supports predictions state an expected pattern, but it does not prove that every case will be identical",
-      "A confident opinion about observation is stronger than measured or documented evidence"
+      "Which spring is strongest?",
+      "Extension will increase with mass within the spring's elastic range",
+      "Every added mass permanently stretches the spring"
     ],
     "correct": 1,
-    "explanation": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 35: springs extend under added masses.\nHint: Check that the cause and response can both be measured. Focus on springs extend under added masses.",
     "structuredExplanation": {
-      "summary": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 35: springs extend under added masses.",
+      "hint": "Check that the cause and response can both be measured. Focus on springs extend under added masses."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "investigation observation",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which interpretation is best supported?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a geological survey update, the evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a geological survey update, the evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: soap changes the number of drops held on a coin. How does detergent concentration affect the number of drops a coin holds before spilling?",
+    "audioPrompt": "During the geological survey update, students observe: soap changes the number of drops held on a coin. How does detergent concentration affect the number of drops a coin holds before spilling?",
+    "visual": "Ask Questions Science Can Test observation card stating: soap changes the number of drops held on a coin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: soap changes the number of drops held on a coin.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-012",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is observation. Question context: In a geological survey update, the evidence states, “Hypothesis: Increasing light intensity will increase output because more light energy reaches the cell”. Which interpretation is best supported?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: soap changes the number of drops held on a coin."
     },
     "answers": [
-      "A hypothesis is a guess; one matching observation makes this explanation certain",
-      "Observation is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Hypotheses connect variables with scientific reasoning and can be tested; this interpretation can be checked against further evidence"
+      "Why does soap make water slippery?",
+      "Detergent removes gravity from water",
+      "More detergent will reduce the drop count by lowering surface tension"
     ],
     "correct": 2,
-    "explanation": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 36: soap changes the number of drops held on a coin.\nHint: Check that the cause and response can both be measured. Focus on soap changes the number of drops held on a coin.",
     "structuredExplanation": {
-      "summary": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about observation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 36: soap changes the number of drops held on a coin.",
+      "hint": "Check that the cause and response can both be measured. Focus on soap changes the number of drops held on a coin."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "investigation investigable question",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Add a scientific reason linking the variables”. Which response applies the investigation model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Add a scientific reason linking the variables”. Which response applies the investigation model most accurately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a materials-testing laboratory, the evidence states, “Add a scientific reason linking the variables”. Which response applies the investigation model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a materials-testing laboratory, the evidence states, “Add a scientific reason linking the variables”. Which response applies the investigation model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: mealworms choose between dark and light chambers. How does light level affect mealworm distribution when moisture and temperature are equal?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: mealworms choose between dark and light chambers. How does light level affect mealworm distribution when moisture and temperature are equal?",
+    "visual": "Ask Questions Science Can Test observation card stating: mealworms choose between dark and light chambers.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: mealworms choose between dark and light chambers.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-013",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is investigable question. Question context: During a materials-testing laboratory, the evidence states, “Add a scientific reason linking the variables”. Which response applies the investigation model most accurately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: mealworms choose between dark and light chambers."
     },
     "answers": [
-      "The observation supports the idea that investigable questions can be answered with evidence, within the limits of the investigation",
-      "A topic is an investigable question; the wider pattern does not need to be considered",
-      "Independent and dependent variable caused the result because the two occurred together once"
+      "More mealworms will occupy the darker chamber if they prefer lower light",
+      "Are mealworms afraid of light?",
+      "One choice proves every mealworm always behaves identically"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 37: mealworms choose between dark and light chambers.\nHint: Check that the cause and response can both be measured. Focus on mealworms choose between dark and light chambers.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about investigable question, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 37: mealworms choose between dark and light chambers.",
+      "hint": "Check that the cause and response can both be measured. Focus on mealworms choose between dark and light chambers."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "investigation independent and dependent variable",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare independent and dependent variable with prediction. The evidence states, “Predictions state an expected pattern”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare independent and dependent variable with prediction. The evidence states, “Predictions state an expected pattern”. Which conclusion uses evidence appropriately?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a documentary planning session, students compare independent and dependent variable with prediction. The evidence states, “Predictions state an expected pattern”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a documentary planning session, students compare independent and dependent variable with prediction. The evidence states, “Predictions state an expected pattern”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: insulated bottles cool at different rates. How does insulation thickness affect temperature decrease over 40 minutes?",
+    "audioPrompt": "During the documentary planning session, students observe: insulated bottles cool at different rates. How does insulation thickness affect temperature decrease over 40 minutes?",
+    "visual": "Ask Questions Science Can Test observation card stating: insulated bottles cool at different rates.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: insulated bottles cool at different rates.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-014",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is independent and dependent variable. Question context: In a documentary planning session, students compare independent and dependent variable with prediction. The evidence states, “Predictions state an expected pattern”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: insulated bottles cool at different rates."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links independent and dependent variable with prediction, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Which bottle keeps drinks best forever?",
+      "Thicker insulation will reduce the temperature decrease within the tested range",
+      "Insulation produces thermal energy"
     ],
     "correct": 1,
-    "explanation": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 38: insulated bottles cool at different rates.\nHint: Check that the cause and response can both be measured. Focus on insulated bottles cool at different rates.",
     "structuredExplanation": {
-      "summary": "Predictions state an expected pattern. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about independent and dependent variable, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 38: insulated bottles cool at different rates.",
+      "hint": "Check that the cause and response can both be measured. Focus on insulated bottles cool at different rates."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "investigation prediction",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. What is the strongest scientific response to this result?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a national data-set review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a national data-set review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: seeds germinate differently in saline water. How does salt concentration affect germination percentage after seven days?",
+    "audioPrompt": "During the national data-set review, students observe: seeds germinate differently in saline water. How does salt concentration affect germination percentage after seven days?",
+    "visual": "Ask Questions Science Can Test observation card stating: seeds germinate differently in saline water.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: seeds germinate differently in saline water.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-015",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is prediction. Question context: During a national data-set review, the evidence states, “Question: How does light intensity affect electrical power from the same solar cell”. What is the strongest scientific response to this result?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: seeds germinate differently in saline water."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to prediction alone",
-      "Repeated evidence can support the conclusion that hypotheses connect variables with scientific reasoning and can be tested"
+      "Why do seeds hate salt?",
+      "Salt prevents every plant species from germinating",
+      "Germination percentage will decrease as salinity rises for this seed type"
     ],
     "correct": 2,
-    "explanation": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 39: seeds germinate differently in saline water.\nHint: Check that the cause and response can both be measured. Focus on seeds germinate differently in saline water.",
     "structuredExplanation": {
-      "summary": "Hypotheses connect variables with scientific reasoning and can be tested. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about prediction, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 39: seeds germinate differently in saline water.",
+      "hint": "Check that the cause and response can both be measured. Focus on seeds germinate differently in saline water."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "investigation reasoned hypothesis",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Ask Questions Science Can Test reports that require a changed variable. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Ask Questions Science Can Test reports that require a changed variable. Which revision would make the reasoning most reliable?",
-    "visual": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A final evidence conference for Ask Questions Science Can Test reports that require a changed variable. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A final evidence conference for Ask Questions Science Can Test reports that require a changed variable. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: toy cars roll down ramps at different angles. How does ramp angle affect travel time over a fixed distance?",
+    "audioPrompt": "During the final evidence conference, students observe: toy cars roll down ramps at different angles. How does ramp angle affect travel time over a fixed distance?",
+    "visual": "Ask Questions Science Can Test observation card stating: toy cars roll down ramps at different angles.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ask Questions Science Can Test observation card stating: toy cars roll down ramps at different angles.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i01.svg#ac9s8i01-t-016",
-      "alt_text": "Ask Questions Science Can Test evidence model linking observation, investigable question, independent and dependent variable, prediction, reasoned hypothesis. The highlighted stage is reasoned hypothesis. Question context: A final evidence conference for Ask Questions Science Can Test reports that require a changed variable. Which revision would make the reasoning most reliable?"
+      "alt_text": "Ask Questions Science Can Test observation card stating: toy cars roll down ramps at different angles."
     },
     "answers": [
-      "The evidence supports investigable questions can be answered with evidence, but it does not prove that every case will be identical",
-      "A hypothesis is a guess; the same outcome must therefore occur in every setting",
-      "A confident opinion about observation is stronger than measured or documented evidence"
+      "Increasing ramp angle will reduce travel time within the tested range",
+      "Which ramp is fastest?",
+      "Steeper ramps increase the car's mass"
     ],
     "correct": 0,
-    "explanation": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The question identifies measurable variables and avoids assuming its conclusion. Context 40: toy cars roll down ramps at different angles.\nHint: Check that the cause and response can both be measured. Focus on toy cars roll down ramps at different angles.",
     "structuredExplanation": {
-      "summary": "Investigable questions can be answered with evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoned hypothesis, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 40: toy cars roll down ramps at different angles.",
+      "hint": "Check that the cause and response can both be measured. Focus on toy cars roll down ramps at different angles."
     },
     "qualitySchema": "production-v1"
   }
