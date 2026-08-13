@@ -413,5 +413,8 @@
     }
   };
 
+  // Retain the authored source so the connected topic, slide and worksheet
+  // renderers can reuse every useful teaching element without flattening it.
+  window.SkillrYear4ScienceTopicSource = S;
   window.SkillrYear4SubjectRegister("science", S, Object.keys(S));
 })();

@@ -1,0 +1,21 @@
+(() => {
+  "use strict";
+  const code = (new URLSearchParams(location.search).get("code") || "AC9S4U01").toUpperCase();
+  const unit = window.SkillrYear4ScienceData?.[code];
+  const root = document.getElementById("slideRoot");
+  if (!unit || !root) return;
+  const esc = (value) => String(value ?? "").replace(/[&<>"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
+  const frame = (role, title, body, notes) => `<section class="teacher-slide-panel" data-slide-role="${role}"><header><img src="/icons/skillrhub-mark.svg" alt="SkillrHub logo"><p>${code} • Year 4 Science • ${role}</p></header><h1>${esc(title)}</h1>${body}<aside class="teacher-notes"><strong>Teacher guidance</strong><p>${esc(notes)}</p></aside></section>`;
+  const success = unit.mastery.slice(0, 4).map((item) => `<li>I can ${esc(item.charAt(0).toLowerCase() + item.slice(1))}.</li>`).join("");
+  const vocab = unit.vocabulary.slice(0, 5).map((item) => `<li><strong>${esc(item.term)}:</strong> ${esc(item.definition)}</li>`).join("");
+  const worked = unit.workedExamples[0];
+  root.innerHTML = `<nav class="slide-controls" aria-label="Slide controls"><button id="prevSlide" type="button">Previous</button><span id="slideCount">1 of 4</span><button id="nextSlide" type="button">Next</button></nav>${frame("Learning intention and success criteria", `We are learning to ${unit.title.toLowerCase()}`, `<p class="slide-intention">${esc(unit.learn)}</p><h2>Success criteria</h2><ul>${success}</ul>`, `Introduce the full curriculum identity, then ask students to paraphrase the learning intention.`)}${frame("Concept refresher and visual clues", unit.model_title, `<div role="img" aria-label="${esc(unit.visualAlt)}">${unit.model_html}</div><h2>Visual clues and vocabulary</h2><ul>${vocab}</ul>`, `Point to each part of the model. Use the vocabulary aloud and connect it to an observable feature.`)}${frame("Guided worked example", worked.title, `<ol>${worked.steps.map((step) => `<li>${esc(step)}</li>`).join("")}</ol><div role="img" aria-label="${esc(worked.title + ". " + worked.steps.join("; "))}">${worked.visualHtml}</div><p><strong>Conclusion:</strong> ${esc(worked.conclusion)}</p>`, `Model every step aloud. Pause before the conclusion and ask students which evidence supports it.`)}${frame("60-second Quick Check / Turn and Talk", unit.slideQuickCheck, `<p class="turn-talk">Think for 20 seconds. Explain to a partner for 40 seconds. Use one science term and one piece of evidence.</p><details class="concealed-answer"><summary>Reveal expected response and teaching response</summary><p><strong>Expected response:</strong> ${esc(unit.slideExpected)}</p><p><strong>If students are unsure:</strong> ${esc(unit.slideRemediation)}</p></details>`, `Listen for precise vocabulary and an evidence connection. Use the remediation prompt for the most likely misconception.`)}`;
+  document.title = `${code} ${unit.title} Teacher Slides | SkillrHub`;
+  document.getElementById("backLink").href = `/year4/science/${unit.slug}/`;
+  const panels = [...root.querySelectorAll(".teacher-slide-panel")];
+  let current = 0;
+  const show = () => { panels.forEach((panel, index) => panel.hidden = index !== current); document.getElementById("slideCount").textContent = `${current + 1} of 4`; document.getElementById("prevSlide").disabled = current === 0; document.getElementById("nextSlide").disabled = current === 3; };
+  document.getElementById("prevSlide").onclick = () => { current = Math.max(0, current - 1); show(); };
+  document.getElementById("nextSlide").onclick = () => { current = Math.min(3, current + 1); show(); };
+  show();
+})();
