@@ -1,26 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">SkillrHub</title>
-  <desc id="desc">An open learning book forming an S, with a spark.</desc>
+  <desc id="desc">A prominent white S with a gold learning spark on a rounded SkillrHub blue square.</desc>
   <defs>
-    <linearGradient id="background" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2457D6"/>
+    <linearGradient id="brand" x1="64" y1="42" x2="450" y2="474" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F68EA"/>
+      <stop offset=".58" stop-color="#2457D6"/>
       <stop offset="1" stop-color="#17335F"/>
     </linearGradient>
-    <linearGradient id="page" x1="122" y1="190" x2="390" y2="392" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#EAF2FF"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#071A38" flood-opacity=".3"/>
+    <filter id="depth" x="-25%" y="-25%" width="150%" height="165%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#071A38" flood-opacity=".34"/>
     </filter>
   </defs>
-  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#background)"/>
-  <circle cx="398" cy="115" r="46" fill="#F4B740" opacity=".18"/>
-  <path d="M398 68l12 29 29 12-29 12-12 29-12-29-29-12 29-12 12-29Z" fill="#F4B740"/>
-  <g filter="url(#shadow)">
-    <path d="M82 178c58-12 111-1 159 36v210c-42-30-94-44-159-34V178Z" fill="url(#page)"/>
-    <path d="M430 178c-58-12-111-1-159 36v210c42-30 94-44 159-34V178Z" fill="url(#page)"/>
-    <path d="M256 214v210" stroke="#B9CEF4" stroke-width="18" stroke-linecap="round"/>
-  </g>
-  <path d="M327 224c-21-17-48-26-75-24-43 3-71 25-68 56 3 27 27 39 68 46 39 7 55 14 56 31 1 18-18 30-48 32-28 2-57-8-80-27" fill="none" stroke="#F4B740" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#brand)"/>
+  <rect x="38" y="38" width="436" height="436" rx="99" fill="none" stroke="#FFFFFF" stroke-opacity=".13" stroke-width="4"/>
+  <circle cx="399" cy="111" r="55" fill="#F4B740" opacity=".13"/>
+  <path d="M399 64l12 29 29 12-29 12-12 29-12-29-29-12 29-12 12-29Z" fill="#F4B740"/>
+  <path d="M350 164c-25-28-62-42-103-39-66 5-105 37-101 82 4 42 41 59 105 69 61 10 90 24 92 57 3 36-34 61-92 65-49 3-94-14-122-46" fill="none" stroke="#FFFFFF" stroke-width="62" stroke-linecap="round" stroke-linejoin="round" filter="url(#depth)"/>
+  <path d="M151 420c64 19 146 17 213-8" fill="none" stroke="#F4B740" stroke-width="16" stroke-linecap="round"/>
 </svg>
