@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M4SP02-P-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "In a class project, what does grid reference A2 mean?",
+    "audio_prompt": "In a class project, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-001",
+      "alt_text": "In a class project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "At the school market, on a north-up grid, which direction is right?",
+    "audio_prompt": "At the school market, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-002",
+      "alt_text": "At the school market: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "While planning a garden, what does grid reference C4 mean?",
+    "audio_prompt": "While planning a garden, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-003",
+      "alt_text": "While planning a garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "During a sports challenge, on a north-up grid, which direction is right?",
+    "audio_prompt": "During a sports challenge, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-004",
+      "alt_text": "During a sports challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "At the wildlife centre, what does grid reference B3 mean?",
+    "audio_prompt": "At the wildlife centre, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-005",
+      "alt_text": "At the wildlife centre: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "In the makerspace, on a north-up grid, which direction is right?",
+    "audio_prompt": "In the makerspace, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-006",
+      "alt_text": "In the makerspace: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "While checking a map, what does grid reference A2 mean?",
+    "audio_prompt": "While checking a map, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-007",
+      "alt_text": "While checking a map: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "During a cooking task, on a north-up grid, which direction is right?",
+    "audio_prompt": "During a cooking task, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-008",
+      "alt_text": "During a cooking task: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "At the community fair, what does grid reference C4 mean?",
+    "audio_prompt": "At the community fair, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-009",
+      "alt_text": "At the community fair: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "In a library display, on a north-up grid, which direction is right?",
+    "audio_prompt": "In a library display, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-010",
+      "alt_text": "In a library display: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "During a science activity, what does grid reference B3 mean?",
+    "audio_prompt": "During a science activity, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-011",
+      "alt_text": "During a science activity: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "At the school canteen, on a north-up grid, which direction is right?",
+    "audio_prompt": "At the school canteen, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-012",
+      "alt_text": "At the school canteen: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "While organising an excursion, what does grid reference A2 mean?",
+    "audio_prompt": "While organising an excursion, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-013",
+      "alt_text": "While organising an excursion: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "In a games club, on a north-up grid, which direction is right?",
+    "audio_prompt": "In a games club, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-014",
+      "alt_text": "In a games club: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "During an art project, what does grid reference C4 mean?",
+    "audio_prompt": "During an art project, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-015",
+      "alt_text": "During an art project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "At the recycling station, on a north-up grid, which direction is right?",
+    "audio_prompt": "At the recycling station, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-016",
+      "alt_text": "At the recycling station: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-017",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "While planning a survey, what does grid reference B3 mean?",
+    "audio_prompt": "While planning a survey, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-017",
+      "alt_text": "While planning a survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-018",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "In a coding lesson, on a north-up grid, which direction is right?",
+    "audio_prompt": "In a coding lesson, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-018",
+      "alt_text": "In a coding lesson: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-019",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "During a building task, what does grid reference A2 mean?",
+    "audio_prompt": "During a building task, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-019",
+      "alt_text": "During a building task: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-020",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "At the local pool, on a north-up grid, which direction is right?",
+    "audio_prompt": "At the local pool, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-020",
+      "alt_text": "At the local pool: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-021",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "While preparing a camp, what does grid reference C4 mean?",
+    "audio_prompt": "While preparing a camp, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-021",
+      "alt_text": "While preparing a camp: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-022",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "In a music project, on a north-up grid, which direction is right?",
+    "audio_prompt": "In a music project, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-022",
+      "alt_text": "In a music project: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-023",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "grid_references",
+    "question": "At a playground redesign, what does grid reference B3 mean?",
+    "audio_prompt": "At a playground redesign, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-023",
+      "alt_text": "At a playground redesign: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-P-024",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "directions_and_pathways",
+    "question": "During a book drive, on a north-up grid, which direction is right?",
+    "audio_prompt": "During a book drive, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-024",
+      "alt_text": "During a book drive: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "At a coastal station, what does grid reference C4 mean?",
+    "audio_prompt": "At a coastal station, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-001",
+      "alt_text": "At a coastal station: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "During a museum challenge, on a north-up grid, which direction is right?",
+    "audio_prompt": "During a museum challenge, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-002",
+      "alt_text": "During a museum challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "At a charity event, what does grid reference B3 mean?",
+    "audio_prompt": "At a charity event, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-003",
+      "alt_text": "At a charity event: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      },
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "In an engineering workshop, on a north-up grid, which direction is right?",
+    "audio_prompt": "In an engineering workshop, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "At a regional carnival, what does grid reference A2 mean?",
+    "audio_prompt": "At a regional carnival, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-005",
+      "alt_text": "At a regional carnival: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "During a farm study, on a north-up grid, which direction is right?",
+    "audio_prompt": "During a farm study, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-006",
+      "alt_text": "During a farm study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "While reading a trail guide, what does grid reference C4 mean?",
+    "audio_prompt": "While reading a trail guide, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "In an architecture studio, on a north-up grid, which direction is right?",
+    "audio_prompt": "In an architecture studio, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-008",
+      "alt_text": "In an architecture studio: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "During a food-truck project, what does grid reference B3 mean?",
+    "audio_prompt": "During a food-truck project, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-009",
+      "alt_text": "During a food-truck project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      },
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "At a festival, on a north-up grid, which direction is right?",
+    "audio_prompt": "At a festival, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-010",
+      "alt_text": "At a festival: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "While organising a collection, what does grid reference A2 mean?",
+    "audio_prompt": "While organising a collection, what does grid reference A2 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-011",
+      "alt_text": "While organising a collection: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row A, column 2",
+        "is_correct": false
+      },
+      {
+        "text": "2 steps in every direction",
+        "is_correct": false
+      },
+      {
+        "text": "column A, row 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "In an environmental study, on a north-up grid, which direction is right?",
+    "audio_prompt": "In an environmental study, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-012",
+      "alt_text": "In an environmental study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "During a transport survey, what does grid reference C4 mean?",
+    "audio_prompt": "During a transport survey, what does grid reference C4 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-013",
+      "alt_text": "During a transport survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "row C, column 4",
+        "is_correct": false
+      },
+      {
+        "text": "column C, row 4",
+        "is_correct": true
+      },
+      {
+        "text": "4 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "At a strategy tournament, on a north-up grid, which direction is right?",
+    "audio_prompt": "At a strategy tournament, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "grid_references",
+    "question": "While planning a community garden, what does grid reference B3 mean?",
+    "audio_prompt": "While planning a community garden, what does grid reference B3 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-015",
+      "alt_text": "While planning a community garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "column B, row 3",
+        "is_correct": true
+      },
+      {
+        "text": "row B, column 3",
+        "is_correct": false
+      },
+      {
+        "text": "3 steps in every direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter-number references use the declared column-then-row convention.",
+      "hint": "Read the letter first, then the number."
+    }
+  },
+  {
+    "id": "AC9M4SP02-T-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "test",
+    "skill": "directions_and_pathways",
+    "question": "In a design exhibition, on a north-up grid, which direction is right?",
+    "audio_prompt": "In a design exhibition, on a north-up grid, which direction is right?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-016",
+      "alt_text": "In a design exhibition: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "East is right on a north-up grid.",
+      "hint": "Keep the map orientation fixed."
+    }
+  }
+]

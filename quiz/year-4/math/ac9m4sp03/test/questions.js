@@ -1,112 +1,469 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m4sp03-e01",
+    "id": "ac9m4sp03-t-001",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Multiple choice",
-    "question": "For AC9M4SP03, which shape has rotational symmetry: a scalene triangle, a square or a random blob?",
-    "explanation": "A square.",
+    "skill": "line symmetry",
     "printable": true,
     "type": "single",
+    "question": "At a coastal station, how many lines of symmetry does a non-square rectangle have?",
+    "audioPrompt": "At a coastal station, how many lines of symmetry does a non-square rectangle have?",
+    "visual": "At a coastal station: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-001",
+      "alt_text": "At a coastal station: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
     "answers": [
-      "a scalene triangle",
-      "a square",
-      "a random blob"
+      "1",
+      "3",
+      "2"
     ],
-    "correct": 1
+    "correct": 2,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4sp03-e02",
+    "id": "ac9m4sp03-t-002",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Use a mental strategy for line and rotational symmetry: 99 + 248.",
-    "explanation": "347; add 100 then subtract 1.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "347; add 100 then subtract 1"
-    ],
-    "correct": "347; add 100 then subtract 1"
-  },
-  {
-    "id": "ac9m4sp03-e03",
-    "curriculumCode": "AC9M4SP03",
-    "bank": "test",
-    "sourceType": "Multiple choice",
-    "question": "Which model best supports line and rotational symmetry: a labelled number line, a random list, or an unrelated picture?",
-    "explanation": "A labelled number line.",
+    "skill": "rotational symmetry",
     "printable": true,
     "type": "single",
+    "question": "During a museum challenge, what is the rotational order of a equilateral triangle?",
+    "audioPrompt": "During a museum challenge, what is the rotational order of a equilateral triangle?",
+    "visual": "During a museum challenge: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-002",
+      "alt_text": "During a museum challenge: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
     "answers": [
-      "a labelled number line",
-      "a random list",
-      "or an unrelated picture"
+      "3",
+      "2",
+      "4"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4sp03-e04",
+    "id": "ac9m4sp03-t-003",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match the line and rotational symmetry terms: factor, product, difference, sum.",
-    "explanation": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
+    "skill": "line symmetry",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
-    "correct": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result."
-  },
-  {
-    "id": "ac9m4sp03-e05",
-    "curriculumCode": "AC9M4SP03",
-    "bank": "test",
-    "sourceType": "Data display",
-    "question": "In a line and rotational symmetry chart, four classes collect 86, 94, 77 and 103 cans. Estimate the total to the nearest hundred.",
-    "explanation": "About 400 cans.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "About 400 cans"
+    "type": "single",
+    "question": "At a charity event, how many lines of symmetry does a parallelogram have?",
+    "audioPrompt": "At a charity event, how many lines of symmetry does a parallelogram have?",
+    "visual": "At a charity event: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-003",
+      "alt_text": "At a charity event: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "1",
+      "0",
+      "2"
     ],
-    "correct": "About 400 cans"
+    "correct": 1,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4sp03-e06",
+    "id": "ac9m4sp03-t-004",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "For AC9M4SP03, explain the difference between line symmetry and rotational symmetry.",
-    "explanation": "Line symmetry uses a mirror line; rotational symmetry matches after a turn.",
+    "skill": "rotational symmetry",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Line symmetry uses a mirror line; rotational symmetry matches after a turn.",
-    "correct": "Line symmetry uses a mirror line; rotational symmetry matches after a turn."
+    "type": "single",
+    "question": "In an engineering workshop, what is the rotational order of a square?",
+    "audioPrompt": "In an engineering workshop, what is the rotational order of a square?",
+    "visual": "In an engineering workshop: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4sp03-e07",
+    "id": "ac9m4sp03-t-005",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Create a short Year 4 line and rotational symmetry word problem that needs two steps, then solve it.",
-    "explanation": "Answers vary; must include a valid two-step problem and correct solution.",
+    "skill": "line symmetry",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Answers vary; must include a valid two-step problem and correct solution.",
-    "correct": "Answers vary; must include a valid two-step problem and correct solution."
+    "type": "single",
+    "question": "At a regional carnival, how many lines of symmetry does a non-square rectangle have?",
+    "audioPrompt": "At a regional carnival, how many lines of symmetry does a non-square rectangle have?",
+    "visual": "At a regional carnival: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-005",
+      "alt_text": "At a regional carnival: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "2",
+      "1",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4sp03-e08",
+    "id": "ac9m4sp03-t-006",
     "curriculumCode": "AC9M4SP03",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Explain why reading units, labels or the whole carefully matters in line and rotational symmetry.",
-    "explanation": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
+    "skill": "rotational symmetry",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
-    "correct": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer."
+    "type": "single",
+    "question": "During a farm study, what is the rotational order of a equilateral triangle?",
+    "audioPrompt": "During a farm study, what is the rotational order of a equilateral triangle?",
+    "visual": "During a farm study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-006",
+      "alt_text": "During a farm study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-007",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "line symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "While reading a trail guide, how many lines of symmetry does a parallelogram have?",
+    "audioPrompt": "While reading a trail guide, how many lines of symmetry does a parallelogram have?",
+    "visual": "While reading a trail guide: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "1",
+      "2",
+      "0"
+    ],
+    "correct": 2,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-008",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "rotational symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "In an architecture studio, what is the rotational order of a square?",
+    "audioPrompt": "In an architecture studio, what is the rotational order of a square?",
+    "visual": "In an architecture studio: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-008",
+      "alt_text": "In an architecture studio: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-009",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "line symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "During a food-truck project, how many lines of symmetry does a non-square rectangle have?",
+    "audioPrompt": "During a food-truck project, how many lines of symmetry does a non-square rectangle have?",
+    "visual": "During a food-truck project: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-009",
+      "alt_text": "During a food-truck project: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-010",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "rotational symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "At a festival, what is the rotational order of a equilateral triangle?",
+    "audioPrompt": "At a festival, what is the rotational order of a equilateral triangle?",
+    "visual": "At a festival: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-010",
+      "alt_text": "At a festival: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "2",
+      "4",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-011",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "line symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "While organising a collection, how many lines of symmetry does a parallelogram have?",
+    "audioPrompt": "While organising a collection, how many lines of symmetry does a parallelogram have?",
+    "visual": "While organising a collection: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-011",
+      "alt_text": "While organising a collection: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-012",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "rotational symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "In an environmental study, what is the rotational order of a square?",
+    "audioPrompt": "In an environmental study, what is the rotational order of a square?",
+    "visual": "In an environmental study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-012",
+      "alt_text": "In an environmental study: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-013",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "line symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "During a transport survey, how many lines of symmetry does a non-square rectangle have?",
+    "audioPrompt": "During a transport survey, how many lines of symmetry does a non-square rectangle have?",
+    "visual": "During a transport survey: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-013",
+      "alt_text": "During a transport survey: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "1",
+      "3",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-014",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "rotational symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "At a strategy tournament, what is the rotational order of a equilateral triangle?",
+    "audioPrompt": "At a strategy tournament, what is the rotational order of a equilateral triangle?",
+    "visual": "At a strategy tournament: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "3",
+      "2",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-015",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "line symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a community garden, how many lines of symmetry does a parallelogram have?",
+    "audioPrompt": "While planning a community garden, how many lines of symmetry does a parallelogram have?",
+    "visual": "While planning a community garden: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-015",
+      "alt_text": "While planning a community garden: a Year 4 line symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "1",
+      "0",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "A symmetry line creates exact matching halves.\nHint: Test by reflection or folding.",
+    "structuredExplanation": {
+      "summary": "A symmetry line creates exact matching halves.",
+      "hint": "Test by reflection or folding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4sp03-t-016",
+    "curriculumCode": "AC9M4SP03",
+    "bank": "test",
+    "skill": "rotational symmetry",
+    "printable": true,
+    "type": "single",
+    "question": "In a design exhibition, what is the rotational order of a square?",
+    "audioPrompt": "In a design exhibition, what is the rotational order of a square?",
+    "visual": "In a design exhibition: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp03.svg#ac9m4sp03-t-016",
+      "alt_text": "In a design exhibition: a Year 4 rotational symmetry reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Rotational order counts matching positions in one full turn.\nHint: Trace and turn until the shape matches.",
+    "structuredExplanation": {
+      "summary": "Rotational order counts matching positions in one full turn.",
+      "hint": "Trace and turn until the shape matches."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

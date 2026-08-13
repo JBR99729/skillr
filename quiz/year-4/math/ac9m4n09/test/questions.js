@@ -1,108 +1,469 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m4n09-e01",
+    "id": "ac9m4n09-t-001",
     "curriculumCode": "AC9M4N09",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "For AC9M4N09, match algorithm words to meanings: start, repeat, decision, output.",
-    "explanation": "Start -> first value; repeat -> do again; decision -> choose based on a condition; output -> result.",
-    "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Start -> first value; repeat -> do again; decision -> choose based on a condition; output -> result.",
-    "correct": "Start -> first value; repeat -> do again; decision -> choose based on a condition; output -> result."
-  },
-  {
-    "id": "ac9m4n09-e02",
-    "curriculumCode": "AC9M4N09",
-    "bank": "test",
-    "sourceType": "Short response",
-    "question": "Use a mental strategy for algorithms and number patterns: 99 + 248.",
-    "explanation": "347; add 100 then subtract 1.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "347; add 100 then subtract 1"
-    ],
-    "correct": "347; add 100 then subtract 1"
-  },
-  {
-    "id": "ac9m4n09-e03",
-    "curriculumCode": "AC9M4N09",
-    "bank": "test",
-    "sourceType": "Multiple choice",
-    "question": "Which model best supports algorithms and number patterns: a labelled number line, a random list, or an unrelated picture?",
-    "explanation": "A labelled number line.",
+    "skill": "follow algorithms",
     "printable": true,
     "type": "single",
+    "question": "At a coastal station, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "audioPrompt": "At a coastal station, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "visual": "At a coastal station: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-001",
+      "alt_text": "At a coastal station: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
     "answers": [
-      "a labelled number line",
-      "a random list",
-      "or an unrelated picture"
+      "8",
+      "11",
+      "9"
     ],
-    "correct": 0
+    "correct": 2,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n09-e04",
+    "id": "ac9m4n09-t-002",
     "curriculumCode": "AC9M4N09",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match the algorithms and number patterns terms: factor, product, difference, sum.",
-    "explanation": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
+    "skill": "design algorithms",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
-    "correct": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result."
-  },
-  {
-    "id": "ac9m4n09-e05",
-    "curriculumCode": "AC9M4N09",
-    "bank": "test",
-    "sourceType": "Data display",
-    "question": "In a algorithms and number patterns chart, four classes collect 86, 94, 77 and 103 cans. Estimate the total to the nearest hundred.",
-    "explanation": "About 400 cans.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "About 400 cans"
+    "type": "single",
+    "question": "During a museum challenge, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "During a museum challenge, which rule generates multiples of 6 below 40?",
+    "visual": "During a museum challenge: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-002",
+      "alt_text": "During a museum challenge: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 6, add 6, stop before 40",
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice"
     ],
-    "correct": "About 400 cans"
+    "correct": 0,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n09-e06",
+    "id": "ac9m4n09-t-003",
     "curriculumCode": "AC9M4N09",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "For AC9M4N09, write an algorithm that generates multiples of 6 less than 40.",
-    "explanation": "Examples vary; start at 6, add 6 repeatedly, stop before 40.",
+    "skill": "follow algorithms",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Examples vary; start at 6, add 6 repeatedly, stop before 40.",
-    "correct": "Examples vary; start at 6, add 6 repeatedly, stop before 40."
+    "type": "single",
+    "question": "At a charity event, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "audioPrompt": "At a charity event, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "visual": "At a charity event: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-003",
+      "alt_text": "At a charity event: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "12",
+      "13",
+      "15"
+    ],
+    "correct": 1,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n09-e07",
+    "id": "ac9m4n09-t-004",
     "curriculumCode": "AC9M4N09",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Create a short Year 4 algorithms and number patterns word problem that needs two steps, then solve it.",
-    "explanation": "Answers vary; must include a valid two-step problem and correct solution.",
+    "skill": "design algorithms",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Answers vary; must include a valid two-step problem and correct solution.",
-    "correct": "Answers vary; must include a valid two-step problem and correct solution."
+    "type": "single",
+    "question": "In an engineering workshop, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "In an engineering workshop, which rule generates multiples of 6 below 40?",
+    "visual": "In an engineering workshop: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice",
+      "Start at 6, add 6, stop before 40"
+    ],
+    "correct": 2,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n09-e08",
+    "id": "ac9m4n09-t-005",
     "curriculumCode": "AC9M4N09",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Explain why reading units, labels or the whole carefully matters in algorithms and number patterns.",
-    "explanation": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
+    "skill": "follow algorithms",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
-    "correct": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer."
+    "type": "single",
+    "question": "At a regional carnival, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "audioPrompt": "At a regional carnival, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "visual": "At a regional carnival: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-005",
+      "alt_text": "At a regional carnival: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "7",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-006",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "During a farm study, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "During a farm study, which rule generates multiples of 6 below 40?",
+    "visual": "During a farm study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-006",
+      "alt_text": "During a farm study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 1, add 6 forever",
+      "Start at 6, add 6, stop before 40",
+      "Start at 6, multiply by 6 twice"
+    ],
+    "correct": 1,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-007",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "follow algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "While reading a trail guide, an algorithm starts at 4, doubles, then adds 3. What is the output?",
+    "audioPrompt": "While reading a trail guide, an algorithm starts at 4, doubles, then adds 3. What is the output?",
+    "visual": "While reading a trail guide: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "10",
+      "13",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-008",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "In an architecture studio, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "In an architecture studio, which rule generates multiples of 6 below 40?",
+    "visual": "In an architecture studio: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-008",
+      "alt_text": "In an architecture studio: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 6, add 6, stop before 40",
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice"
+    ],
+    "correct": 0,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-009",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "follow algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "During a food-truck project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "audioPrompt": "During a food-truck project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "visual": "During a food-truck project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-009",
+      "alt_text": "During a food-truck project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "14",
+      "15",
+      "17"
+    ],
+    "correct": 1,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-010",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "At a festival, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "At a festival, which rule generates multiples of 6 below 40?",
+    "visual": "At a festival: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-010",
+      "alt_text": "At a festival: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice",
+      "Start at 6, add 6, stop before 40"
+    ],
+    "correct": 2,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-011",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "follow algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "While organising a collection, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "audioPrompt": "While organising a collection, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "visual": "While organising a collection: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-011",
+      "alt_text": "While organising a collection: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "9",
+      "8",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-012",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "In an environmental study, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "In an environmental study, which rule generates multiples of 6 below 40?",
+    "visual": "In an environmental study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-012",
+      "alt_text": "In an environmental study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 1, add 6 forever",
+      "Start at 6, add 6, stop before 40",
+      "Start at 6, multiply by 6 twice"
+    ],
+    "correct": 1,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-013",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "follow algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "During a transport survey, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "audioPrompt": "During a transport survey, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "visual": "During a transport survey: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-013",
+      "alt_text": "During a transport survey: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "12",
+      "15",
+      "13"
+    ],
+    "correct": 2,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-014",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "At a strategy tournament, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "At a strategy tournament, which rule generates multiples of 6 below 40?",
+    "visual": "At a strategy tournament: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 6, add 6, stop before 40",
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice"
+    ],
+    "correct": 0,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-015",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "follow algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a community garden, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "audioPrompt": "While planning a community garden, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "visual": "While planning a community garden: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-015",
+      "alt_text": "While planning a community garden: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "6",
+      "7",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "Follow the instructions in order.\nHint: Record each intermediate value.",
+    "structuredExplanation": {
+      "summary": "Follow the instructions in order.",
+      "hint": "Record each intermediate value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n09-t-016",
+    "curriculumCode": "AC9M4N09",
+    "bank": "test",
+    "skill": "design algorithms",
+    "printable": true,
+    "type": "single",
+    "question": "In a design exhibition, which rule generates multiples of 6 below 40?",
+    "audioPrompt": "In a design exhibition, which rule generates multiples of 6 below 40?",
+    "visual": "In a design exhibition: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-016",
+      "alt_text": "In a design exhibition: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "Start at 1, add 6 forever",
+      "Start at 6, multiply by 6 twice",
+      "Start at 6, add 6, stop before 40"
+    ],
+    "correct": 2,
+    "explanation": "The rule repeats addition and includes a stopping condition.\nHint: Check every output and the stopping point.",
+    "structuredExplanation": {
+      "summary": "The rule repeats addition and includes a stopping condition.",
+      "hint": "Check every output and the stopping point."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

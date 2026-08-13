@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M4ST02-P-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "In a class project, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "In a class project, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-001",
+      "alt_text": "In a class project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "At the school market, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "At the school market, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-002",
+      "alt_text": "At the school market: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "While planning a garden, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "While planning a garden, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-003",
+      "alt_text": "While planning a garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "During a sports challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "During a sports challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-004",
+      "alt_text": "During a sports challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "At the wildlife centre, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "At the wildlife centre, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-005",
+      "alt_text": "At the wildlife centre: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "In the makerspace, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "In the makerspace, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-006",
+      "alt_text": "In the makerspace: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "While checking a map, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "While checking a map, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-007",
+      "alt_text": "While checking a map: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "During a cooking task, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "During a cooking task, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-008",
+      "alt_text": "During a cooking task: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "At the community fair, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "At the community fair, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-009",
+      "alt_text": "At the community fair: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "In a library display, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "In a library display, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-010",
+      "alt_text": "In a library display: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "During a science activity, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "During a science activity, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-011",
+      "alt_text": "During a science activity: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "At the school canteen, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "At the school canteen, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-012",
+      "alt_text": "At the school canteen: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "While organising an excursion, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "While organising an excursion, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-013",
+      "alt_text": "While organising an excursion: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "In a games club, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "In a games club, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-014",
+      "alt_text": "In a games club: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "During an art project, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "During an art project, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-015",
+      "alt_text": "During an art project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "At the recycling station, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "At the recycling station, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-016",
+      "alt_text": "At the recycling station: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-017",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "While planning a survey, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "While planning a survey, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-017",
+      "alt_text": "While planning a survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-018",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "In a coding lesson, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "In a coding lesson, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-018",
+      "alt_text": "In a coding lesson: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-019",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "During a building task, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "During a building task, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-019",
+      "alt_text": "During a building task: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-020",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "At the local pool, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "At the local pool, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-020",
+      "alt_text": "At the local pool: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-021",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "While preparing a camp, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "While preparing a camp, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-021",
+      "alt_text": "While preparing a camp: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-022",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "In a music project, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "In a music project, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-022",
+      "alt_text": "In a music project: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-023",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data_displays",
+    "question": "At a playground redesign, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "At a playground redesign, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-023",
+      "alt_text": "At a playground redesign: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-024",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "pictograph_keys",
+    "question": "During a book drive, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "During a book drive, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-024",
+      "alt_text": "During a book drive: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-001",
+      "alt_text": "At a coastal station: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-002",
+      "alt_text": "During a museum challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-003",
+      "alt_text": "At a charity event: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-005",
+      "alt_text": "At a regional carnival: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-006",
+      "alt_text": "During a farm study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-008",
+      "alt_text": "In an architecture studio: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-009",
+      "alt_text": "During a food-truck project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-010",
+      "alt_text": "At a festival: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "audio_prompt": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-011",
+      "alt_text": "While organising a collection: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "audio_prompt": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-012",
+      "alt_text": "In an environmental study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "audio_prompt": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-013",
+      "alt_text": "During a transport survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "audio_prompt": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "interpret_data_displays",
+    "question": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "audio_prompt": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-015",
+      "alt_text": "While planning a community garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "Green",
+        "is_correct": true
+      },
+      {
+        "text": "Blue",
+        "is_correct": false
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tallest column represents the greatest count.",
+      "hint": "Read labels and scale together."
+    }
+  },
+  {
+    "id": "AC9M4ST02-T-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "test",
+    "skill": "pictograph_keys",
+    "question": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "audio_prompt": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-016",
+      "alt_text": "In a design exhibition: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply the number of symbols by the key value.",
+      "hint": "Read the key before counting."
+    }
+  }
+]
