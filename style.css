@@ -3477,3 +3477,97 @@ pre { overflow-x: auto; }
     .learning-pathway,.worksheet-directory,.contact-commitment { padding: 14px; }
     .worksheet-directory__chips a { width: 100%; border-radius: 10px; text-align: center; }
 }
+
+/* Compact resource-directory density */
+.blog-hero {
+    margin: 10px auto 18px;
+}
+.blog-hero h1 {
+    margin-bottom: 8px;
+    line-height: 1.12;
+}
+.blog-featured {
+    gap: 18px;
+    padding: clamp(18px, 2.6vw, 28px);
+}
+.blog-featured__icon {
+    width: 72px;
+    height: 72px;
+    border-radius: 18px;
+    font-size: 2.15rem;
+}
+.blog-featured h2 {
+    margin: 6px 0 7px;
+}
+.blog-featured p {
+    margin-bottom: 13px;
+}
+.blog-articles {
+    margin-top: 26px;
+}
+.blog-section-heading {
+    margin-bottom: 10px;
+}
+.blog-grid {
+    gap: 12px;
+}
+.blog-card {
+    min-height: 225px;
+    padding: 17px 18px;
+}
+.blog-card h3 {
+    margin: 12px 0 6px;
+}
+.blog-card p {
+    margin-bottom: 11px;
+}
+.worksheet-directory {
+    margin: 26px 0 12px;
+    padding: 17px 18px;
+}
+.worksheet-directory__chips {
+    gap: 7px;
+}
+.worksheet-directory__chips a {
+    padding: 8px 11px;
+}
+
+.curriculum-stage-list {
+    gap: 8px;
+    margin-top: 6px;
+}
+.curriculum-stage__header {
+    padding: 6px 12px;
+}
+.curriculum-year-row {
+    gap: 7px;
+    padding: 6px 12px;
+}
+.curriculum-year-row__year {
+    gap: 5px;
+}
+.curriculum-year-row__subjects {
+    gap: 6px;
+}
+.curriculum-subject-card {
+    min-height: 44px;
+    padding: 6px 10px;
+}
+.curriculum-subject-card small {
+    margin-top: 2px;
+}
+
+@media (max-width: 760px) {
+    .curriculum-stage__header,
+    .curriculum-year-row {
+        padding: 8px 10px;
+    }
+    .curriculum-subject-card {
+        min-height: 48px;
+        padding: 8px;
+    }
+}
+@media (max-width: 480px) {
+    .blog-featured,.blog-card,.worksheet-directory { padding: 15px; }
+    .curriculum-subject-card { min-height: 56px; }
+}
