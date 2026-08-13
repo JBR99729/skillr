@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7A01-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use C=4.5+2.2d with the input value 8. What is the output?",
+    "audio_prompt": "Use C=4.5+2.2d with the input value 8. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "22.1",
+        "is_correct": true
+      },
+      {
+        "text": "27.1",
+        "is_correct": false
+      },
+      {
+        "text": "17.1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 22.1.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use P=2l+2w with l=8,w=5. What is the output?",
+    "audio_prompt": "Use P=2l+2w with l=8,w=5. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "26",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 26.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use A=lw with l=12,w=7. What is the output?",
+    "audio_prompt": "Use A=lw with l=12,w=7. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "79",
+        "is_correct": false
+      },
+      {
+        "text": "89",
+        "is_correct": false
+      },
+      {
+        "text": "84",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 84.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use d=rt with r=60,t=2.5. What is the output?",
+    "audio_prompt": "Use d=rt with r=60,t=2.5. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "150",
+        "is_correct": true
+      },
+      {
+        "text": "155",
+        "is_correct": false
+      },
+      {
+        "text": "145",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 150.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use V=lwh with l=4,w=3,h=5. What is the output?",
+    "audio_prompt": "Use V=lwh with l=4,w=3,h=5. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": true
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 60.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use p=6g+b with g=4,b=3. What is the output?",
+    "audio_prompt": "Use p=6g+b with g=4,b=3. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 27.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use C=12+0.8n with the input value 25. What is the output?",
+    "audio_prompt": "Use C=12+0.8n with the input value 25. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": true
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 32.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use T=20+5h with the input value 7. What is the output?",
+    "audio_prompt": "Use T=20+5h with the input value 7. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 55.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use m=ρV with ρ=2.5,V=8. What is the output?",
+    "audio_prompt": "Use m=ρV with ρ=2.5,V=8. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 20.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use F=1.8C+32 with the input value 20. What is the output?",
+    "audio_prompt": "Use F=1.8C+32 with the input value 20. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "68",
+        "is_correct": true
+      },
+      {
+        "text": "73",
+        "is_correct": false
+      },
+      {
+        "text": "63",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 68.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use W=b+1.5hr with b=600,h=4,r=30. What is the output?",
+    "audio_prompt": "Use W=b+1.5hr with b=600,h=4,r=30. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "785",
+        "is_correct": false
+      },
+      {
+        "text": "780",
+        "is_correct": true
+      },
+      {
+        "text": "775",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 780.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use A=bh/2 with b=10,h=7. What is the output?",
+    "audio_prompt": "Use A=bh/2 with b=10,h=7. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 35.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use S=50+3n with the input value 12. What is the output?",
+    "audio_prompt": "Use S=50+3n with the input value 12. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "86",
+        "is_correct": true
+      },
+      {
+        "text": "91",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 86.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use E=pt with p=2.4,t=5. What is the output?",
+    "audio_prompt": "Use E=pt with p=2.4,t=5. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 12.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use C=3x+5 with the input value 9. What is the output?",
+    "audio_prompt": "Use C=3x+5 with the input value 9. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 32.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use D=100-4t with the input value 12. What is the output?",
+    "audio_prompt": "Use D=100-4t with the input value 12. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "52",
+        "is_correct": true
+      },
+      {
+        "text": "57",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute values with brackets and follow operation order; the result is 52.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use A=bh. Given A=54,b=9, find the unknown.",
+    "audio_prompt": "Use A=bh. Given A=54,b=9, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "h=8",
+        "is_correct": false
+      },
+      {
+        "text": "h=6",
+        "is_correct": true
+      },
+      {
+        "text": "h=12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; h=6.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use d=rt. Given d=150,t=3, find the unknown.",
+    "audio_prompt": "Use d=rt. Given d=150,t=3, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "r=100",
+        "is_correct": false
+      },
+      {
+        "text": "r=52",
+        "is_correct": false
+      },
+      {
+        "text": "r=50",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; r=50.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use P=2l+2w. Given P=30,w=5, find the unknown.",
+    "audio_prompt": "Use P=2l+2w. Given P=30,w=5, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "l=10",
+        "is_correct": true
+      },
+      {
+        "text": "l=12",
+        "is_correct": false
+      },
+      {
+        "text": "l=20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; l=10.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use C=4.5+2.2d. Given C=26.5, find the unknown.",
+    "audio_prompt": "Use C=4.5+2.2d. Given C=26.5, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "d=12",
+        "is_correct": false
+      },
+      {
+        "text": "d=10",
+        "is_correct": true
+      },
+      {
+        "text": "d=20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; d=10.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use V=lwh. Given V=120,l=5,w=4, find the unknown.",
+    "audio_prompt": "Use V=lwh. Given V=120,l=5,w=4, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "h=12",
+        "is_correct": false
+      },
+      {
+        "text": "h=8",
+        "is_correct": false
+      },
+      {
+        "text": "h=6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; h=6.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use m=ρV. Given m=84,V=12, find the unknown.",
+    "audio_prompt": "Use m=ρV. Given m=84,V=12, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "ρ=7",
+        "is_correct": true
+      },
+      {
+        "text": "ρ=9",
+        "is_correct": false
+      },
+      {
+        "text": "ρ=14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; ρ=7.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use p=6g+b. Given p=44,g=7, find the unknown.",
+    "audio_prompt": "Use p=6g+b. Given p=44,g=7, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "b=4",
+        "is_correct": false
+      },
+      {
+        "text": "b=2",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; b=2.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use A=lw. Given A=96,l=12, find the unknown.",
+    "audio_prompt": "Use A=lw. Given A=96,l=12, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "w=16",
+        "is_correct": false
+      },
+      {
+        "text": "w=10",
+        "is_correct": false
+      },
+      {
+        "text": "w=8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; w=8.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use E=pt. Given E=45,t=9, find the unknown.",
+    "audio_prompt": "Use E=pt. Given E=45,t=9, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "p=5",
+        "is_correct": true
+      },
+      {
+        "text": "p=7",
+        "is_correct": false
+      },
+      {
+        "text": "p=10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; p=5.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use T=20+5h. Given T=65, find the unknown.",
+    "audio_prompt": "Use T=20+5h. Given T=65, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "h=11",
+        "is_correct": false
+      },
+      {
+        "text": "h=9",
+        "is_correct": true
+      },
+      {
+        "text": "h=18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; h=9.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use S=50+3n. Given S=86, find the unknown.",
+    "audio_prompt": "Use S=50+3n. Given S=86, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "n=24",
+        "is_correct": false
+      },
+      {
+        "text": "n=14",
+        "is_correct": false
+      },
+      {
+        "text": "n=12",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; n=12.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Use F=1.8C+32. Given F=77, find the unknown.",
+    "audio_prompt": "Use F=1.8C+32. Given F=77, find the unknown.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "C=25",
+        "is_correct": true
+      },
+      {
+        "text": "C=27",
+        "is_correct": false
+      },
+      {
+        "text": "C=50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undo operations or substitute known values, then check in the original formula; C=25.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A rectangle's area equals length times width?",
+    "audio_prompt": "Which formula models: A rectangle's area equals length times width?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "lw=A",
+        "is_correct": false
+      },
+      {
+        "text": "A=lw",
+        "is_correct": true
+      },
+      {
+        "text": "A=l+w",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: A=lw.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A taxi costs $4.50 plus $2.20 per kilometre?",
+    "audio_prompt": "Which formula models: A taxi costs $4.50 plus $2.20 per kilometre?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "4.5+2.2d=C",
+        "is_correct": false
+      },
+      {
+        "text": "C=4.5-2.2d",
+        "is_correct": false
+      },
+      {
+        "text": "C=4.5+2.2d",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: C=4.5+2.2d.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: Distance equals rate times time?",
+    "audio_prompt": "Which formula models: Distance equals rate times time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "d=rt",
+        "is_correct": true
+      },
+      {
+        "text": "rt=d",
+        "is_correct": false
+      },
+      {
+        "text": "d=r+t",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: d=rt.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A total has 6 points per goal plus 1 per behind?",
+    "audio_prompt": "Which formula models: A total has 6 points per goal plus 1 per behind?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "p=6g-b",
+        "is_correct": false
+      },
+      {
+        "text": "p=6g+b",
+        "is_correct": true
+      },
+      {
+        "text": "6g+b=p",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: p=6g+b.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: Density equals mass divided by volume?",
+    "audio_prompt": "Which formula models: Density equals mass divided by volume?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "ρ=mV",
+        "is_correct": false
+      },
+      {
+        "text": "m/V=ρ",
+        "is_correct": false
+      },
+      {
+        "text": "ρ=m/V",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: ρ=m/V.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A weekly wage is base wage plus 1.5 times overtime hours times rate?",
+    "audio_prompt": "Which formula models: A weekly wage is base wage plus 1.5 times overtime hours times rate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "W=b+1.5hr",
+        "is_correct": true
+      },
+      {
+        "text": "W=b-1.5hr",
+        "is_correct": false
+      },
+      {
+        "text": "b+1.5hr=W",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: W=b+1.5hr.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A triangle's area is half base times height?",
+    "audio_prompt": "Which formula models: A triangle's area is half base times height?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "bh/2=A",
+        "is_correct": false
+      },
+      {
+        "text": "A=bh/2",
+        "is_correct": true
+      },
+      {
+        "text": "A=bh",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: A=bh/2.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A perimeter is twice length plus twice width?",
+    "audio_prompt": "Which formula models: A perimeter is twice length plus twice width?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "2l+2w=P",
+        "is_correct": false
+      },
+      {
+        "text": "P=2l-2w",
+        "is_correct": false
+      },
+      {
+        "text": "P=2l+2w",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: P=2l+2w.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A temperature is 32 plus 1.8 times Celsius?",
+    "audio_prompt": "Which formula models: A temperature is 32 plus 1.8 times Celsius?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "F=32+1.8C",
+        "is_correct": true
+      },
+      {
+        "text": "F=32-1.8C",
+        "is_correct": false
+      },
+      {
+        "text": "32+1.8C=F",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: F=32+1.8C.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: Energy equals power times time?",
+    "audio_prompt": "Which formula models: Energy equals power times time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "pt=E",
+        "is_correct": false
+      },
+      {
+        "text": "E=pt",
+        "is_correct": true
+      },
+      {
+        "text": "E=p+t",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: E=pt.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A phone plan costs $20 plus $5 per gigabyte?",
+    "audio_prompt": "Which formula models: A phone plan costs $20 plus $5 per gigabyte?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "20+5g=C",
+        "is_correct": false
+      },
+      {
+        "text": "C=20-5g",
+        "is_correct": false
+      },
+      {
+        "text": "C=20+5g",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: C=20+5g.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  },
+  {
+    "id": "AC9M7A01-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "variables_formulas_and_substitution",
+    "question": "Which formula models: A tank volume is length times width times height?",
+    "audio_prompt": "Which formula models: A tank volume is length times width times height?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
+      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    },
+    "answers": [
+      {
+        "text": "V=lwh",
+        "is_correct": true
+      },
+      {
+        "text": "lwh=V",
+        "is_correct": false
+      },
+      {
+        "text": "V=l+w+h",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: V=lwh.",
+      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+    }
+  }
+]

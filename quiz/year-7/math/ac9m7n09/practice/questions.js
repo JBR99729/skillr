@@ -1,20 +1,700 @@
 "use strict";
-(() => {
- const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7n09-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
- [[480,15,408],[250,20,200],[360,25,270],[120,12.5,105],[800,35,520],[75,10,67.5],[640,5,608],[1500,18,1230],[95,30,66.5],[420,22,327.6],[56,25,42],[999,10,899.1]].forEach(([price,pct,cost])=>add(`An item costs $${price} and is discounted by ${pct}%. What is the sale price?`,`$${cost.toFixed(2)}`,[`$${(price*pct/100).toFixed(2)}`,`$${(price-cost+price).toFixed(2)}`,`$${(cost+10).toFixed(2)}`],`Multiply by ${1-pct/100}; the sale price is $${cost.toFixed(2)}.`));
- [[100,140,40],[240,300,25],[80,68,-15],[500,575,15],[320,288,-10],[150,180,20],[90,117,30],[400,340,-15],[250,275,10],[1200,1020,-15]].forEach(([cost,revenue,p])=>add(`A fundraiser costs $${cost} and earns $${revenue}. What is the percentage profit or loss?`,`${Math.abs(p)}% ${p>=0?'profit':'loss'}`,[`${Math.abs(revenue-cost)}%`,`${Math.abs(p)}% ${p>=0?'loss':'profit'}`,`${Math.abs(p)+10}%`],`Change is $${Math.abs(revenue-cost)} relative to cost $${cost}: ${Math.abs(p)}% ${p>=0?'profit':'loss'}.`));
- [["A: 15% off $480; B: $90 off plus $25 fee","Plan A by $7"],["A: 20% off $300; B: $50 off","Plan A by $10"],["A: 10% off $800; B: $65 off","Plan A by $15"],["A: 25% off $200; B: $60 off plus $15 fee","Plan B by $5"],["A: 30% off $150; B: $35 off","Plan A by $10"],["A: 5% off $1000; B: $40 off","Plan A by $10"],["A: 12% off $500; B: $75 off plus $20 fee","Plan A by $5"],["A: 40% off $120; B: $55 off plus $10 fee","Plan A by $3"]].forEach(([p,c])=>add(`Compare these offers: ${p}. Which is cheaper?`,c,["They cost the same","The other plan by $20","Cannot decide without ignoring fees"],`Calculate every discount and fee using its correct base; ${c}.`));
- [[-3,8,5],[4,-7,-3],[-12,19,7],[5,-13,-8],[-20,11,-9],[7,-15,-8],[0,-9,-9],[18,-25,-7]].forEach(([start,change,end])=>add(`A model starts at ${start} and changes by ${change}. What is the final value?`,end,[start-change,-end,start+change+2],`Use a signed quantity: ${start} + (${change}) = ${end}.`));
- [[200,55,110],[480,23,110.4],[350,40,140],[1200,12.5,150],[90,60,54],[640,35,224],[750,8,60],[420,75,315]].forEach(([total,p,part])=>add(`${p}% of a group of ${total} meets a condition. How many is that?`,part,[p,total-part,part+10],`Convert ${p}% to ${p/100} and multiply by ${total}: ${part}.`));
- add("What is the first step in a mathematical modelling problem?","Define the question, quantities, constraints and assumptions.",["Enter numbers into a spreadsheet.","Round every number.","Choose the cheapest-looking headline."],"A model must represent the actual decision and its conditions before calculation.");
- add("Why must a discount and a dollar fee be handled separately?","They have different units and the percentage uses a specified base.",["They can always be added directly.","Fees are percentages.","Discounts never affect cost."],"Calculate each component appropriately before combining dollar amounts.");
- add("What is sensitivity analysis?","Testing how the result changes when inputs or assumptions vary.",["Repeating the same calculation unchanged.","Deleting constraints.","Choosing only the first answer."],"Sensitivity analysis locates thresholds and tests robustness.");
- add("When is a spreadsheet useful?","When formulas are understood and many input cases must be tested.",["To hide the mathematical relationship.","Only when no assumptions exist.","To avoid checking formulas."],"Digital tools support repeated evaluation, but formulas and meaning must remain visible.");
- add("What makes a recommendation justified?","It states calculations, constraints, assumptions and decision criteria.",["It uses the largest number.","It omits inconvenient fees.","It applies one result universally."],"A recommendation is conditional on the evidence and model.");
- add("Which is a constraint?","A total budget cannot exceed $500.",["The answer is interesting.","A percentage is written with %.","The calculator has a screen."],"A constraint restricts valid solutions.");
- add("A model predicts 4.7 buses. What should the interpretation consider?","Whole buses are required, so at least 5 may be needed.",["Use exactly 4.7 physical buses.","Round down automatically.","Delete the decimal without explanation."],"Context and capacity determine appropriate rounding.");
- add("At what price P do 15% off and $90 off plus a $25 fee break even?","$433.33 approximately",["$65","$600","$480"],"0.85P = P - 65, so 0.15P = 65 and P ≈ $433.33.");
- add("Which model best represents a 23% attendance rate among n students?","0.23n",["23n","n + 23","n ÷ 23"],"Twenty-three percent is 23/100 = 0.23 of the total.");
- add("Why should a financial model retain exact values until the final step?","Early rounding can change totals, thresholds or decisions.",["Money never uses decimals.","Exact values require no units.","Rounding is forbidden."],"Guard digits reduce accumulated error.");
- if(q.length!==56)throw new Error(`AC9M7N09 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
-})();
+window.skillrPracticeQuestions = [
+  {
+    "id": "ac9m7n09-p-001",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $480 and is discounted by 15%. What is the sale price?",
+    "audioPrompt": "An item costs $480 and is discounted by 15%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$408.00",
+      "$72.00",
+      "$552.00"
+    ],
+    "correct": 0,
+    "explanation": "Multiply by 0.85; the sale price is $408.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.85; the sale price is $408.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-002",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $250 and is discounted by 20%. What is the sale price?",
+    "audioPrompt": "An item costs $250 and is discounted by 20%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$50.00",
+      "$200.00",
+      "$300.00"
+    ],
+    "correct": 1,
+    "explanation": "Multiply by 0.8; the sale price is $200.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.8; the sale price is $200.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-003",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $360 and is discounted by 25%. What is the sale price?",
+    "audioPrompt": "An item costs $360 and is discounted by 25%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$450.00",
+      "$90.00",
+      "$270.00"
+    ],
+    "correct": 2,
+    "explanation": "Multiply by 0.75; the sale price is $270.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.75; the sale price is $270.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-004",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
+    "audioPrompt": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$105.00",
+      "$15.00",
+      "$135.00"
+    ],
+    "correct": 0,
+    "explanation": "Multiply by 0.875; the sale price is $105.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.875; the sale price is $105.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-005",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $800 and is discounted by 35%. What is the sale price?",
+    "audioPrompt": "An item costs $800 and is discounted by 35%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$280.00",
+      "$520.00",
+      "$1080.00"
+    ],
+    "correct": 1,
+    "explanation": "Multiply by 0.65; the sale price is $520.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.65; the sale price is $520.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-006",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $75 and is discounted by 10%. What is the sale price?",
+    "audioPrompt": "An item costs $75 and is discounted by 10%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$82.50",
+      "$7.50",
+      "$67.50"
+    ],
+    "correct": 2,
+    "explanation": "Multiply by 0.9; the sale price is $67.50.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.9; the sale price is $67.50.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-007",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $640 and is discounted by 5%. What is the sale price?",
+    "audioPrompt": "An item costs $640 and is discounted by 5%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$608.00",
+      "$32.00",
+      "$672.00"
+    ],
+    "correct": 0,
+    "explanation": "Multiply by 0.95; the sale price is $608.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.95; the sale price is $608.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-008",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $1500 and is discounted by 18%. What is the sale price?",
+    "audioPrompt": "An item costs $1500 and is discounted by 18%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$270.00",
+      "$1230.00",
+      "$1770.00"
+    ],
+    "correct": 1,
+    "explanation": "Multiply by 0.8200000000000001; the sale price is $1230.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.8200000000000001; the sale price is $1230.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-009",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $95 and is discounted by 30%. What is the sale price?",
+    "audioPrompt": "An item costs $95 and is discounted by 30%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$123.50",
+      "$28.50",
+      "$66.50"
+    ],
+    "correct": 2,
+    "explanation": "Multiply by 0.7; the sale price is $66.50.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.7; the sale price is $66.50.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-010",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $420 and is discounted by 22%. What is the sale price?",
+    "audioPrompt": "An item costs $420 and is discounted by 22%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$327.60",
+      "$92.40",
+      "$512.40"
+    ],
+    "correct": 0,
+    "explanation": "Multiply by 0.78; the sale price is $327.60.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.78; the sale price is $327.60.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-011",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $56 and is discounted by 25%. What is the sale price?",
+    "audioPrompt": "An item costs $56 and is discounted by 25%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$14.00",
+      "$42.00",
+      "$70.00"
+    ],
+    "correct": 1,
+    "explanation": "Multiply by 0.75; the sale price is $42.00.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.75; the sale price is $42.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-012",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "An item costs $999 and is discounted by 10%. What is the sale price?",
+    "audioPrompt": "An item costs $999 and is discounted by 10%. What is the sale price?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "$1098.90",
+      "$99.90",
+      "$899.10"
+    ],
+    "correct": 2,
+    "explanation": "Multiply by 0.9; the sale price is $899.10.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Multiply by 0.9; the sale price is $899.10.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-013",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "40% profit",
+      "40%",
+      "40% loss"
+    ],
+    "correct": 0,
+    "explanation": "Change is $40 relative to cost $100: 40% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $40 relative to cost $100: 40% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-014",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "60%",
+      "25% profit",
+      "25% loss"
+    ],
+    "correct": 1,
+    "explanation": "Change is $60 relative to cost $240: 25% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $60 relative to cost $240: 25% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-015",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "15% profit",
+      "12%",
+      "15% loss"
+    ],
+    "correct": 2,
+    "explanation": "Change is $12 relative to cost $80: 15% loss.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $12 relative to cost $80: 15% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-016",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "15% profit",
+      "75%",
+      "15% loss"
+    ],
+    "correct": 0,
+    "explanation": "Change is $75 relative to cost $500: 15% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $75 relative to cost $500: 15% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-017",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $320 and earns $288. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $320 and earns $288. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "32%",
+      "10% loss",
+      "10% profit"
+    ],
+    "correct": 1,
+    "explanation": "Change is $32 relative to cost $320: 10% loss.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $32 relative to cost $320: 10% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-018",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $150 and earns $180. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $150 and earns $180. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "20% loss",
+      "30%",
+      "20% profit"
+    ],
+    "correct": 2,
+    "explanation": "Change is $30 relative to cost $150: 20% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $30 relative to cost $150: 20% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-019",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $90 and earns $117. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $90 and earns $117. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "30% profit",
+      "27%",
+      "30% loss"
+    ],
+    "correct": 0,
+    "explanation": "Change is $27 relative to cost $90: 30% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $27 relative to cost $90: 30% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-020",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $400 and earns $340. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $400 and earns $340. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "60%",
+      "15% loss",
+      "15% profit"
+    ],
+    "correct": 1,
+    "explanation": "Change is $60 relative to cost $400: 15% loss.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $60 relative to cost $400: 15% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-021",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $250 and earns $275. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $250 and earns $275. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "10% loss",
+      "25%",
+      "10% profit"
+    ],
+    "correct": 2,
+    "explanation": "Change is $25 relative to cost $250: 10% profit.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $25 relative to cost $250: 10% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-022",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "A fundraiser costs $1200 and earns $1020. What is the percentage profit or loss?",
+    "audioPrompt": "A fundraiser costs $1200 and earns $1020. What is the percentage profit or loss?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "15% loss",
+      "180%",
+      "15% profit"
+    ],
+    "correct": 0,
+    "explanation": "Change is $180 relative to cost $1200: 15% loss.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Change is $180 relative to cost $1200: 15% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-023",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "Compare these offers: A: 15% off $480; B: $90 off plus $25 fee. Which is cheaper?",
+    "audioPrompt": "Compare these offers: A: 15% off $480; B: $90 off plus $25 fee. Which is cheaper?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "They cost the same",
+      "Plan A by $7",
+      "The other plan by $20"
+    ],
+    "correct": 1,
+    "explanation": "Calculate every discount and fee using its correct base; Plan A by $7.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $7.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n09-p-024",
+    "curriculumCode": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling rational and percentage problems",
+    "printable": true,
+    "type": "single",
+    "question": "Compare these offers: A: 20% off $300; B: $50 off. Which is cheaper?",
+    "audioPrompt": "Compare these offers: A: 20% off $300; B: $50 off. Which is cheaper?",
+    "visual": "Percentage bar connecting a whole amount, a rate and the resulting part.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Percentage bar connecting a whole amount, a rate and the resulting part.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      "The other plan by $20",
+      "They cost the same",
+      "Plan A by $10"
+    ],
+    "correct": 2,
+    "explanation": "Calculate every discount and fee using its correct base; Plan A by $10.\nHint: Define the quantities, calculate the percentage or rational part, then interpret the result.",
+    "structuredExplanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "qualitySchema": "production-v1"
+  }
+];
+window.quizQuestions = window.skillrPracticeQuestions;

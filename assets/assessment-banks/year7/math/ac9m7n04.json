@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7N04-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 1/2?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 1/2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.5 = 50%",
+        "is_correct": true
+      },
+      {
+        "text": "0.25 = 25%",
+        "is_correct": false
+      },
+      {
+        "text": "1/2 = 0.01%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 1/2 = 0.5 = 50%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 1/4?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 1/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.75 = 75%",
+        "is_correct": false
+      },
+      {
+        "text": "0.25 = 25%",
+        "is_correct": true
+      },
+      {
+        "text": "1/4 = 0.01%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 1/4 = 0.25 = 25%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 3/4?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 3/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/4 = 0.03%",
+        "is_correct": false
+      },
+      {
+        "text": "0.2 = 20%",
+        "is_correct": false
+      },
+      {
+        "text": "0.75 = 75%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 3/4 = 0.75 = 75%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 1/5?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 1/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.2 = 20%",
+        "is_correct": true
+      },
+      {
+        "text": "0.4 = 40%",
+        "is_correct": false
+      },
+      {
+        "text": "1/5 = 0.01%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 1/5 = 0.2 = 20%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 2/5?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 2/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.6 = 60%",
+        "is_correct": false
+      },
+      {
+        "text": "0.4 = 40%",
+        "is_correct": true
+      },
+      {
+        "text": "2/5 = 0.02%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 2/5 = 0.4 = 40%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 3/5?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 3/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/5 = 0.03%",
+        "is_correct": false
+      },
+      {
+        "text": "0.8 = 80%",
+        "is_correct": false
+      },
+      {
+        "text": "0.6 = 60%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 3/5 = 0.6 = 60%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 4/5?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 4/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.8 = 80%",
+        "is_correct": true
+      },
+      {
+        "text": "0.125 = 12.5%",
+        "is_correct": false
+      },
+      {
+        "text": "4/5 = 0.04%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 4/5 = 0.8 = 80%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 1/8?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 1/8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.375 = 37.5%",
+        "is_correct": false
+      },
+      {
+        "text": "0.125 = 12.5%",
+        "is_correct": true
+      },
+      {
+        "text": "1/8 = 0.01%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 1/8 = 0.125 = 12.5%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 3/8?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 3/8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/8 = 0.03%",
+        "is_correct": false
+      },
+      {
+        "text": "0.625 = 62.5%",
+        "is_correct": false
+      },
+      {
+        "text": "0.375 = 37.5%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 3/8 = 0.375 = 37.5%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 5/8?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 5/8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.625 = 62.5%",
+        "is_correct": true
+      },
+      {
+        "text": "0.875 = 87.5%",
+        "is_correct": false
+      },
+      {
+        "text": "5/8 = 0.05%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 5/8 = 0.625 = 62.5%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 7/8?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 7/8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.1 = 10%",
+        "is_correct": false
+      },
+      {
+        "text": "0.875 = 87.5%",
+        "is_correct": true
+      },
+      {
+        "text": "7/8 = 0.07%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 7/8 = 0.875 = 87.5%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 1/10?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 1/10?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "1/10 = 0.01%",
+        "is_correct": false
+      },
+      {
+        "text": "0.15 = 15%",
+        "is_correct": false
+      },
+      {
+        "text": "0.1 = 10%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 1/10 = 0.1 = 10%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 3/20?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 3/20?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.15 = 15%",
+        "is_correct": true
+      },
+      {
+        "text": "0.35 = 35%",
+        "is_correct": false
+      },
+      {
+        "text": "3/20 = 0.03%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 3/20 = 0.15 = 15%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 7/20?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 7/20?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.45 = 45%",
+        "is_correct": false
+      },
+      {
+        "text": "0.35 = 35%",
+        "is_correct": true
+      },
+      {
+        "text": "7/20 = 0.07%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 7/20 = 0.35 = 35%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 9/20?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 9/20?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "9/20 = 0.09%",
+        "is_correct": false
+      },
+      {
+        "text": "0.16 = 16%",
+        "is_correct": false
+      },
+      {
+        "text": "0.45 = 45%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 9/20 = 0.45 = 45%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which decimal and percentage are equivalent to 4/25?",
+    "audio_prompt": "Which decimal and percentage are equivalent to 4/25?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.16 = 16%",
+        "is_correct": true
+      },
+      {
+        "text": "0.5 = 50%",
+        "is_correct": false
+      },
+      {
+        "text": "4/25 = 0.04%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: 4/25 = 0.16 = 16%.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 6/8.",
+    "audio_prompt": "Simplify 6/8.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "6/8",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "8/6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 6/8 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 12/18.",
+    "audio_prompt": "Simplify 12/18.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "18/12",
+        "is_correct": false
+      },
+      {
+        "text": "12/18",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 12/18 = 2/3.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 15/25.",
+    "audio_prompt": "Simplify 15/25.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "15/25",
+        "is_correct": false
+      },
+      {
+        "text": "25/15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 15/25 = 3/5.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 18/24.",
+    "audio_prompt": "Simplify 18/24.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "18/24",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "24/18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 18/24 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 21/28.",
+    "audio_prompt": "Simplify 21/28.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "28/21",
+        "is_correct": false
+      },
+      {
+        "text": "21/28",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 21/28 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 24/36.",
+    "audio_prompt": "Simplify 24/36.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "24/36",
+        "is_correct": false
+      },
+      {
+        "text": "36/24",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 24/36 = 2/3.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 30/45.",
+    "audio_prompt": "Simplify 30/45.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "30/45",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "45/30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 30/45 = 2/3.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "practice",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 35/49.",
+    "audio_prompt": "Simplify 35/49.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "49/35",
+        "is_correct": false
+      },
+      {
+        "text": "35/49",
+        "is_correct": false
+      },
+      {
+        "text": "5/7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 35/49 = 5/7.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 42/56.",
+    "audio_prompt": "Simplify 42/56.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "42/56",
+        "is_correct": false
+      },
+      {
+        "text": "56/42",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 42/56 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 45/60.",
+    "audio_prompt": "Simplify 45/60.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "45/60",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "60/45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 45/60 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 54/72.",
+    "audio_prompt": "Simplify 54/72.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "72/54",
+        "is_correct": false
+      },
+      {
+        "text": "54/72",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 54/72 = 3/4.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Simplify 63/81.",
+    "audio_prompt": "Simplify 63/81.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "7/9",
+        "is_correct": true
+      },
+      {
+        "text": "63/81",
+        "is_correct": false
+      },
+      {
+        "text": "81/63",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Divide numerator and denominator by their highest common factor: 63/81 = 7/9.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -0.8 and -0.3?",
+    "audio_prompt": "Which is smaller: -0.8 and -0.3?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "-0.3",
+        "is_correct": false
+      },
+      {
+        "text": "-0.8",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -0.8 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -2/3 and -0.6?",
+    "audio_prompt": "Which is smaller: -2/3 and -0.6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "-0.6",
+        "is_correct": false
+      },
+      {
+        "text": "-2/3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -2/3 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 35% and 0.4?",
+    "audio_prompt": "Which is smaller: 35% and 0.4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "35%",
+        "is_correct": true
+      },
+      {
+        "text": "0.4",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 35% lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 3/4 and 0.72?",
+    "audio_prompt": "Which is smaller: 3/4 and 0.72?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "0.72",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 0.72 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -65% and -0.6?",
+    "audio_prompt": "Which is smaller: -65% and -0.6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "-0.6",
+        "is_correct": false
+      },
+      {
+        "text": "-65%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -65% lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 5/8 and 0.6?",
+    "audio_prompt": "Which is smaller: 5/8 and 0.6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "0.6",
+        "is_correct": true
+      },
+      {
+        "text": "5/8",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 0.6 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 1.2 and 115%?",
+    "audio_prompt": "Which is smaller: 1.2 and 115%?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "1.2",
+        "is_correct": false
+      },
+      {
+        "text": "115%",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 115% lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -3/4 and -0.8?",
+    "audio_prompt": "Which is smaller: -3/4 and -0.8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "-3/4",
+        "is_correct": false
+      },
+      {
+        "text": "-0.8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -0.8 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 7/10 and 68%?",
+    "audio_prompt": "Which is smaller: 7/10 and 68%?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "68%",
+        "is_correct": true
+      },
+      {
+        "text": "7/10",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 68% lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -0.45 and -2/5?",
+    "audio_prompt": "Which is smaller: -0.45 and -2/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "-2/5",
+        "is_correct": false
+      },
+      {
+        "text": "-0.45",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -0.45 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: 9/8 and 1.1?",
+    "audio_prompt": "Which is smaller: 9/8 and 1.1?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "9/8",
+        "is_correct": false
+      },
+      {
+        "text": "1.1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; 1.1 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  },
+  {
+    "id": "AC9M7N04-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N04",
+    "bank": "test",
+    "skill": "equivalent_rational_numbers",
+    "question": "Which is smaller: -1.25 and -6/5?",
+    "audio_prompt": "Which is smaller: -1.25 and -6/5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n04",
+      "alt_text": "Fraction, decimal and percentage representations aligned on one equivalence strip."
+    },
+    "answers": [
+      {
+        "text": "-1.25",
+        "is_correct": true
+      },
+      {
+        "text": "-6/5",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Convert to a common form or locate both on a number line; -1.25 lies farther left.",
+      "hint": "Convert both quantities to the same representation before comparing them."
+    }
+  }
+]
