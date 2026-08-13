@@ -117,7 +117,7 @@
             var elaborations = (unit.elaborations || []).map(function (item) {
               return item.text || "";
             }).join(" ");
-            var aliases = /common (?:factor|divisor)/i.test(unit.description + " " + elaborations)
+            var aliases = /(?:lowest common multiple|highest common factor|greatest common divisor)/i.test(unit.description + " " + elaborations)
               ? "greatest common factor highest common factor greatest common divisor gcf hcf gcd"
               : "";
             return {
@@ -138,7 +138,7 @@
           (unit.elaborations || []).forEach(function (elaboration) {
             var text = elaboration.text || "";
             var code = elaboration.code || [unit.code, elaboration.number].filter(Boolean).join("_");
-            var commonFactor = /common (?:factor|divisor)/i.test(text);
+            var commonFactor = /(?:lowest common multiple|highest common factor|greatest common divisor)/i.test(text);
             var aliases = commonFactor
               ? "greatest common factor highest common factor greatest common divisor gcf hcf gcd"
               : "";
