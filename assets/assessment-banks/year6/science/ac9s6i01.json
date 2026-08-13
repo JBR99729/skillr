@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S6I01-P-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a class investigation, students discuss the evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": false
+      },
+      {
+        "text": "investigable question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigable question means question answerable through planned evidence.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student checks a science notebook. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "investigable question",
+        "is_correct": false
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "variable means factor changed, measured or controlled.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A group compares its evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigable question",
+        "is_correct": false
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": true
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reasoned prediction means expected pattern with scientific justification.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "At a science station, the class reviews its work. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Define a measurable relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Define a measurable relationship.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student reviews a model. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State increase, decrease or difference.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State increase, decrease or difference.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Focus or use a design that can separate them.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Focus or use a design that can separate them.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep stages distinct.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep stages distinct.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student checks a science notebook. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-008",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "distance from lamp",
+        "is_correct": true
+      },
+      {
+        "text": "temperature increase after 10 min",
+        "is_correct": false
+      },
+      {
+        "text": "How does distance affect temperature increase?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Changed variable with distance from lamp.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A group compares its evidence. A science organiser labels one part “Measured variable”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Measured variable”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-009",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Measured variable as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "distance from lamp",
+        "is_correct": false
+      },
+      {
+        "text": "temperature increase after 10 min",
+        "is_correct": true
+      },
+      {
+        "text": "How does distance affect temperature increase?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Measured variable with temperature increase after 10 min.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “Question”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “Question”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-010",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Question as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "distance from lamp",
+        "is_correct": false
+      },
+      {
+        "text": "temperature increase after 10 min",
+        "is_correct": false
+      },
+      {
+        "text": "How does distance affect temperature increase?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Question with How does distance affect temperature increase?.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student reviews a model. A science organiser labels one part “Prediction”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “Prediction”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-011",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Prediction as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Closer samples will warm more because light intensity is greater",
+        "is_correct": true
+      },
+      {
+        "text": "distance from lamp",
+        "is_correct": false
+      },
+      {
+        "text": "temperature increase after 10 min",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Prediction with Closer samples will warm more because light intensity is greater.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Which circuit is best?”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Which circuit is best?”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-012",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Which circuit is best? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "How does light level affect growth rate?",
+        "is_correct": false
+      },
+      {
+        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "is_correct": true
+      },
+      {
+        "text": "How does water temperature affect dissolving time for equal samples?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Which circuit is best? with How does lamp arrangement affect brightness with the same cells?.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “Do plants like shade?”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “Do plants like shade?”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-013",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Do plants like shade? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "is_correct": false
+      },
+      {
+        "text": "How does water temperature affect dissolving time for equal samples?",
+        "is_correct": false
+      },
+      {
+        "text": "How does light level affect growth rate?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Do plants like shade? with How does light level affect growth rate?.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student checks a science notebook. A science organiser labels one part “Does everything dissolve?”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Does everything dissolve?”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-014",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Does everything dissolve? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "How does water temperature affect dissolving time for equal samples?",
+        "is_correct": true
+      },
+      {
+        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "is_correct": false
+      },
+      {
+        "text": "How does light level affect growth rate?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Does everything dissolve? with How does water temperature affect dissolving time for equal samples?.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A group compares its evidence. Which question is investigable?",
+    "audio_prompt": "A group compares its evidence. Which question is investigable?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which lamp looks nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "How does lamp distance affect temperature increase after 10 minutes?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is my favourite distance best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How does lamp distance affect temperature increase after 10 minutes? is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "At a science station, the class reviews its work. Which prediction is reasoned?",
+    "audio_prompt": "At a science station, the class reviews its work. Which prediction is reasoned?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Closer will win",
+        "is_correct": false
+      },
+      {
+        "text": "I hope it warms",
+        "is_correct": false
+      },
+      {
+        "text": "The closer sample will warm more because it receives more intense light",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The closer sample will warm more because it receives more intense light is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigable question",
+        "is_correct": true
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigable question means question answerable through planned evidence.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigable question",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "variable means factor changed, measured or controlled.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigable question",
+        "is_correct": false
+      },
+      {
+        "text": "variable",
+        "is_correct": false
+      },
+      {
+        "text": "reasoned prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "reasoned prediction means expected pattern with scientific justification.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Define a measurable relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Define a measurable relationship.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State increase, decrease or difference.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State increase, decrease or difference.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Focus or use a design that can separate them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focus or use a design that can separate them.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep stages distinct.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep stages distinct.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I01-P-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "practice",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-024",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "temperature increase after 10 min",
+        "is_correct": false
+      },
+      {
+        "text": "distance from lamp",
+        "is_correct": true
+      },
+      {
+        "text": "How does distance affect temperature increase?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Changed variable with distance from lamp.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A new investigation report must be checked. A student chose “Closer will win”. Reconsider this question using scientific evidence: Which prediction is reasoned?",
+    "audio_prompt": "A new investigation report must be checked. A student chose “Closer will win”. Reconsider this question using scientific evidence: Which prediction is reasoned?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closer sample will warm more because it receives more intense light",
+        "is_correct": true
+      },
+      {
+        "text": "Closer will win",
+        "is_correct": false
+      },
+      {
+        "text": "I hope it warms",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The closer sample will warm more because it receives more intense light is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A different class analyses its results. A student chose “Which lamp looks nicest?”. Reconsider this question using scientific evidence: Which question is investigable?",
+    "audio_prompt": "A different class analyses its results. A student chose “Which lamp looks nicest?”. Reconsider this question using scientific evidence: Which question is investigable?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which lamp looks nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "How does lamp distance affect temperature increase after 10 minutes?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is my favourite distance best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How does lamp distance affect temperature increase after 10 minutes? is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “How does water temperature affect dissolving time for equal samples?”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “How does water temperature affect dissolving time for equal samples?”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-003",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Does everything dissolve? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Which circuit is best?",
+        "is_correct": false
+      },
+      {
+        "text": "Do plants like shade?",
+        "is_correct": false
+      },
+      {
+        "text": "Does everything dissolve?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How does water temperature affect dissolving time for equal samples? belongs under Does everything dissolve?.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does light level affect growth rate?”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does light level affect growth rate?”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-004",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Do plants like shade? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Do plants like shade?",
+        "is_correct": true
+      },
+      {
+        "text": "Which circuit is best?",
+        "is_correct": false
+      },
+      {
+        "text": "Does everything dissolve?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does light level affect growth rate? belongs under Do plants like shade?.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “How does lamp arrangement affect brightness with the same cells?”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “How does lamp arrangement affect brightness with the same cells?”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-005",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Which circuit is best? as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Do plants like shade?",
+        "is_correct": false
+      },
+      {
+        "text": "Which circuit is best?",
+        "is_correct": true
+      },
+      {
+        "text": "Does everything dissolve?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How does lamp arrangement affect brightness with the same cells? belongs under Which circuit is best?.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A different class analyses its results. A science organiser contains the entry “Closer samples will warm more because light intensity is greater”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “Closer samples will warm more because light intensity is greater”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-006",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Prediction as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Changed variable",
+        "is_correct": false
+      },
+      {
+        "text": "Measured variable",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Closer samples will warm more because light intensity is greater belongs under Prediction.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “How does distance affect temperature increase?”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “How does distance affect temperature increase?”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-007",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Question as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Question",
+        "is_correct": true
+      },
+      {
+        "text": "Changed variable",
+        "is_correct": false
+      },
+      {
+        "text": "Measured variable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does distance affect temperature increase? belongs under Question.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “temperature increase after 10 min”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “temperature increase after 10 min”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-008",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Measured variable as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Changed variable",
+        "is_correct": false
+      },
+      {
+        "text": "Measured variable",
+        "is_correct": true
+      },
+      {
+        "text": "Question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "temperature increase after 10 min belongs under Measured variable.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “distance from lamp”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “distance from lamp”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-009",
+      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Measured variable",
+        "is_correct": false
+      },
+      {
+        "text": "Question",
+        "is_correct": false
+      },
+      {
+        "text": "Changed variable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "distance from lamp belongs under Changed variable.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A different class analyses its results. A review recommends, “Keep stages distinct.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A different class analyses its results. A review recommends, “Keep stages distinct.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Conclusion written as prediction",
+        "is_correct": true
+      },
+      {
+        "text": "Question asks for preference",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction lacks direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Conclusion written as prediction”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A team conducts an independent evidence review. A review recommends, “Focus or use a design that can separate them.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Focus or use a design that can separate them.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question asks for preference",
+        "is_correct": false
+      },
+      {
+        "text": "Several variables change together",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction lacks direction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Several variables change together”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student applies the science to an unfamiliar situation. A review recommends, “State increase, decrease or difference.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “State increase, decrease or difference.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question asks for preference",
+        "is_correct": false
+      },
+      {
+        "text": "Several variables change together",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction lacks direction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Prediction lacks direction”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A new investigation report must be checked. A review recommends, “Define a measurable relationship.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A new investigation report must be checked. A review recommends, “Define a measurable relationship.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question asks for preference",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction lacks direction",
+        "is_correct": false
+      },
+      {
+        "text": "Several variables change together",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Question asks for preference”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A different class analyses its results. A student labels an observation “reasoned prediction”. Which description shows that term being used correctly?",
+    "audio_prompt": "A different class analyses its results. A student labels an observation “reasoned prediction”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question answerable through planned evidence",
+        "is_correct": false
+      },
+      {
+        "text": "expected pattern with scientific justification",
+        "is_correct": true
+      },
+      {
+        "text": "factor changed, measured or controlled",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reasoned prediction describes expected pattern with scientific justification.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A team conducts an independent evidence review. A student labels an observation “variable”. Which description shows that term being used correctly?",
+    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “variable”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question answerable through planned evidence",
+        "is_correct": false
+      },
+      {
+        "text": "expected pattern with scientific justification",
+        "is_correct": false
+      },
+      {
+        "text": "factor changed, measured or controlled",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "variable describes factor changed, measured or controlled.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  },
+  {
+    "id": "AC9S6I01-T-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable_questions_and_reasoned_predictions",
+    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “investigable question”. Which description shows that term being used correctly?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “investigable question”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question answerable through planned evidence",
+        "is_correct": true
+      },
+      {
+        "text": "factor changed, measured or controlled",
+        "is_correct": false
+      },
+      {
+        "text": "expected pattern with scientific justification",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigable question describes question answerable through planned evidence.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  }
+]
