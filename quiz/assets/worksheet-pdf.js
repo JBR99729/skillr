@@ -473,7 +473,10 @@
   function drawVisual(doc, visual, x, y, width, availableH) {
     if (!visual || availableH < 4) return y;
 
-    const lines = String(visual)
+    const visualText = visual && typeof visual === "object"
+      ? visual.fallback_text || visual.alt_text || ""
+      : visual;
+    const lines = String(visualText)
       .split(/\n+/)
       .map((line) => line.trim())
       .filter(Boolean)

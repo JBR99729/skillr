@@ -4,11 +4,21 @@
     "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
   }[c]));
 
+  function visualHtml(visual) {
+    if (!visual) return "";
+    if (typeof visual !== "object") return esc(visual).replace(/\n/g, "<br>");
+    const alt = esc(visual.alt_text || "Maths picture");
+    if (visual.asset_path && visual.symbol_id) {
+      return `<svg viewBox="${esc(visual.view_box || "0 0 720 180")}" role="img" aria-label="${alt}"><use href="${esc(visual.asset_path)}#${esc(visual.symbol_id)}"></use></svg>`;
+    }
+    return esc(visual.fallback_text || visual.alt_text || "").replace(/\n/g, "<br>");
+  }
+
   function questionHtml(q, i) {
     let body = "";
 
     if (q.visual) {
-      body += `<div class="visual">${esc(q.visual).replace(/\\n/g,"<br>")}</div>`;
+      body += `<div class="visual">${visualHtml(q.visual)}</div>`;
     }
 
     if (q.type === "single" || q.type === "true-false" || q.type === "multiple") {
@@ -135,6 +145,7 @@
         .print-q h3 { margin:0 0 5px; font-size:10.5pt; font-weight:600; line-height:1.35; }
         .choices { display:grid; grid-template-columns:1fr 1fr; gap:3px 14px; padding-left:9px; }
         .visual { text-align:center; font-size:12pt; margin:4px; }
+        .visual svg { display:block; width:100%; max-width:150mm; height:auto; max-height:30mm; margin:0 auto; }
         .line { height:17px; border-bottom:1px solid #aaa; margin-top:3px; }
         .answer { padding:4px 8px; }
         .print-footer { display:flex; justify-content:space-between; gap:12px; margin-top:10px; padding-top:6px; border-top:1px solid #bbb; font-size:8.5pt; color:#555; }

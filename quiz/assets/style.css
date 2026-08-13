@@ -1200,6 +1200,37 @@ h3 {
   max-width: 100%;
 }
 
+.question-visual-svg {
+  display: block;
+  width: min(100%, 720px);
+  height: auto;
+  max-height: 220px;
+  margin: 0 auto;
+}
+
+.question-audio-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  margin: 8px 0 12px;
+  padding: 9px 14px;
+  border: 2px solid #b8c9ec;
+  border-radius: 999px;
+  color: #173d86;
+  background: #f4f7ff;
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.question-audio-button:hover,
+.question-audio-button:focus-visible {
+  border-color: #2457d6;
+  background: #eaf0ff;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

@@ -1052,6 +1052,72 @@ document.addEventListener("DOMContentLoaded", () => {
     firstControl?.focus();
   }
 
+  function createStructuredQuestionVisual(question) {
+    const value = question.visual;
+    const visual = document.createElement("div");
+    visual.id = "questionVisual";
+    visual.className = "question-visual";
+
+    if (question.visualHtml) {
+      visual.innerHTML = question.visualHtml;
+      return visual;
+    }
+
+    if (!value || typeof value !== "object") {
+      visual.textContent = value || "";
+      return visual;
+    }
+
+    const altText = String(value.alt_text || value.alt || "Maths picture");
+    if (value.asset_path && value.symbol_id) {
+      const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+      const use = document.createElementNS("http://www.w3.org/2000/svg", "use");
+      svg.setAttribute("viewBox", value.view_box || "0 0 720 180");
+      svg.setAttribute("role", "img");
+      svg.setAttribute("aria-label", altText);
+      svg.classList.add("question-visual-svg");
+      use.setAttribute("href", `${value.asset_path}#${value.symbol_id}`);
+      svg.appendChild(use);
+      visual.appendChild(svg);
+    } else {
+      visual.textContent = value.fallback_text || altText;
+      visual.setAttribute("role", "img");
+      visual.setAttribute("aria-label", altText);
+    }
+    return visual;
+  }
+
+  function addQuestionAudioControl(question) {
+    document.getElementById("questionAudioButton")?.remove();
+    const prompt = String(question.audio_prompt || "").trim();
+    if (!prompt || !("speechSynthesis" in window) || !("SpeechSynthesisUtterance" in window)) return;
+
+    const button = document.createElement("button");
+    button.id = "questionAudioButton";
+    button.type = "button";
+    button.className = "question-audio-button";
+    button.textContent = "🔊 Read question aloud";
+    button.setAttribute("aria-label", "Read this question aloud");
+    button.addEventListener("click", () => {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(prompt);
+      utterance.lang = document.documentElement.lang || "en-AU";
+      utterance.rate = 0.9;
+      utterance.pitch = 1;
+      utterance.volume = 1;
+      window.speechSynthesis.speak(utterance);
+    });
+    elements.questionText.insertAdjacentElement("afterend", button);
+  }
+
+  function feedbackText(question, isCorrect) {
+    const explanation = question.explanation;
+    if (!explanation || typeof explanation !== "object") return String(explanation || "");
+    const summary = String(explanation.summary || "").trim();
+    const hint = String(explanation.hint || "").trim();
+    return !isCorrect && hint ? `${summary} Hint: ${hint}` : summary;
+  }
+
   function renderQuestion() {
     resetQuestionState();
 
@@ -1066,30 +1132,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
     elements.questionNumber.textContent =
       `Question ${position}`;
-const previousVisual =
-  document.getElementById("questionVisual");
+    window.speechSynthesis?.cancel?.();
+    document.getElementById("questionVisual")?.remove();
+    document.getElementById("questionAudioButton")?.remove();
 
-previousVisual?.remove();
-
-if (question.visual || question.visualHtml) {
-  const visual =
-    document.createElement("div");
-
-  visual.id = "questionVisual";
-  visual.className = "question-visual";
-  if (question.visualHtml) {
-    visual.innerHTML = question.visualHtml;
-  } else {
-    visual.textContent = question.visual;
-  }
-
-  elements.questionText.insertAdjacentElement(
-    "afterend",
-    visual
-  );
-}
+    if (question.visual || question.visualHtml) {
+      elements.questionText.insertAdjacentElement(
+        "afterend",
+        createStructuredQuestionVisual(question)
+      );
+    }
     elements.questionText.textContent =
       question.question;
+
+    addQuestionAudioControl(question);
 
     elements.progressText.textContent =
       `Question ${position} of ${activeQuestions.length}`;
@@ -2918,7 +2974,7 @@ function renderImageDragState(
 
   showFeedback(
     result.isCorrect,
-    question.explanation
+    feedbackText(question, result.isCorrect)
   );
 
   quizHistory.push({
@@ -2932,7 +2988,7 @@ function renderImageDragState(
       result.correctAnswer,
 
     explanation:
-      question.explanation || "",
+      feedbackText(question, false),
 
     isCorrect:
       result.isCorrect
