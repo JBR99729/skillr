@@ -1,107 +1,28 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9e7la01-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "understand how language expresses and creates personal and social identities",
-      "understand how complex and compound-complex sentences can be used to…",
-      "understand how consistency of tense through verbs and verb groups achieves…",
-      "analyse how techniques such as vectors, angle and/or social distance in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "investigate the role of vocabulary in building specialist and technical…",
-      "understanding local idioms and discussing their connection with personal and…",
-      "understand the use of punctuation including colons and brackets to support…",
-      "identify and explore ideas, points of view, characters, events and/or issues…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "form an opinion about characters, settings and events in texts, identifying…",
-      "explain the ways that literary devices and language features such as…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "discuss the aesthetic and social value of literary texts using relevant and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify and explain the ways that characters, settings and events combine to…",
-      "identify and explain how literary devices create layers of meaning in texts…",
-      "create and edit literary texts that experiment with language features and…",
-      "developing dialogue that reveals character in comics, cartoons and animations"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "understand how language expresses and creates personal and social identities",
-      "explain the effect of current technology on reading, creating and responding…",
-      "use interaction skills when discussing and presenting ideas and information…",
-      "analyse the ways in which language features shape meaning and vary according…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "explain the structure of ideas such as the use of taxonomies, cause and…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal texts, selecting…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver presentations for purposes and audiences…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "building knowledge about words of evaluation, including words to express…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "analysing how evaluative language can be used to assess the qualities of a…",
-      "recognising how evaluative language is used to critically assess the validity…",
-      "examining the structures of book or film reviews and how they might move from…",
-      "understand how language expresses and creates personal and social identities"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  }
+const q=(id,question,answers,correct,explanation)=>({id,type:"single",question,answers,correct,explanation});
+window.quizQuestions=[
+q("ac9e7la01-p01","Mia says to her friend, 'That test was brutal, but we smashed it.' What does the informal wording mainly show?",["A shared peer-group identity and relaxed relationship.","A formal relationship with a principal.","A scientific explanation of the test.","A neutral style with no social meaning."],0,"Informal slang such as 'brutal' and 'smashed it' can signal closeness and shared group identity."),
+q("ac9e7la01-p02","A student writes 'Good afternoon, Ms Lee' in an email but says 'Hey, what's up?' to a close friend. What is changing?",["The topic only.","The register to suit different relationships and audiences.","The spelling system.","The facts being communicated."],1,"Register changes with audience, purpose and relationship, helping speakers present social identity."),
+q("ac9e7la01-p03","Which line of dialogue most strongly suggests the speaker sees themself as part of a team?",["You should solve it.","They can solve it later.","We've got this if we work together.","Someone might solve it."],2,"Inclusive pronouns such as 'we' can create a shared group identity."),
+q("ac9e7la01-p04","A character says, 'Mate, no worries—I'll sort it.' Which feature most clearly contributes to an informal Australian social identity?",["The future tense.","The dash.","The pronoun 'I'.","The idiomatic expressions 'mate' and 'no worries'."],3,"Idioms and familiar address terms can signal social and cultural identity."),
+q("ac9e7la01-p05","Which sentence best shows a speaker adapting language to sound more professional?",["Could you please send the report by 3 pm?", "Send it now, yeah?", "Chuck me that report when you can.", "Oi, where's the report?"],0,"Polite modal language and precise wording create a more professional identity and relationship."),
+q("ac9e7la01-p06","In a comic, one character says 'Absolutely, I agree with your reasoning,' while another says 'Yep, fair call.' What does this contrast mainly reveal?",["Different plot events.","Different language choices that construct different social personas.","Different sentence lengths only.","Different levels of factual accuracy."],1,"Vocabulary and register can make speakers sound formal, casual, cautious, confident or aligned with particular groups."),
+q("ac9e7la01-p07","A teenager uses gaming terms with friends but avoids them in a school presentation. Why?",["Gaming terms are always grammatically wrong.","School presentations cannot contain nouns.","The speaker adjusts language to audience and context.","Identity disappears in formal situations."],2,"People often shift vocabulary and register to suit context while still expressing aspects of identity."),
+q("ac9e7la01-p08","Which dialogue most clearly constructs a confident personal identity?",["Maybe I could possibly try.","I don't really know what I think.","Whatever everyone else decides is fine.","I've checked the evidence, and I stand by my conclusion."],3,"Direct declarative language and first-person ownership can construct confidence."),
+q("ac9e7la01-p09","Why might a local idiom strengthen a sense of belonging in a conversation?",["People who recognise it may feel part of a shared language community.","Idioms always make meaning more formal.","Idioms remove all cultural meaning from language.","Only written language can express belonging."],0,"Shared idioms can signal membership, familiarity and common experience."),
+q("ac9e7la01-p10","A character changes from 'I guess we could try' to 'We will fix this together.' What shift in identity is suggested?",["From formal to scientific.","From hesitant to more confident and collective.","From friendly to hostile.","From truthful to dishonest."],1,"The modal shift and inclusive 'we' create a more decisive, group-focused identity."),
+q("ac9e7la01-p11","Which phrase most strongly creates social distance?",["Come sit with us.","We can work it out.","You people always do that.","Let's solve this together."],2,"The distancing phrase 'you people' separates the speaker from the group and can mark exclusion."),
+q("ac9e7la01-p12","A student says 'I reckon the plan will work' in conversation but writes 'The evidence suggests the plan is viable' in a report. What is the best explanation?",["The student has changed their opinion.","The student no longer has an identity.","Reports require longer words regardless of audience.","The student is using different registers for different contexts."],3,"The core meaning is similar, but the register changes to suit conversational and academic settings."),
+q("ac9e7la01-p13","Which feature most directly helps dialogue reveal a character's social identity?",["Distinctive vocabulary, idioms and ways of addressing others.","The number of speech bubbles only.","The colour of the page.","The length of the character's name."],0,"Consistent language patterns in dialogue can reveal group membership, relationships and personality."),
+q("ac9e7la01-p14","A new student begins using the phrase 'our class' instead of 'that class'. What change does this most likely signal?",["A change in grammar accuracy.","Growing identification with the group.","A change in the class timetable.","A more formal register."],1,"Possessive and inclusive language can signal increasing belonging."),
+q("ac9e7la01-p15","Which sentence best shows language being used to resist a label imposed by others?",["They call me quiet, so I must be quiet.","Everyone's labels are always correct.","You may see me as shy, but I see myself as thoughtful and observant.","Labels have no connection with identity."],2,"The speaker explicitly challenges an external label and asserts a preferred self-identity."),
+q("ac9e7la01-p16","A sports captain says, 'We win together, we learn together, and no one gets left behind.' What identity is being constructed?",["An isolated individual identity.","A competitive identity based only on winning.","A formal legal identity.","A collective, supportive team identity."],3,"Repeated inclusive 'we' and the commitment to everyone construct a shared, supportive group identity."),
+q("ac9e7la01-p17","Which statement about language and identity is most accurate?",["Language choices can signal belonging, relationships, values and personal style.","Identity is shown only by accent.","Formal language never expresses identity.","Everyone uses exactly the same language in every context."],0,"Identity can be expressed through vocabulary, register, pronouns, idioms, tone and many other language choices."),
+q("ac9e7la01-p18","A character calls one person 'Dr Patel' and another 'Sam'. What can the different forms of address suggest?",["Only the characters' ages.","Different relationships, levels of familiarity or social distance.","That one name is grammatically correct and the other is not.","That the speaker has changed topic."],1,"Titles and first names can position relationships as more formal, respectful, familiar or close."),
+q("ac9e7la01-p19","Why is it inaccurate to say that informal language is always 'bad English'?",["Informal language has no rules at all.","Only formal language can be understood.","Informal language can be effective and appropriate for particular audiences and relationships.","Informal language is identical in every group."],2,"Appropriateness depends on context; informal language can communicate identity and relationships effectively."),
+q("ac9e7la01-p20","A character normally uses short casual sentences but suddenly says, 'I respectfully request that you reconsider.' What does the shift most likely show?",["The character forgot how to speak casually.","The character changed the subject.","The character is quoting a dictionary.","The character is deliberately adopting a more formal persona for the situation."],3,"A sudden register shift can signal a strategic change in how a speaker wants to be perceived."),
+q("ac9e7la01-p21","Which line most clearly creates an insider identity within a friendship group?",["Same spot after school? You know the drill.","Please assemble at the designated location.","A location exists after school.","Some people might meet somewhere."],0,"Shared shorthand assumes common knowledge and signals closeness within a group."),
+q("ac9e7la01-p22","A speaker says, 'As the oldest sibling, I always look out for them.' Which language feature most directly expresses personal identity?",["The comma.","The self-description 'the oldest sibling'.","The plural pronoun 'them' only.","The present tense only."],1,"Naming a social role directly positions the speaker's identity within a family relationship."),
+q("ac9e7la01-p23","Two characters disagree. One says, 'You're wrong.' The other says, 'I see it differently because...' Which difference in social identity is suggested?",["The second character knows more facts automatically.","The first character is always dishonest.","The second character constructs a more diplomatic and reasoned persona.","Neither line reveals anything about interaction style."],2,"Hedged disagreement plus explanation can construct a cooperative or diplomatic identity."),
+q("ac9e7la01-p24","Why might an author give a character a repeated catchphrase?",["To avoid creating any personality.","To make every character sound identical.","Because repeated language cannot carry meaning.","To help build a recognisable voice and identity for the character."],3,"Repeated distinctive language can make a character's voice and social persona recognisable.")
 ];
