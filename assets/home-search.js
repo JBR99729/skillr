@@ -56,7 +56,10 @@
   if (!input || !results || !form) return;
 
   function normalise(value) {
-    return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    return value.toLowerCase()
+      .replace(/[^a-z0-9]+/g, " ")
+      .replace(/\bmulitpl(e|es)\b/g, "multipl$1")
+      .trim();
   }
 
   function describe(url) {
