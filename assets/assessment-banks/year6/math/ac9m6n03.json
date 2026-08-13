@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6n03-p-001",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a class investigation, a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "equivalent fractions means different fraction names for the same value.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-002",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At the school market, a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": true
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "common denominator means shared denominator used for comparison or calculation.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-003",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While planning a garden, a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": true
+      },
+      {
+        "text": "common denominator",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "benchmark means familiar reference value such as 0, 1/2 or 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-004",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a robotics challenge, a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "For the same numerator, more parts means smaller parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For the same numerator, more parts means smaller parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-005",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During sports-day planning, a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fractions must refer to equal-sized wholes.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fractions must refer to equal-sized wholes.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-006",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At a wildlife centre, a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare numerator with denominator first.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare numerator with denominator first.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-007",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While checking a map, a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Equal numerical steps require equal spacing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal numerical steps require equal spacing.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-008",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In the makerspace, Which fraction is greatest?",
+    "audio_prompt": "In the makerspace, Which fraction is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5/6",
+        "is_correct": true
+      },
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "5/6 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-009",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a cooking project, Which mixed numeral equals 7/4?",
+    "audio_prompt": "During a cooking project, Which mixed numeral equals 7/4?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 7/4",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "2 1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "1 3/4 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-010",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At the community fair. The quantities or representation come from a fresh example. a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "audio_prompt": "At the community fair. The quantities or representation come from a fresh example. a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "equivalent fractions means different fraction names for the same value.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-011",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "audio_prompt": "While organising a library display. The quantities or representation come from a fresh example. a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": true
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "common denominator means shared denominator used for comparison or calculation.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-012",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "audio_prompt": "In a science notebook. The quantities or representation come from a fresh example. a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": true
+      },
+      {
+        "text": "common denominator",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "benchmark means familiar reference value such as 0, 1/2 or 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-013",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "For the same numerator, more parts means smaller parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For the same numerator, more parts means smaller parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-014",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fractions must refer to equal-sized wholes.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fractions must refer to equal-sized wholes.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-015",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare numerator with denominator first.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare numerator with denominator first.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-016",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Equal numerical steps require equal spacing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal numerical steps require equal spacing.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-017",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a building project. The quantities or representation come from a fresh example. Which fraction is greatest?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. Which fraction is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5/6",
+        "is_correct": true
+      },
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "5/6 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-018",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At the local pool. The quantities or representation come from a fresh example. Which mixed numeral equals 7/4?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. Which mixed numeral equals 7/4?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 7/4",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "2 1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "1 3/4 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-019",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “different fraction names for the same value”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "equivalent fractions means different fraction names for the same value.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-020",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a games club. The quantities or representation come from a fresh example. a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a note says “shared denominator used for comparison or calculation”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "common denominator",
+        "is_correct": true
+      },
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "common denominator means shared denominator used for comparison or calculation.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-021",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During an art project. The quantities or representation come from a fresh example. a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a note says “familiar reference value such as 0, 1/2 or 1”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "equivalent fractions",
+        "is_correct": false
+      },
+      {
+        "text": "benchmark",
+        "is_correct": true
+      },
+      {
+        "text": "common denominator",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "benchmark means familiar reference value such as 0, 1/2 or 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-022",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "For the same numerator, more parts means smaller parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For the same numerator, more parts means smaller parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-023",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fractions must refer to equal-sized wholes.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fractions must refer to equal-sized wholes.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-p-024",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare numerator with denominator first.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare numerator with denominator first.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-001",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At a coastal research station, another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?",
+    "audio_prompt": "At a coastal research station, another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "1 7/4",
+        "is_correct": false
+      },
+      {
+        "text": "2 1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "1 3/4 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-002",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a museum challenge, another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?",
+    "audio_prompt": "During a museum challenge, another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "5/6",
+        "is_correct": true
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "5/6 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-003",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While planning a charity event, a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While planning a charity event, a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      },
+      {
+        "text": "Number-line intervals drawn unequally",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal numerical steps require equal spacing.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-004",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In an engineering workshop, a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an engineering workshop, a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": true
+      },
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare numerator with denominator first.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-005",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At a regional sports carnival, a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a regional sports carnival, a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": true
+      },
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fractions must refer to equal-sized wholes.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-006",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a farm survey, a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a farm survey, a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      },
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": false
+      },
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For the same numerator, more parts means smaller parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-007",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While interpreting a trail guide, a student uses the term “benchmark”. Which description shows it correctly?",
+    "audio_prompt": "While interpreting a trail guide, a student uses the term “benchmark”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "familiar reference value such as 0, 1/2 or 1",
+        "is_correct": true
+      },
+      {
+        "text": "different fraction names for the same value",
+        "is_correct": false
+      },
+      {
+        "text": "shared denominator used for comparison or calculation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "benchmark means familiar reference value such as 0, 1/2 or 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-008",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In an architecture studio, a student uses the term “common denominator”. Which description shows it correctly?",
+    "audio_prompt": "In an architecture studio, a student uses the term “common denominator”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "different fraction names for the same value",
+        "is_correct": false
+      },
+      {
+        "text": "shared denominator used for comparison or calculation",
+        "is_correct": true
+      },
+      {
+        "text": "familiar reference value such as 0, 1/2 or 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "common denominator means shared denominator used for comparison or calculation.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-009",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a food-truck project, a student uses the term “equivalent fractions”. Which description shows it correctly?",
+    "audio_prompt": "During a food-truck project, a student uses the term “equivalent fractions”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "shared denominator used for comparison or calculation",
+        "is_correct": false
+      },
+      {
+        "text": "familiar reference value such as 0, 1/2 or 1",
+        "is_correct": false
+      },
+      {
+        "text": "different fraction names for the same value",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "equivalent fractions means different fraction names for the same value.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-010",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At a music festival. The quantities or representation come from a fresh example. another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?",
+    "audio_prompt": "At a music festival. The quantities or representation come from a fresh example. another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "1 7/4",
+        "is_correct": false
+      },
+      {
+        "text": "2 1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "1 3/4 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-011",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?",
+    "audio_prompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "5/6",
+        "is_correct": true
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "5/6 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-012",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      },
+      {
+        "text": "Number-line intervals drawn unequally",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal numerical steps require equal spacing.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-013",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": true
+      },
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare numerator with denominator first.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-014",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": false
+      },
+      {
+        "text": "Different wholes compared",
+        "is_correct": true
+      },
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fractions must refer to equal-sized wholes.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-015",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different wholes compared",
+        "is_correct": false
+      },
+      {
+        "text": "Improper fraction placed below one",
+        "is_correct": false
+      },
+      {
+        "text": "Larger denominator means larger value",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For the same numerator, more parts means smaller parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n03-t-016",
+    "curriculum_code": "AC9M6N03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "equivalent_fractions_on_a_common_number_line",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a student uses the term “benchmark”. Which description shows it correctly?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a student uses the term “benchmark”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "familiar reference value such as 0, 1/2 or 1",
+        "is_correct": true
+      },
+      {
+        "text": "different fraction names for the same value",
+        "is_correct": false
+      },
+      {
+        "text": "shared denominator used for comparison or calculation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "benchmark means familiar reference value such as 0, 1/2 or 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  }
+]

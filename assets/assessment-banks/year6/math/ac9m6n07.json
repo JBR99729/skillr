@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6n07-p-001",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a class investigation, a note says “part found by applying a rate per hundred”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “part found by applying a rate per hundred”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "percentage of a quantity",
+        "is_correct": true
+      },
+      {
+        "text": "discount",
+        "is_correct": false
+      },
+      {
+        "text": "sale price",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "percentage of a quantity means part found by applying a rate per hundred.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-002",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At the school market, a note says “amount removed from an original price”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “amount removed from an original price”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "percentage of a quantity",
+        "is_correct": false
+      },
+      {
+        "text": "discount",
+        "is_correct": true
+      },
+      {
+        "text": "sale price",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "discount means amount removed from an original price.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-003",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While planning a garden, a note says “original price minus discount”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “original price minus discount”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "percentage of a quantity",
+        "is_correct": false
+      },
+      {
+        "text": "discount",
+        "is_correct": false
+      },
+      {
+        "text": "sale price",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "sale price means original price minus discount.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-004",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a robotics challenge, a student reasons, “Discount amount reported as final price”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Discount amount reported as final price”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Subtract the discount from the original.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract the discount from the original.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-005",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During sports-day planning, a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "20% = 0.20, not 20.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "20% = 0.20, not 20.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-006",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At a wildlife centre, a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a fraction, decimal or benchmark strategy.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a fraction, decimal or benchmark strategy.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-007",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While checking a map, a student reasons, “Whole not identified”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Whole not identified”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State the original total before finding a part.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State the original total before finding a part.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-008",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In the makerspace, a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-008",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 25% = 1/4."
+    },
+    "answers": [
+      {
+        "text": "strategy; amount",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 4; $60",
+        "is_correct": true
+      },
+      {
+        "text": "240 ÷ 10 × 4; $96",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 25% = 1/4 with 240 ÷ 4; $60.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-009",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a cooking project, a Fractions, Decimals and Percentages of Quantities organiser labels a row “40% = 4/10”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Fractions, Decimals and Percentages of Quantities organiser labels a row “40% = 4/10”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-009",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 40% = 4/10."
+    },
+    "answers": [
+      {
+        "text": "strategy; amount",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 4; $60",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 10 × 4; $96",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 40% = 4/10 with 240 ÷ 10 × 4; $96.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-010",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At the community fair, a Fractions, Decimals and Percentages of Quantities organiser labels a row “75% = 3/4”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Fractions, Decimals and Percentages of Quantities organiser labels a row “75% = 3/4”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-010",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 75% = 3/4."
+    },
+    "answers": [
+      {
+        "text": "240 ÷ 4 × 3; $180",
+        "is_correct": true
+      },
+      {
+        "text": "strategy; amount",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 4; $60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 75% = 3/4 with 240 ÷ 4 × 3; $180.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-011",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While organising a library display, a Fractions, Decimals and Percentages of Quantities organiser labels a row “10% of 360”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Fractions, Decimals and Percentages of Quantities organiser labels a row “10% of 360”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-011",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 10% of 360."
+    },
+    "answers": [
+      {
+        "text": "discount $17; pay $68",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": true
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 10% of 360 with 36.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-012",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a science notebook, a Fractions, Decimals and Percentages of Quantities organiser labels a row “0.5 of 74”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Fractions, Decimals and Percentages of Quantities organiser labels a row “0.5 of 74”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-012",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 0.5 of 74."
+    },
+    "answers": [
+      {
+        "text": "discount $17; pay $68",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 0.5 of 74 with 37.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-013",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a design challenge, a Fractions, Decimals and Percentages of Quantities organiser labels a row “3/5 of 90”. Which entry belongs in that row?",
+    "audio_prompt": "During a design challenge, a Fractions, Decimals and Percentages of Quantities organiser labels a row “3/5 of 90”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-013",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 3/5 of 90."
+    },
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": true
+      },
+      {
+        "text": "discount $17; pay $68",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 3/5 of 90 with 54.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-014",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At the school canteen, a Fractions, Decimals and Percentages of Quantities organiser labels a row “digital tool”. Which entry belongs in that row?",
+    "audio_prompt": "At the school canteen, a Fractions, Decimals and Percentages of Quantities organiser labels a row “digital tool”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-014",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting digital tool."
+    },
+    "answers": [
+      {
+        "text": "discount $17; pay $68",
+        "is_correct": false
+      },
+      {
+        "text": "compare many prices after formula is set",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects digital tool with compare many prices after formula is set.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-015",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While comparing travel plans, What is 25% of $240?",
+    "audio_prompt": "While comparing travel plans, What is 25% of $240?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "$180",
+        "is_correct": false
+      },
+      {
+        "text": "$25",
+        "is_correct": false
+      },
+      {
+        "text": "$60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "$60 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-016",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a data workshop, A $240 item has 25% off. What is the sale price?",
+    "audio_prompt": "In a data workshop, A $240 item has 25% off. What is the sale price?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "$180",
+        "is_correct": true
+      },
+      {
+        "text": "$60",
+        "is_correct": false
+      },
+      {
+        "text": "$215",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$180 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-017",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “part found by applying a rate per hundred”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “part found by applying a rate per hundred”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "discount",
+        "is_correct": false
+      },
+      {
+        "text": "percentage of a quantity",
+        "is_correct": true
+      },
+      {
+        "text": "sale price",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "percentage of a quantity means part found by applying a rate per hundred.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-018",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “amount removed from an original price”. Which mathematical term labels it?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a note says “amount removed from an original price”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "percentage of a quantity",
+        "is_correct": false
+      },
+      {
+        "text": "sale price",
+        "is_correct": false
+      },
+      {
+        "text": "discount",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discount means amount removed from an original price.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-019",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “original price minus discount”. Which mathematical term labels it?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “original price minus discount”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sale price",
+        "is_correct": true
+      },
+      {
+        "text": "percentage of a quantity",
+        "is_correct": false
+      },
+      {
+        "text": "discount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "sale price means original price minus discount.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-020",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Discount amount reported as final price”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Discount amount reported as final price”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract the discount from the original.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract the discount from the original.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-021",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "20% = 0.20, not 20.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "20% = 0.20, not 20.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-022",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a fraction, decimal or benchmark strategy.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a fraction, decimal or benchmark strategy.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-023",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Whole not identified”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Whole not identified”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State the original total before finding a part.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State the original total before finding a part.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-p-024",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-p-024",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 25% = 1/4."
+    },
+    "answers": [
+      {
+        "text": "strategy; amount",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 10 × 4; $96",
+        "is_correct": false
+      },
+      {
+        "text": "240 ÷ 4; $60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 25% = 1/4 with 240 ÷ 4; $60.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-001",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At a coastal research station, another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?",
+    "audio_prompt": "At a coastal research station, another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "$60",
+        "is_correct": false
+      },
+      {
+        "text": "$180",
+        "is_correct": true
+      },
+      {
+        "text": "$215",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "$180 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-002",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a museum challenge, another student selected “$180”. Reconsider the evidence: What is 25% of $240?",
+    "audio_prompt": "During a museum challenge, another student selected “$180”. Reconsider the evidence: What is 25% of $240?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "$180",
+        "is_correct": false
+      },
+      {
+        "text": "$25",
+        "is_correct": false
+      },
+      {
+        "text": "$60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "$60 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-003",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While planning a charity event, a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-003",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting digital tool."
+    },
+    "answers": [
+      {
+        "text": "digital tool",
+        "is_correct": true
+      },
+      {
+        "text": "20% discount on $85",
+        "is_correct": false
+      },
+      {
+        "text": "10% of 360",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects digital tool with compare many prices after formula is set.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-004",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In an engineering workshop, a Fractions, Decimals and Percentages of Quantities organiser contains “54”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Fractions, Decimals and Percentages of Quantities organiser contains “54”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-004",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 3/5 of 90."
+    },
+    "answers": [
+      {
+        "text": "20% discount on $85",
+        "is_correct": false
+      },
+      {
+        "text": "3/5 of 90",
+        "is_correct": true
+      },
+      {
+        "text": "10% of 360",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 3/5 of 90 with 54.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-005",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At a regional sports carnival, a Fractions, Decimals and Percentages of Quantities organiser contains “37”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Fractions, Decimals and Percentages of Quantities organiser contains “37”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-005",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 0.5 of 74."
+    },
+    "answers": [
+      {
+        "text": "20% discount on $85",
+        "is_correct": false
+      },
+      {
+        "text": "10% of 360",
+        "is_correct": false
+      },
+      {
+        "text": "0.5 of 74",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 0.5 of 74 with 37.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-006",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a farm survey, a Fractions, Decimals and Percentages of Quantities organiser contains “36”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Fractions, Decimals and Percentages of Quantities organiser contains “36”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-006",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 10% of 360."
+    },
+    "answers": [
+      {
+        "text": "10% of 360",
+        "is_correct": true
+      },
+      {
+        "text": "20% discount on $85",
+        "is_correct": false
+      },
+      {
+        "text": "0.5 of 74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 10% of 360 with 36.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-007",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While interpreting a trail guide, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4 × 3; $180”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4 × 3; $180”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-007",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 75% = 3/4."
+    },
+    "answers": [
+      {
+        "text": "part",
+        "is_correct": false
+      },
+      {
+        "text": "75% = 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "25% = 1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 75% = 3/4 with 240 ÷ 4 × 3; $180.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-008",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In an architecture studio, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 10 × 4; $96”. Which heading best identifies that information?",
+    "audio_prompt": "In an architecture studio, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 10 × 4; $96”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-008",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 40% = 4/10."
+    },
+    "answers": [
+      {
+        "text": "part",
+        "is_correct": false
+      },
+      {
+        "text": "25% = 1/4",
+        "is_correct": false
+      },
+      {
+        "text": "40% = 4/10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 40% = 4/10 with 240 ÷ 10 × 4; $96.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-009",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a food-truck project, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4; $60”. Which heading best identifies that information?",
+    "audio_prompt": "During a food-truck project, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4; $60”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-009",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting 25% = 1/4."
+    },
+    "answers": [
+      {
+        "text": "25% = 1/4",
+        "is_correct": true
+      },
+      {
+        "text": "part",
+        "is_correct": false
+      },
+      {
+        "text": "40% = 4/10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 25% = 1/4 with 240 ÷ 4; $60.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-010",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At a music festival, a review recommends, “State the original total before finding a part.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “State the original total before finding a part.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Discount amount reported as final price",
+        "is_correct": false
+      },
+      {
+        "text": "Whole not identified",
+        "is_correct": true
+      },
+      {
+        "text": "Percent converted to whole number multiplier",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State the original total before finding a part.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-011",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While organising a book drive, a review recommends, “Use a fraction, decimal or benchmark strategy.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “Use a fraction, decimal or benchmark strategy.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Discount amount reported as final price",
+        "is_correct": false
+      },
+      {
+        "text": "Percent converted to whole number multiplier",
+        "is_correct": false
+      },
+      {
+        "text": "Quantity divided by percentage number only",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a fraction, decimal or benchmark strategy.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-012",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In an environmental study, a review recommends, “20% = 0.20, not 20.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an environmental study, a review recommends, “20% = 0.20, not 20.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Percent converted to whole number multiplier",
+        "is_correct": true
+      },
+      {
+        "text": "Discount amount reported as final price",
+        "is_correct": false
+      },
+      {
+        "text": "Quantity divided by percentage number only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "20% = 0.20, not 20.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-013",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "During a playground redesign, a review recommends, “Subtract the discount from the original.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a playground redesign, a review recommends, “Subtract the discount from the original.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Percent converted to whole number multiplier",
+        "is_correct": false
+      },
+      {
+        "text": "Discount amount reported as final price",
+        "is_correct": true
+      },
+      {
+        "text": "Quantity divided by percentage number only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract the discount from the original.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-014",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "At a transport depot, a student uses the term “sale price”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “sale price”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "part found by applying a rate per hundred",
+        "is_correct": false
+      },
+      {
+        "text": "amount removed from an original price",
+        "is_correct": false
+      },
+      {
+        "text": "original price minus discount",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "sale price means original price minus discount.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-015",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "While preparing a camping trip, a student uses the term “discount”. Which description shows it correctly?",
+    "audio_prompt": "While preparing a camping trip, a student uses the term “discount”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "amount removed from an original price",
+        "is_correct": true
+      },
+      {
+        "text": "part found by applying a rate per hundred",
+        "is_correct": false
+      },
+      {
+        "text": "original price minus discount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "discount means amount removed from an original price.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n07-t-016",
+    "curriculum_code": "AC9M6N07",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "fractions_decimals_and_percentages_of_quantities",
+    "question": "In a strategy tournament, a student uses the term “percentage of a quantity”. Which description shows it correctly?",
+    "audio_prompt": "In a strategy tournament, a student uses the term “percentage of a quantity”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "amount removed from an original price",
+        "is_correct": false
+      },
+      {
+        "text": "part found by applying a rate per hundred",
+        "is_correct": true
+      },
+      {
+        "text": "original price minus discount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "percentage of a quantity means part found by applying a rate per hundred.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  }
+]

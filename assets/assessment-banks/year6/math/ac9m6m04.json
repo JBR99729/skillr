@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6m04-p-001",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a class investigation, a note says “angles with total 180°”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “angles with total 180°”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "supplementary angles",
+        "is_correct": true
+      },
+      {
+        "text": "vertically opposite angles",
+        "is_correct": false
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "supplementary angles means angles with total 180°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-002",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At the school market, a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "supplementary angles",
+        "is_correct": false
+      },
+      {
+        "text": "vertically opposite angles",
+        "is_correct": true
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-003",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While planning a garden, a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "supplementary angles",
+        "is_correct": false
+      },
+      {
+        "text": "vertically opposite angles",
+        "is_correct": false
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "angles at a point means angles around a point totalling 360°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-004",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a robotics challenge, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use given values and geometric facts.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use given values and geometric facts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-005",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During sports-day planning, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Opposite angles do not share a side.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Opposite angles do not share a side.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-006",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At a wildlife centre, a student reasons, “180° used around a point”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “180° used around a point”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn totals 360°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A full turn totals 360°.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-007",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While checking a map, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Include the stated turn region.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Include the stated turn region.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-008",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-008",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line."
+    },
+    "answers": [
+      {
+        "text": "equation",
+        "is_correct": false
+      },
+      {
+        "text": "a + b = 180°",
+        "is_correct": true
+      },
+      {
+        "text": "a + b + c + and continuing = 360°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects straight line with a + b = 180°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-009",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-009",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point."
+    },
+    "answers": [
+      {
+        "text": "equation",
+        "is_correct": false
+      },
+      {
+        "text": "a + b = 180°",
+        "is_correct": false
+      },
+      {
+        "text": "a + b + c + and continuing = 360°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects angles at a point with a + b + c + and continuing = 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-010",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-010",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite."
+    },
+    "answers": [
+      {
+        "text": "a = c and b = d",
+        "is_correct": true
+      },
+      {
+        "text": "equation",
+        "is_correct": false
+      },
+      {
+        "text": "a + b = 180°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects vertically opposite with a = c and b = d.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-011",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-011",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle."
+    },
+    "answers": [
+      {
+        "text": "equation",
+        "is_correct": false
+      },
+      {
+        "text": "parts total 90°",
+        "is_correct": true
+      },
+      {
+        "text": "a + b = 180°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects right angle with parts total 90°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-012",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a science notebook, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-012",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125."
+    },
+    "answers": [
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "125° supplement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 125 with 125° supplement.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-013",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a design challenge, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "audio_prompt": "During a design challenge, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-013",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90."
+    },
+    "answers": [
+      {
+        "text": "right",
+        "is_correct": true
+      },
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "125° supplement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 90 with right.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-014",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At the school canteen, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "audio_prompt": "At the school canteen, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-014",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235."
+    },
+    "answers": [
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "reflex at point",
+        "is_correct": true
+      },
+      {
+        "text": "125° supplement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 235 with reflex at point.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-015",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While comparing travel plans, An angle on a straight line is 55°. What is the adjacent angle?",
+    "audio_prompt": "While comparing travel plans, An angle on a straight line is 55°. What is the adjacent angle?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "305°",
+        "is_correct": false
+      },
+      {
+        "text": "125°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "125° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-016",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a data workshop, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "audio_prompt": "In a data workshop, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "72°",
+        "is_correct": true
+      },
+      {
+        "text": "108°",
+        "is_correct": false
+      },
+      {
+        "text": "288°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "72° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-017",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “angles with total 180°”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “angles with total 180°”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "vertically opposite angles",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary angles",
+        "is_correct": true
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "supplementary angles means angles with total 180°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-018",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "supplementary angles",
+        "is_correct": false
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": false
+      },
+      {
+        "text": "vertically opposite angles",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-019",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "angles at a point",
+        "is_correct": true
+      },
+      {
+        "text": "supplementary angles",
+        "is_correct": false
+      },
+      {
+        "text": "vertically opposite angles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "angles at a point means angles around a point totalling 360°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-020",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Use given values and geometric facts.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use given values and geometric facts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-021",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Opposite angles do not share a side.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Opposite angles do not share a side.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-022",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A full turn totals 360°.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A full turn totals 360°.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-023",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Include the stated turn region.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Include the stated turn region.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-p-024",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-024",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line."
+    },
+    "answers": [
+      {
+        "text": "equation",
+        "is_correct": false
+      },
+      {
+        "text": "a + b + c + and continuing = 360°",
+        "is_correct": false
+      },
+      {
+        "text": "a + b = 180°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects straight line with a + b = 180°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-001",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At a coastal research station, another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "audio_prompt": "At a coastal research station, another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "108°",
+        "is_correct": false
+      },
+      {
+        "text": "72°",
+        "is_correct": true
+      },
+      {
+        "text": "288°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "72° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-002",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a museum challenge, another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?",
+    "audio_prompt": "During a museum challenge, another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "305°",
+        "is_correct": false
+      },
+      {
+        "text": "125°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "125° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-003",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While planning a charity event, a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-003",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235."
+    },
+    "answers": [
+      {
+        "text": "235",
+        "is_correct": true
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "125",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 235 with reflex at point.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-004",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In an engineering workshop, a Angle Relationships on Lines and at Points organiser contains “right”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Angle Relationships on Lines and at Points organiser contains “right”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-004",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90."
+    },
+    "answers": [
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "125",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 90 with right.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-005",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At a regional sports carnival, a Angle Relationships on Lines and at Points organiser contains “125° supplement”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Angle Relationships on Lines and at Points organiser contains “125° supplement”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-005",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125."
+    },
+    "answers": [
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "125",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 125 with 125° supplement.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-006",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a farm survey, a Angle Relationships on Lines and at Points organiser contains “parts total 90°”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Angle Relationships on Lines and at Points organiser contains “parts total 90°”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-006",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle."
+    },
+    "answers": [
+      {
+        "text": "right angle",
+        "is_correct": true
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "straight line",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects right angle with parts total 90°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-007",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While interpreting a trail guide, a Angle Relationships on Lines and at Points organiser contains “a = c and b = d”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Angle Relationships on Lines and at Points organiser contains “a = c and b = d”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-007",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite."
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "vertically opposite",
+        "is_correct": true
+      },
+      {
+        "text": "straight line",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects vertically opposite with a = c and b = d.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-008",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In an architecture studio, a Angle Relationships on Lines and at Points organiser contains “a + b + c + and continuing = 360°”. Which heading best identifies that information?",
+    "audio_prompt": "In an architecture studio, a Angle Relationships on Lines and at Points organiser contains “a + b + c + and continuing = 360°”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-008",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point."
+    },
+    "answers": [
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "straight line",
+        "is_correct": false
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects angles at a point with a + b + c + and continuing = 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-009",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a food-truck project, a Angle Relationships on Lines and at Points organiser contains “a + b = 180°”. Which heading best identifies that information?",
+    "audio_prompt": "During a food-truck project, a Angle Relationships on Lines and at Points organiser contains “a + b = 180°”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-009",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line."
+    },
+    "answers": [
+      {
+        "text": "straight line",
+        "is_correct": true
+      },
+      {
+        "text": "relationship",
+        "is_correct": false
+      },
+      {
+        "text": "angles at a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects straight line with a + b = 180°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-010",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At a music festival, a review recommends, “Include the stated turn region.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “Include the stated turn region.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Diagram measured instead of relationship used",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex angle omitted",
+        "is_correct": true
+      },
+      {
+        "text": "Adjacent and vertically opposite confused",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Include the stated turn region.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-011",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While organising a book drive, a review recommends, “A full turn totals 360°.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “A full turn totals 360°.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Diagram measured instead of relationship used",
+        "is_correct": false
+      },
+      {
+        "text": "Adjacent and vertically opposite confused",
+        "is_correct": false
+      },
+      {
+        "text": "180° used around a point",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A full turn totals 360°.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-012",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In an environmental study, a review recommends, “Opposite angles do not share a side.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an environmental study, a review recommends, “Opposite angles do not share a side.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adjacent and vertically opposite confused",
+        "is_correct": true
+      },
+      {
+        "text": "Diagram measured instead of relationship used",
+        "is_correct": false
+      },
+      {
+        "text": "180° used around a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Opposite angles do not share a side.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-013",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "During a playground redesign, a review recommends, “Use given values and geometric facts.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a playground redesign, a review recommends, “Use given values and geometric facts.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adjacent and vertically opposite confused",
+        "is_correct": false
+      },
+      {
+        "text": "Diagram measured instead of relationship used",
+        "is_correct": true
+      },
+      {
+        "text": "180° used around a point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use given values and geometric facts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-014",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "At a transport depot, a student uses the term “angles at a point”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “angles at a point”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "angles with total 180°",
+        "is_correct": false
+      },
+      {
+        "text": "opposite angles formed by intersecting lines",
+        "is_correct": false
+      },
+      {
+        "text": "angles around a point totalling 360°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "angles at a point means angles around a point totalling 360°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-015",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "While preparing a camping trip, a student uses the term “vertically opposite angles”. Which description shows it correctly?",
+    "audio_prompt": "While preparing a camping trip, a student uses the term “vertically opposite angles”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "opposite angles formed by intersecting lines",
+        "is_correct": true
+      },
+      {
+        "text": "angles with total 180°",
+        "is_correct": false
+      },
+      {
+        "text": "angles around a point totalling 360°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6m04-t-016",
+    "curriculum_code": "AC9M6M04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "angle_relationships_on_lines_and_at_points",
+    "question": "In a strategy tournament, a student uses the term “supplementary angles”. Which description shows it correctly?",
+    "audio_prompt": "In a strategy tournament, a student uses the term “supplementary angles”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "opposite angles formed by intersecting lines",
+        "is_correct": false
+      },
+      {
+        "text": "angles with total 180°",
+        "is_correct": true
+      },
+      {
+        "text": "angles around a point totalling 360°",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "supplementary angles means angles with total 180°.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  }
+]

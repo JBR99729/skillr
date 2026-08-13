@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6st03-p-001",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a class investigation, a note says “question anticipating variation in data”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “question anticipating variation in data”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": true
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      },
+      {
+        "text": "representative sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "statistical question means question anticipating variation in data.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-002",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At the school market, a note says “complete group of interest”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “complete group of interest”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": true
+      },
+      {
+        "text": "representative sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "population means complete group of interest.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-003",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While planning a garden, a note says “sample reflecting relevant population characteristics”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “sample reflecting relevant population characteristics”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      },
+      {
+        "text": "representative sample",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "representative sample means sample reflecting relevant population characteristics.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-004",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a robotics challenge, a student reasons, “Question has one fixed answer”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Question has one fixed answer”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Statistical questions expect variability.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Statistical questions expect variability.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-005",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During sports-day planning, a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State selection limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State selection limitations.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-006",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At a wildlife centre, a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Correct only documented errors.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Correct only documented errors.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-007",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While checking a map, a student reasons, “Conclusion written before analysis”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Conclusion written before analysis”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let evidence guide it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Let evidence guide it.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-008",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In the makerspace, a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-008",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting population."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": true
+      },
+      {
+        "text": "How can selection be fair and practical?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects population with Who or what is the conclusion about?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-009",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a cooking project, a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-009",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting sample."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      },
+      {
+        "text": "How can selection be fair and practical?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects sample with How can selection be fair and practical?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-010",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At the community fair, a Planning and Conducting Statistical Investigations organiser labels a row “variable”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Planning and Conducting Statistical Investigations organiser labels a row “variable”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-010",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting variable."
+    },
+    "answers": [
+      {
+        "text": "Categorical, discrete or continuous?",
+        "is_correct": true
+      },
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects variable with Categorical, discrete or continuous?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-011",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While organising a library display, a Planning and Conducting Statistical Investigations organiser labels a row “measurement”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Planning and Conducting Statistical Investigations organiser labels a row “measurement”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-011",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting measurement."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Unit, precision and consistency?",
+        "is_correct": true
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects measurement with Unit, precision and consistency?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-012",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a science notebook, a Planning and Conducting Statistical Investigations organiser labels a row “cleaning”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Planning and Conducting Statistical Investigations organiser labels a row “cleaning”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-012",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting cleaning."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      },
+      {
+        "text": "Duplicates, missing values, categories?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects cleaning with Duplicates, missing values, categories?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-013",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a design challenge, a Planning and Conducting Statistical Investigations organiser labels a row “report”. Which entry belongs in that row?",
+    "audio_prompt": "During a design challenge, a Planning and Conducting Statistical Investigations organiser labels a row “report”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-013",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting report."
+    },
+    "answers": [
+      {
+        "text": "Finding, uncertainty and limitation?",
+        "is_correct": true
+      },
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects report with Finding, uncertainty and limitation?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-014",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At the school canteen, Which is a statistical question?",
+    "audio_prompt": "At the school canteen, Which is a statistical question?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What is 4 + 6?",
+        "is_correct": false
+      },
+      {
+        "text": "How long do Year 6 students spend travelling to school?",
+        "is_correct": true
+      },
+      {
+        "text": "Is this ruler 30 cm?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How long do Year 6 students spend travelling to school? follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-015",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While comparing travel plans, Which sample is most likely representative of a whole year level?",
+    "audio_prompt": "While comparing travel plans, Which sample is most likely representative of a whole year level?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the first five volunteers",
+        "is_correct": false
+      },
+      {
+        "text": "Only one friendship group",
+        "is_correct": false
+      },
+      {
+        "text": "A random or stratified selection across classes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A random or stratified selection across classes follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-016",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “question anticipating variation in data”. Which mathematical term labels it?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “question anticipating variation in data”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": true
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      },
+      {
+        "text": "representative sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "statistical question means question anticipating variation in data.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-017",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “complete group of interest”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “complete group of interest”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": true
+      },
+      {
+        "text": "representative sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "population means complete group of interest.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-018",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “sample reflecting relevant population characteristics”. Which mathematical term labels it?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a note says “sample reflecting relevant population characteristics”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "statistical question",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      },
+      {
+        "text": "representative sample",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "representative sample means sample reflecting relevant population characteristics.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-019",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Question has one fixed answer”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Question has one fixed answer”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Statistical questions expect variability.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Statistical questions expect variability.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-020",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State selection limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State selection limitations.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-021",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Correct only documented errors.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Correct only documented errors.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-022",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Conclusion written before analysis”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Conclusion written before analysis”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let evidence guide it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Let evidence guide it.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-023",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-023",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting population."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": true
+      },
+      {
+        "text": "How can selection be fair and practical?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects population with Who or what is the conclusion about?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-p-024",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-p-024",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting sample."
+    },
+    "answers": [
+      {
+        "text": "quality question",
+        "is_correct": false
+      },
+      {
+        "text": "Who or what is the conclusion about?",
+        "is_correct": false
+      },
+      {
+        "text": "How can selection be fair and practical?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects sample with How can selection be fair and practical?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-001",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At a coastal research station, another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?",
+    "audio_prompt": "At a coastal research station, another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the first five volunteers",
+        "is_correct": false
+      },
+      {
+        "text": "A random or stratified selection across classes",
+        "is_correct": true
+      },
+      {
+        "text": "Only one friendship group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A random or stratified selection across classes follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-002",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a museum challenge, another student selected “What is 4 + 6?”. Reconsider the evidence: Which is a statistical question?",
+    "audio_prompt": "During a museum challenge, another student selected “What is 4 + 6?”. Reconsider the evidence: Which is a statistical question?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What is 4 + 6?",
+        "is_correct": false
+      },
+      {
+        "text": "Is this ruler 30 cm?",
+        "is_correct": false
+      },
+      {
+        "text": "How long do Year 6 students spend travelling to school?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How long do Year 6 students spend travelling to school? follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-003",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While planning a charity event, a Planning and Conducting Statistical Investigations organiser contains “Finding, uncertainty and limitation?”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Planning and Conducting Statistical Investigations organiser contains “Finding, uncertainty and limitation?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-003",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting report."
+    },
+    "answers": [
+      {
+        "text": "report",
+        "is_correct": true
+      },
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects report with Finding, uncertainty and limitation?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-004",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In an engineering workshop, a Planning and Conducting Statistical Investigations organiser contains “Duplicates, missing values, categories?”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Planning and Conducting Statistical Investigations organiser contains “Duplicates, missing values, categories?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-004",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting cleaning."
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "cleaning",
+        "is_correct": true
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects cleaning with Duplicates, missing values, categories?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-005",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At a regional sports carnival, a Planning and Conducting Statistical Investigations organiser contains “Unit, precision and consistency?”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Planning and Conducting Statistical Investigations organiser contains “Unit, precision and consistency?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-005",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting measurement."
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      },
+      {
+        "text": "measurement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects measurement with Unit, precision and consistency?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-006",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a farm survey, a Planning and Conducting Statistical Investigations organiser contains “Categorical, discrete or continuous?”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Planning and Conducting Statistical Investigations organiser contains “Categorical, discrete or continuous?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-006",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting variable."
+    },
+    "answers": [
+      {
+        "text": "variable",
+        "is_correct": true
+      },
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects variable with Categorical, discrete or continuous?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-007",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While interpreting a trail guide, a Planning and Conducting Statistical Investigations organiser contains “How can selection be fair and practical?”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Planning and Conducting Statistical Investigations organiser contains “How can selection be fair and practical?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-007",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting sample."
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "sample",
+        "is_correct": true
+      },
+      {
+        "text": "population",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects sample with How can selection be fair and practical?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-008",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In an architecture studio, a Planning and Conducting Statistical Investigations organiser contains “Who or what is the conclusion about?”. Which heading best identifies that information?",
+    "audio_prompt": "In an architecture studio, a Planning and Conducting Statistical Investigations organiser contains “Who or what is the conclusion about?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6st03.svg#ac9m6st03-t-008",
+      "alt_text": "A Year 6 Planning and Conducting Statistical Investigations reasoning organiser highlighting population."
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "sample",
+        "is_correct": false
+      },
+      {
+        "text": "population",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects population with Who or what is the conclusion about?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-009",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a food-truck project, a review recommends, “Let evidence guide it.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a food-truck project, a review recommends, “Let evidence guide it.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Conclusion written before analysis",
+        "is_correct": true
+      },
+      {
+        "text": "Question has one fixed answer",
+        "is_correct": false
+      },
+      {
+        "text": "Convenience sample generalised broadly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Let evidence guide it.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-010",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At a music festival, a review recommends, “Correct only documented errors.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “Correct only documented errors.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question has one fixed answer",
+        "is_correct": false
+      },
+      {
+        "text": "Data cleaned by changing inconvenient values",
+        "is_correct": true
+      },
+      {
+        "text": "Convenience sample generalised broadly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Correct only documented errors.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-011",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While organising a book drive, a review recommends, “State selection limitations.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “State selection limitations.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question has one fixed answer",
+        "is_correct": false
+      },
+      {
+        "text": "Data cleaned by changing inconvenient values",
+        "is_correct": false
+      },
+      {
+        "text": "Convenience sample generalised broadly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State selection limitations.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-012",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In an environmental study, a review recommends, “Statistical questions expect variability.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an environmental study, a review recommends, “Statistical questions expect variability.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question has one fixed answer",
+        "is_correct": true
+      },
+      {
+        "text": "Convenience sample generalised broadly",
+        "is_correct": false
+      },
+      {
+        "text": "Data cleaned by changing inconvenient values",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Statistical questions expect variability.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-013",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "During a playground redesign, a student uses the term “representative sample”. Which description shows it correctly?",
+    "audio_prompt": "During a playground redesign, a student uses the term “representative sample”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question anticipating variation in data",
+        "is_correct": false
+      },
+      {
+        "text": "sample reflecting relevant population characteristics",
+        "is_correct": true
+      },
+      {
+        "text": "complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "representative sample means sample reflecting relevant population characteristics.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-014",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "At a transport depot, a student uses the term “population”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “population”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question anticipating variation in data",
+        "is_correct": false
+      },
+      {
+        "text": "sample reflecting relevant population characteristics",
+        "is_correct": false
+      },
+      {
+        "text": "complete group of interest",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "population means complete group of interest.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-015",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "While preparing a camping trip, a student uses the term “statistical question”. Which description shows it correctly?",
+    "audio_prompt": "While preparing a camping trip, a student uses the term “statistical question”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question anticipating variation in data",
+        "is_correct": true
+      },
+      {
+        "text": "complete group of interest",
+        "is_correct": false
+      },
+      {
+        "text": "sample reflecting relevant population characteristics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "statistical question means question anticipating variation in data.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6st03-t-016",
+    "curriculum_code": "AC9M6ST03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "planning_and_conducting_statistical_investigations",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the first five volunteers",
+        "is_correct": false
+      },
+      {
+        "text": "A random or stratified selection across classes",
+        "is_correct": true
+      },
+      {
+        "text": "Only one friendship group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A random or stratified selection across classes follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6sp03-p-001",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During a class investigation, a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tessellation",
+        "is_correct": true
+      },
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "tessellation means covering of a plane without gaps or overlaps.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-002",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At the school market, a note says “repeated unit or design element”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “repeated unit or design element”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "motif",
+        "is_correct": true
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "motif means repeated unit or design element.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-003",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While planning a garden, a note says “movement preserving size and shape”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “movement preserving size and shape”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "rigid transformation means movement preserving size and shape.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-004",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In a robotics challenge, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The plane must be covered continuously.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plane must be covered continuously.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-005",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During sports-day planning, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Rigid transformations preserve congruence.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rigid transformations preserve congruence.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-006",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At a wildlife centre, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Name direction, distance, centre, angle or line.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Name direction, distance, centre, angle or line.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-007",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While checking a map, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use 360° to test feasibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use 360° to test feasibility.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-008",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In the makerspace, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-008",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": true
+      },
+      {
+        "text": "turn motif about a vertex",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects translation with slide motif by a fixed vector.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-009",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During a cooking project, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-009",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      },
+      {
+        "text": "turn motif about a vertex",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects rotation with turn motif about a vertex.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-010",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At the community fair, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-010",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection."
+    },
+    "answers": [
+      {
+        "text": "flip motif across a line",
+        "is_correct": true
+      },
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects reflection with flip motif across a line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-011",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While organising a library display, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-011",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "reflect, then translate along the line",
+        "is_correct": true
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects glide reflection with reflect, then translate along the line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-012",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In a science notebook, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-012",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      },
+      {
+        "text": "meeting angles total 360°",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects vertex test with meeting angles total 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-013",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During a design challenge, What must be true of a tessellation?",
+    "audio_prompt": "During a design challenge, What must be true of a tessellation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It covers without gaps or overlaps",
+        "is_correct": true
+      },
+      {
+        "text": "Every tile is a circle",
+        "is_correct": false
+      },
+      {
+        "text": "Shapes must change size",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It covers without gaps or overlaps follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-014",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At the school canteen, Which transformation preserves size and shape?",
+    "audio_prompt": "At the school canteen, Which transformation preserves size and shape?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "enlargement",
+        "is_correct": false
+      },
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "stretching",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "rotation follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-015",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": false
+      },
+      {
+        "text": "tessellation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "tessellation means covering of a plane without gaps or overlaps.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-016",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “repeated unit or design element”. Which mathematical term labels it?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “repeated unit or design element”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif",
+        "is_correct": true
+      },
+      {
+        "text": "tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "motif means repeated unit or design element.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-017",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “movement preserving size and shape”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “movement preserving size and shape”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "rigid transformation",
+        "is_correct": true
+      },
+      {
+        "text": "motif",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "rigid transformation means movement preserving size and shape.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-018",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "The plane must be covered continuously.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plane must be covered continuously.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-019",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rigid transformations preserve congruence.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rigid transformations preserve congruence.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-020",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Name direction, distance, centre, angle or line.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Name direction, distance, centre, angle or line.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-021",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 360° to test feasibility.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use 360° to test feasibility.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-022",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-022",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation."
+    },
+    "answers": [
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": true
+      },
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "turn motif about a vertex",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects translation with slide motif by a fixed vector.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-023",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-023",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "turn motif about a vertex",
+        "is_correct": true
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects rotation with turn motif about a vertex.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-p-024",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "transformations_and_tessellations",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-024",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection."
+    },
+    "answers": [
+      {
+        "text": "description",
+        "is_correct": false
+      },
+      {
+        "text": "slide motif by a fixed vector",
+        "is_correct": false
+      },
+      {
+        "text": "flip motif across a line",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects reflection with flip motif across a line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-001",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "At a coastal research station, another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?",
+    "audio_prompt": "At a coastal research station, another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "enlargement",
+        "is_correct": false
+      },
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "stretching",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "rotation follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-002",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "During a museum challenge, another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?",
+    "audio_prompt": "During a museum challenge, another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every tile is a circle",
+        "is_correct": false
+      },
+      {
+        "text": "Shapes must change size",
+        "is_correct": false
+      },
+      {
+        "text": "It covers without gaps or overlaps",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It covers without gaps or overlaps follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-003",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "While planning a charity event, a Transformations and Tessellations organiser contains “meeting angles total 360°”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Transformations and Tessellations organiser contains “meeting angles total 360°”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-t-003",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test."
+    },
+    "answers": [
+      {
+        "text": "vertex test",
+        "is_correct": true
+      },
+      {
+        "text": "move",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects vertex test with meeting angles total 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-004",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "In an engineering workshop, a Transformations and Tessellations organiser contains “reflect, then translate along the line”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Transformations and Tessellations organiser contains “reflect, then translate along the line”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-t-004",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection."
+    },
+    "answers": [
+      {
+        "text": "move",
+        "is_correct": false
+      },
+      {
+        "text": "glide reflection",
+        "is_correct": true
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects glide reflection with reflect, then translate along the line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-005",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "At a regional sports carnival, a Transformations and Tessellations organiser contains “flip motif across a line”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Transformations and Tessellations organiser contains “flip motif across a line”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-t-005",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection."
+    },
+    "answers": [
+      {
+        "text": "move",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects reflection with flip motif across a line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-006",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "During a farm survey, a Transformations and Tessellations organiser contains “turn motif about a vertex”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Transformations and Tessellations organiser contains “turn motif about a vertex”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-t-006",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation."
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "move",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects rotation with turn motif about a vertex.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-007",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "While interpreting a trail guide, a Transformations and Tessellations organiser contains “slide motif by a fixed vector”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Transformations and Tessellations organiser contains “slide motif by a fixed vector”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-t-007",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation."
+    },
+    "answers": [
+      {
+        "text": "move",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": true
+      },
+      {
+        "text": "rotation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects translation with slide motif by a fixed vector.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-008",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "In an architecture studio, a review recommends, “Use 360° to test feasibility.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an architecture studio, a review recommends, “Use 360° to test feasibility.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pattern with gaps called tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "Shape resized during repetition",
+        "is_correct": false
+      },
+      {
+        "text": "Vertex angle condition ignored",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use 360° to test feasibility.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-009",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "During a food-truck project, a review recommends, “Name direction, distance, centre, angle or line.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a food-truck project, a review recommends, “Name direction, distance, centre, angle or line.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Transformation described vaguely as move",
+        "is_correct": true
+      },
+      {
+        "text": "Pattern with gaps called tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "Shape resized during repetition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name direction, distance, centre, angle or line.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-010",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "At a music festival, a review recommends, “Rigid transformations preserve congruence.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “Rigid transformations preserve congruence.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pattern with gaps called tessellation",
+        "is_correct": false
+      },
+      {
+        "text": "Shape resized during repetition",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation described vaguely as move",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rigid transformations preserve congruence.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-011",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "While organising a book drive, a review recommends, “The plane must be covered continuously.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “The plane must be covered continuously.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Shape resized during repetition",
+        "is_correct": false
+      },
+      {
+        "text": "Transformation described vaguely as move",
+        "is_correct": false
+      },
+      {
+        "text": "Pattern with gaps called tessellation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plane must be covered continuously.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-012",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "In an environmental study, a student uses the term “rigid transformation”. Which description shows it correctly?",
+    "audio_prompt": "In an environmental study, a student uses the term “rigid transformation”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "movement preserving size and shape",
+        "is_correct": true
+      },
+      {
+        "text": "covering of a plane without gaps or overlaps",
+        "is_correct": false
+      },
+      {
+        "text": "repeated unit or design element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "rigid transformation means movement preserving size and shape.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-013",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "During a playground redesign, a student uses the term “motif”. Which description shows it correctly?",
+    "audio_prompt": "During a playground redesign, a student uses the term “motif”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "covering of a plane without gaps or overlaps",
+        "is_correct": false
+      },
+      {
+        "text": "repeated unit or design element",
+        "is_correct": true
+      },
+      {
+        "text": "movement preserving size and shape",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "motif means repeated unit or design element.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-014",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "At a transport depot, a student uses the term “tessellation”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “tessellation”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "repeated unit or design element",
+        "is_correct": false
+      },
+      {
+        "text": "movement preserving size and shape",
+        "is_correct": false
+      },
+      {
+        "text": "covering of a plane without gaps or overlaps",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "tessellation means covering of a plane without gaps or overlaps.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-015",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "enlargement",
+        "is_correct": false
+      },
+      {
+        "text": "stretching",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "rotation follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6sp03-t-016",
+    "curriculum_code": "AC9M6SP03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "transformations_and_tessellations",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every tile is a circle",
+        "is_correct": false
+      },
+      {
+        "text": "It covers without gaps or overlaps",
+        "is_correct": true
+      },
+      {
+        "text": "Shapes must change size",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It covers without gaps or overlaps follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  }
+]

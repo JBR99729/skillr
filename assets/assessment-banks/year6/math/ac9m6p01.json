@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6p01-p-001",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a class investigation, a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "certain event",
+        "is_correct": false
+      },
+      {
+        "text": "probability",
+        "is_correct": true
+      },
+      {
+        "text": "impossible event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "probability means numerical measure of event likelihood.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-002",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At the school market, a note says “event with probability 1”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “event with probability 1”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "probability",
+        "is_correct": false
+      },
+      {
+        "text": "impossible event",
+        "is_correct": false
+      },
+      {
+        "text": "certain event",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "certain event means event with probability 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-003",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While planning a garden, a note says “event with probability 0”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “event with probability 0”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "impossible event",
+        "is_correct": true
+      },
+      {
+        "text": "probability",
+        "is_correct": false
+      },
+      {
+        "text": "certain event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "impossible event means event with probability 0.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-004",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a robotics challenge, a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "It is a relative value from 0 to 1.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It is a relative value from 0 to 1.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-005",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During sports-day planning, a student reasons, “80% written as 80”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “80% written as 80”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Write 0.8 on the probability scale.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write 0.8 on the probability scale.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-006",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At a wildlife centre, a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A likely event can fail.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A likely event can fail.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-007",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While checking a map, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State the chance model.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State the chance model.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-008",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-008",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4."
+    },
+    "answers": [
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.5; 50%",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 1/4 with 0.25; 25%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-009",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-009",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2."
+    },
+    "answers": [
+      {
+        "text": "0.5; 50%",
+        "is_correct": true
+      },
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 1/2 with 0.5; 50%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-010",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At the community fair, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-010",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
+    },
+    "answers": [
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.6; 60%",
+        "is_correct": true
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 3/5 with 0.6; 60%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-011",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While organising a library display, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-011",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5."
+    },
+    "answers": [
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      },
+      {
+        "text": "0.8; 80%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 4/5 with 0.8; 80%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-012",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a science notebook, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-012",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1."
+    },
+    "answers": [
+      {
+        "text": "1.0; 100%",
+        "is_correct": true
+      },
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 1 with 1.0; 100%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-013",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a design challenge, Which probability represents an even chance?",
+    "audio_prompt": "During a design challenge, Which probability represents an even chance?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "0.5",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "0.5 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-014",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At the school canteen, Which event is more likely?",
+    "audio_prompt": "At the school canteen, Which event is more likely?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "65%",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "0.72",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "0.72 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-015",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "probability",
+        "is_correct": true
+      },
+      {
+        "text": "certain event",
+        "is_correct": false
+      },
+      {
+        "text": "impossible event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "probability means numerical measure of event likelihood.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-016",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “event with probability 1”. Which mathematical term labels it?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “event with probability 1”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "probability",
+        "is_correct": false
+      },
+      {
+        "text": "certain event",
+        "is_correct": true
+      },
+      {
+        "text": "impossible event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "certain event means event with probability 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-017",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “event with probability 0”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “event with probability 0”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "probability",
+        "is_correct": false
+      },
+      {
+        "text": "certain event",
+        "is_correct": false
+      },
+      {
+        "text": "impossible event",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "impossible event means event with probability 0.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-018",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is a relative value from 0 to 1.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It is a relative value from 0 to 1.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-019",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Write 0.8 on the probability scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Write 0.8 on the probability scale.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-020",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "A likely event can fail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A likely event can fail.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-021",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State the chance model.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State the chance model.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-022",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-022",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4."
+    },
+    "answers": [
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": true
+      },
+      {
+        "text": "0.5; 50%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 1/4 with 0.25; 25%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-023",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-023",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2."
+    },
+    "answers": [
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      },
+      {
+        "text": "0.5; 50%",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 1/2 with 0.5; 50%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-p-024",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-024",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
+    },
+    "answers": [
+      {
+        "text": "0.6; 60%",
+        "is_correct": true
+      },
+      {
+        "text": "decimal; percentage",
+        "is_correct": false
+      },
+      {
+        "text": "0.25; 25%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 3/5 with 0.6; 60%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-001",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At a coastal research station, another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "audio_prompt": "At a coastal research station, another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "65%",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "0.72",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "0.72 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-002",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a museum challenge, another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "audio_prompt": "During a museum challenge, another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "0.5",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "0.5 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-003",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While planning a charity event, a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-003",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1."
+    },
+    "answers": [
+      {
+        "text": "fraction",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 1 with 1.0; 100%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-004",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In an engineering workshop, a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-004",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5."
+    },
+    "answers": [
+      {
+        "text": "fraction",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 4/5 with 0.8; 80%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-005",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At a regional sports carnival, a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-005",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
+    },
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "fraction",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 3/5 with 0.6; 60%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-006",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a farm survey, a Probability on a Scale from 0 to 1 organiser contains “0.5; 50%”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Probability on a Scale from 0 to 1 organiser contains “0.5; 50%”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-006",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2."
+    },
+    "answers": [
+      {
+        "text": "fraction",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 1/2 with 0.5; 50%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-007",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While interpreting a trail guide, a Probability on a Scale from 0 to 1 organiser contains “0.25; 25%”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Probability on a Scale from 0 to 1 organiser contains “0.25; 25%”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-007",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4."
+    },
+    "answers": [
+      {
+        "text": "fraction",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 1/4 with 0.25; 25%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-008",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In an architecture studio, a review recommends, “State the chance model.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an architecture studio, a review recommends, “State the chance model.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context assumptions omitted",
+        "is_correct": true
+      },
+      {
+        "text": "Probability treated as a count",
+        "is_correct": false
+      },
+      {
+        "text": "80% written as 80",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State the chance model.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-009",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a food-truck project, a review recommends, “A likely event can fail.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a food-truck project, a review recommends, “A likely event can fail.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Probability treated as a count",
+        "is_correct": false
+      },
+      {
+        "text": "Likely confused with certain",
+        "is_correct": true
+      },
+      {
+        "text": "80% written as 80",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A likely event can fail.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-010",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At a music festival, a review recommends, “Write 0.8 on the probability scale.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “Write 0.8 on the probability scale.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Probability treated as a count",
+        "is_correct": false
+      },
+      {
+        "text": "Likely confused with certain",
+        "is_correct": false
+      },
+      {
+        "text": "80% written as 80",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write 0.8 on the probability scale.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-011",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While organising a book drive, a review recommends, “It is a relative value from 0 to 1.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “It is a relative value from 0 to 1.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Probability treated as a count",
+        "is_correct": true
+      },
+      {
+        "text": "80% written as 80",
+        "is_correct": false
+      },
+      {
+        "text": "Likely confused with certain",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It is a relative value from 0 to 1.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-012",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In an environmental study, a student uses the term “impossible event”. Which description shows it correctly?",
+    "audio_prompt": "In an environmental study, a student uses the term “impossible event”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "numerical measure of event likelihood",
+        "is_correct": false
+      },
+      {
+        "text": "event with probability 0",
+        "is_correct": true
+      },
+      {
+        "text": "event with probability 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "impossible event means event with probability 0.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-013",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "During a playground redesign, a student uses the term “certain event”. Which description shows it correctly?",
+    "audio_prompt": "During a playground redesign, a student uses the term “certain event”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "numerical measure of event likelihood",
+        "is_correct": false
+      },
+      {
+        "text": "event with probability 0",
+        "is_correct": false
+      },
+      {
+        "text": "event with probability 1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "certain event means event with probability 1.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-014",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "At a transport depot, a student uses the term “probability”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “probability”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "numerical measure of event likelihood",
+        "is_correct": true
+      },
+      {
+        "text": "event with probability 1",
+        "is_correct": false
+      },
+      {
+        "text": "event with probability 0",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "probability means numerical measure of event likelihood.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-015",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "65%",
+        "is_correct": false
+      },
+      {
+        "text": "0.72",
+        "is_correct": true
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "0.72 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6p01-t-016",
+    "curriculum_code": "AC9M6P01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "probability_on_a_scale_from_0_to_1",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "0.5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "0.5 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  }
+]
