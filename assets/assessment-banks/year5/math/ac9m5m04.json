@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m5m04-p-001",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During a class investigation, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "During a class investigation, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-002",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the school market, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "At the school market, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-002",
+      "alt_text": "At the school market: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-003",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While planning a garden, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "While planning a garden, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-003",
+      "alt_text": "While planning a garden: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-004",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In a robotics challenge, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "In a robotics challenge, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-004",
+      "alt_text": "In a robotics challenge: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-005",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During sports-day planning, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "During sports-day planning, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-005",
+      "alt_text": "During sports-day planning: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-006",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the wildlife centre, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "At the wildlife centre, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-006",
+      "alt_text": "At the wildlife centre: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-007",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While checking a map, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "While checking a map, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-007",
+      "alt_text": "While checking a map: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-008",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In the makerspace, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "In the makerspace, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-008",
+      "alt_text": "In the makerspace: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-009",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During a cooking project, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "During a cooking project, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-009",
+      "alt_text": "During a cooking project: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-010",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the community fair, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "At the community fair, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-010",
+      "alt_text": "At the community fair: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-011",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While organising a library display, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "While organising a library display, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-011",
+      "alt_text": "While organising a library display: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-012",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In a science notebook, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "In a science notebook, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-012",
+      "alt_text": "In a science notebook: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-013",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During a design challenge, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "During a design challenge, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-013",
+      "alt_text": "During a design challenge: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-014",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the school canteen, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "At the school canteen, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-014",
+      "alt_text": "At the school canteen: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-015",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While comparing travel plans, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "While comparing travel plans, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-015",
+      "alt_text": "While comparing travel plans: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-016",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In a data workshop, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "In a data workshop, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-016",
+      "alt_text": "In a data workshop: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-017",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During a building project, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "During a building project, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-017",
+      "alt_text": "During a building project: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-018",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the local pool, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "At the local pool, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-018",
+      "alt_text": "At the local pool: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-019",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While preparing an excursion, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "While preparing an excursion, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-019",
+      "alt_text": "While preparing an excursion: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-020",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In a games club, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "In a games club, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-020",
+      "alt_text": "In a games club: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-021",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "During an art project, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "During an art project, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-021",
+      "alt_text": "During an art project: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-022",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "At the recycling station, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "At the recycling station, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-022",
+      "alt_text": "At the recycling station: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-023",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "classify_an_angle",
+    "question": "While planning a class survey, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "While planning a class survey, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-023",
+      "alt_text": "While planning a class survey: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-p-024",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_angle",
+    "question": "In a coding lesson, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "In a coding lesson, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-p-024",
+      "alt_text": "In a coding lesson: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-001",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "At a coastal research station, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "At a coastal research station, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-001",
+      "alt_text": "At a coastal research station: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-002",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "During a museum challenge, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "During a museum challenge, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-002",
+      "alt_text": "During a museum challenge: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-003",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "While planning a charity event, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "While planning a charity event, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-003",
+      "alt_text": "While planning a charity event: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-004",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "In an engineering workshop, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "In an engineering workshop, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-004",
+      "alt_text": "In an engineering workshop: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-005",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "At a regional sports carnival, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "At a regional sports carnival, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-005",
+      "alt_text": "At a regional sports carnival: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-006",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "During a farm survey, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "During a farm survey, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-006",
+      "alt_text": "During a farm survey: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-007",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "While interpreting a trail guide, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "While interpreting a trail guide, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-007",
+      "alt_text": "While interpreting a trail guide: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-008",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "In an architecture studio, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "In an architecture studio, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-008",
+      "alt_text": "In an architecture studio: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-009",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "During a food-truck project, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "During a food-truck project, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-009",
+      "alt_text": "During a food-truck project: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-010",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "At a music festival, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "At a music festival, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-010",
+      "alt_text": "At a music festival: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-011",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "While organising a book drive, an angle measures 135°. How should it be classified?",
+    "audio_prompt": "While organising a book drive, an angle measures 135°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-011",
+      "alt_text": "While organising a book drive: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": true
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-012",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "In an environmental study, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "audio_prompt": "In an environmental study, a straight angle is split into 30° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-012",
+      "alt_text": "In an environmental study: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": false
+      },
+      {
+        "text": "210°.",
+        "is_correct": false
+      },
+      {
+        "text": "150°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-013",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "During a playground redesign, an angle measures 45°. How should it be classified?",
+    "audio_prompt": "During a playground redesign, an angle measures 45°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-013",
+      "alt_text": "During a playground redesign: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-014",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "At a transport depot, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "audio_prompt": "At a transport depot, a straight angle is split into 60° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-014",
+      "alt_text": "At a transport depot: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30°.",
+        "is_correct": false
+      },
+      {
+        "text": "120°.",
+        "is_correct": true
+      },
+      {
+        "text": "240°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-015",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "classify_an_angle",
+    "question": "While preparing a camping trip, an angle measures 90°. How should it be classified?",
+    "audio_prompt": "While preparing a camping trip, an angle measures 90°. How should it be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-015",
+      "alt_text": "While preparing a camping trip: a three-step reasoning pathway for classify an angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "acute.",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse.",
+        "is_correct": false
+      },
+      {
+        "text": "right.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Angle type depends on its size compared with 90°.",
+      "hint": "Compare the measure with a right angle."
+    }
+  },
+  {
+    "id": "ac9m5m04-t-016",
+    "curriculum_code": "AC9M5M04",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_angle",
+    "question": "In a strategy tournament, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "audio_prompt": "In a strategy tournament, a straight angle is split into 120° and another angle. What is the missing angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5m04.svg#ac9m5m04-t-016",
+      "alt_text": "In a strategy tournament: a three-step reasoning pathway for find a missing angle, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60°.",
+        "is_correct": true
+      },
+      {
+        "text": "-30°.",
+        "is_correct": false
+      },
+      {
+        "text": "300°.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Angles on a straight line total 180°.",
+      "hint": "Subtract the known angle from 180°."
+    }
+  }
+]

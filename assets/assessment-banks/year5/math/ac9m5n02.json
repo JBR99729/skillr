@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m5n02-p-001",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "During a class investigation, 60 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "During a class investigation, 60 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "11.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "10 is a factor of 60, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-002",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "At the school market, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "At the school market, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-002",
+      "alt_text": "At the school market: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-003",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "While planning a garden, which statement about 24 is correct?",
+    "audio_prompt": "While planning a garden, which statement about 24 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-003",
+      "alt_text": "While planning a garden: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "24 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "24 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "24 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "24 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-004",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "In a robotics challenge, 30 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "In a robotics challenge, 30 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-004",
+      "alt_text": "In a robotics challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 30, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-005",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "During sports-day planning, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "During sports-day planning, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-005",
+      "alt_text": "During sports-day planning: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-006",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "At the wildlife centre, which statement about 42 is correct?",
+    "audio_prompt": "At the wildlife centre, which statement about 42 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-006",
+      "alt_text": "At the wildlife centre: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "42 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "42 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "42 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "42 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-007",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "While checking a map, 48 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "While checking a map, 48 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-007",
+      "alt_text": "While checking a map: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "8.",
+        "is_correct": true
+      },
+      {
+        "text": "9.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8 is a factor of 48, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-008",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "In the makerspace, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "In the makerspace, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-008",
+      "alt_text": "In the makerspace: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-009",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "During a cooking project, which statement about 60 is correct?",
+    "audio_prompt": "During a cooking project, which statement about 60 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-009",
+      "alt_text": "During a cooking project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "60 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "60 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "60 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-010",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "At the community fair, 18 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "At the community fair, 18 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-010",
+      "alt_text": "At the community fair: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 18, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-011",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "While organising a library display, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "While organising a library display, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-011",
+      "alt_text": "While organising a library display: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-012",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "In a science notebook, which statement about 30 is correct?",
+    "audio_prompt": "In a science notebook, which statement about 30 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-012",
+      "alt_text": "In a science notebook: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "30 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "30 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "30 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-013",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "During a design challenge, 36 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "During a design challenge, 36 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-013",
+      "alt_text": "During a design challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 36, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-014",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "At the school canteen, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "At the school canteen, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-014",
+      "alt_text": "At the school canteen: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-015",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "While comparing travel plans, which statement about 48 is correct?",
+    "audio_prompt": "While comparing travel plans, which statement about 48 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-015",
+      "alt_text": "While comparing travel plans: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "48 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "48 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "48 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "48 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-016",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "In a data workshop, 54 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "In a data workshop, 54 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-016",
+      "alt_text": "In a data workshop: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "9.",
+        "is_correct": true
+      },
+      {
+        "text": "10.",
+        "is_correct": false
+      },
+      {
+        "text": "11.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "9 is a factor of 54, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-017",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "During a building project, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "During a building project, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-017",
+      "alt_text": "During a building project: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-018",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "At the local pool, which statement about 18 is correct?",
+    "audio_prompt": "At the local pool, which statement about 18 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-018",
+      "alt_text": "At the local pool: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "18 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "18 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "18 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "18 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-019",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "While preparing an excursion, 24 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "While preparing an excursion, 24 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-019",
+      "alt_text": "While preparing an excursion: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 24, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-020",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "In a games club, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "In a games club, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-020",
+      "alt_text": "In a games club: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-021",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "During an art project, which statement about 36 is correct?",
+    "audio_prompt": "During an art project, which statement about 36 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-021",
+      "alt_text": "During an art project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "36 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "36 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "36 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "36 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-022",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "factors_in_equal_rows",
+    "question": "At the recycling station, 42 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "At the recycling station, 42 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-022",
+      "alt_text": "At the recycling station: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "7.",
+        "is_correct": true
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      },
+      {
+        "text": "9.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "7 is a factor of 42, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-023",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "common_multiples",
+    "question": "While planning a class survey, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "While planning a class survey, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-023",
+      "alt_text": "While planning a class survey: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-p-024",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "divisibility",
+    "question": "In a coding lesson, which statement about 54 is correct?",
+    "audio_prompt": "In a coding lesson, which statement about 54 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-024",
+      "alt_text": "In a coding lesson: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "54 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "54 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "54 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "54 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-001",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "At a coastal research station, 60 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "At a coastal research station, 60 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-001",
+      "alt_text": "At a coastal research station: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "11.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "10 is a factor of 60, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-002",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "common_multiples",
+    "question": "During a museum challenge, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "During a museum challenge, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-002",
+      "alt_text": "During a museum challenge: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-003",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "divisibility",
+    "question": "While planning a charity event, which statement about 24 is correct?",
+    "audio_prompt": "While planning a charity event, which statement about 24 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-003",
+      "alt_text": "While planning a charity event: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "24 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "24 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "24 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "24 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-004",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "In an engineering workshop, 30 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "In an engineering workshop, 30 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-004",
+      "alt_text": "In an engineering workshop: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 30, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-005",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "common_multiples",
+    "question": "At a regional sports carnival, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "At a regional sports carnival, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-005",
+      "alt_text": "At a regional sports carnival: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-006",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "divisibility",
+    "question": "During a farm survey, which statement about 42 is correct?",
+    "audio_prompt": "During a farm survey, which statement about 42 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-006",
+      "alt_text": "During a farm survey: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "42 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "42 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "42 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "42 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-007",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "While interpreting a trail guide, 48 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "While interpreting a trail guide, 48 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-007",
+      "alt_text": "While interpreting a trail guide: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "8.",
+        "is_correct": true
+      },
+      {
+        "text": "9.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8 is a factor of 48, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-008",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "common_multiples",
+    "question": "In an architecture studio, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "In an architecture studio, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-008",
+      "alt_text": "In an architecture studio: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-009",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "divisibility",
+    "question": "During a food-truck project, which statement about 60 is correct?",
+    "audio_prompt": "During a food-truck project, which statement about 60 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-009",
+      "alt_text": "During a food-truck project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "60 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "60 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "60 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "60 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-010",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "At a music festival, 18 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "At a music festival, 18 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-010",
+      "alt_text": "At a music festival: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 18, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-011",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "common_multiples",
+    "question": "While organising a book drive, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "While organising a book drive, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-011",
+      "alt_text": "While organising a book drive: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "24.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-012",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "divisibility",
+    "question": "In an environmental study, which statement about 30 is correct?",
+    "audio_prompt": "In an environmental study, which statement about 30 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-012",
+      "alt_text": "In an environmental study: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "30 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "30 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "30 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "30 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-013",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "During a playground redesign, 36 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "During a playground redesign, 36 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-013",
+      "alt_text": "During a playground redesign: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 is a factor of 36, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-014",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "common_multiples",
+    "question": "At a transport depot, which number is a multiple of both 4 and 6?",
+    "audio_prompt": "At a transport depot, which number is a multiple of both 4 and 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-014",
+      "alt_text": "At a transport depot: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "16.",
+        "is_correct": false
+      },
+      {
+        "text": "36.",
+        "is_correct": true
+      },
+      {
+        "text": "18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A common multiple appears in both multiplication sequences.",
+      "hint": "List multiples of 4 and 6 until one matches."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-015",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "divisibility",
+    "question": "While preparing a camping trip, which statement about 48 is correct?",
+    "audio_prompt": "While preparing a camping trip, which statement about 48 is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-015",
+      "alt_text": "While preparing a camping trip: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "48 is not even.",
+        "is_correct": false
+      },
+      {
+        "text": "48 has no factor pairs.",
+        "is_correct": false
+      },
+      {
+        "text": "48 is divisible by 6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "48 ÷ 6 is a whole number.",
+      "hint": "Check whether 6 multiplied by a whole number equals the total."
+    }
+  },
+  {
+    "id": "ac9m5n02-t-016",
+    "curriculum_code": "AC9M5N02",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factors_in_equal_rows",
+    "question": "In a strategy tournament, 54 items must be arranged in equal rows. Which row size works with none left over?",
+    "audio_prompt": "In a strategy tournament, 54 items must be arranged in equal rows. Which row size works with none left over?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-t-016",
+      "alt_text": "In a strategy tournament: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "9.",
+        "is_correct": true
+      },
+      {
+        "text": "10.",
+        "is_correct": false
+      },
+      {
+        "text": "11.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "9 is a factor of 54, so the division has no remainder.",
+      "hint": "Test each row size by multiplication or division."
+    }
+  }
+]
