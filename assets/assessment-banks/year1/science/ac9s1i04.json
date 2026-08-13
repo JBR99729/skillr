@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S1I04-P-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_01",
+    "question": "What sorting rule is used when leaf cards are grouped as green, yellow and brown?",
+    "audio_prompt": "What sorting rule is used when leaf cards are grouped as green, yellow and brown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-001",
+      "alt_text": "🍂 leaf cards; 🔀 colour; 🗂️ green, yellow and brown"
+    },
+    "answers": [
+      {
+        "text": "colour",
+        "is_correct": true
+      },
+      {
+        "text": "which one is someone's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "the order the cards were picked up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Colour is the shared feature used for the groups.",
+      "hint": "Name the feature that is the same within each group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_02",
+    "question": "Which group labels suit leaf cards sorted by colour?",
+    "audio_prompt": "Which group labels suit leaf cards sorted by colour?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-002",
+      "alt_text": "🍂 leaf cards; 🏷️ green, yellow and brown; ✅ clear labels"
+    },
+    "answers": [
+      {
+        "text": "good and bad",
+        "is_correct": false
+      },
+      {
+        "text": "green, yellow and brown",
+        "is_correct": true
+      },
+      {
+        "text": "first and last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Green, yellow and brown clearly names the categories.",
+      "hint": "Labels should describe the sorting rule, not an opinion."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_03",
+    "question": "Which record correctly describes the sorted leaf cards?",
+    "audio_prompt": "Which record correctly describes the sorted leaf cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-003",
+      "alt_text": "🍂 leaf cards; 🔢 3 green, 5 yellow and 2 brown; 📝 record"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The largest-looking card must be the most common.",
+        "is_correct": false
+      },
+      {
+        "text": "3 green, 5 yellow and 2 brown",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "3 green, 5 yellow and 2 brown reports the category totals.",
+      "hint": "Count every item once in its matching group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_04",
+    "question": "Which category has the most leaf cards?",
+    "audio_prompt": "Which category has the most leaf cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-004",
+      "alt_text": "📊 3 green, 5 yellow and 2 brown; ⬆️ most; 🍂 yellow"
+    },
+    "answers": [
+      {
+        "text": "yellow",
+        "is_correct": true
+      },
+      {
+        "text": "the category with the longest label",
+        "is_correct": false
+      },
+      {
+        "text": "all categories are automatically equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Yellow has the greatest recorded count.",
+      "hint": "Compare the category numbers, not the size of the words or pictures."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_05",
+    "question": "Which display would clearly show the sorted leaf cards?",
+    "audio_prompt": "Which display would clearly show the sorted leaf cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-005",
+      "alt_text": "🍂 leaf cards; 📊 a picture graph with one leaf picture for each card; 🏷️ labels"
+    },
+    "answers": [
+      {
+        "text": "an unlabelled scribble",
+        "is_correct": false
+      },
+      {
+        "text": "a picture graph with one leaf picture for each card",
+        "is_correct": true
+      },
+      {
+        "text": "a list that leaves out some items",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A picture graph with one leaf picture for each card shows the categories and data clearly.",
+      "hint": "Choose a display with labels and one place for every result."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_06",
+    "question": "Why must each leaf card be counted once?",
+    "audio_prompt": "Why must each leaf card be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-006",
+      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+    },
+    "answers": [
+      {
+        "text": "So the favourite category always wins.",
+        "is_correct": false
+      },
+      {
+        "text": "So one item can make several categories larger.",
+        "is_correct": false
+      },
+      {
+        "text": "So the category totals show the data accurately.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Counting each item once prevents missing or double-counting data.",
+      "hint": "Check that every item is in one suitable category."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_07",
+    "question": "What should be checked after sorting leaf cards by colour?",
+    "audio_prompt": "What should be checked after sorting leaf cards by colour?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-007",
+      "alt_text": "🍂 leaf cards; 🔍 check rule; ✅ colour"
+    },
+    "answers": [
+      {
+        "text": "Every item fits the rule for its group.",
+        "is_correct": true
+      },
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The labels are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A correct sort places items according to the stated rule.",
+      "hint": "Test each item against its category label."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_08",
+    "question": "What pattern can be described from this data: 3 green, 5 yellow and 2 brown?",
+    "audio_prompt": "What pattern can be described from this data: 3 green, 5 yellow and 2 brown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-008",
+      "alt_text": "📊 3 green, 5 yellow and 2 brown; 🔎 compare; 🏆 yellow"
+    },
+    "answers": [
+      {
+        "text": "The shortest label is always the largest category.",
+        "is_correct": false
+      },
+      {
+        "text": "Yellow is the largest category.",
+        "is_correct": true
+      },
+      {
+        "text": "No comparison can be made from counts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recorded numbers show that yellow has the greatest count.",
+      "hint": "Use the numbers to describe what is most, least or equal."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_01",
+    "question": "What sorting rule is used when buttons are grouped as two-hole and four-hole?",
+    "audio_prompt": "What sorting rule is used when buttons are grouped as two-hole and four-hole?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-009",
+      "alt_text": "🔘 buttons; 🔀 number of holes; 🗂️ two-hole and four-hole"
+    },
+    "answers": [
+      {
+        "text": "which one is someone's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "the order the cards were picked up",
+        "is_correct": false
+      },
+      {
+        "text": "number of holes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Number of holes is the shared feature used for the groups.",
+      "hint": "Name the feature that is the same within each group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_02",
+    "question": "Which group labels suit buttons sorted by number of holes?",
+    "audio_prompt": "Which group labels suit buttons sorted by number of holes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-010",
+      "alt_text": "🔘 buttons; 🏷️ two-hole and four-hole; ✅ clear labels"
+    },
+    "answers": [
+      {
+        "text": "two-hole and four-hole",
+        "is_correct": true
+      },
+      {
+        "text": "good and bad",
+        "is_correct": false
+      },
+      {
+        "text": "first and last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two-hole and four-hole clearly names the categories.",
+      "hint": "Labels should describe the sorting rule, not an opinion."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_03",
+    "question": "Which record correctly describes the sorted buttons?",
+    "audio_prompt": "Which record correctly describes the sorted buttons?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-011",
+      "alt_text": "🔘 buttons; 🔢 6 two-hole and 4 four-hole; 📝 record"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "6 two-hole and 4 four-hole",
+        "is_correct": true
+      },
+      {
+        "text": "The largest-looking card must be the most common.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "6 two-hole and 4 four-hole reports the category totals.",
+      "hint": "Count every item once in its matching group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_04",
+    "question": "Which category has the most buttons?",
+    "audio_prompt": "Which category has the most buttons?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-012",
+      "alt_text": "📊 6 two-hole and 4 four-hole; ⬆️ most; 🔘 two-hole"
+    },
+    "answers": [
+      {
+        "text": "the category with the longest label",
+        "is_correct": false
+      },
+      {
+        "text": "all categories are automatically equal",
+        "is_correct": false
+      },
+      {
+        "text": "two-hole",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two-hole has the greatest recorded count.",
+      "hint": "Compare the category numbers, not the size of the words or pictures."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_05",
+    "question": "Which display would clearly show the sorted buttons?",
+    "audio_prompt": "Which display would clearly show the sorted buttons?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-013",
+      "alt_text": "🔘 buttons; 📊 a two-column table labelled by number of holes; 🏷️ labels"
+    },
+    "answers": [
+      {
+        "text": "a two-column table labelled by number of holes",
+        "is_correct": true
+      },
+      {
+        "text": "an unlabelled scribble",
+        "is_correct": false
+      },
+      {
+        "text": "a list that leaves out some items",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A two-column table labelled by number of holes shows the categories and data clearly.",
+      "hint": "Choose a display with labels and one place for every result."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_06",
+    "question": "Why must each button be counted once?",
+    "audio_prompt": "Why must each button be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-014",
+      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+    },
+    "answers": [
+      {
+        "text": "So the favourite category always wins.",
+        "is_correct": false
+      },
+      {
+        "text": "So the category totals show the data accurately.",
+        "is_correct": true
+      },
+      {
+        "text": "So one item can make several categories larger.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting each item once prevents missing or double-counting data.",
+      "hint": "Check that every item is in one suitable category."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_07",
+    "question": "What should be checked after sorting buttons by number of holes?",
+    "audio_prompt": "What should be checked after sorting buttons by number of holes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-015",
+      "alt_text": "🔘 buttons; 🔍 check rule; ✅ number of holes"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The labels are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "Every item fits the rule for its group.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A correct sort places items according to the stated rule.",
+      "hint": "Test each item against its category label."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_08",
+    "question": "What pattern can be described from this data: 6 two-hole and 4 four-hole?",
+    "audio_prompt": "What pattern can be described from this data: 6 two-hole and 4 four-hole?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-016",
+      "alt_text": "📊 6 two-hole and 4 four-hole; 🔎 compare; 🏆 two-hole"
+    },
+    "answers": [
+      {
+        "text": "Two-hole is the largest category.",
+        "is_correct": true
+      },
+      {
+        "text": "The shortest label is always the largest category.",
+        "is_correct": false
+      },
+      {
+        "text": "No comparison can be made from counts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recorded numbers show that two-hole has the greatest count.",
+      "hint": "Use the numbers to describe what is most, least or equal."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-017",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_01",
+    "question": "What sorting rule is used when toy-car distance cards are grouped as short, medium and long distance?",
+    "audio_prompt": "What sorting rule is used when toy-car distance cards are grouped as short, medium and long distance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-017",
+      "alt_text": "🚗 toy-car distance cards; 🔀 distance travelled; 🗂️ short, medium and long distance"
+    },
+    "answers": [
+      {
+        "text": "which one is someone's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "distance travelled",
+        "is_correct": true
+      },
+      {
+        "text": "the order the cards were picked up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance travelled is the shared feature used for the groups.",
+      "hint": "Name the feature that is the same within each group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-018",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_02",
+    "question": "Which group labels suit toy-car distance cards sorted by distance travelled?",
+    "audio_prompt": "Which group labels suit toy-car distance cards sorted by distance travelled?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-018",
+      "alt_text": "🚗 toy-car distance cards; 🏷️ short, medium and long distance; ✅ clear labels"
+    },
+    "answers": [
+      {
+        "text": "good and bad",
+        "is_correct": false
+      },
+      {
+        "text": "first and last",
+        "is_correct": false
+      },
+      {
+        "text": "short, medium and long distance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Short, medium and long distance clearly names the categories.",
+      "hint": "Labels should describe the sorting rule, not an opinion."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-019",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_03",
+    "question": "Which record correctly describes the sorted toy-car distance cards?",
+    "audio_prompt": "Which record correctly describes the sorted toy-car distance cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-019",
+      "alt_text": "🚗 toy-car distance cards; 🔢 2 short, 3 medium and 5 long; 📝 record"
+    },
+    "answers": [
+      {
+        "text": "2 short, 3 medium and 5 long",
+        "is_correct": true
+      },
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The largest-looking card must be the most common.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "2 short, 3 medium and 5 long reports the category totals.",
+      "hint": "Count every item once in its matching group."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-020",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_04",
+    "question": "Which category has the most toy-car distance cards?",
+    "audio_prompt": "Which category has the most toy-car distance cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-020",
+      "alt_text": "📊 2 short, 3 medium and 5 long; ⬆️ most; 🚗 long distance"
+    },
+    "answers": [
+      {
+        "text": "the category with the longest label",
+        "is_correct": false
+      },
+      {
+        "text": "long distance",
+        "is_correct": true
+      },
+      {
+        "text": "all categories are automatically equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Long distance has the greatest recorded count.",
+      "hint": "Compare the category numbers, not the size of the words or pictures."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-021",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_05",
+    "question": "Which display would clearly show the sorted toy-car distance cards?",
+    "audio_prompt": "Which display would clearly show the sorted toy-car distance cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-021",
+      "alt_text": "🚗 toy-car distance cards; 📊 a picture graph labelled short, medium and long; 🏷️ labels"
+    },
+    "answers": [
+      {
+        "text": "an unlabelled scribble",
+        "is_correct": false
+      },
+      {
+        "text": "a list that leaves out some items",
+        "is_correct": false
+      },
+      {
+        "text": "a picture graph labelled short, medium and long",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A picture graph labelled short, medium and long shows the categories and data clearly.",
+      "hint": "Choose a display with labels and one place for every result."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-022",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_06",
+    "question": "Why must each toy-car distance card be counted once?",
+    "audio_prompt": "Why must each toy-car distance card be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-022",
+      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+    },
+    "answers": [
+      {
+        "text": "So the category totals show the data accurately.",
+        "is_correct": true
+      },
+      {
+        "text": "So the favourite category always wins.",
+        "is_correct": false
+      },
+      {
+        "text": "So one item can make several categories larger.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Counting each item once prevents missing or double-counting data.",
+      "hint": "Check that every item is in one suitable category."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-023",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_07",
+    "question": "What should be checked after sorting toy-car distance cards by distance travelled?",
+    "audio_prompt": "What should be checked after sorting toy-car distance cards by distance travelled?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-023",
+      "alt_text": "🚗 toy-car distance cards; 🔍 check rule; ✅ distance travelled"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "Every item fits the rule for its group.",
+        "is_correct": true
+      },
+      {
+        "text": "The labels are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A correct sort places items according to the stated rule.",
+      "hint": "Test each item against its category label."
+    }
+  },
+  {
+    "id": "AC9S1I04-P-024",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "practice",
+    "skill": "ac9s1i04_08",
+    "question": "What pattern can be described from this data: 2 short, 3 medium and 5 long?",
+    "audio_prompt": "What pattern can be described from this data: 2 short, 3 medium and 5 long?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-024",
+      "alt_text": "📊 2 short, 3 medium and 5 long; 🔎 compare; 🏆 long distance"
+    },
+    "answers": [
+      {
+        "text": "The shortest label is always the largest category.",
+        "is_correct": false
+      },
+      {
+        "text": "No comparison can be made from counts.",
+        "is_correct": false
+      },
+      {
+        "text": "Long distance is the largest category.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recorded numbers show that long distance has the greatest count.",
+      "hint": "Use the numbers to describe what is most, least or equal."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_01",
+    "question": "What sorting rule is used when daily weather cards are grouped as sunny, cloudy and rainy?",
+    "audio_prompt": "What sorting rule is used when daily weather cards are grouped as sunny, cloudy and rainy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-001",
+      "alt_text": "🌦️ daily weather cards; 🔀 weather type; 🗂️ sunny, cloudy and rainy"
+    },
+    "answers": [
+      {
+        "text": "weather type",
+        "is_correct": true
+      },
+      {
+        "text": "which one is someone's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "the order the cards were picked up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Weather type is the shared feature used for the groups.",
+      "hint": "Name the feature that is the same within each group."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_02",
+    "question": "Which group labels suit daily weather cards sorted by weather type?",
+    "audio_prompt": "Which group labels suit daily weather cards sorted by weather type?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-002",
+      "alt_text": "🌦️ daily weather cards; 🏷️ sunny, cloudy and rainy; ✅ clear labels"
+    },
+    "answers": [
+      {
+        "text": "good and bad",
+        "is_correct": false
+      },
+      {
+        "text": "sunny, cloudy and rainy",
+        "is_correct": true
+      },
+      {
+        "text": "first and last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sunny, cloudy and rainy clearly names the categories.",
+      "hint": "Labels should describe the sorting rule, not an opinion."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_03",
+    "question": "Which record correctly describes the sorted daily weather cards?",
+    "audio_prompt": "Which record correctly describes the sorted daily weather cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-003",
+      "alt_text": "🌦️ daily weather cards; 🔢 4 sunny, 2 cloudy and 1 rainy; 📝 record"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The largest-looking card must be the most common.",
+        "is_correct": false
+      },
+      {
+        "text": "4 sunny, 2 cloudy and 1 rainy",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "4 sunny, 2 cloudy and 1 rainy reports the category totals.",
+      "hint": "Count every item once in its matching group."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_04",
+    "question": "Which category has the most daily weather cards?",
+    "audio_prompt": "Which category has the most daily weather cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-004",
+      "alt_text": "📊 4 sunny, 2 cloudy and 1 rainy; ⬆️ most; 🌦️ sunny"
+    },
+    "answers": [
+      {
+        "text": "sunny",
+        "is_correct": true
+      },
+      {
+        "text": "the category with the longest label",
+        "is_correct": false
+      },
+      {
+        "text": "all categories are automatically equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sunny has the greatest recorded count.",
+      "hint": "Compare the category numbers, not the size of the words or pictures."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_05",
+    "question": "Which display would clearly show the sorted daily weather cards?",
+    "audio_prompt": "Which display would clearly show the sorted daily weather cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-005",
+      "alt_text": "🌦️ daily weather cards; 📊 a table with weather labels and tally marks; 🏷️ labels"
+    },
+    "answers": [
+      {
+        "text": "an unlabelled scribble",
+        "is_correct": false
+      },
+      {
+        "text": "a table with weather labels and tally marks",
+        "is_correct": true
+      },
+      {
+        "text": "a list that leaves out some items",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A table with weather labels and tally marks shows the categories and data clearly.",
+      "hint": "Choose a display with labels and one place for every result."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_06",
+    "question": "Why must each daily weather card be counted once?",
+    "audio_prompt": "Why must each daily weather card be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-006",
+      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+    },
+    "answers": [
+      {
+        "text": "So the favourite category always wins.",
+        "is_correct": false
+      },
+      {
+        "text": "So one item can make several categories larger.",
+        "is_correct": false
+      },
+      {
+        "text": "So the category totals show the data accurately.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Counting each item once prevents missing or double-counting data.",
+      "hint": "Check that every item is in one suitable category."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_07",
+    "question": "What should be checked after sorting daily weather cards by weather type?",
+    "audio_prompt": "What should be checked after sorting daily weather cards by weather type?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-007",
+      "alt_text": "🌦️ daily weather cards; 🔍 check rule; ✅ weather type"
+    },
+    "answers": [
+      {
+        "text": "Every item fits the rule for its group.",
+        "is_correct": true
+      },
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The labels are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A correct sort places items according to the stated rule.",
+      "hint": "Test each item against its category label."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_08",
+    "question": "What pattern can be described from this data: 4 sunny, 2 cloudy and 1 rainy?",
+    "audio_prompt": "What pattern can be described from this data: 4 sunny, 2 cloudy and 1 rainy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-008",
+      "alt_text": "📊 4 sunny, 2 cloudy and 1 rainy; 🔎 compare; 🏆 sunny"
+    },
+    "answers": [
+      {
+        "text": "The shortest label is always the largest category.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunny is the largest category.",
+        "is_correct": true
+      },
+      {
+        "text": "No comparison can be made from counts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recorded numbers show that sunny has the greatest count.",
+      "hint": "Use the numbers to describe what is most, least or equal."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_01",
+    "question": "What sorting rule is used when material cards are grouped as flexible and rigid?",
+    "audio_prompt": "What sorting rule is used when material cards are grouped as flexible and rigid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-009",
+      "alt_text": "📎 material cards; 🔀 whether the material bent; 🗂️ flexible and rigid"
+    },
+    "answers": [
+      {
+        "text": "which one is someone's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "the order the cards were picked up",
+        "is_correct": false
+      },
+      {
+        "text": "whether the material bent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Whether the material bent is the shared feature used for the groups.",
+      "hint": "Name the feature that is the same within each group."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_02",
+    "question": "Which group labels suit material cards sorted by whether the material bent?",
+    "audio_prompt": "Which group labels suit material cards sorted by whether the material bent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-010",
+      "alt_text": "📎 material cards; 🏷️ flexible and rigid; ✅ clear labels"
+    },
+    "answers": [
+      {
+        "text": "flexible and rigid",
+        "is_correct": true
+      },
+      {
+        "text": "good and bad",
+        "is_correct": false
+      },
+      {
+        "text": "first and last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Flexible and rigid clearly names the categories.",
+      "hint": "Labels should describe the sorting rule, not an opinion."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_03",
+    "question": "Which record correctly describes the sorted material cards?",
+    "audio_prompt": "Which record correctly describes the sorted material cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-011",
+      "alt_text": "📎 material cards; 🔢 5 flexible and 3 rigid; 📝 record"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "5 flexible and 3 rigid",
+        "is_correct": true
+      },
+      {
+        "text": "The largest-looking card must be the most common.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "5 flexible and 3 rigid reports the category totals.",
+      "hint": "Count every item once in its matching group."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_04",
+    "question": "Which category has the most material cards?",
+    "audio_prompt": "Which category has the most material cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-012",
+      "alt_text": "📊 5 flexible and 3 rigid; ⬆️ most; 📎 flexible"
+    },
+    "answers": [
+      {
+        "text": "the category with the longest label",
+        "is_correct": false
+      },
+      {
+        "text": "all categories are automatically equal",
+        "is_correct": false
+      },
+      {
+        "text": "flexible",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Flexible has the greatest recorded count.",
+      "hint": "Compare the category numbers, not the size of the words or pictures."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_05",
+    "question": "Which display would clearly show the sorted material cards?",
+    "audio_prompt": "Which display would clearly show the sorted material cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-013",
+      "alt_text": "📎 material cards; 📊 two labelled hoops containing the sorted cards; 🏷️ labels"
+    },
+    "answers": [
+      {
+        "text": "two labelled hoops containing the sorted cards",
+        "is_correct": true
+      },
+      {
+        "text": "an unlabelled scribble",
+        "is_correct": false
+      },
+      {
+        "text": "a list that leaves out some items",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two labelled hoops containing the sorted cards shows the categories and data clearly.",
+      "hint": "Choose a display with labels and one place for every result."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_06",
+    "question": "Why must each material card be counted once?",
+    "audio_prompt": "Why must each material card be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-014",
+      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+    },
+    "answers": [
+      {
+        "text": "So the favourite category always wins.",
+        "is_correct": false
+      },
+      {
+        "text": "So the category totals show the data accurately.",
+        "is_correct": true
+      },
+      {
+        "text": "So one item can make several categories larger.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting each item once prevents missing or double-counting data.",
+      "hint": "Check that every item is in one suitable category."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_07",
+    "question": "What should be checked after sorting material cards by whether the material bent?",
+    "audio_prompt": "What should be checked after sorting material cards by whether the material bent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-015",
+      "alt_text": "📎 material cards; 🔍 check rule; ✅ whether the material bent"
+    },
+    "answers": [
+      {
+        "text": "Every group has the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "The labels are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "Every item fits the rule for its group.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A correct sort places items according to the stated rule.",
+      "hint": "Test each item against its category label."
+    }
+  },
+  {
+    "id": "AC9S1I04-T-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I04",
+    "bank": "test",
+    "skill": "ac9s1i04_08",
+    "question": "What pattern can be described from this data: 5 flexible and 3 rigid?",
+    "audio_prompt": "What pattern can be described from this data: 5 flexible and 3 rigid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-016",
+      "alt_text": "📊 5 flexible and 3 rigid; 🔎 compare; 🏆 flexible"
+    },
+    "answers": [
+      {
+        "text": "Flexible is the largest category.",
+        "is_correct": true
+      },
+      {
+        "text": "The shortest label is always the largest category.",
+        "is_correct": false
+      },
+      {
+        "text": "No comparison can be made from counts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recorded numbers show that flexible has the greatest count.",
+      "hint": "Use the numbers to describe what is most, least or equal."
+    }
+  }
+]

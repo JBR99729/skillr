@@ -4,623 +4,813 @@ window.skillrPracticeQuestions = [
     "id": "ac9m1m03-p-001",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "events measured in hours",
     "skill": "events measured in hours",
-    "difficulty": "application",
     "printable": true,
-    "type": "multiple",
-    "question": "Sam studies this example. Select all events that could sensibly be described in hours.",
-    "explanation": "School days and long movies last hours; age and years need larger units.",
+    "type": "single",
+    "question": "Sam studies this example. Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "audioPrompt": "Sam studies this example. Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-001",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 1."
+    },
     "answers": [
-      "a child's age",
-      "a year",
+      "a school day, a long movie",
       "a school day",
-      "a long movie"
+      "a school day, a child's age"
     ],
-    "correct": [
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 1."
+    "correct": 0,
+    "explanation": "School days and long movies last hours; age and years need larger units.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "School days and long movies last hours; age and years need larger units.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-002",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "order time units",
     "skill": "order time units",
-    "difficulty": "application",
     "printable": true,
-    "type": "order",
-    "question": "Kai studies this example. Order these time units from shortest to longest.",
-    "explanation": "Hours build days, days build weeks, and larger calendar units follow.",
-    "items": [
-      "day",
-      "year",
-      "month",
-      "hour",
-      "week"
+    "type": "single",
+    "question": "Kai studies this example. Order these time units from shortest to longest. Which order is correct?",
+    "audioPrompt": "Kai studies this example. Order these time units from shortest to longest. Which order is correct?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 2.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-002",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 2."
+    },
+    "answers": [
+      "day → year → month → hour → week",
+      "hour → day → week → month → year",
+      "year → month → week → day → hour"
     ],
-    "correct": [
-      "hour",
-      "day",
-      "week",
-      "month",
-      "year"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 2."
+    "correct": 1,
+    "explanation": "Hours build days, days build weeks, and larger calendar units follow.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "Hours build days, days build weeks, and larger calendar units follow.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-003",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "sequence a day",
     "skill": "sequence a day",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Omar studies this example. Order the day parts from earlier to later.",
-    "explanation": "Morning comes before afternoon and night.",
-    "items": [
-      "morning",
-      "night",
-      "afternoon"
+    "type": "single",
+    "question": "Omar studies this example. Order the day parts from earlier to later. Which order is correct?",
+    "audioPrompt": "Omar studies this example. Order the day parts from earlier to later. Which order is correct?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-003",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 3."
+    },
+    "answers": [
+      "morning → night → afternoon",
+      "night → afternoon → morning",
+      "morning → afternoon → night"
     ],
-    "correct": [
-      "morning",
-      "afternoon",
-      "night"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 3."
+    "correct": 2,
+    "explanation": "Morning comes before afternoon and night.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Morning comes before afternoon and night.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-004",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "daily sequence",
     "skill": "daily sequence",
-    "difficulty": "easy",
     "printable": true,
-    "type": "order",
-    "question": "Ruby studies this example. Order these events from earlier to later.",
-    "explanation": "Breakfast usually comes before lunch and bedtime.",
-    "items": [
-      "lunch",
-      "breakfast",
-      "bedtime"
+    "type": "single",
+    "question": "Ruby studies this example. Order these events from earlier to later. Which order is correct?",
+    "audioPrompt": "Ruby studies this example. Order these events from earlier to later. Which order is correct?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 4.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-004",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 4."
+    },
+    "answers": [
+      "breakfast → lunch → bedtime",
+      "lunch → breakfast → bedtime",
+      "bedtime → lunch → breakfast"
     ],
-    "correct": [
-      "breakfast",
-      "lunch",
-      "bedtime"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 4."
+    "correct": 0,
+    "explanation": "Breakfast usually comes before lunch and bedtime.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Breakfast usually comes before lunch and bedtime.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-005",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "compare time units",
     "skill": "compare time units",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Lina studies this example. Which duration is longer?",
-    "explanation": "A day contains many hours.",
+    "audioPrompt": "Lina studies this example. Which duration is longer?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-005",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 5."
+    },
     "answers": [
       "one hour",
-      "They are equal",
-      "Time units cannot be compared",
-      "one day"
+      "one day",
+      "They are equal"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 5."
+    "correct": 1,
+    "explanation": "A day contains many hours.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "A day contains many hours.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-006",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "correct a time-unit error",
-    "skill": "correct a time-unit error",
-    "difficulty": "core",
+    "skill": "correct a time unit error",
     "printable": true,
     "type": "single",
     "question": "Ava says a five-day school week lasts five hours. Which correction is best?",
-    "explanation": "Choose a unit that matches the scale of the duration.",
+    "audioPrompt": "Ava says a five-day school week lasts five hours. Which correction is best?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 6.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-006",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 6."
+    },
     "answers": [
       "Keep hours because all time is hours",
       "Use years",
-      "Use centimetres",
       "Use days, because the period covers five different days"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 6."
+    "correct": 2,
+    "explanation": "Choose a unit that matches the scale of the duration.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Choose a unit that matches the scale of the duration.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-007",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "days in a week",
     "skill": "days in a week",
-    "difficulty": "easy",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Leo studies this example. How many days are in one week?",
-    "explanation": "A week has 7 days.",
-    "correct": 7,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is practice example 7."
+    "audioPrompt": "Leo studies this example. How many days are in one week?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is practice example 7.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is practice example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-007",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is practice example 7."
+    },
+    "answers": [
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "A week has 7 days.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "A week has 7 days.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-008",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "choose time unit",
     "skill": "choose time unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which unit best describes the duration of a school lesson?",
-    "explanation": "hours is a sensible unit for a school lesson.",
+    "audioPrompt": "Which unit best describes the duration of a school lesson?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 8.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-008",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 8."
+    },
     "answers": [
       "years",
       "hours",
-      "months",
-      "weeks"
+      "months"
     ],
     "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 8."
+    "explanation": "hours is a sensible unit for a school lesson.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "hours is a sensible unit for a school lesson.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-009",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "school-day duration",
-    "skill": "school-day duration",
-    "difficulty": "easy",
+    "skill": "school day duration",
     "printable": true,
     "type": "single",
     "question": "Noah studies this example. Which is a sensible way to describe the duration of a school day?",
-    "explanation": "A school day lasts several hours.",
+    "audioPrompt": "Noah studies this example. Which is a sensible way to describe the duration of a school day?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 9.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-009",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 9."
+    },
     "answers": [
       "several years",
       "one month",
-      "several hours",
-      "a few seconds"
+      "several hours"
     ],
     "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 9."
+    "explanation": "A school day lasts several hours.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "A school day lasts several hours.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-010",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "week duration",
     "skill": "week duration",
-    "difficulty": "application",
     "printable": true,
-    "type": "true-false",
-    "question": "Ruby studies this example. Two weeks contain 14 days.",
-    "explanation": "Each week has 7 days, so 2 weeks have 14 days.",
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is practice example 10.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is practice example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-010",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is practice example 10."
+    },
     "answers": [
-      "True",
-      "False"
+      "Ruby studies this example. Two weeks contain 14 days.",
+      "It is not true that ruby studies this example. Two weeks contain 14 days.",
+      "Days, months and events can be put in any order."
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is practice example 10."
+    "explanation": "Each week has 7 days, so 2 weeks have 14 days.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Each week has 7 days, so 2 weeks have 14 days.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-011",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "month sequence",
     "skill": "month sequence",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which month comes after March?",
-    "explanation": "April follows March in the calendar.",
+    "audioPrompt": "Which month comes after March?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 11.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-011",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 11."
+    },
     "answers": [
       "February",
-      "May",
-      "March",
-      "April"
+      "April",
+      "May"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 11."
+    "correct": 1,
+    "explanation": "April follows March in the calendar.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "April follows March in the calendar.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-012",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "holiday duration",
     "skill": "holiday duration",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "A short holiday lasts 3 days. Which description uses a suitable unit?",
-    "explanation": "Days suit an event lasting several days.",
+    "audioPrompt": "A short holiday lasts 3 days. Which description uses a suitable unit?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 12.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-012",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 12."
+    },
     "answers": [
       "3 years",
-      "3 days",
       "3 hours only",
-      "3 months"
+      "3 days"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 12."
+    "correct": 2,
+    "explanation": "Days suit an event lasting several days.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "Days suit an event lasting several days.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-013",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "timeline",
     "skill": "timeline",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "A project starts on Wednesday and finishes 2 days later. Which day is that?",
-    "explanation": "Count forward two days from Wednesday.",
+    "audioPrompt": "A project starts on Wednesday and finishes 2 days later. Which day is that?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is practice example 13.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is practice example 13.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-013",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is practice example 13."
+    },
     "answers": [
+      "Friday",
       "Thursday",
-      "Saturday",
-      "Wednesday",
-      "Friday"
+      "Saturday"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is practice example 13."
+    "correct": 0,
+    "explanation": "Count forward two days from Wednesday.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Count forward two days from Wednesday.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-014",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "age in years",
     "skill": "age in years",
-    "difficulty": "easy",
     "printable": true,
     "type": "single",
     "question": "Ava is 7 years old. Which unit is being used?",
-    "explanation": "Age is commonly described in years.",
+    "audioPrompt": "Ava is 7 years old. Which unit is being used?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: age in years This is practice example 14.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: age in years This is practice example 14.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-014",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: age in years This is practice example 14."
+    },
     "answers": [
       "months only",
-      "hours",
-      "days",
-      "years"
+      "years",
+      "hours"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: age in years This is practice example 14."
+    "correct": 1,
+    "explanation": "Age is commonly described in years.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Age is commonly described in years.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-015",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "calendar next date",
     "skill": "calendar next date",
-    "difficulty": "challenge",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "The calendar shows the 3rd today. What date is tomorrow?",
-    "explanation": "Tomorrow is one day later, the 4th.",
-    "correct": 4,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 15."
+    "audioPrompt": "The calendar shows the 3rd today. What date is tomorrow?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 15.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 15.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-015",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 15."
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Tomorrow is one day later, the 4th.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Tomorrow is one day later, the 4th.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-016",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "day after",
     "skill": "day after",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which day comes after Tuesday?",
-    "explanation": "Wednesday follows Tuesday.",
+    "audioPrompt": "Which day comes after Tuesday?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: day after This is practice example 16.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: day after This is practice example 16.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-016",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: day after This is practice example 16."
+    },
     "answers": [
-      "Monday",
-      "Thursday",
       "Wednesday",
-      "Tuesday"
+      "Monday",
+      "Thursday"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: day after This is practice example 16."
+    "correct": 0,
+    "explanation": "Wednesday follows Tuesday.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Wednesday follows Tuesday.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-017",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "sequence a day",
     "skill": "sequence a day",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Nina studies this example. Order the day parts from earlier to later.",
-    "explanation": "Morning comes before afternoon and night.",
-    "items": [
-      "night",
-      "morning",
-      "afternoon"
+    "type": "single",
+    "question": "Nina studies this example. Order the day parts from earlier to later. Which order is correct?",
+    "audioPrompt": "Nina studies this example. Order the day parts from earlier to later. Which order is correct?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is practice example 17.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is practice example 17.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-017",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is practice example 17."
+    },
+    "answers": [
+      "night → morning → afternoon",
+      "morning → afternoon → night",
+      "night → afternoon → morning"
     ],
-    "correct": [
-      "morning",
-      "afternoon",
-      "night"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is practice example 17."
+    "correct": 1,
+    "explanation": "Morning comes before afternoon and night.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Morning comes before afternoon and night.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-018",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "order time units",
     "skill": "order time units",
-    "difficulty": "application",
     "printable": true,
-    "type": "order",
-    "question": "Order these time units from shortest to longest.",
-    "explanation": "Hours build days, days build weeks, and larger calendar units follow.",
-    "items": [
-      "day",
-      "week",
-      "year",
-      "month",
-      "hour"
+    "type": "single",
+    "question": "Order these time units from shortest to longest. Which order is correct?",
+    "audioPrompt": "Order these time units from shortest to longest. Which order is correct?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 18.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 18.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-018",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 18."
+    },
+    "answers": [
+      "day → week → year → month → hour",
+      "year → month → week → day → hour",
+      "hour → day → week → month → year"
     ],
-    "correct": [
-      "hour",
-      "day",
-      "week",
-      "month",
-      "year"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 18."
+    "correct": 2,
+    "explanation": "Hours build days, days build weeks, and larger calendar units follow.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "Hours build days, days build weeks, and larger calendar units follow.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-019",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "events measured in hours",
     "skill": "events measured in hours",
-    "difficulty": "application",
     "printable": true,
-    "type": "multiple",
-    "question": "Select all events that could sensibly be described in hours.",
-    "explanation": "School days and long movies last hours; age and years need larger units.",
+    "type": "single",
+    "question": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 19.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 19.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-019",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 19."
+    },
     "answers": [
-      "a child's age",
-      "a year",
+      "a school day, a long movie",
       "a school day",
-      "a long movie"
+      "a school day, a child's age"
     ],
-    "correct": [
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is practice example 19."
+    "correct": 0,
+    "explanation": "School days and long movies last hours; age and years need larger units.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "School days and long movies last hours; age and years need larger units.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-020",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "compare time units",
     "skill": "compare time units",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Arlo studies this example. Which duration is longer?",
-    "explanation": "A day contains many hours.",
+    "audioPrompt": "Arlo studies this example. Which duration is longer?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 20.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 20.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-020",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 20."
+    },
     "answers": [
-      "one day",
       "one hour",
-      "They are equal",
-      "Time units cannot be compared"
+      "one day",
+      "They are equal"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 20."
+    "correct": 1,
+    "explanation": "A day contains many hours.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "A day contains many hours.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-021",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "choose time unit",
     "skill": "choose time unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which unit best describes the duration of a child's age?",
-    "explanation": "years is a sensible unit for a child's age.",
+    "audioPrompt": "Which unit best describes the duration of a child's age?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 21.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 21.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-021",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 21."
+    },
     "answers": [
-      "years",
       "hours",
       "days",
-      "weeks"
+      "years"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 21."
+    "correct": 2,
+    "explanation": "years is a sensible unit for a child's age.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "years is a sensible unit for a child's age.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-022",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "choose time unit",
     "skill": "choose time unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which unit best describes the duration of a school term?",
-    "explanation": "months is a sensible unit for a school term.",
+    "audioPrompt": "Which unit best describes the duration of a school term?",
+    "visual": "Two clock times and a timeline show how long an event lasts. This is practice example 22.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is practice example 22.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-022",
+      "alt_text": "Two clock times and a timeline show how long an event lasts. This is practice example 22."
+    },
     "answers": [
+      "months",
       "minutes",
-      "hours",
-      "one day",
-      "months"
+      "hours"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22155%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22155%22%20y2%3D%2278%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22155%22%20y1%3D%22115%22%20x2%3D%22190%22%20y2%3D%22115%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%22475%22%20cy%3D%22115%22%20r%3D%2252%22%20class%3D%22white%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22475%22%20y2%3D%2273%22%20class%3D%22line%22%2F%3E%3Cline%20x1%3D%22475%22%20y1%3D%22115%22%20x2%3D%22505%22%20y2%3D%22145%22%20class%3D%22line%22%2F%3E%3Cpath%20d%3D%22M225%20115%20H405%22%20class%3D%22arrow%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22155%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecompare%20elapsed%20time%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ETwo%20clock%20times%20and%20a%20timeline%20show%20how%20long%20an%20event%20lasts.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two clock times and a timeline show how long an event lasts. This is practice example 22."
+    "correct": 0,
+    "explanation": "months is a sensible unit for a school term.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "months is a sensible unit for a school term.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-023",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "choose time unit",
     "skill": "choose time unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which unit best describes the duration of a weekend?",
-    "explanation": "days is a sensible unit for a weekend.",
+    "audioPrompt": "Which unit best describes the duration of a weekend?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is practice example 23.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is practice example 23.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-023",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is practice example 23."
+    },
     "answers": [
       "hours only",
-      "months",
       "days",
-      "years"
+      "months"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is practice example 23."
+    "correct": 1,
+    "explanation": "days is a sensible unit for a weekend.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "days is a sensible unit for a weekend.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-024",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "sequence a day",
     "skill": "sequence a day",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Order the day parts from earlier to later.",
-    "explanation": "Morning comes before afternoon and night.",
-    "items": [
-      "morning",
-      "night",
-      "afternoon"
+    "type": "single",
+    "question": "Order the day parts from earlier to later. Which order is correct?",
+    "audioPrompt": "Order the day parts from earlier to later. Which order is correct?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 24.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 24.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-024",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 24."
+    },
+    "answers": [
+      "morning → night → afternoon",
+      "night → afternoon → morning",
+      "morning → afternoon → night"
     ],
-    "correct": [
-      "morning",
-      "afternoon",
-      "night"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 24."
+    "correct": 2,
+    "explanation": "Morning comes before afternoon and night.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Morning comes before afternoon and night.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-025",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "daily sequence",
     "skill": "daily sequence",
-    "difficulty": "easy",
     "printable": true,
-    "type": "order",
-    "question": "Order these events from earlier to later.",
-    "explanation": "Breakfast usually comes before lunch and bedtime.",
-    "items": [
-      "breakfast",
-      "bedtime",
-      "lunch"
+    "type": "single",
+    "question": "Order these events from earlier to later. Which order is correct?",
+    "audioPrompt": "Order these events from earlier to later. Which order is correct?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 25.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 25.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-025\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-025",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 25."
+    },
+    "answers": [
+      "breakfast → lunch → bedtime",
+      "breakfast → bedtime → lunch",
+      "bedtime → lunch → breakfast"
     ],
-    "correct": [
-      "breakfast",
-      "lunch",
-      "bedtime"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: daily sequence This is practice example 25."
+    "correct": 0,
+    "explanation": "Breakfast usually comes before lunch and bedtime.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Breakfast usually comes before lunch and bedtime.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-026",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "month sequence",
     "skill": "month sequence",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which month comes after January?",
-    "explanation": "February follows January in the calendar.",
+    "audioPrompt": "Which month comes after January?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 26.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 26.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-026\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-026",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 26."
+    },
     "answers": [
       "December",
       "February",
-      "March",
-      "January"
+      "March"
     ],
     "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 26."
+    "explanation": "February follows January in the calendar.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "February follows January in the calendar.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-027",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "timeline",
     "skill": "timeline",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "A project starts on Monday and finishes 2 days later. Which day is that?",
-    "explanation": "Count forward two days from Monday.",
+    "audioPrompt": "A project starts on Monday and finishes 2 days later. Which day is that?",
+    "visual": "The seven days are shown in their weekly order. This is practice example 27.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is practice example 27.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-027\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-027",
+      "alt_text": "The seven days are shown in their weekly order. This is practice example 27."
+    },
     "answers": [
       "Tuesday",
-      "Wednesday",
       "Thursday",
-      "Monday"
+      "Wednesday"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2259%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMon%3C%2Ftext%3E%3Crect%20x%3D%22134%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ETue%3C%2Ftext%3E%3Crect%20x%3D%22209%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EWed%3C%2Ftext%3E%3Crect%20x%3D%22284%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22315%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EThu%3C%2Ftext%3E%3Crect%20x%3D%22359%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22390%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFri%3C%2Ftext%3E%3Crect%20x%3D%22434%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22465%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESat%3C%2Ftext%3E%3Crect%20x%3D%22509%22%20y%3D%2282%22%20width%3D%2262%22%20height%3D%2264%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22540%22%20y%3D%22119%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESun%3C%2Ftext%3E%3Cpath%20d%3D%22M85%20174%20H555%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%20seven%20days%20are%20shown%20in%20their%20weekly%20order.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The seven days are shown in their weekly order. This is practice example 27."
+    "correct": 2,
+    "explanation": "Count forward two days from Monday.\nHint: Use the time order and move one step at a time.",
+    "structuredExplanation": {
+      "summary": "Count forward two days from Monday.",
+      "hint": "Use the time order and move one step at a time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1m03-p-028",
     "curriculumCode": "AC9M1M03",
     "bank": "practice",
-    "learningArea": "month sequence",
     "skill": "month sequence",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which month comes after April?",
-    "explanation": "May follows April in the calendar.",
+    "audioPrompt": "Which month comes after April?",
+    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 28.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 28.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-028\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-p-028",
+      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 28."
+    },
     "answers": [
       "May",
       "March",
-      "June",
-      "April"
+      "June"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ETime%3A%20Years%2C%20Months%2C%20Weeks%2C%20Days%20and%20Hours%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJan%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EFeb%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMar%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EApr%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EMay%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%2261%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%2291%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJun%3C%2Ftext%3E%3Crect%20x%3D%2245%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2284%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EJul%3C%2Ftext%3E%3Crect%20x%3D%22137%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EAug%3C%2Ftext%3E%3Crect%20x%3D%22229%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ESep%3C%2Ftext%3E%3Crect%20x%3D%22321%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22360%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EOct%3C%2Ftext%3E%3Crect%20x%3D%22413%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22452%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3ENov%3C%2Ftext%3E%3Crect%20x%3D%22505%22%20y%3D%22126%22%20width%3D%2278%22%20height%3D%2248%22%20rx%3D%228%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22544%22%20y%3D%22156%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3EDec%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EThe%2012%20months%20are%20shown%20in%20their%20order%20through%20one%20year.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: month sequence This is practice example 28."
+    "explanation": "May follows April in the calendar.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "May follows April in the calendar.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

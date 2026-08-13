@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S1U01-P-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_01",
+    "question": "Which is a basic need of a frog?",
+    "audio_prompt": "Which is a basic need of a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-001",
+      "alt_text": "🐸 a frog; 💧 pond water; ✅ basic need"
+    },
+    "answers": [
+      {
+        "text": "pond water",
+        "is_correct": true
+      },
+      {
+        "text": "a favourite toy",
+        "is_correct": false
+      },
+      {
+        "text": "a special costume",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A frog needs pond water to live.",
+      "hint": "A need is required for life, not simply wanted."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_02",
+    "question": "Which food is suitable for a frog?",
+    "audio_prompt": "Which food is suitable for a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-002",
+      "alt_text": "🐸 a frog; 🍽️ insects; ⚡ energy"
+    },
+    "answers": [
+      {
+        "text": "plastic wrappers",
+        "is_correct": false
+      },
+      {
+        "text": "insects",
+        "is_correct": true
+      },
+      {
+        "text": "paint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Insects is a suitable source of food or energy for a frog.",
+      "hint": "Choose what the living thing naturally uses for nutrition or making food."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_03",
+    "question": "What can provide shelter or suitable growing space for a frog?",
+    "audio_prompt": "What can provide shelter or suitable growing space for a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-003",
+      "alt_text": "🐸 a frog; 🏠 reeds and rocks; 🛡️ protection"
+    },
+    "answers": [
+      {
+        "text": "an unsafe bare surface",
+        "is_correct": false
+      },
+      {
+        "text": "a sealed container with no air",
+        "is_correct": false
+      },
+      {
+        "text": "reeds and rocks",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reeds and rocks helps meet the living thing's needs.",
+      "hint": "Shelter or growing space provides protection and suitable conditions."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_04",
+    "question": "Which habitat best meets the needs of a frog?",
+    "audio_prompt": "Which habitat best meets the needs of a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-004",
+      "alt_text": "🐸 a frog; 🌍 a pond with water, insects and plants; ✅ needs met"
+    },
+    "answers": [
+      {
+        "text": "a pond with water, insects and plants",
+        "is_correct": true
+      },
+      {
+        "text": "a dry sealed box",
+        "is_correct": false
+      },
+      {
+        "text": "a place chosen only because it looks colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pond with water, insects and plants provides several basic needs.",
+      "hint": "Check for water, food or light, air, shelter and suitable space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_05",
+    "question": "Why is a dry sealed box unsuitable for a frog?",
+    "audio_prompt": "Why is a dry sealed box unsuitable for a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-005",
+      "alt_text": "❌ a dry sealed box; 🐸 a frog; 🔍 missing needs"
+    },
+    "answers": [
+      {
+        "text": "It is not someone's favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not provide important basic needs.",
+        "is_correct": true
+      },
+      {
+        "text": "Every living thing can live anywhere.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A habitat must provide the conditions the living thing needs.",
+      "hint": "Name the missing water, food, air, light, shelter or space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_06",
+    "question": "Which action would help care for a frog?",
+    "audio_prompt": "Which action would help care for a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-006",
+      "alt_text": "🐸 a frog; 🤲 protect its pond habitat; 💚 care"
+    },
+    "answers": [
+      {
+        "text": "remove its water and shelter",
+        "is_correct": false
+      },
+      {
+        "text": "give it unsafe human food",
+        "is_correct": false
+      },
+      {
+        "text": "protect its pond habitat",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Protect its pond habitat supports the living thing's needs.",
+      "hint": "Choose an action that protects health or habitat."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_07",
+    "question": "What do a frog and other animals or plants have in common?",
+    "audio_prompt": "What do a frog and other animals or plants have in common?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-007",
+      "alt_text": "🐸 a frog; 🌱 living things; 💧 shared needs"
+    },
+    "answers": [
+      {
+        "text": "They need suitable conditions and resources to live.",
+        "is_correct": true
+      },
+      {
+        "text": "They all need the same kind of toy.",
+        "is_correct": false
+      },
+      {
+        "text": "They can live without water or air.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Living things share basic needs, although the exact resources can differ.",
+      "hint": "Think about air, water, food or light, shelter and space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_08",
+    "question": "Which change would most directly harm a frog?",
+    "audio_prompt": "Which change would most directly harm a frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-008",
+      "alt_text": "🐸 a frog; ➖ pond water; ⚠️ need missing"
+    },
+    "answers": [
+      {
+        "text": "Adding a clear observation label.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing pond water from its pond habitat.",
+        "is_correct": true
+      },
+      {
+        "text": "Recording the living place in a drawing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Without pond water, an essential need is missing.",
+      "hint": "Choose the change that removes a resource needed for life."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_01",
+    "question": "Which is a basic need of a bean plant?",
+    "audio_prompt": "Which is a basic need of a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-009",
+      "alt_text": "🌱 a bean plant; 💧 clean water; ✅ basic need"
+    },
+    "answers": [
+      {
+        "text": "a favourite toy",
+        "is_correct": false
+      },
+      {
+        "text": "a special costume",
+        "is_correct": false
+      },
+      {
+        "text": "clean water",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A bean plant needs clean water to live.",
+      "hint": "A need is required for life, not simply wanted."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_02",
+    "question": "Which resource helps a bean plant make its own food?",
+    "audio_prompt": "Which resource helps a bean plant make its own food?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-010",
+      "alt_text": "🌱 a bean plant; 🍽️ light energy; ⚡ energy"
+    },
+    "answers": [
+      {
+        "text": "light energy",
+        "is_correct": true
+      },
+      {
+        "text": "plastic wrappers",
+        "is_correct": false
+      },
+      {
+        "text": "paint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Light energy is a suitable source of food or energy for a bean plant.",
+      "hint": "Choose what the living thing naturally uses for nutrition or making food."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_03",
+    "question": "What can provide shelter or suitable growing space for a bean plant?",
+    "audio_prompt": "What can provide shelter or suitable growing space for a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-011",
+      "alt_text": "🌱 a bean plant; 🏠 suitable soil and space; 🛡️ protection"
+    },
+    "answers": [
+      {
+        "text": "an unsafe bare surface",
+        "is_correct": false
+      },
+      {
+        "text": "suitable soil and space",
+        "is_correct": true
+      },
+      {
+        "text": "a sealed container with no air",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Suitable soil and space helps meet the living thing's needs.",
+      "hint": "Shelter or growing space provides protection and suitable conditions."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_04",
+    "question": "Which habitat best meets the needs of a bean plant?",
+    "audio_prompt": "Which habitat best meets the needs of a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-012",
+      "alt_text": "🌱 a bean plant; 🌍 a pot with soil, water, light and space; ✅ needs met"
+    },
+    "answers": [
+      {
+        "text": "a dark cupboard with no water",
+        "is_correct": false
+      },
+      {
+        "text": "a place chosen only because it looks colourful",
+        "is_correct": false
+      },
+      {
+        "text": "a pot with soil, water, light and space",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A pot with soil, water, light and space provides several basic needs.",
+      "hint": "Check for water, food or light, air, shelter and suitable space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_05",
+    "question": "Why is a dark cupboard with no water unsuitable for a bean plant?",
+    "audio_prompt": "Why is a dark cupboard with no water unsuitable for a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-013",
+      "alt_text": "❌ a dark cupboard with no water; 🌱 a bean plant; 🔍 missing needs"
+    },
+    "answers": [
+      {
+        "text": "It does not provide important basic needs.",
+        "is_correct": true
+      },
+      {
+        "text": "It is not someone's favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Every living thing can live anywhere.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A habitat must provide the conditions the living thing needs.",
+      "hint": "Name the missing water, food, air, light, shelter or space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_06",
+    "question": "Which action would help care for a bean plant?",
+    "audio_prompt": "Which action would help care for a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-014",
+      "alt_text": "🌱 a bean plant; 🤲 give it suitable light and water; 💚 care"
+    },
+    "answers": [
+      {
+        "text": "remove its water and shelter",
+        "is_correct": false
+      },
+      {
+        "text": "give it suitable light and water",
+        "is_correct": true
+      },
+      {
+        "text": "give it unsafe human food",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Give it suitable light and water supports the living thing's needs.",
+      "hint": "Choose an action that protects health or habitat."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_07",
+    "question": "What do a bean plant and other animals or plants have in common?",
+    "audio_prompt": "What do a bean plant and other animals or plants have in common?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-015",
+      "alt_text": "🌱 a bean plant; 🌱 living things; 💧 shared needs"
+    },
+    "answers": [
+      {
+        "text": "They all need the same kind of toy.",
+        "is_correct": false
+      },
+      {
+        "text": "They can live without water or air.",
+        "is_correct": false
+      },
+      {
+        "text": "They need suitable conditions and resources to live.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Living things share basic needs, although the exact resources can differ.",
+      "hint": "Think about air, water, food or light, shelter and space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_08",
+    "question": "Which change would most directly harm a bean plant?",
+    "audio_prompt": "Which change would most directly harm a bean plant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-016",
+      "alt_text": "🌱 a bean plant; ➖ clean water; ⚠️ need missing"
+    },
+    "answers": [
+      {
+        "text": "Removing clean water from its growing space.",
+        "is_correct": true
+      },
+      {
+        "text": "Adding a clear observation label.",
+        "is_correct": false
+      },
+      {
+        "text": "Recording the living place in a drawing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Without clean water, an essential need is missing.",
+      "hint": "Choose the change that removes a resource needed for life."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-017",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_01",
+    "question": "Which is a basic need of a dog?",
+    "audio_prompt": "Which is a basic need of a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-017",
+      "alt_text": "🐕 a dog; 💧 fresh water; ✅ basic need"
+    },
+    "answers": [
+      {
+        "text": "a favourite toy",
+        "is_correct": false
+      },
+      {
+        "text": "fresh water",
+        "is_correct": true
+      },
+      {
+        "text": "a special costume",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A dog needs fresh water to live.",
+      "hint": "A need is required for life, not simply wanted."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-018",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_02",
+    "question": "Which food is suitable for a dog?",
+    "audio_prompt": "Which food is suitable for a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-018",
+      "alt_text": "🐕 a dog; 🍽️ suitable dog food; ⚡ energy"
+    },
+    "answers": [
+      {
+        "text": "plastic wrappers",
+        "is_correct": false
+      },
+      {
+        "text": "paint",
+        "is_correct": false
+      },
+      {
+        "text": "suitable dog food",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Suitable dog food is a suitable source of food or energy for a dog.",
+      "hint": "Choose what the living thing naturally uses for nutrition or making food."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-019",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_03",
+    "question": "What can provide shelter or suitable growing space for a dog?",
+    "audio_prompt": "What can provide shelter or suitable growing space for a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-019",
+      "alt_text": "🐕 a dog; 🏠 a safe resting place; 🛡️ protection"
+    },
+    "answers": [
+      {
+        "text": "a safe resting place",
+        "is_correct": true
+      },
+      {
+        "text": "an unsafe bare surface",
+        "is_correct": false
+      },
+      {
+        "text": "a sealed container with no air",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A safe resting place helps meet the living thing's needs.",
+      "hint": "Shelter or growing space provides protection and suitable conditions."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-020",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_04",
+    "question": "Which habitat best meets the needs of a dog?",
+    "audio_prompt": "Which habitat best meets the needs of a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-020",
+      "alt_text": "🐕 a dog; 🌍 a safe home with food, water and space; ✅ needs met"
+    },
+    "answers": [
+      {
+        "text": "a hot car with no water",
+        "is_correct": false
+      },
+      {
+        "text": "a safe home with food, water and space",
+        "is_correct": true
+      },
+      {
+        "text": "a place chosen only because it looks colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A safe home with food, water and space provides several basic needs.",
+      "hint": "Check for water, food or light, air, shelter and suitable space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-021",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_05",
+    "question": "Why is a hot car with no water unsuitable for a dog?",
+    "audio_prompt": "Why is a hot car with no water unsuitable for a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-021",
+      "alt_text": "❌ a hot car with no water; 🐕 a dog; 🔍 missing needs"
+    },
+    "answers": [
+      {
+        "text": "It is not someone's favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Every living thing can live anywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not provide important basic needs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A habitat must provide the conditions the living thing needs.",
+      "hint": "Name the missing water, food, air, light, shelter or space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-022",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_06",
+    "question": "Which action would help care for a dog?",
+    "audio_prompt": "Which action would help care for a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-022",
+      "alt_text": "🐕 a dog; 🤲 provide food, water, exercise and shelter; 💚 care"
+    },
+    "answers": [
+      {
+        "text": "provide food, water, exercise and shelter",
+        "is_correct": true
+      },
+      {
+        "text": "remove its water and shelter",
+        "is_correct": false
+      },
+      {
+        "text": "give it unsafe human food",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Provide food, water, exercise and shelter supports the living thing's needs.",
+      "hint": "Choose an action that protects health or habitat."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-023",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_07",
+    "question": "What do a dog and other animals or plants have in common?",
+    "audio_prompt": "What do a dog and other animals or plants have in common?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-023",
+      "alt_text": "🐕 a dog; 🌱 living things; 💧 shared needs"
+    },
+    "answers": [
+      {
+        "text": "They all need the same kind of toy.",
+        "is_correct": false
+      },
+      {
+        "text": "They need suitable conditions and resources to live.",
+        "is_correct": true
+      },
+      {
+        "text": "They can live without water or air.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Living things share basic needs, although the exact resources can differ.",
+      "hint": "Think about air, water, food or light, shelter and space."
+    }
+  },
+  {
+    "id": "AC9S1U01-P-024",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "practice",
+    "skill": "ac9s1u01_08",
+    "question": "Which change would most directly harm a dog?",
+    "audio_prompt": "Which change would most directly harm a dog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-p-024",
+      "alt_text": "🐕 a dog; ➖ fresh water; ⚠️ need missing"
+    },
+    "answers": [
+      {
+        "text": "Adding a clear observation label.",
+        "is_correct": false
+      },
+      {
+        "text": "Recording the living place in a drawing.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing fresh water from its home.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Without fresh water, an essential need is missing.",
+      "hint": "Choose the change that removes a resource needed for life."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_01",
+    "question": "Which is a basic need of a small bird?",
+    "audio_prompt": "Which is a basic need of a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-001",
+      "alt_text": "🐦 a small bird; 💧 clean water; ✅ basic need"
+    },
+    "answers": [
+      {
+        "text": "clean water",
+        "is_correct": true
+      },
+      {
+        "text": "a favourite toy",
+        "is_correct": false
+      },
+      {
+        "text": "a special costume",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A small bird needs clean water to live.",
+      "hint": "A need is required for life, not simply wanted."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_02",
+    "question": "Which food is suitable for a small bird?",
+    "audio_prompt": "Which food is suitable for a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-002",
+      "alt_text": "🐦 a small bird; 🍽️ seeds and insects; ⚡ energy"
+    },
+    "answers": [
+      {
+        "text": "plastic wrappers",
+        "is_correct": false
+      },
+      {
+        "text": "seeds and insects",
+        "is_correct": true
+      },
+      {
+        "text": "paint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Seeds and insects is a suitable source of food or energy for a small bird.",
+      "hint": "Choose what the living thing naturally uses for nutrition or making food."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_03",
+    "question": "What can provide shelter or suitable growing space for a small bird?",
+    "audio_prompt": "What can provide shelter or suitable growing space for a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-003",
+      "alt_text": "🐦 a small bird; 🏠 trees or dense shrubs; 🛡️ protection"
+    },
+    "answers": [
+      {
+        "text": "an unsafe bare surface",
+        "is_correct": false
+      },
+      {
+        "text": "a sealed container with no air",
+        "is_correct": false
+      },
+      {
+        "text": "trees or dense shrubs",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trees or dense shrubs helps meet the living thing's needs.",
+      "hint": "Shelter or growing space provides protection and suitable conditions."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_04",
+    "question": "Which habitat best meets the needs of a small bird?",
+    "audio_prompt": "Which habitat best meets the needs of a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-004",
+      "alt_text": "🐦 a small bird; 🌍 an area with plants, water, food and nesting places; ✅ needs met"
+    },
+    "answers": [
+      {
+        "text": "an area with plants, water, food and nesting places",
+        "is_correct": true
+      },
+      {
+        "text": "an empty area with no food or shelter",
+        "is_correct": false
+      },
+      {
+        "text": "a place chosen only because it looks colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An area with plants, water, food and nesting places provides several basic needs.",
+      "hint": "Check for water, food or light, air, shelter and suitable space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_05",
+    "question": "Why is an empty area with no food or shelter unsuitable for a small bird?",
+    "audio_prompt": "Why is an empty area with no food or shelter unsuitable for a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-005",
+      "alt_text": "❌ an empty area with no food or shelter; 🐦 a small bird; 🔍 missing needs"
+    },
+    "answers": [
+      {
+        "text": "It is not someone's favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not provide important basic needs.",
+        "is_correct": true
+      },
+      {
+        "text": "Every living thing can live anywhere.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A habitat must provide the conditions the living thing needs.",
+      "hint": "Name the missing water, food, air, light, shelter or space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_06",
+    "question": "Which action would help care for a small bird?",
+    "audio_prompt": "Which action would help care for a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-006",
+      "alt_text": "🐦 a small bird; 🤲 protect plants and keep water sources clean; 💚 care"
+    },
+    "answers": [
+      {
+        "text": "remove its water and shelter",
+        "is_correct": false
+      },
+      {
+        "text": "give it unsafe human food",
+        "is_correct": false
+      },
+      {
+        "text": "protect plants and keep water sources clean",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Protect plants and keep water sources clean supports the living thing's needs.",
+      "hint": "Choose an action that protects health or habitat."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_07",
+    "question": "What do a small bird and other animals or plants have in common?",
+    "audio_prompt": "What do a small bird and other animals or plants have in common?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-007",
+      "alt_text": "🐦 a small bird; 🌱 living things; 💧 shared needs"
+    },
+    "answers": [
+      {
+        "text": "They need suitable conditions and resources to live.",
+        "is_correct": true
+      },
+      {
+        "text": "They all need the same kind of toy.",
+        "is_correct": false
+      },
+      {
+        "text": "They can live without water or air.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Living things share basic needs, although the exact resources can differ.",
+      "hint": "Think about air, water, food or light, shelter and space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_08",
+    "question": "Which change would most directly harm a small bird?",
+    "audio_prompt": "Which change would most directly harm a small bird?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-008",
+      "alt_text": "🐦 a small bird; ➖ clean water; ⚠️ need missing"
+    },
+    "answers": [
+      {
+        "text": "Adding a clear observation label.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing clean water from its habitat.",
+        "is_correct": true
+      },
+      {
+        "text": "Recording the living place in a drawing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Without clean water, an essential need is missing.",
+      "hint": "Choose the change that removes a resource needed for life."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_01",
+    "question": "Which is a basic need of a person?",
+    "audio_prompt": "Which is a basic need of a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-009",
+      "alt_text": "👧 a person; 💧 clean drinking water; ✅ basic need"
+    },
+    "answers": [
+      {
+        "text": "a favourite toy",
+        "is_correct": false
+      },
+      {
+        "text": "a special costume",
+        "is_correct": false
+      },
+      {
+        "text": "clean drinking water",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A person needs clean drinking water to live.",
+      "hint": "A need is required for life, not simply wanted."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_02",
+    "question": "Which food supports a person's basic needs?",
+    "audio_prompt": "Which food supports a person's basic needs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-010",
+      "alt_text": "👧 a person; 🍽️ nutritious food; ⚡ energy"
+    },
+    "answers": [
+      {
+        "text": "nutritious food",
+        "is_correct": true
+      },
+      {
+        "text": "plastic wrappers",
+        "is_correct": false
+      },
+      {
+        "text": "paint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Nutritious food is a suitable source of food or energy for a person.",
+      "hint": "Choose what the living thing naturally uses for nutrition or making food."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_03",
+    "question": "What can provide shelter or suitable growing space for a person?",
+    "audio_prompt": "What can provide shelter or suitable growing space for a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-011",
+      "alt_text": "👧 a person; 🏠 a safe home; 🛡️ protection"
+    },
+    "answers": [
+      {
+        "text": "an unsafe bare surface",
+        "is_correct": false
+      },
+      {
+        "text": "a safe home",
+        "is_correct": true
+      },
+      {
+        "text": "a sealed container with no air",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A safe home helps meet the living thing's needs.",
+      "hint": "Shelter or growing space provides protection and suitable conditions."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_04",
+    "question": "Which habitat best meets the needs of a person?",
+    "audio_prompt": "Which habitat best meets the needs of a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-012",
+      "alt_text": "👧 a person; 🌍 a safe place with air, water, food and shelter; ✅ needs met"
+    },
+    "answers": [
+      {
+        "text": "a place with no clean air or water",
+        "is_correct": false
+      },
+      {
+        "text": "a place chosen only because it looks colourful",
+        "is_correct": false
+      },
+      {
+        "text": "a safe place with air, water, food and shelter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A safe place with air, water, food and shelter provides several basic needs.",
+      "hint": "Check for water, food or light, air, shelter and suitable space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_05",
+    "question": "Why is a place with no clean air or water unsuitable for a person?",
+    "audio_prompt": "Why is a place with no clean air or water unsuitable for a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-013",
+      "alt_text": "❌ a place with no clean air or water; 👧 a person; 🔍 missing needs"
+    },
+    "answers": [
+      {
+        "text": "It does not provide important basic needs.",
+        "is_correct": true
+      },
+      {
+        "text": "It is not someone's favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Every living thing can live anywhere.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A habitat must provide the conditions the living thing needs.",
+      "hint": "Name the missing water, food, air, light, shelter or space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_06",
+    "question": "Which action would help care for a person?",
+    "audio_prompt": "Which action would help care for a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-014",
+      "alt_text": "👧 a person; 🤲 support access to clean water, food, air and shelter; 💚 care"
+    },
+    "answers": [
+      {
+        "text": "remove its water and shelter",
+        "is_correct": false
+      },
+      {
+        "text": "support access to clean water, food, air and shelter",
+        "is_correct": true
+      },
+      {
+        "text": "give it unsafe human food",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Support access to clean water, food, air and shelter supports the living thing's needs.",
+      "hint": "Choose an action that protects health or habitat."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_07",
+    "question": "What do a person and other animals or plants have in common?",
+    "audio_prompt": "What do a person and other animals or plants have in common?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-015",
+      "alt_text": "👧 a person; 🌱 living things; 💧 shared needs"
+    },
+    "answers": [
+      {
+        "text": "They all need the same kind of toy.",
+        "is_correct": false
+      },
+      {
+        "text": "They can live without water or air.",
+        "is_correct": false
+      },
+      {
+        "text": "They need suitable conditions and resources to live.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Living things share basic needs, although the exact resources can differ.",
+      "hint": "Think about air, water, food or light, shelter and space."
+    }
+  },
+  {
+    "id": "AC9S1U01-T-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U01",
+    "bank": "test",
+    "skill": "ac9s1u01_08",
+    "question": "Which change would most directly harm a person?",
+    "audio_prompt": "Which change would most directly harm a person?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u01.svg#ac9s1u01-t-016",
+      "alt_text": "👧 a person; ➖ clean drinking water; ⚠️ need missing"
+    },
+    "answers": [
+      {
+        "text": "Removing clean drinking water from their community.",
+        "is_correct": true
+      },
+      {
+        "text": "Adding a clear observation label.",
+        "is_correct": false
+      },
+      {
+        "text": "Recording the living place in a drawing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Without clean drinking water, an essential need is missing.",
+      "hint": "Choose the change that removes a resource needed for life."
+    }
+  }
+]

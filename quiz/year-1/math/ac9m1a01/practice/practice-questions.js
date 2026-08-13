@@ -4,548 +4,813 @@ window.skillrPracticeQuestions = [
     "id": "ac9m1a01-p-001",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "object pattern",
     "skill": "object pattern",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Mia studies this example. Which object display represents counting by 2s?",
-    "explanation": "Equal groups show the same skip each time.",
+    "audioPrompt": "Mia studies this example. Which object display represents counting by 2s?",
+    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-001",
+      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 1."
+    },
     "answers": [
       "[● ●] [● ●] [● ●] [● ●]",
       "[●] [●] [●] [●]",
-      "[● ●] [● ●] [● ●]",
-      "● ●"
+      "[● ●] [● ●] [● ●]"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22133%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22165%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22168%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22221%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22238%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22253%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22256%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22309%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22326%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22341%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22344%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 1."
+    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Equal groups show the same skip each time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-002",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "members of a sequence",
     "skill": "members of a sequence",
-    "difficulty": "easy",
     "printable": true,
-    "type": "multiple",
-    "question": "Select all numbers in the first three terms of the add-2 pattern starting at 2.",
-    "explanation": "The first three terms are 2, 4 and 6.",
+    "type": "single",
+    "question": "Select all numbers in the first three terms of the add-2 pattern starting at 2. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all numbers in the first three terms of the add-2 pattern starting at 2. Choose the group with all the correct answers.",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 2.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-002",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 2."
+    },
     "answers": [
-      "6",
-      "5",
-      "2",
-      "4"
+      "6, 2",
+      "6, 2, 4",
+      "6, 2, 5"
     ],
-    "correct": [
-      0,
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 2."
+    "correct": 1,
+    "explanation": "The first three terms are 2, 4 and 6.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The first three terms are 2, 4 and 6.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-003",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "non-zero start",
-    "skill": "non-zero start",
-    "difficulty": "core",
+    "skill": "non zero start",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Start at 3 and make 3 jumps of 2. Where do you land?",
-    "explanation": "3 + 2 + 2 + 2 = 9.",
-    "correct": 9,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22148%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22148%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M171%2082%20Q196%2049%20223%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22492%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22492%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cpath%20d%3D%22M515%2082%20Q540%2049%20567%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: 3 → 5 → 7 → 9 This is practice example 3."
+    "audioPrompt": "Start at 3 and make 3 jumps of 2. Where do you land?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: 3 → 5 → 7 → 9 This is practice example 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: 3 → 5 → 7 → 9 This is practice example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-003",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: 3 → 5 → 7 → 9 This is practice example 3."
+    },
+    "answers": [
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "3 + 2 + 2 + 2 = 9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "3 + 2 + 2 + 2 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-004",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "groups create a pattern",
     "skill": "groups create a pattern",
-    "difficulty": "core",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "4 equal groups each represent 5. What is the final skip-count number?",
-    "explanation": "The sequence reaches 20.",
-    "correct": 20,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22133%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22165%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22168%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22221%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22238%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22253%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22256%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22309%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22326%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22341%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22344%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] This is practice example 4."
+    "audioPrompt": "4 equal groups each represent 5. What is the final skip-count number?",
+    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] This is practice example 4.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] This is practice example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-004",
+      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] This is practice example 4."
+    },
+    "answers": [
+      "20",
+      "15",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "The sequence reaches 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The sequence reaches 20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-005",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "continue by twos",
     "skill": "continue by twos",
-    "difficulty": "easy",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Continue the pattern: 2, 4, 6, ___.",
-    "explanation": "The pattern adds 2 each time.",
-    "correct": 8,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is practice example 5."
+    "audioPrompt": "Continue the pattern: 2, 4, 6, ___.",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is practice example 5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is practice example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-005",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is practice example 5."
+    },
+    "answers": [
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "The pattern adds 2 each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The pattern adds 2 each time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-006",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "spot pattern error",
     "skill": "spot pattern error",
-    "difficulty": "easy",
     "printable": true,
     "type": "single",
     "question": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
-    "explanation": "41 should be 40.",
+    "audioPrompt": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
+    "visual": "A number sequence shown with equal jumps of 10. This is practice example 6.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 10. This is practice example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-006",
+      "alt_text": "A number sequence shown with equal jumps of 10. This is practice example 6."
+    },
     "answers": [
       "20",
       "30",
-      "50",
       "41"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22165.2%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165.2%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M188.2%2082%20Q213.2%2049%20240.2%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22268.4%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268.4%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Cpath%20d%3D%22M291.4%2082%20Q316.4%2049%20343.4%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22371.6%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22371.6%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E30%3C%2Ftext%3E%3Cpath%20d%3D%22M394.6%2082%20Q419.6%2049%20446.6%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22474.8%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22474.8%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E41%3C%2Ftext%3E%3Cpath%20d%3D%22M497.8%2082%20Q522.8%2049%20549.8%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E50%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 10. This is practice example 6."
+    "correct": 2,
+    "explanation": "41 should be 40.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "41 should be 40.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-007",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "compare pattern rules",
     "skill": "compare pattern rules",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?",
-    "explanation": "Compare the difference between neighbouring terms.",
+    "audioPrompt": "Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: compare pattern rules This is practice example 7.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: compare pattern rules This is practice example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-007",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: compare pattern rules This is practice example 7."
+    },
     "answers": [
-      "Both count by 2s",
-      "A counts by 10s and B by 5s",
       "A counts by 5s and B counts by 10s",
-      "Neither has a rule"
+      "Both count by 2s",
+      "A counts by 10s and B by 5s"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22165.2%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165.2%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Cpath%20d%3D%22M188.2%2082%20Q213.2%2049%20240.2%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22268.4%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268.4%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E25%3C%2Ftext%3E%3Cpath%20d%3D%22M291.4%2082%20Q316.4%2049%20343.4%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22371.6%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22371.6%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M394.6%2082%20Q419.6%2049%20446.6%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22474.8%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22474.8%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E25%3C%2Ftext%3E%3Cpath%20d%3D%22M497.8%2082%20Q522.8%2049%20549.8%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E35%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: compare pattern rules This is practice example 7."
+    "correct": 0,
+    "explanation": "Compare the difference between neighbouring terms.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Compare the difference between neighbouring terms.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-008",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "identify skip rule",
     "skill": "identify skip rule",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "What is the rule for 8, 10, 12, 14?",
-    "explanation": "The difference between neighbouring terms is 2.",
+    "audioPrompt": "What is the rule for 8, 10, 12, 14?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 8.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-008",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 8."
+    },
     "answers": [
-      "add 2",
       "add 3",
-      "subtract 2",
-      "add 1"
+      "add 2",
+      "subtract 2"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 8."
+    "correct": 1,
+    "explanation": "The difference between neighbouring terms is 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The difference between neighbouring terms is 2.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-009",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "continue by tens",
     "skill": "continue by tens",
-    "difficulty": "core",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "What comes next: 20, 30, 40, 50, ___?",
-    "explanation": "The rule is add 10.",
-    "correct": 60,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "What comes next: 20, 30, 40, 50, ___?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "59",
+      "61",
+      "60"
+    ],
+    "correct": 2,
+    "explanation": "The rule is add 10.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The rule is add 10.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-010",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "select a valid sequence",
     "skill": "select a valid sequence",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which sequence follows “start at 2, add 2”?",
-    "explanation": "The same skip of 2 is used every time.",
+    "audioPrompt": "Which sequence follows “start at 2, add 2”?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: select a valid sequence This is practice example 10.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: select a valid sequence This is practice example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-010",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: select a valid sequence This is practice example 10."
+    },
     "answers": [
-      "2, 5, 6",
       "2, 4, 6, 8",
-      "2, 0, -2",
-      "2, 3, 4"
+      "2, 5, 6",
+      "2, 0, -2"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: select a valid sequence This is practice example 10."
+    "correct": 0,
+    "explanation": "The same skip of 2 is used every time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The same skip of 2 is used every time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-011",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "count backwards",
     "skill": "count backwards",
-    "difficulty": "application",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Count back by 10: 70, 60, 50, ___.",
-    "explanation": "Subtract 10 each time.",
-    "correct": 40,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E70%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E60%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E50%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: count backwards This is practice example 11."
+    "audioPrompt": "Count back by 10: 70, 60, 50, ___.",
+    "visual": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: count backwards This is practice example 11.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: count backwards This is practice example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-011",
+      "alt_text": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: count backwards This is practice example 11."
+    },
+    "answers": [
+      "30",
+      "40",
+      "50"
+    ],
+    "correct": 1,
+    "explanation": "Subtract 10 each time.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Subtract 10 each time.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-012",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "missing internal term",
     "skill": "missing internal term",
-    "difficulty": "application",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Fill the missing term: 15, ___, 25, 30.",
-    "explanation": "The missing number is one jump of 5 after 15.",
-    "correct": 20,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Fill the missing term: 15, ___, 25, 30.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "19",
+      "21",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "The missing number is one jump of 5 after 15.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The missing number is one jump of 5 after 15.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-013",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "number-line pattern",
-    "skill": "number-line pattern",
-    "difficulty": "application",
+    "skill": "number line pattern",
     "printable": true,
     "type": "single",
     "question": "A number line makes 6 equal jumps of 2. What total distance is covered?",
-    "explanation": "6 jumps of 2 reach 12.",
+    "audioPrompt": "A number line makes 6 equal jumps of 2. What total distance is covered?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: number-line pattern This is practice example 13.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: number-line pattern This is practice example 13.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-013",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: number-line pattern This is practice example 13."
+    },
     "answers": [
       "12",
       "8",
-      "10",
-      "14"
+      "10"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: number-line pattern This is practice example 13."
+    "explanation": "6 jumps of 2 reach 12.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "6 jumps of 2 reach 12.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-014",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "classify a pattern",
     "skill": "classify a pattern",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Which label fits the sequence 5, 10, 15, 20?",
-    "explanation": "Every term increases by 5.",
+    "audioPrompt": "Which label fits the sequence 5, 10, 15, 20?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is practice example 14.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is practice example 14.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-014",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is practice example 14."
+    },
     "answers": [
       "skip counting by 6s",
-      "a repeating AB pattern",
       "skip counting by 5s",
-      "no pattern"
+      "a repeating AB pattern"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is practice example 14."
+    "correct": 1,
+    "explanation": "Every term increases by 5.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Every term increases by 5.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-015",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "continue by fives",
     "skill": "continue by fives",
-    "difficulty": "easy",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Complete the sequence: 20, 25, ___, 35.",
-    "explanation": "Each term is 5 more than the one before.",
-    "correct": 30,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E25%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E35%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%205%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 5. This is practice example 15."
+    "audioPrompt": "Complete the sequence: 20, 25, ___, 35.",
+    "visual": "A number sequence shown with equal jumps of 5. This is practice example 15.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 5. This is practice example 15.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-015",
+      "alt_text": "A number sequence shown with equal jumps of 5. This is practice example 15."
+    },
+    "answers": [
+      "29",
+      "31",
+      "30"
+    ],
+    "correct": 2,
+    "explanation": "Each term is 5 more than the one before.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Each term is 5 more than the one before.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-016",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "final term after jumps",
     "skill": "final term after jumps",
-    "difficulty": "application",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Begin at 3. Skip count by 5 for 4 jumps. What is the final number?",
-    "explanation": "3 + 20 = 23.",
-    "correct": 23,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%205%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: final term after jumps This is practice example 16."
+    "audioPrompt": "Begin at 3. Skip count by 5 for 4 jumps. What is the final number?",
+    "visual": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: final term after jumps This is practice example 16.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: final term after jumps This is practice example 16.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-016",
+      "alt_text": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: final term after jumps This is practice example 16."
+    },
+    "answers": [
+      "23",
+      "18",
+      "28"
+    ],
+    "correct": 0,
+    "explanation": "3 + 20 = 23.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "3 + 20 = 23.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-017",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "object pattern",
     "skill": "object pattern",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Which object display represents counting by 5s?",
-    "explanation": "Equal groups show the same skip each time.",
+    "audioPrompt": "Which object display represents counting by 5s?",
+    "visual": "Four equal groups with 5 objects in each group show counting by 5s. Specific example: Each bracket is one equal group. This is practice example 17.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 5 objects in each group show counting by 5s. Specific example: Each bracket is one equal group. This is practice example 17.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-017",
+      "alt_text": "Four equal groups with 5 objects in each group show counting by 5s. Specific example: Each bracket is one equal group. This is practice example 17."
+    },
     "answers": [
       "[● ● ● ●] [● ● ● ●] [● ● ● ●] [● ● ● ●]",
-      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
       "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
-      "● ● ● ● ●"
+      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%205%20objects%20in%20each%20group%20show%20counting%20by%205s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2283%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2292%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22107%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22122%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2286.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%205%3C%2Ftext%3E%3Crect%20x%3D%22146%22%20y%3D%2270%22%20width%3D%2283%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22163%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22178%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22193%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22208%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22223%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22187.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%205%3C%2Ftext%3E%3Crect%20x%3D%22247%22%20y%3D%2270%22%20width%3D%2283%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22264%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22279%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22294%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22309%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22324%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22288.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%205%3C%2Ftext%3E%3Crect%20x%3D%22348%22%20y%3D%2270%22%20width%3D%2283%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22365%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22380%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22395%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22410%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22425%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22389.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%205%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%205%20objects%20in%20each%20group%20show%20counting%20by%205s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 5 objects in each group show counting by 5s. Specific example: Each bracket is one equal group. This is practice example 17."
+    "correct": 1,
+    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Equal groups show the same skip each time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-018",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "members of a sequence",
     "skill": "members of a sequence",
-    "difficulty": "easy",
     "printable": true,
-    "type": "multiple",
-    "question": "Select all numbers in the first three terms of the add-10 pattern starting at 30.",
-    "explanation": "The first three terms are 30, 40 and 50.",
+    "type": "single",
+    "question": "Select all numbers in the first three terms of the add-10 pattern starting at 30. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all numbers in the first three terms of the add-10 pattern starting at 30. Choose the group with all the correct answers.",
+    "visual": "A number sequence shown with equal jumps of 10. This is practice example 18.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 10. This is practice example 18.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-018",
+      "alt_text": "A number sequence shown with equal jumps of 10. This is practice example 18."
+    },
     "answers": [
-      "50",
-      "41",
-      "30",
-      "40"
+      "50, 30",
+      "50, 30, 41",
+      "50, 30, 40"
     ],
-    "correct": [
-      0,
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E30%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%2010.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 10. This is practice example 18."
+    "correct": 2,
+    "explanation": "The first three terms are 30, 40 and 50.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The first three terms are 30, 40 and 50.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-019",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "members of a sequence",
     "skill": "members of a sequence",
-    "difficulty": "easy",
     "printable": true,
-    "type": "multiple",
-    "question": "Select all numbers in the first three terms of the add-5 pattern starting at 10.",
-    "explanation": "The first three terms are 10, 15 and 20.",
+    "type": "single",
+    "question": "Select all numbers in the first three terms of the add-5 pattern starting at 10. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all numbers in the first three terms of the add-5 pattern starting at 10. Choose the group with all the correct answers.",
+    "visual": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 19.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 19.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-019",
+      "alt_text": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 19."
+    },
     "answers": [
-      "20",
-      "16",
-      "10",
-      "15"
+      "20, 10, 15",
+      "20, 10",
+      "20, 10, 16"
     ],
-    "correct": [
-      0,
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%205%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 19."
+    "correct": 0,
+    "explanation": "The first three terms are 10, 15 and 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The first three terms are 10, 15 and 20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-020",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "non-zero start",
-    "skill": "non-zero start",
-    "difficulty": "core",
+    "skill": "non zero start",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Start at 7 and make 3 jumps of 5. Where do you land?",
-    "explanation": "7 + 5 + 5 + 5 = 22.",
-    "correct": 22,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22148%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22148%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M171%2082%20Q196%2049%20223%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22492%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22492%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Cpath%20d%3D%22M515%2082%20Q540%2049%20567%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E22%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: 7 → 12 → 17 → 22 This is practice example 20."
+    "audioPrompt": "Start at 7 and make 3 jumps of 5. Where do you land?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: 7 → 12 → 17 → 22 This is practice example 20.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: 7 → 12 → 17 → 22 This is practice example 20.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-020",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: 7 → 12 → 17 → 22 This is practice example 20."
+    },
+    "answers": [
+      "21",
+      "22",
+      "23"
+    ],
+    "correct": 1,
+    "explanation": "7 + 5 + 5 + 5 = 22.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "7 + 5 + 5 + 5 = 22.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-021",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "non-zero start",
-    "skill": "non-zero start",
-    "difficulty": "core",
+    "skill": "non zero start",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Start at 11 and make 3 jumps of 10. Where do you land?",
-    "explanation": "11 + 10 + 10 + 10 = 41.",
-    "correct": 41,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22148%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22148%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M171%2082%20Q196%2049%20223%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E21%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22492%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22492%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E31%3C%2Ftext%3E%3Cpath%20d%3D%22M515%2082%20Q540%2049%20567%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E41%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: 11 → 21 → 31 → 41 This is practice example 21."
+    "audioPrompt": "Start at 11 and make 3 jumps of 10. Where do you land?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: 11 → 21 → 31 → 41 This is practice example 21.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: 11 → 21 → 31 → 41 This is practice example 21.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-021",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: 11 → 21 → 31 → 41 This is practice example 21."
+    },
+    "answers": [
+      "40",
+      "42",
+      "41"
+    ],
+    "correct": 2,
+    "explanation": "11 + 10 + 10 + 10 = 41.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "11 + 10 + 10 + 10 = 41.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-022",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "groups create a pattern",
     "skill": "groups create a pattern",
-    "difficulty": "core",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "5 equal groups each represent 10. What is the final skip-count number?",
-    "explanation": "The sequence reaches 50.",
-    "correct": 50,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22133%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22165%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22168%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22221%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22238%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22253%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22256%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22309%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22326%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22341%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22344%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] [10] This is practice example 22."
+    "audioPrompt": "5 equal groups each represent 10. What is the final skip-count number?",
+    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] [10] This is practice example 22.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] [10] This is practice example 22.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-022",
+      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] [10] This is practice example 22."
+    },
+    "answers": [
+      "50",
+      "40",
+      "60"
+    ],
+    "correct": 0,
+    "explanation": "The sequence reaches 50.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The sequence reaches 50.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-023",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "groups create a pattern",
     "skill": "groups create a pattern",
-    "difficulty": "core",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "3 equal groups each represent 2. What is the final skip-count number?",
-    "explanation": "The sequence reaches 6.",
-    "correct": 6,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22133%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22165%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22168%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22221%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22238%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22253%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22256%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22309%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22326%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22341%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22344%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ●] [● ●] [● ●] This is practice example 23."
+    "audioPrompt": "3 equal groups each represent 2. What is the final skip-count number?",
+    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ●] [● ●] [● ●] This is practice example 23.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ●] [● ●] [● ●] This is practice example 23.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-023",
+      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ●] [● ●] [● ●] This is practice example 23."
+    },
+    "answers": [
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "The sequence reaches 6.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The sequence reaches 6.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-024",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "object pattern",
     "skill": "object pattern",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Which object display represents counting by 2s?",
-    "explanation": "Equal groups show the same skip each time.",
+    "audioPrompt": "Which object display represents counting by 2s?",
+    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 24.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 24.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-024",
+      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 24."
+    },
     "answers": [
       "[●] [●] [●] [●]",
-      "[● ●] [● ●] [● ●] [● ●]",
       "[● ●] [● ●] [● ●]",
-      "● ●"
+      "[● ●] [● ●] [● ●] [● ●]"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22133%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22165%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22168%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22221%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22238%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22253%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22256%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%22309%22%20y%3D%2270%22%20width%3D%2270%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22326%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22341%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22344%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%202%20objects%20in%20each%20group%20show%20counting%20by%202s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: Each bracket is one equal group. This is practice example 24."
+    "correct": 2,
+    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Equal groups show the same skip each time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-025",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "object pattern",
     "skill": "object pattern",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Which object display represents counting by 10s?",
-    "explanation": "Equal groups show the same skip each time.",
+    "audioPrompt": "Which object display represents counting by 10s?",
+    "visual": "Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is practice example 25.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is practice example 25.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-025\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-025",
+      "alt_text": "Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is practice example 25."
+    },
     "answers": [
+      "[10] [10] [10] [10]",
       "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
-      "[10] [10] [10]",
-      "● ● ● ● ● ● ● ● ● ●",
-      "[10] [10] [10] [10]"
+      "[10] [10] [10]"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFour%20equal%20groups%20with%2010%20objects%20in%20each%20group%20show%20counting%20by%2010s.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Crect%20x%3D%2245%22%20y%3D%2270%22%20width%3D%22105%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2292%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22107%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22122%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2277%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%2292%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22107%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22122%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2297.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%22168%22%20y%3D%2270%22%20width%3D%22105%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22185%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22200%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22215%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22230%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22245%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22185%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22200%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22215%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22230%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22245%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22220.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%22291%22%20y%3D%2270%22%20width%3D%22105%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22308%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22323%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22338%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22353%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22308%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22323%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22338%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22353%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22343.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%22414%22%20y%3D%2270%22%20width%3D%22105%22%20height%3D%22105%22%20rx%3D%2214%22%20class%3D%22panel%22%2F%3E%3Ccircle%20cx%3D%22431%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22446%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22461%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22476%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22491%22%20cy%3D%2292%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22431%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22446%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22461%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22476%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ccircle%20cx%3D%22491%22%20cy%3D%22107%22%20r%3D%226%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22466.5%22%20y%3D%22164%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Egroup%20of%2010%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EFour%20equal%20groups%20with%2010%20objects%20in%20each%20group%20show%20counting%20by%2010s.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is practice example 25."
+    "correct": 0,
+    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Equal groups show the same skip each time.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-026",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "non-zero start",
-    "skill": "non-zero start",
-    "difficulty": "core",
+    "skill": "non zero start",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Start at 15 and make 3 jumps of 2. Where do you land?",
-    "explanation": "15 + 2 + 2 + 2 = 21.",
-    "correct": 21,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22148%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22148%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Cpath%20d%3D%22M171%2082%20Q196%2049%20223%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22320%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M343%2082%20Q368%2049%20395%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22492%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22492%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E19%3C%2Ftext%3E%3Cpath%20d%3D%22M515%2082%20Q540%2049%20567%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E21%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: 15 → 17 → 19 → 21 This is practice example 26."
+    "audioPrompt": "Start at 15 and make 3 jumps of 2. Where do you land?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: 15 → 17 → 19 → 21 This is practice example 26.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: 15 → 17 → 19 → 21 This is practice example 26.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-026\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-026",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: 15 → 17 → 19 → 21 This is practice example 26."
+    },
+    "answers": [
+      "20",
+      "21",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "15 + 2 + 2 + 2 = 21.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "15 + 2 + 2 + 2 = 21.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-027",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "spot pattern error",
     "skill": "spot pattern error",
-    "difficulty": "easy",
     "printable": true,
     "type": "single",
     "question": "Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?",
-    "explanation": "21 should be 20.",
+    "audioPrompt": "Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?",
+    "visual": "A number sequence shown with equal jumps of 5. This is practice example 27.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 5. This is practice example 27.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-027\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-027",
+      "alt_text": "A number sequence shown with equal jumps of 5. This is practice example 27."
+    },
     "answers": [
       "10",
       "15",
-      "21",
-      "25"
+      "21"
     ],
     "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22165.2%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22165.2%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cpath%20d%3D%22M188.2%2082%20Q213.2%2049%20240.2%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22268.4%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22268.4%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M291.4%2082%20Q316.4%2049%20343.4%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22371.6%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22371.6%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M394.6%2082%20Q419.6%2049%20446.6%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22474.8%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22474.8%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E21%3C%2Ftext%3E%3Cpath%20d%3D%22M497.8%2082%20Q522.8%2049%20549.8%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E25%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%205%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%205.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 5. This is practice example 27."
+    "explanation": "21 should be 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "21 should be 20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a01-p-028",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "learningArea": "identify skip rule",
     "skill": "identify skip rule",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "What is the rule for 2, 4, 6, 8?",
-    "explanation": "The difference between neighbouring terms is 2.",
+    "audioPrompt": "What is the rule for 2, 4, 6, 8?",
+    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 28.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 28.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-028\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-028",
+      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 28."
+    },
     "answers": [
-      "add 3",
       "add 2",
-      "subtract 2",
-      "add 1"
+      "add 3",
+      "subtract 2"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cline%20x1%3D%2262%22%20y1%3D%22120%22%20x2%3D%22578%22%20y2%3D%22120%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2262%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2262%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Cpath%20d%3D%22M85%2082%20Q110%2049%20137%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22234%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%22234%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Cpath%20d%3D%22M257%2082%20Q282%2049%20309%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22406%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22406%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Cpath%20d%3D%22M429%2082%20Q454%2049%20481%2082%22%20class%3D%22arrow%22%2F%3E%3Ccircle%20cx%3D%22578%22%20cy%3D%22120%22%20r%3D%2219%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%22578%22%20y%3D%22126%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22177%22%20class%3D%22label%22%20text-anchor%3D%22middle%22%3Eequal%20jumps%20of%202%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20number%20sequence%20shown%20with%20equal%20jumps%20of%202.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 28."
+    "correct": 0,
+    "explanation": "The difference between neighbouring terms is 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The difference between neighbouring terms is 2.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

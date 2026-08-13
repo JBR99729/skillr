@@ -8,14 +8,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which collection is made of equal groups?",
-    "explanation": "Equal groups have the same size.",
+    "audioPrompt": "Which collection is made of equal groups?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "4, 4, 4",
       "4, 3, 4",
-      "2, 5, 2",
-      "1, 2, 3"
+      "2, 5, 2"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "Equal groups have the same size.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Equal groups have the same size.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-002",
@@ -23,14 +35,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "find total",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "There are 5 groups of 3. How many objects altogether?",
-    "explanation": "3 + 3 + 3 + 3 + 3 = 15.",
-    "correct": 15,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E5%20groups%20of%203%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E5%20equal%20groups%20of%203%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%20groups%20of%203%3C%2Ftext%3E%3Crect%20x%3D%2282.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22140.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22110.00106989057657%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22109.99786033331343%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22120.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Crect%20x%3D%22182.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22240.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22210.0010698905766%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22209.99786033331344%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22220.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Crect%20x%3D%22282.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22340.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22310.00106989057656%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22309.99786033331344%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Crect%20x%3D%22382.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22440.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22410.00106989057656%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22409.99786033331344%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22420.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Crect%20x%3D%22482.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22540.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22510.00106989057656%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22509.99786033331344%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22520.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22228%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%20groups%20of%203%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "There are 5 groups of 3. How many objects altogether?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "There are 5 groups of 3. How many objects altogether?",
+    "visual": "There are 5 groups of 3. How many objects altogether?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 5 groups of 3. How many objects altogether?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-002",
+      "alt_text": "There are 5 groups of 3. How many objects altogether?"
+    },
+    "answers": [
+      "12",
+      "15",
+      "18"
+    ],
+    "correct": 1,
+    "explanation": "3 + 3 + 3 + 3 + 3 = 15.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "3 + 3 + 3 + 3 + 3 = 15.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-003",
@@ -38,14 +64,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "share equally",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Sixteen counters are shared among 4 children. How many does each get?",
-    "explanation": "16 shared into 4 equal shares gives 4 each.",
-    "correct": 4,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EShare%2016%20among%204%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E16%20objects%20shared%20equally%20among%204%20people%20gives%204%20each%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EShare%2016%20among%204%3C%2Ftext%3E%3Ccircle%20cx%3D%22132.5%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22132.5%22%20y1%3D%2298%22%20x2%3D%22132.5%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22132.5%22%20y1%3D%22108%22%20x2%3D%22114.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22132.5%22%20y1%3D%22108%22%20x2%3D%22150.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%2290.5%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22107.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22124.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22141.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22158.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22132.5%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22257.5%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22257.5%22%20y1%3D%2298%22%20x2%3D%22257.5%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22257.5%22%20y1%3D%22108%22%20x2%3D%22239.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22257.5%22%20y1%3D%22108%22%20x2%3D%22275.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22215.5%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22232.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22249.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22266.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22283.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22257.5%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22382.5%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22382.5%22%20y1%3D%2298%22%20x2%3D%22382.5%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22382.5%22%20y1%3D%22108%22%20x2%3D%22364.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22382.5%22%20y1%3D%22108%22%20x2%3D%22400.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22340.5%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22357.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22374.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22391.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22408.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22382.5%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22507.5%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22507.5%22%20y1%3D%2298%22%20x2%3D%22507.5%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22507.5%22%20y1%3D%22108%22%20x2%3D%22489.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22507.5%22%20y1%3D%22108%22%20x2%3D%22525.5%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22465.5%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22482.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22499.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22516.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22533.5%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22507.5%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%20each%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Sixteen counters are shared among 4 children. How many does each get?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Sixteen counters are shared among 4 children. How many does each get?",
+    "visual": "Sixteen counters are shared among 4 children. How many does each get?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sixteen counters are shared among 4 children. How many does each get?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-003",
+      "alt_text": "Sixteen counters are shared among 4 children. How many does each get?"
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "16 shared into 4 equal shares gives 4 each.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "16 shared into 4 equal shares gives 4 each.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-004",
@@ -53,14 +93,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "make groups",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Eighteen objects are grouped 6 at a time. How many groups?",
-    "explanation": "6 + 6 + 6 = 18, so there are 3 groups.",
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EGroups%20of%206%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E3%20equal%20groups%20of%206%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EGroups%20of%206%3C%2Ftext%3E%3Crect%20x%3D%22115.33333333333331%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22173.33333333333331%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22163.33386826431405%22%20cy%3D%22147.71231875540622%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22143.3344032239099%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22133.33333341918018%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22143.33119366664675%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22163.33065853536175%22%20cy%3D%2292.28471664693808%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22153.33333333333331%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Crect%20x%3D%22282.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22340.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22330.00053493098073%22%20cy%3D%22147.71231875540622%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22310.00106989057656%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22300.00000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22309.99786033331344%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22329.99732520202843%22%20cy%3D%2292.28471664693808%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Crect%20x%3D%22448.66666666666663%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22506.66666666666663%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22496.66720159764736%22%20cy%3D%22147.71231875540622%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22476.6677365572432%22%20cy%3D%22147.71380117319123%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22466.6666667525135%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22476.66452699998007%22%20cy%3D%2292.28916390028039%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22496.66399186869506%22%20cy%3D%2292.28471664693808%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22486.66666666666663%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22228%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E3%20groups%20of%206%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Eighteen objects are grouped 6 at a time. How many groups?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Eighteen objects are grouped 6 at a time. How many groups?",
+    "visual": "Eighteen objects are grouped 6 at a time. How many groups?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Eighteen objects are grouped 6 at a time. How many groups?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-004",
+      "alt_text": "Eighteen objects are grouped 6 at a time. How many groups?"
+    },
+    "answers": [
+      "3",
+      "2",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "6 + 6 + 6 = 18, so there are 3 groups.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "6 + 6 + 6 = 18, so there are 3 groups.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-005",
@@ -70,14 +124,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "question": "“20 cards are placed 5 per pile. How many piles?” is what kind of problem?",
-    "explanation": "The group size is known and the number of groups is unknown.",
+    "audioPrompt": "“20 cards are placed 5 per pile. How many piles?” is what kind of problem?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "grouping",
       "sharing among known people",
-      "joining",
-      "comparison"
+      "grouping",
+      "joining"
     ],
-    "correct": 0
+    "correct": 1,
+    "explanation": "The group size is known and the number of groups is unknown.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The group size is known and the number of groups is unknown.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-006",
@@ -85,14 +151,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "leftover",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Seventeen counters are grouped in 4s. How many are left over?",
-    "explanation": "Four full groups use 16 counters, leaving 1.",
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EGroups%20of%204%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E4%20equal%20groups%20of%204%20with%201%20leftover%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EGroups%20of%204%3C%2Ftext%3E%3Crect%20x%3D%2294.5%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22152.5%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22132.5009265358976%22%20cy%3D%22151.99999996566126%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22112.50000008584688%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22132.49722039231514%22%20cy%3D%2288.00000030904876%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22132.5%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Crect%20x%3D%22219.5%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22277.5%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22257.5009265358976%22%20cy%3D%22151.99999996566126%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22237.50000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22257.49722039231517%22%20cy%3D%2288.00000030904876%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22257.5%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Crect%20x%3D%22344.5%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22402.5%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22382.5009265358976%22%20cy%3D%22151.99999996566126%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22362.50000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22382.49722039231517%22%20cy%3D%2288.00000030904876%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22382.5%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Crect%20x%3D%22469.5%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22527.5%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22507.5009265358976%22%20cy%3D%22151.99999996566126%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22487.50000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%2322c55e%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22507.49722039231517%22%20cy%3D%2288.00000030904876%22%20r%3D%228%22%20fill%3D%22%238b5cf6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22507.5%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ctext%20x%3D%22535%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23ef4444%22%20text-anchor%3D%22middle%22%3Eleft%20over%3C%2Ftext%3E%3Ccircle%20cx%3D%22510%22%20cy%3D%22105%22%20r%3D%228%22%20fill%3D%22%23ef4444%22%20stroke%3D%22%237f1d1d%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22228%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%20groups%20of%204%20and%201%20left%20over%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Seventeen counters are grouped in 4s. How many are left over?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Seventeen counters are grouped in 4s. How many are left over?",
+    "visual": "Seventeen counters are grouped in 4s. How many are left over?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen counters are grouped in 4s. How many are left over?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-006",
+      "alt_text": "Seventeen counters are grouped in 4s. How many are left over?"
+    },
+    "answers": [
+      "0",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "Four full groups use 16 counters, leaving 1.\nHint: Show the starting amount, take away the given part, then count what remains.",
+    "structuredExplanation": {
+      "summary": "Four full groups use 16 counters, leaving 1.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-007",
@@ -100,14 +180,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "find number of groups",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Twelve socks are made into pairs. How many pairs?",
-    "explanation": "Each pair has 2 socks, so 12 makes 6 pairs.",
-    "correct": 6,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ESock%20pairs%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E6%20equal%20groups%20of%202%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ESock%20pairs%3C%2Ftext%3E%3Crect%20x%3D%2273.66666666666666%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22131.66666666666666%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%2291.66666675251354%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22111.66666666666666%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Crect%20x%3D%22157.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22215.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22175.00000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22195.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Crect%20x%3D%22240.33333333333331%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22298.3333333333333%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22258.3333334191802%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22278.3333333333333%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Crect%20x%3D%22323.66666666666663%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22381.66666666666663%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22341.6666667525135%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22361.66666666666663%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Crect%20x%3D%22407.0%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22465.0%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22425.00000008584686%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22445.0%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Crect%20x%3D%22490.33333333333326%22%20y%3D%2265%22%20width%3D%2276%22%20height%3D%22112%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22548.3333333333333%22%20cy%3D%22120.0%22%20r%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ccircle%20cx%3D%22508.3333334191801%22%20cy%3D%22120.00296491486914%22%20r%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221.5%22%2F%3E%3Ctext%20x%3D%22528.3333333333333%22%20y%3D%22195%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22228%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%20groups%20of%202%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Twelve socks are made into pairs. How many pairs?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Twelve socks are made into pairs. How many pairs?",
+    "visual": "Twelve socks are made into pairs. How many pairs?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve socks are made into pairs. How many pairs?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-007",
+      "alt_text": "Twelve socks are made into pairs. How many pairs?"
+    },
+    "answers": [
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "Each pair has 2 socks, so 12 makes 6 pairs.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so 12 makes 6 pairs.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-008",
@@ -115,14 +209,28 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "find share size",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Fifteen grapes are shared equally among 3 bowls. How many in each bowl?",
-    "explanation": "15 shared among 3 gives 5 each.",
-    "correct": 5,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EGrapes%20in%20bowls%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E15%20objects%20shared%20equally%20among%203%20people%20gives%205%20each%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EGrapes%20in%20bowls%3C%2Ftext%3E%3Ccircle%20cx%3D%22153.33333333333331%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22153.33333333333331%22%20y1%3D%2298%22%20x2%3D%22153.33333333333331%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22153.33333333333331%22%20y1%3D%22108%22%20x2%3D%22135.33333333333331%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22153.33333333333331%22%20y1%3D%22108%22%20x2%3D%22171.33333333333331%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22111.33333333333331%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22128.33333333333331%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22145.33333333333331%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22162.33333333333331%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22179.33333333333331%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22128.33333333333331%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22153.33333333333331%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22320.0%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%2298%22%20x2%3D%22320.0%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%22108%22%20x2%3D%22302.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%22108%22%20x2%3D%22338.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22278.0%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22295.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22312.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22329.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22346.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22295.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22486.66666666666663%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22486.66666666666663%22%20y1%3D%2298%22%20x2%3D%22486.66666666666663%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22486.66666666666663%22%20y1%3D%22108%22%20x2%3D%22468.66666666666663%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22486.66666666666663%22%20y1%3D%22108%22%20x2%3D%22504.66666666666663%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22444.66666666666663%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22461.66666666666663%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22478.66666666666663%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22495.66666666666663%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22512.6666666666666%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22461.66666666666663%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22486.66666666666663%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%20each%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Fifteen grapes are shared equally among 3 bowls. How many in each bowl?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Fifteen grapes are shared equally among 3 bowls. How many in each bowl?",
+    "visual": "Fifteen grapes are shared equally among 3 bowls. How many in each bowl?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fifteen grapes are shared equally among 3 bowls. How many in each bowl?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-008",
+      "alt_text": "Fifteen grapes are shared equally among 3 bowls. How many in each bowl?"
+    },
+    "answers": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "15 shared among 3 gives 5 each.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "15 shared among 3 gives 5 each.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-009",
@@ -132,14 +240,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which repeated addition shows 4 groups of 5?",
-    "explanation": "Add the group size 5 four times.",
+    "audioPrompt": "Which repeated addition shows 4 groups of 5?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "5 + 5 + 5 + 5",
       "4 + 5",
       "4 + 4 + 4 + 4 + 4",
-      "5 + 4 + 1"
+      "5 + 5 + 5 + 5"
     ],
-    "correct": 0
+    "correct": 2,
+    "explanation": "Add the group size 5 four times.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Add the group size 5 four times.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-010",
@@ -149,14 +269,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "question": "A student says 3 groups of 6 contain 3 objects. What is the correction?",
-    "explanation": "Three groups each contain six, so 6 + 6 + 6 = 18.",
+    "audioPrompt": "A student says 3 groups of 6 contain 3 objects. What is the correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "There are 18 objects; 3 is the number of groups",
       "There are 9 objects",
-      "There are 6 objects",
-      "The student is correct"
+      "There are 6 objects"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "Three groups each contain six, so 6 + 6 + 6 = 18.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Three groups each contain six, so 6 + 6 + 6 = 18.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-011",
@@ -166,16 +298,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which sharing result is fair for 14 objects and 2 children?",
-    "explanation": "Two equal shares of 7 use all 14 objects.",
+    "audioPrompt": "Which sharing result is fair for 14 objects and 2 children?",
+    "visual": "Which sharing result is fair for 14 objects and 2 children?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which sharing result is fair for 14 objects and 2 children?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-t-011",
+      "alt_text": "Which sharing result is fair for 14 objects and 2 children?"
+    },
     "answers": [
-      "7 each",
       "8 and 6",
-      "6 each with 2 ignored",
-      "14 each"
+      "7 each",
+      "6 each with 2 ignored"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFair%20sharing%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E14%20objects%20shared%20equally%20among%202%20people%20gives%207%20each%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFair%20sharing%3C%2Ftext%3E%3Ccircle%20cx%3D%22195.0%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22195.0%22%20y1%3D%2298%22%20x2%3D%22195.0%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22195.0%22%20y1%3D%22108%22%20x2%3D%22177.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22195.0%22%20y1%3D%22108%22%20x2%3D%22213.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22153.0%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22170.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22187.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22204.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22221.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22170.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22187.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22204.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22195.0%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%20each%3C%2Ftext%3E%3Ccircle%20cx%3D%22445.0%22%20cy%3D%2280%22%20r%3D%2218%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Cline%20x1%3D%22445.0%22%20y1%3D%2298%22%20x2%3D%22445.0%22%20y2%3D%22130%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22445.0%22%20y1%3D%22108%22%20x2%3D%22427.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22445.0%22%20y1%3D%22108%22%20x2%3D%22463.0%22%20y2%3D%22120%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Crect%20x%3D%22403.0%22%20y%3D%22145%22%20width%3D%2284%22%20height%3D%2255%22%20rx%3D%2212%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ccircle%20cx%3D%22420.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22437.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22454.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22471.0%22%20cy%3D%22162%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22420.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22437.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ccircle%20cx%3D%22454.0%22%20cy%3D%22180%22%20r%3D%226%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%221%22%2F%3E%3Ctext%20x%3D%22445.0%22%20y%3D%22220%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2215%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%20each%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which sharing result is fair for 14 objects and 2 children?"
+    "correct": 1,
+    "explanation": "Two equal shares of 7 use all 14 objects.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Two equal shares of 7 use all 14 objects.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n06-t-012",
@@ -183,22 +325,144 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "grouping sequence",
     "printable": true,
-    "type": "order",
-    "question": "Order the steps for making groups of 3 from 15 counters.",
-    "explanation": "Make equal groups repeatedly, then count them.",
-    "correct": [
-      "Start with 15",
-      "Make one group of 3",
-      "Repeat with the counters left",
-      "Count 5 groups"
+    "type": "single",
+    "question": "Order the steps for making groups of 3 from 15 counters. Which order is correct?",
+    "audioPrompt": "Order the steps for making groups of 3 from 15 counters. Which order is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Count 5 groups → Make one group of 3 → Repeat with the counters left → Start with 15",
+      "Count 5 groups → Repeat with the counters left → Make one group of 3 → Start with 15",
+      "Start with 15 → Make one group of 3 → Repeat with the counters left → Count 5 groups"
     ],
-    "items": [
-      "Count 5 groups",
-      "Make one group of 3",
-      "Repeat with the counters left",
-      "Start with 15"
+    "correct": 2,
+    "explanation": "Make equal groups repeatedly, then count them.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Make equal groups repeatedly, then count them.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n06-t-013",
+    "curriculumCode": "AC9M1N06",
+    "bank": "test",
+    "skill": "equal sharing",
+    "printable": true,
+    "type": "single",
+    "question": "Share 12 crackers equally between 3 plates. How many on each plate?",
+    "audioPrompt": "Share 12 crackers equally between 3 plates. How many on each plate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "4",
+      "3",
+      "6"
     ],
-    "instruction": "Use the arrows to put the steps in order."
+    "correct": 0,
+    "explanation": "Put the crackers out evenly: 4 on each plate makes 12.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Put the crackers out evenly: 4 on each plate makes 12.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n06-t-014",
+    "curriculumCode": "AC9M1N06",
+    "bank": "test",
+    "skill": "equal grouping",
+    "printable": true,
+    "type": "single",
+    "question": "There are 15 buttons. Groups of 5 are made. How many groups?",
+    "audioPrompt": "There are 15 buttons. Groups of 5 are made. How many groups?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "5",
+      "3",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "5, 10, 15 makes 3 groups of 5.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "5, 10, 15 makes 3 groups of 5.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n06-t-015",
+    "curriculumCode": "AC9M1N06",
+    "bank": "test",
+    "skill": "identify unequal share",
+    "printable": true,
+    "type": "single",
+    "question": "Which sharing is fair for 8 counters and 2 children?",
+    "audioPrompt": "Which sharing is fair for 8 counters and 2 children?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "5 and 3",
+      "6 and 2",
+      "4 and 4"
+    ],
+    "correct": 2,
+    "explanation": "Fair sharing means both children get the same amount.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Fair sharing means both children get the same amount.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n06-t-016",
+    "curriculumCode": "AC9M1N06",
+    "bank": "test",
+    "skill": "leftover reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "Can 7 apples be shared equally between 2 baskets with none left over?",
+    "audioPrompt": "Can 7 apples be shared equally between 2 baskets with none left over?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "no",
+      "yes",
+      "only if one basket is bigger"
+    ],
+    "correct": 0,
+    "explanation": "Two equal groups from 7 leave 1 apple, so none-left-over sharing is not possible.\nHint: Show the starting amount, take away the given part, then count what remains.",
+    "structuredExplanation": {
+      "summary": "Two equal groups from 7 leave 1 apple, so none-left-over sharing is not possible.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

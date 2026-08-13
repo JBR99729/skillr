@@ -4,601 +4,813 @@ window.skillrPracticeQuestions = [
     "id": "ac9m1a02-p-001",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "arrange repeating unit",
     "skill": "arrange repeating unit",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Arrange one complete unit for the pattern 1 2 3 1 2 3.",
-    "explanation": "The unit is 1 2 3.",
-    "items": [
-      "2",
-      "3",
-      "1"
+    "type": "single",
+    "question": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
+    "audioPrompt": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-001",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 1."
+    },
+    "answers": [
+      "1 → 2 → 3",
+      "2 → 3 → 1",
+      "3 → 2 → 1"
     ],
-    "correct": [
-      "1",
-      "2",
-      "3"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 1."
+    "correct": 0,
+    "explanation": "The unit is 1 2 3.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The unit is 1 2 3.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-002",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "select repeating patterns",
     "skill": "select repeating patterns",
-    "difficulty": "easy",
     "printable": true,
-    "type": "multiple",
-    "question": "Sam studies this example. Select every sequence that repeats a complete unit.",
-    "explanation": "Each selected sequence contains a unit that repeats.",
+    "type": "single",
+    "question": "Sam studies this example. Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "audioPrompt": "Sam studies this example. Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: select repeating patterns This is practice example 2.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: select repeating patterns This is practice example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-002",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: select repeating patterns This is practice example 2."
+    },
     "answers": [
-      "1 2 3 4",
-      "red blue red blue",
-      "1 1 2 1 1 2",
-      "A B A B"
+      "red blue red blue, 1 1 2 1 1 2",
+      "red blue red blue, 1 1 2 1 1 2, A B A B",
+      "red blue red blue, 1 1 2 1 1 2, 1 2 3 4"
     ],
-    "correct": [
-      1,
-      2,
-      3
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: select repeating patterns This is practice example 2."
+    "correct": 1,
+    "explanation": "Each selected sequence contains a unit that repeats.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Each selected sequence contains a unit that repeats.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-003",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "count repeats",
     "skill": "count repeats",
-    "difficulty": "core",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "How many complete repeating units are shown?",
-    "explanation": "The unit ▲ ○ □ appears 3 times.",
-    "correct": 3,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: ▲ ○ □ ▲ ○ □ ▲ ○ □ This is practice example 3."
+    "audioPrompt": "How many complete repeating units are shown?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: ▲ ○ □ ▲ ○ □ ▲ ○ □ This is practice example 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: ▲ ○ □ ▲ ○ □ ▲ ○ □ This is practice example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-003",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: ▲ ○ □ ▲ ○ □ ▲ ○ □ This is practice example 3."
+    },
+    "answers": [
+      "2",
+      "4",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "The unit ▲ ○ □ appears 3 times.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The unit ▲ ○ □ appears 3 times.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-004",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "create or select a pattern",
     "skill": "create or select a pattern",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Zoe studies this example. Which choice could be continued using one repeating rule?",
-    "explanation": "The selected sequence already shows a complete unit repeating.",
+    "audioPrompt": "Zoe studies this example. Which choice could be continued using one repeating rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 4.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-004",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 4."
+    },
     "answers": [
+      "1 1 2 1 1 2",
       "A B C D A",
-      "1 2 4 8",
-      "red blue green yellow",
-      "1 1 2 1 1 2"
+      "1 2 4 8"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 4."
+    "correct": 0,
+    "explanation": "The selected sequence already shows a complete unit repeating.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The selected sequence already shows a complete unit repeating.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-005",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "preserve order",
     "skill": "preserve order",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Noah changes ▲ ○ ▲ ○ into ▲ ▲ ○ ○. Is the same pattern preserved?",
-    "explanation": "Repeating patterns keep the same unit and order.",
+    "audioPrompt": "Noah changes ▲ ○ ▲ ○ into ▲ ▲ ○ ○. Is the same pattern preserved?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-005",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 5."
+    },
     "answers": [
       "Yes, the same items are present",
-      "Yes, colour is the only rule",
-      "Patterns do not need an order",
-      "No, the order of the repeating unit changed"
+      "No, the order of the repeating unit changed",
+      "Yes, colour is the only rule"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 5."
+    "correct": 1,
+    "explanation": "Repeating patterns keep the same unit and order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Repeating patterns keep the same unit and order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-006",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "same rule different objects",
     "skill": "same rule different objects",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Nina studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
-    "explanation": "Both patterns repeat two items in the same order.",
+    "audioPrompt": "Nina studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 6.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-006",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 6."
+    },
     "answers": [
       "A, B, C, A",
       "1, 1, 2, 2",
-      "clap, stamp, jump",
       "1, 2, 1, 2"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 6."
+    "correct": 2,
+    "explanation": "Both patterns repeat two items in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Both patterns repeat two items in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-007",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "recognise repeating sequence",
     "skill": "recognise repeating sequence",
-    "difficulty": "easy",
     "printable": true,
     "type": "single",
     "question": "Which sequence is a repeating pattern?",
-    "explanation": "A repeating unit occurs again in the same order.",
+    "audioPrompt": "Which sequence is a repeating pattern?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: recognise repeating sequence This is practice example 7.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: recognise repeating sequence This is practice example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-007",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: recognise repeating sequence This is practice example 7."
+    },
     "answers": [
-      "A B C D E F",
-      "1 2 4 7",
       "A B A B A B",
-      "🔴 🔵 🟡 🟢"
+      "A B C D E F",
+      "1 2 4 7"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: recognise repeating sequence This is practice example 7."
+    "correct": 0,
+    "explanation": "A repeating unit occurs again in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "A repeating unit occurs again in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-008",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "spot pattern break",
     "skill": "spot pattern break",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Which item breaks the AB pattern: ▲ ○ ▲ □ ▲ ○?",
-    "explanation": "□ should be ○.",
+    "audioPrompt": "Which item breaks the AB pattern: ▲ ○ ▲ □ ▲ ○?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 8.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-008",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 8."
+    },
     "answers": [
       "▲",
-      "○",
       "□",
-      "none"
+      "○"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 8."
+    "correct": 1,
+    "explanation": "□ should be ○.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "□ should be ○.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-009",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "missing inside pattern",
     "skill": "missing inside pattern",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Ruby studies this example. Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
-    "explanation": "Follow the repeating unit to find ▲.",
+    "audioPrompt": "Ruby studies this example. Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 9.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-009",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 9."
+    },
     "answers": [
-      "▲",
       "○",
-      "X"
+      "X",
+      "▲"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 9."
+    "correct": 2,
+    "explanation": "Follow the repeating unit to find ▲.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Follow the repeating unit to find ▲.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-010",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "continue ABC pattern",
-    "skill": "continue ABC pattern",
-    "difficulty": "easy",
+    "skill": "continue abc pattern",
     "printable": true,
     "type": "single",
     "question": "Continue: 🔴 🔵 🟡 🔴 🔵 🟡 ___",
-    "explanation": "After two full 🔴 🔵 🟡 units, the pattern starts again with 🔴.",
+    "audioPrompt": "Continue: 🔴 🔵 🟡 🔴 🔵 🟡 ___",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is practice example 10.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is practice example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-010",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is practice example 10."
+    },
     "answers": [
+      "🔴",
       "🔵",
-      "🟡",
-      "X",
-      "🔴"
+      "🟡"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is practice example 10."
+    "correct": 0,
+    "explanation": "After two full 🔴 🔵 🟡 units, the pattern starts again with 🔴.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "After two full 🔴 🔵 🟡 units, the pattern starts again with 🔴.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-011",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "identify repeating unit",
     "skill": "identify repeating unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "What is the smallest repeating unit in clap, stamp, clap, stamp?",
-    "explanation": "The smallest complete part that repeats is clap, stamp.",
+    "audioPrompt": "What is the smallest repeating unit in clap, stamp, clap, stamp?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 11.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-011",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 11."
+    },
     "answers": [
       "clap",
       "clap, stamp",
       "clap, stamp, clap, stamp"
     ],
     "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 11."
+    "explanation": "The smallest complete part that repeats is clap, stamp.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The smallest complete part that repeats is clap, stamp.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-012",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "continue AAB pattern",
-    "skill": "continue AAB pattern",
-    "difficulty": "core",
+    "skill": "continue aab pattern",
     "printable": true,
     "type": "single",
     "question": "What comes next: ● ● ○ ● ● ○ ● ___?",
-    "explanation": "The unit is ● ● ○; the next item is the second ●.",
+    "audioPrompt": "What comes next: ● ● ○ ● ● ○ ● ___?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 12.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-012",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 12."
+    },
     "answers": [
       "○",
       "X",
-      "●",
-      "stop"
+      "●"
     ],
     "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 12."
+    "explanation": "The unit is ● ● ○; the next item is the second ●.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The unit is ● ● ○; the next item is the second ●.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-013",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "continue AB pattern",
-    "skill": "continue AB pattern",
-    "difficulty": "easy",
+    "skill": "continue ab pattern",
     "printable": true,
     "type": "single",
     "question": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
-    "explanation": "The repeating unit is ▲ ○.",
+    "audioPrompt": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is practice example 13.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is practice example 13.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-013",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is practice example 13."
+    },
     "answers": [
+      "○",
       "▲",
-      "■",
-      "stop",
-      "○"
+      "■"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is practice example 13."
+    "correct": 0,
+    "explanation": "The repeating unit is ▲ ○.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The repeating unit is ▲ ○.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-014",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "shortest unit",
     "skill": "shortest unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "Which answer gives the shortest unit for 1 2 2 1 2 2?",
-    "explanation": "The shortest complete part that repeats is 1 2 2.",
+    "audioPrompt": "Which answer gives the shortest unit for 1 2 2 1 2 2?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: shortest unit This is practice example 14.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: shortest unit This is practice example 14.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-014",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: shortest unit This is practice example 14."
+    },
     "answers": [
-      "1 2 2",
       "1 2 2 1 2 2",
-      "1",
-      "2 2 1"
+      "1 2 2",
+      "1"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: shortest unit This is practice example 14."
+    "correct": 1,
+    "explanation": "The shortest complete part that repeats is 1 2 2.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "The shortest complete part that repeats is 1 2 2.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-015",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "whole-sequence misconception",
-    "skill": "whole-sequence misconception",
-    "difficulty": "application",
+    "skill": "whole sequence misconception",
     "printable": true,
-    "type": "true-false",
-    "question": "For 1 2 2 1 2 2, the only possible repeating unit is the entire six-item sequence.",
-    "explanation": "A shorter unit, 1 2 2, repeats to make the sequence.",
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 15.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 15.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-015",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 15."
+    },
     "answers": [
-      "True",
-      "False"
+      "For 1 2 2 1 2 2, the only possible repeating unit is the entire six-item sequence.",
+      "Every repeating pattern must have a two-item repeating unit.",
+      "A shorter unit, 1 2 2, repeats to make the sequence."
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 15."
+    "correct": 2,
+    "explanation": "A shorter unit, 1 2 2, repeats to make the sequence.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "A shorter unit, 1 2 2, repeats to make the sequence.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-016",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "continue ABB pattern",
-    "skill": "continue ABB pattern",
-    "difficulty": "core",
+    "skill": "continue abb pattern",
     "printable": true,
     "type": "single",
     "question": "Complete: 1 2 2 1 2 2 1 2 ___",
-    "explanation": "The repeating unit is 1 2 2.",
+    "audioPrompt": "Complete: 1 2 2 1 2 2 1 2 ___",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is practice example 16.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is practice example 16.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-016",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is practice example 16."
+    },
     "answers": [
-      "1",
       "2",
-      "X",
-      "stop"
+      "1",
+      "X"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is practice example 16."
+    "correct": 0,
+    "explanation": "The repeating unit is 1 2 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The repeating unit is 1 2 2.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-017",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "arrange repeating unit",
     "skill": "arrange repeating unit",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Arrange one complete unit for the pattern ▲ ○ □ ▲ ○ □.",
-    "explanation": "The unit is ▲ ○ □.",
-    "items": [
-      "○",
-      "□",
-      "▲"
+    "type": "single",
+    "question": "Arrange one complete unit for the pattern ▲ ○ □ ▲ ○ □. Which order is correct?",
+    "audioPrompt": "Arrange one complete unit for the pattern ▲ ○ □ ▲ ○ □. Which order is correct?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 17.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 17.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-017",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 17."
+    },
+    "answers": [
+      "○ → □ → ▲",
+      "▲ → ○ → □",
+      "□ → ○ → ▲"
     ],
-    "correct": [
-      "▲",
-      "○",
-      "□"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is practice example 17."
+    "correct": 1,
+    "explanation": "The unit is ▲ ○ □.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The unit is ▲ ○ □.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-018",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "arrange repeating unit",
     "skill": "arrange repeating unit",
-    "difficulty": "core",
     "printable": true,
-    "type": "order",
-    "question": "Arrange one complete unit for the pattern A B C A B C.",
-    "explanation": "The unit is A B C.",
-    "items": [
-      "B",
-      "C",
-      "A"
+    "type": "single",
+    "question": "Arrange one complete unit for the pattern A B C A B C. Which order is correct?",
+    "audioPrompt": "Arrange one complete unit for the pattern A B C A B C. Which order is correct?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 18.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 18.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-018",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 18."
+    },
+    "answers": [
+      "B → C → A",
+      "C → B → A",
+      "A → B → C"
     ],
-    "correct": [
-      "A",
-      "B",
-      "C"
-    ],
-    "instruction": "Arrange the items in the correct order.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 18."
+    "correct": 2,
+    "explanation": "The unit is A B C.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The unit is A B C.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-019",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "create or select a pattern",
     "skill": "create or select a pattern",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Which choice could be continued using one repeating rule?",
-    "explanation": "The selected sequence already shows a complete unit repeating.",
+    "audioPrompt": "Which choice could be continued using one repeating rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 19.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 19.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-019",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 19."
+    },
     "answers": [
-      "A B C D A",
-      "1 2 4 8",
       "A B C A B C",
-      "red blue green yellow"
+      "A B C D A",
+      "1 2 4 8"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: create or select a pattern This is practice example 19."
+    "correct": 0,
+    "explanation": "The selected sequence already shows a complete unit repeating.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The selected sequence already shows a complete unit repeating.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-020",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "spot pattern break",
     "skill": "spot pattern break",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Which item breaks the AB pattern: A B A C A B?",
-    "explanation": "C should be B.",
+    "audioPrompt": "Which item breaks the AB pattern: A B A C A B?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 20.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 20.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-020",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 20."
+    },
     "answers": [
       "A",
-      "B",
-      "none",
-      "C"
+      "C",
+      "B"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: spot pattern break This is practice example 20."
+    "correct": 1,
+    "explanation": "C should be B.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "C should be B.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-021",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "spot pattern break",
     "skill": "spot pattern break",
-    "difficulty": "application",
     "printable": true,
     "type": "single",
     "question": "Which item breaks the AB pattern: 1 2 1 3 1 2?",
-    "explanation": "3 should be 2.",
+    "audioPrompt": "Which item breaks the AB pattern: 1 2 1 3 1 2?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 21.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 21.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-021",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 21."
+    },
     "answers": [
       "1",
-      "3",
       "2",
-      "none"
+      "3"
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 21."
+    "correct": 2,
+    "explanation": "3 should be 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "3 should be 2.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-022",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "same rule different objects",
     "skill": "same rule different objects",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
-    "explanation": "Both patterns repeat two items in the same order.",
+    "audioPrompt": "The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 22.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 22.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-022",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 22."
+    },
     "answers": [
-      "A, B, C, A",
-      "1, 1, 2, 2",
       "clap, stamp, clap, stamp",
-      "clap, stamp, jump"
+      "A, B, C, A",
+      "1, 1, 2, 2"
     ],
-    "correct": 2,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 22."
+    "correct": 0,
+    "explanation": "Both patterns repeat two items in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Both patterns repeat two items in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-023",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "same rule different objects",
     "skill": "same rule different objects",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Mia studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
-    "explanation": "Both patterns repeat two items in the same order.",
+    "audioPrompt": "Mia studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 23.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 23.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-023",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 23."
+    },
     "answers": [
       "A, B, C, A",
       "clap, stamp, clap, stamp",
-      "1, 1, 2, 2",
-      "clap, stamp, jump"
+      "1, 1, 2, 2"
     ],
     "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 23."
+    "explanation": "Both patterns repeat two items in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Both patterns repeat two items in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-024",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "recognise repeating sequence",
     "skill": "recognise repeating sequence",
-    "difficulty": "easy",
     "printable": true,
     "type": "single",
     "question": "Noah studies this example. Which sequence is a repeating pattern?",
-    "explanation": "A repeating unit occurs again in the same order.",
+    "audioPrompt": "Noah studies this example. Which sequence is a repeating pattern?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 24.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 24.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-024",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 24."
+    },
     "answers": [
       "A B C D E F",
       "1 2 4 7",
-      "🔴 🔵 🟡 🟢",
       "1 2 3 1 2 3"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 24."
+    "correct": 2,
+    "explanation": "A repeating unit occurs again in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "A repeating unit occurs again in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-025",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "same rule different objects",
     "skill": "same rule different objects",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Omar studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
-    "explanation": "Both patterns repeat two items in the same order.",
+    "audioPrompt": "Omar studies this example. The colour pattern is red, blue, red, blue. Which pattern has the same AB rule?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 25.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 25.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-025\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-025",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 25."
+    },
     "answers": [
       "🔺 ○ 🔺 ○",
       "A, B, C, A",
-      "1, 1, 2, 2",
-      "clap, stamp, jump"
+      "1, 1, 2, 2"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: same rule different objects This is practice example 25."
+    "explanation": "Both patterns repeat two items in the same order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Both patterns repeat two items in the same order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-026",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "preserve order",
     "skill": "preserve order",
-    "difficulty": "challenge",
     "printable": true,
     "type": "single",
     "question": "Ava changes A B A B into A A B B. Is the same pattern preserved?",
-    "explanation": "Repeating patterns keep the same unit and order.",
+    "audioPrompt": "Ava changes A B A B into A A B B. Is the same pattern preserved?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 26.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 26.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-026\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-026",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 26."
+    },
     "answers": [
-      "No, the order of the repeating unit changed",
       "Yes, the same items are present",
-      "Yes, colour is the only rule",
-      "Patterns do not need an order"
+      "No, the order of the repeating unit changed",
+      "Yes, colour is the only rule"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: preserve order This is practice example 26."
+    "correct": 1,
+    "explanation": "Repeating patterns keep the same unit and order.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Repeating patterns keep the same unit and order.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-027",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "select repeating patterns",
     "skill": "select repeating patterns",
-    "difficulty": "easy",
     "printable": true,
-    "type": "multiple",
-    "question": "Select every sequence that repeats a complete unit.",
-    "explanation": "Each selected sequence contains a unit that repeats.",
+    "type": "single",
+    "question": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "audioPrompt": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. This is practice example 27.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is practice example 27.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-027\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-027",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is practice example 27."
+    },
     "answers": [
-      "1 2 3 4",
       "red blue red blue",
-      "A B A B"
+      "red blue red blue, 1 2 3 4",
+      "red blue red blue, A B A B"
     ],
-    "correct": [
-      1,
-      2
-    ],
-    "instruction": "Select all correct answers.",
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. This is practice example 27."
+    "correct": 2,
+    "explanation": "Each selected sequence contains a unit that repeats.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Each selected sequence contains a unit that repeats.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1a02-p-028",
     "curriculumCode": "AC9M1A02",
     "bank": "practice",
-    "learningArea": "identify repeating unit",
     "skill": "identify repeating unit",
-    "difficulty": "core",
     "printable": true,
     "type": "single",
     "question": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
-    "explanation": "The smallest complete part that repeats is triangle, circle, square.",
+    "audioPrompt": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
+    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 28.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 28.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-028\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-p-028",
+      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 28."
+    },
     "answers": [
+      "triangle, circle, square",
       "triangle",
-      "triangle, circle, square, triangle, circle, square",
-      "triangle, circle",
-      "triangle, circle, square"
+      "triangle, circle, square, triangle, circle, square"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepeating%20Patterns%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22103%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22239%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22332%22%20cy%3D%22112%22%20r%3D%2225%22%20class%3D%22red%22%2F%3E%3Crect%20x%3D%22375%22%20y%3D%2287%22%20width%3D%2250%22%20height%3D%2250%22%20rx%3D%228%22%20class%3D%22blue%22%2F%3E%3Cpath%20d%3D%22M48%20164%20H184%22%20class%3D%22line%22%2F%3E%3Ctext%20x%3D%22116%22%20y%3D%22188%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esmallest%20repeating%20unit%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20colourful%20pattern%20repeats%20the%20same%20smallest%20unit%20again%20and%20again.%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is practice example 28."
+    "correct": 0,
+    "explanation": "The smallest complete part that repeats is triangle, circle, square.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "The smallest complete part that repeats is triangle, circle, square.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

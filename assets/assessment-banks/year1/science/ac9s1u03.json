@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S1U03-P-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_01",
+    "question": "Which action is a push on a toy wagon?",
+    "audio_prompt": "Which action is a push on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-001",
+      "alt_text": "🖐️ push; 🛒 a toy wagon; ➡️ push the wagon away"
+    },
+    "answers": [
+      {
+        "text": "push the wagon away",
+        "is_correct": true
+      },
+      {
+        "text": "pull the wagon towards you",
+        "is_correct": false
+      },
+      {
+        "text": "watch it without touching it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Push the wagon away applies a force away from the person or into the object.",
+      "hint": "A push moves something away or presses on it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_02",
+    "question": "Which action is a pull on a toy wagon?",
+    "audio_prompt": "Which action is a pull on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-002",
+      "alt_text": "⬅️ pull the wagon towards you; 🛒 a toy wagon; ✋ pull"
+    },
+    "answers": [
+      {
+        "text": "push the wagon away",
+        "is_correct": false
+      },
+      {
+        "text": "pull the wagon towards you",
+        "is_correct": true
+      },
+      {
+        "text": "leave it still",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pull the wagon towards you applies a pulling force.",
+      "hint": "A pull brings something closer or stretches it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_03",
+    "question": "What may happen after a gentle force is used on a toy wagon?",
+    "audio_prompt": "What may happen after a gentle force is used on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-003",
+      "alt_text": "🤏 gentle force; 🛒 a toy wagon; ➡️ moves a short distance"
+    },
+    "answers": [
+      {
+        "text": "usually moves farther on the same surface",
+        "is_correct": false
+      },
+      {
+        "text": "A gentle force must always have the same effect as a strong force.",
+        "is_correct": false
+      },
+      {
+        "text": "moves a short distance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Moves a short distance is a possible effect of a gentle force.",
+      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_04",
+    "question": "What may happen after a stronger force is used on a toy wagon?",
+    "audio_prompt": "What may happen after a stronger force is used on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-004",
+      "alt_text": "💪 stronger force; 🛒 a toy wagon; ➡️ usually moves farther on the same surface"
+    },
+    "answers": [
+      {
+        "text": "usually moves farther on the same surface",
+        "is_correct": true
+      },
+      {
+        "text": "moves a short distance",
+        "is_correct": false
+      },
+      {
+        "text": "The object must always break.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Usually moves farther on the same surface is a careful comparison under the same conditions.",
+      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_05",
+    "question": "Which statement describes a possible effect of force on a toy wagon?",
+    "audio_prompt": "Which statement describes a possible effect of force on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-005",
+      "alt_text": "✋ force; 🛒 a toy wagon; 🔄 does not usually change shape from a gentle push"
+    },
+    "answers": [
+      {
+        "text": "Forces can never change motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "does not usually change shape from a gentle push",
+        "is_correct": true
+      },
+      {
+        "text": "A force changes only colour, not motion or shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Does not usually change shape from a gentle push describes an effect a force can have.",
+      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_06",
+    "question": "For a fair test of pushes on a toy wagon, what should stay the same?",
+    "audio_prompt": "For a fair test of pushes on a toy wagon, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-006",
+      "alt_text": "🛒 a toy wagon; 🔒 smooth floor; ⚖️ fair test"
+    },
+    "answers": [
+      {
+        "text": "Change the object and surface every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the result you like.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same a toy wagon and the same smooth floor.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the same object and surface makes the push strength easier to compare.",
+      "hint": "Change the force, but keep other important conditions the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_07",
+    "question": "Which word names the push or pull used on a toy wagon?",
+    "audio_prompt": "Which word names the push or pull used on a toy wagon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-007",
+      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    },
+    "answers": [
+      {
+        "text": "force",
+        "is_correct": true
+      },
+      {
+        "text": "movement",
+        "is_correct": false
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A force is a push or a pull that can affect motion or shape.",
+      "hint": "Think about what your hands apply when moving an object."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_08",
+    "question": "How should the effect of a push on a toy wagon be recorded?",
+    "audio_prompt": "How should the effect of a push on a toy wagon be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-008",
+      "alt_text": "✋ push; 🛒 a toy wagon; 📝 record effect"
+    },
+    "answers": [
+      {
+        "text": "Write only whether you liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe or measure the change in motion or shape.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the observation to match the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
+      "hint": "Record what changed after the force."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_01",
+    "question": "Which action is a push on a drawer?",
+    "audio_prompt": "Which action is a push on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-009",
+      "alt_text": "🖐️ push; 🗄️ a drawer; ➡️ push the drawer closed"
+    },
+    "answers": [
+      {
+        "text": "pull the drawer open",
+        "is_correct": false
+      },
+      {
+        "text": "watch it without touching it",
+        "is_correct": false
+      },
+      {
+        "text": "push the drawer closed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Push the drawer closed applies a force away from the person or into the object.",
+      "hint": "A push moves something away or presses on it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_02",
+    "question": "Which action is a pull on a drawer?",
+    "audio_prompt": "Which action is a pull on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-010",
+      "alt_text": "⬅️ pull the drawer open; 🗄️ a drawer; ✋ pull"
+    },
+    "answers": [
+      {
+        "text": "pull the drawer open",
+        "is_correct": true
+      },
+      {
+        "text": "push the drawer closed",
+        "is_correct": false
+      },
+      {
+        "text": "leave it still",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pull the drawer open applies a pulling force.",
+      "hint": "A pull brings something closer or stretches it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_03",
+    "question": "What may happen after a gentle force is used on a drawer?",
+    "audio_prompt": "What may happen after a gentle force is used on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-011",
+      "alt_text": "🤏 gentle force; 🗄️ a drawer; ➡️ moves slowly"
+    },
+    "answers": [
+      {
+        "text": "usually moves faster if the drawer is free to move",
+        "is_correct": false
+      },
+      {
+        "text": "moves slowly",
+        "is_correct": true
+      },
+      {
+        "text": "A gentle force must always have the same effect as a strong force.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moves slowly is a possible effect of a gentle force.",
+      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_04",
+    "question": "What may happen after a stronger force is used on a drawer?",
+    "audio_prompt": "What may happen after a stronger force is used on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-012",
+      "alt_text": "💪 stronger force; 🗄️ a drawer; ➡️ usually moves faster if the drawer is free to move"
+    },
+    "answers": [
+      {
+        "text": "moves slowly",
+        "is_correct": false
+      },
+      {
+        "text": "The object must always break.",
+        "is_correct": false
+      },
+      {
+        "text": "usually moves faster if the drawer is free to move",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Usually moves faster if the drawer is free to move is a careful comparison under the same conditions.",
+      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_05",
+    "question": "Which statement describes a possible effect of force on a drawer?",
+    "audio_prompt": "Which statement describes a possible effect of force on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-013",
+      "alt_text": "✋ force; 🗄️ a drawer; 🔄 keeps its shape while moving"
+    },
+    "answers": [
+      {
+        "text": "keeps its shape while moving",
+        "is_correct": true
+      },
+      {
+        "text": "Forces can never change motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "A force changes only colour, not motion or shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeps its shape while moving describes an effect a force can have.",
+      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_06",
+    "question": "For a fair test of pushes on a drawer, what should stay the same?",
+    "audio_prompt": "For a fair test of pushes on a drawer, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-014",
+      "alt_text": "🗄️ a drawer; 🔒 drawer runners; ⚖️ fair test"
+    },
+    "answers": [
+      {
+        "text": "Change the object and surface every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same a drawer and the same drawer runners.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep only the result you like.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using the same object and surface makes the push strength easier to compare.",
+      "hint": "Change the force, but keep other important conditions the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_07",
+    "question": "Which word names the push or pull used on a drawer?",
+    "audio_prompt": "Which word names the push or pull used on a drawer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-015",
+      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    },
+    "answers": [
+      {
+        "text": "movement",
+        "is_correct": false
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      },
+      {
+        "text": "force",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A force is a push or a pull that can affect motion or shape.",
+      "hint": "Think about what your hands apply when moving an object."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_08",
+    "question": "How should the effect of a push on a drawer be recorded?",
+    "audio_prompt": "How should the effect of a push on a drawer be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-016",
+      "alt_text": "✋ push; 🗄️ a drawer; 📝 record effect"
+    },
+    "answers": [
+      {
+        "text": "Describe or measure the change in motion or shape.",
+        "is_correct": true
+      },
+      {
+        "text": "Write only whether you liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the observation to match the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
+      "hint": "Record what changed after the force."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-017",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_01",
+    "question": "Which action is a push on a ball?",
+    "audio_prompt": "Which action is a push on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-017",
+      "alt_text": "🖐️ push; ⚽ a ball; ➡️ push or kick the ball away"
+    },
+    "answers": [
+      {
+        "text": "pull the ball back in a net",
+        "is_correct": false
+      },
+      {
+        "text": "push or kick the ball away",
+        "is_correct": true
+      },
+      {
+        "text": "watch it without touching it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Push or kick the ball away applies a force away from the person or into the object.",
+      "hint": "A push moves something away or presses on it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-018",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_02",
+    "question": "Which action is a pull on a ball?",
+    "audio_prompt": "Which action is a pull on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-018",
+      "alt_text": "⬅️ pull the ball back in a net; ⚽ a ball; ✋ pull"
+    },
+    "answers": [
+      {
+        "text": "push or kick the ball away",
+        "is_correct": false
+      },
+      {
+        "text": "leave it still",
+        "is_correct": false
+      },
+      {
+        "text": "pull the ball back in a net",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Pull the ball back in a net applies a pulling force.",
+      "hint": "A pull brings something closer or stretches it."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-019",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_03",
+    "question": "What may happen after a gentle force is used on a ball?",
+    "audio_prompt": "What may happen after a gentle force is used on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-019",
+      "alt_text": "🤏 gentle force; ⚽ a ball; ➡️ rolls slowly"
+    },
+    "answers": [
+      {
+        "text": "rolls slowly",
+        "is_correct": true
+      },
+      {
+        "text": "usually rolls faster or farther on the same surface",
+        "is_correct": false
+      },
+      {
+        "text": "A gentle force must always have the same effect as a strong force.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rolls slowly is a possible effect of a gentle force.",
+      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-020",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_04",
+    "question": "What may happen after a stronger force is used on a ball?",
+    "audio_prompt": "What may happen after a stronger force is used on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-020",
+      "alt_text": "💪 stronger force; ⚽ a ball; ➡️ usually rolls faster or farther on the same surface"
+    },
+    "answers": [
+      {
+        "text": "rolls slowly",
+        "is_correct": false
+      },
+      {
+        "text": "usually rolls faster or farther on the same surface",
+        "is_correct": true
+      },
+      {
+        "text": "The object must always break.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Usually rolls faster or farther on the same surface is a careful comparison under the same conditions.",
+      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-021",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_05",
+    "question": "Which statement describes a possible effect of force on a ball?",
+    "audio_prompt": "Which statement describes a possible effect of force on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-021",
+      "alt_text": "✋ force; ⚽ a ball; 🔄 may squash slightly when squeezed"
+    },
+    "answers": [
+      {
+        "text": "Forces can never change motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "A force changes only colour, not motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "may squash slightly when squeezed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "May squash slightly when squeezed describes an effect a force can have.",
+      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-022",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_06",
+    "question": "For a fair test of pushes on a ball, what should stay the same?",
+    "audio_prompt": "For a fair test of pushes on a ball, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-022",
+      "alt_text": "⚽ a ball; 🔒 grass; ⚖️ fair test"
+    },
+    "answers": [
+      {
+        "text": "Use the same a ball and the same grass.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the object and surface every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the result you like.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the same object and surface makes the push strength easier to compare.",
+      "hint": "Change the force, but keep other important conditions the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-023",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_07",
+    "question": "Which word names the push or pull used on a ball?",
+    "audio_prompt": "Which word names the push or pull used on a ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-023",
+      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    },
+    "answers": [
+      {
+        "text": "movement",
+        "is_correct": false
+      },
+      {
+        "text": "force",
+        "is_correct": true
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A force is a push or a pull that can affect motion or shape.",
+      "hint": "Think about what your hands apply when moving an object."
+    }
+  },
+  {
+    "id": "AC9S1U03-P-024",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "practice",
+    "skill": "ac9s1u03_08",
+    "question": "How should the effect of a push on a ball be recorded?",
+    "audio_prompt": "How should the effect of a push on a ball be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-024",
+      "alt_text": "✋ push; ⚽ a ball; 📝 record effect"
+    },
+    "answers": [
+      {
+        "text": "Write only whether you liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the observation to match the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe or measure the change in motion or shape.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
+      "hint": "Record what changed after the force."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_01",
+    "question": "Which action is a push on a toy car?",
+    "audio_prompt": "Which action is a push on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-001",
+      "alt_text": "🖐️ push; 🚗 a toy car; ➡️ push the car away"
+    },
+    "answers": [
+      {
+        "text": "push the car away",
+        "is_correct": true
+      },
+      {
+        "text": "pull the car back with a string",
+        "is_correct": false
+      },
+      {
+        "text": "watch it without touching it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Push the car away applies a force away from the person or into the object.",
+      "hint": "A push moves something away or presses on it."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_02",
+    "question": "Which action is a pull on a toy car?",
+    "audio_prompt": "Which action is a pull on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-002",
+      "alt_text": "⬅️ pull the car back with a string; 🚗 a toy car; ✋ pull"
+    },
+    "answers": [
+      {
+        "text": "push the car away",
+        "is_correct": false
+      },
+      {
+        "text": "pull the car back with a string",
+        "is_correct": true
+      },
+      {
+        "text": "leave it still",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pull the car back with a string applies a pulling force.",
+      "hint": "A pull brings something closer or stretches it."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_03",
+    "question": "What may happen after a gentle force is used on a toy car?",
+    "audio_prompt": "What may happen after a gentle force is used on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-003",
+      "alt_text": "🤏 gentle force; 🚗 a toy car; ➡️ travels a short distance"
+    },
+    "answers": [
+      {
+        "text": "usually travels farther when the car and surface stay the same",
+        "is_correct": false
+      },
+      {
+        "text": "A gentle force must always have the same effect as a strong force.",
+        "is_correct": false
+      },
+      {
+        "text": "travels a short distance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Travels a short distance is a possible effect of a gentle force.",
+      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_04",
+    "question": "What may happen after a stronger force is used on a toy car?",
+    "audio_prompt": "What may happen after a stronger force is used on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-004",
+      "alt_text": "💪 stronger force; 🚗 a toy car; ➡️ usually travels farther when the car and surface stay the same"
+    },
+    "answers": [
+      {
+        "text": "usually travels farther when the car and surface stay the same",
+        "is_correct": true
+      },
+      {
+        "text": "travels a short distance",
+        "is_correct": false
+      },
+      {
+        "text": "The object must always break.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Usually travels farther when the car and surface stay the same is a careful comparison under the same conditions.",
+      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_05",
+    "question": "Which statement describes a possible effect of force on a toy car?",
+    "audio_prompt": "Which statement describes a possible effect of force on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-005",
+      "alt_text": "✋ force; 🚗 a toy car; 🔄 keeps its shape during rolling"
+    },
+    "answers": [
+      {
+        "text": "Forces can never change motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "keeps its shape during rolling",
+        "is_correct": true
+      },
+      {
+        "text": "A force changes only colour, not motion or shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keeps its shape during rolling describes an effect a force can have.",
+      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_06",
+    "question": "For a fair test of pushes on a toy car, what should stay the same?",
+    "audio_prompt": "For a fair test of pushes on a toy car, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-006",
+      "alt_text": "🚗 a toy car; 🔒 carpet; ⚖️ fair test"
+    },
+    "answers": [
+      {
+        "text": "Change the object and surface every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the result you like.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same a toy car and the same carpet.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the same object and surface makes the push strength easier to compare.",
+      "hint": "Change the force, but keep other important conditions the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_07",
+    "question": "Which word names the push or pull used on a toy car?",
+    "audio_prompt": "Which word names the push or pull used on a toy car?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-007",
+      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    },
+    "answers": [
+      {
+        "text": "force",
+        "is_correct": true
+      },
+      {
+        "text": "movement",
+        "is_correct": false
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A force is a push or a pull that can affect motion or shape.",
+      "hint": "Think about what your hands apply when moving an object."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_08",
+    "question": "How should the effect of a push on a toy car be recorded?",
+    "audio_prompt": "How should the effect of a push on a toy car be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-008",
+      "alt_text": "✋ push; 🚗 a toy car; 📝 record effect"
+    },
+    "answers": [
+      {
+        "text": "Write only whether you liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe or measure the change in motion or shape.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the observation to match the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
+      "hint": "Record what changed after the force."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_01",
+    "question": "Which action is a push on a ball of playdough?",
+    "audio_prompt": "Which action is a push on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-009",
+      "alt_text": "🖐️ push; 🟣 a ball of playdough; ➡️ press the playdough down"
+    },
+    "answers": [
+      {
+        "text": "pull the playdough longer",
+        "is_correct": false
+      },
+      {
+        "text": "watch it without touching it",
+        "is_correct": false
+      },
+      {
+        "text": "press the playdough down",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Press the playdough down applies a force away from the person or into the object.",
+      "hint": "A push moves something away or presses on it."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_02",
+    "question": "Which action is a pull on a ball of playdough?",
+    "audio_prompt": "Which action is a pull on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-010",
+      "alt_text": "⬅️ pull the playdough longer; 🟣 a ball of playdough; ✋ pull"
+    },
+    "answers": [
+      {
+        "text": "pull the playdough longer",
+        "is_correct": true
+      },
+      {
+        "text": "press the playdough down",
+        "is_correct": false
+      },
+      {
+        "text": "leave it still",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pull the playdough longer applies a pulling force.",
+      "hint": "A pull brings something closer or stretches it."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_03",
+    "question": "What may happen after a gentle force is used on a ball of playdough?",
+    "audio_prompt": "What may happen after a gentle force is used on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-011",
+      "alt_text": "🤏 gentle force; 🟣 a ball of playdough; ➡️ changes shape a little"
+    },
+    "answers": [
+      {
+        "text": "changes shape more",
+        "is_correct": false
+      },
+      {
+        "text": "changes shape a little",
+        "is_correct": true
+      },
+      {
+        "text": "A gentle force must always have the same effect as a strong force.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changes shape a little is a possible effect of a gentle force.",
+      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_04",
+    "question": "What may happen after a stronger force is used on a ball of playdough?",
+    "audio_prompt": "What may happen after a stronger force is used on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-012",
+      "alt_text": "💪 stronger force; 🟣 a ball of playdough; ➡️ changes shape more"
+    },
+    "answers": [
+      {
+        "text": "changes shape a little",
+        "is_correct": false
+      },
+      {
+        "text": "The object must always break.",
+        "is_correct": false
+      },
+      {
+        "text": "changes shape more",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changes shape more is a careful comparison under the same conditions.",
+      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_05",
+    "question": "Which statement describes a possible effect of force on a ball of playdough?",
+    "audio_prompt": "Which statement describes a possible effect of force on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-013",
+      "alt_text": "✋ force; 🟣 a ball of playdough; 🔄 changes shape when pushed, pulled or squeezed"
+    },
+    "answers": [
+      {
+        "text": "changes shape when pushed, pulled or squeezed",
+        "is_correct": true
+      },
+      {
+        "text": "Forces can never change motion or shape.",
+        "is_correct": false
+      },
+      {
+        "text": "A force changes only colour, not motion or shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changes shape when pushed, pulled or squeezed describes an effect a force can have.",
+      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_06",
+    "question": "For a fair test of pushes on a ball of playdough, what should stay the same?",
+    "audio_prompt": "For a fair test of pushes on a ball of playdough, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-014",
+      "alt_text": "🟣 a ball of playdough; 🔒 a clean tray; ⚖️ fair test"
+    },
+    "answers": [
+      {
+        "text": "Change the object and surface every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same a ball of playdough and the same a clean tray.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep only the result you like.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using the same object and surface makes the push strength easier to compare.",
+      "hint": "Change the force, but keep other important conditions the same."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_07",
+    "question": "Which word names the push or pull used on a ball of playdough?",
+    "audio_prompt": "Which word names the push or pull used on a ball of playdough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-015",
+      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    },
+    "answers": [
+      {
+        "text": "movement",
+        "is_correct": false
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      },
+      {
+        "text": "force",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A force is a push or a pull that can affect motion or shape.",
+      "hint": "Think about what your hands apply when moving an object."
+    }
+  },
+  {
+    "id": "AC9S1U03-T-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1U03",
+    "bank": "test",
+    "skill": "ac9s1u03_08",
+    "question": "How should the effect of a push on a ball of playdough be recorded?",
+    "audio_prompt": "How should the effect of a push on a ball of playdough be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-016",
+      "alt_text": "✋ push; 🟣 a ball of playdough; 📝 record effect"
+    },
+    "answers": [
+      {
+        "text": "Describe or measure the change in motion or shape.",
+        "is_correct": true
+      },
+      {
+        "text": "Write only whether you liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the observation to match the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
+      "hint": "Record what changed after the force."
+    }
+  }
+]

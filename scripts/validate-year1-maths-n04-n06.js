@@ -1,7 +1,7 @@
 "use strict";
 const fs=require("fs"),vm=require("vm");
 const codes=["ac9m1n04","ac9m1n05","ac9m1n06"];
-const expected={practice:28,test:12,quiz:50};
+const expected={practice:28,test:16,quiz:50};
 let svgCount=0;
 function load(file){const w={};const c={window:w,console};vm.createContext(c);vm.runInContext(fs.readFileSync(file,"utf8"),c,{filename:file});return w;}
 function sig(q){return `${q.question}\n${q.image||q.visual||""}`;}
@@ -20,9 +20,14 @@ for(const code of codes){
     if(new Set(qs.map(sig)).size!==qs.length)throw Error(`${file}: duplicate scenes`);
     if(qs.some(q=>!q.question||!q.skill||!q.explanation||q.type==="self-check"))throw Error(`${file}: incomplete/subjective item`);
     for(const q of qs){
-      if(q.image){
+    if(q.image){
         svgCount+=1;
         if(!q.imageAlt||!q.image.startsWith("data:image/svg+xml")||!decodeURIComponent(q.image).includes('width="13cm"'))throw Error(`${q.id}: invalid, inaccessible or undersized SVG`);
+      }
+      if(bank!=="quiz"){
+        if(q.type!=="single"||!Array.isArray(q.answers)||q.answers.length!==3||new Set(q.answers.map(String)).size!==3||!Number.isInteger(q.correct)||q.correct<0||q.correct>2)throw Error(`${q.id}: production item must use three balanced options`);
+        if(!q.audioPrompt||!q.structuredExplanation?.summary||!q.structuredExplanation?.hint)throw Error(`${q.id}: missing audio or structured feedback`);
+        continue;
       }
       if(q.type==="single"){if(!Array.isArray(q.answers)||q.answers.length!==4||new Set(q.answers.map(String)).size!==q.answers.length||!Number.isInteger(q.correct)||q.correct<0||q.correct>=q.answers.length)throw Error(`${q.id}: bad single`);}
       else if(q.type==="true-false"){if(!Array.isArray(q.answers)||q.answers.length!==2||!Number.isInteger(q.correct)||q.correct<0||q.correct>=2)throw Error(`${q.id}: bad true-false`);}
@@ -50,7 +55,7 @@ for(const code of codes){
   if(!worksheetPage.includes('worksheetQuestionLimit:8')||!worksheetPage.includes('/practice/questions.js'))throw Error(`${code}: worksheet source`);
 
   const activity=fs.readFileSync(`quiz/year-1/math/${code}/index.html`,"utf8");
-  if(!activity.includes("28 Practice")||!activity.includes("12 auto-marked Test")||!activity.includes("50-question Quiz")||!activity.includes(`/${code}/quiz/`))throw Error(`${code}: activity counts or Quiz link`);
+  if(!activity.includes("28 Practice")||!activity.includes("16 auto-marked Test")||!activity.includes("50-question Quiz")||!activity.includes(`/${code}/quiz/`))throw Error(`${code}: activity counts or Quiz link`);
 }
 const extFile="quiz/assets/daily-drills/year1-maths-n04-n06-extensions.js";
 const w={};const dailyContext={window:w,console};vm.createContext(dailyContext);vm.runInContext(fs.readFileSync(extFile,"utf8"),dailyContext,{filename:extFile});
@@ -66,4 +71,4 @@ const qa=fs.readFileSync("assets/qa-complete-ribbon.js","utf8");
 for(const code of codes)if(!qa.includes(code))throw Error(`${code}: QA tracking missing`);
 const css=fs.readFileSync("quiz/assets/style.css","utf8");
 if(!/min-width:\s*1\.3cm/.test(css)||!/min-height:\s*1\.3cm/.test(css))throw Error("SVG minimum size missing");
-console.log(JSON.stringify({codes:3,practice:84,test:36,quiz:150,total:270,daily:56,svgQuestions:svgCount},null,2));
+console.log(JSON.stringify({codes:3,practice:84,test:48,quiz:150,total:282,daily:56,svgQuestions:svgCount},null,2));
