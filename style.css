@@ -2250,6 +2250,115 @@ footer {
     background: #1d4ed8;
 }
 
+.site-search {
+    position: relative;
+    display: block;
+    max-width: 680px;
+    margin-top: 18px;
+}
+
+.site-search__label {
+    display: block;
+    margin-bottom: 6px;
+    color: var(--slate-700);
+    font-size: 0.8125rem;
+    font-weight: 800;
+}
+
+.site-search__control {
+    position: relative;
+}
+
+.site-search__icon {
+    position: absolute;
+    top: 50%;
+    left: 14px;
+    color: var(--slate-500);
+    font-size: 1.25rem;
+    line-height: 1;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.site-search__input {
+    width: 100%;
+    min-height: 48px;
+    padding: 11px 42px;
+    border: 1px solid #94a3b8;
+    border-radius: 10px;
+    background: #fff;
+    color: var(--slate-950);
+    font: inherit;
+    box-shadow: 0 4px 12px rgba(30, 41, 59, 0.08);
+}
+
+.site-search__input::placeholder {
+    color: var(--slate-500);
+}
+
+.site-search__input:focus {
+    border-color: var(--maths);
+    outline: 3px solid rgba(36, 87, 214, 0.2);
+}
+
+.site-search__results {
+    position: absolute;
+    z-index: 20;
+    top: calc(100% + 8px);
+    right: 0;
+    left: 0;
+    max-height: min(440px, 60vh);
+    overflow-y: auto;
+    border: 1px solid var(--slate-200);
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 16px 36px rgba(15, 23, 42, 0.18);
+}
+
+.site-search__list {
+    margin: 0;
+    padding: 6px;
+    list-style: none;
+}
+
+.site-search__list a {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 7px;
+    color: var(--slate-950);
+    text-decoration: none;
+}
+
+.site-search__list a:hover,
+.site-search__list a:focus,
+.site-search__list a.is-active {
+    background: #eef2ff;
+    outline: none;
+}
+
+.site-search__list strong,
+.site-search__list span {
+    display: block;
+}
+
+.site-search__list strong {
+    font-size: 0.875rem;
+    line-height: 1.35;
+}
+
+.site-search__list span {
+    margin-top: 3px;
+    color: var(--slate-600);
+    font-size: 0.75rem;
+}
+
+.site-search__message {
+    margin: 0;
+    padding: 14px;
+    color: var(--slate-600);
+    font-size: 0.875rem;
+}
+
 .home-subjects {
     display: grid;
     gap: 8px;
@@ -2408,6 +2517,14 @@ footer {
 
     .home-hero__action {
         width: 100%;
+    }
+
+    .site-search {
+        margin-top: 16px;
+    }
+
+    .site-search__input {
+        font-size: 1rem;
     }
 
     .home-subjects {
