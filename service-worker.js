@@ -72,6 +72,7 @@ self.addEventListener("fetch", (event) => {
     request.destination === "script" &&
     (
       url.pathname === "/pwa-register.js" ||
+      url.pathname === "/share-button.js" ||
       url.pathname === "/assets/display-only.js" ||
       url.pathname === "/assets/year7-router.js" ||
       url.pathname.startsWith("/assets/year7-") ||
