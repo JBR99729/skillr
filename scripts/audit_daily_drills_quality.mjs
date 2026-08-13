@@ -37,9 +37,11 @@ const canonical = value => clean(value).toLocaleLowerCase("en-AU");
 const issues = [];
 const rows = [];
 const globalIds = new Map();
+const selectedSubject = process.argv.find(argument => argument.startsWith("--subject="))?.split("=")[1];
 
 for (const [year, yearData] of Object.entries(catalog)) {
   for (const subject of ["math", "english", "science"]) {
+    if (selectedSubject && subject !== selectedSubject) continue;
     const topics = yearData?.[subject] || [];
     for (const topic of topics) {
       const slug = topic.slug || topic.id;
