@@ -1,7 +1,7 @@
 (()=>{"use strict";
 const params=new URLSearchParams(location.search),code=(params.get("code")||"AC9E8LA01").toUpperCase(),u=window.SkillrUpperEnglishData?.[code],root=document.getElementById("upperEnglishSlideRoot");if(!u||!root)return;
 const e=s=>String(s??"").replace(/[&<>\"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const sitePath=x=>{if(!x||!String(x).startsWith("/"))return x;const prefix=location.protocol==="file:"?"../../../../":"";return prefix+String(x).replace(/^\/+/,"")};
+const sitePath=x=>{if(!x||!String(x).startsWith("/"))return x;const clean=String(x).replace(/^\/+/,"");return location.protocol==="file:"?"../../../../"+clean:"/"+clean};
 if(params.get("embed")==="1")document.body.classList.add("embed");
 document.title=`${code} ${u.title} Teacher Slides | SkillrHub`;document.getElementById("englishBack").href=sitePath(u.resourceLinks.topic);
 const visual=id=>window.SkillrUpperEnglishVisuals.render(u.models.find(x=>x.id===id));

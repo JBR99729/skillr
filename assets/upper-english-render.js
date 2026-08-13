@@ -1,7 +1,7 @@
 (()=>{"use strict";
 const code=document.body.dataset.englishCode?.toUpperCase(),u=window.SkillrUpperEnglishData?.[code],root=document.getElementById("upperEnglishRoot");if(!u||!root)return;
 const e=s=>String(s??"").replace(/[&<>\"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const sitePath=x=>{if(!x||!String(x).startsWith("/"))return x;const prefix=location.protocol==="file:"?(location.pathname.includes("/worksheets/")?"../../../../":"../../../"):"";return prefix+String(x).replace(/^\/+/,"")};
+const sitePath=x=>{if(!x||!String(x).startsWith("/"))return x;const clean=String(x).replace(/^\/+/,"");if(location.protocol==="file:"){const prefix=location.pathname.includes("/worksheets/")?"../../../../":"../../../";return prefix+clean}return "/"+clean};
 Object.keys(u.resourceLinks||{}).forEach(k=>{u.resourceLinks[k]=sitePath(u.resourceLinks[k])});
 const visual=id=>window.SkillrUpperEnglishVisuals.render(u.models.find(x=>x.id===id));
 const checkpoint=id=>u.masteryItems.find(x=>x.id===id);
