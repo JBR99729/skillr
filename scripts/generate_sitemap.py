@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate crawl-efficient XML sitemap index + human-readable sitemap."""
 from __future__ import annotations
-import html,re,subprocess
+import html,json,re,subprocess
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -10,6 +10,8 @@ ROOT=Path(__file__).resolve().parents[1]; BASE="https://skillrhub.com"
 SKIP={"year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activities-and-worksheets-ac9m2m02.html","quiz/grade-k/math/vocabulary/voabulary/index.html","quiz/year-2/math/addition-substraction-daily/index.html","year2/maths/addition-substraction-daily/index.html"}
 # Functional states have no independent search value. Keep the canonical learning entry points instead.
 FUNCTIONAL_PARTS={"result","results","review","retake"}
+EXCLUDED_FILES={"offline.html"}
+EXCLUDED_PARTS={"teacher-slides"}
 SECTION_LABELS={"foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
 def route(path):
  v=path.as_posix()
@@ -38,7 +40,18 @@ def norm(v):
 def is_canonical(source,url):
  t=canonical_path(source); return t is None or norm(t)==norm(url)
 def is_functional(path):
- return bool(set(path.parts)&FUNCTIONAL_PARTS)
+ return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS))
+
+def human_sitemap_page(url):
+ """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
+ parts=[p for p in url.strip("/").split("/") if p]
+ if not parts:return True
+ if len(parts)==1:return True
+ if parts[0]=="blogs":return len(parts)==2
+ if parts[0] in {"foundation",*[f"year{i}" for i in range(1,11)]}:
+  return len(parts)<=2 or (len(parts)==3 and parts[1]=="curriculum")
+ if parts[0]=="worksheets":return len(parts)==1
+ return False
 def git_dates():
  dates={};dirty=set()
  try:
@@ -84,7 +97,8 @@ def main():
  for filename,mod in sitemap_files:idx += ["  <sitemap>",f"    <loc>{BASE}/{filename}</loc>",f"    <lastmod>{mod}</lastmod>","  </sitemap>"]
  idx.append("</sitemapindex>");(ROOT/"sitemap.xml").write_text("\n".join(idx)+"\n",encoding="utf-8")
  sections=defaultdict(list)
- for item in pages:sections[item[0].strip("/").split("/",1)[0] or "site"].append(item)
+ for item in pages:
+  if human_sitemap_page(item[0]):sections[item[0].strip("/").split("/",1)[0] or "site"].append(item)
  html_order=["site","blogs","foundation"]+[f"year{i}" for i in range(1,11)]+["quiz","worksheets"]
  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
  blocks=[]
@@ -92,7 +106,15 @@ def main():
   label="Main pages" if key=="site" else SECTION_LABELS.get(key,key.replace("-"," ").title())
   links="".join(f'<li><a href="{html.escape(u,quote=True)}">{html.escape(t)}</a></li>' for u,t,_ in sections[key])
   blocks.append(f'<section class="sitemap-section"><h2>{html.escape(label)}</h2><ul>{links}</ul></section>')
- doc=f'''<!DOCTYPE html><html lang="en-AU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Website Sitemap | SkillrHub</title><meta name="description" content="Browse SkillrHub topic guides, worksheets, practice, tests and education blogs by year level and subject."><meta name="robots" content="index,follow"><link rel="canonical" href="{BASE}/sitemap.html"><link rel="stylesheet" href="/style.css"></head><body><div class="container"><nav class="main-nav"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><h1>SkillrHub website sitemap</h1><p>Find curriculum topic guides, printable worksheets, practice activities, tests and teaching blogs.</p>{''.join(blocks)}</main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p></footer></div></body></html>'''
+ schema=json.dumps({"@context":"https://schema.org","@type":"CollectionPage","name":"SkillrHub website sitemap","url":f"{BASE}/sitemap.html","description":"Browse SkillrHub learning resources by year level and subject."},separators=(",",":"))
+ doc=f'''<!DOCTYPE html>
+<html lang="en-AU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Learning Resources Sitemap | SkillrHub</title>
+<meta name="description" content="Browse SkillrHub learning resources by year level and subject, including curriculum guides, practice, tests and printable worksheets.">
+<meta name="robots" content="index,follow"><link rel="canonical" href="{BASE}/sitemap.html">
+<meta property="og:title" content="SkillrHub Learning Resources Sitemap"><meta property="og:description" content="Find Australian Curriculum learning resources from Foundation to Year 10."><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/sitemap.html">
+<link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{schema}</script></head>
+<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Learning resources sitemap</h1><p>Choose a year level or browse our main resource collections. Individual curriculum activities remain discoverable through each year and subject hub.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=6"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
  print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps and {len(pages)} canonical indexable URLs.")
 if __name__=="__main__":main()
