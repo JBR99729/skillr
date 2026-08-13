@@ -1,0 +1,80 @@
+name: Validate Year 4 Science pre-module notes
+
+on:
+  pull_request:
+    paths:
+      - "quiz/assets/year4-science-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/year-4/science/**/practice/index.html"
+      - "quiz/year-4/science/**/practice/questions.js"
+      - "quiz/year-4/science/**/test/index.html"
+      - "quiz/year-4/science/**/test/questions.js"
+      - "quiz/year-4/science/**/worksheet/**"
+      - "assets/year4-subject-data-base.js"
+      - "assets/year4-science-data.js"
+      - "assets/year4-science-topic-modules.js"
+      - "assets/year4-science-slide.js"
+      - "scripts/validate_pre_module_flow.mjs"
+      - "scripts/validate_year4_science_pre_module_flow.mjs"
+      - "scripts/validate_year4_science_pre_module_notes.mjs"
+      - "scripts/validate_year4_science_topic_modules.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/wire_year4_science_pre_module_notes.mjs"
+      - "service-worker.js"
+      - ".github/workflows/validate-year4-science-pre-module-notes.yml"
+  push:
+    branches: [main]
+    paths:
+      - "quiz/assets/year4-science-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/year-4/science/**/practice/index.html"
+      - "quiz/year-4/science/**/practice/questions.js"
+      - "quiz/year-4/science/**/test/index.html"
+      - "quiz/year-4/science/**/test/questions.js"
+      - "quiz/year-4/science/**/worksheet/**"
+      - "assets/year4-subject-data-base.js"
+      - "assets/year4-science-data.js"
+      - "assets/year4-science-topic-modules.js"
+      - "assets/year4-science-slide.js"
+      - "scripts/validate_pre_module_flow.mjs"
+      - "scripts/validate_year4_science_pre_module_flow.mjs"
+      - "scripts/validate_year4_science_pre_module_notes.mjs"
+      - "scripts/validate_year4_science_topic_modules.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/wire_year4_science_pre_module_notes.mjs"
+      - "service-worker.js"
+      - ".github/workflows/validate-year4-science-pre-module-notes.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check quiz/assets/year4-science-pre-module-notes.js
+          node --check scripts/validate_pre_module_flow.mjs
+          node --check scripts/validate_year4_science_pre_module_flow.mjs
+          node --check scripts/wire_year4_science_pre_module_notes.mjs
+          node --check service-worker.js
+
+      - name: Validate Year 4 Science notes and launch wiring
+        run: node scripts/validate_year4_science_pre_module_notes.mjs
+
+      - name: Exercise every mandatory Practice and Test launch in Chrome
+        run: node scripts/validate_year4_science_pre_module_flow.mjs
+
+      - name: Validate read-aloud and connected topic modules
+        run: |
+          node scripts/validate_curriculum_read_aloud.mjs
+          node scripts/validate_year4_science_topic_modules.mjs
