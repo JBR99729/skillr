@@ -28,6 +28,9 @@ jobs:
           python-version: '3.x'
       - name: Generate sitemap index and child sitemaps
         run: python3 scripts/generate_sitemap.py
+
+      - name: Validate public page indexability
+        run: python3 scripts/validate_seo_indexability.py
       - name: Validate XML
         run: |
           python3 - <<'PY'
@@ -40,7 +43,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add sitemap.xml sitemap-*.xml sitemap.html
+          git add sitemap.xml sitemap-*.xml sitemap.html assets/site-search-index.json
           if git diff --cached --quiet; then
             echo 'Sitemaps already current.'
           else
