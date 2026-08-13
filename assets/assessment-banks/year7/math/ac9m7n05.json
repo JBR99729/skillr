@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7N05-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 47.386 to the nearest whole number.",
+    "audio_prompt": "Round 47.386 to the nearest whole number.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "47",
+        "is_correct": true
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 47.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 47.386 to 1 decimal place.",
+    "audio_prompt": "Round 47.386 to 1 decimal place.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "47.5",
+        "is_correct": false
+      },
+      {
+        "text": "47.4",
+        "is_correct": true
+      },
+      {
+        "text": "47.3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 47.4.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 47.386 to 2 decimal places.",
+    "audio_prompt": "Round 47.386 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "47.38",
+        "is_correct": false
+      },
+      {
+        "text": "47.4",
+        "is_correct": false
+      },
+      {
+        "text": "47.39",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 47.39.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 8.746 to 1 decimal place.",
+    "audio_prompt": "Round 8.746 to 1 decimal place.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "8.7",
+        "is_correct": true
+      },
+      {
+        "text": "8.799999999999999",
+        "is_correct": false
+      },
+      {
+        "text": "8.6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 8.7.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 8.746 to 2 decimal places.",
+    "audio_prompt": "Round 8.746 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "8.76",
+        "is_correct": false
+      },
+      {
+        "text": "8.75",
+        "is_correct": true
+      },
+      {
+        "text": "8.74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 8.75.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 0.004768 to 3 decimal places.",
+    "audio_prompt": "Round 0.004768 to 3 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "0.004",
+        "is_correct": false
+      },
+      {
+        "text": "0.006",
+        "is_correct": false
+      },
+      {
+        "text": "0.005",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 0.005.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 12.995 to 2 decimal places.",
+    "audio_prompt": "Round 12.995 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "13.01",
+        "is_correct": false
+      },
+      {
+        "text": "12.99",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 13.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 306.449 to the nearest whole number.",
+    "audio_prompt": "Round 306.449 to the nearest whole number.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "307",
+        "is_correct": false
+      },
+      {
+        "text": "306",
+        "is_correct": true
+      },
+      {
+        "text": "305",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 306.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 306.449 to 1 decimal place.",
+    "audio_prompt": "Round 306.449 to 1 decimal place.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "306.29999999999995",
+        "is_correct": false
+      },
+      {
+        "text": "306.5",
+        "is_correct": false
+      },
+      {
+        "text": "306.4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 306.4.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 19.951 to 2 decimal places.",
+    "audio_prompt": "Round 19.951 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "19.95",
+        "is_correct": true
+      },
+      {
+        "text": "19.96",
+        "is_correct": false
+      },
+      {
+        "text": "19.939999999999998",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 19.95.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 2.675 to 2 decimal places.",
+    "audio_prompt": "Round 2.675 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "2.69",
+        "is_correct": false
+      },
+      {
+        "text": "2.68",
+        "is_correct": true
+      },
+      {
+        "text": "2.6700000000000004",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 2.68.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 0.0996 to 3 decimal places.",
+    "audio_prompt": "Round 0.0996 to 3 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "0.099",
+        "is_correct": false
+      },
+      {
+        "text": "0.101",
+        "is_correct": false
+      },
+      {
+        "text": "0.1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 0.1.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 784.51 to the nearest whole number.",
+    "audio_prompt": "Round 784.51 to the nearest whole number.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "785",
+        "is_correct": true
+      },
+      {
+        "text": "786",
+        "is_correct": false
+      },
+      {
+        "text": "784",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 785.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 65.0504 to 2 decimal places.",
+    "audio_prompt": "Round 65.0504 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "65.06",
+        "is_correct": false
+      },
+      {
+        "text": "65.05",
+        "is_correct": true
+      },
+      {
+        "text": "65.03999999999999",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 65.05.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 9.999 to 2 decimal places.",
+    "audio_prompt": "Round 9.999 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "9.99",
+        "is_correct": false
+      },
+      {
+        "text": "10.01",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 10.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 123.4567 to 3 decimal places.",
+    "audio_prompt": "Round 123.4567 to 3 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "123.457",
+        "is_correct": true
+      },
+      {
+        "text": "123.458",
+        "is_correct": false
+      },
+      {
+        "text": "123.45599999999999",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 123.457.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 5.444 to 2 decimal places.",
+    "audio_prompt": "Round 5.444 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "5.45",
+        "is_correct": false
+      },
+      {
+        "text": "5.44",
+        "is_correct": true
+      },
+      {
+        "text": "5.430000000000001",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 5.44.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 5.445 to 2 decimal places.",
+    "audio_prompt": "Round 5.445 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "5.44",
+        "is_correct": false
+      },
+      {
+        "text": "5.46",
+        "is_correct": false
+      },
+      {
+        "text": "5.45",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 5.45.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 0.8501 to 2 decimal places.",
+    "audio_prompt": "Round 0.8501 to 2 decimal places.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "0.85",
+        "is_correct": true
+      },
+      {
+        "text": "0.86",
+        "is_correct": false
+      },
+      {
+        "text": "0.84",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 0.85.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Round 99.949 to 1 decimal place.",
+    "audio_prompt": "Round 99.949 to 1 decimal place.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "99.9",
+        "is_correct": true
+      },
+      {
+        "text": "99.80000000000001",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 99.9.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 48.7 × 19.8?",
+    "audio_prompt": "Which is the best estimate of 48.7 × 19.8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "10000",
+        "is_correct": false
+      },
+      {
+        "text": "1000",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 1000.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 19.6 × 5.1?",
+    "audio_prompt": "Which is the best estimate of 19.6 × 5.1?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "100",
+        "is_correct": true
+      },
+      {
+        "text": "1000",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 100.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 203.4 × 9.8?",
+    "audio_prompt": "Which is the best estimate of 203.4 × 9.8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "20000",
+        "is_correct": false
+      },
+      {
+        "text": "2000",
+        "is_correct": true
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 2000.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "practice",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 6.02 × 49.7?",
+    "audio_prompt": "Which is the best estimate of 6.02 × 49.7?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "3000",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 300.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 398 × 21?",
+    "audio_prompt": "Which is the best estimate of 398 × 21?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "8000",
+        "is_correct": true
+      },
+      {
+        "text": "80000",
+        "is_correct": false
+      },
+      {
+        "text": "800",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 8000.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 0.49 × 198?",
+    "audio_prompt": "Which is the best estimate of 0.49 × 198?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "1000",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 100.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 82.1 × 3.9?",
+    "audio_prompt": "Which is the best estimate of 82.1 × 3.9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "3200",
+        "is_correct": false
+      },
+      {
+        "text": "320",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 320.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 149.8 × 0.21?",
+    "audio_prompt": "Which is the best estimate of 149.8 × 0.21?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 30.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 29.7 × 31.2?",
+    "audio_prompt": "Which is the best estimate of 29.7 × 31.2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "9000",
+        "is_correct": false
+      },
+      {
+        "text": "900",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 900.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 504 × 1.98?",
+    "audio_prompt": "Which is the best estimate of 504 × 1.98?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "10000",
+        "is_correct": false
+      },
+      {
+        "text": "1000",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 1000.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 7.91 × 12.2?",
+    "audio_prompt": "Which is the best estimate of 7.91 × 12.2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "96",
+        "is_correct": true
+      },
+      {
+        "text": "960",
+        "is_correct": false
+      },
+      {
+        "text": "9.6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 96.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "Which is the best estimate of 0.098 × 503?",
+    "audio_prompt": "Which is the best estimate of 0.098 × 503?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "500",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 50.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 6.2 to the nearest 0.1. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 6.2 to the nearest 0.1. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "x = 6.2 only",
+        "is_correct": false
+      },
+      {
+        "text": "6.15 > x < 6.25",
+        "is_correct": false
+      },
+      {
+        "text": "6.15 ≤ x < 6.25",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 4.36 to the nearest 0.01. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 4.36 to the nearest 0.01. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "4.355 ≤ x < 4.365",
+        "is_correct": true
+      },
+      {
+        "text": "4.355 > x < 4.365",
+        "is_correct": false
+      },
+      {
+        "text": "x = 4.36 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.005; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 18 to the nearest 1. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 18 to the nearest 1. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "17.5 > x < 18.5",
+        "is_correct": false
+      },
+      {
+        "text": "17.5 ≤ x < 18.5",
+        "is_correct": true
+      },
+      {
+        "text": "x = 18 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.5; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 2.7 to the nearest 0.1. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 2.7 to the nearest 0.1. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "x = 2.7 only",
+        "is_correct": false
+      },
+      {
+        "text": "2.65 > x < 2.75",
+        "is_correct": false
+      },
+      {
+        "text": "2.65 ≤ x < 2.75",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 0.84 to the nearest 0.01. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 0.84 to the nearest 0.01. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "0.835 ≤ x < 0.845",
+        "is_correct": true
+      },
+      {
+        "text": "0.835 > x < 0.845",
+        "is_correct": false
+      },
+      {
+        "text": "x = 0.84 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.005; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 125 to the nearest 1. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 125 to the nearest 1. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "124.5 > x < 125.5",
+        "is_correct": false
+      },
+      {
+        "text": "124.5 ≤ x < 125.5",
+        "is_correct": true
+      },
+      {
+        "text": "x = 125 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.5; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 9.8 to the nearest 0.1. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 9.8 to the nearest 0.1. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "x = 9.8 only",
+        "is_correct": false
+      },
+      {
+        "text": "9.75 > x < 9.85",
+        "is_correct": false
+      },
+      {
+        "text": "9.75 ≤ x < 9.85",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  },
+  {
+    "id": "AC9M7N05-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding_accuracy_and_reasonableness",
+    "question": "A value rounds to 3.05 to the nearest 0.01. Which bounds describe the original value x?",
+    "audio_prompt": "A value rounds to 3.05 to the nearest 0.01. Which bounds describe the original value x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      {
+        "text": "3.045 ≤ x < 3.055",
+        "is_correct": true
+      },
+      {
+        "text": "3.045 > x < 3.055",
+        "is_correct": false
+      },
+      {
+        "text": "x = 3.05 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Half of the rounding unit is 0.005; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    }
+  }
+]

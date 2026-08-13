@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7N07-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -7, -2, 0, 5 from smallest to largest.",
+    "audio_prompt": "Order -7, -2, 0, 5 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-7, -2, 0, 5",
+        "is_correct": true
+      },
+      {
+        "text": "5, 0, -2, -7",
+        "is_correct": false
+      },
+      {
+        "text": "0, -2, 5, -7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -7, -2, 0, 5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -1, -9, 4, 0 from smallest to largest.",
+    "audio_prompt": "Order -1, -9, 4, 0 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-1, -9, 4, 0",
+        "is_correct": false
+      },
+      {
+        "text": "-9, -1, 0, 4",
+        "is_correct": true
+      },
+      {
+        "text": "0, 4, -9, -1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -9, -1, 0, 4.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -12, -3, -8, 2 from smallest to largest.",
+    "audio_prompt": "Order -12, -3, -8, 2 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "2, -8, -3, -12",
+        "is_correct": false
+      },
+      {
+        "text": "-12, -3, -8, 2",
+        "is_correct": false
+      },
+      {
+        "text": "-12, -8, -3, 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -12, -8, -3, 2.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order 6, -6, 1, -1 from smallest to largest.",
+    "audio_prompt": "Order 6, -6, 1, -1 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-6, -1, 1, 6",
+        "is_correct": true
+      },
+      {
+        "text": "6, -6, 1, -1",
+        "is_correct": false
+      },
+      {
+        "text": "-1, 1, -6, 6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -6, -1, 1, 6.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -20, -2, -11, -5 from smallest to largest.",
+    "audio_prompt": "Order -20, -2, -11, -5 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-20, -2, -11, -5",
+        "is_correct": false
+      },
+      {
+        "text": "-20, -11, -5, -2",
+        "is_correct": true
+      },
+      {
+        "text": "-5, -11, -2, -20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -20, -11, -5, -2.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -4, 7, -9, 3 from smallest to largest.",
+    "audio_prompt": "Order -4, 7, -9, 3 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "3, -9, 7, -4",
+        "is_correct": false
+      },
+      {
+        "text": "-4, 7, -9, 3",
+        "is_correct": false
+      },
+      {
+        "text": "-9, -4, 3, 7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -9, -4, 3, 7.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order 0, -15, 5, -1 from smallest to largest.",
+    "audio_prompt": "Order 0, -15, 5, -1 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-15, -1, 0, 5",
+        "is_correct": true
+      },
+      {
+        "text": "0, -15, 5, -1",
+        "is_correct": false
+      },
+      {
+        "text": "-1, 5, -15, 0",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -15, -1, 0, 5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -100, -10, -1, 1 from smallest to largest.",
+    "audio_prompt": "Order -100, -10, -1, 1 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "1, -1, -10, -100",
+        "is_correct": false
+      },
+      {
+        "text": "-100, -10, -1, 1",
+        "is_correct": true
+      },
+      {
+        "text": "-1, 1, -10, -100",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -100, -10, -1, 1.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -6, -7, -5, -8 from smallest to largest.",
+    "audio_prompt": "Order -6, -7, -5, -8 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-8, -5, -7, -6",
+        "is_correct": false
+      },
+      {
+        "text": "-6, -7, -5, -8",
+        "is_correct": false
+      },
+      {
+        "text": "-8, -7, -6, -5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -8, -7, -6, -5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order 12, -12, 2, -2 from smallest to largest.",
+    "audio_prompt": "Order 12, -12, 2, -2 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-12, -2, 2, 12",
+        "is_correct": true
+      },
+      {
+        "text": "12, -12, 2, -2",
+        "is_correct": false
+      },
+      {
+        "text": "-2, 2, -12, 12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -12, -2, 2, 12.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -30, 0, -3, 30 from smallest to largest.",
+    "audio_prompt": "Order -30, 0, -3, 30 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-30, 0, -3, 30",
+        "is_correct": false
+      },
+      {
+        "text": "-30, -3, 0, 30",
+        "is_correct": true
+      },
+      {
+        "text": "30, -3, 0, -30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -30, -3, 0, 30.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Order -14, -4, -40, -1 from smallest to largest.",
+    "audio_prompt": "Order -14, -4, -40, -1 from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-1, -40, -4, -14",
+        "is_correct": false
+      },
+      {
+        "text": "-14, -4, -40, -1",
+        "is_correct": false
+      },
+      {
+        "text": "-40, -14, -4, -1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numbers farther left are smaller; the correct order is -40, -14, -4, -1.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -8 + (13).",
+    "audio_prompt": "Calculate -8 + (13).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "-21",
+        "is_correct": false
+      },
+      {
+        "text": "-5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine directed changes or move 13 right from -8; the result is 5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -12 + (7).",
+    "audio_prompt": "Calculate -12 + (7).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-19",
+        "is_correct": false
+      },
+      {
+        "text": "-5",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine directed changes or move 7 right from -12; the result is -5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -6 + (-9).",
+    "audio_prompt": "Calculate -6 + (-9).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine directed changes or move 9 left from -6; the result is -15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 14 + (-20).",
+    "audio_prompt": "Calculate 14 + (-20).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-6",
+        "is_correct": true
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine directed changes or move 20 left from 14; the result is -6.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -25 + (40).",
+    "audio_prompt": "Calculate -25 + (40).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-65",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "-15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine directed changes or move 40 right from -25; the result is 15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 18 + (-7).",
+    "audio_prompt": "Calculate 18 + (-7).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-11",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine directed changes or move 7 left from 18; the result is 11.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -30 + (12).",
+    "audio_prompt": "Calculate -30 + (12).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-18",
+        "is_correct": true
+      },
+      {
+        "text": "-42",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine directed changes or move 12 right from -30; the result is -18.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 9 + (-15).",
+    "audio_prompt": "Calculate 9 + (-15).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "-6",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine directed changes or move 15 left from 9; the result is -6.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -4 + (4).",
+    "audio_prompt": "Calculate -4 + (4).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "-8",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine directed changes or move 4 right from -4; the result is 0.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -17 + (22).",
+    "audio_prompt": "Calculate -17 + (22).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "-39",
+        "is_correct": false
+      },
+      {
+        "text": "-5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine directed changes or move 22 right from -17; the result is 5.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 35 + (-50).",
+    "audio_prompt": "Calculate 35 + (-50).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "85",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine directed changes or move 50 left from 35; the result is -15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "practice",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -100 + (65).",
+    "audio_prompt": "Calculate -100 + (65).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "-165",
+        "is_correct": false
+      },
+      {
+        "text": "-35",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine directed changes or move 65 right from -100; the result is -35.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 7 + (-3).",
+    "audio_prompt": "Calculate 7 + (-3).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "-4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combine directed changes or move 3 left from 7; the result is 4.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -11 + (19).",
+    "audio_prompt": "Calculate -11 + (19).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-30",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "-8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine directed changes or move 19 right from -11; the result is 8.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 6 - (-9).",
+    "audio_prompt": "Calculate 6 - (-9).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-15",
+        "is_correct": false
+      },
+      {
+        "text": "-3",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtracting -9 means adding its opposite; 6 - (-9) = 15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 5 - (-4).",
+    "audio_prompt": "Calculate 5 - (-4).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "-9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtracting -4 means adding its opposite; 5 - (-4) = 9.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -3 - (5).",
+    "audio_prompt": "Calculate -3 - (5).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "-8",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtracting 5 means adding its opposite; -3 - (5) = -8.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -8 - (-2).",
+    "audio_prompt": "Calculate -8 - (-2).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "-10",
+        "is_correct": false
+      },
+      {
+        "text": "-6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtracting -2 means adding its opposite; -8 - (-2) = -6.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 12 - (20).",
+    "audio_prompt": "Calculate 12 - (20).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-8",
+        "is_correct": true
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtracting 20 means adding its opposite; 12 - (20) = -8.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -15 - (-7).",
+    "audio_prompt": "Calculate -15 - (-7).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-22",
+        "is_correct": false
+      },
+      {
+        "text": "-8",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtracting -7 means adding its opposite; -15 - (-7) = -8.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 4 - (11).",
+    "audio_prompt": "Calculate 4 - (11).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "-7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtracting 11 means adding its opposite; 4 - (11) = -7.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -20 - (-5).",
+    "audio_prompt": "Calculate -20 - (-5).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "-15",
+        "is_correct": true
+      },
+      {
+        "text": "-25",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtracting -5 means adding its opposite; -20 - (-5) = -15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 30 - (45).",
+    "audio_prompt": "Calculate 30 - (45).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "75",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtracting 45 means adding its opposite; 30 - (45) = -15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -6 - (9).",
+    "audio_prompt": "Calculate -6 - (9).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtracting 9 means adding its opposite; -6 - (9) = -15.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 0 - (-13).",
+    "audio_prompt": "Calculate 0 - (-13).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "-13",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtracting -13 means adding its opposite; 0 - (-13) = 13.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 17 - (-8).",
+    "audio_prompt": "Calculate 17 - (-8).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": true
+      },
+      {
+        "text": "-25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtracting -8 means adding its opposite; 17 - (-8) = 25.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate -25 - (10).",
+    "audio_prompt": "Calculate -25 - (10).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": false
+      },
+      {
+        "text": "-35",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtracting 10 means adding its opposite; -25 - (10) = -35.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  },
+  {
+    "id": "AC9M7N07-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N07",
+    "bank": "test",
+    "skill": "comparing_adding_and_subtracting_integers",
+    "question": "Calculate 9 - (-12).",
+    "audio_prompt": "Calculate 9 - (-12).",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n07",
+      "alt_text": "Horizontal number line showing negative values, zero and positive values."
+    },
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": true
+      },
+      {
+        "text": "-3",
+        "is_correct": false
+      },
+      {
+        "text": "-21",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtracting -12 means adding its opposite; 9 - (-12) = 21.",
+      "hint": "Use direction and distance from zero; check the sign in the original context."
+    }
+  }
+]
