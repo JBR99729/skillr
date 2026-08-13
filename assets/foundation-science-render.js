@@ -66,6 +66,14 @@
   function render(){
     const code = codeFromPage();
     if (!code) return;
+    if (window.SkillrFoundationV11Renderer && window.SkillrFoundationCanonical) {
+      window.SkillrFoundationV11Renderer.renderTopic({
+        data: DATA,
+        order: ORDER,
+        config: { subject: "Science", pathSegment: "science", quizSubject: "science" }
+      });
+      return;
+    }
     const u = DATA[code];
     const hero = q(".curriculum-hero");
     const main = q("main.curriculum-layout");

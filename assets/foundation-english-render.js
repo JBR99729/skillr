@@ -37,6 +37,14 @@
   }
 
   function render() {
+    if (window.SkillrFoundationV11Renderer && window.SkillrFoundationCanonical) {
+      window.SkillrFoundationV11Renderer.renderTopic({
+        data: UNITS,
+        order: ORDER,
+        config: { subject: "English", pathSegment: "english", quizSubject: "english" }
+      });
+      return;
+    }
     ensureCss();
     const hero = q(".curriculum-hero");
     const main = q("main.curriculum-layout");
