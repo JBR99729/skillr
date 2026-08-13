@@ -65,7 +65,7 @@ AC9S8U01 is a valid Year 8 Science code but currently has a deliberately separat
 
 | Batch | Codes | Status | Validation | PR | Merge commit |
 | --- | ---: | --- | --- | --- | --- |
-| Year 7 Mathematics | 30 | Validated; PR pending | Structural/export 30/30 and semantic 30/30 PASS; 120 slides, 60 worked examples, 60 accessible visuals, 270 questions across 60 stable 5/4 sheet routes; desktop, projector, mobile and print-CSS QA PASS | Pending | Pending squash merge |
+| Year 7 Mathematics | 30 | Validated; merge pending | Structural/export 30/30 and semantic 30/30 PASS; 120 slides, 60 worked examples, 60 accessible visuals, 270 questions across 60 stable 5/4 sheet routes; desktop, projector, mobile and print-CSS QA PASS | [#191](https://github.com/JBR99729/skillr/pull/191) | Pending squash merge |
 | Year 7 English | 24 | Pending | Not started |  |  |
 | Year 7 Science | 18 | Pending | Not started |  |  |
 | Year 8 Mathematics | 27 | Pending | Baseline audit only |  |  |
