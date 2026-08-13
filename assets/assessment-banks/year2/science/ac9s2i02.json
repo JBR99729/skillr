@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S2I02-P-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "What should students do before using investigation materials?",
+    "audio_prompt": "What should students do before using investigation materials?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-001",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What should students do before using investigation materials?"
+    },
+    "answers": [
+      {
+        "text": "begin without reading",
+        "is_correct": false
+      },
+      {
+        "text": "taste every sample",
+        "is_correct": false
+      },
+      {
+        "text": "agree on steps and check safety",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Planning manages risks and keeps the test clear.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "What should a child do with an unknown substance?",
+    "audio_prompt": "What should a child do with an unknown substance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-002",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What should a child do with an unknown substance?"
+    },
+    "answers": [
+      {
+        "text": "do not taste it and follow teacher instructions",
+        "is_correct": true
+      },
+      {
+        "text": "smell it closely",
+        "is_correct": false
+      },
+      {
+        "text": "rub it in eyes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Unknown materials require cautious approved handling.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Two paper towels are tested with equal-sized sheets and the same water amount. What makes this a fair comparison?",
+    "audio_prompt": "Two paper towels are tested with equal-sized sheets and the same water amount. What makes this a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-003",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Two paper towels are tested with equal-sized sheets and the same water amount. What makes this a fair comparison?"
+    },
+    "answers": [
+      {
+        "text": "every part changes",
+        "is_correct": false
+      },
+      {
+        "text": "only the towel type changes",
+        "is_correct": true
+      },
+      {
+        "text": "the result is chosen first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A fair comparison changes one factor and keeps the others similar.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which order is sensible?",
+    "audio_prompt": "Which order is sensible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-004",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which order is sensible?"
+    },
+    "answers": [
+      {
+        "text": "test, guess, plan, run",
+        "is_correct": false
+      },
+      {
+        "text": "clean up, test, hide result",
+        "is_correct": false
+      },
+      {
+        "text": "plan, safety check, test, record, clean up",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A procedure follows a safe logical sequence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "What should happen after a small water spill?",
+    "audio_prompt": "What should happen after a small water spill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-005",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What should happen after a small water spill?"
+    },
+    "answers": [
+      {
+        "text": "tell an adult and wipe it safely",
+        "is_correct": true
+      },
+      {
+        "text": "run through it",
+        "is_correct": false
+      },
+      {
+        "text": "hide it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Managing spills prevents slips and other hazards.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "When should safety glasses be used?",
+    "audio_prompt": "When should safety glasses be used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-006",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When should safety glasses be used?"
+    },
+    "answers": [
+      {
+        "text": "only to look fashionable",
+        "is_correct": false
+      },
+      {
+        "text": "when the approved procedure identifies an eye risk",
+        "is_correct": true
+      },
+      {
+        "text": "when sleeping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Protection matches the identified risk.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "How should equipment be carried?",
+    "audio_prompt": "How should equipment be carried?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-007",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: How should equipment be carried?"
+    },
+    "answers": [
+      {
+        "text": "run with it",
+        "is_correct": false
+      },
+      {
+        "text": "throw it to a partner",
+        "is_correct": false
+      },
+      {
+        "text": "walk carefully using the agreed method",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Careful handling reduces harm.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Why wash hands after some investigations?",
+    "audio_prompt": "Why wash hands after some investigations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-008",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why wash hands after some investigations?"
+    },
+    "answers": [
+      {
+        "text": "to remove material residues",
+        "is_correct": true
+      },
+      {
+        "text": "to change the result",
+        "is_correct": false
+      },
+      {
+        "text": "to make hands colder only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clean-up is part of a safe procedure.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "In a water-temperature comparison, why use matching cups?",
+    "audio_prompt": "In a water-temperature comparison, why use matching cups?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-009",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: In a water-temperature comparison, why use matching cups?"
+    },
+    "answers": [
+      {
+        "text": "to change two factors",
+        "is_correct": false
+      },
+      {
+        "text": "to keep cup type the same",
+        "is_correct": true
+      },
+      {
+        "text": "to make the answer certain",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Similar containers improve fairness.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Why use the same amount of water in two absorption tests?",
+    "audio_prompt": "Why use the same amount of water in two absorption tests?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-010",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why use the same amount of water in two absorption tests?"
+    },
+    "answers": [
+      {
+        "text": "to stop absorption",
+        "is_correct": false
+      },
+      {
+        "text": "to create unequal conditions",
+        "is_correct": false
+      },
+      {
+        "text": "so material type is the main difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal amounts support a fair comparison.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which action is safe?",
+    "audio_prompt": "Which action is safe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-011",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which action is safe?"
+    },
+    "answers": [
+      {
+        "text": "use teacher-approved materials",
+        "is_correct": true
+      },
+      {
+        "text": "touch a hot plate",
+        "is_correct": false
+      },
+      {
+        "text": "taste soil",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Approved materials and actions reduce risk.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Two plants get different light and different water. Why is the test unclear?",
+    "audio_prompt": "Two plants get different light and different water. Why is the test unclear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-012",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Two plants get different light and different water. Why is the test unclear?"
+    },
+    "answers": [
+      {
+        "text": "plants cannot be observed",
+        "is_correct": false
+      },
+      {
+        "text": "two factors changed",
+        "is_correct": true
+      },
+      {
+        "text": "water is not material",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The result cannot be linked to one change.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Why write numbered steps?",
+    "audio_prompt": "Why write numbered steps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-013",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why write numbered steps?"
+    },
+    "answers": [
+      {
+        "text": "to hide the question",
+        "is_correct": false
+      },
+      {
+        "text": "to guarantee the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "so the procedure can be followed consistently",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear steps support safe repeatable action.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which step belongs at the end?",
+    "audio_prompt": "Which step belongs at the end?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-014",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which step belongs at the end?"
+    },
+    "answers": [
+      {
+        "text": "return equipment and clean the area",
+        "is_correct": true
+      },
+      {
+        "text": "taste leftovers",
+        "is_correct": false
+      },
+      {
+        "text": "leave spills",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Safe procedures include proper clean-up.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A cup has a cracked edge that could cut a hand. Why must the class replace it?",
+    "audio_prompt": "A cup has a cracked edge that could cut a hand. Why must the class replace it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-015",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: A cup has a cracked edge that could cut a hand. Why must the class replace it?"
+    },
+    "answers": [
+      {
+        "text": "it changes the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "it could cause harm",
+        "is_correct": true
+      },
+      {
+        "text": "it makes the table untidy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cracked edge is a risk because it could cause harm.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A cup has a cracked edge. What should a child do?",
+    "audio_prompt": "A cup has a cracked edge. What should a child do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-016",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: A cup has a cracked edge. What should a child do?"
+    },
+    "answers": [
+      {
+        "text": "hold the crack tightly",
+        "is_correct": false
+      },
+      {
+        "text": "hide it",
+        "is_correct": false
+      },
+      {
+        "text": "do not use it and tell the teacher",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Damaged equipment should be removed from use.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-017",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which water is suitable for a child investigation?",
+    "audio_prompt": "Which water is suitable for a child investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-017",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which water is suitable for a child investigation?"
+    },
+    "answers": [
+      {
+        "text": "teacher-approved safe-temperature water",
+        "is_correct": true
+      },
+      {
+        "text": "boiling water carried alone",
+        "is_correct": false
+      },
+      {
+        "text": "unknown hot liquid",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Temperature must be controlled for safety.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-018",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "How should an elastic band be tested?",
+    "audio_prompt": "How should an elastic band be tested?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-018",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: How should an elastic band be tested?"
+    },
+    "answers": [
+      {
+        "text": "stretch towards eyes",
+        "is_correct": false
+      },
+      {
+        "text": "pull gently away from faces",
+        "is_correct": true
+      },
+      {
+        "text": "snap it at someone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controlled gentle handling reduces injury risk.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-019",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "How should loud sound be investigated?",
+    "audio_prompt": "How should loud sound be investigated?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-019",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: How should loud sound be investigated?"
+    },
+    "answers": [
+      {
+        "text": "place ears beside speakers",
+        "is_correct": false
+      },
+      {
+        "text": "use maximum volume",
+        "is_correct": false
+      },
+      {
+        "text": "keep volume comfortable and protect hearing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sound tests must not risk hearing.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-020",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Before a shadow investigation outdoors, what should be checked?",
+    "audio_prompt": "Before a shadow investigation outdoors, what should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-020",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Before a shadow investigation outdoors, what should be checked?"
+    },
+    "answers": [
+      {
+        "text": "safe location and sun protection",
+        "is_correct": true
+      },
+      {
+        "text": "whether students can stare at the Sun",
+        "is_correct": false
+      },
+      {
+        "text": "how fast they can run",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Outdoor planning includes location and Sun safety.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-021",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "In a paper-towel test, what should stay the same?",
+    "audio_prompt": "In a paper-towel test, what should stay the same?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-021",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: In a paper-towel test, what should stay the same?"
+    },
+    "answers": [
+      {
+        "text": "paper type being compared",
+        "is_correct": false
+      },
+      {
+        "text": "water amount and sheet size",
+        "is_correct": true
+      },
+      {
+        "text": "every result",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controlled conditions make the comparison fair.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-022",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "In a ramp test, what could be the one changed factor?",
+    "audio_prompt": "In a ramp test, what could be the one changed factor?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-022",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: In a ramp test, what could be the one changed factor?"
+    },
+    "answers": [
+      {
+        "text": "car, surface and height together",
+        "is_correct": false
+      },
+      {
+        "text": "recording method each time",
+        "is_correct": false
+      },
+      {
+        "text": "ramp height",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing only ramp height isolates its effect.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-023",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "In an absorption test, what should be measured?",
+    "audio_prompt": "In an absorption test, what should be measured?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-023",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: In an absorption test, what should be measured?"
+    },
+    "answers": [
+      {
+        "text": "how much water each material absorbs",
+        "is_correct": true
+      },
+      {
+        "text": "the child's favourite",
+        "is_correct": false
+      },
+      {
+        "text": "the label colour only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The measurement answers the investigation question.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-P-024",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "practice",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Why repeat using the same procedure?",
+    "audio_prompt": "Why repeat using the same procedure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-024",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why repeat using the same procedure?"
+    },
+    "answers": [
+      {
+        "text": "to force a different answer",
+        "is_correct": false
+      },
+      {
+        "text": "to check whether a result is consistent",
+        "is_correct": true
+      },
+      {
+        "text": "to change conditions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent repetition strengthens evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "When should a child ask an adult?",
+    "audio_prompt": "When should a child ask an adult?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-001",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When should a child ask an adult?"
+    },
+    "answers": [
+      {
+        "text": "only after an accident",
+        "is_correct": false
+      },
+      {
+        "text": "never during science",
+        "is_correct": false
+      },
+      {
+        "text": "whenever a risk or instruction is unclear",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Questions prevent unsafe guessing.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “only after an accident”. Read the evidence in this question and choose the better answer: When should a child ask an adult?",
+    "audio_prompt": "A student answers “only after an accident”. Read the evidence in this question and choose the better answer: When should a child ask an adult?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-002",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When should a child ask an adult?"
+    },
+    "answers": [
+      {
+        "text": "whenever a risk or instruction is unclear",
+        "is_correct": true
+      },
+      {
+        "text": "only after an accident",
+        "is_correct": false
+      },
+      {
+        "text": "never during science",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Questions prevent unsafe guessing.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "What if a step differs from the agreed procedure?",
+    "audio_prompt": "What if a step differs from the agreed procedure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-003",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What if a step differs from the agreed procedure?"
+    },
+    "answers": [
+      {
+        "text": "continue secretly",
+        "is_correct": false
+      },
+      {
+        "text": "pause and check before continuing",
+        "is_correct": true
+      },
+      {
+        "text": "change all steps",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Unexpected changes require review.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “continue secretly”. Read the evidence in this question and choose the better answer: What if a step differs from the agreed procedure?",
+    "audio_prompt": "A student answers “continue secretly”. Read the evidence in this question and choose the better answer: What if a step differs from the agreed procedure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-004",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What if a step differs from the agreed procedure?"
+    },
+    "answers": [
+      {
+        "text": "continue secretly",
+        "is_correct": false
+      },
+      {
+        "text": "change all steps",
+        "is_correct": false
+      },
+      {
+        "text": "pause and check before continuing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Unexpected changes require review.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "When using a tablet to record results, what is safe?",
+    "audio_prompt": "When using a tablet to record results, what is safe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-005",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When using a tablet to record results, what is safe?"
+    },
+    "answers": [
+      {
+        "text": "keep it away from water and follow device rules",
+        "is_correct": true
+      },
+      {
+        "text": "place it in a spill",
+        "is_correct": false
+      },
+      {
+        "text": "carry it while running",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equipment-specific care prevents damage and harm.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “place it in a spill”. Read the evidence in this question and choose the better answer: When using a tablet to record results, what is safe?",
+    "audio_prompt": "A student answers “place it in a spill”. Read the evidence in this question and choose the better answer: When using a tablet to record results, what is safe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-006",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When using a tablet to record results, what is safe?"
+    },
+    "answers": [
+      {
+        "text": "place it in a spill",
+        "is_correct": false
+      },
+      {
+        "text": "keep it away from water and follow device rules",
+        "is_correct": true
+      },
+      {
+        "text": "carry it while running",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equipment-specific care prevents damage and harm.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Why label cups A and B?",
+    "audio_prompt": "Why label cups A and B?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-007",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why label cups A and B?"
+    },
+    "answers": [
+      {
+        "text": "to change the materials",
+        "is_correct": false
+      },
+      {
+        "text": "to make one cup win",
+        "is_correct": false
+      },
+      {
+        "text": "to prevent mixing up results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Labels connect observations to the correct sample.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “to change the materials”. Read the evidence in this question and choose the better answer: Why label cups A and B?",
+    "audio_prompt": "A student answers “to change the materials”. Read the evidence in this question and choose the better answer: Why label cups A and B?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-008",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Why label cups A and B?"
+    },
+    "answers": [
+      {
+        "text": "to prevent mixing up results",
+        "is_correct": true
+      },
+      {
+        "text": "to change the materials",
+        "is_correct": false
+      },
+      {
+        "text": "to make one cup win",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Labels connect observations to the correct sample.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "How does a procedure test a prediction?",
+    "audio_prompt": "How does a procedure test a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-009",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: How does a procedure test a prediction?"
+    },
+    "answers": [
+      {
+        "text": "it makes the prediction true",
+        "is_correct": false
+      },
+      {
+        "text": "it collects evidence about the expected outcome",
+        "is_correct": true
+      },
+      {
+        "text": "it replaces observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The investigation supplies evidence for comparison.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “it makes the prediction true”. Read the evidence in this question and choose the better answer: How does a procedure test a prediction?",
+    "audio_prompt": "A student answers “it makes the prediction true”. Read the evidence in this question and choose the better answer: How does a procedure test a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-010",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: How does a procedure test a prediction?"
+    },
+    "answers": [
+      {
+        "text": "it makes the prediction true",
+        "is_correct": false
+      },
+      {
+        "text": "it replaces observations",
+        "is_correct": false
+      },
+      {
+        "text": "it collects evidence about the expected outcome",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The investigation supplies evidence for comparison.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which plan is fairer?",
+    "audio_prompt": "Which plan is fairer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-011",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which plan is fairer?"
+    },
+    "answers": [
+      {
+        "text": "same ball and surface, different ramp height",
+        "is_correct": true
+      },
+      {
+        "text": "different ball, surface and height",
+        "is_correct": false
+      },
+      {
+        "text": "no measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only one main factor changes.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “different ball, surface and height”. Read the evidence in this question and choose the better answer: Which plan is fairer?",
+    "audio_prompt": "A student answers “different ball, surface and height”. Read the evidence in this question and choose the better answer: Which plan is fairer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-012",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which plan is fairer?"
+    },
+    "answers": [
+      {
+        "text": "different ball, surface and height",
+        "is_correct": false
+      },
+      {
+        "text": "same ball and surface, different ramp height",
+        "is_correct": true
+      },
+      {
+        "text": "no measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only one main factor changes.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A card says, ‘Wear safety glasses for this step.’ What should the class do?",
+    "audio_prompt": "A card says, ‘Wear safety glasses for this step.’ What should the class do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-013",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: A card says, ‘Wear safety glasses for this step.’ What should the class do?"
+    },
+    "answers": [
+      {
+        "text": "ignore the card",
+        "is_correct": false
+      },
+      {
+        "text": "rush the step",
+        "is_correct": false
+      },
+      {
+        "text": "wear the glasses for that step",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A safety reminder tells students which protective action to follow.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “ignore the card”. Read the evidence in this question and choose the better answer: A card says, ‘Wear safety glasses for this step.’ What should the class do?",
+    "audio_prompt": "A student answers “ignore the card”. Read the evidence in this question and choose the better answer: A card says, ‘Wear safety glasses for this step.’ What should the class do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-014",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: A card says, ‘Wear safety glasses for this step.’ What should the class do?"
+    },
+    "answers": [
+      {
+        "text": "wear the glasses for that step",
+        "is_correct": true
+      },
+      {
+        "text": "ignore the card",
+        "is_correct": false
+      },
+      {
+        "text": "rush the step",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A safety reminder tells students which protective action to follow.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "Which statement is best?",
+    "audio_prompt": "Which statement is best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-015",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which statement is best?"
+    },
+    "answers": [
+      {
+        "text": "fair results excuse unsafe actions",
+        "is_correct": false
+      },
+      {
+        "text": "good science is both safe and fair",
+        "is_correct": true
+      },
+      {
+        "text": "safety means no recording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reliable investigations protect people and control conditions.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I02-T-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I02",
+    "bank": "test",
+    "skill": "plan_safe_fair_investigations",
+    "question": "A student answers “fair results excuse unsafe actions”. Read the evidence in this question and choose the better answer: Which statement is best?",
+    "audio_prompt": "A student answers “fair results excuse unsafe actions”. Read the evidence in this question and choose the better answer: Which statement is best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-016",
+      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which statement is best?"
+    },
+    "answers": [
+      {
+        "text": "fair results excuse unsafe actions",
+        "is_correct": false
+      },
+      {
+        "text": "safety means no recording",
+        "is_correct": false
+      },
+      {
+        "text": "good science is both safe and fair",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reliable investigations protect people and control conditions.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  }
+]

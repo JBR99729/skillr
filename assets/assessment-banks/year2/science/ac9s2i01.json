@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S2I01-P-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question can be tested by observing?",
+    "audio_prompt": "Which question can be tested by observing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-001",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question can be tested by observing?"
+    },
+    "answers": [
+      {
+        "text": "Which towel is nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Which paper towel absorbs most water?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is everything interesting?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The amount absorbed can be compared.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Two ice cubes melt at different speeds. Which question follows?",
+    "audio_prompt": "Two ice cubes melt at different speeds. Which question follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-002",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Two ice cubes melt at different speeds. Which question follows?"
+    },
+    "answers": [
+      {
+        "text": "Which cube is happier?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is ice the best?",
+        "is_correct": false
+      },
+      {
+        "text": "Does location affect melting time?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question explores an observable relationship.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which is a scientific prediction?",
+    "audio_prompt": "Which is a scientific prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-003",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which is a scientific prediction?"
+    },
+    "answers": [
+      {
+        "text": "The sunny ice will melt first because warmth melted ice before",
+        "is_correct": true
+      },
+      {
+        "text": "The sunny ice will win",
+        "is_correct": false
+      },
+      {
+        "text": "I like the sunny cup",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A prediction includes an expected outcome and evidence-based reason.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question explores a shadow pattern?",
+    "audio_prompt": "Which question explores a shadow pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-004",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question explores a shadow pattern?"
+    },
+    "answers": [
+      {
+        "text": "Are shadows friendly?",
+        "is_correct": false
+      },
+      {
+        "text": "How does shadow length change during the day?",
+        "is_correct": true
+      },
+      {
+        "text": "Which shadow is prettiest?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Length can be observed at different times.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question is investigable?",
+    "audio_prompt": "Which question is investigable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-005",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is investigable?"
+    },
+    "answers": [
+      {
+        "text": "Is this the best plant?",
+        "is_correct": false
+      },
+      {
+        "text": "Does the plant like music?",
+        "is_correct": false
+      },
+      {
+        "text": "Does a seedling lean towards light?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Direction can be observed and recorded.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question can a class safely test?",
+    "audio_prompt": "Which question can a class safely test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-006",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question can a class safely test?"
+    },
+    "answers": [
+      {
+        "text": "Does a stronger drum tap make a louder sound?",
+        "is_correct": true
+      },
+      {
+        "text": "Is music good?",
+        "is_correct": false
+      },
+      {
+        "text": "Which sound is beautiful?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tap strength and loudness can be compared.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Why use past experience in a prediction?",
+    "audio_prompt": "Why use past experience in a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-007",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why use past experience in a prediction?"
+    },
+    "answers": [
+      {
+        "text": "it guarantees the result",
+        "is_correct": false
+      },
+      {
+        "text": "it gives a reason for what may happen",
+        "is_correct": true
+      },
+      {
+        "text": "it replaces observation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Experience provides relevant prior evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which statement is a result?",
+    "audio_prompt": "Which statement is a result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-008",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which statement is a result?"
+    },
+    "answers": [
+      {
+        "text": "I think it will melt first",
+        "is_correct": false
+      },
+      {
+        "text": "It may melt because it is warm",
+        "is_correct": false
+      },
+      {
+        "text": "The ice melted in six minutes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A result reports what was observed after testing.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which wording explores a relationship?",
+    "audio_prompt": "Which wording explores a relationship?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-009",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which wording explores a relationship?"
+    },
+    "answers": [
+      {
+        "text": "What happens to drying time when airflow increases?",
+        "is_correct": true
+      },
+      {
+        "text": "What colour is the cloth?",
+        "is_correct": false
+      },
+      {
+        "text": "Is drying fun?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It connects one changing factor with an outcome.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Why should a scientific question not give the answer first?",
+    "audio_prompt": "Why should a scientific question not give the answer first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-010",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why should a scientific question not give the answer first?"
+    },
+    "answers": [
+      {
+        "text": "the answer should always be hidden",
+        "is_correct": false
+      },
+      {
+        "text": "evidence must be collected before deciding",
+        "is_correct": true
+      },
+      {
+        "text": "questions never have answers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An open question allows evidence to decide.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question identifies what will be compared?",
+    "audio_prompt": "Which question identifies what will be compared?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-011",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question identifies what will be compared?"
+    },
+    "answers": [
+      {
+        "text": "Is soil nice?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is dirt brown?",
+        "is_correct": false
+      },
+      {
+        "text": "Which of two soils drains water faster?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The two soils and drainage outcome are clear.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "A plant leaned towards a window three times. What is reasonable?",
+    "audio_prompt": "A plant leaned towards a window three times. What is reasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-012",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A plant leaned towards a window three times. What is reasonable?"
+    },
+    "answers": [
+      {
+        "text": "It may lean towards the window again",
+        "is_correct": true
+      },
+      {
+        "text": "It must turn into glass",
+        "is_correct": false
+      },
+      {
+        "text": "It will avoid all light",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated observation supports a prediction.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which is an observation?",
+    "audio_prompt": "Which is an observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-013",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which is an observation?"
+    },
+    "answers": [
+      {
+        "text": "The puddle wants to leave",
+        "is_correct": false
+      },
+      {
+        "text": "The puddle is smaller after one hour",
+        "is_correct": true
+      },
+      {
+        "text": "Rain is sad",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Size change can be directly noticed.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which sentence is a scientific question?",
+    "audio_prompt": "Which sentence is a scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-014",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which sentence is a scientific question?"
+    },
+    "answers": [
+      {
+        "text": "Warm water dried first.",
+        "is_correct": false
+      },
+      {
+        "text": "Warm water is best.",
+        "is_correct": false
+      },
+      {
+        "text": "Does warm water dry faster than cool water?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sentence asks something testable.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question changes one clear factor?",
+    "audio_prompt": "Which question changes one clear factor?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-015",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question changes one clear factor?"
+    },
+    "answers": [
+      {
+        "text": "Does ramp height change toy-car distance?",
+        "is_correct": true
+      },
+      {
+        "text": "What happens if everything changes?",
+        "is_correct": false
+      },
+      {
+        "text": "Which car is coolest?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ramp height is the factor being changed.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Thick cloth absorbed more water twice. What prediction fits?",
+    "audio_prompt": "Thick cloth absorbed more water twice. What prediction fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-016",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Thick cloth absorbed more water twice. What prediction fits?"
+    },
+    "answers": [
+      {
+        "text": "all cloth is identical",
+        "is_correct": false
+      },
+      {
+        "text": "The thick cloth may absorb more again",
+        "is_correct": true
+      },
+      {
+        "text": "water will become cloth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Previous results support a cautious prediction.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-017",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "How can ‘What about paper?’ be improved?",
+    "audio_prompt": "How can ‘What about paper?’ be improved?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-017",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: How can ‘What about paper?’ be improved?"
+    },
+    "answers": [
+      {
+        "text": "Is paper good?",
+        "is_correct": false
+      },
+      {
+        "text": "Why paper?",
+        "is_correct": false
+      },
+      {
+        "text": "Which paper type tears most easily when wet?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The improved question states a comparison and observable result.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-018",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "A ball rolls farther down a steeper ramp. What question follows?",
+    "audio_prompt": "A ball rolls farther down a steeper ramp. What question follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-018",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A ball rolls farther down a steeper ramp. What question follows?"
+    },
+    "answers": [
+      {
+        "text": "How does ramp steepness affect distance?",
+        "is_correct": true
+      },
+      {
+        "text": "Is the ball happy?",
+        "is_correct": false
+      },
+      {
+        "text": "Which ramp looks best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question explores the observed relationship.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-019",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which sentence correctly uses a prediction frame?",
+    "audio_prompt": "Which sentence correctly uses a prediction frame?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-019",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which sentence correctly uses a prediction frame?"
+    },
+    "answers": [
+      {
+        "text": "I observed tomorrow already",
+        "is_correct": false
+      },
+      {
+        "text": "I predict the dark cloth will warm more because it did before",
+        "is_correct": true
+      },
+      {
+        "text": "I know without evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It states outcome and reason.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-020",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Why use ‘may’ in a prediction?",
+    "audio_prompt": "Why use ‘may’ in a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-020",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why use ‘may’ in a prediction?"
+    },
+    "answers": [
+      {
+        "text": "science never expects anything",
+        "is_correct": false
+      },
+      {
+        "text": "may means the test is finished",
+        "is_correct": false
+      },
+      {
+        "text": "the outcome is not known until tested",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Predictions are informed expectations, not results.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-021",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question is suitable for a Year 2 safe investigation?",
+    "audio_prompt": "Which question is suitable for a Year 2 safe investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-021",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is suitable for a Year 2 safe investigation?"
+    },
+    "answers": [
+      {
+        "text": "Which approved fabric stretches most with a gentle pull?",
+        "is_correct": true
+      },
+      {
+        "text": "What happens if we taste chemicals?",
+        "is_correct": false
+      },
+      {
+        "text": "How hot can we touch metal?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fabric test can follow safe procedures.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-022",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which outcome can be observed?",
+    "audio_prompt": "Which outcome can be observed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-022",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which outcome can be observed?"
+    },
+    "answers": [
+      {
+        "text": "how kind a sponge feels",
+        "is_correct": false
+      },
+      {
+        "text": "number of drops absorbed",
+        "is_correct": true
+      },
+      {
+        "text": "the sponge's thoughts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Drops can be counted.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-023",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question invites measurement?",
+    "audio_prompt": "Which question invites measurement?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-023",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question invites measurement?"
+    },
+    "answers": [
+      {
+        "text": "Is the shadow nice?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is the Sun happy?",
+        "is_correct": false
+      },
+      {
+        "text": "How many blocks long is each shadow?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Informal blocks can measure length.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-P-024",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "practice",
+    "skill": "pose_questions_and_predict",
+    "question": "Two children predict differently. What should they do?",
+    "audio_prompt": "Two children predict differently. What should they do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-024",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Two children predict differently. What should they do?"
+    },
+    "answers": [
+      {
+        "text": "give reasons and then test",
+        "is_correct": true
+      },
+      {
+        "text": "choose the louder child",
+        "is_correct": false
+      },
+      {
+        "text": "erase both ideas",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different experiences can lead to testable predictions.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "What normally comes after posing a question?",
+    "audio_prompt": "What normally comes after posing a question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-001",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?"
+    },
+    "answers": [
+      {
+        "text": "write the result before testing",
+        "is_correct": false
+      },
+      {
+        "text": "make a reasoned prediction",
+        "is_correct": true
+      },
+      {
+        "text": "change every factor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction states the expected outcome before investigation.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “write the result before testing”. Read the evidence in this question and choose the better answer: What normally comes after posing a question?",
+    "audio_prompt": "A student answers “write the result before testing”. Read the evidence in this question and choose the better answer: What normally comes after posing a question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-002",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?"
+    },
+    "answers": [
+      {
+        "text": "write the result before testing",
+        "is_correct": false
+      },
+      {
+        "text": "change every factor",
+        "is_correct": false
+      },
+      {
+        "text": "make a reasoned prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction states the expected outcome before investigation.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "Which reason is strongest?",
+    "audio_prompt": "Which reason is strongest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-003",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?"
+    },
+    "answers": [
+      {
+        "text": "I observed the same pattern on three days",
+        "is_correct": true
+      },
+      {
+        "text": "I chose randomly",
+        "is_correct": false
+      },
+      {
+        "text": "my friend likes it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated relevant observation is evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “I chose randomly”. Read the evidence in this question and choose the better answer: Which reason is strongest?",
+    "audio_prompt": "A student answers “I chose randomly”. Read the evidence in this question and choose the better answer: Which reason is strongest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-004",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?"
+    },
+    "answers": [
+      {
+        "text": "I chose randomly",
+        "is_correct": false
+      },
+      {
+        "text": "I observed the same pattern on three days",
+        "is_correct": true
+      },
+      {
+        "text": "my friend likes it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated relevant observation is evidence.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "Which question is focused enough?",
+    "audio_prompt": "Which question is focused enough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-005",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?"
+    },
+    "answers": [
+      {
+        "text": "How does everything affect everything?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is science?",
+        "is_correct": false
+      },
+      {
+        "text": "Does cup material affect how quickly ice melts?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It names one factor and one outcome.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “How does everything affect everything?”. Read the evidence in this question and choose the better answer: Which question is focused enough?",
+    "audio_prompt": "A student answers “How does everything affect everything?”. Read the evidence in this question and choose the better answer: Which question is focused enough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-006",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?"
+    },
+    "answers": [
+      {
+        "text": "Does cup material affect how quickly ice melts?",
+        "is_correct": true
+      },
+      {
+        "text": "How does everything affect everything?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is science?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It names one factor and one outcome.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A pattern does not always prove cause. What should students do?",
+    "audio_prompt": "A pattern does not always prove cause. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-007",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?"
+    },
+    "answers": [
+      {
+        "text": "announce cause immediately",
+        "is_correct": false
+      },
+      {
+        "text": "test the relationship fairly",
+        "is_correct": true
+      },
+      {
+        "text": "ignore observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A fair investigation checks the proposed relationship.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “announce cause immediately”. Read the evidence in this question and choose the better answer: A pattern does not always prove cause. What should students do?",
+    "audio_prompt": "A student answers “announce cause immediately”. Read the evidence in this question and choose the better answer: A pattern does not always prove cause. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-008",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?"
+    },
+    "answers": [
+      {
+        "text": "announce cause immediately",
+        "is_correct": false
+      },
+      {
+        "text": "ignore observations",
+        "is_correct": false
+      },
+      {
+        "text": "test the relationship fairly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A fair investigation checks the proposed relationship.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "Why write a prediction before testing?",
+    "audio_prompt": "Why write a prediction before testing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-009",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?"
+    },
+    "answers": [
+      {
+        "text": "so it can be compared with the result",
+        "is_correct": true
+      },
+      {
+        "text": "so it can be changed later",
+        "is_correct": false
+      },
+      {
+        "text": "to avoid observing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A written prediction supports honest comparison.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “so it can be changed later”. Read the evidence in this question and choose the better answer: Why write a prediction before testing?",
+    "audio_prompt": "A student answers “so it can be changed later”. Read the evidence in this question and choose the better answer: Why write a prediction before testing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-010",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?"
+    },
+    "answers": [
+      {
+        "text": "so it can be changed later",
+        "is_correct": false
+      },
+      {
+        "text": "so it can be compared with the result",
+        "is_correct": true
+      },
+      {
+        "text": "to avoid observing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A written prediction supports honest comparison.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A test gives an unexpected result. What can happen next?",
+    "audio_prompt": "A test gives an unexpected result. What can happen next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-011",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?"
+    },
+    "answers": [
+      {
+        "text": "hide the result",
+        "is_correct": false
+      },
+      {
+        "text": "change it to match",
+        "is_correct": false
+      },
+      {
+        "text": "pose a new question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Unexpected evidence can lead to further inquiry.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “hide the result”. Read the evidence in this question and choose the better answer: A test gives an unexpected result. What can happen next?",
+    "audio_prompt": "A student answers “hide the result”. Read the evidence in this question and choose the better answer: A test gives an unexpected result. What can happen next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-012",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?"
+    },
+    "answers": [
+      {
+        "text": "pose a new question",
+        "is_correct": true
+      },
+      {
+        "text": "hide the result",
+        "is_correct": false
+      },
+      {
+        "text": "change it to match",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Unexpected evidence can lead to further inquiry.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
+    "audio_prompt": "The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-013",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?"
+    },
+    "answers": [
+      {
+        "text": "Which towel is the happiest?",
+        "is_correct": false
+      },
+      {
+        "text": "Which towel absorbs more water?",
+        "is_correct": true
+      },
+      {
+        "text": "Which towel has the best name?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How much water each towel absorbs can be observed and compared.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “Which towel is the happiest?”. Read the evidence in this question and choose the better answer: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
+    "audio_prompt": "A student answers “Which towel is the happiest?”. Read the evidence in this question and choose the better answer: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-014",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?"
+    },
+    "answers": [
+      {
+        "text": "Which towel is the happiest?",
+        "is_correct": false
+      },
+      {
+        "text": "Which towel has the best name?",
+        "is_correct": false
+      },
+      {
+        "text": "Which towel absorbs more water?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How much water each towel absorbs can be observed and compared.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "Before testing two ramps, which sentence is a reasoned prediction?",
+    "audio_prompt": "Before testing two ramps, which sentence is a reasoned prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-015",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?"
+    },
+    "answers": [
+      {
+        "text": "The higher ramp may make the car roll farther because it did last time",
+        "is_correct": true
+      },
+      {
+        "text": "The car rolled 2 metres",
+        "is_correct": false
+      },
+      {
+        "text": "The blue car is my favourite",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A prediction states what may happen and gives a reason before testing.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I01-T-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I01",
+    "bank": "test",
+    "skill": "pose_questions_and_predict",
+    "question": "A student answers “The car rolled 2 metres”. Read the evidence in this question and choose the better answer: Before testing two ramps, which sentence is a reasoned prediction?",
+    "audio_prompt": "A student answers “The car rolled 2 metres”. Read the evidence in this question and choose the better answer: Before testing two ramps, which sentence is a reasoned prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-016",
+      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?"
+    },
+    "answers": [
+      {
+        "text": "The car rolled 2 metres",
+        "is_correct": false
+      },
+      {
+        "text": "The higher ramp may make the car roll farther because it did last time",
+        "is_correct": true
+      },
+      {
+        "text": "The blue car is my favourite",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction states what may happen and gives a reason before testing.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  }
+]
