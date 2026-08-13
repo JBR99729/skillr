@@ -5520,4 +5520,20 @@
   for(const [skill,questions] of Object.entries(remainingExtensions)){
     extensions.F.science[skill]=[...(extensions.F.science[skill]||[]),...questions];
   }
+  for(const questions of Object.values(extensions.F.science)){
+    const promptCounts=new Map();
+    for(const item of questions){
+      const occurrence=(promptCounts.get(item.question)||0)+1;
+      promptCounts.set(item.question,occurrence);
+      if(occurrence>1) item.question=`In investigation ${Number(item.set||0)+1}, `+item.question.charAt(0).toLowerCase()+item.question.slice(1);
+      item.audioPrompt=item.question;
+      item.hint=item.hint||({
+        single:"Look closely at the evidence, then compare every choice.",
+        multiple:"Check each choice because more than one can match the evidence.",
+        order:"Think about what should happen first, next and last.",
+        number:"Count or measure carefully, then enter only the number.",
+        text:"Use the science word that names the observed idea."
+      }[item.type]||"Use what you can observe and what you know.");
+    }
+  }
 })();

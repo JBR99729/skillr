@@ -284,6 +284,15 @@
   const registry = window.SkillrDailyQuestionExtensions || {};
   registry[year] = registry[year] || {};
   registry[year][subject] = registry[year][subject] || {};
-  registry[year][subject][skill] = questions;
+  registry[year][subject][skill] = questions.map(item=>({
+    ...item,
+    audioPrompt:item.audioPrompt||item.question,
+    hint:item.hint||({
+      single:"Choose an efficient method, then compare every option with your result.",
+      multiple:"Test each option separately because more than one can be correct.",
+      number:"Estimate first, calculate carefully, then enter only the number.",
+      order:"Find each value before arranging the items."
+    }[item.type]||"Use a known fact or model, then check that the result is reasonable.")
+  }));
   window.SkillrDailyQuestionExtensions = registry;
 })();

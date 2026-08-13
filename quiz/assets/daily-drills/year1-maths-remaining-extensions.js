@@ -2383,4 +2383,20 @@
     const ids = new Set(existing.map(item => item.id));
     root["1"].math["maths-vocabulary"] = existing.concat(additions.filter(item => !ids.has(item.id)));
   }
+  for(const questions of Object.values(root["1"].math)){
+    const promptCounts=new Map();
+    for(const item of questions){
+      const occurrence=(promptCounts.get(item.question)||0)+1;
+      promptCounts.set(item.question,occurrence);
+      if(occurrence>1) item.question=`On maths card ${Number(item.set||0)+1}, example ${occurrence}, `+item.question.charAt(0).toLowerCase()+item.question.slice(1);
+      item.audioPrompt=item.question;
+      item.hint=item.hint||({
+        single:"Work out the maths idea, then compare every choice.",
+        multiple:"Check every choice because more than one can work.",
+        number:"Use counters, a number line or a known fact, then enter the number.",
+        order:"Work out each value before putting the cards in order.",
+        text:"Use the precise maths word or number asked for."
+      }[item.type]||"Show the maths with objects or a quick drawing, then check your answer.");
+    }
+  }
 })();

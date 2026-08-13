@@ -45,6 +45,29 @@ for (const item of visualItems) {
 if (runtimeItems.length !== sourceItems.length) problems.push("Generated runtime item count mismatch");
 if (new Set(runtimeItems.map((item) => item.id)).size !== runtimeItems.length) problems.push("Runtime IDs are not unique");
 
+const runtimeById = new Map(runtimeItems.map((item) => [item.id, item]));
+for (const topic of source.topics) {
+  const prompts = new Set();
+  const positions = [0, 0, 0];
+  for (const item of topic.items) {
+    if (!item.question || item.audio_prompt !== item.question) problems.push(`${item.id} has missing or mismatched audio`);
+    if (!item.explanation?.hint?.trim()) problems.push(`${item.id} has no useful hint`);
+    if (prompts.has(item.question)) problems.push(`${topic.slug} repeats prompt: ${item.question}`);
+    prompts.add(item.question);
+    if (item.type === "single") {
+      if (![3, 4].includes(item.answers?.length)) problems.push(`${item.id} has unsupported single-choice count`);
+      const marked = item.answers.filter((answer) => answer?.is_correct);
+      if (marked.length !== 1 || !item.answers[item.correct_index]?.is_correct) problems.push(`${item.id} has an inconsistent answer key`);
+      if (item.answers.length === 3) positions[item.correct_index] += 1;
+    }
+    const runtime = runtimeById.get(item.id);
+    if (!runtime || runtime.question !== item.question || runtime.audioPrompt !== item.audio_prompt) {
+      problems.push(`${item.id} source/runtime prompt parity failed`);
+    }
+  }
+  if (Math.max(...positions) - Math.min(...positions) > 1) problems.push(`${topic.slug} has unbalanced three-choice keys: ${positions.join("/")}`);
+}
+
 for (const topic of source.topics) {
   const page = fs.readFileSync(
     path.join(ROOT, `quiz/grade-k/daily-drills/math/${topic.slug}/index.html`),
