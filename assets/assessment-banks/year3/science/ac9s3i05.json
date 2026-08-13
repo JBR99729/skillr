@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S3I05-P-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, group A recorded 6 min and Group B recorded 8 min for ice melting. What should students do first?",
+    "audio_prompt": "After the melting test, group A recorded 6 min and Group B recorded 8 min for ice melting. What should students do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-001",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [[\"Group A\",\"6 min\"],[\"Group B\",\"8 min\"]]"
+    },
+    "answers": [
+      {
+        "text": "Compare the methods and all recorded results",
+        "is_correct": true
+      },
+      {
+        "text": "Decide one group must be wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the preferred value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Comparing findings includes checking both results and how they were obtained.",
+      "hint": "Look for method differences or normal variation before judging."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, which feature best supports a fair comparison?",
+    "audio_prompt": "After the melting test, which feature best supports a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-002",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"one changed factor\",\"same controls\",\"same units\"]"
+    },
+    "answers": [
+      {
+        "text": "Each group changes several factors",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups keep relevant conditions the same",
+        "is_correct": true
+      },
+      {
+        "text": "Each group uses a different unit without converting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controls make results meaningfully comparable.",
+      "hint": "Check whether only the tested factor differs."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, which conclusion is appropriately cautious?",
+    "audio_prompt": "After the melting test, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-003",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves one result is true everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "No repeat could add useful evidence",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials, the groups recorded different ice melting results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A cautious conclusion stays within the collected evidence.",
+      "hint": "Use words such as \"in these trials\"."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, what could explain a small difference between group findings?",
+    "audio_prompt": "After the melting test, what could explain a small difference between group findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-004",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"variation\",\"method difference\",\"repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "Normal variation or a method difference",
+        "is_correct": true
+      },
+      {
+        "text": "The data must have changed itself",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific measurements can never differ",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeats and method checks help explain variation.",
+      "hint": "Compare equipment, controls and repeated trials."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, which conclusion rule is correct?",
+    "audio_prompt": "After the melting test, which conclusion rule is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-005",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"question\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "State a favourite result without data",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the question using relevant evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Claim more than the investigation tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Conclusions connect the investigation question to its findings.",
+      "hint": "Include the observed pattern and avoid overclaiming."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, which further question would extend the ice melting investigation?",
+    "audio_prompt": "After the melting test, which further question would extend the ice melting investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-006",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"finding\",\"new testable question\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result has the nicest number?",
+        "is_correct": false
+      },
+      {
+        "text": "Can the old data be ignored?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the pattern remain with another carefully chosen condition?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A further question builds testably on findings or limitations.",
+      "hint": "Change or explore one meaningful factor."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, one group changed two factors at once. How does this affect the conclusion?",
+    "audio_prompt": "After the melting test, one group changed two factors at once. How does this affect the conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-007",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+    },
+    "answers": [
+      {
+        "text": "It is unclear which change caused the result",
+        "is_correct": true
+      },
+      {
+        "text": "It proves both factors had equal effects",
+        "is_correct": false
+      },
+      {
+        "text": "It makes measurement units unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing multiple factors confounds the explanation.",
+      "hint": "Ask whether one cause can be separated from the other."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the melting test, why are repeated trials useful when evaluating findings?",
+    "audio_prompt": "After the melting test, why are repeated trials useful when evaluating findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-008",
+      "alt_text": "After the melting test: evaluation display for ice melting showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "They guarantee the prediction is correct",
+        "is_correct": false
+      },
+      {
+        "text": "They show whether a pattern is consistent",
+        "is_correct": true
+      },
+      {
+        "text": "They allow unwanted values to be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated evidence helps judge reliability and variation.",
+      "hint": "Keep and compare every valid trial."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, group A recorded 12 cm and Group B recorded 10 cm for plant growth. What should students do first?",
+    "audio_prompt": "During the group comparison, group A recorded 12 cm and Group B recorded 10 cm for plant growth. What should students do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-009",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [[\"Group A\",\"12 cm\"],[\"Group B\",\"10 cm\"]]"
+    },
+    "answers": [
+      {
+        "text": "Decide one group must be wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the preferred value",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the methods and all recorded results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparing findings includes checking both results and how they were obtained.",
+      "hint": "Look for method differences or normal variation before judging."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, which feature best supports a fair comparison?",
+    "audio_prompt": "During the group comparison, which feature best supports a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-010",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"one changed factor\",\"same controls\",\"same units\"]"
+    },
+    "answers": [
+      {
+        "text": "Both groups keep relevant conditions the same",
+        "is_correct": true
+      },
+      {
+        "text": "Each group changes several factors",
+        "is_correct": false
+      },
+      {
+        "text": "Each group uses a different unit without converting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Controls make results meaningfully comparable.",
+      "hint": "Check whether only the tested factor differs."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, which conclusion is appropriately cautious?",
+    "audio_prompt": "During the group comparison, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-011",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves one result is true everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials, the groups recorded different plant growth results",
+        "is_correct": true
+      },
+      {
+        "text": "No repeat could add useful evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cautious conclusion stays within the collected evidence.",
+      "hint": "Use words such as \"in these trials\"."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, what could explain a small difference between group findings?",
+    "audio_prompt": "During the group comparison, what could explain a small difference between group findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-012",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"variation\",\"method difference\",\"repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "The data must have changed itself",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific measurements can never differ",
+        "is_correct": false
+      },
+      {
+        "text": "Normal variation or a method difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeats and method checks help explain variation.",
+      "hint": "Compare equipment, controls and repeated trials."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, which conclusion rule is correct?",
+    "audio_prompt": "During the group comparison, which conclusion rule is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-013",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"question\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "Answer the question using relevant evidence",
+        "is_correct": true
+      },
+      {
+        "text": "State a favourite result without data",
+        "is_correct": false
+      },
+      {
+        "text": "Claim more than the investigation tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Conclusions connect the investigation question to its findings.",
+      "hint": "Include the observed pattern and avoid overclaiming."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, which further question would extend the plant growth investigation?",
+    "audio_prompt": "During the group comparison, which further question would extend the plant growth investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-014",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"finding\",\"new testable question\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result has the nicest number?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the pattern remain with another carefully chosen condition?",
+        "is_correct": true
+      },
+      {
+        "text": "Can the old data be ignored?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A further question builds testably on findings or limitations.",
+      "hint": "Change or explore one meaningful factor."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, one group changed two factors at once. How does this affect the conclusion?",
+    "audio_prompt": "During the group comparison, one group changed two factors at once. How does this affect the conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-015",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+    },
+    "answers": [
+      {
+        "text": "It proves both factors had equal effects",
+        "is_correct": false
+      },
+      {
+        "text": "It makes measurement units unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It is unclear which change caused the result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing multiple factors confounds the explanation.",
+      "hint": "Ask whether one cause can be separated from the other."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the group comparison, why are repeated trials useful when evaluating findings?",
+    "audio_prompt": "During the group comparison, why are repeated trials useful when evaluating findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-016",
+      "alt_text": "During the group comparison: evaluation display for plant growth showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "They show whether a pattern is consistent",
+        "is_correct": true
+      },
+      {
+        "text": "They guarantee the prediction is correct",
+        "is_correct": false
+      },
+      {
+        "text": "They allow unwanted values to be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated evidence helps judge reliability and variation.",
+      "hint": "Keep and compare every valid trial."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, group A recorded 45 mL and Group B recorded 51 mL for soil drainage. What should students do first?",
+    "audio_prompt": "At the fairness check, group A recorded 45 mL and Group B recorded 51 mL for soil drainage. What should students do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-017",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [[\"Group A\",\"45 mL\"],[\"Group B\",\"51 mL\"]]"
+    },
+    "answers": [
+      {
+        "text": "Decide one group must be wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the methods and all recorded results",
+        "is_correct": true
+      },
+      {
+        "text": "Keep only the preferred value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Comparing findings includes checking both results and how they were obtained.",
+      "hint": "Look for method differences or normal variation before judging."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, which feature best supports a fair comparison?",
+    "audio_prompt": "At the fairness check, which feature best supports a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-018",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"one changed factor\",\"same controls\",\"same units\"]"
+    },
+    "answers": [
+      {
+        "text": "Each group changes several factors",
+        "is_correct": false
+      },
+      {
+        "text": "Each group uses a different unit without converting",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups keep relevant conditions the same",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Controls make results meaningfully comparable.",
+      "hint": "Check whether only the tested factor differs."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, which conclusion is appropriately cautious?",
+    "audio_prompt": "At the fairness check, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-019",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "In these trials, the groups recorded different soil drainage results",
+        "is_correct": true
+      },
+      {
+        "text": "This proves one result is true everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "No repeat could add useful evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A cautious conclusion stays within the collected evidence.",
+      "hint": "Use words such as \"in these trials\"."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, what could explain a small difference between group findings?",
+    "audio_prompt": "At the fairness check, what could explain a small difference between group findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-020",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"variation\",\"method difference\",\"repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "The data must have changed itself",
+        "is_correct": false
+      },
+      {
+        "text": "Normal variation or a method difference",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific measurements can never differ",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeats and method checks help explain variation.",
+      "hint": "Compare equipment, controls and repeated trials."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, which conclusion rule is correct?",
+    "audio_prompt": "At the fairness check, which conclusion rule is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-021",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"question\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "State a favourite result without data",
+        "is_correct": false
+      },
+      {
+        "text": "Claim more than the investigation tested",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the question using relevant evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Conclusions connect the investigation question to its findings.",
+      "hint": "Include the observed pattern and avoid overclaiming."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, which further question would extend the soil drainage investigation?",
+    "audio_prompt": "At the fairness check, which further question would extend the soil drainage investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-022",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"finding\",\"new testable question\"]"
+    },
+    "answers": [
+      {
+        "text": "Would the pattern remain with another carefully chosen condition?",
+        "is_correct": true
+      },
+      {
+        "text": "Which result has the nicest number?",
+        "is_correct": false
+      },
+      {
+        "text": "Can the old data be ignored?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A further question builds testably on findings or limitations.",
+      "hint": "Change or explore one meaningful factor."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, one group changed two factors at once. How does this affect the conclusion?",
+    "audio_prompt": "At the fairness check, one group changed two factors at once. How does this affect the conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-023",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+    },
+    "answers": [
+      {
+        "text": "It proves both factors had equal effects",
+        "is_correct": false
+      },
+      {
+        "text": "It is unclear which change caused the result",
+        "is_correct": true
+      },
+      {
+        "text": "It makes measurement units unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing multiple factors confounds the explanation.",
+      "hint": "Ask whether one cause can be separated from the other."
+    }
+  },
+  {
+    "id": "AC9S3I05-P-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "practice",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "At the fairness check, why are repeated trials useful when evaluating findings?",
+    "audio_prompt": "At the fairness check, why are repeated trials useful when evaluating findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-p-024",
+      "alt_text": "At the fairness check: evaluation display for soil drainage showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "They guarantee the prediction is correct",
+        "is_correct": false
+      },
+      {
+        "text": "They allow unwanted values to be removed",
+        "is_correct": false
+      },
+      {
+        "text": "They show whether a pattern is consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated evidence helps judge reliability and variation.",
+      "hint": "Keep and compare every valid trial."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, group A recorded 9 °C change and Group B recorded 11 °C change for water cooling. What should students do first?",
+    "audio_prompt": "After the plant investigation, group A recorded 9 °C change and Group B recorded 11 °C change for water cooling. What should students do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-001",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [[\"Group A\",\"9 °C change\"],[\"Group B\",\"11 °C change\"]]"
+    },
+    "answers": [
+      {
+        "text": "Compare the methods and all recorded results",
+        "is_correct": true
+      },
+      {
+        "text": "Decide one group must be wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the preferred value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Comparing findings includes checking both results and how they were obtained.",
+      "hint": "Look for method differences or normal variation before judging."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, which feature best supports a fair comparison?",
+    "audio_prompt": "After the plant investigation, which feature best supports a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-002",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"one changed factor\",\"same controls\",\"same units\"]"
+    },
+    "answers": [
+      {
+        "text": "Each group changes several factors",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups keep relevant conditions the same",
+        "is_correct": true
+      },
+      {
+        "text": "Each group uses a different unit without converting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controls make results meaningfully comparable.",
+      "hint": "Check whether only the tested factor differs."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, which conclusion is appropriately cautious?",
+    "audio_prompt": "After the plant investigation, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-003",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves one result is true everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "No repeat could add useful evidence",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials, the groups recorded different water cooling results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A cautious conclusion stays within the collected evidence.",
+      "hint": "Use words such as \"in these trials\"."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, what could explain a small difference between group findings?",
+    "audio_prompt": "After the plant investigation, what could explain a small difference between group findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-004",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"variation\",\"method difference\",\"repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "Normal variation or a method difference",
+        "is_correct": true
+      },
+      {
+        "text": "The data must have changed itself",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific measurements can never differ",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeats and method checks help explain variation.",
+      "hint": "Compare equipment, controls and repeated trials."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, which conclusion rule is correct?",
+    "audio_prompt": "After the plant investigation, which conclusion rule is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-005",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"question\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "State a favourite result without data",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the question using relevant evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Claim more than the investigation tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Conclusions connect the investigation question to its findings.",
+      "hint": "Include the observed pattern and avoid overclaiming."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, which further question would extend the water cooling investigation?",
+    "audio_prompt": "After the plant investigation, which further question would extend the water cooling investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-006",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"finding\",\"new testable question\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result has the nicest number?",
+        "is_correct": false
+      },
+      {
+        "text": "Can the old data be ignored?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the pattern remain with another carefully chosen condition?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A further question builds testably on findings or limitations.",
+      "hint": "Change or explore one meaningful factor."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, one group changed two factors at once. How does this affect the conclusion?",
+    "audio_prompt": "After the plant investigation, one group changed two factors at once. How does this affect the conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-007",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+    },
+    "answers": [
+      {
+        "text": "It is unclear which change caused the result",
+        "is_correct": true
+      },
+      {
+        "text": "It proves both factors had equal effects",
+        "is_correct": false
+      },
+      {
+        "text": "It makes measurement units unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing multiple factors confounds the explanation.",
+      "hint": "Ask whether one cause can be separated from the other."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "After the plant investigation, why are repeated trials useful when evaluating findings?",
+    "audio_prompt": "After the plant investigation, why are repeated trials useful when evaluating findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-008",
+      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "They guarantee the prediction is correct",
+        "is_correct": false
+      },
+      {
+        "text": "They show whether a pattern is consistent",
+        "is_correct": true
+      },
+      {
+        "text": "They allow unwanted values to be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated evidence helps judge reliability and variation.",
+      "hint": "Keep and compare every valid trial."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, group A recorded 28 min and Group B recorded 24 min for cloth drying. What should students do first?",
+    "audio_prompt": "During the insulation review, group A recorded 28 min and Group B recorded 24 min for cloth drying. What should students do first?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-009",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [[\"Group A\",\"28 min\"],[\"Group B\",\"24 min\"]]"
+    },
+    "answers": [
+      {
+        "text": "Decide one group must be wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the preferred value",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the methods and all recorded results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparing findings includes checking both results and how they were obtained.",
+      "hint": "Look for method differences or normal variation before judging."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, which feature best supports a fair comparison?",
+    "audio_prompt": "During the insulation review, which feature best supports a fair comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-010",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"one changed factor\",\"same controls\",\"same units\"]"
+    },
+    "answers": [
+      {
+        "text": "Both groups keep relevant conditions the same",
+        "is_correct": true
+      },
+      {
+        "text": "Each group changes several factors",
+        "is_correct": false
+      },
+      {
+        "text": "Each group uses a different unit without converting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Controls make results meaningfully comparable.",
+      "hint": "Check whether only the tested factor differs."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, which conclusion is appropriately cautious?",
+    "audio_prompt": "During the insulation review, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-011",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves one result is true everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials, the groups recorded different cloth drying results",
+        "is_correct": true
+      },
+      {
+        "text": "No repeat could add useful evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cautious conclusion stays within the collected evidence.",
+      "hint": "Use words such as \"in these trials\"."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, what could explain a small difference between group findings?",
+    "audio_prompt": "During the insulation review, what could explain a small difference between group findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-012",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"variation\",\"method difference\",\"repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "The data must have changed itself",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific measurements can never differ",
+        "is_correct": false
+      },
+      {
+        "text": "Normal variation or a method difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeats and method checks help explain variation.",
+      "hint": "Compare equipment, controls and repeated trials."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, which conclusion rule is correct?",
+    "audio_prompt": "During the insulation review, which conclusion rule is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-013",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"question\",\"evidence\",\"conclusion\"]"
+    },
+    "answers": [
+      {
+        "text": "Answer the question using relevant evidence",
+        "is_correct": true
+      },
+      {
+        "text": "State a favourite result without data",
+        "is_correct": false
+      },
+      {
+        "text": "Claim more than the investigation tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Conclusions connect the investigation question to its findings.",
+      "hint": "Include the observed pattern and avoid overclaiming."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, which further question would extend the cloth drying investigation?",
+    "audio_prompt": "During the insulation review, which further question would extend the cloth drying investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-014",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"finding\",\"new testable question\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result has the nicest number?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the pattern remain with another carefully chosen condition?",
+        "is_correct": true
+      },
+      {
+        "text": "Can the old data be ignored?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A further question builds testably on findings or limitations.",
+      "hint": "Change or explore one meaningful factor."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, one group changed two factors at once. How does this affect the conclusion?",
+    "audio_prompt": "During the insulation review, one group changed two factors at once. How does this affect the conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-015",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+    },
+    "answers": [
+      {
+        "text": "It proves both factors had equal effects",
+        "is_correct": false
+      },
+      {
+        "text": "It makes measurement units unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It is unclear which change caused the result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing multiple factors confounds the explanation.",
+      "hint": "Ask whether one cause can be separated from the other."
+    }
+  },
+  {
+    "id": "AC9S3I05-T-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I05",
+    "bank": "test",
+    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "question": "During the insulation review, why are repeated trials useful when evaluating findings?",
+    "audio_prompt": "During the insulation review, why are repeated trials useful when evaluating findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-016",
+      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "They show whether a pattern is consistent",
+        "is_correct": true
+      },
+      {
+        "text": "They guarantee the prediction is correct",
+        "is_correct": false
+      },
+      {
+        "text": "They allow unwanted values to be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated evidence helps judge reliability and variation.",
+      "hint": "Keep and compare every valid trial."
+    }
+  }
+]

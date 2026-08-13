@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S3I01-P-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, students observe that seedlings near the window grew taller. Which question is testable?",
+    "audio_prompt": "After observing seedlings, students observe that seedlings near the window grew taller. Which question is testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-001",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"observe: seedlings near the window grew taller\",\"change: light level\",\"measure: seedling height\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is my favourite condition best?",
+        "is_correct": false
+      },
+      {
+        "text": "How does light level affect seedling height?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
+      "hint": "Find the question that could be answered by collecting data."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, which prediction has a testable outcome?",
+    "audio_prompt": "After observing seedlings, which prediction has a testable outcome?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-002",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"If\",\"light level\",\"then\",\"seedling height\"]"
+    },
+    "answers": [
+      {
+        "text": "Changing light level will change the measured seedling height",
+        "is_correct": true
+      },
+      {
+        "text": "The investigation will be fun",
+        "is_correct": false
+      },
+      {
+        "text": "The best result will happen",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A prediction states an expected measurable outcome.",
+      "hint": "Look for what students expect to observe or measure."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, what evidence should support a prediction?",
+    "audio_prompt": "After observing seedlings, what evidence should support a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-003",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"seedlings near the window grew taller\",\"prediction\"]"
+    },
+    "answers": [
+      {
+        "text": "A favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "Relevant observations or previous data",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of the equipment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
+      "hint": "Use what was noticed, not a preference."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, which part of the question is the factor students change?",
+    "audio_prompt": "After observing seedlings, which part of the question is the factor students change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-004",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"changed: light level\",\"measured: seedling height\"]"
+    },
+    "answers": [
+      {
+        "text": "seedling height",
+        "is_correct": false
+      },
+      {
+        "text": "the final opinion",
+        "is_correct": false
+      },
+      {
+        "text": "light level",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The changed factor is deliberately varied to explore a relationship.",
+      "hint": "Look after \"How does\" and before \"affect\"."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, which part is the outcome students measure?",
+    "audio_prompt": "After observing seedlings, which part is the outcome students measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-005",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"changed: light level\",\"measured: seedling height\"]"
+    },
+    "answers": [
+      {
+        "text": "seedling height",
+        "is_correct": true
+      },
+      {
+        "text": "light level",
+        "is_correct": false
+      },
+      {
+        "text": "the equipment colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The measured outcome provides data to answer the question.",
+      "hint": "Look for the result that can be recorded."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, why is \"Which one is best?\" not yet a strong scientific question?",
+    "audio_prompt": "After observing seedlings, why is \"Which one is best?\" not yet a strong scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-006",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"opinion: best\",\"measure: seedling height\"]"
+    },
+    "answers": [
+      {
+        "text": "It has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "It does not define an observable or measurable outcome",
+        "is_correct": true
+      },
+      {
+        "text": "It already contains data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Words such as best need a measurable meaning.",
+      "hint": "Replace \"best\" with a named measurement."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, what should students do if their results do not match the prediction?",
+    "audio_prompt": "After observing seedlings, what should students do if their results do not match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-007",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+    },
+    "answers": [
+      {
+        "text": "Change the data to match",
+        "is_correct": false
+      },
+      {
+        "text": "Say the investigation failed without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Record the results honestly and use them to explain what happened",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
+      "hint": "Keep observations separate from what was expected."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing seedlings, which prediction frame includes a reason?",
+    "audio_prompt": "After observing seedlings, which prediction frame includes a reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-008",
+      "alt_text": "After observing seedlings: question and prediction model showing [\"if\",\"light level\",\"then\",\"seedling height\",\"because\",\"seedlings near the window grew taller\"]"
+    },
+    "answers": [
+      {
+        "text": "If light level changes, then seedling height may change because the observation showed a pattern",
+        "is_correct": true
+      },
+      {
+        "text": "The result will happen because I said so",
+        "is_correct": false
+      },
+      {
+        "text": "I predict something interesting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
+      "hint": "Look for if, then and because."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, students observe that ice melted sooner in warm water. Which question is testable?",
+    "audio_prompt": "During the ice study, students observe that ice melted sooner in warm water. Which question is testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-009",
+      "alt_text": "During the ice study: question and prediction model showing [\"observe: ice melted sooner in warm water\",\"change: water temperature\",\"measure: melting time\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "How does water temperature affect melting time?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is my favourite condition best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
+      "hint": "Find the question that could be answered by collecting data."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, which prediction has a testable outcome?",
+    "audio_prompt": "During the ice study, which prediction has a testable outcome?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-010",
+      "alt_text": "During the ice study: question and prediction model showing [\"If\",\"water temperature\",\"then\",\"melting time\"]"
+    },
+    "answers": [
+      {
+        "text": "The investigation will be fun",
+        "is_correct": false
+      },
+      {
+        "text": "The best result will happen",
+        "is_correct": false
+      },
+      {
+        "text": "Changing water temperature will change the measured melting time",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction states an expected measurable outcome.",
+      "hint": "Look for what students expect to observe or measure."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, what evidence should support a prediction?",
+    "audio_prompt": "During the ice study, what evidence should support a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-011",
+      "alt_text": "During the ice study: question and prediction model showing [\"ice melted sooner in warm water\",\"prediction\"]"
+    },
+    "answers": [
+      {
+        "text": "Relevant observations or previous data",
+        "is_correct": true
+      },
+      {
+        "text": "A favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the equipment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
+      "hint": "Use what was noticed, not a preference."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, which part of the question is the factor students change?",
+    "audio_prompt": "During the ice study, which part of the question is the factor students change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-012",
+      "alt_text": "During the ice study: question and prediction model showing [\"changed: water temperature\",\"measured: melting time\"]"
+    },
+    "answers": [
+      {
+        "text": "melting time",
+        "is_correct": false
+      },
+      {
+        "text": "water temperature",
+        "is_correct": true
+      },
+      {
+        "text": "the final opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The changed factor is deliberately varied to explore a relationship.",
+      "hint": "Look after \"How does\" and before \"affect\"."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, which part is the outcome students measure?",
+    "audio_prompt": "During the ice study, which part is the outcome students measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-013",
+      "alt_text": "During the ice study: question and prediction model showing [\"changed: water temperature\",\"measured: melting time\"]"
+    },
+    "answers": [
+      {
+        "text": "water temperature",
+        "is_correct": false
+      },
+      {
+        "text": "the equipment colour",
+        "is_correct": false
+      },
+      {
+        "text": "melting time",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The measured outcome provides data to answer the question.",
+      "hint": "Look for the result that can be recorded."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "audio_prompt": "During the ice study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-014",
+      "alt_text": "During the ice study: question and prediction model showing [\"opinion: best\",\"measure: melting time\"]"
+    },
+    "answers": [
+      {
+        "text": "It does not define an observable or measurable outcome",
+        "is_correct": true
+      },
+      {
+        "text": "It has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "It already contains data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words such as best need a measurable meaning.",
+      "hint": "Replace \"best\" with a named measurement."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, what should students do if their results do not match the prediction?",
+    "audio_prompt": "During the ice study, what should students do if their results do not match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-015",
+      "alt_text": "During the ice study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+    },
+    "answers": [
+      {
+        "text": "Change the data to match",
+        "is_correct": false
+      },
+      {
+        "text": "Record the results honestly and use them to explain what happened",
+        "is_correct": true
+      },
+      {
+        "text": "Say the investigation failed without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
+      "hint": "Keep observations separate from what was expected."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the ice study, which prediction frame includes a reason?",
+    "audio_prompt": "During the ice study, which prediction frame includes a reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-016",
+      "alt_text": "During the ice study: question and prediction model showing [\"if\",\"water temperature\",\"then\",\"melting time\",\"because\",\"ice melted sooner in warm water\"]"
+    },
+    "answers": [
+      {
+        "text": "The result will happen because I said so",
+        "is_correct": false
+      },
+      {
+        "text": "I predict something interesting",
+        "is_correct": false
+      },
+      {
+        "text": "If water temperature changes, then melting time may change because the observation showed a pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
+      "hint": "Look for if, then and because."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, students observe that wet cloth dried sooner in sunlight. Which question is testable?",
+    "audio_prompt": "After watching wet cloths, students observe that wet cloth dried sooner in sunlight. Which question is testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-017",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"observe: wet cloth dried sooner in sunlight\",\"change: location\",\"measure: drying time\"]"
+    },
+    "answers": [
+      {
+        "text": "How does location affect drying time?",
+        "is_correct": true
+      },
+      {
+        "text": "Which result is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is my favourite condition best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
+      "hint": "Find the question that could be answered by collecting data."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, which prediction has a testable outcome?",
+    "audio_prompt": "After watching wet cloths, which prediction has a testable outcome?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-018",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"If\",\"location\",\"then\",\"drying time\"]"
+    },
+    "answers": [
+      {
+        "text": "The investigation will be fun",
+        "is_correct": false
+      },
+      {
+        "text": "Changing location will change the measured drying time",
+        "is_correct": true
+      },
+      {
+        "text": "The best result will happen",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction states an expected measurable outcome.",
+      "hint": "Look for what students expect to observe or measure."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, what evidence should support a prediction?",
+    "audio_prompt": "After watching wet cloths, what evidence should support a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-019",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"wet cloth dried sooner in sunlight\",\"prediction\"]"
+    },
+    "answers": [
+      {
+        "text": "A favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the equipment",
+        "is_correct": false
+      },
+      {
+        "text": "Relevant observations or previous data",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
+      "hint": "Use what was noticed, not a preference."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, which part of the question is the factor students change?",
+    "audio_prompt": "After watching wet cloths, which part of the question is the factor students change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-020",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"changed: location\",\"measured: drying time\"]"
+    },
+    "answers": [
+      {
+        "text": "location",
+        "is_correct": true
+      },
+      {
+        "text": "drying time",
+        "is_correct": false
+      },
+      {
+        "text": "the final opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The changed factor is deliberately varied to explore a relationship.",
+      "hint": "Look after \"How does\" and before \"affect\"."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, which part is the outcome students measure?",
+    "audio_prompt": "After watching wet cloths, which part is the outcome students measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-021",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"changed: location\",\"measured: drying time\"]"
+    },
+    "answers": [
+      {
+        "text": "location",
+        "is_correct": false
+      },
+      {
+        "text": "drying time",
+        "is_correct": true
+      },
+      {
+        "text": "the equipment colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The measured outcome provides data to answer the question.",
+      "hint": "Look for the result that can be recorded."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, why is \"Which one is best?\" not yet a strong scientific question?",
+    "audio_prompt": "After watching wet cloths, why is \"Which one is best?\" not yet a strong scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-022",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"opinion: best\",\"measure: drying time\"]"
+    },
+    "answers": [
+      {
+        "text": "It has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "It already contains data",
+        "is_correct": false
+      },
+      {
+        "text": "It does not define an observable or measurable outcome",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Words such as best need a measurable meaning.",
+      "hint": "Replace \"best\" with a named measurement."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, what should students do if their results do not match the prediction?",
+    "audio_prompt": "After watching wet cloths, what should students do if their results do not match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-023",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+    },
+    "answers": [
+      {
+        "text": "Record the results honestly and use them to explain what happened",
+        "is_correct": true
+      },
+      {
+        "text": "Change the data to match",
+        "is_correct": false
+      },
+      {
+        "text": "Say the investigation failed without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
+      "hint": "Keep observations separate from what was expected."
+    }
+  },
+  {
+    "id": "AC9S3I01-P-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "practice",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After watching wet cloths, which prediction frame includes a reason?",
+    "audio_prompt": "After watching wet cloths, which prediction frame includes a reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-024",
+      "alt_text": "After watching wet cloths: question and prediction model showing [\"if\",\"location\",\"then\",\"drying time\",\"because\",\"wet cloth dried sooner in sunlight\"]"
+    },
+    "answers": [
+      {
+        "text": "The result will happen because I said so",
+        "is_correct": false
+      },
+      {
+        "text": "If location changes, then drying time may change because the observation showed a pattern",
+        "is_correct": true
+      },
+      {
+        "text": "I predict something interesting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
+      "hint": "Look for if, then and because."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
+    "audio_prompt": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-001",
+      "alt_text": "During the soil study: question and prediction model showing [\"observe: water drained faster through sand\",\"change: soil type\",\"measure: drained water\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is my favourite condition best?",
+        "is_correct": false
+      },
+      {
+        "text": "How does soil type affect drained water?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
+      "hint": "Find the question that could be answered by collecting data."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, which prediction has a testable outcome?",
+    "audio_prompt": "During the soil study, which prediction has a testable outcome?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-002",
+      "alt_text": "During the soil study: question and prediction model showing [\"If\",\"soil type\",\"then\",\"drained water\"]"
+    },
+    "answers": [
+      {
+        "text": "Changing soil type will change the measured drained water",
+        "is_correct": true
+      },
+      {
+        "text": "The investigation will be fun",
+        "is_correct": false
+      },
+      {
+        "text": "The best result will happen",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A prediction states an expected measurable outcome.",
+      "hint": "Look for what students expect to observe or measure."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, what evidence should support a prediction?",
+    "audio_prompt": "During the soil study, what evidence should support a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-003",
+      "alt_text": "During the soil study: question and prediction model showing [\"water drained faster through sand\",\"prediction\"]"
+    },
+    "answers": [
+      {
+        "text": "A favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "Relevant observations or previous data",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of the equipment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
+      "hint": "Use what was noticed, not a preference."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, which part of the question is the factor students change?",
+    "audio_prompt": "During the soil study, which part of the question is the factor students change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-004",
+      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
+    },
+    "answers": [
+      {
+        "text": "drained water",
+        "is_correct": false
+      },
+      {
+        "text": "the final opinion",
+        "is_correct": false
+      },
+      {
+        "text": "soil type",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The changed factor is deliberately varied to explore a relationship.",
+      "hint": "Look after \"How does\" and before \"affect\"."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, which part is the outcome students measure?",
+    "audio_prompt": "During the soil study, which part is the outcome students measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-005",
+      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
+    },
+    "answers": [
+      {
+        "text": "drained water",
+        "is_correct": true
+      },
+      {
+        "text": "soil type",
+        "is_correct": false
+      },
+      {
+        "text": "the equipment colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The measured outcome provides data to answer the question.",
+      "hint": "Look for the result that can be recorded."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "audio_prompt": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-006",
+      "alt_text": "During the soil study: question and prediction model showing [\"opinion: best\",\"measure: drained water\"]"
+    },
+    "answers": [
+      {
+        "text": "It has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "It does not define an observable or measurable outcome",
+        "is_correct": true
+      },
+      {
+        "text": "It already contains data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Words such as best need a measurable meaning.",
+      "hint": "Replace \"best\" with a named measurement."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, what should students do if their results do not match the prediction?",
+    "audio_prompt": "During the soil study, what should students do if their results do not match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-007",
+      "alt_text": "During the soil study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+    },
+    "answers": [
+      {
+        "text": "Change the data to match",
+        "is_correct": false
+      },
+      {
+        "text": "Say the investigation failed without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Record the results honestly and use them to explain what happened",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
+      "hint": "Keep observations separate from what was expected."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "During the soil study, which prediction frame includes a reason?",
+    "audio_prompt": "During the soil study, which prediction frame includes a reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-008",
+      "alt_text": "During the soil study: question and prediction model showing [\"if\",\"soil type\",\"then\",\"drained water\",\"because\",\"water drained faster through sand\"]"
+    },
+    "answers": [
+      {
+        "text": "If soil type changes, then drained water may change because the observation showed a pattern",
+        "is_correct": true
+      },
+      {
+        "text": "The result will happen because I said so",
+        "is_correct": false
+      },
+      {
+        "text": "I predict something interesting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
+      "hint": "Look for if, then and because."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
+    "audio_prompt": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-009",
+      "alt_text": "After observing shadows: question and prediction model showing [\"observe: shadows changed length during the day\",\"change: time of day\",\"measure: shadow length\"]"
+    },
+    "answers": [
+      {
+        "text": "Which result is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "How does time of day affect shadow length?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is my favourite condition best?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
+      "hint": "Find the question that could be answered by collecting data."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, which prediction has a testable outcome?",
+    "audio_prompt": "After observing shadows, which prediction has a testable outcome?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-010",
+      "alt_text": "After observing shadows: question and prediction model showing [\"If\",\"time of day\",\"then\",\"shadow length\"]"
+    },
+    "answers": [
+      {
+        "text": "The investigation will be fun",
+        "is_correct": false
+      },
+      {
+        "text": "The best result will happen",
+        "is_correct": false
+      },
+      {
+        "text": "Changing time of day will change the measured shadow length",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction states an expected measurable outcome.",
+      "hint": "Look for what students expect to observe or measure."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, what evidence should support a prediction?",
+    "audio_prompt": "After observing shadows, what evidence should support a prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-011",
+      "alt_text": "After observing shadows: question and prediction model showing [\"shadows changed length during the day\",\"prediction\"]"
+    },
+    "answers": [
+      {
+        "text": "Relevant observations or previous data",
+        "is_correct": true
+      },
+      {
+        "text": "A favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the equipment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
+      "hint": "Use what was noticed, not a preference."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, which part of the question is the factor students change?",
+    "audio_prompt": "After observing shadows, which part of the question is the factor students change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-012",
+      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
+    },
+    "answers": [
+      {
+        "text": "shadow length",
+        "is_correct": false
+      },
+      {
+        "text": "time of day",
+        "is_correct": true
+      },
+      {
+        "text": "the final opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The changed factor is deliberately varied to explore a relationship.",
+      "hint": "Look after \"How does\" and before \"affect\"."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, which part is the outcome students measure?",
+    "audio_prompt": "After observing shadows, which part is the outcome students measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-013",
+      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
+    },
+    "answers": [
+      {
+        "text": "time of day",
+        "is_correct": false
+      },
+      {
+        "text": "the equipment colour",
+        "is_correct": false
+      },
+      {
+        "text": "shadow length",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The measured outcome provides data to answer the question.",
+      "hint": "Look for the result that can be recorded."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
+    "audio_prompt": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-014",
+      "alt_text": "After observing shadows: question and prediction model showing [\"opinion: best\",\"measure: shadow length\"]"
+    },
+    "answers": [
+      {
+        "text": "It does not define an observable or measurable outcome",
+        "is_correct": true
+      },
+      {
+        "text": "It has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "It already contains data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words such as best need a measurable meaning.",
+      "hint": "Replace \"best\" with a named measurement."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, what should students do if their results do not match the prediction?",
+    "audio_prompt": "After observing shadows, what should students do if their results do not match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-015",
+      "alt_text": "After observing shadows: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+    },
+    "answers": [
+      {
+        "text": "Change the data to match",
+        "is_correct": false
+      },
+      {
+        "text": "Record the results honestly and use them to explain what happened",
+        "is_correct": true
+      },
+      {
+        "text": "Say the investigation failed without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
+      "hint": "Keep observations separate from what was expected."
+    }
+  },
+  {
+    "id": "AC9S3I01-T-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "bank": "test",
+    "skill": "Scientific Questions and Predictions",
+    "question": "After observing shadows, which prediction frame includes a reason?",
+    "audio_prompt": "After observing shadows, which prediction frame includes a reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-016",
+      "alt_text": "After observing shadows: question and prediction model showing [\"if\",\"time of day\",\"then\",\"shadow length\",\"because\",\"shadows changed length during the day\"]"
+    },
+    "answers": [
+      {
+        "text": "The result will happen because I said so",
+        "is_correct": false
+      },
+      {
+        "text": "I predict something interesting",
+        "is_correct": false
+      },
+      {
+        "text": "If time of day changes, then shadow length may change because the observation showed a pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
+      "hint": "Look for if, then and because."
+    }
+  }
+]
