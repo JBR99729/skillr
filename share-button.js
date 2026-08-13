@@ -117,8 +117,33 @@
     }
   }
 
+  function normalisePath(path) {
+    var cleanPath = (path || "/").toLowerCase().replace(/\/index\.html$/, "/");
+    if (cleanPath.length > 1 && cleanPath.endsWith("/")) {
+      cleanPath = cleanPath.slice(0, -1);
+    }
+    return cleanPath || "/";
+  }
+
   function isWhatsAppButtonExcludedPage() {
-    var path = window.location.pathname.toLowerCase();
+    var path = normalisePath(window.location.pathname);
+    var exactExclusions = [
+      "/",
+      "/about",
+      "/contact",
+      "/privacy-policy",
+      "/privacy",
+      "/disclaimer",
+      "/terms",
+      "/faq",
+      "/feedback",
+      "/thank-you",
+      "/thankyou"
+    ];
+
+    if (exactExclusions.indexOf(path) !== -1) return true;
+
+    // Keep learning sessions, Daily Drills and the private progress dashboard uncluttered.
     return /(^|\/)(quiz|daily-drills|dashboard)(\/|$)/.test(path);
   }
 
