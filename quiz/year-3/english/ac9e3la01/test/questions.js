@@ -1,108 +1,469 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9e3la01-e01",
+    "id": "ac9e3la01-t-001",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match each phrase to the job it performs in a conversation.",
-    "explanation": "Could you say more—clarify; sorry—repair; Luca—invite; I understand but—disagree.",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "visual": "| Phrase | Job choices | |---|---| | “Could you say more about that?” | invite / clarify / disagree / repair | | “Sorry, I spoke over you.” | invite / clarify / disagree / repair | | “Luca, what is your view?” | invite / clarify / disagree / repair | | “I understand, but my evidence differs.” | invite / clarify / disagree / repair |",
-    "instruction": "Visual brief: | Phrase | Job choices | |---|---| | “Could you say more about that?” | invite / clarify / disagree / repair | | “Sorry, I spoke over you.” | invite / clarify / disagree / repair | | “Luca, what is your view?” | invite / clarify / disagree / repair | | “I understand, but my evidence differs.” | invite / clarify / disagree / repair |",
-    "type": "self-check",
-    "modelAnswer": "Could you say more—clarify; sorry—repair; Luca—invite; I understand but—disagree.",
-    "correct": "Could you say more—clarify; sorry—repair; Luca—invite; I understand but—disagree."
+    "type": "single",
+    "question": "During asking the principal about a library, which response politely takes a turn with the principal?",
+    "audioPrompt": "During asking the principal about a library, which response politely takes a turn with the principal?",
+    "visual": "Learning aid for: During asking the principal about a library, which response politely takes a turn with the principal?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: During asking the principal about a library, which response politely takes a turn with the principal?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-001",
+      "alt_text": "Learning aid for: During asking the principal about a library, which response politely takes a turn with the principal?"
+    },
+    "answers": [
+      "Good morning. May I ask a question about the library?",
+      "I am speaking now, so everyone stop.",
+      "Your idea does not matter."
+    ],
+    "correct": 0,
+    "explanation": "Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Choose language that shares speaking time.",
+    "structuredExplanation": {
+      "summary": "Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Choose language that shares speaking time."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e02",
+    "id": "ac9e3la01-t-002",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Multiple choice",
-    "question": "A student is interviewing a firefighter for the school news. Which opening is most suitable: “Tell me stuff”; “Good afternoon. Could you explain what happens when an emergency call arrives?”; or “Oi, is your job scary?”",
-    "explanation": "“Good afternoon. Could you explain what happens when an emergency call arrives?”",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "“Good afternoon. Could you explain what happens when an emergency call arrives?”",
-    "correct": "“Good afternoon. Could you explain what happens when an emergency call arrives?”"
+    "type": "single",
+    "question": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "audioPrompt": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "visual": "Learning aid for: A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: A speaker finishes a point during asking the principal about a library. What should an active listener do next?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-002",
+      "alt_text": "Learning aid for: A speaker finishes a point during asking the principal about a library. What should an active listener do next?"
+    },
+    "answers": [
+      "Change the topic without responding.",
+      "Refer to the point before adding a new idea.",
+      "Begin talking before the speaker finishes."
+    ],
+    "correct": 1,
+    "explanation": "Active listeners connect their response to what was said.\nHint: Look for a response that proves the listener paid attention.",
+    "structuredExplanation": {
+      "summary": "Active listeners connect their response to what was said.",
+      "hint": "Look for a response that proves the listener paid attention."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e03",
+    "id": "ac9e3la01-t-003",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Hotspot / selection",
-    "question": "Select the speech turn that breaks the topic of the discussion.",
-    "explanation": "Turn 4.",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "visual": "> 1. “Our survey shows most students walk to school.” > 2. “That surprises me. How many students answered?” > 3. “Twenty-four students answered.” > 4. “My dog can catch a tennis ball.”",
-    "instruction": "Visual brief: > 1. “Our survey shows most students walk to school.” > 2. “That surprises me. How many students answered?” > 3. “Twenty-four students answered.” > 4. “My dog can catch a tennis ball.”",
-    "type": "self-check",
-    "modelAnswer": "Turn 4.",
-    "correct": "Turn 4."
+    "type": "single",
+    "question": "Which action best supports cooperation while asking the principal about a library?",
+    "audioPrompt": "Which action best supports cooperation while asking the principal about a library?",
+    "visual": "Learning aid for: Which action best supports cooperation while asking the principal about a library?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which action best supports cooperation while asking the principal about a library?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-003",
+      "alt_text": "Learning aid for: Which action best supports cooperation while asking the principal about a library?"
+    },
+    "answers": [
+      "Repeat the same interruption.",
+      "Talk over the group.",
+      "Wait for a pause, then speak."
+    ],
+    "correct": 2,
+    "explanation": "Waiting for a pause helps everyone take a fair turn.\nHint: Think about how each person gets heard.",
+    "structuredExplanation": {
+      "summary": "Waiting for a pause helps everyone take a fair turn.",
+      "hint": "Think about how each person gets heard."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e04",
+    "id": "ac9e3la01-t-004",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "At a class meeting, two students begin speaking together. Complete the chairperson’s sentence respectfully: “Let’s hear from Sofia first, then ____.”",
-    "explanation": "A fair continuation naming or inviting the second student, such as “we’ll hear Marcus’s idea.”",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "A fair continuation naming or inviting the second student, such as “we’ll hear Marcus’s idea.”",
-    "correct": "A fair continuation naming or inviting the second student, such as “we’ll hear Marcus’s idea.”"
+    "type": "single",
+    "question": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "audioPrompt": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "visual": "Learning aid for: Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which invitation would help a quiet group member join the talk about asking the principal about a library?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-004",
+      "alt_text": "Learning aid for: Which invitation would help a quiet group member join the talk about asking the principal about a library?"
+    },
+    "answers": [
+      "Would you like to share your idea?",
+      "You have nothing to say, do you?",
+      "Do not speak yet."
+    ],
+    "correct": 0,
+    "explanation": "A respectful invitation makes space for another speaker.\nHint: Choose the wording that welcomes a contribution.",
+    "structuredExplanation": {
+      "summary": "A respectful invitation makes space for another speaker.",
+      "hint": "Choose the wording that welcomes a contribution."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e05",
+    "id": "ac9e3la01-t-005",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Explain why both questions can be appropriate even though their language is different.",
-    "explanation": "The informal wording suits a familiar friend; the more formal, polite wording suits a public event or less familiar audience. Both invite another person’s contribution.",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "visual": "| At lunch with a friend | At a community presentation | |---|---| | “What d’you reckon?” | “Would you please share your view?” |",
-    "instruction": "Visual brief: | At lunch with a friend | At a community presentation | |---|---| | “What d’you reckon?” | “Would you please share your view?” |",
-    "type": "self-check",
-    "modelAnswer": "The informal wording suits a familiar friend; the more formal, polite wording suits a public event or less familiar audience. Both invite another person’s contribution.",
-    "correct": "The informal wording suits a familiar friend; the more formal, polite wording suits a public event or less familiar audience. Both invite another person’s contribution."
+    "type": "single",
+    "question": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "audioPrompt": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "visual": "Learning aid for: Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-005",
+      "alt_text": "Learning aid for: Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?"
+    },
+    "answers": [
+      "You never listen properly.",
+      "I may not have explained clearly. I meant that we could try it first.",
+      "Forget it. I will not explain."
+    ],
+    "correct": 1,
+    "explanation": "A repair calmly clarifies meaning without blaming the listener.\nHint: Find the reply that explains again respectfully.",
+    "structuredExplanation": {
+      "summary": "A repair calmly clarifies meaning without blaming the listener.",
+      "hint": "Find the reply that explains again respectfully."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e06",
+    "id": "ac9e3la01-t-006",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Editing",
-    "question": "Rewrite “Stop talking. Use my idea.” as one or two sentences that help a group cooperate.",
-    "explanation": "A respectful version that allows turns and discussion, such as “Could I explain my idea when you finish? Then we can compare both ideas.”",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "A respectful version that allows turns and discussion, such as “Could I explain my idea when you finish? Then we can compare both ideas.”",
-    "correct": "A respectful version that allows turns and discussion, such as “Could I explain my idea when you finish? Then we can compare both ideas.”"
+    "type": "single",
+    "question": "Which wording is best suited to the principal during asking the principal about a library?",
+    "audioPrompt": "Which wording is best suited to the principal during asking the principal about a library?",
+    "visual": "Learning aid for: Which wording is best suited to the principal during asking the principal about a library?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which wording is best suited to the principal during asking the principal about a library?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-006",
+      "alt_text": "Learning aid for: Which wording is best suited to the principal during asking the principal about a library?"
+    },
+    "answers": [
+      "Move over. My turn.",
+      "Hey, listen to me right now.",
+      "Good morning. May I ask a question about the library?"
+    ],
+    "correct": 2,
+    "explanation": "Language changes with audience and formality.\nHint: Notice who is being addressed.",
+    "structuredExplanation": {
+      "summary": "Language changes with audience and formality.",
+      "hint": "Notice who is being addressed."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e07",
+    "id": "ac9e3la01-t-007",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Give the group a simple speaking plan that lets everyone contribute and includes time to respond to ideas.",
-    "explanation": "A workable plan with an initial turn for each student and shared response/decision time; for example, one minute each to propose an idea, three minutes to compare, and one minute to agree.",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "visual": "| Group task | Time available | Students | |---|---:|---:| | Choose a book-week theme | 8 minutes | 4 |",
-    "instruction": "Visual brief: | Group task | Time available | Students | |---|---:|---:| | Choose a book-week theme | 8 minutes | 4 |",
-    "type": "self-check",
-    "modelAnswer": "A workable plan with an initial turn for each student and shared response/decision time; for example, one minute each to propose an idea, three minutes to compare, and one minute to agree.",
-    "correct": "A workable plan with an initial turn for each student and shared response/decision time; for example, one minute each to propose an idea, three minutes to compare, and one minute to agree."
+    "type": "single",
+    "question": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "audioPrompt": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "visual": "Learning aid for: Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Two people begin speaking together during asking the principal about a library. What is the most cooperative response?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-007",
+      "alt_text": "Learning aid for: Two people begin speaking together during asking the principal about a library. What is the most cooperative response?"
+    },
+    "answers": [
+      "One speaker pauses and invites the other to continue.",
+      "Both speakers talk louder.",
+      "One speaker insults the other."
+    ],
+    "correct": 0,
+    "explanation": "Cooperation means managing an accidental overlap respectfully.\nHint: Choose the action that restores orderly turns.",
+    "structuredExplanation": {
+      "summary": "Cooperation means managing an accidental overlap respectfully.",
+      "hint": "Choose the action that restores orderly turns."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e3la01-e08",
+    "id": "ac9e3la01-t-008",
     "curriculumCode": "AC9E3LA01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "During a school committee meeting, one student says, “That idea is rubbish.” Write what the chairperson could say to restore respectful discussion and invite evidence.",
-    "explanation": "A formal response that rejects disrespect without attacking the student and requests reasons; for example, “Please respond to the idea respectfully. Could you explain your concern and give a reason?”",
+    "skill": "Conversation Conventions and Formality",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "A formal response that rejects disrespect without attacking the student and requests reasons; for example, “Please respond to the idea respectfully. Could you explain your concern and give a reason?”",
-    "correct": "A formal response that rejects disrespect without attacking the student and requests reasons; for example, “Please respond to the idea respectfully. Could you explain your concern and give a reason?”"
+    "type": "single",
+    "question": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "audioPrompt": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "visual": "Learning aid for: Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-008",
+      "alt_text": "Learning aid for: Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?"
+    },
+    "answers": [
+      "Only my friends may answer.",
+      "We have heard one view. Let us invite another speaker.",
+      "I will give every answer myself."
+    ],
+    "correct": 1,
+    "explanation": "A chairperson can acknowledge one view and invite another.\nHint: Look for fair speaking opportunities.",
+    "structuredExplanation": {
+      "summary": "A chairperson can acknowledge one view and invite another.",
+      "hint": "Look for fair speaking opportunities."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-009",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "During chairing a school council meeting, which response politely takes a turn with the council?",
+    "audioPrompt": "During chairing a school council meeting, which response politely takes a turn with the council?",
+    "visual": "Learning aid for: During chairing a school council meeting, which response politely takes a turn with the council?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: During chairing a school council meeting, which response politely takes a turn with the council?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-009",
+      "alt_text": "Learning aid for: During chairing a school council meeting, which response politely takes a turn with the council?"
+    },
+    "answers": [
+      "I am speaking now, so everyone stop.",
+      "Your idea does not matter.",
+      "Thank you, Priya. Noah, would you like to speak next?"
+    ],
+    "correct": 2,
+    "explanation": "Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Choose language that shares speaking time.",
+    "structuredExplanation": {
+      "summary": "Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Choose language that shares speaking time."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-010",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "audioPrompt": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "visual": "Learning aid for: A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: A speaker finishes a point during chairing a school council meeting. What should an active listener do next?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-010",
+      "alt_text": "Learning aid for: A speaker finishes a point during chairing a school council meeting. What should an active listener do next?"
+    },
+    "answers": [
+      "Refer to the point before adding a new idea.",
+      "Change the topic without responding.",
+      "Begin talking before the speaker finishes."
+    ],
+    "correct": 0,
+    "explanation": "Active listeners connect their response to what was said.\nHint: Look for a response that proves the listener paid attention.",
+    "structuredExplanation": {
+      "summary": "Active listeners connect their response to what was said.",
+      "hint": "Look for a response that proves the listener paid attention."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-011",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Which action best supports cooperation while chairing a school council meeting?",
+    "audioPrompt": "Which action best supports cooperation while chairing a school council meeting?",
+    "visual": "Learning aid for: Which action best supports cooperation while chairing a school council meeting?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which action best supports cooperation while chairing a school council meeting?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-011",
+      "alt_text": "Learning aid for: Which action best supports cooperation while chairing a school council meeting?"
+    },
+    "answers": [
+      "Repeat the same interruption.",
+      "Wait for a pause, then speak.",
+      "Talk over the group."
+    ],
+    "correct": 1,
+    "explanation": "Waiting for a pause helps everyone take a fair turn.\nHint: Think about how each person gets heard.",
+    "structuredExplanation": {
+      "summary": "Waiting for a pause helps everyone take a fair turn.",
+      "hint": "Think about how each person gets heard."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-012",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "audioPrompt": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "visual": "Learning aid for: Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which invitation would help a quiet group member join the talk about chairing a school council meeting?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-012",
+      "alt_text": "Learning aid for: Which invitation would help a quiet group member join the talk about chairing a school council meeting?"
+    },
+    "answers": [
+      "You have nothing to say, do you?",
+      "Do not speak yet.",
+      "Would you like to share your idea?"
+    ],
+    "correct": 2,
+    "explanation": "A respectful invitation makes space for another speaker.\nHint: Choose the wording that welcomes a contribution.",
+    "structuredExplanation": {
+      "summary": "A respectful invitation makes space for another speaker.",
+      "hint": "Choose the wording that welcomes a contribution."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-013",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "audioPrompt": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "visual": "Learning aid for: Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-013",
+      "alt_text": "Learning aid for: Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?"
+    },
+    "answers": [
+      "I may not have explained clearly. I meant that we could try it first.",
+      "You never listen properly.",
+      "Forget it. I will not explain."
+    ],
+    "correct": 0,
+    "explanation": "A repair calmly clarifies meaning without blaming the listener.\nHint: Find the reply that explains again respectfully.",
+    "structuredExplanation": {
+      "summary": "A repair calmly clarifies meaning without blaming the listener.",
+      "hint": "Find the reply that explains again respectfully."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-014",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Which wording is best suited to the council during chairing a school council meeting?",
+    "audioPrompt": "Which wording is best suited to the council during chairing a school council meeting?",
+    "visual": "Learning aid for: Which wording is best suited to the council during chairing a school council meeting?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which wording is best suited to the council during chairing a school council meeting?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-014",
+      "alt_text": "Learning aid for: Which wording is best suited to the council during chairing a school council meeting?"
+    },
+    "answers": [
+      "Move over. My turn.",
+      "Thank you, Priya. Noah, would you like to speak next?",
+      "Hey, listen to me right now."
+    ],
+    "correct": 1,
+    "explanation": "Language changes with audience and formality.\nHint: Notice who is being addressed.",
+    "structuredExplanation": {
+      "summary": "Language changes with audience and formality.",
+      "hint": "Notice who is being addressed."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-015",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "audioPrompt": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "visual": "Learning aid for: Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-015",
+      "alt_text": "Learning aid for: Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?"
+    },
+    "answers": [
+      "Both speakers talk louder.",
+      "One speaker insults the other.",
+      "One speaker pauses and invites the other to continue."
+    ],
+    "correct": 2,
+    "explanation": "Cooperation means managing an accidental overlap respectfully.\nHint: Choose the action that restores orderly turns.",
+    "structuredExplanation": {
+      "summary": "Cooperation means managing an accidental overlap respectfully.",
+      "hint": "Choose the action that restores orderly turns."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la01-t-016",
+    "curriculumCode": "AC9E3LA01",
+    "bank": "test",
+    "skill": "Conversation Conventions and Formality",
+    "printable": true,
+    "type": "single",
+    "question": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "audioPrompt": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "visual": "Learning aid for: Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Learning aid for: Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la01.svg#ac9e3la01-t-016",
+      "alt_text": "Learning aid for: Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?"
+    },
+    "answers": [
+      "We have heard one view. Let us invite another speaker.",
+      "Only my friends may answer.",
+      "I will give every answer myself."
+    ],
+    "correct": 0,
+    "explanation": "A chairperson can acknowledge one view and invite another.\nHint: Look for fair speaking opportunities.",
+    "structuredExplanation": {
+      "summary": "A chairperson can acknowledge one view and invite another.",
+      "hint": "Look for fair speaking opportunities."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

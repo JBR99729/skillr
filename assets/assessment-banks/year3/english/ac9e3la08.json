@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E3LA08-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links yesterday with the verb?",
+    "audio_prompt": "Which sentence correctly links yesterday with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-001",
+      "alt_text": "Learning aid for: Which sentence correctly links yesterday with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Yesterday, the student walks a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, the student walked a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday, the student will walk a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Past-tense verbs locate a process before now.",
+      "hint": "Match the verb form to the past-time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links today with the verb?",
+    "audio_prompt": "Which sentence correctly links today with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-002",
+      "alt_text": "Learning aid for: Which sentence correctly links today with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Today, the student walked a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Today, the student will walk a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Today, the student walks a note.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Present tense can describe what happens now or regularly.",
+      "hint": "Use the time clue to select the present form."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links tomorrow with the verb?",
+    "audio_prompt": "Which sentence correctly links tomorrow with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-003",
+      "alt_text": "Learning aid for: Which sentence correctly links tomorrow with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Tomorrow, the student will walk a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Tomorrow, the student walked a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Tomorrow, the student walks a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Future tense locates a process after now.",
+      "hint": "Look for the verb phrase beginning with will."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-004",
+      "alt_text": "Learning aid for: A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense?"
+    },
+    "answers": [
+      {
+        "text": "Then we walks again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we walked again.",
+        "is_correct": true
+      },
+      {
+        "text": "Then we will walk again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent tense helps readers follow time.",
+      "hint": "Keep the next verb in the same time as the first."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which edit fixes the tense shift in “Yesterday, she walked, then she walks”?",
+    "audio_prompt": "Which edit fixes the tense shift in “Yesterday, she walked, then she walks”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-005",
+      "alt_text": "Learning aid for: Which edit fixes the tense shift in “Yesterday, she walked, then she walks”?"
+    },
+    "answers": [
+      {
+        "text": "Change “walked” to “will walk”.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep both verbs because their times already match.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “walks” to “walked”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both events with the same past-time frame need past forms.",
+      "hint": "Use the opening time phrase as your guide."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which words in “Tomorrow, they will walk” show future time?",
+    "audio_prompt": "Which words in “Tomorrow, they will walk” show future time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-006",
+      "alt_text": "Learning aid for: Which words in “Tomorrow, they will walk” show future time?"
+    },
+    "answers": [
+      {
+        "text": "Tomorrow and “will walk”",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday and “walked”",
+        "is_correct": false
+      },
+      {
+        "text": "Today and “walks”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A time phrase and verb form can both anchor an event in time.",
+      "hint": "Find the pair that points after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Why does a writer use “walks” after today?",
+    "audio_prompt": "Why does a writer use “walks” after today?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-007",
+      "alt_text": "Learning aid for: Why does a writer use “walks” after today?"
+    },
+    "answers": [
+      {
+        "text": "To show that the process ended long ago.",
+        "is_correct": false
+      },
+      {
+        "text": "To show a current or repeated process.",
+        "is_correct": true
+      },
+      {
+        "text": "To show that the process can never occur.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Present tense suits current and habitual actions.",
+      "hint": "Connect the tense to the time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-008",
+      "alt_text": "Learning aid for: Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future?"
+    },
+    "answers": [
+      {
+        "text": "Yesterday: will walk; today: walked; tomorrow: walks.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday: walks; today: will walk; tomorrow: walked.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday: walked; today: walks; tomorrow: will walk.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Verb tense can organise events along a timeline.",
+      "hint": "Match each form to before now, now, and after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links last week with the verb?",
+    "audio_prompt": "Which sentence correctly links last week with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-009",
+      "alt_text": "Learning aid for: Which sentence correctly links last week with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Last week, the student measured a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Last week, the student measures a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Last week, the student will measure a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Past-tense verbs locate a process before now.",
+      "hint": "Match the verb form to the past-time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links each day with the verb?",
+    "audio_prompt": "Which sentence correctly links each day with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-010",
+      "alt_text": "Learning aid for: Which sentence correctly links each day with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Each day, the student measured a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Each day, the student measures a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Each day, the student will measure a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Present tense can describe what happens now or regularly.",
+      "hint": "Use the time clue to select the present form."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links next week with the verb?",
+    "audio_prompt": "Which sentence correctly links next week with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-011",
+      "alt_text": "Learning aid for: Which sentence correctly links next week with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Next week, the student measured a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Next week, the student measures a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Next week, the student will measure a note.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Future tense locates a process after now.",
+      "hint": "Look for the verb phrase beginning with will."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-012",
+      "alt_text": "Learning aid for: A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?"
+    },
+    "answers": [
+      {
+        "text": "Then we measured again.",
+        "is_correct": true
+      },
+      {
+        "text": "Then we measures again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we will measure again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent tense helps readers follow time.",
+      "hint": "Keep the next verb in the same time as the first."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
+    "audio_prompt": "Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-013",
+      "alt_text": "Learning aid for: Which edit fixes the tense shift in “Last week, she measured, then she measures”?"
+    },
+    "answers": [
+      {
+        "text": "Change “measured” to “will measure”.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “measures” to “measured”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep both verbs because their times already match.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both events with the same past-time frame need past forms.",
+      "hint": "Use the opening time phrase as your guide."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which words in “Next week, they will measure” show future time?",
+    "audio_prompt": "Which words in “Next week, they will measure” show future time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-014",
+      "alt_text": "Learning aid for: Which words in “Next week, they will measure” show future time?"
+    },
+    "answers": [
+      {
+        "text": "Last week and “measured”",
+        "is_correct": false
+      },
+      {
+        "text": "Each day and “measures”",
+        "is_correct": false
+      },
+      {
+        "text": "Next week and “will measure”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A time phrase and verb form can both anchor an event in time.",
+      "hint": "Find the pair that points after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Why does a writer use “measures” after each day?",
+    "audio_prompt": "Why does a writer use “measures” after each day?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-015",
+      "alt_text": "Learning aid for: Why does a writer use “measures” after each day?"
+    },
+    "answers": [
+      {
+        "text": "To show a current or repeated process.",
+        "is_correct": true
+      },
+      {
+        "text": "To show that the process ended long ago.",
+        "is_correct": false
+      },
+      {
+        "text": "To show that the process can never occur.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Present tense suits current and habitual actions.",
+      "hint": "Connect the tense to the time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-016",
+      "alt_text": "Learning aid for: Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?"
+    },
+    "answers": [
+      {
+        "text": "Last week: will measure; each day: measured; next week: measures.",
+        "is_correct": false
+      },
+      {
+        "text": "Last week: measured; each day: measures; next week: will measure.",
+        "is_correct": true
+      },
+      {
+        "text": "Last week: measures; each day: will measure; next week: measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Verb tense can organise events along a timeline.",
+      "hint": "Match each form to before now, now, and after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links earlier with the verb?",
+    "audio_prompt": "Which sentence correctly links earlier with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-017",
+      "alt_text": "Learning aid for: Which sentence correctly links earlier with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Earlier, the student writes a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier, the student will write a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier, the student wrote a note.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Past-tense verbs locate a process before now.",
+      "hint": "Match the verb form to the past-time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links now with the verb?",
+    "audio_prompt": "Which sentence correctly links now with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-018",
+      "alt_text": "Learning aid for: Which sentence correctly links now with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Now, the student writes a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Now, the student wrote a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Now, the student will write a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Present tense can describe what happens now or regularly.",
+      "hint": "Use the time clue to select the present form."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links later with the verb?",
+    "audio_prompt": "Which sentence correctly links later with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-019",
+      "alt_text": "Learning aid for: Which sentence correctly links later with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Later, the student wrote a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Later, the student will write a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Later, the student writes a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Future tense locates a process after now.",
+      "hint": "Look for the verb phrase beginning with will."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-020",
+      "alt_text": "Learning aid for: A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?"
+    },
+    "answers": [
+      {
+        "text": "Then we writes again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we will write again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we wrote again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent tense helps readers follow time.",
+      "hint": "Keep the next verb in the same time as the first."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
+    "audio_prompt": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-021",
+      "alt_text": "Learning aid for: Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?"
+    },
+    "answers": [
+      {
+        "text": "Change “writes” to “wrote”.",
+        "is_correct": true
+      },
+      {
+        "text": "Change “wrote” to “will write”.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep both verbs because their times already match.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both events with the same past-time frame need past forms.",
+      "hint": "Use the opening time phrase as your guide."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Which words in “Later, they will write” show future time?",
+    "audio_prompt": "Which words in “Later, they will write” show future time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-022",
+      "alt_text": "Learning aid for: Which words in “Later, they will write” show future time?"
+    },
+    "answers": [
+      {
+        "text": "Earlier and “wrote”",
+        "is_correct": false
+      },
+      {
+        "text": "Later and “will write”",
+        "is_correct": true
+      },
+      {
+        "text": "Now and “writes”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A time phrase and verb form can both anchor an event in time.",
+      "hint": "Find the pair that points after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Why does a writer use “writes” after now?",
+    "audio_prompt": "Why does a writer use “writes” after now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-023",
+      "alt_text": "Learning aid for: Why does a writer use “writes” after now?"
+    },
+    "answers": [
+      {
+        "text": "To show that the process ended long ago.",
+        "is_correct": false
+      },
+      {
+        "text": "To show that the process can never occur.",
+        "is_correct": false
+      },
+      {
+        "text": "To show a current or repeated process.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Present tense suits current and habitual actions.",
+      "hint": "Connect the tense to the time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "Verb Tense and Time",
+    "question": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-p-024",
+      "alt_text": "Learning aid for: Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?"
+    },
+    "answers": [
+      {
+        "text": "Earlier: wrote; now: writes; later: will write.",
+        "is_correct": true
+      },
+      {
+        "text": "Earlier: will write; now: wrote; later: writes.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier: writes; now: will write; later: wrote.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Verb tense can organise events along a timeline.",
+      "hint": "Match each form to before now, now, and after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links on monday with the verb?",
+    "audio_prompt": "Which sentence correctly links on monday with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-001",
+      "alt_text": "Learning aid for: Which sentence correctly links on monday with the verb?"
+    },
+    "answers": [
+      {
+        "text": "On Monday, the student finds a note.",
+        "is_correct": false
+      },
+      {
+        "text": "On Monday, the student found a note.",
+        "is_correct": true
+      },
+      {
+        "text": "On Monday, the student will find a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Past-tense verbs locate a process before now.",
+      "hint": "Match the verb form to the past-time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links every morning with the verb?",
+    "audio_prompt": "Which sentence correctly links every morning with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-002",
+      "alt_text": "Learning aid for: Which sentence correctly links every morning with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Every morning, the student found a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Every morning, the student will find a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Every morning, the student finds a note.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Present tense can describe what happens now or regularly.",
+      "hint": "Use the time clue to select the present form."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links on friday with the verb?",
+    "audio_prompt": "Which sentence correctly links on friday with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-003",
+      "alt_text": "Learning aid for: Which sentence correctly links on friday with the verb?"
+    },
+    "answers": [
+      {
+        "text": "On Friday, the student will find a note.",
+        "is_correct": true
+      },
+      {
+        "text": "On Friday, the student found a note.",
+        "is_correct": false
+      },
+      {
+        "text": "On Friday, the student finds a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Future tense locates a process after now.",
+      "hint": "Look for the verb phrase beginning with will."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-004",
+      "alt_text": "Learning aid for: A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?"
+    },
+    "answers": [
+      {
+        "text": "Then we finds again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we found again.",
+        "is_correct": true
+      },
+      {
+        "text": "Then we will find again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent tense helps readers follow time.",
+      "hint": "Keep the next verb in the same time as the first."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
+    "audio_prompt": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-005",
+      "alt_text": "Learning aid for: Which edit fixes the tense shift in “On Monday, she found, then she finds”?"
+    },
+    "answers": [
+      {
+        "text": "Change “found” to “will find”.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep both verbs because their times already match.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “finds” to “found”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both events with the same past-time frame need past forms.",
+      "hint": "Use the opening time phrase as your guide."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which words in “On Friday, they will find” show future time?",
+    "audio_prompt": "Which words in “On Friday, they will find” show future time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-006",
+      "alt_text": "Learning aid for: Which words in “On Friday, they will find” show future time?"
+    },
+    "answers": [
+      {
+        "text": "On Friday and “will find”",
+        "is_correct": true
+      },
+      {
+        "text": "On Monday and “found”",
+        "is_correct": false
+      },
+      {
+        "text": "Every morning and “finds”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A time phrase and verb form can both anchor an event in time.",
+      "hint": "Find the pair that points after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Why does a writer use “finds” after every morning?",
+    "audio_prompt": "Why does a writer use “finds” after every morning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-007",
+      "alt_text": "Learning aid for: Why does a writer use “finds” after every morning?"
+    },
+    "answers": [
+      {
+        "text": "To show that the process ended long ago.",
+        "is_correct": false
+      },
+      {
+        "text": "To show a current or repeated process.",
+        "is_correct": true
+      },
+      {
+        "text": "To show that the process can never occur.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Present tense suits current and habitual actions.",
+      "hint": "Connect the tense to the time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-008",
+      "alt_text": "Learning aid for: Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?"
+    },
+    "answers": [
+      {
+        "text": "On Monday: will find; every morning: found; on friday: finds.",
+        "is_correct": false
+      },
+      {
+        "text": "On Monday: finds; every morning: will find; on friday: found.",
+        "is_correct": false
+      },
+      {
+        "text": "On Monday: found; every morning: finds; on friday: will find.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Verb tense can organise events along a timeline.",
+      "hint": "Match each form to before now, now, and after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links before lunch with the verb?",
+    "audio_prompt": "Which sentence correctly links before lunch with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-009",
+      "alt_text": "Learning aid for: Which sentence correctly links before lunch with the verb?"
+    },
+    "answers": [
+      {
+        "text": "Before lunch, the student made a note.",
+        "is_correct": true
+      },
+      {
+        "text": "Before lunch, the student makes a note.",
+        "is_correct": false
+      },
+      {
+        "text": "Before lunch, the student will make a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Past-tense verbs locate a process before now.",
+      "hint": "Match the verb form to the past-time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links at present with the verb?",
+    "audio_prompt": "Which sentence correctly links at present with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-010",
+      "alt_text": "Learning aid for: Which sentence correctly links at present with the verb?"
+    },
+    "answers": [
+      {
+        "text": "At present, the student made a note.",
+        "is_correct": false
+      },
+      {
+        "text": "At present, the student makes a note.",
+        "is_correct": true
+      },
+      {
+        "text": "At present, the student will make a note.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Present tense can describe what happens now or regularly.",
+      "hint": "Use the time clue to select the present form."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which sentence correctly links after lunch with the verb?",
+    "audio_prompt": "Which sentence correctly links after lunch with the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-011",
+      "alt_text": "Learning aid for: Which sentence correctly links after lunch with the verb?"
+    },
+    "answers": [
+      {
+        "text": "After lunch, the student made a note.",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch, the student makes a note.",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch, the student will make a note.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Future tense locates a process after now.",
+      "hint": "Look for the verb phrase beginning with will."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-012",
+      "alt_text": "Learning aid for: A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?"
+    },
+    "answers": [
+      {
+        "text": "Then we made again.",
+        "is_correct": true
+      },
+      {
+        "text": "Then we makes again.",
+        "is_correct": false
+      },
+      {
+        "text": "Then we will make again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent tense helps readers follow time.",
+      "hint": "Keep the next verb in the same time as the first."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
+    "audio_prompt": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-013",
+      "alt_text": "Learning aid for: Which edit fixes the tense shift in “Before lunch, she made, then she makes”?"
+    },
+    "answers": [
+      {
+        "text": "Change “made” to “will make”.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “makes” to “made”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep both verbs because their times already match.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both events with the same past-time frame need past forms.",
+      "hint": "Use the opening time phrase as your guide."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Which words in “After lunch, they will make” show future time?",
+    "audio_prompt": "Which words in “After lunch, they will make” show future time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-014",
+      "alt_text": "Learning aid for: Which words in “After lunch, they will make” show future time?"
+    },
+    "answers": [
+      {
+        "text": "Before lunch and “made”",
+        "is_correct": false
+      },
+      {
+        "text": "At present and “makes”",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch and “will make”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A time phrase and verb form can both anchor an event in time.",
+      "hint": "Find the pair that points after now."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Why does a writer use “makes” after at present?",
+    "audio_prompt": "Why does a writer use “makes” after at present?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-015",
+      "alt_text": "Learning aid for: Why does a writer use “makes” after at present?"
+    },
+    "answers": [
+      {
+        "text": "To show a current or repeated process.",
+        "is_correct": true
+      },
+      {
+        "text": "To show that the process ended long ago.",
+        "is_correct": false
+      },
+      {
+        "text": "To show that the process can never occur.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Present tense suits current and habitual actions.",
+      "hint": "Connect the tense to the time clue."
+    }
+  },
+  {
+    "id": "AC9E3LA08-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA08",
+    "bank": "test",
+    "skill": "Verb Tense and Time",
+    "question": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la08.svg#ac9e3la08-t-016",
+      "alt_text": "Learning aid for: Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?"
+    },
+    "answers": [
+      {
+        "text": "Before lunch: will make; at present: made; after lunch: makes.",
+        "is_correct": false
+      },
+      {
+        "text": "Before lunch: made; at present: makes; after lunch: will make.",
+        "is_correct": true
+      },
+      {
+        "text": "Before lunch: makes; at present: will make; after lunch: made.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Verb tense can organise events along a timeline.",
+      "hint": "Match each form to before now, now, and after now."
+    }
+  }
+]

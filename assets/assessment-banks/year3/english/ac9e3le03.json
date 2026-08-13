@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E3LE03-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, which words create the strongest uneasy mood?",
+    "audio_prompt": "On a page showing a moonlit forest, which words create the strongest uneasy mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-001",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "nice trees stood",
+        "is_correct": false
+      },
+      {
+        "text": "silent shadows crept",
+        "is_correct": true
+      },
+      {
+        "text": "green leaves grew",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "On a page showing a moonlit forest, an illustration shows crossed arms and a frown. What does it suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-002",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character is certainly asleep",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is underwater",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be upset or unwilling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, how can an image extend the written words?",
+    "audio_prompt": "On a page showing a moonlit forest, how can an image extend the written words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-003",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "It can add clues about mood, setting or character",
+        "is_correct": true
+      },
+      {
+        "text": "It repeats every sentence exactly",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, which detail best portrays a hurried event?",
+    "audio_prompt": "On a page showing a moonlit forest, which detail best portrays a hurried event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-004",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A chair was brown",
+        "is_correct": false
+      },
+      {
+        "text": "Boots pounded as people rushed past",
+        "is_correct": true
+      },
+      {
+        "text": "The clock had numbers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "On a page showing a moonlit forest, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-005",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character has no feelings",
+        "is_correct": false
+      },
+      {
+        "text": "The picture cannot affect meaning",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be hiding tension",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "On a page showing a moonlit forest, which illustration best supports a dangerous storm scene?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-006",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Bent trees beneath dark clouds",
+        "is_correct": true
+      },
+      {
+        "text": "A neat picnic under clear skies",
+        "is_correct": false
+      },
+      {
+        "text": "A blank white wall",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, why might an author choose a close-up of a face?",
+    "audio_prompt": "On a page showing a moonlit forest, why might an author choose a close-up of a face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-007",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "To show the whole country's location",
+        "is_correct": false
+      },
+      {
+        "text": "To emphasise a character's emotion",
+        "is_correct": true
+      },
+      {
+        "text": "To list the plot in order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a moonlit forest, which comparison explains a combined effect?",
+    "audio_prompt": "On a page showing a moonlit forest, which comparison explains a combined effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-008",
+      "alt_text": "A classroom English model for on a page showing a moonlit forest showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The page has words and a picture",
+        "is_correct": false
+      },
+      {
+        "text": "Both versions use paper",
+        "is_correct": false
+      },
+      {
+        "text": "The dark words and tilted image both make the scene feel unstable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, which words create the strongest uneasy mood?",
+    "audio_prompt": "In a scene beside a crowded station, which words create the strongest uneasy mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-009",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "silent shadows crept",
+        "is_correct": true
+      },
+      {
+        "text": "nice trees stood",
+        "is_correct": false
+      },
+      {
+        "text": "green leaves grew",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "In a scene beside a crowded station, an illustration shows crossed arms and a frown. What does it suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-010",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character is certainly asleep",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be upset or unwilling",
+        "is_correct": true
+      },
+      {
+        "text": "The setting is underwater",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, how can an image extend the written words?",
+    "audio_prompt": "In a scene beside a crowded station, how can an image extend the written words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-011",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "It repeats every sentence exactly",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "It can add clues about mood, setting or character",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, which detail best portrays a hurried event?",
+    "audio_prompt": "In a scene beside a crowded station, which detail best portrays a hurried event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-012",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Boots pounded as people rushed past",
+        "is_correct": true
+      },
+      {
+        "text": "A chair was brown",
+        "is_correct": false
+      },
+      {
+        "text": "The clock had numbers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-013",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character has no feelings",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be hiding tension",
+        "is_correct": true
+      },
+      {
+        "text": "The picture cannot affect meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-014",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A neat picnic under clear skies",
+        "is_correct": false
+      },
+      {
+        "text": "A blank white wall",
+        "is_correct": false
+      },
+      {
+        "text": "Bent trees beneath dark clouds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
+    "audio_prompt": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-015",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "To emphasise a character's emotion",
+        "is_correct": true
+      },
+      {
+        "text": "To show the whole country's location",
+        "is_correct": false
+      },
+      {
+        "text": "To list the plot in order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene beside a crowded station, which comparison explains a combined effect?",
+    "audio_prompt": "In a scene beside a crowded station, which comparison explains a combined effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-016",
+      "alt_text": "A classroom English model for in a scene beside a crowded station showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The page has words and a picture",
+        "is_correct": false
+      },
+      {
+        "text": "The dark words and tilted image both make the scene feel unstable",
+        "is_correct": true
+      },
+      {
+        "text": "Both versions use paper",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, which words create the strongest uneasy mood?",
+    "audio_prompt": "On a page showing an empty playground, which words create the strongest uneasy mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-017",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "nice trees stood",
+        "is_correct": false
+      },
+      {
+        "text": "green leaves grew",
+        "is_correct": false
+      },
+      {
+        "text": "silent shadows crept",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-018",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character may be upset or unwilling",
+        "is_correct": true
+      },
+      {
+        "text": "The character is certainly asleep",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is underwater",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, how can an image extend the written words?",
+    "audio_prompt": "On a page showing an empty playground, how can an image extend the written words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-019",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "It repeats every sentence exactly",
+        "is_correct": false
+      },
+      {
+        "text": "It can add clues about mood, setting or character",
+        "is_correct": true
+      },
+      {
+        "text": "It removes the need for interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, which detail best portrays a hurried event?",
+    "audio_prompt": "On a page showing an empty playground, which detail best portrays a hurried event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-020",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A chair was brown",
+        "is_correct": false
+      },
+      {
+        "text": "The clock had numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Boots pounded as people rushed past",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-021",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character may be hiding tension",
+        "is_correct": true
+      },
+      {
+        "text": "The character has no feelings",
+        "is_correct": false
+      },
+      {
+        "text": "The picture cannot affect meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-022",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A neat picnic under clear skies",
+        "is_correct": false
+      },
+      {
+        "text": "Bent trees beneath dark clouds",
+        "is_correct": true
+      },
+      {
+        "text": "A blank white wall",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, why might an author choose a close-up of a face?",
+    "audio_prompt": "On a page showing an empty playground, why might an author choose a close-up of a face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-023",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "To show the whole country's location",
+        "is_correct": false
+      },
+      {
+        "text": "To list the plot in order",
+        "is_correct": false
+      },
+      {
+        "text": "To emphasise a character's emotion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "practice",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing an empty playground, which comparison explains a combined effect?",
+    "audio_prompt": "On a page showing an empty playground, which comparison explains a combined effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-p-024",
+      "alt_text": "A classroom English model for on a page showing an empty playground showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The dark words and tilted image both make the scene feel unstable",
+        "is_correct": true
+      },
+      {
+        "text": "The page has words and a picture",
+        "is_correct": false
+      },
+      {
+        "text": "Both versions use paper",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
+    "audio_prompt": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-001",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "nice trees stood",
+        "is_correct": false
+      },
+      {
+        "text": "silent shadows crept",
+        "is_correct": true
+      },
+      {
+        "text": "green leaves grew",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-002",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character is certainly asleep",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is underwater",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be upset or unwilling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, how can an image extend the written words?",
+    "audio_prompt": "In a scene inside a storm shelter, how can an image extend the written words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-003",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "It can add clues about mood, setting or character",
+        "is_correct": true
+      },
+      {
+        "text": "It repeats every sentence exactly",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
+    "audio_prompt": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-004",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A chair was brown",
+        "is_correct": false
+      },
+      {
+        "text": "Boots pounded as people rushed past",
+        "is_correct": true
+      },
+      {
+        "text": "The clock had numbers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-005",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character has no feelings",
+        "is_correct": false
+      },
+      {
+        "text": "The picture cannot affect meaning",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be hiding tension",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-006",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Bent trees beneath dark clouds",
+        "is_correct": true
+      },
+      {
+        "text": "A neat picnic under clear skies",
+        "is_correct": false
+      },
+      {
+        "text": "A blank white wall",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
+    "audio_prompt": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-007",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "To show the whole country's location",
+        "is_correct": false
+      },
+      {
+        "text": "To emphasise a character's emotion",
+        "is_correct": true
+      },
+      {
+        "text": "To list the plot in order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "In a scene inside a storm shelter, which comparison explains a combined effect?",
+    "audio_prompt": "In a scene inside a storm shelter, which comparison explains a combined effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-008",
+      "alt_text": "A classroom English model for in a scene inside a storm shelter showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The page has words and a picture",
+        "is_correct": false
+      },
+      {
+        "text": "Both versions use paper",
+        "is_correct": false
+      },
+      {
+        "text": "The dark words and tilted image both make the scene feel unstable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, which words create the strongest uneasy mood?",
+    "audio_prompt": "On a page showing a bright market, which words create the strongest uneasy mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-009",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "silent shadows crept",
+        "is_correct": true
+      },
+      {
+        "text": "nice trees stood",
+        "is_correct": false
+      },
+      {
+        "text": "green leaves grew",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-010",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character is certainly asleep",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be upset or unwilling",
+        "is_correct": true
+      },
+      {
+        "text": "The setting is underwater",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, how can an image extend the written words?",
+    "audio_prompt": "On a page showing a bright market, how can an image extend the written words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-011",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "It repeats every sentence exactly",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "It can add clues about mood, setting or character",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, which detail best portrays a hurried event?",
+    "audio_prompt": "On a page showing a bright market, which detail best portrays a hurried event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-012",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Boots pounded as people rushed past",
+        "is_correct": true
+      },
+      {
+        "text": "A chair was brown",
+        "is_correct": false
+      },
+      {
+        "text": "The clock had numbers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-013",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The character has no feelings",
+        "is_correct": false
+      },
+      {
+        "text": "The character may be hiding tension",
+        "is_correct": true
+      },
+      {
+        "text": "The picture cannot affect meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-014",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A neat picnic under clear skies",
+        "is_correct": false
+      },
+      {
+        "text": "A blank white wall",
+        "is_correct": false
+      },
+      {
+        "text": "Bent trees beneath dark clouds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, why might an author choose a close-up of a face?",
+    "audio_prompt": "On a page showing a bright market, why might an author choose a close-up of a face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-015",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "To emphasise a character's emotion",
+        "is_correct": true
+      },
+      {
+        "text": "To show the whole country's location",
+        "is_correct": false
+      },
+      {
+        "text": "To list the plot in order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE03-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE03",
+    "bank": "test",
+    "skill": "Character, Setting and Narrative Mood",
+    "question": "On a page showing a bright market, which comparison explains a combined effect?",
+    "audio_prompt": "On a page showing a bright market, which comparison explains a combined effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le03.svg#ac9e3le03-t-016",
+      "alt_text": "A classroom English model for on a page showing a bright market showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "The page has words and a picture",
+        "is_correct": false
+      },
+      {
+        "text": "The dark words and tilted image both make the scene feel unstable",
+        "is_correct": true
+      },
+      {
+        "text": "Both versions use paper",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  }
+]

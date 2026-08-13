@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E3LA11-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains how to shorten “do not”?",
+    "audio_prompt": "Which option correctly explains how to shorten “do not”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-001",
+      "alt_text": "Learning aid for: Which option correctly explains how to shorten “do not”?"
+    },
+    "answers": [
+      {
+        "text": "Keep “do not” as two unshortened words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “don't”, the accepted shortened form.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove letters without marking where letters are missing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An apostrophe in a contraction marks omitted letters.",
+      "hint": "Say the full form, then find the accepted shortened form."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "What job does the apostrophe do in “don't”?",
+    "audio_prompt": "What job does the apostrophe do in “don't”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-002",
+      "alt_text": "Learning aid for: What job does the apostrophe do in “don't”?"
+    },
+    "answers": [
+      {
+        "text": "It makes the word plural.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that several people own something.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks letters omitted from the full form.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Contraction apostrophes show where letters have been left out.",
+      "hint": "Expand the contraction to find the missing letters."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the single owner in “the dog's bowl”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the dog's bowl”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-003",
+      "alt_text": "Learning aid for: Which option correctly explains the single owner in “the dog's bowl”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the dog's bowl” to show one owner.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the dogs' bowls” to show several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the dogs bowl” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Identify whether the owner is one or more than one."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the multiple owners in “the dogs' bowls”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the dogs' bowls”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-004",
+      "alt_text": "Learning aid for: Which option correctly explains the multiple owners in “the dogs' bowls”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the dog's bowl” to show one owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the dogs' bowls” to show several owners.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the dogs bowls” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "First make the owner plural, then show possession."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the dog's bowl”, what does the apostrophe show?",
+    "audio_prompt": "In “the dog's bowl”, what does the apostrophe show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-005",
+      "alt_text": "Learning aid for: In “the dog's bowl”, what does the apostrophe show?"
+    },
+    "answers": [
+      {
+        "text": "The noun is shortened from two words.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun names several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "One noun owns or is connected with something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Look at the noun immediately before the apostrophe."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the dogs' bowls”, where is the apostrophe placed?",
+    "audio_prompt": "In “the dogs' bowls”, where is the apostrophe placed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-006",
+      "alt_text": "Learning aid for: In “the dogs' bowls”, where is the apostrophe placed?"
+    },
+    "answers": [
+      {
+        "text": "After the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "Before the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start of the phrase.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Find the plural owner before adding the possession mark."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which explanation correctly compares “don't” and “the dog's bowl”?",
+    "audio_prompt": "Which explanation correctly compares “don't” and “the dog's bowl”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-007",
+      "alt_text": "Learning aid for: Which explanation correctly compares “don't” and “the dog's bowl”?"
+    },
+    "answers": [
+      {
+        "text": "Both apostrophes make nouns plural.",
+        "is_correct": false
+      },
+      {
+        "text": "In “don't” the apostrophe marks missing letters; in “the dog's bowl” it marks possession.",
+        "is_correct": true
+      },
+      {
+        "text": "Both apostrophes mark missing letters only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Expand the contraction, then identify the owner in the phrase."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "A student writes “the dogs bowls\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the dogs bowls\" for several owners. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-008",
+      "alt_text": "Learning aid for: A student writes “the dogs bowls\" for several owners. What edit is needed?"
+    },
+    "answers": [
+      {
+        "text": "Add an apostrophe before the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "Add an apostrophe after the plural s.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Keep the plural form and mark ownership after it."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains how to shorten “cannot”?",
+    "audio_prompt": "Which option correctly explains how to shorten “cannot”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-009",
+      "alt_text": "Learning aid for: Which option correctly explains how to shorten “cannot”?"
+    },
+    "answers": [
+      {
+        "text": "Use “can't”, the accepted shortened form.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “cannot” as two unshortened words.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove letters without marking where letters are missing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An apostrophe in a contraction marks omitted letters.",
+      "hint": "Say the full form, then find the accepted shortened form."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "What job does the apostrophe do in “can't”?",
+    "audio_prompt": "What job does the apostrophe do in “can't”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-010",
+      "alt_text": "Learning aid for: What job does the apostrophe do in “can't”?"
+    },
+    "answers": [
+      {
+        "text": "It makes the word plural.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks letters omitted from the full form.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows that several people own something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Contraction apostrophes show where letters have been left out.",
+      "hint": "Expand the contraction to find the missing letters."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the single owner in “the girl's bicycle”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the girl's bicycle”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-011",
+      "alt_text": "Learning aid for: Which option correctly explains the single owner in “the girl's bicycle”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the girls' bicycles” to show several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the girls bicycle” with no ownership mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the girl's bicycle” to show one owner.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Identify whether the owner is one or more than one."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the multiple owners in “the girls' bicycles”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the girls' bicycles”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-012",
+      "alt_text": "Learning aid for: Which option correctly explains the multiple owners in “the girls' bicycles”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the girls' bicycles” to show several owners.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the girl's bicycle” to show one owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the girls bicycles” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "First make the owner plural, then show possession."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the girl's bicycle”, what does the apostrophe show?",
+    "audio_prompt": "In “the girl's bicycle”, what does the apostrophe show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-013",
+      "alt_text": "Learning aid for: In “the girl's bicycle”, what does the apostrophe show?"
+    },
+    "answers": [
+      {
+        "text": "The noun is shortened from two words.",
+        "is_correct": false
+      },
+      {
+        "text": "One noun owns or is connected with something.",
+        "is_correct": true
+      },
+      {
+        "text": "The noun names several owners.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Look at the noun immediately before the apostrophe."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the girls' bicycles”, where is the apostrophe placed?",
+    "audio_prompt": "In “the girls' bicycles”, where is the apostrophe placed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-014",
+      "alt_text": "Learning aid for: In “the girls' bicycles”, where is the apostrophe placed?"
+    },
+    "answers": [
+      {
+        "text": "Before the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start of the phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "After the plural s.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Find the plural owner before adding the possession mark."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
+    "audio_prompt": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-015",
+      "alt_text": "Learning aid for: Which explanation correctly compares “can't” and “the girl's bicycle”?"
+    },
+    "answers": [
+      {
+        "text": "In “can't” the apostrophe marks missing letters; in “the girl's bicycle” it marks possession.",
+        "is_correct": true
+      },
+      {
+        "text": "Both apostrophes make nouns plural.",
+        "is_correct": false
+      },
+      {
+        "text": "Both apostrophes mark missing letters only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Expand the contraction, then identify the owner in the phrase."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-016",
+      "alt_text": "Learning aid for: A student writes “the girls bicycles\" for several owners. What edit is needed?"
+    },
+    "answers": [
+      {
+        "text": "Add an apostrophe before the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Add an apostrophe after the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the plural s.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Keep the plural form and mark ownership after it."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains how to shorten “it is”?",
+    "audio_prompt": "Which option correctly explains how to shorten “it is”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-017",
+      "alt_text": "Learning aid for: Which option correctly explains how to shorten “it is”?"
+    },
+    "answers": [
+      {
+        "text": "Keep “it is” as two unshortened words.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove letters without marking where letters are missing.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “it's”, the accepted shortened form.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An apostrophe in a contraction marks omitted letters.",
+      "hint": "Say the full form, then find the accepted shortened form."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "What job does the apostrophe do in “it's”?",
+    "audio_prompt": "What job does the apostrophe do in “it's”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-018",
+      "alt_text": "Learning aid for: What job does the apostrophe do in “it's”?"
+    },
+    "answers": [
+      {
+        "text": "It marks letters omitted from the full form.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the word plural.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that several people own something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contraction apostrophes show where letters have been left out.",
+      "hint": "Expand the contraction to find the missing letters."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the single owner in “the teacher's desk”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the teacher's desk”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-019",
+      "alt_text": "Learning aid for: Which option correctly explains the single owner in “the teacher's desk”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the teachers' desks” to show several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the teacher's desk” to show one owner.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the teachers desk” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Identify whether the owner is one or more than one."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the multiple owners in “the teachers' desks”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the teachers' desks”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-020",
+      "alt_text": "Learning aid for: Which option correctly explains the multiple owners in “the teachers' desks”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the teacher's desk” to show one owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the teachers desks” with no ownership mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the teachers' desks” to show several owners.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "First make the owner plural, then show possession."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the teacher's desk”, what does the apostrophe show?",
+    "audio_prompt": "In “the teacher's desk”, what does the apostrophe show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-021",
+      "alt_text": "Learning aid for: In “the teacher's desk”, what does the apostrophe show?"
+    },
+    "answers": [
+      {
+        "text": "One noun owns or is connected with something.",
+        "is_correct": true
+      },
+      {
+        "text": "The noun is shortened from two words.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun names several owners.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Look at the noun immediately before the apostrophe."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the teachers' desks”, where is the apostrophe placed?",
+    "audio_prompt": "In “the teachers' desks”, where is the apostrophe placed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-022",
+      "alt_text": "Learning aid for: In “the teachers' desks”, where is the apostrophe placed?"
+    },
+    "answers": [
+      {
+        "text": "Before the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "After the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "At the start of the phrase.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Find the plural owner before adding the possession mark."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which explanation correctly compares “it's” and “the teacher's desk”?",
+    "audio_prompt": "Which explanation correctly compares “it's” and “the teacher's desk”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-023",
+      "alt_text": "Learning aid for: Which explanation correctly compares “it's” and “the teacher's desk”?"
+    },
+    "answers": [
+      {
+        "text": "Both apostrophes make nouns plural.",
+        "is_correct": false
+      },
+      {
+        "text": "Both apostrophes mark missing letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "In “it's” the apostrophe marks missing letters; in “the teacher's desk” it marks possession.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Expand the contraction, then identify the owner in the phrase."
+    }
+  },
+  {
+    "id": "AC9E3LA11-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "A student writes “the teachers desks\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the teachers desks\" for several owners. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-p-024",
+      "alt_text": "Learning aid for: A student writes “the teachers desks\" for several owners. What edit is needed?"
+    },
+    "answers": [
+      {
+        "text": "Add an apostrophe after the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "Add an apostrophe before the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the plural s.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Keep the plural form and mark ownership after it."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains how to shorten “they are”?",
+    "audio_prompt": "Which option correctly explains how to shorten “they are”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-001",
+      "alt_text": "Learning aid for: Which option correctly explains how to shorten “they are”?"
+    },
+    "answers": [
+      {
+        "text": "Keep “they are” as two unshortened words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “they're”, the accepted shortened form.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove letters without marking where letters are missing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An apostrophe in a contraction marks omitted letters.",
+      "hint": "Say the full form, then find the accepted shortened form."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "What job does the apostrophe do in “they're”?",
+    "audio_prompt": "What job does the apostrophe do in “they're”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-002",
+      "alt_text": "Learning aid for: What job does the apostrophe do in “they're”?"
+    },
+    "answers": [
+      {
+        "text": "It makes the word plural.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that several people own something.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks letters omitted from the full form.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Contraction apostrophes show where letters have been left out.",
+      "hint": "Expand the contraction to find the missing letters."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the single owner in “the fox's den”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the fox's den”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-003",
+      "alt_text": "Learning aid for: Which option correctly explains the single owner in “the fox's den”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the fox's den” to show one owner.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the foxes' dens” to show several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the foxs den” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Identify whether the owner is one or more than one."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the multiple owners in “the foxes' dens”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the foxes' dens”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-004",
+      "alt_text": "Learning aid for: Which option correctly explains the multiple owners in “the foxes' dens”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the fox's den” to show one owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the foxes' dens” to show several owners.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the foxes dens” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "First make the owner plural, then show possession."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the fox's den”, what does the apostrophe show?",
+    "audio_prompt": "In “the fox's den”, what does the apostrophe show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-005",
+      "alt_text": "Learning aid for: In “the fox's den”, what does the apostrophe show?"
+    },
+    "answers": [
+      {
+        "text": "The noun is shortened from two words.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun names several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "One noun owns or is connected with something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Look at the noun immediately before the apostrophe."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the foxes' dens”, where is the apostrophe placed?",
+    "audio_prompt": "In “the foxes' dens”, where is the apostrophe placed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-006",
+      "alt_text": "Learning aid for: In “the foxes' dens”, where is the apostrophe placed?"
+    },
+    "answers": [
+      {
+        "text": "After the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "Before the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start of the phrase.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Find the plural owner before adding the possession mark."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which explanation correctly compares “they're” and “the fox's den”?",
+    "audio_prompt": "Which explanation correctly compares “they're” and “the fox's den”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-007",
+      "alt_text": "Learning aid for: Which explanation correctly compares “they're” and “the fox's den”?"
+    },
+    "answers": [
+      {
+        "text": "Both apostrophes make nouns plural.",
+        "is_correct": false
+      },
+      {
+        "text": "In “they're” the apostrophe marks missing letters; in “the fox's den” it marks possession.",
+        "is_correct": true
+      },
+      {
+        "text": "Both apostrophes mark missing letters only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Expand the contraction, then identify the owner in the phrase."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "A student writes “the foxes dens\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the foxes dens\" for several owners. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-008",
+      "alt_text": "Learning aid for: A student writes “the foxes dens\" for several owners. What edit is needed?"
+    },
+    "answers": [
+      {
+        "text": "Add an apostrophe before the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "Add an apostrophe after the plural s.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Keep the plural form and mark ownership after it."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains how to shorten “we will”?",
+    "audio_prompt": "Which option correctly explains how to shorten “we will”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-009",
+      "alt_text": "Learning aid for: Which option correctly explains how to shorten “we will”?"
+    },
+    "answers": [
+      {
+        "text": "Use “we'll”, the accepted shortened form.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “we will” as two unshortened words.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove letters without marking where letters are missing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An apostrophe in a contraction marks omitted letters.",
+      "hint": "Say the full form, then find the accepted shortened form."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "What job does the apostrophe do in “we'll”?",
+    "audio_prompt": "What job does the apostrophe do in “we'll”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-010",
+      "alt_text": "Learning aid for: What job does the apostrophe do in “we'll”?"
+    },
+    "answers": [
+      {
+        "text": "It makes the word plural.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks letters omitted from the full form.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows that several people own something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Contraction apostrophes show where letters have been left out.",
+      "hint": "Expand the contraction to find the missing letters."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the single owner in “the player's boot”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the player's boot”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-011",
+      "alt_text": "Learning aid for: Which option correctly explains the single owner in “the player's boot”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the players' boots” to show several owners.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the players boot” with no ownership mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the player's boot” to show one owner.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Identify whether the owner is one or more than one."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which option correctly explains the multiple owners in “the players' boots”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the players' boots”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-012",
+      "alt_text": "Learning aid for: Which option correctly explains the multiple owners in “the players' boots”?"
+    },
+    "answers": [
+      {
+        "text": "Use “the players' boots” to show several owners.",
+        "is_correct": true
+      },
+      {
+        "text": "Use “the player's boot” to show one owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “the players boots” with no ownership mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "First make the owner plural, then show possession."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the player's boot”, what does the apostrophe show?",
+    "audio_prompt": "In “the player's boot”, what does the apostrophe show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-013",
+      "alt_text": "Learning aid for: In “the player's boot”, what does the apostrophe show?"
+    },
+    "answers": [
+      {
+        "text": "The noun is shortened from two words.",
+        "is_correct": false
+      },
+      {
+        "text": "One noun owns or is connected with something.",
+        "is_correct": true
+      },
+      {
+        "text": "The noun names several owners.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Look at the noun immediately before the apostrophe."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "In “the players' boots”, where is the apostrophe placed?",
+    "audio_prompt": "In “the players' boots”, where is the apostrophe placed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-014",
+      "alt_text": "Learning aid for: In “the players' boots”, where is the apostrophe placed?"
+    },
+    "answers": [
+      {
+        "text": "Before the plural s.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start of the phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "After the plural s.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Find the plural owner before adding the possession mark."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "Which explanation correctly compares “we'll” and “the player's boot”?",
+    "audio_prompt": "Which explanation correctly compares “we'll” and “the player's boot”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-015",
+      "alt_text": "Learning aid for: Which explanation correctly compares “we'll” and “the player's boot”?"
+    },
+    "answers": [
+      {
+        "text": "In “we'll” the apostrophe marks missing letters; in “the player's boot” it marks possession.",
+        "is_correct": true
+      },
+      {
+        "text": "Both apostrophes make nouns plural.",
+        "is_correct": false
+      },
+      {
+        "text": "Both apostrophes mark missing letters only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Expand the contraction, then identify the owner in the phrase."
+    }
+  },
+  {
+    "id": "AC9E3LA11-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "skill": "Apostrophes in Contractions and Possession",
+    "question": "A student writes “the players boots\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the players boots\" for several owners. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la11.svg#ac9e3la11-t-016",
+      "alt_text": "Learning aid for: A student writes “the players boots\" for several owners. What edit is needed?"
+    },
+    "answers": [
+      {
+        "text": "Add an apostrophe before the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Add an apostrophe after the plural s.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the plural s.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Keep the plural form and mark ownership after it."
+    }
+  }
+]

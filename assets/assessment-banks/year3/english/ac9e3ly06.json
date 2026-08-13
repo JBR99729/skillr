@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E3LY06-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, what should a writer decide before drafting?",
+    "audio_prompt": "While creating an information page about frogs, what should a writer decide before drafting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-001",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Purpose, audience and key ideas",
+        "is_correct": true
+      },
+      {
+        "text": "Font colour only",
+        "is_correct": false
+      },
+      {
+        "text": "The final score",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, which structure groups related information clearly?",
+    "audio_prompt": "While creating an information page about frogs, which structure groups related information clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-002",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A new paragraph after every word",
+        "is_correct": false
+      },
+      {
+        "text": "Focused paragraphs with useful headings",
+        "is_correct": true
+      },
+      {
+        "text": "One block mixing all topics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, which edit fixes tense consistency?",
+    "audio_prompt": "While creating an information page about frogs, which edit fixes tense consistency?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-003",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add an unrelated adjective",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every verb",
+        "is_correct": false
+      },
+      {
+        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, which vocabulary choice is most precise?",
+    "audio_prompt": "While creating an information page about frogs, which vocabulary choice is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-004",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Measure fifty millilitres of water",
+        "is_correct": true
+      },
+      {
+        "text": "Add some stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Do the thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While creating an information page about frogs, which feature materially helps a multimodal explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-005",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A decorative image with no relation",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled diagram connected to the text",
+        "is_correct": true
+      },
+      {
+        "text": "A flashing border",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, what should happen during editing?",
+    "audio_prompt": "While creating an information page about frogs, what should happen during editing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-006",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Change only the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Publish without rereading",
+        "is_correct": false
+      },
+      {
+        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, why should a writer seek feedback?",
+    "audio_prompt": "While creating an information page about frogs, why should a writer seek feedback?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-007",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A reader may identify unclear ideas or missing evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Feedback guarantees no revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Feedback replaces the writer's decisions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating an information page about frogs, which final check protects accessibility?",
+    "audio_prompt": "While creating an information page about frogs, which final check protects accessibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-008",
+      "alt_text": "A classroom English model for while creating an information page about frogs showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Hide important words inside images",
+        "is_correct": false
+      },
+      {
+        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "is_correct": true
+      },
+      {
+        "text": "Remove labels from diagrams",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, what should a writer decide before drafting?",
+    "audio_prompt": "While editing a story about a lost compass, what should a writer decide before drafting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-009",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Font colour only",
+        "is_correct": false
+      },
+      {
+        "text": "The final score",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose, audience and key ideas",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, which structure groups related information clearly?",
+    "audio_prompt": "While editing a story about a lost compass, which structure groups related information clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-010",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Focused paragraphs with useful headings",
+        "is_correct": true
+      },
+      {
+        "text": "A new paragraph after every word",
+        "is_correct": false
+      },
+      {
+        "text": "One block mixing all topics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, which edit fixes tense consistency?",
+    "audio_prompt": "While editing a story about a lost compass, which edit fixes tense consistency?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-011",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add an unrelated adjective",
+        "is_correct": false
+      },
+      {
+        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "is_correct": true
+      },
+      {
+        "text": "Remove every verb",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "audio_prompt": "While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-012",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add some stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Do the thing",
+        "is_correct": false
+      },
+      {
+        "text": "Measure fifty millilitres of water",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-013",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A labelled diagram connected to the text",
+        "is_correct": true
+      },
+      {
+        "text": "A decorative image with no relation",
+        "is_correct": false
+      },
+      {
+        "text": "A flashing border",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, what should happen during editing?",
+    "audio_prompt": "While editing a story about a lost compass, what should happen during editing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-014",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Change only the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "is_correct": true
+      },
+      {
+        "text": "Publish without rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "audio_prompt": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-015",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Feedback guarantees no revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Feedback replaces the writer's decisions",
+        "is_correct": false
+      },
+      {
+        "text": "A reader may identify unclear ideas or missing evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a story about a lost compass, which final check protects accessibility?",
+    "audio_prompt": "While editing a story about a lost compass, which final check protects accessibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-016",
+      "alt_text": "A classroom English model for while editing a story about a lost compass showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "is_correct": true
+      },
+      {
+        "text": "Hide important words inside images",
+        "is_correct": false
+      },
+      {
+        "text": "Remove labels from diagrams",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "audio_prompt": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-017",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Font colour only",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose, audience and key ideas",
+        "is_correct": true
+      },
+      {
+        "text": "The final score",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "audio_prompt": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-018",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A new paragraph after every word",
+        "is_correct": false
+      },
+      {
+        "text": "One block mixing all topics",
+        "is_correct": false
+      },
+      {
+        "text": "Focused paragraphs with useful headings",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "audio_prompt": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-019",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "is_correct": true
+      },
+      {
+        "text": "Add an unrelated adjective",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every verb",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "audio_prompt": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-020",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add some stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Measure fifty millilitres of water",
+        "is_correct": true
+      },
+      {
+        "text": "Do the thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-021",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A decorative image with no relation",
+        "is_correct": false
+      },
+      {
+        "text": "A flashing border",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled diagram connected to the text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, what should happen during editing?",
+    "audio_prompt": "While publishing instructions for planting seeds, what should happen during editing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-022",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "is_correct": true
+      },
+      {
+        "text": "Change only the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Publish without rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "audio_prompt": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-023",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Feedback guarantees no revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "A reader may identify unclear ideas or missing evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Feedback replaces the writer's decisions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "practice",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "audio_prompt": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-p-024",
+      "alt_text": "A classroom English model for while publishing instructions for planting seeds showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Hide important words inside images",
+        "is_correct": false
+      },
+      {
+        "text": "Remove labels from diagrams",
+        "is_correct": false
+      },
+      {
+        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
+    "audio_prompt": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-001",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Purpose, audience and key ideas",
+        "is_correct": true
+      },
+      {
+        "text": "Font colour only",
+        "is_correct": false
+      },
+      {
+        "text": "The final score",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, which structure groups related information clearly?",
+    "audio_prompt": "While creating a persuasive poster about shade, which structure groups related information clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-002",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A new paragraph after every word",
+        "is_correct": false
+      },
+      {
+        "text": "Focused paragraphs with useful headings",
+        "is_correct": true
+      },
+      {
+        "text": "One block mixing all topics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
+    "audio_prompt": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-003",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add an unrelated adjective",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every verb",
+        "is_correct": false
+      },
+      {
+        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
+    "audio_prompt": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-004",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Measure fifty millilitres of water",
+        "is_correct": true
+      },
+      {
+        "text": "Add some stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Do the thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-005",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A decorative image with no relation",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled diagram connected to the text",
+        "is_correct": true
+      },
+      {
+        "text": "A flashing border",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, what should happen during editing?",
+    "audio_prompt": "While creating a persuasive poster about shade, what should happen during editing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-006",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Change only the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Publish without rereading",
+        "is_correct": false
+      },
+      {
+        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, why should a writer seek feedback?",
+    "audio_prompt": "While creating a persuasive poster about shade, why should a writer seek feedback?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-007",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A reader may identify unclear ideas or missing evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Feedback guarantees no revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Feedback replaces the writer's decisions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While creating a persuasive poster about shade, which final check protects accessibility?",
+    "audio_prompt": "While creating a persuasive poster about shade, which final check protects accessibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-008",
+      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Hide important words inside images",
+        "is_correct": false
+      },
+      {
+        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "is_correct": true
+      },
+      {
+        "text": "Remove labels from diagrams",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, what should a writer decide before drafting?",
+    "audio_prompt": "While editing a digital report about waste, what should a writer decide before drafting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-009",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Font colour only",
+        "is_correct": false
+      },
+      {
+        "text": "The final score",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose, audience and key ideas",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, which structure groups related information clearly?",
+    "audio_prompt": "While editing a digital report about waste, which structure groups related information clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-010",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Focused paragraphs with useful headings",
+        "is_correct": true
+      },
+      {
+        "text": "A new paragraph after every word",
+        "is_correct": false
+      },
+      {
+        "text": "One block mixing all topics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, which edit fixes tense consistency?",
+    "audio_prompt": "While editing a digital report about waste, which edit fixes tense consistency?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-011",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add an unrelated adjective",
+        "is_correct": false
+      },
+      {
+        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "is_correct": true
+      },
+      {
+        "text": "Remove every verb",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, which vocabulary choice is most precise?",
+    "audio_prompt": "While editing a digital report about waste, which vocabulary choice is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-012",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Add some stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Do the thing",
+        "is_correct": false
+      },
+      {
+        "text": "Measure fifty millilitres of water",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-013",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "A labelled diagram connected to the text",
+        "is_correct": true
+      },
+      {
+        "text": "A decorative image with no relation",
+        "is_correct": false
+      },
+      {
+        "text": "A flashing border",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, what should happen during editing?",
+    "audio_prompt": "While editing a digital report about waste, what should happen during editing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-014",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Change only the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "is_correct": true
+      },
+      {
+        "text": "Publish without rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, why should a writer seek feedback?",
+    "audio_prompt": "While editing a digital report about waste, why should a writer seek feedback?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-015",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Feedback guarantees no revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Feedback replaces the writer's decisions",
+        "is_correct": false
+      },
+      {
+        "text": "A reader may identify unclear ideas or missing evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY06-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY06",
+    "bank": "test",
+    "skill": "Planning, Creating, Editing and Publishing Texts",
+    "question": "While editing a digital report about waste, which final check protects accessibility?",
+    "audio_prompt": "While editing a digital report about waste, which final check protects accessibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-016",
+      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
+    },
+    "answers": [
+      {
+        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "is_correct": true
+      },
+      {
+        "text": "Hide important words inside images",
+        "is_correct": false
+      },
+      {
+        "text": "Remove labels from diagrams",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  }
+]
