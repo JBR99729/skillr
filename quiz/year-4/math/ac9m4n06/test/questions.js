@@ -1,110 +1,469 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m4n06-e01",
+    "id": "ac9m4n06-t-001",
     "curriculumCode": "AC9M4N06",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "For AC9M4N06, solve 27 x 6 using a split strategy.",
-    "explanation": "162; for example, 20 x 6 plus 7 x 6.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "162; for example, 20 x 6 plus 7 x 6"
-    ],
-    "correct": "162; for example, 20 x 6 plus 7 x 6"
-  },
-  {
-    "id": "ac9m4n06-e02",
-    "curriculumCode": "AC9M4N06",
-    "bank": "test",
-    "sourceType": "Short response",
-    "question": "Use a mental strategy for efficient whole-number operations: 99 + 248.",
-    "explanation": "347; add 100 then subtract 1.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "347; add 100 then subtract 1"
-    ],
-    "correct": "347; add 100 then subtract 1"
-  },
-  {
-    "id": "ac9m4n06-e03",
-    "curriculumCode": "AC9M4N06",
-    "bank": "test",
-    "sourceType": "Multiple choice",
-    "question": "Which model best supports efficient whole-number operations: a labelled number line, a random list, or an unrelated picture?",
-    "explanation": "A labelled number line.",
+    "skill": "addition strategies",
     "printable": true,
     "type": "single",
+    "question": "At a coastal station, what is 407+21?",
+    "audioPrompt": "At a coastal station, what is 407+21?",
+    "visual": "At a coastal station: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-001",
+      "alt_text": "At a coastal station: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
     "answers": [
-      "a labelled number line",
-      "a random list",
-      "or an unrelated picture"
+      "438",
+      "328",
+      "428"
     ],
-    "correct": 0
+    "correct": 2,
+    "explanation": "Add matching place values.\nHint: Estimate, then calculate.",
+    "structuredExplanation": {
+      "summary": "Add matching place values.",
+      "hint": "Estimate, then calculate."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n06-e04",
+    "id": "ac9m4n06-t-002",
     "curriculumCode": "AC9M4N06",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match the efficient whole-number operations terms: factor, product, difference, sum.",
-    "explanation": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
+    "skill": "subtraction strategies",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result.",
-    "correct": "Factor -> multiplied number; product -> multiplication result; difference -> subtraction result; sum -> addition result."
-  },
-  {
-    "id": "ac9m4n06-e05",
-    "curriculumCode": "AC9M4N06",
-    "bank": "test",
-    "sourceType": "Data display",
-    "question": "In a efficient whole-number operations chart, four classes collect 86, 94, 77 and 103 cans. Estimate the total to the nearest hundred.",
-    "explanation": "About 400 cans.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "About 400 cans"
+    "type": "single",
+    "question": "During a museum challenge, what is 414-22?",
+    "audioPrompt": "During a museum challenge, what is 414-22?",
+    "visual": "During a museum challenge: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-002",
+      "alt_text": "During a museum challenge: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "392",
+      "402",
+      "436"
     ],
-    "correct": "About 400 cans"
+    "correct": 0,
+    "explanation": "Subtraction finds the difference.\nHint: Use addition to check.",
+    "structuredExplanation": {
+      "summary": "Subtraction finds the difference.",
+      "hint": "Use addition to check."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n06-e06",
+    "id": "ac9m4n06-t-003",
     "curriculumCode": "AC9M4N06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "For AC9M4N06, choose a strategy for 1,002 - 398 and explain why it is efficient.",
-    "explanation": "Answers vary; compensation such as 1,004 - 400 = 604 is efficient.",
+    "skill": "multiplication strategies",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Answers vary; compensation such as 1,004 - 400 = 604 is efficient.",
-    "correct": "Answers vary; compensation such as 1,004 - 400 = 604 is efficient."
+    "type": "single",
+    "question": "At a charity event, 4 rows hold 19 objects each. What is the total?",
+    "audioPrompt": "At a charity event, 4 rows hold 19 objects each. What is the total?",
+    "visual": "At a charity event: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-003",
+      "alt_text": "At a charity event: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "23",
+      "76",
+      "72"
+    ],
+    "correct": 1,
+    "explanation": "Equal groups are multiplied.\nHint: Split one factor into tens and ones.",
+    "structuredExplanation": {
+      "summary": "Equal groups are multiplied.",
+      "hint": "Split one factor into tens and ones."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n06-e07",
+    "id": "ac9m4n06-t-004",
     "curriculumCode": "AC9M4N06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Create a short Year 4 efficient whole-number operations word problem that needs two steps, then solve it.",
-    "explanation": "Answers vary; must include a valid two-step problem and correct solution.",
+    "skill": "division strategies",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Answers vary; must include a valid two-step problem and correct solution.",
-    "correct": "Answers vary; must include a valid two-step problem and correct solution."
+    "type": "single",
+    "question": "In an engineering workshop, 60 objects are shared among 6 groups. How many per group?",
+    "audioPrompt": "In an engineering workshop, 60 objects are shared among 6 groups. How many per group?",
+    "visual": "In an engineering workshop: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "16",
+      "54",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "Equal sharing uses division.\nHint: Check by multiplying the quotient by 6.",
+    "structuredExplanation": {
+      "summary": "Equal sharing uses division.",
+      "hint": "Check by multiplying the quotient by 6."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m4n06-e08",
+    "id": "ac9m4n06-t-005",
     "curriculumCode": "AC9M4N06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Explain why reading units, labels or the whole carefully matters in efficient whole-number operations.",
-    "explanation": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
+    "skill": "addition strategies",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer.",
-    "correct": "The labels define what the numbers mean; using the wrong unit, whole or category changes the answer."
+    "type": "single",
+    "question": "At a regional carnival, what is 435+25?",
+    "audioPrompt": "At a regional carnival, what is 435+25?",
+    "visual": "At a regional carnival: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-005",
+      "alt_text": "At a regional carnival: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "460",
+      "470",
+      "360"
+    ],
+    "correct": 0,
+    "explanation": "Add matching place values.\nHint: Estimate, then calculate.",
+    "structuredExplanation": {
+      "summary": "Add matching place values.",
+      "hint": "Estimate, then calculate."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-006",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "subtraction strategies",
+    "printable": true,
+    "type": "single",
+    "question": "During a farm study, what is 442-26?",
+    "audioPrompt": "During a farm study, what is 442-26?",
+    "visual": "During a farm study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-006",
+      "alt_text": "During a farm study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "426",
+      "416",
+      "468"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction finds the difference.\nHint: Use addition to check.",
+    "structuredExplanation": {
+      "summary": "Subtraction finds the difference.",
+      "hint": "Use addition to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-007",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "addition strategies",
+    "printable": true,
+    "type": "single",
+    "question": "While reading a trail guide, what is 449+27?",
+    "audioPrompt": "While reading a trail guide, what is 449+27?",
+    "visual": "While reading a trail guide: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "486",
+      "376",
+      "476"
+    ],
+    "correct": 2,
+    "explanation": "Add matching place values.\nHint: Estimate, then calculate.",
+    "structuredExplanation": {
+      "summary": "Add matching place values.",
+      "hint": "Estimate, then calculate."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-008",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "subtraction strategies",
+    "printable": true,
+    "type": "single",
+    "question": "In an architecture studio, what is 456-28?",
+    "audioPrompt": "In an architecture studio, what is 456-28?",
+    "visual": "In an architecture studio: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-008",
+      "alt_text": "In an architecture studio: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "428",
+      "438",
+      "484"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction finds the difference.\nHint: Use addition to check.",
+    "structuredExplanation": {
+      "summary": "Subtraction finds the difference.",
+      "hint": "Use addition to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-009",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "multiplication strategies",
+    "printable": true,
+    "type": "single",
+    "question": "During a food-truck project, 4 rows hold 16 objects each. What is the total?",
+    "audioPrompt": "During a food-truck project, 4 rows hold 16 objects each. What is the total?",
+    "visual": "During a food-truck project: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-009",
+      "alt_text": "During a food-truck project: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "20",
+      "64",
+      "60"
+    ],
+    "correct": 1,
+    "explanation": "Equal groups are multiplied.\nHint: Split one factor into tens and ones.",
+    "structuredExplanation": {
+      "summary": "Equal groups are multiplied.",
+      "hint": "Split one factor into tens and ones."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-010",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "division strategies",
+    "printable": true,
+    "type": "single",
+    "question": "At a festival, 54 objects are shared among 6 groups. How many per group?",
+    "audioPrompt": "At a festival, 54 objects are shared among 6 groups. How many per group?",
+    "visual": "At a festival: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-010",
+      "alt_text": "At a festival: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "15",
+      "48",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Equal sharing uses division.\nHint: Check by multiplying the quotient by 6.",
+    "structuredExplanation": {
+      "summary": "Equal sharing uses division.",
+      "hint": "Check by multiplying the quotient by 6."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-011",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "addition strategies",
+    "printable": true,
+    "type": "single",
+    "question": "While organising a collection, what is 477+31?",
+    "audioPrompt": "While organising a collection, what is 477+31?",
+    "visual": "While organising a collection: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-011",
+      "alt_text": "While organising a collection: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "508",
+      "518",
+      "408"
+    ],
+    "correct": 0,
+    "explanation": "Add matching place values.\nHint: Estimate, then calculate.",
+    "structuredExplanation": {
+      "summary": "Add matching place values.",
+      "hint": "Estimate, then calculate."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-012",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "subtraction strategies",
+    "printable": true,
+    "type": "single",
+    "question": "In an environmental study, what is 484-32?",
+    "audioPrompt": "In an environmental study, what is 484-32?",
+    "visual": "In an environmental study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-012",
+      "alt_text": "In an environmental study: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "462",
+      "452",
+      "516"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction finds the difference.\nHint: Use addition to check.",
+    "structuredExplanation": {
+      "summary": "Subtraction finds the difference.",
+      "hint": "Use addition to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-013",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "addition strategies",
+    "printable": true,
+    "type": "single",
+    "question": "During a transport survey, what is 491+33?",
+    "audioPrompt": "During a transport survey, what is 491+33?",
+    "visual": "During a transport survey: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-013",
+      "alt_text": "During a transport survey: a Year 4 addition strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "534",
+      "424",
+      "524"
+    ],
+    "correct": 2,
+    "explanation": "Add matching place values.\nHint: Estimate, then calculate.",
+    "structuredExplanation": {
+      "summary": "Add matching place values.",
+      "hint": "Estimate, then calculate."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-014",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "subtraction strategies",
+    "printable": true,
+    "type": "single",
+    "question": "At a strategy tournament, what is 498-34?",
+    "audioPrompt": "At a strategy tournament, what is 498-34?",
+    "visual": "At a strategy tournament: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 subtraction strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "464",
+      "474",
+      "532"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction finds the difference.\nHint: Use addition to check.",
+    "structuredExplanation": {
+      "summary": "Subtraction finds the difference.",
+      "hint": "Use addition to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-015",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "multiplication strategies",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a community garden, 4 rows hold 13 objects each. What is the total?",
+    "audioPrompt": "While planning a community garden, 4 rows hold 13 objects each. What is the total?",
+    "visual": "While planning a community garden: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-015",
+      "alt_text": "While planning a community garden: a Year 4 multiplication strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "17",
+      "52",
+      "48"
+    ],
+    "correct": 1,
+    "explanation": "Equal groups are multiplied.\nHint: Split one factor into tens and ones.",
+    "structuredExplanation": {
+      "summary": "Equal groups are multiplied.",
+      "hint": "Split one factor into tens and ones."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m4n06-t-016",
+    "curriculumCode": "AC9M4N06",
+    "bank": "test",
+    "skill": "division strategies",
+    "printable": true,
+    "type": "single",
+    "question": "In a design exhibition, 48 objects are shared among 6 groups. How many per group?",
+    "audioPrompt": "In a design exhibition, 48 objects are shared among 6 groups. How many per group?",
+    "visual": "In a design exhibition: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n06.svg#ac9m4n06-t-016",
+      "alt_text": "In a design exhibition: a Year 4 division strategies reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      "14",
+      "42",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "Equal sharing uses division.\nHint: Check by multiplying the quotient by 6.",
+    "structuredExplanation": {
+      "summary": "Equal sharing uses division.",
+      "hint": "Check by multiplying the quotient by 6."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

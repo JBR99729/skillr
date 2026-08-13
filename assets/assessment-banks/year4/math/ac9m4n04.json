@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M4N04-P-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "In a class project, which number is at 3 quarter-steps from zero?",
+    "audio_prompt": "In a class project, which number is at 3 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-001",
+      "alt_text": "In a class project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "3/8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "At the school market, what comes next: 4/4, 5/4, 6/4?",
+    "audio_prompt": "At the school market, what comes next: 4/4, 5/4, 6/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-002",
+      "alt_text": "At the school market: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "7/8",
+        "is_correct": false
+      },
+      {
+        "text": "7/4",
+        "is_correct": true
+      },
+      {
+        "text": "8/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "While planning a garden, which number is at 5 quarter-steps from zero?",
+    "audio_prompt": "While planning a garden, which number is at 5 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-003",
+      "alt_text": "While planning a garden: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "5/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 1/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 1/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "During a sports challenge, what comes next: 6/4, 7/4, 8/4?",
+    "audio_prompt": "During a sports challenge, what comes next: 6/4, 7/4, 8/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-004",
+      "alt_text": "During a sports challenge: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "9/4",
+        "is_correct": true
+      },
+      {
+        "text": "9/8",
+        "is_correct": false
+      },
+      {
+        "text": "10/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "At the wildlife centre, which number is at 7 quarter-steps from zero?",
+    "audio_prompt": "At the wildlife centre, which number is at 7 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-005",
+      "alt_text": "At the wildlife centre: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "7/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "1 3/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "In the makerspace, what comes next: 1/4, 2/4, 3/4?",
+    "audio_prompt": "In the makerspace, what comes next: 1/4, 2/4, 3/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-006",
+      "alt_text": "In the makerspace: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/8",
+        "is_correct": false
+      },
+      {
+        "text": "5/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "While checking a map, which number is at 2 quarter-steps from zero?",
+    "audio_prompt": "While checking a map, which number is at 2 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-007",
+      "alt_text": "While checking a map: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "2/4",
+        "is_correct": true
+      },
+      {
+        "text": "2/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "During a cooking task, what comes next: 3/4, 4/4, 5/4?",
+    "audio_prompt": "During a cooking task, what comes next: 3/4, 4/4, 5/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-008",
+      "alt_text": "During a cooking task: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6/8",
+        "is_correct": false
+      },
+      {
+        "text": "6/4",
+        "is_correct": true
+      },
+      {
+        "text": "7/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "At the community fair, which number is at 4 quarter-steps from zero?",
+    "audio_prompt": "At the community fair, which number is at 4 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-009",
+      "alt_text": "At the community fair: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 0/2",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "In a library display, what comes next: 5/4, 6/4, 7/4?",
+    "audio_prompt": "In a library display, what comes next: 5/4, 6/4, 7/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-010",
+      "alt_text": "In a library display: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8/4",
+        "is_correct": true
+      },
+      {
+        "text": "8/8",
+        "is_correct": false
+      },
+      {
+        "text": "9/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "During a science activity, which number is at 6 quarter-steps from zero?",
+    "audio_prompt": "During a science activity, which number is at 6 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-011",
+      "alt_text": "During a science activity: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 2/4",
+        "is_correct": true
+      },
+      {
+        "text": "1 2/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "At the school canteen, what comes next: 7/4, 8/4, 9/4?",
+    "audio_prompt": "At the school canteen, what comes next: 7/4, 8/4, 9/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-012",
+      "alt_text": "At the school canteen: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "10/8",
+        "is_correct": false
+      },
+      {
+        "text": "11/4",
+        "is_correct": false
+      },
+      {
+        "text": "10/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "While organising an excursion, which number is at 1 quarter-steps from zero?",
+    "audio_prompt": "While organising an excursion, which number is at 1 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-013",
+      "alt_text": "While organising an excursion: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1/4",
+        "is_correct": true
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "1/8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "In a games club, what comes next: 2/4, 3/4, 4/4?",
+    "audio_prompt": "In a games club, what comes next: 2/4, 3/4, 4/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-014",
+      "alt_text": "In a games club: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "5/8",
+        "is_correct": false
+      },
+      {
+        "text": "5/4",
+        "is_correct": true
+      },
+      {
+        "text": "6/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "During an art project, which number is at 3 quarter-steps from zero?",
+    "audio_prompt": "During an art project, which number is at 3 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-015",
+      "alt_text": "During an art project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "3/8",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "At the recycling station, what comes next: 4/4, 5/4, 6/4?",
+    "audio_prompt": "At the recycling station, what comes next: 4/4, 5/4, 6/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-016",
+      "alt_text": "At the recycling station: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "7/4",
+        "is_correct": true
+      },
+      {
+        "text": "7/8",
+        "is_correct": false
+      },
+      {
+        "text": "8/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-017",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "While planning a survey, which number is at 5 quarter-steps from zero?",
+    "audio_prompt": "While planning a survey, which number is at 5 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-017",
+      "alt_text": "While planning a survey: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "5/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 1/4",
+        "is_correct": true
+      },
+      {
+        "text": "1 1/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-018",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "In a coding lesson, what comes next: 6/4, 7/4, 8/4?",
+    "audio_prompt": "In a coding lesson, what comes next: 6/4, 7/4, 8/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-018",
+      "alt_text": "In a coding lesson: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "9/8",
+        "is_correct": false
+      },
+      {
+        "text": "10/4",
+        "is_correct": false
+      },
+      {
+        "text": "9/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-019",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "During a building task, which number is at 7 quarter-steps from zero?",
+    "audio_prompt": "During a building task, which number is at 7 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-019",
+      "alt_text": "During a building task: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "7/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-020",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "At the local pool, what comes next: 1/4, 2/4, 3/4?",
+    "audio_prompt": "At the local pool, what comes next: 1/4, 2/4, 3/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-020",
+      "alt_text": "At the local pool: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/8",
+        "is_correct": false
+      },
+      {
+        "text": "4/4",
+        "is_correct": true
+      },
+      {
+        "text": "5/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-021",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "While preparing a camp, which number is at 2 quarter-steps from zero?",
+    "audio_prompt": "While preparing a camp, which number is at 2 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-021",
+      "alt_text": "While preparing a camp: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "2/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/8",
+        "is_correct": false
+      },
+      {
+        "text": "2/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-022",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "In a music project, what comes next: 3/4, 4/4, 5/4?",
+    "audio_prompt": "In a music project, what comes next: 3/4, 4/4, 5/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-022",
+      "alt_text": "In a music project: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6/4",
+        "is_correct": true
+      },
+      {
+        "text": "6/8",
+        "is_correct": false
+      },
+      {
+        "text": "7/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-023",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_number_line",
+    "question": "At a playground redesign, which number is at 4 quarter-steps from zero?",
+    "audio_prompt": "At a playground redesign, which number is at 4 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-023",
+      "alt_text": "At a playground redesign: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/2",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "1 0/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-P-024",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "practice",
+    "skill": "fraction_sequences",
+    "question": "During a book drive, what comes next: 5/4, 6/4, 7/4?",
+    "audio_prompt": "During a book drive, what comes next: 5/4, 6/4, 7/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-p-024",
+      "alt_text": "During a book drive: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8/8",
+        "is_correct": false
+      },
+      {
+        "text": "9/4",
+        "is_correct": false
+      },
+      {
+        "text": "8/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-001",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "At a coastal station, which number is at 7 quarter-steps from zero?",
+    "audio_prompt": "At a coastal station, which number is at 7 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-001",
+      "alt_text": "At a coastal station: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      },
+      {
+        "text": "7/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-002",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "During a museum challenge, what comes next: 1/4, 2/4, 3/4?",
+    "audio_prompt": "During a museum challenge, what comes next: 1/4, 2/4, 3/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-002",
+      "alt_text": "During a museum challenge: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/8",
+        "is_correct": false
+      },
+      {
+        "text": "4/4",
+        "is_correct": true
+      },
+      {
+        "text": "5/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-003",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "At a charity event, which number is at 2 quarter-steps from zero?",
+    "audio_prompt": "At a charity event, which number is at 2 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-003",
+      "alt_text": "At a charity event: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "2/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/8",
+        "is_correct": false
+      },
+      {
+        "text": "2/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-004",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "In an engineering workshop, what comes next: 3/4, 4/4, 5/4?",
+    "audio_prompt": "In an engineering workshop, what comes next: 3/4, 4/4, 5/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-004",
+      "alt_text": "In an engineering workshop: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "6/4",
+        "is_correct": true
+      },
+      {
+        "text": "6/8",
+        "is_correct": false
+      },
+      {
+        "text": "7/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-005",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "At a regional carnival, which number is at 4 quarter-steps from zero?",
+    "audio_prompt": "At a regional carnival, which number is at 4 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-005",
+      "alt_text": "At a regional carnival: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/2",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "1 0/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-006",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "During a farm study, what comes next: 5/4, 6/4, 7/4?",
+    "audio_prompt": "During a farm study, what comes next: 5/4, 6/4, 7/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-006",
+      "alt_text": "During a farm study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "8/8",
+        "is_correct": false
+      },
+      {
+        "text": "9/4",
+        "is_correct": false
+      },
+      {
+        "text": "8/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-007",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "While reading a trail guide, which number is at 6 quarter-steps from zero?",
+    "audio_prompt": "While reading a trail guide, which number is at 6 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-007",
+      "alt_text": "While reading a trail guide: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1 2/4",
+        "is_correct": true
+      },
+      {
+        "text": "6/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 2/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-008",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "In an architecture studio, what comes next: 7/4, 8/4, 9/4?",
+    "audio_prompt": "In an architecture studio, what comes next: 7/4, 8/4, 9/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-008",
+      "alt_text": "In an architecture studio: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "10/8",
+        "is_correct": false
+      },
+      {
+        "text": "10/4",
+        "is_correct": true
+      },
+      {
+        "text": "11/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-009",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "During a food-truck project, which number is at 1 quarter-steps from zero?",
+    "audio_prompt": "During a food-truck project, which number is at 1 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-009",
+      "alt_text": "During a food-truck project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "1/8",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-010",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "At a festival, what comes next: 2/4, 3/4, 4/4?",
+    "audio_prompt": "At a festival, what comes next: 2/4, 3/4, 4/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-010",
+      "alt_text": "At a festival: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "5/4",
+        "is_correct": true
+      },
+      {
+        "text": "5/8",
+        "is_correct": false
+      },
+      {
+        "text": "6/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-011",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "While organising a collection, which number is at 3 quarter-steps from zero?",
+    "audio_prompt": "While organising a collection, which number is at 3 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-011",
+      "alt_text": "While organising a collection: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "3/8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-012",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "In an environmental study, what comes next: 4/4, 5/4, 6/4?",
+    "audio_prompt": "In an environmental study, what comes next: 4/4, 5/4, 6/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-012",
+      "alt_text": "In an environmental study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "7/8",
+        "is_correct": false
+      },
+      {
+        "text": "8/4",
+        "is_correct": false
+      },
+      {
+        "text": "7/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-013",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "During a transport survey, which number is at 5 quarter-steps from zero?",
+    "audio_prompt": "During a transport survey, which number is at 5 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-013",
+      "alt_text": "During a transport survey: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "1 1/4",
+        "is_correct": true
+      },
+      {
+        "text": "5/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 1/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-014",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "At a strategy tournament, what comes next: 6/4, 7/4, 8/4?",
+    "audio_prompt": "At a strategy tournament, what comes next: 6/4, 7/4, 8/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-014",
+      "alt_text": "At a strategy tournament: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "9/8",
+        "is_correct": false
+      },
+      {
+        "text": "9/4",
+        "is_correct": true
+      },
+      {
+        "text": "10/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-015",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_number_line",
+    "question": "While planning a community garden, which number is at 7 quarter-steps from zero?",
+    "audio_prompt": "While planning a community garden, which number is at 7 quarter-steps from zero?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-015",
+      "alt_text": "While planning a community garden: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "7/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/2",
+        "is_correct": false
+      },
+      {
+        "text": "1 3/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step adds one quarter.",
+      "hint": "Count four quarter-steps for each whole."
+    }
+  },
+  {
+    "id": "AC9M4N04-T-016",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N04",
+    "bank": "test",
+    "skill": "fraction_sequences",
+    "question": "In a design exhibition, what comes next: 1/4, 2/4, 3/4?",
+    "audio_prompt": "In a design exhibition, what comes next: 1/4, 2/4, 3/4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-016",
+      "alt_text": "In a design exhibition: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+    },
+    "answers": [
+      {
+        "text": "4/4",
+        "is_correct": true
+      },
+      {
+        "text": "4/8",
+        "is_correct": false
+      },
+      {
+        "text": "5/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence increases by one quarter.",
+      "hint": "Keep the denominator and add one to the numerator."
+    }
+  }
+]

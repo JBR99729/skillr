@@ -1,0 +1,1658 @@
+{
+  "AC9M4N01": {
+    "title": "Decimal Place Value: Tenths and Hundredths",
+    "curriculum": "recognise and extend the application of place value to tenths and hundredths and use the conventions of decimal notation to name and represent decimals",
+    "routine": "Build the whole → Partition into tenths → Partition into hundredths → Write decimal → Rename → Compare",
+    "misconceptions": [
+      {
+        "misconception": "Longer decimal is larger",
+        "correction": "0.75 is not automatically larger than 0.8; compare tenths first by writing 0.8 as 0.80."
+      },
+      {
+        "misconception": "Decimal point read as punctuation only",
+        "correction": "The point separates whole-number and fractional place values."
+      },
+      {
+        "misconception": "Tenths and hundredths reversed",
+        "correction": "Tenths are larger parts than hundredths: 1 tenth = 10 hundredths."
+      },
+      {
+        "misconception": "Trailing zero changes value",
+        "correction": "0.6 and 0.60 name the same quantity."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N02": {
+    "title": "Properties of Odd and Even Numbers",
+    "curriculum": "explain and use the properties of odd and even numbers",
+    "routine": "Pair the quantity → Identify parity → Test an operation → Generalise → Justify",
+    "misconceptions": [
+      {
+        "misconception": "Odd means prime",
+        "correction": "Many odd numbers are composite, such as 9 and 15."
+      },
+      {
+        "misconception": "Every multiplication result is even",
+        "correction": "Odd × odd is odd."
+      },
+      {
+        "misconception": "A pattern from one example is proof",
+        "correction": "Test several cases and explain using pairs or factors of 2."
+      },
+      {
+        "misconception": "Subtraction pattern ignored",
+        "correction": "Parity rules for subtraction match addition when whole-number results are allowed."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N03": {
+    "title": "Equivalent Fractions and Decimal Connections",
+    "curriculum": "find equivalent representations of fractions using related denominators and make connections between fractions and decimal notation",
+    "routine": "Identify equal whole → Scale numerator and denominator → Verify model → Connect to tenths/hundredths → Compare",
+    "misconceptions": [
+      {
+        "misconception": "Only numerator changed",
+        "correction": "Multiply or divide both numerator and denominator by the same non-zero factor."
+      },
+      {
+        "misconception": "Different-sized wholes compared",
+        "correction": "Equivalent fraction models require equal-sized wholes."
+      },
+      {
+        "misconception": "Denominator treated as decimal digits",
+        "correction": "1/4 is 0.25, not 0.4."
+      },
+      {
+        "misconception": "Equivalent means identical notation",
+        "correction": "Equivalent representations look different but have the same value."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N04": {
+    "title": "Counting with Fractions and Mixed Numerals",
+    "curriculum": "count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+    "routine": "Choose step size → Partition each whole equally → Count beyond one → Rename → Locate and compare",
+    "misconceptions": [
+      {
+        "misconception": "Denominator changes after one whole",
+        "correction": "The denominator keeps naming the same-sized parts."
+      },
+      {
+        "misconception": "Mixed numeral treated as multiplication",
+        "correction": "1 3/4 means one whole and three quarters, not 1 × 3/4."
+      },
+      {
+        "misconception": "Unequal number-line intervals",
+        "correction": "Equal fraction steps require equal distances."
+      },
+      {
+        "misconception": "Improper fractions cannot be numbers",
+        "correction": "They are valid numbers greater than or equal to one."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N05": {
+    "title": "Multiplying and Dividing by Multiples and Powers of 10",
+    "curriculum": "solve problems involving multiplying or dividing natural numbers by multiples and powers of 10 without a calculator, using the multiplicative relationship between the place value of digits",
+    "routine": "Identify factor or divisor → Track place-value shift → Calculate → Interpret units → Check inverse",
+    "misconceptions": [
+      {
+        "misconception": "Add zeros rule used blindly",
+        "correction": "Place-value reasoning explains when and why placeholder zeros appear."
+      },
+      {
+        "misconception": "30 treated as 3",
+        "correction": "Remember the extra factor of 10."
+      },
+      {
+        "misconception": "Division shift in wrong direction",
+        "correction": "Division by 10 makes each digit worth one tenth as much."
+      },
+      {
+        "misconception": "Units ignored",
+        "correction": "Interpret whether the answer counts items, cost, length or groups."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N06": {
+    "title": "Efficient Calculation Strategies and Digital Tools",
+    "curriculum": "develop efficient strategies and use appropriate digital tools for solving problems involving addition and subtraction, and multiplication and division where there is no remainder",
+    "routine": "Estimate → Analyse numbers → Choose strategy/tool → Solve → Check → Compare efficiency",
+    "misconceptions": [
+      {
+        "misconception": "One method used for every problem",
+        "correction": "Analyse the numbers before choosing a strategy."
+      },
+      {
+        "misconception": "Calculator answer accepted without checking",
+        "correction": "Estimate and interpret the result."
+      },
+      {
+        "misconception": "Partial products omitted",
+        "correction": "Record every partitioned part before recombining."
+      },
+      {
+        "misconception": "Efficiency confused with speed only",
+        "correction": "A method should also be reliable and communicable."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N07": {
+    "title": "Estimation, Rounding and Reasonableness",
+    "curriculum": "choose and use estimation and rounding to check and explain the reasonableness of calculations including the results of financial transactions",
+    "routine": "Identify purpose → Choose rounding level → Estimate → Calculate → Compare → Explain reasonableness",
+    "misconceptions": [
+      {
+        "misconception": "Always round to the same place",
+        "correction": "Choose precision based on purpose."
+      },
+      {
+        "misconception": "Estimate accepted as exact",
+        "correction": "Use approximately and distinguish estimate from exact result."
+      },
+      {
+        "misconception": "Financial estimate rounds down unsafely",
+        "correction": "Rounding up may be more useful when checking whether money is sufficient."
+      },
+      {
+        "misconception": "Reasonable means identical",
+        "correction": "An exact answer should be close to, not equal to, the estimate."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N08": {
+    "title": "Mathematical Modelling in Multi-step Problems",
+    "curriculum": "use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial contexts; formulate the problems using number sentences and choose efficient calculation strategies, using digital tools where appropriate; interpret and communicate solutions in terms of the situation",
+    "routine": "Understand context → Define quantities → Represent → Formulate operations → Solve → Validate → Communicate",
+    "misconceptions": [
+      {
+        "misconception": "All numbers used automatically",
+        "correction": "Include only quantities relevant to the question and model."
+      },
+      {
+        "misconception": "Constraint ignored",
+        "correction": "A mathematically cheaper option may not meet capacity, time or safety needs."
+      },
+      {
+        "misconception": "Answer lacks units or context",
+        "correction": "State what the result means in the situation."
+      },
+      {
+        "misconception": "Digital output replaces formulation",
+        "correction": "Set up the mathematical relationship before using the tool."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4N09": {
+    "title": "Algorithms that Generate Number Sets",
+    "curriculum": "follow and create algorithms involving a sequence of steps and decisions that use addition or multiplication to generate sets of numbers; identify and describe any emerging patterns",
+    "routine": "Define input → Follow ordered steps → Apply decision → Record output set → Identify pattern → Test generalisation",
+    "misconceptions": [
+      {
+        "misconception": "Steps reordered",
+        "correction": "Algorithms depend on exact sequence."
+      },
+      {
+        "misconception": "Decision has no complete branches",
+        "correction": "Every possible outcome needs a defined next step."
+      },
+      {
+        "misconception": "Pattern stated from too few outputs",
+        "correction": "Test enough inputs to support the description."
+      },
+      {
+        "misconception": "Recursive and direct rules confused",
+        "correction": "One describes how outputs change; the other links input directly to output."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4A01": {
+    "title": "Unknown Values in Addition and Subtraction Equations",
+    "curriculum": "find unknown values in numerical equations involving addition and subtraction, using the properties of numbers and operations",
+    "routine": "Read both sides → Identify unknown role → Preserve equality → Use inverse/property → Substitute and check",
+    "misconceptions": [
+      {
+        "misconception": "Equals sign means 'answer comes next'",
+        "correction": "It means both sides have equal value."
+      },
+      {
+        "misconception": "Same operation used regardless of unknown role",
+        "correction": "Identify whether the missing value is an addend, minuend or subtrahend."
+      },
+      {
+        "misconception": "Subtraction treated as commutative",
+        "correction": "900 − 553 is not the same as 553 − 900."
+      },
+      {
+        "misconception": "No substitution check",
+        "correction": "Replace the box with the solution and evaluate both sides."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4A02": {
+    "title": "Multiplication Facts to 10 × 10 and Derived Strategies",
+    "curriculum": "recall and demonstrate proficiency with multiplication facts up to 10 x 10 and related division facts; extend and apply facts to develop efficient mental strategies for computation with larger numbers without a calculator",
+    "routine": "Recall core fact → Connect inverse → Use commutative/distributive relationship → Scale place value → Check",
+    "misconceptions": [
+      {
+        "misconception": "Recall without relationships",
+        "correction": "Use facts as connected families, not isolated answers."
+      },
+      {
+        "misconception": "Partitioning factor not recombined",
+        "correction": "Add every partial product or quotient."
+      },
+      {
+        "misconception": "Division interpreted backwards",
+        "correction": "Identify the whole and known factor before selecting the inverse fact."
+      },
+      {
+        "misconception": "Near fact adjustment lost",
+        "correction": "Subtract or add the exact adjustment after using a friendly fact."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4M01": {
+    "title": "Reading Scales, Partial Units and Digital Instruments",
+    "curriculum": "interpret unmarked and partial units when measuring and comparing attributes of length, mass, capacity, duration and temperature, using scaled and digital instruments and appropriate units",
+    "routine": "Identify attribute/unit → Read labelled endpoints → Count equal intervals → Find interval value → Read partial position → Record and compare",
+    "misconceptions": [
+      {
+        "misconception": "Counting marks rather than intervals",
+        "correction": "Determine the spaces between labelled values."
+      },
+      {
+        "misconception": "Assuming every scale uses ones",
+        "correction": "Calculate the interval value from endpoints and number of intervals."
+      },
+      {
+        "misconception": "Comparing different units directly",
+        "correction": "Convert to a common unit first."
+      },
+      {
+        "misconception": "Digital display copied without interpretation",
+        "correction": "State whether 02:35 means time of day or a duration, and include units."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4M02": {
+    "title": "Perimeter and Area of Shapes and Enclosed Spaces",
+    "curriculum": "recognise ways of measuring and approximating the perimeter and area of shapes and enclosed spaces, using appropriate formal and informal units",
+    "routine": "Identify boundary or surface → Choose unit → Measure/count → Calculate or approximate → Label units → Compare",
+    "misconceptions": [
+      {
+        "misconception": "Perimeter and area formulas confused",
+        "correction": "Ask whether the problem concerns around or covering."
+      },
+      {
+        "misconception": "Area unit written as cm",
+        "correction": "Area uses square units such as cm²."
+      },
+      {
+        "misconception": "Internal grid lines counted in perimeter",
+        "correction": "Only the outer boundary contributes."
+      },
+      {
+        "misconception": "Approximation presented as exact",
+        "correction": "Use approximately and describe the method or range."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4M03": {
+    "title": "Duration, am/pm and Time Conversions",
+    "curriculum": "solve problems involving the duration of time including situations involving “am” and “pm” and conversions between units of time",
+    "routine": "Identify start/end → Mark am or pm → Bridge to friendly time → Add intervals → Convert units → Check context",
+    "misconceptions": [
+      {
+        "misconception": "Subtracting clock digits directly",
+        "correction": "Use elapsed intervals; 1:10 − 9:35 is not ordinary place-value subtraction."
+      },
+      {
+        "misconception": "12 am and 12 pm reversed",
+        "correction": "12:00 pm is noon and 12:00 am is midnight."
+      },
+      {
+        "misconception": "Minutes treated as hundredths of an hour",
+        "correction": "An hour has 60 minutes."
+      },
+      {
+        "misconception": "am/pm omitted",
+        "correction": "Without it, a duration may be ambiguous."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4M04": {
+    "title": "Estimating and Comparing Angles",
+    "curriculum": "estimate and compare angles using angle names including acute, obtuse, straight angle, reflex and revolution, and recognise their relationship to a right angle",
+    "routine": "Identify vertex and arms → Compare with 90° → Compare with 180° → Name angle → Estimate turn → Justify",
+    "misconceptions": [
+      {
+        "misconception": "Long arms mean large angle",
+        "correction": "Angle size depends on turn, not line length."
+      },
+      {
+        "misconception": "Reflex angle identified as smaller interior angle",
+        "correction": "Specify which turn is being measured; reflex is the larger turn over 180°."
+      },
+      {
+        "misconception": "Orientation changes angle name",
+        "correction": "Rotating a diagram does not change the angle."
+      },
+      {
+        "misconception": "Straight angle called a line only",
+        "correction": "A straight angle represents a half turn of 180°."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4SP01": {
+    "title": "Composite Shapes and Objects",
+    "curriculum": "represent and approximate composite shapes and objects in the environment, using combinations of familiar shapes and objects",
+    "routine": "Observe whole → Identify familiar components → Decompose → Represent → Approximate dimensions/position → Check resemblance",
+    "misconceptions": [
+      {
+        "misconception": "Naming only the outline",
+        "correction": "Identify internal components and how they combine."
+      },
+      {
+        "misconception": "2D and 3D objects confused",
+        "correction": "A drawing may use 2D shapes to represent a 3D object, but name both appropriately."
+      },
+      {
+        "misconception": "Proportions ignored",
+        "correction": "Relative size and position help the model resemble the object."
+      },
+      {
+        "misconception": "Approximation treated as exact copy",
+        "correction": "A model intentionally simplifies while preserving important features."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4SP02": {
+    "title": "Grid References, Directions and Pathways",
+    "curriculum": "create and interpret grid reference systems using grid references and directions to locate and describe positions and pathways",
+    "routine": "Orient grid → Read horizontal reference → Read vertical reference → Locate cell/point → Follow ordered directions → Verify endpoint",
+    "misconceptions": [
+      {
+        "misconception": "Row and column order switched",
+        "correction": "State and follow the convention, usually column then row for letter–number cells."
+      },
+      {
+        "misconception": "North changes during route",
+        "correction": "Grid orientation remains fixed even after turns."
+      },
+      {
+        "misconception": "Moves counted by lines instead of cells",
+        "correction": "Define whether a move crosses cells or grid intervals and apply consistently."
+      },
+      {
+        "misconception": "Cell reference and point coordinate mixed",
+        "correction": "They locate different features unless the system defines otherwise."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4SP03": {
+    "title": "Line and Rotational Symmetry",
+    "curriculum": "recognise line and rotational symmetry of shapes and create symmetrical patterns and pictures, using dynamic geometric software where appropriate",
+    "routine": "Identify possible transformation → Test reflection/rotation → Check exact match → Count axes/order → Create and verify",
+    "misconceptions": [
+      {
+        "misconception": "Near match accepted",
+        "correction": "Symmetry requires exact correspondence."
+      },
+      {
+        "misconception": "Every diagonal is an axis",
+        "correction": "Only lines that map the entire shape onto itself count."
+      },
+      {
+        "misconception": "360° counted as the only rotational match",
+        "correction": "Order includes all matching positions during one full turn, including the starting orientation."
+      },
+      {
+        "misconception": "Line and rotational symmetry assumed together",
+        "correction": "A shape can have one without the other."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4ST01": {
+    "title": "Collecting and Representing Data with Many-to-One Displays",
+    "curriculum": "acquire data for categorical and discrete numerical variables to address a question of interest or purpose, using digital tools; represent data using many-to-one pictographs, column graphs and other displays or visualisations; interpret and discuss the information that has been created",
+    "routine": "Define question → Identify variable → Collect accurately → Organise digitally → Choose display/key/scale → Interpret → Discuss limitations",
+    "misconceptions": [
+      {
+        "misconception": "Key ignored",
+        "correction": "Multiply symbols by the key value and interpret partial symbols proportionally."
+      },
+      {
+        "misconception": "Display scale changes frequencies",
+        "correction": "Representation must match the source data exactly."
+      },
+      {
+        "misconception": "Question and variable mismatch",
+        "correction": "Collect a variable that directly addresses the purpose."
+      },
+      {
+        "misconception": "Graph interpreted beyond data",
+        "correction": "Describe what was collected without inventing causes."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4ST02": {
+    "title": "Comparing Data Displays and Distributions",
+    "curriculum": "analyse the effectiveness of different displays or visualisations in illustrating and comparing data distributions, then discuss the shape of distributions and the variation in the data",
+    "routine": "Identify question → Read scale/key → Describe concentration/gaps/extremes → Compare variation → Evaluate display → Support with data",
+    "misconceptions": [
+      {
+        "misconception": "Tall-looking difference assumed large",
+        "correction": "Read the axis scale and actual values."
+      },
+      {
+        "misconception": "Range used as complete description",
+        "correction": "Also discuss clusters, gaps and common values."
+      },
+      {
+        "misconception": "Extreme value deleted automatically",
+        "correction": "Investigate whether it is valid before excluding it."
+      },
+      {
+        "misconception": "Best graph declared without purpose",
+        "correction": "Effectiveness depends on the question and audience."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4ST03": {
+    "title": "Conducting and Communicating Statistical Investigations",
+    "curriculum": "conduct statistical investigations, collecting data through survey responses and other methods; record and display data using digital tools; interpret the data and communicate the results",
+    "routine": "Pose question → Plan population/method → Collect ethically → Clean and organise → Display → Interpret → Communicate → Reflect",
+    "misconceptions": [
+      {
+        "misconception": "Leading survey question",
+        "correction": "Wording should not push respondents toward an answer."
+      },
+      {
+        "misconception": "Duplicate or inconsistent entries",
+        "correction": "Clean data before calculating frequencies."
+      },
+      {
+        "misconception": "Conclusion exceeds sample",
+        "correction": "State who was surveyed and limit the claim."
+      },
+      {
+        "misconception": "Display chosen after writing conclusion",
+        "correction": "Let the question and data determine the display."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4P01": {
+    "title": "Likelihood, Outcomes and Independent or Dependent Events",
+    "curriculum": "describe possible everyday events and the possible outcomes of chance experiments and order outcomes or events based on their likelihood of occurring; identify independent or dependent events",
+    "routine": "Define experiment → List complete outcomes → Compare favourable outcomes → Order likelihood → Check replacement/conditions → Classify dependence",
+    "misconceptions": [
+      {
+        "misconception": "Likely confused with certain",
+        "correction": "A likely event can still fail to occur."
+      },
+      {
+        "misconception": "Outcome list incomplete",
+        "correction": "Use a systematic table or tree to include all ordered outcomes."
+      },
+      {
+        "misconception": "Independent means different",
+        "correction": "Independence concerns whether one event changes the chance of another."
+      },
+      {
+        "misconception": "Replacement condition ignored",
+        "correction": "State whether items are returned before the next draw."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  },
+  "AC9M4P02": {
+    "title": "Repeated Chance Experiments and Variation",
+    "curriculum": "conduct repeated chance experiments to observe relationships between outcomes; identify and describe the variation in results",
+    "routine": "Define outcomes → Predict → Conduct consistent trials → Record frequencies → Repeat/aggregate → Compare proportions → Describe variation",
+    "misconceptions": [
+      {
+        "misconception": "Equal chance means equal every run",
+        "correction": "Small samples can vary considerably."
+      },
+      {
+        "misconception": "Result changed to match prediction",
+        "correction": "Record every valid trial, including surprising outcomes."
+      },
+      {
+        "misconception": "Frequencies compared without sample size",
+        "correction": "Use proportions or equal totals when comparing sets."
+      },
+      {
+        "misconception": "One trial used to judge fairness",
+        "correction": "Repeated evidence is needed; even then conclusions should be cautious."
+      }
+    ],
+    "visualFocus": [
+      "Model",
+      "Apply",
+      "Reason"
+    ],
+    "practiceContexts": [
+      "In a class project",
+      "At the school market",
+      "While planning a garden",
+      "During a sports challenge",
+      "At the wildlife centre",
+      "In the makerspace",
+      "While checking a map",
+      "During a cooking task",
+      "At the community fair",
+      "In a library display",
+      "During a science activity",
+      "At the school canteen",
+      "While organising an excursion",
+      "In a games club",
+      "During an art project",
+      "At the recycling station",
+      "While planning a survey",
+      "In a coding lesson",
+      "During a building task",
+      "At the local pool",
+      "While preparing a camp",
+      "In a music project",
+      "At a playground redesign",
+      "During a book drive"
+    ],
+    "testContexts": [
+      "At a coastal station",
+      "During a museum challenge",
+      "At a charity event",
+      "In an engineering workshop",
+      "At a regional carnival",
+      "During a farm study",
+      "While reading a trail guide",
+      "In an architecture studio",
+      "During a food-truck project",
+      "At a festival",
+      "While organising a collection",
+      "In an environmental study",
+      "During a transport survey",
+      "At a strategy tournament",
+      "While planning a community garden",
+      "In a design exhibition"
+    ]
+  }
+}
