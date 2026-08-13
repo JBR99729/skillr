@@ -273,6 +273,27 @@ document.addEventListener("DOMContentLoaded", () => {
     ...(window.quizConfig || {})
   };
 
+  const runtimeParams = new URLSearchParams(window.location.search);
+  const isWarmupMode = runtimeParams.get("warmup") === "1";
+  const isEmbedMode = runtimeParams.get("embed") === "1";
+  const requestedQuestions = Number(runtimeParams.get("questions"));
+  if (isWarmupMode) {
+    config.maxQuestions = 1;
+    config.questionCycle = false;
+    config.requireStudentName = false;
+    config.certificateOnPass = false;
+    config.preReadSeconds = 0;
+    config.resultUrl = "";
+  } else if (Number.isInteger(requestedQuestions) && requestedQuestions > 0 && requestedQuestions <= 10) {
+    config.maxQuestions = requestedQuestions;
+  }
+  if (isEmbedMode) {
+    config.requireStudentName = false;
+    config.certificateOnPass = false;
+    config.resultUrl = "";
+    document.documentElement.classList.add("skillr-embed-mode");
+  }
+
   const isPracticePage =
     /\/practice\/(?:index\.html)?$/.test(
       window.location.pathname
@@ -420,6 +441,76 @@ document.addEventListener("DOMContentLoaded", () => {
 
     return;
   }
+
+  if (isWarmupMode) {
+    const badge = document.createElement("p");
+    badge.className = "warmup-mode-badge";
+    badge.textContent = "🎲 Quick Class Warm-Up • 1 question";
+    elements.startScreen.prepend(badge);
+  }
+
+  function setupMathsScratchpad() {
+    if (!/\/(?:math|maths)\//i.test(window.location.pathname)) return;
+    const trigger = document.createElement("button");
+    trigger.type = "button";
+    trigger.className = "scratchpad-trigger";
+    trigger.textContent = "✏️ Scratchpad";
+    trigger.setAttribute("aria-haspopup", "dialog");
+    const host = elements.quizScreen.querySelector(".quiz-header") || elements.quizScreen;
+    host.insertAdjacentElement("afterend", trigger);
+
+    const layer = document.createElement("div");
+    layer.className = "scratchpad-layer";
+    layer.hidden = true;
+    layer.innerHTML = '<section class="scratchpad-panel" role="dialog" aria-modal="true" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div><button type="button" class="scratchpad-close" aria-label="Close scratchpad">×</button></header><canvas aria-label="Drawing area"></canvas><footer><button type="button" class="scratchpad-clear">Clear</button><button type="button" class="scratchpad-done">Done</button></footer></section>';
+    document.body.appendChild(layer);
+    const canvas = layer.querySelector("canvas");
+    const context = canvas.getContext("2d");
+    let drawing = false;
+
+    function sizeCanvas() {
+      const rect = canvas.getBoundingClientRect();
+      const ratio = Math.max(1, window.devicePixelRatio || 1);
+      canvas.width = Math.round(rect.width * ratio);
+      canvas.height = Math.round(rect.height * ratio);
+      context.setTransform(ratio, 0, 0, ratio, 0, 0);
+      context.lineCap = "round";
+      context.lineJoin = "round";
+      context.lineWidth = 3;
+      context.strokeStyle = "#17335f";
+    }
+
+    function point(event) {
+      const rect = canvas.getBoundingClientRect();
+      return { x: event.clientX - rect.left, y: event.clientY - rect.top };
+    }
+    canvas.addEventListener("pointerdown", (event) => {
+      drawing = true;
+      canvas.setPointerCapture(event.pointerId);
+      const next = point(event);
+      context.beginPath();
+      context.moveTo(next.x, next.y);
+    });
+    canvas.addEventListener("pointermove", (event) => {
+      if (!drawing) return;
+      const next = point(event);
+      context.lineTo(next.x, next.y);
+      context.stroke();
+    });
+    ["pointerup", "pointercancel", "pointerleave"].forEach((name) => canvas.addEventListener(name, () => { drawing = false; }));
+    function close() { layer.hidden = true; trigger.focus(); }
+    trigger.addEventListener("click", () => {
+      layer.hidden = false;
+      window.requestAnimationFrame(() => { sizeCanvas(); layer.querySelector(".scratchpad-close").focus(); });
+    });
+    layer.querySelector(".scratchpad-close").addEventListener("click", close);
+    layer.querySelector(".scratchpad-done").addEventListener("click", close);
+    layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
+    layer.addEventListener("click", (event) => { if (event.target === layer) close(); });
+    document.addEventListener("keydown", (event) => { if (event.key === "Escape" && !layer.hidden) close(); });
+  }
+
+  setupMathsScratchpad();
 
   let activeQuestions = [];
   let currentQuestionIndex = 0;
@@ -965,7 +1056,7 @@ document.addEventListener("DOMContentLoaded", () => {
     selectedMultipleIndexes = new Set();
     orderedItems = [];
     draggedItemIndex = null;
-     
+
     imageDragAnswers = {};
     draggedImageId = null;
   }
@@ -3125,7 +3216,7 @@ function renderImageDragState(
 
   elements.nextButton.focus();
 }
-  
+
 
   function goToNextQuestion() {
     if (!answerChecked) {
@@ -3405,6 +3496,27 @@ function renderImageDragState(
     actions.insertAdjacentElement("beforebegin", prompt);
   }
 
+  function celebrateCompletion(correct, total) {
+    document.querySelector(".quiz-celebration")?.remove();
+    const celebration = document.createElement("div");
+    celebration.className = "quiz-celebration";
+    celebration.setAttribute("role", "status");
+    celebration.innerHTML = `<strong>🎉 Great job!</strong><span>Set complete: ${correct}/${total} correct</span>`;
+    document.body.appendChild(celebration);
+    window.setTimeout(() => celebration.remove(), 4200);
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const colours = ["#2457d6", "#12a06a", "#f3a712", "#8b5cf6", "#ef476f"];
+    for (let index = 0; index < 28; index += 1) {
+      const piece = document.createElement("i");
+      piece.className = "quiz-confetti";
+      piece.style.setProperty("--confetti-x", `${5 + Math.random() * 90}vw`);
+      piece.style.setProperty("--confetti-delay", `${Math.random() * .35}s`);
+      piece.style.setProperty("--confetti-colour", colours[index % colours.length]);
+      document.body.appendChild(piece);
+      window.setTimeout(() => piece.remove(), 2500);
+    }
+  }
+
     /* =========================================================
      RESULTS
      ========================================================= */
@@ -3431,10 +3543,12 @@ function renderImageDragState(
         previousBest
       );
 
-    localStorage.setItem(
-      config.storageKey,
-      String(newBest)
-    );
+    if (!isWarmupMode && !isEmbedMode) {
+      localStorage.setItem(
+        config.storageKey,
+        String(newBest)
+      );
+    }
 
     elements.percentageScore.textContent =
       `${percentage}%`;
@@ -3448,9 +3562,10 @@ function renderImageDragState(
     elements.resultMessage.textContent =
       getResultMessage(percentage);
 
-    markCurrentCycleSetComplete();
+    if (!isWarmupMode && !isEmbedMode) markCurrentCycleSetComplete();
     updateCertificateAction(percentage);
     updateResultSharePrompt(percentage);
+    celebrateCompletion(score, total);
 
     const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
     const resultData = {
@@ -3495,7 +3610,10 @@ function renderImageDragState(
       durationSeconds: quizStartedAt ? Math.max(0, Math.round((Date.now() - quizStartedAt) / 1000)) : 0
     };
 
-    if (window.SkillrProgress) {
+    if (isWarmupMode || isEmbedMode) {
+      // One-question warm-ups and embedded previews are intentionally private previews,
+      // so they do not alter the learner's saved progress.
+    } else if (window.SkillrProgress) {
       window.SkillrProgress.recordAttempt(progressAttempt);
     } else {
       let progressScript = document.querySelector('script[data-skillr-progress]');
@@ -3741,6 +3859,37 @@ function renderImageDragState(
   }
 
   function handleQuizKeyboard(event) {
+    if (event.isComposing) return;
+
+    const typingControl = event.target?.closest?.("input, textarea, select, [contenteditable='true']");
+    if (isCurrentScreen(elements.quizScreen) && !typingControl) {
+      const options = [...elements.answerList.querySelectorAll(".answer-option:not([disabled])")];
+      if (!answerChecked && /^[1-4]$/.test(event.key) && options[Number(event.key) - 1]) {
+        event.preventDefault();
+        options[Number(event.key) - 1].click();
+        options[Number(event.key) - 1].focus();
+        return;
+      }
+      if ((event.key === "ArrowLeft" || event.key === "ArrowRight") && options.length && !answerChecked) {
+        event.preventDefault();
+        const current = Math.max(0, options.indexOf(document.activeElement));
+        const next = event.key === "ArrowRight" ? (current + 1) % options.length : (current - 1 + options.length) % options.length;
+        options[next].focus();
+        return;
+      }
+      if (event.key === "ArrowRight" && answerChecked && !elements.nextButton.hidden) {
+        event.preventDefault();
+        goToNextQuestion();
+        return;
+      }
+      if (event.code === "Space" && !event.target?.closest?.("button, a")) {
+        event.preventDefault();
+        if (answerChecked && !elements.nextButton.hidden) goToNextQuestion();
+        else if (!elements.submitButton.hidden && !elements.submitButton.disabled) checkAnswer();
+        return;
+      }
+    }
+
     if (
       event.key !== "Enter" ||
       event.isComposing
@@ -3857,6 +4006,10 @@ function renderImageDragState(
       openReviewPage
     );
 
+  }
+
+  if (isWarmupMode) {
+    window.requestAnimationFrame(startQuiz);
   }
 
 

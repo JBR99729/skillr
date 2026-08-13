@@ -28,3 +28,14 @@
 .english-passage-card h2{margin:.25rem 0 .75rem;font-size:1.35rem}
 .english-passage-text{white-space:normal;line-height:1.75;color:var(--text,#263244);font-size:1rem}
 @media(max-width:640px){.english-passage-card{padding:16px}.english-passage-text{line-height:1.68}}
+
+/* Compact directory density while keeping touch targets comfortable */
+.daily-shell{padding:16px 0 34px}
+.daily-hero{margin:6px auto 18px}
+.daily-hero h1{margin:.15rem 0 .35rem}
+.daily-section{margin-top:22px}.daily-section h2{margin-bottom:10px}
+.daily-grid{gap:11px}
+.daily-card{padding:15px;border-radius:14px}
+.daily-card h3{margin:5px 0 6px}.daily-card p{margin-bottom:11px}
+.daily-note,.daily-seo-copy{margin:20px auto}
+.daily-quick-support{margin-top:13px}.daily-quick-summary{padding:12px 14px}.daily-quick-body{padding:0 14px 14px}

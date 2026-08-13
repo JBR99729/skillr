@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v13";
-const STATIC_CACHE_NAME = "skillrhub-static-v11";
+const CACHE_NAME = "skillrhub-pwa-v14";
+const STATIC_CACHE_NAME = "skillrhub-static-v12";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -73,6 +73,9 @@ self.addEventListener("fetch", (event) => {
     (
       url.pathname === "/pwa-register.js" ||
       url.pathname === "/share-button.js" ||
+      url.pathname === "/assets/home-search.js" ||
+      url.pathname === "/assets/progress-store.js" ||
+      url.pathname === "/dashboard/script.js" ||
       url.pathname === "/assets/display-only.js" ||
       url.pathname === "/assets/year7-router.js" ||
       url.pathname.startsWith("/assets/year7-") ||

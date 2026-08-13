@@ -229,7 +229,7 @@
     if (mainNav) {
       mainNav.replaceChildren(...[
         ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
-        ["About", "/about.html"], ["Contact", "/contact.html"]
+        ["Features", "/why-skillrhub.html"], ["About", "/about.html"], ["Contact", "/contact.html"]
       ].map(([label, href]) => {
         const link = document.createElement("a");
         link.textContent = label;
@@ -253,7 +253,8 @@
       footerNav.replaceChildren(...[
         ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
         ["Worksheets", "/worksheets/"], ["About", "/about.html"],
-        ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"]
+        ["Features", "/why-skillrhub.html"], ["Contact", "/contact.html"],
+        ["💬 Request a Feature / Feedback", "/contact.html"], ["Privacy", "/privacy-policy.html"]
       ].map(([label, href]) => {
         const link = document.createElement("a");
         link.textContent = label;
@@ -263,9 +264,345 @@
     }
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", normalizeSharedChrome, { once: true });
-  } else {
+  const TIMER_KEY = "skillrBreakTimerV1";
+  const PROJECTOR_KEY = "skillrProjectorModeV1";
+  const INSTALL_DISMISS_KEY = "skillrPwaBannerDismissedAt";
+  let timerCheckId = null;
+
+  function copyText(value) {
+    if (navigator.clipboard?.writeText) return navigator.clipboard.writeText(value);
+    const field = document.createElement("textarea");
+    field.value = value;
+    field.style.cssText = "position:fixed;opacity:0;pointer-events:none";
+    document.body.appendChild(field);
+    field.select();
+    document.execCommand("copy");
+    field.remove();
+    return Promise.resolve();
+  }
+
+  function closeLayer(layer, returnFocus) {
+    layer?.remove();
+    returnFocus?.focus?.();
+  }
+
+  function createLayer(className, labelledBy) {
+    const layer = document.createElement("div");
+    layer.className = `skillr-modal-layer ${className || ""}`.trim();
+    layer.setAttribute("role", "presentation");
+    const closeOnEscape = (event) => {
+      if (event.key === "Escape") {
+        closeLayer(layer);
+        document.removeEventListener("keydown", closeOnEscape);
+      }
+    };
+    layer.addEventListener("click", (event) => { if (event.target === layer) closeLayer(layer); });
+    document.addEventListener("keydown", closeOnEscape);
+    if (labelledBy) layer.dataset.labelledBy = labelledBy;
+    document.body.appendChild(layer);
+    return layer;
+  }
+
+  function isIosSafari() {
+    return /iPad|iPhone|iPod/.test(navigator.userAgent) && /Safari/.test(navigator.userAgent) && !/CriOS|FxiOS/.test(navigator.userAgent);
+  }
+
+  function showInstallHelp(trigger) {
+    const layer = createLayer("skillr-install-layer", "skillr-install-title");
+    const panel = document.createElement("section");
+    panel.className = "skillr-modal-panel";
+    panel.setAttribute("role", "dialog");
+    panel.setAttribute("aria-modal", "true");
+    panel.setAttribute("aria-labelledby", "skillr-install-title");
+    const instructions = isIosSafari()
+      ? "In Safari, tap the Share button, scroll down, then choose Add to Home Screen."
+      : "Use the install icon in your browser address bar or browser menu. Installation support depends on your browser.";
+    panel.innerHTML = `<header><div><span aria-hidden="true">📲</span><h2 id="skillr-install-title">Add SkillrHub to your device</h2></div><button type="button" class="skillr-modal-close" aria-label="Close">×</button></header><p>${instructions}</p><ul><li>Open Daily Drills in one tap.</li><li>Keep private, local progress on this device.</li><li>Use the distraction-free app window when supported.</li></ul><button type="button" class="skillr-primary-action">Got it</button>`;
+    layer.appendChild(panel);
+    const close = () => closeLayer(layer, trigger);
+    panel.querySelector(".skillr-modal-close").addEventListener("click", close);
+    panel.querySelector(".skillr-primary-action").addEventListener("click", close);
+    panel.querySelector(".skillr-modal-close").focus();
+  }
+
+  async function handleInstall(trigger) {
+    const choice = await promptInstall();
+    if (choice?.outcome === "unavailable") showInstallHelp(trigger);
+  }
+
+  function readTimer() {
+    try {
+      const value = JSON.parse(localStorage.getItem(TIMER_KEY) || "null");
+      if (value && [15, 20, 30, 45, 60].includes(Number(value.minutes))) {
+        return { minutes: Number(value.minutes), running: Boolean(value.running), nextAt: Number(value.nextAt) || 0 };
+      }
+    } catch (_) {}
+    return { minutes: 60, running: false, nextAt: 0 };
+  }
+
+  function writeTimer(value) {
+    try { localStorage.setItem(TIMER_KEY, JSON.stringify(value)); } catch (_) {}
+    updateTimerLabels();
+  }
+
+  function playTimerChime() {
+    try {
+      const AudioContext = window.AudioContext || window.webkitAudioContext;
+      if (!AudioContext) return;
+      const audio = new AudioContext();
+      const gain = audio.createGain();
+      const oscillator = audio.createOscillator();
+      oscillator.type = "sine";
+      oscillator.frequency.setValueAtTime(587.33, audio.currentTime);
+      oscillator.frequency.setValueAtTime(880, audio.currentTime + .2);
+      gain.gain.setValueAtTime(.18, audio.currentTime);
+      gain.gain.exponentialRampToValueAtTime(.0001, audio.currentTime + 1.2);
+      oscillator.connect(gain);
+      gain.connect(audio.destination);
+      oscillator.start();
+      oscillator.stop(audio.currentTime + 1.2);
+      oscillator.addEventListener("ended", () => audio.close());
+    } catch (_) {}
+  }
+
+  function showTimerReminder(minutes) {
+    document.querySelector(".skillr-timer-toast")?.remove();
+    const toast = document.createElement("aside");
+    toast.className = "skillr-timer-toast";
+    toast.setAttribute("role", "alert");
+    toast.innerHTML = `<strong>⏰ ${minutes} minutes are up</strong><span>Time to stretch, drink water and rest your eyes.</span><button type="button">Dismiss</button>`;
+    document.body.appendChild(toast);
+    toast.querySelector("button").addEventListener("click", () => toast.remove());
+    window.setTimeout(() => toast.remove(), 12000);
+  }
+
+  function checkTimer() {
+    const timer = readTimer();
+    if (!timer.running || !timer.nextAt || Date.now() < timer.nextAt) return;
+    playTimerChime();
+    showTimerReminder(timer.minutes);
+    timer.nextAt = Date.now() + timer.minutes * 60 * 1000;
+    writeTimer(timer);
+  }
+
+  function updateTimerLabels() {
+    const timer = readTimer();
+    document.querySelectorAll("[data-skillr-timer]").forEach((button) => {
+      button.innerHTML = timer.running ? `⏰ <span>${timer.minutes}m active</span>` : "⏰ <span>Break timer</span>";
+      button.setAttribute("aria-label", timer.running ? `Break timer active every ${timer.minutes} minutes` : "Open break timer");
+    });
+  }
+
+  function showTimerPanel(trigger) {
+    const timer = readTimer();
+    const layer = createLayer("skillr-timer-layer", "skillr-timer-title");
+    const panel = document.createElement("section");
+    panel.className = "skillr-modal-panel";
+    panel.setAttribute("role", "dialog");
+    panel.setAttribute("aria-modal", "true");
+    panel.setAttribute("aria-labelledby", "skillr-timer-title");
+    panel.innerHTML = '<header><div><span aria-hidden="true">⏰</span><h2 id="skillr-timer-title">Classroom break timer</h2></div><button type="button" class="skillr-modal-close" aria-label="Close">×</button></header><p>Choose a gentle reminder interval. Your preference stays on this device.</p><label class="skillr-timer-field">Reminder interval<select><option value="15">15 minutes</option><option value="20">20 minutes</option><option value="30">30 minutes</option><option value="45">45 minutes</option><option value="60">60 minutes</option></select></label><p class="skillr-timer-panel-status" role="status"></p><div class="skillr-modal-actions"><button type="button" class="skillr-primary-action"></button><button type="button" class="skillr-secondary-action">Close</button></div>';
+    layer.appendChild(panel);
+    const select = panel.querySelector("select");
+    const action = panel.querySelector(".skillr-primary-action");
+    const status = panel.querySelector(".skillr-timer-panel-status");
+    select.value = String(timer.minutes);
+    action.textContent = timer.running ? "Stop timer" : "Start timer";
+    status.textContent = timer.running ? `Active every ${timer.minutes} minutes.` : "Timer is stopped.";
+    const close = () => closeLayer(layer, trigger);
+    panel.querySelector(".skillr-modal-close").addEventListener("click", close);
+    panel.querySelector(".skillr-secondary-action").addEventListener("click", close);
+    action.addEventListener("click", () => {
+      const current = readTimer();
+      if (current.running) {
+        writeTimer({ minutes: Number(select.value), running: false, nextAt: 0 });
+        status.textContent = "Timer stopped.";
+        action.textContent = "Start timer";
+      } else {
+        const minutes = Number(select.value);
+        writeTimer({ minutes, running: true, nextAt: Date.now() + minutes * 60 * 1000 });
+        status.textContent = `Active every ${minutes} minutes.`;
+        action.textContent = "Stop timer";
+      }
+    });
+    panel.querySelector(".skillr-modal-close").focus();
+  }
+
+  function projectorEnabled() {
+    try { return localStorage.getItem(PROJECTOR_KEY) === "1"; } catch (_) { return false; }
+  }
+
+  function applyProjectorMode(enabled) {
+    document.documentElement.classList.toggle("skillr-projector-mode", enabled);
+    try { localStorage.setItem(PROJECTOR_KEY, enabled ? "1" : "0"); } catch (_) {}
+    document.querySelectorAll("[data-skillr-projector]").forEach((button) => {
+      button.innerHTML = enabled ? "☀️ <span>Standard</span>" : "🌙 <span>Projector</span>";
+      button.setAttribute("aria-pressed", String(enabled));
+    });
+  }
+
+  function makeUtilityButton(kind, label, icon) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "skillr-utility-button";
+    button.dataset[`skillr${kind[0].toUpperCase()}${kind.slice(1)}`] = "true";
+    button.innerHTML = `${icon} <span>${label}</span>`;
+    if (kind === "install") button.addEventListener("click", () => handleInstall(button));
+    if (kind === "timer") button.addEventListener("click", () => showTimerPanel(button));
+    if (kind === "projector") button.addEventListener("click", () => applyProjectorMode(!projectorEnabled()));
+    return button;
+  }
+
+  function setupUtilityControls() {
+    applyProjectorMode(projectorEnabled());
+    const headerHost = document.querySelector(".site-header__links, .main-nav, .dashboard-nav");
+    if (headerHost && !headerHost.querySelector(".skillr-header-tools")) {
+      const tools = document.createElement("div");
+      tools.className = "skillr-header-tools";
+      if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "📲"));
+      tools.append(makeUtilityButton("timer", "Timer", "⏰"), makeUtilityButton("projector", "Projector", "🌙"));
+      headerHost.appendChild(tools);
+    }
+    const footer = document.querySelector("footer");
+    if (footer && !footer.querySelector(".skillr-footer-tools")) {
+      const tools = document.createElement("div");
+      tools.className = "skillr-footer-tools";
+      tools.append(makeUtilityButton("install", "Install app", "📲"), makeUtilityButton("timer", "Break timer", "⏰"), makeUtilityButton("projector", "Projector mode", "🌙"));
+      footer.appendChild(tools);
+    }
+    updateTimerLabels();
+    window.clearInterval(timerCheckId);
+    timerCheckId = window.setInterval(checkTimer, 1000);
+    window.addEventListener("focus", checkTimer);
+    document.addEventListener("visibilitychange", () => { if (!document.hidden) checkTimer(); });
+  }
+
+  function bannerRecentlyDismissed() {
+    try {
+      const dismissed = Number(localStorage.getItem(INSTALL_DISMISS_KEY)) || 0;
+      const accepted = Number(localStorage.getItem(ACCEPTED_AT_KEY)) || 0;
+      return accepted > 0 || Date.now() - dismissed < 30 * 24 * 60 * 60 * 1000;
+    } catch (_) { return false; }
+  }
+
+  function showInstallBanner() {
+    if (isStandaloneApp() || bannerRecentlyDismissed() || document.querySelector(".skillr-install-banner")) return;
+    const banner = document.createElement("aside");
+    banner.className = "skillr-install-banner";
+    banner.setAttribute("aria-label", "Install SkillrHub app");
+    banner.innerHTML = '<div><strong>⚡ Add SkillrHub to your device</strong><span>Open Daily Drills in one tap and keep private progress on this device.</span></div><div><button type="button" class="skillr-banner-install">Add app</button><button type="button" class="skillr-banner-dismiss">Not now</button></div>';
+    document.body.appendChild(banner);
+    banner.querySelector(".skillr-banner-install").addEventListener("click", () => handleInstall(banner.querySelector(".skillr-banner-install")));
+    banner.querySelector(".skillr-banner-dismiss").addEventListener("click", () => {
+      try { localStorage.setItem(INSTALL_DISMISS_KEY, String(Date.now())); } catch (_) {}
+      banner.remove();
+    });
+  }
+
+  function cleanShareUrl() {
+    const url = new URL(window.location.href);
+    ["warmup", "embed", "questions"].forEach((key) => url.searchParams.delete(key));
+    url.hash = "";
+    return url.href;
+  }
+
+  function practiceWidgetUrl() {
+    const current = new URL(cleanShareUrl());
+    if (/\/quiz\/.+\/(practice|test|worksheet)\/?$/i.test(current.pathname)) {
+      current.pathname = current.pathname.replace(/\/(practice|test|worksheet)\/?$/i, "/practice/");
+    } else {
+      const practice = document.querySelector('a[href*="/quiz/"][href*="/practice/"]');
+      if (!practice) return "";
+      current.href = new URL(practice.href, window.location.origin).href;
+    }
+    current.searchParams.set("questions", "3");
+    current.searchParams.set("embed", "1");
+    return current.href;
+  }
+
+  function isQrCardPage() {
+    return /\/teacher-slides\//i.test(path) ||
+      /\/(?:foundation|year\d+)\/(?:maths|science|english)\/ac9/i.test(path) ||
+      /\/quiz\/.+\/(?:practice|test|worksheet)\/?$/i.test(path) ||
+      /\/daily-drills\//i.test(path);
+  }
+
+  async function showQrCard(trigger) {
+    const layer = createLayer("skillr-qr-layer", "skillr-qr-title");
+    const panel = document.createElement("section");
+    panel.className = "skillr-modal-panel skillr-qr-panel";
+    panel.setAttribute("role", "dialog");
+    panel.setAttribute("aria-modal", "true");
+    panel.setAttribute("aria-labelledby", "skillr-qr-title");
+    const title = (document.querySelector("h1")?.textContent || document.title).trim();
+    const url = cleanShareUrl();
+    panel.innerHTML = '<header><div><span aria-hidden="true">▦</span><h2 id="skillr-qr-title">Lesson quick-code card</h2></div><button type="button" class="skillr-modal-close" aria-label="Close">×</button></header><div class="skillr-qr-print-card"><p class="skillr-qr-brand">SkillrHub</p><h3></h3><div class="skillr-qr-image" aria-label="QR code"></div><p>Scan to open this learning resource</p><small></small></div><p class="skillr-qr-status" role="status">Creating QR code…</p><div class="skillr-modal-actions"><button type="button" class="skillr-primary-action skillr-copy-link">Copy lesson link</button><button type="button" class="skillr-secondary-action skillr-print-qr">Print card</button></div>';
+    panel.querySelector("h3").textContent = title;
+    panel.querySelector(".skillr-qr-print-card small").textContent = url.replace(/^https?:\/\//, "");
+    layer.appendChild(panel);
+    const status = panel.querySelector(".skillr-qr-status");
+    const close = () => closeLayer(layer, trigger);
+    panel.querySelector(".skillr-modal-close").addEventListener("click", close);
+    panel.querySelector(".skillr-copy-link").addEventListener("click", async () => { await copyText(url); status.textContent = "Lesson link copied."; });
+    panel.querySelector(".skillr-print-qr").addEventListener("click", () => { document.body.classList.add("skillr-printing-qr"); window.print(); window.setTimeout(() => document.body.classList.remove("skillr-printing-qr"), 500); });
+    const widget = practiceWidgetUrl();
+    if (widget) {
+      const embed = document.createElement("button");
+      embed.type = "button";
+      embed.className = "skillr-secondary-action";
+      embed.textContent = "Copy 3-question embed";
+      embed.addEventListener("click", async () => {
+        const code = `<iframe src="${widget}" title="SkillrHub 3-question warm-up" width="100%" height="650" loading="lazy"></iframe>`;
+        await copyText(code);
+        status.textContent = "Embed code copied.";
+      });
+      panel.querySelector(".skillr-modal-actions").appendChild(embed);
+    }
+    try {
+      await loadScript("/assets/vendor/qrcode.min.js?v=1");
+      const image = panel.querySelector(".skillr-qr-image");
+      new window.QRCode(image, { text: url, width: 220, height: 220, colorDark: "#102a50", colorLight: "#ffffff", correctLevel: window.QRCode.CorrectLevel.M });
+      status.textContent = "Ready to copy or print.";
+    } catch (_) {
+      status.textContent = "The QR code could not be created, but the lesson link can still be copied.";
+    }
+    panel.querySelector(".skillr-modal-close").focus();
+  }
+
+  function setupQrCard() {
+    if (!isQrCardPage() || document.querySelector(".skillr-qr-trigger")) return;
+    const trigger = document.createElement("button");
+    trigger.type = "button";
+    trigger.className = "skillr-qr-trigger";
+    trigger.innerHTML = '<span aria-hidden="true">▦</span> QR card';
+    trigger.addEventListener("click", () => showQrCard(trigger));
+    const host = document.querySelector(".toolbar, .quiz-breadcrumb, .curriculum-actions, .topic-action-row, .worksheet-nav, .quiz-header");
+    (host || document.querySelector("main"))?.prepend(trigger);
+  }
+
+  function setupSlideKeyboard() {
+    if (!/\/teacher-slides\//i.test(path)) return;
+    document.addEventListener("keydown", (event) => {
+      if (event.target?.closest?.("input, textarea, select, [contenteditable='true']")) return;
+      const next = document.querySelector('[data-action="next"], .next-slide, #nextSlide, [aria-label*="Next slide" i]');
+      const previous = document.querySelector('[data-action="previous"], .previous-slide, #previousSlide, [aria-label*="Previous slide" i]');
+      if (event.key === "ArrowRight" && next) { event.preventDefault(); next.click(); }
+      if (event.key === "ArrowLeft" && previous) { event.preventDefault(); previous.click(); }
+    });
+  }
+
+  function initialiseSharedExperience() {
     normalizeSharedChrome();
+    setupUtilityControls();
+    setupQrCard();
+    setupSlideKeyboard();
+    window.setTimeout(showInstallBanner, 45000);
+    document.addEventListener("skillr:quiz-complete", () => window.setTimeout(showInstallBanner, 500));
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initialiseSharedExperience, { once: true });
+  } else {
+    initialiseSharedExperience();
   }
 })();
