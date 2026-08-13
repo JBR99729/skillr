@@ -93,7 +93,7 @@ for (const [year, yearData] of Object.entries(catalog)) {
             threeChoiceSingles += 1;
             correctPositions[question.correct] += 1;
           }
-          if (new Set((question.answers || []).map(canonical)).size !== (question.answers || []).length) {
+          if (new Set((question.answers || []).map(clean)).size !== (question.answers || []).length) {
             topicIssues.push(`duplicate choices: ${id}`);
           }
         }
