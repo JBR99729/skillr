@@ -17,27 +17,59 @@
   const unit = sources.map((source) => source?.[code]).find(Boolean);
   if (!unit || !Array.isArray(unit.questions) || ![9, 10].includes(unit.questions.length)) return;
 
+  const isFoundationMathsSplit = subject === "math" && /^AC9MF/.test(code) && unit.questions.length === 9;
+  if (!isFoundationMathsSplit) {
+    if (typeof window.SkillrFoundationLegacyWorksheetRender === "function") {
+      window.SkillrFoundationLegacyWorksheetRender();
+    } else if (!document.querySelector('script[data-skillr-legacy-authored-worksheet="true"]')) {
+      const legacyScript = document.createElement("script");
+      legacyScript.src = "/quiz/assets/foundation-legacy-authored-worksheet.js?v=20260814-topic-practice-split2";
+      legacyScript.dataset.skillrLegacyAuthoredWorksheet = "true";
+      document.head.appendChild(legacyScript);
+    }
+    return;
+  }
+
   const root = document.getElementById("worksheetRoot");
   if (!root) return;
   const questions = unit.questions;
-  const warmUp = questions.filter((question) => question.tier === "warm-up");
-  const core = questions.filter((question) => question.tier === "core");
-  const challenge = questions.filter((question) => question.tier === "challenge");
-  const studentQuestions = [...warmUp, ...core, ...challenge];
+  const studentQuestions = [
+    ...questions.filter((question) => question.tier === "warm-up"),
+    ...questions.filter((question) => question.tier === "core"),
+    ...questions.filter((question) => question.tier === "challenge")
+  ];
+  const routeSheet = Number((window.location.pathname.match(/\/worksheet\/topic-practice-([12])\/?$/i) || [])[1]);
+  const sheetNumber = routeSheet === 2 ? 2 : 1;
+  const sheetTitle = `Topic Practice ${sheetNumber}`;
+  const sheetQuestions = sheetNumber === 1 ? studentQuestions.slice(0, 5) : studentQuestions.slice(5, 9);
+  unit.exportMeta = {
+    curriculumCode: code,
+    year: "Foundation",
+    subject: "Maths",
+    topicTitle: unit.title,
+    publicBranding: "renderer-chrome-only",
+    sheets: [
+      { slug: "topic-practice-1", title: "Topic Practice 1", questionNumbers: [1, 2, 3, 4, 5] },
+      { slug: "topic-practice-2", title: "Topic Practice 2", questionNumbers: [6, 7, 8, 9] }
+    ]
+  };
+  const baseWorksheetPath = `/quiz/grade-k/${subject}/${code.toLowerCase()}/worksheet/`;
+  const sheetPath = (number) => `${baseWorksheetPath}topic-practice-${number}/`;
+  const questionNumber = (question) => studentQuestions.indexOf(question) + 1;
   const subjectLabel = unit.subject || (subject === "science" ? "Science" : subject === "english" ? "English" : "Maths");
   const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;" }[char]));
 
-  document.title = `${code} ${unit.title} Worksheet | SkillrHub`;
+  document.title = `${code} ${unit.title} ${sheetTitle} | SkillrHub`;
   const description = document.querySelector('meta[name="description"]');
-  if (description) description.content = `${code} ${subjectLabel} practice sheet with 3 warm-up, 4 core and 2 challenge questions, plus a complete answer key.`;
+  if (description) description.content = `${code} ${subjectLabel} ${sheetTitle}, one of two aligned printable sheets covering 9 questions with a sheet-specific answer key.`;
   const heroTitle = document.getElementById("worksheetHeroTitle");
-  if (heroTitle) heroTitle.textContent = `${unit.title} Worksheet`;
+  if (heroTitle) heroTitle.textContent = sheetTitle;
   const eyebrow = document.getElementById("worksheetEyebrow");
   if (eyebrow) eyebrow.textContent = `${code} • ${subjectLabel}`;
   const backToTopic = document.getElementById("backToTopic");
   if (backToTopic && unit.topicUrl) backToTopic.href = unit.topicUrl;
   const openPractice = document.getElementById("openPractice");
-  if (openPractice) openPractice.href = window.location.pathname.replace(/worksheet\/?$/i, "practice/");
+  if (openPractice) openPractice.href = `/quiz/grade-k/${subject}/${code.toLowerCase()}/practice/`;
 
   function responseHtml(question) {
     if (question.type === "single") {
@@ -57,16 +89,24 @@
     return `<article class="worksheet-question ${esc(question.tier)}"><div class="question-line"><span class="question-number-text">${displayNumber}.</span><span class="enrichment-label">${esc(question.tierLabel)}</span><p class="question-prompt">${esc(question.question)}</p></div>${question.visual ? `<div class="question-visual">${esc(question.visual)}</div>` : ""}${responseHtml(question)}</article>`;
   }
 
+  const brandHtml = (label = `${code} • ${unit.title}`) => `<div class="worksheet-brand-lockup"><img src="/icons/skillrhub-mark.svg" alt="SkillrHub logo"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><p>${esc(label)}</p></div></div>`;
+
   function paperHtml() {
-    const sections = [["Tier 1: Warm-Up", warmUp, 1], ["Tier 2: Core Practice", core, 4], ["Tier 3: Extension / Challenge", challenge, 8]];
-    return `<section class="worksheet-paper worksheet-core-paper"><div class="watermark-grid" aria-hidden="true">${Array.from({ length: 15 }, () => "<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div><div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${esc(code)} — ${esc(unit.title)}</h2><p class="worksheet-sheet-label">Practice Sheet</p></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div><p class="worksheet-sheet-note">Try the warm-up, then the core practice. Finish with the challenge.</p>${sections.map(([heading, list, start]) => `<section class="core-grid"><h3>${heading}</h3>${list.map((question, index) => renderQuestion(question, start + index)).join("")}</section>`).join("")}<footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • ${esc(subjectLabel)}</span><span>skillrhub.com</span></footer></section>`;
+    const tierHeadings = { "warm-up": "Tier 1: Warm-Up", core: "Tier 2: Core Practice", challenge: "Tier 3: Extension / Challenge" };
+    const sections = ["warm-up", "core", "challenge"].map((tier) => [tierHeadings[tier], sheetQuestions.filter((question) => question.tier === tier)]).filter(([, list]) => list.length);
+    return `<section class="worksheet-paper worksheet-core-paper"><div class="watermark-grid" aria-hidden="true">${Array.from({ length: 15 }, () => "<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div><div class="worksheet-paper__head"><div>${brandHtml()}<h2>${esc(code)} — ${esc(unit.title)}</h2><p class="worksheet-sheet-label">${sheetTitle}</p></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div><p class="worksheet-sheet-note">Complete this sheet, then use the other Topic Practice sheet to finish all 9 questions.</p>${sections.map(([heading, list]) => `<section class="core-grid"><h3>${heading}</h3>${list.map((question) => renderQuestion(question, questionNumber(question))).join("")}</section>`).join("")}<footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • ${esc(subjectLabel)}</span><span>${sheetTitle} • skillrhub.com</span></footer></section>`;
   }
 
   function answerKeyHtml() {
-    return `<section class="worksheet-paper worksheet-extension-paper answer-key"><div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${esc(code)} — Answer Key</h2><p class="worksheet-sheet-label">Teacher copy</p></div></div><section class="core-grid">${studentQuestions.map((question, index) => `<article class="worksheet-question"><p><strong>${index + 1}. ${esc(question.answer)}</strong></p><p><strong>Summary:</strong> ${esc(question.summary)}</p><p><strong>Hint:</strong> ${esc(question.hint)}</p></article>`).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • ${esc(subjectLabel)}</span><span>skillrhub.com</span></footer></section>`;
+    return `<section class="worksheet-paper worksheet-extension-paper answer-key"><div class="worksheet-paper__head"><div>${brandHtml(`${code} • Answer Key`)}<h2>${esc(code)} — ${sheetTitle} Answer Key</h2><p class="worksheet-sheet-label">Teacher copy • this sheet only</p></div></div><section class="core-grid">${sheetQuestions.map((question) => `<article class="worksheet-question"><p><strong>${questionNumber(question)}. ${esc(question.answer)}</strong></p><p><strong>Summary:</strong> ${esc(question.summary)}</p><p><strong>Hint:</strong> ${esc(question.hint)}</p></article>`).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • ${esc(subjectLabel)}</span><span>${sheetTitle} • skillrhub.com</span></footer></section>`;
   }
 
   root.innerHTML = `${paperHtml()}${answerKeyHtml()}`;
+
+  const hero = document.querySelector(".worksheet-hero");
+  if (hero && !hero.querySelector(".worksheet-sheet-tabs")) {
+    hero.insertAdjacentHTML("beforeend", `<nav class="worksheet-sheet-tabs" aria-label="Choose a topic practice sheet"><a class="worksheet-sheet-tab" href="${sheetPath(1)}"${sheetNumber === 1 ? ' aria-current="page"' : ""}>Topic Practice 1 <small>Questions 1–5</small></a><a class="worksheet-sheet-tab" href="${sheetPath(2)}"${sheetNumber === 2 ? ' aria-current="page"' : ""}>Topic Practice 2 <small>Questions 6–9</small></a></nav>`);
+  }
 
   function ensureButtons() {
     const firstButton = document.getElementById("previewPdfButton") || document.getElementById("downloadPdfButton");
@@ -82,12 +122,9 @@
       answerButton.textContent = "Preview answer key";
       firstButton.insertAdjacentElement("afterend", answerButton);
     }
-    document.querySelectorAll(".worksheet-meta span").forEach((span) => {
-      if (/10 questions|8 core|2 enrichment|1 page/i.test(span.textContent || "")) span.remove();
-    });
     const meta = document.querySelector(".worksheet-meta");
     if (meta && !meta.dataset.skillrSplitWorksheet) {
-      meta.insertAdjacentHTML("afterbegin", "<span>9 questions</span><span>3 Warm-Up • 4 Core • 2 Challenge</span><span>Complete answer key</span><span>US Letter portrait</span>");
+      meta.innerHTML = `<span>${sheetQuestions.length} questions on this sheet</span><span>9 across Topic Practice 1 + 2</span><span>Sheet-only answer key</span><span>US Letter portrait</span>`;
       meta.dataset.skillrSplitWorksheet = "true";
     }
     document.querySelectorAll(".worksheet-print-tip").forEach((tip) => {
@@ -139,7 +176,7 @@
       const height = measureQuestion(doc, question, width);
       const required = (pages.at(-1).length ? gap : 0) + height;
       if (pages.at(-1).length && used + required > availableHeight) { pages.push([]); used = 0; }
-      pages.at(-1).push({ question, number: index + 1, height });
+      pages.at(-1).push({ question, number: questionNumber(question), height });
       used += (pages.at(-1).length > 1 ? gap : 0) + height;
     });
     return pages;
@@ -155,13 +192,30 @@
     } catch {}
   }
 
+  let pdfLogoDataUrl = null;
+  async function loadPdfLogo() {
+    if (pdfLogoDataUrl) return pdfLogoDataUrl;
+    try {
+      const source = await fetch("/icons/skillrhub-mark.svg").then((response) => response.text());
+      const image = new Image();
+      image.src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(source)}`;
+      await image.decode();
+      const canvas = document.createElement("canvas");
+      canvas.width = 160; canvas.height = 160;
+      canvas.getContext("2d").drawImage(image, 0, 0, 160, 160);
+      pdfLogoDataUrl = canvas.toDataURL("image/png");
+    } catch {}
+    return pdfLogoDataUrl;
+  }
+
   function drawHeader(doc, pageW, pageNumber, pageCount, mode) {
     const m = 10;
-    doc.setFont("helvetica", "bold"); doc.setFontSize(18); doc.setTextColor(36, 87, 214); doc.text("SkillrHub F-10", m, 11);
-    doc.setDrawColor(36, 87, 214); doc.setLineWidth(.7); doc.line(m, 13.5, m + 55, 13.5);
+    if (pdfLogoDataUrl) doc.addImage(pdfLogoDataUrl, "PNG", m, 7, 10, 10);
+    doc.setFont("helvetica", "bold"); doc.setFontSize(18); doc.setTextColor(36, 87, 214); doc.text("SkillrHub F-10", m + 13, 11);
+    doc.setDrawColor(36, 87, 214); doc.setLineWidth(.7); doc.line(m + 13, 13.5, m + 68, 13.5);
     doc.setFontSize(11); doc.setTextColor(23, 57, 104); doc.text(`${code} • ${unit.title}`, m, 20);
     doc.setFont("helvetica", "bold"); doc.setFontSize(8.4); doc.setTextColor(32, 48, 71);
-    doc.text(mode === "answers" ? "Teacher Answer Key" : "Student Practice Sheet • 3 Warm-Up • 4 Core • 2 Challenge", m, 25);
+    doc.text(mode === "answers" ? `${sheetTitle} • Teacher Answer Key` : `${sheetTitle} • Student Practice Sheet`, m, 25);
     doc.setFont("helvetica", "normal"); doc.setFontSize(8); doc.setTextColor(36, 87, 214); doc.text(`Page ${pageNumber} of ${pageCount} • skillrhub.com`, pageW - m, 11, { align: "right" });
     doc.setFont("helvetica", "bold"); doc.setFontSize(9); doc.setTextColor(32, 48, 71); doc.text("Name: ______________________________", m, 31); doc.text("Date: ______________", pageW - m, 31, { align: "right" });
     doc.setDrawColor(36, 87, 214); doc.setLineWidth(.4); doc.line(m, 34, pageW - m, 34);
@@ -173,7 +227,7 @@
     doc.setDrawColor(36, 87, 214); doc.setLineWidth(.35); doc.line(m, pageH - 13, pageW - m, pageH - 13);
     doc.setFont("helvetica", "bold"); doc.setFontSize(8); doc.setTextColor(36, 87, 214); doc.text("SkillrHub F-10", m, y - 2.6); doc.text("skillrhub.com", pageW - m, y - 2.6, { align: "right" });
     doc.setFont("helvetica", "normal"); doc.setFontSize(7.1); doc.setTextColor(23, 57, 104);
-    doc.text(mode === "answers" ? "Teacher answer key" : "Student practice sheet", pageW / 2, y + 1.1, { align: "center" });
+    doc.text(mode === "answers" ? `${sheetTitle} teacher answer key` : `${sheetTitle} student sheet`, pageW / 2, y + 1.1, { align: "center" });
     doc.text(`Page ${pageNumber} of ${pageCount}`, pageW - m, y + 1.1, { align: "right" });
   }
 
@@ -208,10 +262,11 @@
     const original = activeButton?.textContent;
     if (activeButton) { activeButton.disabled = true; activeButton.textContent = "Preparing preview..."; }
     try {
+      await loadPdfLogo();
       const { jsPDF } = window.jspdf;
       const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "letter", compress: true });
       const pageW = doc.internal.pageSize.getWidth(), pageH = doc.internal.pageSize.getHeight(), m = 10, width = pageW - m * 2;
-      const list = studentQuestions;
+      const list = sheetQuestions;
       const pages = paginate(doc, list, width, pageH - 54);
       pages.forEach((items, pageIndex) => {
         if (pageIndex > 0) doc.addPage("letter", "portrait");
