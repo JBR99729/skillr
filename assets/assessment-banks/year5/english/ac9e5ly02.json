@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "ac9e5ly02-p-001",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “The oval should be larger because more students can join the game.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “The oval should be larger because more students can join the game.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "So you think a larger oval would allow more students to participate. Is that right?",
+        "is_correct": true
+      },
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-002",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “The oval should be larger because more students can join the game.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “The oval should be larger because more students can join the game.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "What evidence shows how many students would use it?",
+        "is_correct": true
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-003",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “The oval should be larger because more students can join the game.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “The oval should be larger because more students can join the game.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "At lunch, I have also seen students waiting for space.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-004",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “The oval should be larger because more students can join the game.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “The oval should be larger because more students can join the game.” forward?",
+    "answers": [
+      {
+        "text": "So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?",
+        "is_correct": true
+      },
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-005",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Our class should grow herbs because the canteen could use them.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Our class should grow herbs because the canteen could use them.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Your idea is that a herb garden could supply the canteen. Have I understood?",
+        "is_correct": true
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-006",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Our class should grow herbs because the canteen could use them.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Our class should grow herbs because the canteen could use them.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      },
+      {
+        "text": "Which herbs would the canteen actually need?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-007",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Our class should grow herbs because the canteen could use them.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Our class should grow herbs because the canteen could use them.”?",
+    "answers": [
+      {
+        "text": "My family garden shows that herbs can grow in small beds.",
+        "is_correct": true
+      },
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-008",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Our class should grow herbs because the canteen could use them.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Our class should grow herbs because the canteen could use them.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?",
+        "is_correct": true
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-009",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Homework should include more choice so students can use their strengths.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Homework should include more choice so students can use their strengths.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      },
+      {
+        "text": "You are suggesting choices could let students show learning in different ways. Correct?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-010",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Homework should include more choice so students can use their strengths.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Homework should include more choice so students can use their strengths.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "How would teachers check that each choice has equal challenge?",
+        "is_correct": true
+      },
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-011",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Homework should include more choice so students can use their strengths.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Homework should include more choice so students can use their strengths.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "I work more carefully when I can choose between writing and presenting.",
+        "is_correct": true
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-012",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Homework should include more choice so students can use their strengths.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Homework should include more choice so students can use their strengths.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-013",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “The library needs a quiet zone because some readers cannot focus near group work.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “The library needs a quiet zone because some readers cannot focus near group work.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "Your main point is that a separate quiet area could improve concentration. Is that accurate?",
+        "is_correct": true
+      },
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-014",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “The library needs a quiet zone because some readers cannot focus near group work.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “The library needs a quiet zone because some readers cannot focus near group work.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "What observations support the need for a separate zone?",
+        "is_correct": true
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-015",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “The library needs a quiet zone because some readers cannot focus near group work.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “The library needs a quiet zone because some readers cannot focus near group work.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "I have had to reread pages when nearby groups were talking.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-016",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “The library needs a quiet zone because some readers cannot focus near group work.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “The library needs a quiet zone because some readers cannot focus near group work.” forward?",
+    "answers": [
+      {
+        "text": "Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?",
+        "is_correct": true
+      },
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-017",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Excursions should use public transport when practical to reduce traffic.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Excursions should use public transport when practical to reduce traffic.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "You propose public transport for suitable excursions to reduce traffic. Is that your view?",
+        "is_correct": true
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-018",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Excursions should use public transport when practical to reduce traffic.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Excursions should use public transport when practical to reduce traffic.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      },
+      {
+        "text": "What limits, such as travel time or accessibility, should we consider?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-019",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Excursions should use public transport when practical to reduce traffic.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Excursions should use public transport when practical to reduce traffic.”?",
+    "answers": [
+      {
+        "text": "Our museum trip by train avoided parking delays.",
+        "is_correct": true
+      },
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-020",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Excursions should use public transport when practical to reduce traffic.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Excursions should use public transport when practical to reduce traffic.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "You propose public transport for suitable excursions to reduce traffic. Is that your view? What limits, such as travel time or accessibility, should we consider?",
+        "is_correct": true
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-021",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “The school should collect rainwater for the vegetable beds.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “The school should collect rainwater for the vegetable beds.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      },
+      {
+        "text": "You think stored rainwater could be used on the garden. Have I captured your idea?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-022",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “The school should collect rainwater for the vegetable beds.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “The school should collect rainwater for the vegetable beds.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "How much water could the roof collect in a typical month?",
+        "is_correct": true
+      },
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-023",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “The school should collect rainwater for the vegetable beds.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “The school should collect rainwater for the vegetable beds.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "A tank at my sports club supplies water for nearby plants.",
+        "is_correct": true
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-p-024",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “The school should collect rainwater for the vegetable beds.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “The school should collect rainwater for the vegetable beds.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "You think stored rainwater could be used on the garden. Have I captured your idea? How much water could the roof collect in a typical month?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-001",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Class presentations should allow audience questions at the end.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Class presentations should allow audience questions at the end.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "You argue that a question time would help listeners clarify ideas. Is that right?",
+        "is_correct": true
+      },
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-002",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Class presentations should allow audience questions at the end.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Class presentations should allow audience questions at the end.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "How could the speaker keep questions within the time limit?",
+        "is_correct": true
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-003",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Class presentations should allow audience questions at the end.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Class presentations should allow audience questions at the end.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Questions have helped me notice which part of my explanation was unclear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-004",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Class presentations should allow audience questions at the end.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Class presentations should allow audience questions at the end.” forward?",
+    "answers": [
+      {
+        "text": "You argue that a question time would help listeners clarify ideas. Is that right? How could the speaker keep questions within the time limit?",
+        "is_correct": true
+      },
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-005",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Students should help choose some playground equipment.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Students should help choose some playground equipment.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Your view is that students should contribute to some equipment decisions. Correct?",
+        "is_correct": true
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-006",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Students should help choose some playground equipment.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Students should help choose some playground equipment.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      },
+      {
+        "text": "How would we gather views from students who prefer different activities?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-007",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Students should help choose some playground equipment.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Students should help choose some playground equipment.”?",
+    "answers": [
+      {
+        "text": "A survey helped my club choose equipment fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-008",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Students should help choose some playground equipment.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Students should help choose some playground equipment.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "Your view is that students should contribute to some equipment decisions. Correct? How would we gather views from students who prefer different activities?",
+        "is_correct": true
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-009",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “A weekly screen-free lunch could encourage more face-to-face games.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “A weekly screen-free lunch could encourage more face-to-face games.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      },
+      {
+        "text": "You suggest one screen-free lunch may encourage students to play together. Is that accurate?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-010",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “A weekly screen-free lunch could encourage more face-to-face games.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “A weekly screen-free lunch could encourage more face-to-face games.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "What evidence would show whether participation actually increased?",
+        "is_correct": true
+      },
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-011",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “A weekly screen-free lunch could encourage more face-to-face games.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “A weekly screen-free lunch could encourage more face-to-face games.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "At camp, shared games began when devices were stored away.",
+        "is_correct": true
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-012",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “A weekly screen-free lunch could encourage more face-to-face games.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “A weekly screen-free lunch could encourage more face-to-face games.” forward?",
+    "answers": [
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "You suggest one screen-free lunch may encourage students to play together. Is that accurate? What evidence would show whether participation actually increased?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-013",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "A speaker says, “Native shrubs would bring more insects and birds to the school grounds.” Which reply paraphrases before responding?",
+    "audio_prompt": "A speaker says, “Native shrubs would bring more insects and birds to the school grounds.” Which reply paraphrases before responding?",
+    "answers": [
+      {
+        "text": "You believe native shrubs could support more local wildlife. Have I understood?",
+        "is_correct": true
+      },
+      {
+        "text": "That is wrong, and here is my idea.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree with every word, so there is nothing to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply restates the meaning and checks it without assuming agreement.",
+      "hint": "Begin with the speaker’s main claim, then check your understanding."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-014",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "After hearing “Native shrubs would bring more insects and birds to the school grounds.” which question would deepen the discussion?",
+    "audio_prompt": "After hearing “Native shrubs would bring more insects and birds to the school grounds.” which question would deepen the discussion?",
+    "answers": [
+      {
+        "text": "Can we change the topic now?",
+        "is_correct": false
+      },
+      {
+        "text": "Which local species are likely to use those shrubs?",
+        "is_correct": true
+      },
+      {
+        "text": "Why would anyone think that?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A probing question asks for evidence, conditions or reasoning.",
+      "hint": "Choose the question that respectfully tests the claim."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-015",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which personal connection is relevant to the claim “Native shrubs would bring more insects and birds to the school grounds.”?",
+    "audio_prompt": "Which personal connection is relevant to the claim “Native shrubs would bring more insects and birds to the school grounds.”?",
+    "answers": [
+      {
+        "text": "I like talking about my weekend.",
+        "is_correct": false
+      },
+      {
+        "text": "My favourite colour is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Native flowers near my home attract bees in spring.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful connection is brief and clearly linked to the claim.",
+      "hint": "Select experience that helps explain or test the idea."
+    }
+  },
+  {
+    "id": "ac9e5ly02-t-016",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
+    "question": "Which contribution best moves discussion of “Native shrubs would bring more insects and birds to the school grounds.” forward?",
+    "audio_prompt": "Which contribution best moves discussion of “Native shrubs would bring more insects and birds to the school grounds.” forward?",
+    "answers": [
+      {
+        "text": "You believe native shrubs could support more local wildlife. Have I understood? Which local species are likely to use those shrubs?",
+        "is_correct": true
+      },
+      {
+        "text": "I will repeat the exact sentence louder.",
+        "is_correct": false
+      },
+      {
+        "text": "My story is different, so the original claim does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Productive discussion combines accurate listening with a purposeful question.",
+      "hint": "Look for both a fair paraphrase and a question that invites evidence."
+    }
+  }
+]

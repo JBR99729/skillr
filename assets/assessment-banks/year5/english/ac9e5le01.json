@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9e5le01-p-001",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Last Lantern”, which explanation best connects the evidence “a delayed reveal explains why the lantern keeps flashing” with its effect?",
+    "audio_prompt": "For “The Last Lantern”, which explanation best connects the evidence “a delayed reveal explains why the lantern keeps flashing” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-001",
+      "alt_text": "A card pairs evidence from The Last Lantern with the reader effect suspense. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates suspense because the reveal rewards careful clue-finding.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates suspense only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates suspense: the reveal rewards careful clue-finding.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-002",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “River Rescue”, which explanation best connects the evidence “short action sentences speed up the dangerous crossing” with its effect?",
+    "audio_prompt": "For “River Rescue”, which explanation best connects the evidence “short action sentences speed up the dangerous crossing” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-002",
+      "alt_text": "A card pairs evidence from River Rescue with the reader effect pace. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates pace only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates pace because the quick rhythm makes the rescue urgent.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates pace: the quick rhythm makes the rescue urgent.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-003",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Mina's Map”, which explanation best connects the evidence “Mina admits her mistake and redraws the route” with its effect?",
+    "audio_prompt": "For “Mina's Map”, which explanation best connects the evidence “Mina admits her mistake and redraws the route” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-003",
+      "alt_text": "A card pairs evidence from Mina's Map with the reader effect character growth. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates character growth only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates character growth because her honest change feels convincing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates character growth: her honest change feels convincing.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-004",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Clockmaker's Cat”, which explanation best connects the evidence “the cat misunderstands every mechanical sound” with its effect?",
+    "audio_prompt": "For “The Clockmaker's Cat”, which explanation best connects the evidence “the cat misunderstands every mechanical sound” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-004",
+      "alt_text": "A card pairs evidence from The Clockmaker's Cat with the reader effect humour. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates humour because the repeated mistakes create a playful pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates humour only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates humour: the repeated mistakes create a playful pattern.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-005",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Cloud Country”, which explanation best connects the evidence “blue-grey watercolour spreads across wide empty pages” with its effect?",
+    "audio_prompt": "For “Cloud Country”, which explanation best connects the evidence “blue-grey watercolour spreads across wide empty pages” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-005",
+      "alt_text": "A card pairs evidence from Cloud Country with the reader effect visual mood. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates visual mood only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates visual mood because the open space feels lonely and calm.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates visual mood: the open space feels lonely and calm.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-006",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Secret Seed”, which explanation best connects the evidence “a tiny seed returns in each chapter before it finally grows” with its effect?",
+    "audio_prompt": "For “The Secret Seed”, which explanation best connects the evidence “a tiny seed returns in each chapter before it finally grows” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-006",
+      "alt_text": "A card pairs evidence from The Secret Seed with the reader effect structure. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates structure only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates structure because the recurring detail builds anticipation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates structure: the recurring detail builds anticipation.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-007",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Grandpa's Radio”, which explanation best connects the evidence “first-person memories connect songs with family events” with its effect?",
+    "audio_prompt": "For “Grandpa's Radio”, which explanation best connects the evidence “first-person memories connect songs with family events” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-007",
+      "alt_text": "A card pairs evidence from Grandpa's Radio with the reader effect viewpoint. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates viewpoint because the personal voice creates warmth.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates viewpoint only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates viewpoint: the personal voice creates warmth.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-008",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Paper Dragon”, which explanation best connects the evidence “precise folding details make the imaginary dragon believable” with its effect?",
+    "audio_prompt": "For “The Paper Dragon”, which explanation best connects the evidence “precise folding details make the imaginary dragon believable” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-008",
+      "alt_text": "A card pairs evidence from The Paper Dragon with the reader effect description. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates description only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates description because concrete details help readers picture the magic.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates description: concrete details help readers picture the magic.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-009",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Night at Pelican Bay”, which explanation best connects the evidence “the narrator notices footprints but dismisses them” with its effect?",
+    "audio_prompt": "For “Night at Pelican Bay”, which explanation best connects the evidence “the narrator notices footprints but dismisses them” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-009",
+      "alt_text": "A card pairs evidence from Night at Pelican Bay with the reader effect inference. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates inference only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates inference because readers predict danger before the narrator does.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates inference: readers predict danger before the narrator does.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-010",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Unlikely Team”, which explanation best connects the evidence “two rivals solve the problem by combining different skills” with its effect?",
+    "audio_prompt": "For “The Unlikely Team”, which explanation best connects the evidence “two rivals solve the problem by combining different skills” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-010",
+      "alt_text": "A card pairs evidence from The Unlikely Team with the reader effect theme. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates theme because cooperation develops through their actions.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates theme only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates theme: cooperation develops through their actions.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-011",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Mooncake Mix-Up”, which explanation best connects the evidence “formal announcements contrast with chaotic kitchen scenes” with its effect?",
+    "audio_prompt": "For “Mooncake Mix-Up”, which explanation best connects the evidence “formal announcements contrast with chaotic kitchen scenes” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-011",
+      "alt_text": "A card pairs evidence from Mooncake Mix-Up with the reader effect humour. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates humour only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates humour because the contrast makes the disaster funnier.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates humour: the contrast makes the disaster funnier.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-012",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Under the Fig Tree”, which explanation best connects the evidence “sensory details connect the setting with belonging” with its effect?",
+    "audio_prompt": "For “Under the Fig Tree”, which explanation best connects the evidence “sensory details connect the setting with belonging” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-012",
+      "alt_text": "A card pairs evidence from Under the Fig Tree with the reader effect setting. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates setting only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates setting because the place carries emotional meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates setting: the place carries emotional meaning.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-013",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Borrowed Bicycle”, which explanation best connects the evidence “each failed repair creates a harder choice” with its effect?",
+    "audio_prompt": "For “The Borrowed Bicycle”, which explanation best connects the evidence “each failed repair creates a harder choice” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-013",
+      "alt_text": "A card pairs evidence from The Borrowed Bicycle with the reader effect plot. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates plot because the linked consequences sustain interest.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates plot only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates plot: the linked consequences sustain interest.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-014",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Song for the Reef”, which explanation best connects the evidence “repeated wave-like lines slow the reading pace” with its effect?",
+    "audio_prompt": "For “Song for the Reef”, which explanation best connects the evidence “repeated wave-like lines slow the reading pace” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-014",
+      "alt_text": "A card pairs evidence from Song for the Reef with the reader effect rhythm. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates rhythm only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates rhythm because the pattern echoes gentle water.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates rhythm: the pattern echoes gentle water.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-015",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Glass Mountain”, which explanation best connects the evidence “the hero succeeds by listening rather than fighting” with its effect?",
+    "audio_prompt": "For “The Glass Mountain”, which explanation best connects the evidence “the hero succeeds by listening rather than fighting” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-015",
+      "alt_text": "A card pairs evidence from The Glass Mountain with the reader effect character. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates character only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates character because the unexpected choice makes the hero thoughtful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates character: the unexpected choice makes the hero thoughtful.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-016",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Letters from Camp”, which explanation best connects the evidence “dated letters reveal confidence growing over a week” with its effect?",
+    "audio_prompt": "For “Letters from Camp”, which explanation best connects the evidence “dated letters reveal confidence growing over a week” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-016",
+      "alt_text": "A card pairs evidence from Letters from Camp with the reader effect structure. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates structure because the sequence makes change easy to trace.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates structure only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates structure: the sequence makes change easy to trace.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-017",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Mango Thief”, which explanation best connects the evidence “readers know the possum's plan but the gardener does not” with its effect?",
+    "audio_prompt": "For “The Mango Thief”, which explanation best connects the evidence “readers know the possum's plan but the gardener does not” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-017",
+      "alt_text": "A card pairs evidence from The Mango Thief with the reader effect dramatic irony. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates dramatic irony only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates dramatic irony because the knowledge gap creates amused anticipation.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates dramatic irony: the knowledge gap creates amused anticipation.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-018",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Storm Bird”, which explanation best connects the evidence “sharp verbs and dark silhouettes make the storm threatening” with its effect?",
+    "audio_prompt": "For “Storm Bird”, which explanation best connects the evidence “sharp verbs and dark silhouettes make the storm threatening” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-018",
+      "alt_text": "A card pairs evidence from Storm Bird with the reader effect language and image. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates language and image only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates language and image because both modes intensify danger.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates language and image: both modes intensify danger.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-019",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Long Walk Home”, which explanation best connects the evidence “small acts of help matter more than the final prize” with its effect?",
+    "audio_prompt": "For “The Long Walk Home”, which explanation best connects the evidence “small acts of help matter more than the final prize” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-019",
+      "alt_text": "A card pairs evidence from The Long Walk Home with the reader effect theme. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates theme because the events make kindness memorable.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates theme only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates theme: the events make kindness memorable.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-020",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Museum After Midnight”, which explanation best connects the evidence “ordinary exhibits are described as if they are waking” with its effect?",
+    "audio_prompt": "For “Museum After Midnight”, which explanation best connects the evidence “ordinary exhibits are described as if they are waking” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-020",
+      "alt_text": "A card pairs evidence from Museum After Midnight with the reader effect imagery. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates imagery only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates imagery because the transformation makes the setting mysterious.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates imagery: the transformation makes the setting mysterious.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-021",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Kite Contest”, which explanation best connects the evidence “alternating viewpoints show why both cousins feel cheated” with its effect?",
+    "audio_prompt": "For “The Kite Contest”, which explanation best connects the evidence “alternating viewpoints show why both cousins feel cheated” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-021",
+      "alt_text": "A card pairs evidence from The Kite Contest with the reader effect viewpoint. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates viewpoint only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates viewpoint because both perspectives complicate blame.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates viewpoint: both perspectives complicate blame.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-022",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Quiet Goal”, which explanation best connects the evidence “crowd noise disappears during the deciding kick” with its effect?",
+    "audio_prompt": "For “The Quiet Goal”, which explanation best connects the evidence “crowd noise disappears during the deciding kick” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-022",
+      "alt_text": "A card pairs evidence from The Quiet Goal with the reader effect pacing. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates pacing because the pause focuses attention on one moment.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates pacing only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates pacing: the pause focuses attention on one moment.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-023",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Turtle Track”, which explanation best connects the evidence “factual details are woven into a hatchling's journey” with its effect?",
+    "audio_prompt": "For “Turtle Track”, which explanation best connects the evidence “factual details are woven into a hatchling's journey” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-023",
+      "alt_text": "A card pairs evidence from Turtle Track with the reader effect information in story. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates information in story only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates information in story because readers learn while caring about the character.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates information in story: readers learn while caring about the character.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-p-024",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Red Umbrella”, which explanation best connects the evidence “the final image echoes the opening but changes its meaning” with its effect?",
+    "audio_prompt": "For “The Red Umbrella”, which explanation best connects the evidence “the final image echoes the opening but changes its meaning” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-p-024",
+      "alt_text": "A card pairs evidence from The Red Umbrella with the reader effect ending. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates ending only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates ending because the echo gives satisfying closure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates ending: the echo gives satisfying closure.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-001",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Hidden Platform”, which explanation best connects the evidence “clues in station signs lead to a surprising but logical reveal” with its effect?",
+    "audio_prompt": "For “The Hidden Platform”, which explanation best connects the evidence “clues in station signs lead to a surprising but logical reveal” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-001",
+      "alt_text": "A card pairs evidence from The Hidden Platform with the reader effect mystery structure. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates mystery structure because the ending can be inferred from evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates mystery structure only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates mystery structure: the ending can be inferred from evidence.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-002",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “A Place for Niko”, which explanation best connects the evidence “the new student compares unfamiliar places with home” with its effect?",
+    "audio_prompt": "For “A Place for Niko”, which explanation best connects the evidence “the new student compares unfamiliar places with home” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-002",
+      "alt_text": "A card pairs evidence from A Place for Niko with the reader effect connection. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates connection only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates connection because the comparisons make adjustment relatable.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates connection: the comparisons make adjustment relatable.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-003",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Rain Jar”, which explanation best connects the evidence “the jar's changing sound marks each stage of the drought” with its effect?",
+    "audio_prompt": "For “The Rain Jar”, which explanation best connects the evidence “the jar's changing sound marks each stage of the drought” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-003",
+      "alt_text": "A card pairs evidence from The Rain Jar with the reader effect motif. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates motif only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates motif because the repeated object tracks tension.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates motif: the repeated object tracks tension.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-004",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Saturday Robots”, which explanation best connects the evidence “technical words are mixed with sibling banter” with its effect?",
+    "audio_prompt": "For “Saturday Robots”, which explanation best connects the evidence “technical words are mixed with sibling banter” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-004",
+      "alt_text": "A card pairs evidence from Saturday Robots with the reader effect voice. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates voice because the blend makes invention lively and believable.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates voice only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates voice: the blend makes invention lively and believable.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-005",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Coral Door”, which explanation best connects the evidence “bright foreground shapes hide a shadow in the distance” with its effect?",
+    "audio_prompt": "For “The Coral Door”, which explanation best connects the evidence “bright foreground shapes hide a shadow in the distance” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-005",
+      "alt_text": "A card pairs evidence from The Coral Door with the reader effect visual suspense. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates visual suspense only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates visual suspense because the hidden detail invites close viewing.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates visual suspense: the hidden detail invites close viewing.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-006",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Three Wishes Left”, which explanation best connects the evidence “each wish solves one problem but causes another” with its effect?",
+    "audio_prompt": "For “Three Wishes Left”, which explanation best connects the evidence “each wish solves one problem but causes another” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-006",
+      "alt_text": "A card pairs evidence from Three Wishes Left with the reader effect plot. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates plot only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates plot because cause and consequence keep choices meaningful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates plot: cause and consequence keep choices meaningful.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-007",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Baker's Comet”, which explanation best connects the evidence “warm food imagery contrasts with the cold night sky” with its effect?",
+    "audio_prompt": "For “The Baker's Comet”, which explanation best connects the evidence “warm food imagery contrasts with the cold night sky” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-007",
+      "alt_text": "A card pairs evidence from The Baker's Comet with the reader effect imagery. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates imagery because the contrast creates wonder and comfort.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates imagery only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates imagery: the contrast creates wonder and comfort.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-008",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Home Team”, which explanation best connects the evidence “a boastful captain gradually begins asking teammates for advice” with its effect?",
+    "audio_prompt": "For “Home Team”, which explanation best connects the evidence “a boastful captain gradually begins asking teammates for advice” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-008",
+      "alt_text": "A card pairs evidence from Home Team with the reader effect character arc. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates character arc only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates character arc because changed actions show earned growth.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates character arc: changed actions show earned growth.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-009",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Whispering Steps”, which explanation best connects the evidence “repeated soft consonants accompany a cautious climb” with its effect?",
+    "audio_prompt": "For “The Whispering Steps”, which explanation best connects the evidence “repeated soft consonants accompany a cautious climb” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-009",
+      "alt_text": "A card pairs evidence from The Whispering Steps with the reader effect sound pattern. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates sound pattern only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates sound pattern because the quiet rhythm supports tension.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates sound pattern: the quiet rhythm supports tension.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-010",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Postcard from Mars”, which explanation best connects the evidence “a child narrator treats extraordinary sights as everyday” with its effect?",
+    "audio_prompt": "For “Postcard from Mars”, which explanation best connects the evidence “a child narrator treats extraordinary sights as everyday” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-010",
+      "alt_text": "A card pairs evidence from Postcard from Mars with the reader effect viewpoint. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates viewpoint because the casual voice creates humour.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates viewpoint only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates viewpoint: the casual voice creates humour.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-011",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Empty Chair”, which explanation best connects the evidence “conversation avoids naming the absent person until the end” with its effect?",
+    "audio_prompt": "For “The Empty Chair”, which explanation best connects the evidence “conversation avoids naming the absent person until the end” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-011",
+      "alt_text": "A card pairs evidence from The Empty Chair with the reader effect revelation. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates revelation only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates revelation because withheld information creates emotion.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates revelation: withheld information creates emotion.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-012",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Market Morning”, which explanation best connects the evidence “crowded panels become wider as the child finds family” with its effect?",
+    "audio_prompt": "For “Market Morning”, which explanation best connects the evidence “crowded panels become wider as the child finds family” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-012",
+      "alt_text": "A card pairs evidence from Market Morning with the reader effect visual sequence. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates visual sequence only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates visual sequence because layout mirrors movement from worry to relief.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates visual sequence: layout mirrors movement from worry to relief.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-013",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Second Key”, which explanation best connects the evidence “two possible explanations remain supported at the ending” with its effect?",
+    "audio_prompt": "For “The Second Key”, which explanation best connects the evidence “two possible explanations remain supported at the ending” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-013",
+      "alt_text": "A card pairs evidence from The Second Key with the reader effect open ending. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates open ending because evidence lets readers debate both possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates open ending only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates open ending: evidence lets readers debate both possibilities.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-014",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “Lanterns on the Lake”, which explanation best connects the evidence “shared preparation matters more than winning” with its effect?",
+    "audio_prompt": "For “Lanterns on the Lake”, which explanation best connects the evidence “shared preparation matters more than winning” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-014",
+      "alt_text": "A card pairs evidence from Lanterns on the Lake with the reader effect theme. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates theme only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates theme because actions develop community values.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates theme: actions develop community values.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-015",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “The Wind Collector”, which explanation best connects the evidence “invented comparisons follow one clear weather image” with its effect?",
+    "audio_prompt": "For “The Wind Collector”, which explanation best connects the evidence “invented comparisons follow one clear weather image” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-015",
+      "alt_text": "A card pairs evidence from The Wind Collector with the reader effect figurative pattern. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates figurative pattern only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates figurative pattern because coherent imagery makes the fantasy vivid.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates figurative pattern: coherent imagery makes the fantasy vivid.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le01-t-016",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reasoned_literary_preference",
+    "question": "For “One More Over”, which explanation best connects the evidence “match commentary is interrupted by the player's private thoughts” with its effect?",
+    "audio_prompt": "For “One More Over”, which explanation best connects the evidence “match commentary is interrupted by the player's private thoughts” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le01.svg#ac9e5le01-t-016",
+      "alt_text": "A card pairs evidence from One More Over with the reader effect structure. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates structure because outer action and inner worry build tension.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates structure only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates structure: outer action and inner worry build tension.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9e5la04-p-001",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a class meeting?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a class meeting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-001",
+      "alt_text": "Two connected sentence cards from a class meeting, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-002",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a football training?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a football training?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-002",
+      "alt_text": "Two connected sentence cards from a football training, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-003",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a library help desk?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a library help desk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-003",
+      "alt_text": "Two connected sentence cards from a library help desk, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-004",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a family picnic?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a family picnic?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-004",
+      "alt_text": "Two connected sentence cards from a family picnic, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      },
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-005",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a science group?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a science group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-005",
+      "alt_text": "Two connected sentence cards from a science group, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-006",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a school assembly?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a school assembly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-006",
+      "alt_text": "Two connected sentence cards from a school assembly, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-007",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a art club?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a art club?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-007",
+      "alt_text": "Two connected sentence cards from a art club, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-008",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a neighbourhood clean-up?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a neighbourhood clean-up?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-008",
+      "alt_text": "Two connected sentence cards from a neighbourhood clean-up, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-009",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a music rehearsal?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a music rehearsal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-009",
+      "alt_text": "Two connected sentence cards from a music rehearsal, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-010",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a student council?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a student council?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-010",
+      "alt_text": "Two connected sentence cards from a student council, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-011",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a museum visit?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a museum visit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-011",
+      "alt_text": "Two connected sentence cards from a museum visit, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-012",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a cooking lesson?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a cooking lesson?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-012",
+      "alt_text": "Two connected sentence cards from a cooking lesson, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-013",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a garden project?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a garden project?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-013",
+      "alt_text": "Two connected sentence cards from a garden project, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-014",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a book discussion?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a book discussion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-014",
+      "alt_text": "Two connected sentence cards from a book discussion, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-015",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a sports report?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a sports report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-015",
+      "alt_text": "Two connected sentence cards from a sports report, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-016",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a weather presentation?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a weather presentation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-016",
+      "alt_text": "Two connected sentence cards from a weather presentation, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-017",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a camp planning?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a camp planning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-017",
+      "alt_text": "Two connected sentence cards from a camp planning, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-018",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a robotics team?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a robotics team?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-018",
+      "alt_text": "Two connected sentence cards from a robotics team, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-019",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a school newsletter?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a school newsletter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-019",
+      "alt_text": "Two connected sentence cards from a school newsletter, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      },
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-020",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a peer conference?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a peer conference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-020",
+      "alt_text": "Two connected sentence cards from a peer conference, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-021",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a history display?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a history display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-021",
+      "alt_text": "Two connected sentence cards from a history display, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-022",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a fundraising stall?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a fundraising stall?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-022",
+      "alt_text": "Two connected sentence cards from a fundraising stall, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-023",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a class debate?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a class debate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-023",
+      "alt_text": "Two connected sentence cards from a class debate, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-p-024",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a school excursion briefing?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a school excursion briefing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-p-024",
+      "alt_text": "Two connected sentence cards from a school excursion briefing, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-001",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a community radio interview?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a community radio interview?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-001",
+      "alt_text": "Two connected sentence cards from a community radio interview, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-002",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a wildlife rescue report?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a wildlife rescue report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-002",
+      "alt_text": "Two connected sentence cards from a wildlife rescue report, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-003",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a town planning forum?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a town planning forum?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-003",
+      "alt_text": "Two connected sentence cards from a town planning forum, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-004",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a aquarium information panel?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a aquarium information panel?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-004",
+      "alt_text": "Two connected sentence cards from a aquarium information panel, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-005",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a youth theatre rehearsal?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a youth theatre rehearsal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-005",
+      "alt_text": "Two connected sentence cards from a youth theatre rehearsal, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-006",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a local history podcast?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a local history podcast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-006",
+      "alt_text": "Two connected sentence cards from a local history podcast, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-007",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a water-saving campaign?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a water-saving campaign?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-007",
+      "alt_text": "Two connected sentence cards from a water-saving campaign, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-008",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a cycling safety workshop?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a cycling safety workshop?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-008",
+      "alt_text": "Two connected sentence cards from a cycling safety workshop, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-009",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a festival program?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a festival program?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-009",
+      "alt_text": "Two connected sentence cards from a festival program, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-010",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a marine research log?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a marine research log?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-010",
+      "alt_text": "Two connected sentence cards from a marine research log, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      },
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-011",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a public transport survey?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a public transport survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-011",
+      "alt_text": "Two connected sentence cards from a public transport survey, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-012",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause_and_reference",
+    "question": "Which pair of sentences creates the clearest cause and reference for a heritage walk brochure?",
+    "audio_prompt": "Which pair of sentences creates the clearest cause and reference for a heritage walk brochure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-012",
+      "alt_text": "Two connected sentence cards from a heritage walk brochure, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The seedlings received less water. However, their leaves drooped.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. Meanwhile, this explained a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings received less water. As a result, their leaves drooped.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-013",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "clear_pronoun_reference",
+    "question": "Which pair of sentences creates the clearest clear pronoun reference for a emergency drill briefing?",
+    "audio_prompt": "Which pair of sentences creates the clearest clear pronoun reference for a emergency drill briefing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-013",
+      "alt_text": "Two connected sentence cards from a emergency drill briefing, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mina tested the bridge. She recorded its movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina tested the bridge. It recorded her movement.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina tested the bridge. They recorded its movement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-014",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "contrast",
+    "question": "Which pair of sentences creates the clearest contrast for a farmers market review?",
+    "audio_prompt": "Which pair of sentences creates the clearest contrast for a farmers market review?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-014",
+      "alt_text": "Two connected sentence cards from a farmers market review, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The first design was light. For example, it bent under pressure.",
+        "is_correct": false
+      },
+      {
+        "text": "The first design was light. However, it bent under pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "The first design was light. Therefore, it was a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-015",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "noun_chain_cohesion",
+    "question": "Which pair of sentences creates the clearest noun-chain cohesion for a space exhibition talk?",
+    "audio_prompt": "Which pair of sentences creates the clearest noun-chain cohesion for a space exhibition talk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-015",
+      "alt_text": "Two connected sentence cards from a space exhibition talk, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Mangroves trap sediment. They can protect it over there.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. Those things do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves trap sediment. These coastal plants can therefore protect shorelines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  },
+  {
+    "id": "ac9e5la04-t-016",
+    "curriculum_code": "AC9E5LA04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sequence",
+    "question": "Which pair of sentences creates the clearest sequence for a river restoration proposal?",
+    "audio_prompt": "Which pair of sentences creates the clearest sequence for a river restoration proposal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la04.svg#ac9e5la04-t-016",
+      "alt_text": "Two connected sentence cards from a river restoration proposal, with arrows tracing references and connectives. A three-part linked-sentences guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The team measured three sites. Next, it compared the results.",
+        "is_correct": true
+      },
+      {
+        "text": "The team measured three sites. Because, it compared the results.",
+        "is_correct": false
+      },
+      {
+        "text": "The team measured three sites. On the other hand, three means next.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun or connective accurately links the second sentence to the first.",
+      "hint": "Check exactly what each pronoun points to and what relationship the connective signals."
+    }
+  }
+]

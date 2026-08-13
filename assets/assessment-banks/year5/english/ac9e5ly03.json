@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "ac9e5ly03-p-001",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a story following a joey during a flood?",
+    "audio_prompt": "What is the dominant purpose of a story following a joey during a flood?",
+    "answers": [
+      {
+        "text": "imaginative",
+        "is_correct": true
+      },
+      {
+        "text": "informative",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dominant purpose is to help readers experience the event.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-002",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a story following a joey during a flood?",
+    "audio_prompt": "Which feature pattern best suits a story following a joey during a flood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-002",
+      "alt_text": "A feature map links a viewpoint, rising danger and sensory detail to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a viewpoint, rising danger and sensory detail",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These features work together to help readers experience the event.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-003",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
+    "audio_prompt": "Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to help readers experience the event",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-004",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a story following a joey during a flood?",
+    "audio_prompt": "Which classification is best supported for a story following a joey during a flood?",
+    "answers": [
+      {
+        "text": "imaginative, because its main feature pattern aims to help readers experience the event",
+        "is_correct": true
+      },
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-005",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
+    "audio_prompt": "What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
+    "answers": [
+      {
+        "text": "persuasive",
+        "is_correct": false
+      },
+      {
+        "text": "informative",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dominant purpose is to help readers understand a process.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-006",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a fact sheet explaining how mangroves protect coasts?",
+    "audio_prompt": "Which feature pattern best suits a fact sheet explaining how mangroves protect coasts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-006",
+      "alt_text": "A feature map links headings, technical terms and a labelled root diagram to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "headings, technical terms and a labelled root diagram",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These features work together to help readers understand a process.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-007",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a fact sheet explaining how mangroves protect coasts use headings, technical terms and a labelled root diagram?",
+    "audio_prompt": "Why should a fact sheet explaining how mangroves protect coasts use headings, technical terms and a labelled root diagram?",
+    "answers": [
+      {
+        "text": "They support the goal to help readers understand a process",
+        "is_correct": true
+      },
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-008",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
+    "audio_prompt": "Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "informative, because its main feature pattern aims to help readers understand a process",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-009",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a speech asking council to protect an old tree?",
+    "audio_prompt": "What is the dominant purpose of a speech asking council to protect an old tree?",
+    "answers": [
+      {
+        "text": "informative",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dominant purpose is to convince listeners to protect the tree.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-010",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a speech asking council to protect an old tree?",
+    "audio_prompt": "Which feature pattern best suits a speech asking council to protect an old tree?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-010",
+      "alt_text": "A feature map links a clear position, evidence and a call to act to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a clear position, evidence and a call to act",
+        "is_correct": true
+      },
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "These features work together to convince listeners to protect the tree.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-011",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
+    "audio_prompt": "Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to convince listeners to protect the tree",
+        "is_correct": true
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-012",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a speech asking council to protect an old tree?",
+    "audio_prompt": "Which classification is best supported for a speech asking council to protect an old tree?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive, because its main feature pattern aims to convince listeners to protect the tree",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-013",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a comic that teaches bike safety through a character's mistake?",
+    "audio_prompt": "What is the dominant purpose of a comic that teaches bike safety through a character's mistake?",
+    "answers": [
+      {
+        "text": "hybrid with an informative purpose",
+        "is_correct": true
+      },
+      {
+        "text": "persuasive only",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dominant purpose is to teach safe choices through an engaging example.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-014",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a comic that teaches bike safety through a character's mistake?",
+    "audio_prompt": "Which feature pattern best suits a comic that teaches bike safety through a character's mistake?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-014",
+      "alt_text": "A feature map links a narrative sequence plus explicit safety explanations to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a narrative sequence plus explicit safety explanations",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These features work together to teach safe choices through an engaging example.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-015",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
+    "audio_prompt": "Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to teach safe choices through an engaging example",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-016",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
+    "audio_prompt": "Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
+    "answers": [
+      {
+        "text": "hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example",
+        "is_correct": true
+      },
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-017",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a webpage urging families to reduce food waste?",
+    "audio_prompt": "What is the dominant purpose of a webpage urging families to reduce food waste?",
+    "answers": [
+      {
+        "text": "informative",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dominant purpose is to encourage a change in behaviour.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-018",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a webpage urging families to reduce food waste?",
+    "audio_prompt": "Which feature pattern best suits a webpage urging families to reduce food waste?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-018",
+      "alt_text": "A feature map links measured waste data, recommendations and direct audience address to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "measured waste data, recommendations and direct audience address",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These features work together to encourage a change in behaviour.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-019",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
+    "audio_prompt": "Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
+    "answers": [
+      {
+        "text": "They support the goal to encourage a change in behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-020",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a webpage urging families to reduce food waste?",
+    "audio_prompt": "Which classification is best supported for a webpage urging families to reduce food waste?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive, because its main feature pattern aims to encourage a change in behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-021",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a biography describing a scientist's discoveries?",
+    "audio_prompt": "What is the dominant purpose of a biography describing a scientist's discoveries?",
+    "answers": [
+      {
+        "text": "persuasive",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      },
+      {
+        "text": "informative",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dominant purpose is to explain a person's contribution.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-022",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a biography describing a scientist's discoveries?",
+    "audio_prompt": "Which feature pattern best suits a biography describing a scientist's discoveries?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-p-022",
+      "alt_text": "A feature map links chronological stages, factual detail and source captions to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "chronological stages, factual detail and source captions",
+        "is_correct": true
+      },
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "These features work together to explain a person's contribution.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-023",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a biography describing a scientist's discoveries use chronological stages, factual detail and source captions?",
+    "audio_prompt": "Why should a biography describing a scientist's discoveries use chronological stages, factual detail and source captions?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to explain a person's contribution",
+        "is_correct": true
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-p-024",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a biography describing a scientist's discoveries?",
+    "audio_prompt": "Which classification is best supported for a biography describing a scientist's discoveries?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      },
+      {
+        "text": "informative, because its main feature pattern aims to explain a person's contribution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-001",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a poem creating the mood of an approaching storm?",
+    "audio_prompt": "What is the dominant purpose of a poem creating the mood of an approaching storm?",
+    "answers": [
+      {
+        "text": "imaginative",
+        "is_correct": true
+      },
+      {
+        "text": "informative",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dominant purpose is to create an experience and mood.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-002",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a poem creating the mood of an approaching storm?",
+    "audio_prompt": "Which feature pattern best suits a poem creating the mood of an approaching storm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-002",
+      "alt_text": "A feature map links imagery, rhythm and carefully chosen sound patterns to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "imagery, rhythm and carefully chosen sound patterns",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These features work together to create an experience and mood.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-003",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
+    "audio_prompt": "Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to create an experience and mood",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-004",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a poem creating the mood of an approaching storm?",
+    "audio_prompt": "Which classification is best supported for a poem creating the mood of an approaching storm?",
+    "answers": [
+      {
+        "text": "imaginative, because its main feature pattern aims to create an experience and mood",
+        "is_correct": true
+      },
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-005",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a brochure comparing three walking tracks?",
+    "audio_prompt": "What is the dominant purpose of a brochure comparing three walking tracks?",
+    "answers": [
+      {
+        "text": "persuasive",
+        "is_correct": false
+      },
+      {
+        "text": "informative",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dominant purpose is to help walkers make an informed choice.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-006",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a brochure comparing three walking tracks?",
+    "audio_prompt": "Which feature pattern best suits a brochure comparing three walking tracks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-006",
+      "alt_text": "A feature map links comparison headings, maps and difficulty ratings to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "comparison headings, maps and difficulty ratings",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These features work together to help walkers make an informed choice.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-007",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
+    "audio_prompt": "Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
+    "answers": [
+      {
+        "text": "They support the goal to help walkers make an informed choice",
+        "is_correct": true
+      },
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-008",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a brochure comparing three walking tracks?",
+    "audio_prompt": "Which classification is best supported for a brochure comparing three walking tracks?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "informative, because its main feature pattern aims to help walkers make an informed choice",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-009",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
+    "audio_prompt": "What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
+    "answers": [
+      {
+        "text": "persuasive only",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative only",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid with an informative purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dominant purpose is to explain migration while maintaining interest.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-010",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
+    "audio_prompt": "Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-010",
+      "alt_text": "A feature map links a story thread supported by maps and expert evidence to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a story thread supported by maps and expert evidence",
+        "is_correct": true
+      },
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "These features work together to explain migration while maintaining interest.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-011",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
+    "audio_prompt": "Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to explain migration while maintaining interest",
+        "is_correct": true
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-012",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
+    "audio_prompt": "Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
+    "answers": [
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid with an informative purpose, because its main feature pattern aims to explain migration while maintaining interest",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-013",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "What is the dominant purpose of an advertisement asking students to join a recycling team?",
+    "audio_prompt": "What is the dominant purpose of an advertisement asking students to join a recycling team?",
+    "answers": [
+      {
+        "text": "persuasive",
+        "is_correct": true
+      },
+      {
+        "text": "informative",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dominant purpose is to motivate students to join.",
+      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-014",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which feature pattern best suits an advertisement asking students to join a recycling team?",
+    "audio_prompt": "Which feature pattern best suits an advertisement asking students to join a recycling team?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-014",
+      "alt_text": "A feature map links benefit claims, inclusive language and a sign-up instruction to the audience outcome. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a random mixture of facts and jokes",
+        "is_correct": false
+      },
+      {
+        "text": "benefit claims, inclusive language and a sign-up instruction",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative border with no connection to meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These features work together to motivate students to join.",
+      "hint": "Choose features by their combined purpose, not by one isolated detail."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-015",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
+    "audio_prompt": "Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
+    "answers": [
+      {
+        "text": "They are required in every text",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text belong to every purpose equally",
+        "is_correct": false
+      },
+      {
+        "text": "They support the goal to motivate students to join",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
+      "hint": "Connect the pattern of features to the audience outcome."
+    }
+  },
+  {
+    "id": "ac9e5ly03-t-016",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "characteristic_features_and_hybrid_text_purposes",
+    "question": "Which classification is best supported for an advertisement asking students to join a recycling team?",
+    "audio_prompt": "Which classification is best supported for an advertisement asking students to join a recycling team?",
+    "answers": [
+      {
+        "text": "persuasive, because its main feature pattern aims to motivate students to join",
+        "is_correct": true
+      },
+      {
+        "text": "informative, because every text contains some information",
+        "is_correct": false
+      },
+      {
+        "text": "imaginative, because a colourful image appears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
+      "hint": "Do not let one fact, colour or story moment decide the classification."
+    }
+  }
+]

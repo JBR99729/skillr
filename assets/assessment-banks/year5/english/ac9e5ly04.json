@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "ac9e5ly04-p-001",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to find the 2018 rainfall total in a long climate report. What is the best pathway?",
+    "audio_prompt": "A reader needs to find the 2018 rainfall total in a long climate report. What is the best pathway?",
+    "answers": [
+      {
+        "text": "scan headings and tables for 2018, then check the unit and surrounding label",
+        "is_correct": true
+      },
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The task calls for scanning and confirming.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-002",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: scan headings and tables for 2018, then check the unit and surrounding label?",
+    "audio_prompt": "Which strategy name best describes this pathway: scan headings and tables for 2018, then check the unit and surrounding label?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "scanning and confirming",
+        "is_correct": true
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pathway deliberately uses scanning and confirming for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-003",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to find the 2018 rainfall total in a long climate report, what should the reader do next?",
+    "audio_prompt": "After using keywords to find the 2018 rainfall total in a long climate report, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-004",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “scan headings and tables for 2018, then check the unit and surrounding label” efficient for the goal to find the 2018 rainfall total in a long climate report?",
+    "audio_prompt": "Why is “scan headings and tables for 2018, then check the unit and surrounding label” efficient for the goal to find the 2018 rainfall total in a long climate report?",
+    "answers": [
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-005",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to gain a quick overview of a chapter about Federation. What is the best pathway?",
+    "audio_prompt": "A reader needs to gain a quick overview of a chapter about Federation. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "skim the title, headings, opening sentences and visuals",
+        "is_correct": true
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The task calls for skimming.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-006",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: skim the title, headings, opening sentences and visuals?",
+    "audio_prompt": "Which strategy name best describes this pathway: skim the title, headings, opening sentences and visuals?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      },
+      {
+        "text": "skimming",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pathway deliberately uses skimming for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-007",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to gain a quick overview of a chapter about Federation, what should the reader do next?",
+    "audio_prompt": "After using keywords to gain a quick overview of a chapter about Federation, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-008",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “skim the title, headings, opening sentences and visuals” efficient for the goal to gain a quick overview of a chapter about Federation?",
+    "audio_prompt": "Why is “skim the title, headings, opening sentences and visuals” efficient for the goal to gain a quick overview of a chapter about Federation?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-009",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to follow a procedure for testing soil drainage. What is the best pathway?",
+    "audio_prompt": "A reader needs to follow a procedure for testing soil drainage. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      },
+      {
+        "text": "read every step, condition and safety note in sequence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The task calls for close procedural reading.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-010",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: read every step, condition and safety note in sequence?",
+    "audio_prompt": "Which strategy name best describes this pathway: read every step, condition and safety note in sequence?",
+    "answers": [
+      {
+        "text": "close procedural reading",
+        "is_correct": true
+      },
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pathway deliberately uses close procedural reading for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-011",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to follow a procedure for testing soil drainage, what should the reader do next?",
+    "audio_prompt": "After using keywords to follow a procedure for testing soil drainage, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-012",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “read every step, condition and safety note in sequence” efficient for the goal to follow a procedure for testing soil drainage?",
+    "audio_prompt": "Why is “read every step, condition and safety note in sequence” efficient for the goal to follow a procedure for testing soil drainage?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-013",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to compare two claims about plastic waste. What is the best pathway?",
+    "audio_prompt": "A reader needs to compare two claims about plastic waste. What is the best pathway?",
+    "answers": [
+      {
+        "text": "locate each claim, read its evidence and check source details",
+        "is_correct": true
+      },
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The task calls for evidence comparison.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-014",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: locate each claim, read its evidence and check source details?",
+    "audio_prompt": "Which strategy name best describes this pathway: locate each claim, read its evidence and check source details?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "evidence comparison",
+        "is_correct": true
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pathway deliberately uses evidence comparison for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-015",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to compare two claims about plastic waste, what should the reader do next?",
+    "audio_prompt": "After using keywords to compare two claims about plastic waste, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-016",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “locate each claim, read its evidence and check source details” efficient for the goal to compare two claims about plastic waste?",
+    "audio_prompt": "Why is “locate each claim, read its evidence and check source details” efficient for the goal to compare two claims about plastic waste?",
+    "answers": [
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-017",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to locate the meaning of a technical word in a textbook. What is the best pathway?",
+    "audio_prompt": "A reader needs to locate the meaning of a technical word in a textbook. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "use the index or glossary, then reread the sentence where it appears",
+        "is_correct": true
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The task calls for navigation and context confirmation.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-018",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: use the index or glossary, then reread the sentence where it appears?",
+    "audio_prompt": "Which strategy name best describes this pathway: use the index or glossary, then reread the sentence where it appears?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      },
+      {
+        "text": "navigation and context confirmation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pathway deliberately uses navigation and context confirmation for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-019",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to locate the meaning of a technical word in a textbook, what should the reader do next?",
+    "audio_prompt": "After using keywords to locate the meaning of a technical word in a textbook, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-020",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “use the index or glossary, then reread the sentence where it appears” efficient for the goal to locate the meaning of a technical word in a textbook?",
+    "audio_prompt": "Why is “use the index or glossary, then reread the sentence where it appears” efficient for the goal to locate the meaning of a technical word in a textbook?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-021",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to understand why an eclipse occurs. What is the best pathway?",
+    "audio_prompt": "A reader needs to understand why an eclipse occurs. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      },
+      {
+        "text": "closely read the causal explanation while tracing the labelled diagram",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The task calls for close multimodal reading.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-022",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: closely read the causal explanation while tracing the labelled diagram?",
+    "audio_prompt": "Which strategy name best describes this pathway: closely read the causal explanation while tracing the labelled diagram?",
+    "answers": [
+      {
+        "text": "close multimodal reading",
+        "is_correct": true
+      },
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pathway deliberately uses close multimodal reading for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-023",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to understand why an eclipse occurs, what should the reader do next?",
+    "audio_prompt": "After using keywords to understand why an eclipse occurs, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-p-024",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “closely read the causal explanation while tracing the labelled diagram” efficient for the goal to understand why an eclipse occurs?",
+    "audio_prompt": "Why is “closely read the causal explanation while tracing the labelled diagram” efficient for the goal to understand why an eclipse occurs?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-001",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to find when the next bus leaves a timetable. What is the best pathway?",
+    "audio_prompt": "A reader needs to find when the next bus leaves a timetable. What is the best pathway?",
+    "answers": [
+      {
+        "text": "scan the correct route and day column, then confirm morning or afternoon",
+        "is_correct": true
+      },
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The task calls for scanning and confirming.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-002",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: scan the correct route and day column, then confirm morning or afternoon?",
+    "audio_prompt": "Which strategy name best describes this pathway: scan the correct route and day column, then confirm morning or afternoon?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "scanning and confirming",
+        "is_correct": true
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pathway deliberately uses scanning and confirming for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-003",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to find when the next bus leaves a timetable, what should the reader do next?",
+    "audio_prompt": "After using keywords to find when the next bus leaves a timetable, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-004",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “scan the correct route and day column, then confirm morning or afternoon” efficient for the goal to find when the next bus leaves a timetable?",
+    "audio_prompt": "Why is “scan the correct route and day column, then confirm morning or afternoon” efficient for the goal to find when the next bus leaves a timetable?",
+    "answers": [
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-005",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to judge whether a webpage is current. What is the best pathway?",
+    "audio_prompt": "A reader needs to judge whether a webpage is current. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "find the publication date, author and updated evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The task calls for source checking.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-006",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: find the publication date, author and updated evidence?",
+    "audio_prompt": "Which strategy name best describes this pathway: find the publication date, author and updated evidence?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      },
+      {
+        "text": "source checking",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pathway deliberately uses source checking for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-007",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to judge whether a webpage is current, what should the reader do next?",
+    "audio_prompt": "After using keywords to judge whether a webpage is current, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-008",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “find the publication date, author and updated evidence” efficient for the goal to judge whether a webpage is current?",
+    "audio_prompt": "Why is “find the publication date, author and updated evidence” efficient for the goal to judge whether a webpage is current?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-009",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to choose a suitable bushwalk from a guide. What is the best pathway?",
+    "audio_prompt": "A reader needs to choose a suitable bushwalk from a guide. What is the best pathway?",
+    "answers": [
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      },
+      {
+        "text": "compare distance, difficulty, conditions and map notes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The task calls for purposeful comparison.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-010",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: compare distance, difficulty, conditions and map notes?",
+    "audio_prompt": "Which strategy name best describes this pathway: compare distance, difficulty, conditions and map notes?",
+    "answers": [
+      {
+        "text": "purposeful comparison",
+        "is_correct": true
+      },
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pathway deliberately uses purposeful comparison for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-011",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to choose a suitable bushwalk from a guide, what should the reader do next?",
+    "audio_prompt": "After using keywords to choose a suitable bushwalk from a guide, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-012",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “compare distance, difficulty, conditions and map notes” efficient for the goal to choose a suitable bushwalk from a guide?",
+    "audio_prompt": "Why is “compare distance, difficulty, conditions and map notes” efficient for the goal to choose a suitable bushwalk from a guide?",
+    "answers": [
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      },
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-013",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "A reader needs to answer how a character's view changes across a novel extract. What is the best pathway?",
+    "audio_prompt": "A reader needs to answer how a character's view changes across a novel extract. What is the best pathway?",
+    "answers": [
+      {
+        "text": "reread key moments and connect words showing the changed viewpoint",
+        "is_correct": true
+      },
+      {
+        "text": "Read every word at exactly the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accept the first matching word without checking context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The task calls for close literary reading.",
+      "hint": "Let the information need decide where to navigate and how closely to read."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-014",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Which strategy name best describes this pathway: reread key moments and connect words showing the changed viewpoint?",
+    "audio_prompt": "Which strategy name best describes this pathway: reread key moments and connect words showing the changed viewpoint?",
+    "answers": [
+      {
+        "text": "guessing from the cover",
+        "is_correct": false
+      },
+      {
+        "text": "close literary reading",
+        "is_correct": true
+      },
+      {
+        "text": "copying without reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pathway deliberately uses close literary reading for the stated purpose.",
+      "hint": "Name what the reader is doing, including any final confirmation."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-015",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "After using keywords to answer how a character's view changes across a novel extract, what should the reader do next?",
+    "audio_prompt": "After using keywords to answer how a character's view changes across a novel extract, what should the reader do next?",
+    "answers": [
+      {
+        "text": "Stop at the first highlighted word",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore labels, dates and units",
+        "is_correct": false
+      },
+      {
+        "text": "Read enough surrounding information to confirm the match answers the question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A keyword locates a candidate; context confirms it.",
+      "hint": "Check the heading, sentence, label, date or unit around the match."
+    }
+  },
+  {
+    "id": "ac9e5ly04-t-016",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "navigating_texts_for_specific_purposes",
+    "question": "Why is “reread key moments and connect words showing the changed viewpoint” efficient for the goal to answer how a character's view changes across a novel extract?",
+    "audio_prompt": "Why is “reread key moments and connect words showing the changed viewpoint” efficient for the goal to answer how a character's view changes across a novel extract?",
+    "answers": [
+      {
+        "text": "It directs close attention to the information needed for that purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids checking whether the information is relevant",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees every source is reliable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Efficient readers vary navigation and reading depth according to purpose.",
+      "hint": "Explain how the pathway saves time while preserving accuracy."
+    }
+  }
+]

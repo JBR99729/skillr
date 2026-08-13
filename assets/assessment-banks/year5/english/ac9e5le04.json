@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9e5le04-p-001",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
+    "audio_prompt": "You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-001",
+      "alt_text": "A story-planning card connects isolation, the event, wide empty harbour and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "compare the fog to a closing curtain, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe wide empty harbour once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops isolation by linking compare the fog to a closing curtain with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-002",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
+    "audio_prompt": "You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-002",
+      "alt_text": "A story-planning card connects determination, the event, steep roadside and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "repeat precise action verbs, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe steep roadside once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops determination by linking repeat precise action verbs with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-003",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
+    "audio_prompt": "You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-003",
+      "alt_text": "A story-planning card connects hidden danger, the event, cracked glass and vines and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe cracked glass and vines once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "return to one warning shadow, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops hidden danger by linking return to one warning shadow with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-004",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
+    "audio_prompt": "You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-004",
+      "alt_text": "A story-planning card connects belonging, the event, crowded city roof and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "use plant growth as a sustained image, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe crowded city roof once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops belonging by linking use plant growth as a sustained image with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-005",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
+    "audio_prompt": "You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-005",
+      "alt_text": "A story-planning card connects jealousy, the event, messy workshop and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "show feelings through clipped dialogue, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe messy workshop once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops jealousy by linking show feelings through clipped dialogue with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-006",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a swimmer hears a distress call. The setting is described as rough beach. Which plan best develops courage?",
+    "audio_prompt": "You are drafting a story in which a swimmer hears a distress call. The setting is described as rough beach. Which plan best develops courage?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-006",
+      "alt_text": "A story-planning card connects courage, the event, rough beach and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe rough beach once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "contrast trembling hands with decisive action, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops courage by linking contrast trembling hands with decisive action with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-007",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a child breaks a borrowed model. The setting is described as silent classroom. Which plan best develops regret?",
+    "audio_prompt": "You are drafting a story in which a child breaks a borrowed model. The setting is described as silent classroom. Which plan best develops regret?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-007",
+      "alt_text": "A story-planning card connects regret, the event, silent classroom and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "make the damage echo the friendship, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe silent classroom once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops regret by linking make the damage echo the friendship with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-008",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
+    "audio_prompt": "You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-008",
+      "alt_text": "A story-planning card connects wonder, the event, night forest and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "use controlled light imagery, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe night forest once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops wonder by linking use controlled light imagery with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-009",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
+    "audio_prompt": "You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-009",
+      "alt_text": "A story-planning card connects trust, the event, windy gorge and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe windy gorge once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "let one action answer earlier doubt, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops trust by linking let one action answer earlier doubt with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-010",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
+    "audio_prompt": "You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-010",
+      "alt_text": "A story-planning card connects patience, the event, warm kitchen and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "use slow sensory detail, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe warm kitchen once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops patience by linking use slow sensory detail with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-011",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
+    "audio_prompt": "You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-011",
+      "alt_text": "A story-planning card connects responsibility, the event, flooded yard and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "link each choice to a consequence, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe flooded yard once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops responsibility by linking link each choice to a consequence with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-012",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
+    "audio_prompt": "You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-012",
+      "alt_text": "A story-planning card connects relief, the event, darkening bush track and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe darkening bush track once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "shift imagery from tangled to open, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops relief by linking shift imagery from tangled to open with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-013",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which rivals shelter from hail. The setting is described as small bus stop. Which plan best develops friendship?",
+    "audio_prompt": "You are drafting a story in which rivals shelter from hail. The setting is described as small bus stop. Which plan best develops friendship?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-013",
+      "alt_text": "A story-planning card connects friendship, the event, small bus stop and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "change dialogue from accusation to cooperation, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe small bus stop once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops friendship by linking change dialogue from accusation to cooperation with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-014",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a gardener tends a grandparent's tree. The setting is described as dry backyard. Which plan best develops grief?",
+    "audio_prompt": "You are drafting a story in which a gardener tends a grandparent's tree. The setting is described as dry backyard. Which plan best develops grief?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-014",
+      "alt_text": "A story-planning card connects grief, the event, dry backyard and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "use one recurring leaf image, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe dry backyard once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops grief by linking use one recurring leaf image with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-015",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
+    "audio_prompt": "You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-015",
+      "alt_text": "A story-planning card connects curiosity, the event, dusty archive and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe dusty archive once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "pace the reveal with short observations, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops curiosity by linking pace the reveal with short observations with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-016",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
+    "audio_prompt": "You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-016",
+      "alt_text": "A story-planning card connects pride, the event, school stage and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "show confidence through changing posture, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe school stage once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops pride by linking show confidence through changing posture with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-017",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
+    "audio_prompt": "You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-017",
+      "alt_text": "A story-planning card connects fairness, the event, sports field and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "give opposing characters believable motives, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe sports field once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops fairness by linking give opposing characters believable motives with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-018",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
+    "audio_prompt": "You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-018",
+      "alt_text": "A story-planning card connects homesickness, the event, mountain camp and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe mountain camp once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "connect scent with memory, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops homesickness by linking connect scent with memory with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-019",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
+    "audio_prompt": "You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-019",
+      "alt_text": "A story-planning card connects resourcefulness, the event, parched garden and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "make setting pressure drive the plan, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe parched garden once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops resourcefulness by linking make setting pressure drive the plan with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-020",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which friends repair a torn costume. The setting is described as backstage. Which plan best develops forgiveness?",
+    "audio_prompt": "You are drafting a story in which friends repair a torn costume. The setting is described as backstage. Which plan best develops forgiveness?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-020",
+      "alt_text": "A story-planning card connects forgiveness, the event, backstage and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "let repair become a metaphor, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe backstage once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops forgiveness by linking let repair become a metaphor with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-021",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a dog waits outside a hospital. The setting is described as busy entrance. Which plan best develops loyalty?",
+    "audio_prompt": "You are drafting a story in which a dog waits outside a hospital. The setting is described as busy entrance. Which plan best develops loyalty?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-021",
+      "alt_text": "A story-planning card connects loyalty, the event, busy entrance and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe busy entrance once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "repeat a small waiting action, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops loyalty by linking repeat a small waiting action with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-022",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
+    "audio_prompt": "You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-022",
+      "alt_text": "A story-planning card connects independence, the event, changing stations and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "use signs as both help and pressure, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe changing stations once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops independence by linking use signs as both help and pressure with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-023",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which neighbours relight a community hall. The setting is described as blackout. Which plan best develops hope?",
+    "audio_prompt": "You are drafting a story in which neighbours relight a community hall. The setting is described as blackout. Which plan best develops hope?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-023",
+      "alt_text": "A story-planning card connects hope, the event, blackout and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "build a pattern of growing light, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe blackout once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops hope by linking build a pattern of growing light with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-p-024",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a goalkeeper admits touching the ball. The setting is described as tense final. Which plan best develops honesty?",
+    "audio_prompt": "You are drafting a story in which a goalkeeper admits touching the ball. The setting is described as tense final. Which plan best develops honesty?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-p-024",
+      "alt_text": "A story-planning card connects honesty, the event, tense final and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe tense final once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "slow the decision before the confession, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops honesty by linking slow the decision before the confession with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-001",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a student notices a rival hiding disappointment. The setting is described as awards hall. Which plan best develops empathy?",
+    "audio_prompt": "You are drafting a story in which a student notices a rival hiding disappointment. The setting is described as awards hall. Which plan best develops empathy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-001",
+      "alt_text": "A story-planning card connects empathy, the event, awards hall and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "show understanding through action, not explanation, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe awards hall once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops empathy by linking show understanding through action, not explanation with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-002",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a kite maker tests three failed designs. The setting is described as windy oval. Which plan best develops persistence?",
+    "audio_prompt": "You are drafting a story in which a kite maker tests three failed designs. The setting is described as windy oval. Which plan best develops persistence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-002",
+      "alt_text": "A story-planning card connects persistence, the event, windy oval and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "vary failure while repeating the goal, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe windy oval once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops persistence by linking vary failure while repeating the goal with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-003",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a phone rings inside an empty house. The setting is described as rainy street. Which plan best develops suspense?",
+    "audio_prompt": "You are drafting a story in which a phone rings inside an empty house. The setting is described as rainy street. Which plan best develops suspense?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-003",
+      "alt_text": "A story-planning card connects suspense, the event, rainy street and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe rainy street once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "delay entry with sensory clues, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops suspense by linking delay entry with sensory clues with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-004",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which siblings rebuild a model bridge. The setting is described as shared bedroom. Which plan best develops reconciliation?",
+    "audio_prompt": "You are drafting a story in which siblings rebuild a model bridge. The setting is described as shared bedroom. Which plan best develops reconciliation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-004",
+      "alt_text": "A story-planning card connects reconciliation, the event, shared bedroom and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "make construction mirror their relationship, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe shared bedroom once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops reconciliation by linking make construction mirror their relationship with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-005",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a child watches turtles hatch. The setting is described as moonlit beach. Which plan best develops awe?",
+    "audio_prompt": "You are drafting a story in which a child watches turtles hatch. The setting is described as moonlit beach. Which plan best develops awe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-005",
+      "alt_text": "A story-planning card connects awe, the event, moonlit beach and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "use restrained scale comparisons, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe moonlit beach once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops awe by linking use restrained scale comparisons with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-006",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a team waits for a cave guide. The setting is described as underground chamber. Which plan best develops uncertainty?",
+    "audio_prompt": "You are drafting a story in which a team waits for a cave guide. The setting is described as underground chamber. Which plan best develops uncertainty?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-006",
+      "alt_text": "A story-planning card connects uncertainty, the event, underground chamber and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe underground chamber once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "limit viewpoint to partial sounds, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops uncertainty by linking limit viewpoint to partial sounds with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-007",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a market seller saves food for a late family. The setting is described as closing market. Which plan best develops generosity?",
+    "audio_prompt": "You are drafting a story in which a market seller saves food for a late family. The setting is described as closing market. Which plan best develops generosity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-007",
+      "alt_text": "A story-planning card connects generosity, the event, closing market and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "contrast abundance with one careful choice, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe closing market once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops generosity by linking contrast abundance with one careful choice with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-008",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a dancer adapts after a costume tears. The setting is described as festival stage. Which plan best develops resilience?",
+    "audio_prompt": "You are drafting a story in which a dancer adapts after a costume tears. The setting is described as festival stage. Which plan best develops resilience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-008",
+      "alt_text": "A story-planning card connects resilience, the event, festival stage and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "turn the problem into part of the performance, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe festival stage once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops resilience by linking turn the problem into part of the performance with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-009",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a student hides a damaged library book. The setting is described as quiet library. Which plan best develops guilt?",
+    "audio_prompt": "You are drafting a story in which a student hides a damaged library book. The setting is described as quiet library. Which plan best develops guilt?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-009",
+      "alt_text": "A story-planning card connects guilt, the event, quiet library and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe quiet library once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "let the book recur as an uncomfortable image, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops guilt by linking let the book recur as an uncomfortable image with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-010",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which neighbours move a fallen branch. The setting is described as blocked lane. Which plan best develops cooperation?",
+    "audio_prompt": "You are drafting a story in which neighbours move a fallen branch. The setting is described as blocked lane. Which plan best develops cooperation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-010",
+      "alt_text": "A story-planning card connects cooperation, the event, blocked lane and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "coordinate actions through purposeful verbs, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe blocked lane once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops cooperation by linking coordinate actions through purposeful verbs with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-011",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which friends decode marks on a jetty. The setting is described as tidal inlet. Which plan best develops discovery?",
+    "audio_prompt": "You are drafting a story in which friends decode marks on a jetty. The setting is described as tidal inlet. Which plan best develops discovery?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-011",
+      "alt_text": "A story-planning card connects discovery, the event, tidal inlet and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "make the changing tide a deadline, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe tidal inlet once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops discovery by linking make the changing tide a deadline with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-012",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a child releases an injured bird. The setting is described as rehabilitation garden. Which plan best develops acceptance?",
+    "audio_prompt": "You are drafting a story in which a child releases an injured bird. The setting is described as rehabilitation garden. Which plan best develops acceptance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-012",
+      "alt_text": "A story-planning card connects acceptance, the event, rehabilitation garden and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe rehabilitation garden once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "shift from holding to opening imagery, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops acceptance by linking shift from holding to opening imagery with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-013",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a winner notices a scoring error. The setting is described as robotics final. Which plan best develops moral choice?",
+    "audio_prompt": "You are drafting a story in which a winner notices a scoring error. The setting is described as robotics final. Which plan best develops moral choice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-013",
+      "alt_text": "A story-planning card connects moral choice, the event, robotics final and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "connect the decision with an earlier value, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe robotics final once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops moral choice by linking connect the decision with an earlier value with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-014",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which an older cousin guides children through smoke. The setting is described as campground. Which plan best develops protection?",
+    "audio_prompt": "You are drafting a story in which an older cousin guides children through smoke. The setting is described as campground. Which plan best develops protection?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-014",
+      "alt_text": "A story-planning card connects protection, the event, campground and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "use setting details as obstacles and clues, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe campground once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan develops protection by linking use setting details as obstacles and clues with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-015",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a traveller returns a repaired compass. The setting is described as coastal village. Which plan best develops gratitude?",
+    "audio_prompt": "You are drafting a story in which a traveller returns a repaired compass. The setting is described as coastal village. Which plan best develops gratitude?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-015",
+      "alt_text": "A story-planning card connects gratitude, the event, coastal village and the craft choice. A three-part revision-flow guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe coastal village once, then make the character change without a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "echo the opening object with changed meaning, and make the character's choices change what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plan develops gratitude by linking echo the opening object with changed meaning with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  },
+  {
+    "id": "ac9e5le04-t-016",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_revising_literary_texts",
+    "question": "You are drafting a story in which a quiet speaker addresses the council. The setting is described as crowded chamber. Which plan best develops confidence?",
+    "audio_prompt": "You are drafting a story in which a quiet speaker addresses the council. The setting is described as crowded chamber. Which plan best develops confidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le04.svg#ac9e5le04-t-016",
+      "alt_text": "A story-planning card connects confidence, the event, crowded chamber and the craft choice. A three-part story-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "move from fragmented to flowing sentences, and make the character's choices change what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe crowded chamber once, then make the character change without a cause.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plan develops confidence by linking move from fragmented to flowing sentences with motivated action and consequence.",
+      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+    }
+  }
+]
