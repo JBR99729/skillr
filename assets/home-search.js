@@ -83,14 +83,17 @@
   function loadIndex() {
     if (indexPromise) return indexPromise;
 
-    indexPromise = fetch("/sitemap.html", { credentials: "same-origin" })
-      .then(function (response) {
-        if (!response.ok) throw new Error("Search index unavailable");
-        return response.text();
+    indexPromise = Promise.all([
+      fetch("/sitemap.html", { credentials: "same-origin" }),
+      fetch("/data/curriculum-units.json", { credentials: "same-origin" })
+    ])
+      .then(function (responses) {
+        if (!responses[0].ok || !responses[1].ok) throw new Error("Search index unavailable");
+        return Promise.all([responses[0].text(), responses[1].json()]);
       })
-      .then(function (source) {
-        var documentCopy = new DOMParser().parseFromString(source, "text/html");
-        return Array.from(documentCopy.querySelectorAll(".sitemap-section a[href]"))
+      .then(function (payload) {
+        var documentCopy = new DOMParser().parseFromString(payload[0], "text/html");
+        var generalResources = Array.from(documentCopy.querySelectorAll(".sitemap-section a[href]"))
           .map(function (link) {
             var title = link.textContent.trim();
             var url = link.getAttribute("href");
@@ -104,6 +107,33 @@
           .filter(function (item) {
             return item.title && item.url && item.url !== "/sitemap.html";
           });
+        var curriculumUnits = (payload[1].units || [])
+          .map(function (unit) {
+            var code = unit.code || "";
+            var title = unit.title || unit.description || code;
+            var url = unit.url || "";
+            var level = unit.levelLabel || unit.level || "";
+            var subject = unit.subject || unit.learningArea || "";
+            var elaborations = (unit.elaborations || []).map(function (item) {
+              return item.text || "";
+            }).join(" ");
+            var aliases = /common (?:factor|divisor)/i.test(unit.description + " " + elaborations)
+              ? "greatest common factor highest common factor greatest common divisor gcf hcf gcd"
+              : "";
+            return {
+              title: code + " — " + title,
+              url: url,
+              meta: [level, subject, "Curriculum topic"].filter(Boolean).join(" · "),
+              searchable: normalise([
+                code, title, unit.description, level, subject, elaborations, aliases, url
+              ].filter(Boolean).join(" "))
+            };
+          })
+          .filter(function (item) {
+            return item.title && item.url;
+          });
+
+        return generalResources.concat(curriculumUnits);
       });
 
     return indexPromise;
