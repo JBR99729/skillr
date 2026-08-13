@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S6U02-P-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a class investigation, students discuss the evidence. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "revolution",
+        "is_correct": false
+      },
+      {
+        "text": "orbit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "rotation means spinning about an axis.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student checks a science notebook. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "revolution",
+        "is_correct": true
+      },
+      {
+        "text": "orbit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "revolution means movement around another object.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A group compares its evidence. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "revolution",
+        "is_correct": false
+      },
+      {
+        "text": "orbit",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "orbit means repeated curved path under gravitational interaction.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "At a science station, the class reviews its work. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rotation is spin; revolution is orbit.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rotation is spin; revolution is orbit.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student reviews a model. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Axial tilt changes sunlight angle and duration.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Axial tilt changes sunlight angle and duration.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "State model limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State model limitations.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth’s rotation creates the apparent daily sky movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth’s rotation creates the apparent daily sky movement.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student checks a science notebook. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-008",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      },
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": true
+      },
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A group compares its evidence. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-009",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-010",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": true
+      },
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student reviews a model. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-011",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "different periods; different planetary years",
+        "is_correct": true
+      },
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. Which motion causes day and night?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. Which motion causes day and night?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth’s yearly revolution only",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun orbiting Earth daily",
+        "is_correct": false
+      },
+      {
+        "text": "Earth’s rotation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth’s rotation is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a class investigation, students discuss the evidence. What is the main cause of seasons?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. What is the main cause of seasons?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth’s axial tilt and revolution",
+        "is_correct": true
+      },
+      {
+        "text": "Earth being much closer to the Sun every summer everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s shadow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth’s axial tilt and revolution is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revolution",
+        "is_correct": false
+      },
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "orbit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "rotation means spinning about an axis.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "orbit",
+        "is_correct": false
+      },
+      {
+        "text": "revolution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "revolution means movement around another object.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "orbit",
+        "is_correct": true
+      },
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "revolution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "orbit means repeated curved path under gravitational interaction.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Rotation is spin; revolution is orbit.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rotation is spin; revolution is orbit.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Axial tilt changes sunlight angle and duration.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Axial tilt changes sunlight angle and duration.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State model limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State model limitations.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth’s rotation creates the apparent daily sky movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Earth’s rotation creates the apparent daily sky movement.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-021",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": false
+      },
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-022",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": true
+      },
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-023",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 month; changing relative positions and phases",
+        "is_correct": true
+      },
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-P-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-024",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "about 24 h; day/night and apparent sky motion",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 year; annual position and seasons with axial tilt",
+        "is_correct": false
+      },
+      {
+        "text": "different periods; different planetary years",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A new investigation report must be checked. A student chose “Earth being much closer to the Sun every summer everywhere”. Reconsider this question using scientific evidence: What is the main cause of seasons?",
+    "audio_prompt": "A new investigation report must be checked. A student chose “Earth being much closer to the Sun every summer everywhere”. Reconsider this question using scientific evidence: What is the main cause of seasons?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth being much closer to the Sun every summer everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Earth’s axial tilt and revolution",
+        "is_correct": true
+      },
+      {
+        "text": "The Moon’s shadow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Earth’s axial tilt and revolution is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A different class analyses its results. A student chose “Earth’s yearly revolution only”. Reconsider this question using scientific evidence: Which motion causes day and night?",
+    "audio_prompt": "A different class analyses its results. A student chose “Earth’s yearly revolution only”. Reconsider this question using scientific evidence: Which motion causes day and night?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth’s yearly revolution only",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun orbiting Earth daily",
+        "is_correct": false
+      },
+      {
+        "text": "Earth’s rotation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth’s rotation is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “different periods; different planetary years”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “different periods; different planetary years”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-t-003",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "other planets orbit Sun",
+        "is_correct": true
+      },
+      {
+        "text": "Earth rotates on axis",
+        "is_correct": false
+      },
+      {
+        "text": "Earth revolves around Sun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "different periods; different planetary years belongs under other planets orbit Sun.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “about 1 month; changing relative positions and phases”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “about 1 month; changing relative positions and phases”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-t-004",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Earth rotates on axis",
+        "is_correct": false
+      },
+      {
+        "text": "Moon revolves around Earth",
+        "is_correct": true
+      },
+      {
+        "text": "Earth revolves around Sun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "about 1 month; changing relative positions and phases belongs under Moon revolves around Earth.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “about 1 year; annual position and seasons with axial tilt”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “about 1 year; annual position and seasons with axial tilt”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-t-005",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Earth rotates on axis",
+        "is_correct": false
+      },
+      {
+        "text": "Moon revolves around Earth",
+        "is_correct": false
+      },
+      {
+        "text": "Earth revolves around Sun",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "about 1 year; annual position and seasons with axial tilt belongs under Earth revolves around Sun.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A different class analyses its results. A science organiser contains the entry “about 24 h; day/night and apparent sky motion”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “about 24 h; day/night and apparent sky motion”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-t-006",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Earth rotates on axis",
+        "is_correct": true
+      },
+      {
+        "text": "Earth revolves around Sun",
+        "is_correct": false
+      },
+      {
+        "text": "Moon revolves around Earth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "about 24 h; day/night and apparent sky motion belongs under Earth rotates on axis.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A team conducts an independent evidence review. A review recommends, “Earth’s rotation creates the apparent daily sky movement.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Earth’s rotation creates the apparent daily sky movement.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rotation and revolution treated as synonyms",
+        "is_correct": false
+      },
+      {
+        "text": "Sun travels around Earth daily",
+        "is_correct": true
+      },
+      {
+        "text": "Seasons caused by distance alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Sun travels around Earth daily”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student applies the science to an unfamiliar situation. A review recommends, “State model limitations.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “State model limitations.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rotation and revolution treated as synonyms",
+        "is_correct": false
+      },
+      {
+        "text": "Seasons caused by distance alone",
+        "is_correct": false
+      },
+      {
+        "text": "Solar-system diagrams assumed to scale",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Solar-system diagrams assumed to scale”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A new investigation report must be checked. A review recommends, “Axial tilt changes sunlight angle and duration.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A new investigation report must be checked. A review recommends, “Axial tilt changes sunlight angle and duration.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by distance alone",
+        "is_correct": true
+      },
+      {
+        "text": "Rotation and revolution treated as synonyms",
+        "is_correct": false
+      },
+      {
+        "text": "Solar-system diagrams assumed to scale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Seasons caused by distance alone”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A different class analyses its results. A review recommends, “Rotation is spin; revolution is orbit.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A different class analyses its results. A review recommends, “Rotation is spin; revolution is orbit.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by distance alone",
+        "is_correct": false
+      },
+      {
+        "text": "Rotation and revolution treated as synonyms",
+        "is_correct": true
+      },
+      {
+        "text": "Solar-system diagrams assumed to scale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Rotation and revolution treated as synonyms”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A team conducts an independent evidence review. A student labels an observation “orbit”. Which description shows that term being used correctly?",
+    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “orbit”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "spinning about an axis",
+        "is_correct": false
+      },
+      {
+        "text": "movement around another object",
+        "is_correct": false
+      },
+      {
+        "text": "repeated curved path under gravitational interaction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "orbit describes repeated curved path under gravitational interaction.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “revolution”. Which description shows that term being used correctly?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “revolution”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "movement around another object",
+        "is_correct": true
+      },
+      {
+        "text": "spinning about an axis",
+        "is_correct": false
+      },
+      {
+        "text": "repeated curved path under gravitational interaction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "revolution describes movement around another object.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A new investigation report must be checked. A student labels an observation “rotation”. Which description shows that term being used correctly?",
+    "audio_prompt": "A new investigation report must be checked. A student labels an observation “rotation”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "movement around another object",
+        "is_correct": false
+      },
+      {
+        "text": "spinning about an axis",
+        "is_correct": true
+      },
+      {
+        "text": "repeated curved path under gravitational interaction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "rotation describes spinning about an axis.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A team conducts an independent evidence review. The class applies the same scientific idea to a second set of observations. A student chose “Earth being much closer to the Sun every summer everywhere”. Reconsider this question using scientific evidence: What is the main cause of seasons?",
+    "audio_prompt": "A team conducts an independent evidence review. The class applies the same scientific idea to a second set of observations. A student chose “Earth being much closer to the Sun every summer everywhere”. Reconsider this question using scientific evidence: What is the main cause of seasons?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth being much closer to the Sun every summer everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Earth’s axial tilt and revolution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth’s axial tilt and revolution is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “Earth’s yearly revolution only”. Reconsider this question using scientific evidence: Which motion causes day and night?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “Earth’s yearly revolution only”. Reconsider this question using scientific evidence: Which motion causes day and night?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth’s rotation",
+        "is_correct": true
+      },
+      {
+        "text": "Earth’s yearly revolution only",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun orbiting Earth daily",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth’s rotation is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U02-T-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "earth_planets_and_the_solar_system",
+    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A science organiser contains the entry “different periods; different planetary years”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A science organiser contains the entry “different periods; different planetary years”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-t-016",
+      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Earth rotates on axis",
+        "is_correct": false
+      },
+      {
+        "text": "other planets orbit Sun",
+        "is_correct": true
+      },
+      {
+        "text": "Earth revolves around Sun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "different periods; different planetary years belongs under other planets orbit Sun.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  }
+]

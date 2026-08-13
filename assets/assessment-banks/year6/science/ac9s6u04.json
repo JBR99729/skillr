@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S6U04-P-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a class investigation, students discuss the evidence. In work about Reversible and Irreversible Changes, a record describes “change where original material can be recovered”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Reversible and Irreversible Changes, a record describes “change where original material can be recovered”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irreversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": false
+      },
+      {
+        "text": "reversible change",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "reversible change means change where original material can be recovered.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student checks a science notebook. In work about Reversible and Irreversible Changes, a record describes “change not practically reversed to original materials”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. In work about Reversible and Irreversible Changes, a record describes “change not practically reversed to original materials”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irreversible change",
+        "is_correct": true
+      },
+      {
+        "text": "reversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "irreversible change means change not practically reversed to original materials.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A group compares its evidence. In work about Reversible and Irreversible Changes, a record describes “solute particles disperse among solvent particles”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. In work about Reversible and Irreversible Changes, a record describes “solute particles disperse among solvent particles”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": true
+      },
+      {
+        "text": "irreversible change",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "dissolving means solute particles disperse among solvent particles.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "At a science station, the class reviews its work. A student's reasoning is “Dissolved material disappears”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Dissolved material disappears”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles remain and can often be recovered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Particles remain and can often be recovered.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student reviews a model. A student's reasoning is “All bubbles prove chemical change”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. A student's reasoning is “All bubbles prove chemical change”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and trapped air can produce bubbles.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boiling and trapped air can produce bubbles.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Reversible means no energy involved”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Reversible means no energy involved”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Melting and freezing exchange energy.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Melting and freezing exchange energy.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Irreversible means impossible under any technology”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Irreversible means impossible under any technology”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "At this level, focus on practical recovery under ordinary conditions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "At this level, focus on practical recovery under ordinary conditions.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student checks a science notebook. A science organiser labels one part “ice melts”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “ice melts”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-008",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting ice melts as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "same water particles, arrangement changes; freeze",
+        "is_correct": true
+      },
+      {
+        "text": "particles disperse in water; evaporate water / crystallise",
+        "is_correct": false
+      },
+      {
+        "text": "state change; melt again",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links ice melts with same water particles, arrangement changes; freeze.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A group compares its evidence. A science organiser labels one part “salt dissolves”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “salt dissolves”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-009",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting salt dissolves as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "same water particles, arrangement changes; freeze",
+        "is_correct": false
+      },
+      {
+        "text": "particles disperse in water; evaporate water / crystallise",
+        "is_correct": true
+      },
+      {
+        "text": "state change; melt again",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links salt dissolves with particles disperse in water; evaporate water / crystallise.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “wax solidifies”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “wax solidifies”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-010",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting wax solidifies as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "same water particles, arrangement changes; freeze",
+        "is_correct": false
+      },
+      {
+        "text": "particles disperse in water; evaporate water / crystallise",
+        "is_correct": false
+      },
+      {
+        "text": "state change; melt again",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links wax solidifies with state change; melt again.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student reviews a model. A science organiser labels one part “steel rusts”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “steel rusts”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-011",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting steel rusts as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new substances form; not easily reversed",
+        "is_correct": true
+      },
+      {
+        "text": "same water particles, arrangement changes; freeze",
+        "is_correct": false
+      },
+      {
+        "text": "particles disperse in water; evaporate water / crystallise",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links steel rusts with new substances form; not easily reversed.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “vinegar + bicarbonate”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “vinegar + bicarbonate”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-012",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting vinegar + bicarbonate as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "same water particles, arrangement changes; freeze",
+        "is_correct": false
+      },
+      {
+        "text": "gas and new products form; not reversed by simple separation",
+        "is_correct": true
+      },
+      {
+        "text": "particles disperse in water; evaporate water / crystallise",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links vinegar + bicarbonate with gas and new products form; not reversed by simple separation.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “colour change”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “colour change”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-013",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting colour change as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "may indicate energy change, but heating source matters",
+        "is_correct": false
+      },
+      {
+        "text": "strong evidence when combined with controlled observations",
+        "is_correct": false
+      },
+      {
+        "text": "may support new substance, but mixing colours is physical",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links colour change with may support new substance, but mixing colours is physical.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student checks a science notebook. A science organiser labels one part “temperature change”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “temperature change”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-014",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting temperature change as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "may indicate energy change, but heating source matters",
+        "is_correct": true
+      },
+      {
+        "text": "may support new substance, but mixing colours is physical",
+        "is_correct": false
+      },
+      {
+        "text": "strong evidence when combined with controlled observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links temperature change with may indicate energy change, but heating source matters.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A group compares its evidence. A science organiser labels one part “new properties”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “new properties”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-015",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting new properties as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "may support new substance, but mixing colours is physical",
+        "is_correct": false
+      },
+      {
+        "text": "strong evidence when combined with controlled observations",
+        "is_correct": true
+      },
+      {
+        "text": "may indicate energy change, but heating source matters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links new properties with strong evidence when combined with controlled observations.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “separation”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “separation”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-p-016",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting separation as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "may support new substance, but mixing colours is physical",
+        "is_correct": false
+      },
+      {
+        "text": "may indicate energy change, but heating source matters",
+        "is_correct": false
+      },
+      {
+        "text": "filtration/evaporation can recover components of some mixtures",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links separation with filtration/evaporation can recover components of some mixtures.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student reviews a model. Which change is reversible by a common physical process?",
+    "audio_prompt": "A student reviews a model. Which change is reversible by a common physical process?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "salt dissolving in water",
+        "is_correct": true
+      },
+      {
+        "text": "paper burning",
+        "is_correct": false
+      },
+      {
+        "text": "iron rusting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "salt dissolving in water is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. Which observation alone does not prove a chemical change?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. Which observation alone does not prove a chemical change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "new properties after a controlled reaction",
+        "is_correct": false
+      },
+      {
+        "text": "bubbles",
+        "is_correct": true
+      },
+      {
+        "text": "several combined lines of evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "bubbles is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “change where original material can be recovered”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “change where original material can be recovered”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irreversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": false
+      },
+      {
+        "text": "reversible change",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "reversible change means change where original material can be recovered.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “change not practically reversed to original materials”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “change not practically reversed to original materials”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irreversible change",
+        "is_correct": true
+      },
+      {
+        "text": "reversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "irreversible change means change not practically reversed to original materials.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “solute particles disperse among solvent particles”. Which scientific term should label it?",
+    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Reversible and Irreversible Changes, a record describes “solute particles disperse among solvent particles”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reversible change",
+        "is_correct": false
+      },
+      {
+        "text": "dissolving",
+        "is_correct": true
+      },
+      {
+        "text": "irreversible change",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "dissolving means solute particles disperse among solvent particles.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Dissolved material disappears”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Dissolved material disappears”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles remain and can often be recovered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Particles remain and can often be recovered.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “All bubbles prove chemical change”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “All bubbles prove chemical change”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and trapped air can produce bubbles.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boiling and trapped air can produce bubbles.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-P-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Reversible means no energy involved”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Reversible means no energy involved”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Melting and freezing exchange energy.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Melting and freezing exchange energy.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A new investigation report must be checked. A student chose “new properties after a controlled reaction”. Reconsider this question using scientific evidence: Which observation alone does not prove a chemical change?",
+    "audio_prompt": "A new investigation report must be checked. A student chose “new properties after a controlled reaction”. Reconsider this question using scientific evidence: Which observation alone does not prove a chemical change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "bubbles",
+        "is_correct": true
+      },
+      {
+        "text": "new properties after a controlled reaction",
+        "is_correct": false
+      },
+      {
+        "text": "several combined lines of evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "bubbles is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A different class analyses its results. A student chose “paper burning”. Reconsider this question using scientific evidence: Which change is reversible by a common physical process?",
+    "audio_prompt": "A different class analyses its results. A student chose “paper burning”. Reconsider this question using scientific evidence: Which change is reversible by a common physical process?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "paper burning",
+        "is_correct": false
+      },
+      {
+        "text": "salt dissolving in water",
+        "is_correct": true
+      },
+      {
+        "text": "iron rusting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "salt dissolving in water is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “filtration/evaporation can recover components of some mixtures”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “filtration/evaporation can recover components of some mixtures”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-003",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting separation as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "colour change",
+        "is_correct": false
+      },
+      {
+        "text": "temperature change",
+        "is_correct": false
+      },
+      {
+        "text": "separation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "filtration/evaporation can recover components of some mixtures belongs under separation.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “strong evidence when combined with controlled observations”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “strong evidence when combined with controlled observations”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-004",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting new properties as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new properties",
+        "is_correct": true
+      },
+      {
+        "text": "colour change",
+        "is_correct": false
+      },
+      {
+        "text": "temperature change",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "strong evidence when combined with controlled observations belongs under new properties.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “may indicate energy change, but heating source matters”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “may indicate energy change, but heating source matters”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-005",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting temperature change as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "colour change",
+        "is_correct": false
+      },
+      {
+        "text": "temperature change",
+        "is_correct": true
+      },
+      {
+        "text": "new properties",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "may indicate energy change, but heating source matters belongs under temperature change.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A different class analyses its results. A science organiser contains the entry “may support new substance, but mixing colours is physical”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “may support new substance, but mixing colours is physical”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-006",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting colour change as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "temperature change",
+        "is_correct": false
+      },
+      {
+        "text": "new properties",
+        "is_correct": false
+      },
+      {
+        "text": "colour change",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "may support new substance, but mixing colours is physical belongs under colour change.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “gas and new products form; not reversed by simple separation”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “gas and new products form; not reversed by simple separation”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-007",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting vinegar + bicarbonate as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "vinegar + bicarbonate",
+        "is_correct": true
+      },
+      {
+        "text": "ice melts",
+        "is_correct": false
+      },
+      {
+        "text": "salt dissolves",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "gas and new products form; not reversed by simple separation belongs under vinegar + bicarbonate.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “new substances form; not easily reversed”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “new substances form; not easily reversed”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-008",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting steel rusts as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "ice melts",
+        "is_correct": false
+      },
+      {
+        "text": "steel rusts",
+        "is_correct": true
+      },
+      {
+        "text": "salt dissolves",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "new substances form; not easily reversed belongs under steel rusts.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “state change; melt again”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “state change; melt again”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-009",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting wax solidifies as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "ice melts",
+        "is_correct": false
+      },
+      {
+        "text": "salt dissolves",
+        "is_correct": false
+      },
+      {
+        "text": "wax solidifies",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "state change; melt again belongs under wax solidifies.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A different class analyses its results. A science organiser contains the entry “particles disperse in water; evaporate water / crystallise”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “particles disperse in water; evaporate water / crystallise”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-010",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting salt dissolves as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "salt dissolves",
+        "is_correct": true
+      },
+      {
+        "text": "ice melts",
+        "is_correct": false
+      },
+      {
+        "text": "wax solidifies",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "particles disperse in water; evaporate water / crystallise belongs under salt dissolves.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “same water particles, arrangement changes; freeze”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “same water particles, arrangement changes; freeze”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u04.svg#ac9s6u04-t-011",
+      "alt_text": "A Year 6 science organiser for Reversible and Irreversible Changes, highlighting ice melts as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "salt dissolves",
+        "is_correct": false
+      },
+      {
+        "text": "ice melts",
+        "is_correct": true
+      },
+      {
+        "text": "wax solidifies",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "same water particles, arrangement changes; freeze belongs under ice melts.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student applies the science to an unfamiliar situation. A review recommends, “At this level, focus on practical recovery under ordinary conditions.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “At this level, focus on practical recovery under ordinary conditions.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dissolved material disappears",
+        "is_correct": false
+      },
+      {
+        "text": "All bubbles prove chemical change",
+        "is_correct": false
+      },
+      {
+        "text": "Irreversible means impossible under any technology",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Irreversible means impossible under any technology”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A new investigation report must be checked. A review recommends, “Melting and freezing exchange energy.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A new investigation report must be checked. A review recommends, “Melting and freezing exchange energy.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Reversible means no energy involved",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolved material disappears",
+        "is_correct": false
+      },
+      {
+        "text": "All bubbles prove chemical change",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Reversible means no energy involved”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A different class analyses its results. A review recommends, “Boiling and trapped air can produce bubbles.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A different class analyses its results. A review recommends, “Boiling and trapped air can produce bubbles.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dissolved material disappears",
+        "is_correct": false
+      },
+      {
+        "text": "All bubbles prove chemical change",
+        "is_correct": true
+      },
+      {
+        "text": "Reversible means no energy involved",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “All bubbles prove chemical change”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A team conducts an independent evidence review. A review recommends, “Particles remain and can often be recovered.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Particles remain and can often be recovered.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All bubbles prove chemical change",
+        "is_correct": false
+      },
+      {
+        "text": "Reversible means no energy involved",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved material disappears",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Dissolved material disappears”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6U04-T-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "reversible_and_irreversible_changes",
+    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “dissolving”. Which description shows that term being used correctly?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “dissolving”. Which description shows that term being used correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "solute particles disperse among solvent particles",
+        "is_correct": true
+      },
+      {
+        "text": "change where original material can be recovered",
+        "is_correct": false
+      },
+      {
+        "text": "change not practically reversed to original materials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "dissolving describes solute particles disperse among solvent particles.",
+      "hint": "Apply the term to the description that includes all of its important features."
+    }
+  }
+]

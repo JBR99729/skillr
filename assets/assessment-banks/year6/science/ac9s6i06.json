@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S6I06-P-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a class investigation, students discuss the evidence. In work about Communicating Scientific Ideas and Findings, a record describes “evidence-based message about ideas or findings”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Communicating Scientific Ideas and Findings, a record describes “evidence-based message about ideas or findings”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "scientific communication",
+        "is_correct": true
+      },
+      {
+        "text": "audience adaptation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scientific communication means evidence-based message about ideas or findings.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student checks a science notebook. In work about Communicating Scientific Ideas and Findings, a record describes “text interpreting or explaining a representation”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. In work about Communicating Scientific Ideas and Findings, a record describes “text interpreting or explaining a representation”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "scientific communication",
+        "is_correct": false
+      },
+      {
+        "text": "audience adaptation",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "caption means text interpreting or explaining a representation.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A group compares its evidence. In work about Communicating Scientific Ideas and Findings, a record describes “changes to form and support for intended users”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. In work about Communicating Scientific Ideas and Findings, a record describes “changes to form and support for intended users”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience adaptation",
+        "is_correct": true
+      },
+      {
+        "text": "scientific communication",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "audience adaptation means changes to form and support for intended users.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "At a science station, the class reviews its work. A student's reasoning is “Results displayed without interpretation”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Results displayed without interpretation”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "State the pattern and relevance.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State the pattern and relevance.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student reviews a model. A student's reasoning is “Conclusion repeats prediction only”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. A student's reasoning is “Conclusion repeats prediction only”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use actual evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use actual evidence.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Audience adaptation changes facts”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Audience adaptation changes facts”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Preserve accuracy.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Preserve accuracy.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Sources and image/data origins omitted”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Sources and image/data origins omitted”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Attribute external material.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Attribute external material.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student checks a science notebook. A student's reasoning is “Slide becomes a paragraph wall”. Which revision corrects it?",
+    "audio_prompt": "A student checks a science notebook. A student's reasoning is “Slide becomes a paragraph wall”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use models and concise cues.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use models and concise cues.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A group compares its evidence. A science organiser labels one part “Question/prediction”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Question/prediction”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-009",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Question/prediction as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": true
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": false
+      },
+      {
+        "text": "table/graph/model with units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Question/prediction with focus.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “Method”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “Method”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-010",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Method as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": true
+      },
+      {
+        "text": "table/graph/model with units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Method with repeatable summary and variables.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student reviews a model. A science organiser labels one part “Results”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “Results”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-011",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Results as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": false
+      },
+      {
+        "text": "table/graph/model with units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Results with table/graph/model with units.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Finding”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Finding”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-012",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Finding as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "pattern stated with data",
+        "is_correct": true
+      },
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Finding with pattern stated with data.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “Conclusion”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “Conclusion”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-013",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Conclusion as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "claim + reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Conclusion with claim + reasoning.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student checks a science notebook. A science organiser labels one part “Limit/next question”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Limit/next question”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-014",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Limit/next question as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "repeatable summary and variables",
+        "is_correct": false
+      },
+      {
+        "text": "scope and improvement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Limit/next question with scope and improvement.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A group compares its evidence. A science organiser labels one part “formal report”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “formal report”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-015",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting formal report as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "method detail, raw/processed data, limitations",
+        "is_correct": true
+      },
+      {
+        "text": "large model, concise findings, readable captions",
+        "is_correct": false
+      },
+      {
+        "text": "signposting, limited slide text, spoken reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links formal report with method detail, raw/processed data, limitations.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “class poster”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “class poster”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-016",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting class poster as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "method detail, raw/processed data, limitations",
+        "is_correct": false
+      },
+      {
+        "text": "large model, concise findings, readable captions",
+        "is_correct": true
+      },
+      {
+        "text": "signposting, limited slide text, spoken reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links class poster with large model, concise findings, readable captions.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student reviews a model. A science organiser labels one part “oral presentation”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “oral presentation”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-017",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting oral presentation as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "method detail, raw/processed data, limitations",
+        "is_correct": false
+      },
+      {
+        "text": "large model, concise findings, readable captions",
+        "is_correct": false
+      },
+      {
+        "text": "signposting, limited slide text, spoken reasoning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links oral presentation with signposting, limited slide text, spoken reasoning.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “younger audience”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “younger audience”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-018",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting younger audience as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "defined terms and concrete comparison",
+        "is_correct": true
+      },
+      {
+        "text": "method detail, raw/processed data, limitations",
+        "is_correct": false
+      },
+      {
+        "text": "large model, concise findings, readable captions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links younger audience with defined terms and concrete comparison.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “digital page”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “digital page”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-p-019",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting digital page as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "method detail, raw/processed data, limitations",
+        "is_correct": false
+      },
+      {
+        "text": "navigation, source attribution and accessible labels",
+        "is_correct": true
+      },
+      {
+        "text": "large model, concise findings, readable captions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links digital page with navigation, source attribution and accessible labels.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student checks a science notebook. Which feature best supports a scientific finding?",
+    "audio_prompt": "A student checks a science notebook. Which feature best supports a scientific finding?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unrelated decoration",
+        "is_correct": false
+      },
+      {
+        "text": "A claim without data",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph plus a numerical evidence statement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled graph plus a numerical evidence statement is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A group compares its evidence. What should remain unchanged across audiences?",
+    "audio_prompt": "A group compares its evidence. What should remain unchanged across audiences?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The evidence and scientific relationship",
+        "is_correct": true
+      },
+      {
+        "text": "The level of vocabulary support",
+        "is_correct": false
+      },
+      {
+        "text": "The amount of detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and scientific relationship is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “evidence-based message about ideas or findings”. Which scientific term should label it?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “evidence-based message about ideas or findings”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "scientific communication",
+        "is_correct": true
+      },
+      {
+        "text": "audience adaptation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scientific communication means evidence-based message about ideas or findings.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “text interpreting or explaining a representation”. Which scientific term should label it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “text interpreting or explaining a representation”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "scientific communication",
+        "is_correct": false
+      },
+      {
+        "text": "audience adaptation",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "caption means text interpreting or explaining a representation.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-P-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “changes to form and support for intended users”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Communicating Scientific Ideas and Findings, a record describes “changes to form and support for intended users”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience adaptation",
+        "is_correct": true
+      },
+      {
+        "text": "scientific communication",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "audience adaptation means changes to form and support for intended users.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A new investigation report must be checked. A student chose “The level of vocabulary support”. Reconsider this question using scientific evidence: What should remain unchanged across audiences?",
+    "audio_prompt": "A new investigation report must be checked. A student chose “The level of vocabulary support”. Reconsider this question using scientific evidence: What should remain unchanged across audiences?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The level of vocabulary support",
+        "is_correct": false
+      },
+      {
+        "text": "The amount of detail",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence and scientific relationship",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and scientific relationship is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A different class analyses its results. A student chose “An unrelated decoration”. Reconsider this question using scientific evidence: Which feature best supports a scientific finding?",
+    "audio_prompt": "A different class analyses its results. A student chose “An unrelated decoration”. Reconsider this question using scientific evidence: Which feature best supports a scientific finding?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A labelled graph plus a numerical evidence statement",
+        "is_correct": true
+      },
+      {
+        "text": "An unrelated decoration",
+        "is_correct": false
+      },
+      {
+        "text": "A claim without data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled graph plus a numerical evidence statement is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “navigation, source attribution and accessible labels”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “navigation, source attribution and accessible labels”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-003",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting digital page as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "formal report",
+        "is_correct": false
+      },
+      {
+        "text": "digital page",
+        "is_correct": true
+      },
+      {
+        "text": "class poster",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "navigation, source attribution and accessible labels belongs under digital page.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “defined terms and concrete comparison”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “defined terms and concrete comparison”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-004",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting younger audience as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "formal report",
+        "is_correct": false
+      },
+      {
+        "text": "class poster",
+        "is_correct": false
+      },
+      {
+        "text": "younger audience",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "defined terms and concrete comparison belongs under younger audience.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “signposting, limited slide text, spoken reasoning”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “signposting, limited slide text, spoken reasoning”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-005",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting oral presentation as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "oral presentation",
+        "is_correct": true
+      },
+      {
+        "text": "formal report",
+        "is_correct": false
+      },
+      {
+        "text": "class poster",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "signposting, limited slide text, spoken reasoning belongs under oral presentation.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A different class analyses its results. A science organiser contains the entry “large model, concise findings, readable captions”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “large model, concise findings, readable captions”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-006",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting class poster as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "formal report",
+        "is_correct": false
+      },
+      {
+        "text": "class poster",
+        "is_correct": true
+      },
+      {
+        "text": "oral presentation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "large model, concise findings, readable captions belongs under class poster.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “method detail, raw/processed data, limitations”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “method detail, raw/processed data, limitations”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-007",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting formal report as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "class poster",
+        "is_correct": false
+      },
+      {
+        "text": "oral presentation",
+        "is_correct": false
+      },
+      {
+        "text": "formal report",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "method detail, raw/processed data, limitations belongs under formal report.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “scope and improvement”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “scope and improvement”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-008",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Limit/next question as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Limit/next question",
+        "is_correct": true
+      },
+      {
+        "text": "Question/prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "scope and improvement belongs under Limit/next question.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “claim + reasoning”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “claim + reasoning”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-009",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Conclusion as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Question/prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "Method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "claim + reasoning belongs under Conclusion.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A different class analyses its results. A science organiser contains the entry “pattern stated with data”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “pattern stated with data”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-010",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Finding as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Question/prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Method",
+        "is_correct": false
+      },
+      {
+        "text": "Finding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "pattern stated with data belongs under Finding.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “table/graph/model with units”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “table/graph/model with units”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-011",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Results as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Results",
+        "is_correct": true
+      },
+      {
+        "text": "Question/prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "table/graph/model with units belongs under Results.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “repeatable summary and variables”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “repeatable summary and variables”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-012",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Method as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Question/prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Method",
+        "is_correct": true
+      },
+      {
+        "text": "Results",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "repeatable summary and variables belongs under Method.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “focus”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “focus”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-013",
+      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Question/prediction as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Method",
+        "is_correct": false
+      },
+      {
+        "text": "Results",
+        "is_correct": false
+      },
+      {
+        "text": "Question/prediction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "focus belongs under Question/prediction.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A different class analyses its results. A review recommends, “Use models and concise cues.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A different class analyses its results. A review recommends, “Use models and concise cues.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slide becomes a paragraph wall",
+        "is_correct": true
+      },
+      {
+        "text": "Results displayed without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Conclusion repeats prediction only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Slide becomes a paragraph wall”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A team conducts an independent evidence review. A review recommends, “Attribute external material.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Attribute external material.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results displayed without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Sources and image/data origins omitted",
+        "is_correct": true
+      },
+      {
+        "text": "Conclusion repeats prediction only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Sources and image/data origins omitted”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6I06-T-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating_scientific_ideas_and_findings",
+    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Preserve accuracy.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “Preserve accuracy.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results displayed without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Conclusion repeats prediction only",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation changes facts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Audience adaptation changes facts”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S6H01-P-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a class investigation, students discuss the evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "collaboration",
+        "is_correct": true
+      },
+      {
+        "text": "replication",
+        "is_correct": false
+      },
+      {
+        "text": "scientific advance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "collaboration means people combining expertise and work.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student checks a science notebook. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "audio_prompt": "A student checks a science notebook. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "collaboration",
+        "is_correct": false
+      },
+      {
+        "text": "replication",
+        "is_correct": true
+      },
+      {
+        "text": "scientific advance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "replication means independent repetition or testing.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A group compares its evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "collaboration",
+        "is_correct": false
+      },
+      {
+        "text": "replication",
+        "is_correct": false
+      },
+      {
+        "text": "scientific advance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "scientific advance means improvement in explanation, method, measurement or application.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "At a science station, the class reviews its work. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify teams and prior contributions.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify teams and prior contributions.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student reviews a model. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "audio_prompt": "A student reviews a model. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Validate and calibrate it.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Validate and calibrate it.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Collaboration means agreement without critique”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Collaboration means agreement without critique”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Constructive challenge improves reliability.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Constructive challenge improves reliability.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “More data always better”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “More data always better”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Data quality and relevance matter.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data quality and relevance matter.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student checks a science notebook. A science organiser labels one part “Technology”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Technology”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-008",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Technology as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "field observers, technicians, analysts",
+        "is_correct": false
+      },
+      {
+        "text": "new sensor or imaging method",
+        "is_correct": true
+      },
+      {
+        "text": "standard formats and open methods",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Technology with new sensor or imaging method.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A group compares its evidence. A science organiser labels one part “Team roles”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Team roles”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-009",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Team roles as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new sensor or imaging method",
+        "is_correct": false
+      },
+      {
+        "text": "standard formats and open methods",
+        "is_correct": false
+      },
+      {
+        "text": "field observers, technicians, analysts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Team roles with field observers, technicians, analysts.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “Shared data”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “Shared data”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-010",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Shared data as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "standard formats and open methods",
+        "is_correct": true
+      },
+      {
+        "text": "new sensor or imaging method",
+        "is_correct": false
+      },
+      {
+        "text": "field observers, technicians, analysts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links Shared data with standard formats and open methods.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student reviews a model. A science organiser labels one part “Critique/replication”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “Critique/replication”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-011",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Critique/replication as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new sensor or imaging method",
+        "is_correct": false
+      },
+      {
+        "text": "other groups test findings",
+        "is_correct": true
+      },
+      {
+        "text": "field observers, technicians, analysts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links Critique/replication with other groups test findings.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Advance”. Which entry belongs with that label?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Advance”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-012",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Advance as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new sensor or imaging method",
+        "is_correct": false
+      },
+      {
+        "text": "field observers, technicians, analysts",
+        "is_correct": false
+      },
+      {
+        "text": "explanation becomes more precise or useful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links Advance with explanation becomes more precise or useful.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “more sensitive sensor”. Which entry belongs with that label?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “more sensitive sensor”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-013",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting more sensitive sensor as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "detect smaller changes",
+        "is_correct": true
+      },
+      {
+        "text": "analyse larger data sets",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate global observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links more sensitive sensor with detect smaller changes.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student checks a science notebook. A science organiser labels one part “faster computing”. Which entry belongs with that label?",
+    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “faster computing”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-014",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting faster computing as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "detect smaller changes",
+        "is_correct": false
+      },
+      {
+        "text": "analyse larger data sets",
+        "is_correct": true
+      },
+      {
+        "text": "coordinate global observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links faster computing with analyse larger data sets.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A group compares its evidence. A science organiser labels one part “remote communication”. Which entry belongs with that label?",
+    "audio_prompt": "A group compares its evidence. A science organiser labels one part “remote communication”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-015",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting remote communication as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "detect smaller changes",
+        "is_correct": false
+      },
+      {
+        "text": "analyse larger data sets",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate global observations",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The organiser links remote communication with coordinate global observations.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "At a science station, the class reviews its work. A science organiser labels one part “standardised database”. Which entry belongs with that label?",
+    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “standardised database”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-016",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting standardised database as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "combine evidence",
+        "is_correct": true
+      },
+      {
+        "text": "detect smaller changes",
+        "is_correct": false
+      },
+      {
+        "text": "analyse larger data sets",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The organiser links standardised database with combine evidence.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student reviews a model. A science organiser labels one part “new model”. Which entry belongs with that label?",
+    "audio_prompt": "A student reviews a model. A science organiser labels one part “new model”. Which entry belongs with that label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-017",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting new model as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "detect smaller changes",
+        "is_correct": false
+      },
+      {
+        "text": "generate testable predictions",
+        "is_correct": true
+      },
+      {
+        "text": "analyse larger data sets",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The organiser links new model with generate testable predictions.",
+      "hint": "Use the role of the labelled part, not just a repeated word."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. Why can collaboration improve science?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. Why can collaboration improve science?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It removes the need for methods",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees no disagreement",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise and independent checking strengthen evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different expertise and independent checking strengthen evidence is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a class investigation, students discuss the evidence. What should happen when a new sensor is introduced?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. What should happen when a new sensor is introduced?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It should be calibrated and validated",
+        "is_correct": true
+      },
+      {
+        "text": "Its readings should be accepted automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Old units should be ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It should be calibrated and validated is supported by the scientific relationship in the question.",
+      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "replication",
+        "is_correct": false
+      },
+      {
+        "text": "collaboration",
+        "is_correct": true
+      },
+      {
+        "text": "scientific advance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "collaboration means people combining expertise and work.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "collaboration",
+        "is_correct": false
+      },
+      {
+        "text": "scientific advance",
+        "is_correct": false
+      },
+      {
+        "text": "replication",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "replication means independent repetition or testing.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "scientific advance",
+        "is_correct": true
+      },
+      {
+        "text": "collaboration",
+        "is_correct": false
+      },
+      {
+        "text": "replication",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "scientific advance means improvement in explanation, method, measurement or application.",
+      "hint": "Match every important part of the description to the term."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify teams and prior contributions.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify teams and prior contributions.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-P-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one observation is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without collecting more evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Validate and calibrate it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Validate and calibrate it.",
+      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A new investigation report must be checked. A student chose “Its readings should be accepted automatically”. Reconsider this question using scientific evidence: What should happen when a new sensor is introduced?",
+    "audio_prompt": "A new investigation report must be checked. A student chose “Its readings should be accepted automatically”. Reconsider this question using scientific evidence: What should happen when a new sensor is introduced?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its readings should be accepted automatically",
+        "is_correct": false
+      },
+      {
+        "text": "It should be calibrated and validated",
+        "is_correct": true
+      },
+      {
+        "text": "Old units should be ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It should be calibrated and validated is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A different class analyses its results. A student chose “It removes the need for methods”. Reconsider this question using scientific evidence: Why can collaboration improve science?",
+    "audio_prompt": "A different class analyses its results. A student chose “It removes the need for methods”. Reconsider this question using scientific evidence: Why can collaboration improve science?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It removes the need for methods",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees no disagreement",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise and independent checking strengthen evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different expertise and independent checking strengthen evidence is the evidence-based choice.",
+      "hint": "Check the relationship in the question and reject the tempting misconception."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “generate testable predictions”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “generate testable predictions”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-003",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting new model as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "new model",
+        "is_correct": true
+      },
+      {
+        "text": "more sensitive sensor",
+        "is_correct": false
+      },
+      {
+        "text": "faster computing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "generate testable predictions belongs under new model.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “combine evidence”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “combine evidence”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-004",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting standardised database as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "more sensitive sensor",
+        "is_correct": false
+      },
+      {
+        "text": "standardised database",
+        "is_correct": true
+      },
+      {
+        "text": "faster computing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "combine evidence belongs under standardised database.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “coordinate global observations”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “coordinate global observations”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-005",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting remote communication as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "more sensitive sensor",
+        "is_correct": false
+      },
+      {
+        "text": "faster computing",
+        "is_correct": false
+      },
+      {
+        "text": "remote communication",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "coordinate global observations belongs under remote communication.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A different class analyses its results. A science organiser contains the entry “analyse larger data sets”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “analyse larger data sets”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-006",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting faster computing as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "faster computing",
+        "is_correct": true
+      },
+      {
+        "text": "more sensitive sensor",
+        "is_correct": false
+      },
+      {
+        "text": "remote communication",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analyse larger data sets belongs under faster computing.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “detect smaller changes”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “detect smaller changes”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-007",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting more sensitive sensor as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "faster computing",
+        "is_correct": false
+      },
+      {
+        "text": "more sensitive sensor",
+        "is_correct": true
+      },
+      {
+        "text": "remote communication",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "detect smaller changes belongs under more sensitive sensor.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “explanation becomes more precise or useful”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “explanation becomes more precise or useful”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-008",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Advance as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Technology",
+        "is_correct": false
+      },
+      {
+        "text": "Team roles",
+        "is_correct": false
+      },
+      {
+        "text": "Advance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "explanation becomes more precise or useful belongs under Advance.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A new investigation report must be checked. A science organiser contains the entry “other groups test findings”. Which heading best identifies its role?",
+    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “other groups test findings”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-009",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Critique/replication as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Critique/replication",
+        "is_correct": true
+      },
+      {
+        "text": "Technology",
+        "is_correct": false
+      },
+      {
+        "text": "Team roles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "other groups test findings belongs under Critique/replication.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A different class analyses its results. A science organiser contains the entry “standard formats and open methods”. Which heading best identifies its role?",
+    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “standard formats and open methods”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-010",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Shared data as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Technology",
+        "is_correct": false
+      },
+      {
+        "text": "Shared data",
+        "is_correct": true
+      },
+      {
+        "text": "Team roles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "standard formats and open methods belongs under Shared data.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A team conducts an independent evidence review. A science organiser contains the entry “field observers, technicians, analysts”. Which heading best identifies its role?",
+    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “field observers, technicians, analysts”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-011",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Team roles as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Technology",
+        "is_correct": false
+      },
+      {
+        "text": "Shared data",
+        "is_correct": false
+      },
+      {
+        "text": "Team roles",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "field observers, technicians, analysts belongs under Team roles.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “new sensor or imaging method”. Which heading best identifies its role?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “new sensor or imaging method”. Which heading best identifies its role?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-t-012",
+      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Technology as one part of the evidence."
+    },
+    "answers": [
+      {
+        "text": "Technology",
+        "is_correct": true
+      },
+      {
+        "text": "Team roles",
+        "is_correct": false
+      },
+      {
+        "text": "Shared data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "new sensor or imaging method belongs under Technology.",
+      "hint": "Identify what the entry does in the organiser, then select its heading."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A new investigation report must be checked. A review recommends, “Data quality and relevance matter.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A new investigation report must be checked. A review recommends, “Data quality and relevance matter.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Advance credited to one visible person only",
+        "is_correct": false
+      },
+      {
+        "text": "More data always better",
+        "is_correct": true
+      },
+      {
+        "text": "New technology assumed automatically accurate",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “More data always better”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A different class analyses its results. A review recommends, “Constructive challenge improves reliability.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A different class analyses its results. A review recommends, “Constructive challenge improves reliability.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Advance credited to one visible person only",
+        "is_correct": false
+      },
+      {
+        "text": "New technology assumed automatically accurate",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration means agreement without critique",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Collaboration means agreement without critique”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A team conducts an independent evidence review. A review recommends, “Validate and calibrate it.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Validate and calibrate it.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "New technology assumed automatically accurate",
+        "is_correct": true
+      },
+      {
+        "text": "Advance credited to one visible person only",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration means agreement without critique",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “New technology assumed automatically accurate”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  },
+  {
+    "id": "AC9S6H01-T-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "scientific_advances_through_collaboration_and_technology",
+    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Identify teams and prior contributions.” Which original claim most clearly needs that revision?",
+    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “Identify teams and prior contributions.” Which original claim most clearly needs that revision?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "New technology assumed automatically accurate",
+        "is_correct": false
+      },
+      {
+        "text": "Advance credited to one visible person only",
+        "is_correct": true
+      },
+      {
+        "text": "Collaboration means agreement without critique",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation corrects the claim “Advance credited to one visible person only”.",
+      "hint": "Match the revision to the specific reasoning error it fixes."
+    }
+  }
+]
