@@ -374,13 +374,39 @@
     }
   }
 
-  function drawHeader(doc, pageW, margin, printableCount) {
+  function drawHeader(doc, pageW, margin, printableCount, logoDataUrl) {
     const right = pageW - margin;
+    let brandX = margin;
+
+    if (logoDataUrl) {
+      try {
+        const props = doc.getImageProperties(logoDataUrl);
+        const logoSize = 12.5;
+        const scale = Math.min(logoSize / props.width, logoSize / props.height);
+        const width = props.width * scale;
+        const height = props.height * scale;
+        const format = String(props.fileType || "PNG").toUpperCase();
+
+        doc.addImage(
+          logoDataUrl,
+          format,
+          margin,
+          4.5,
+          width,
+          height,
+          undefined,
+          "FAST"
+        );
+        brandX = margin + width + 3.2;
+      } catch {
+        brandX = margin;
+      }
+    }
 
     doc.setFont("helvetica", "bold");
     doc.setFontSize(20);
     setText(doc, BLUE);
-    doc.text(BRAND, margin, 11.5);
+    doc.text(BRAND, brandX, 11.5);
 
     doc.setFontSize(12.5);
     setText(doc, TEXT);
@@ -752,7 +778,18 @@
 
     drawWatermark(doc, pageW, pageH);
 
-    const contentTop = drawHeader(doc, pageW, margin, questions.length);
+    const [imageMap, logoDataUrl] = await Promise.all([
+      preloadImages(questions),
+      imageToDataUrl("/icons/icon-512.png")
+        .then((dataUrl) => dataUrl || imageToDataUrl("/icons/apple-touch-icon.png")),
+    ]);
+    const contentTop = drawHeader(
+      doc,
+      pageW,
+      margin,
+      questions.length,
+      logoDataUrl
+    );
     const scoreY = pageH - 22.5;
     const contentBottom = scoreY - 5;
     const contentWidth = pageW - 2 * margin;
@@ -761,8 +798,6 @@
     // Equal-height rows use the entire printable area. This prevents the
     // "small text with a quarter page empty" problem.
     const blockH = available / questions.length;
-
-    const imageMap = await preloadImages(questions);
 
     questions.forEach((question, index) => {
       drawQuestion(

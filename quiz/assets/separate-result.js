@@ -6,14 +6,49 @@ document.addEventListener("DOMContentLoaded", () => {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
 
-  function printCertificate(data) {
+  const logoSources = [
+    "/icons/icon-512.png",
+    "/icons/apple-touch-icon.png"
+  ];
+
+  async function fetchImageDataUrl(url) {
+    try {
+      const response = await fetch(url, { credentials: "same-origin" });
+      if (!response.ok) return null;
+      const blob = await response.blob();
+      return await new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = () => resolve(null);
+        reader.readAsDataURL(blob);
+      });
+    } catch {
+      return null;
+    }
+  }
+
+  async function loadLogoDataUrl() {
+    for (const url of logoSources) {
+      const dataUrl = await fetchImageDataUrl(url);
+      if (dataUrl) return dataUrl;
+    }
+    return null;
+  }
+
+  async function printCertificate(data) {
     const certificateWindow = window.open("", "_blank");
     if (!certificateWindow) {
       window.alert("Please allow pop-ups to print the certificate.");
       return;
     }
 
-    certificateWindow.document.write(`<!DOCTYPE html>
+    try {
+      const logoDataUrl = await loadLogoDataUrl();
+      const logoMarkup = logoDataUrl
+        ? `<img class="certificate-logo" src="${escapeCertificateText(logoDataUrl)}" alt="">`
+        : "";
+
+      certificateWindow.document.write(`<!DOCTYPE html>
       <html lang="en-AU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
       <title>SkillrHub Completion Certificate</title>
       <style>
@@ -21,19 +56,24 @@ document.addEventListener("DOMContentLoaded", () => {
         *{box-sizing:border-box}
         html,body{margin:0;padding:0;font-family:Arial,sans-serif;color:#1f2937;background:#fff}
         .certificate{width:7.8in;min-height:9.75in;margin:0 auto;padding:.55in;display:flex;flex-direction:column;justify-content:center;border:8px solid #1a3a72;background:#fff;text-align:center;break-inside:avoid;page-break-inside:avoid;overflow:hidden}
+        .certificate-logo{display:block;width:1.05in;height:1.05in;margin:0 auto .15in;object-fit:contain}
         p{margin:.12in 0}.brand{color:#1a3a72;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
         h1{margin:.2in 0;font-size:34px}.student{margin:.2in 0;font-size:30px;font-weight:800;overflow-wrap:anywhere}
         h2{margin:.16in 0;font-size:24px;line-height:1.2;overflow-wrap:anywhere}.score{font-size:20px}
         @media print{html,body{width:7.8in;height:10.3in}.certificate{width:7.8in;min-height:9.75in;max-height:10.3in}}
       </style></head><body><section class="certificate">
-        <p class="brand">SkillrHub Learning</p><h1>Completion Certificate</h1><p>This certifies that</p>
+        ${logoMarkup}<p class="brand">SkillrHub Learning</p><h1>Completion Certificate</h1><p>This certifies that</p>
         <p class="student">${escapeCertificateText(data.studentName || "Student")}</p><p>successfully completed</p>
         <h2>${escapeCertificateText(data.quizTitle || data.quizLabel || "SkillrHub test")}</h2>
         <p class="score">Score: ${Number(data.percentage) || 0}%</p><p>skillrhub.com</p>
       </section></body></html>`);
-    certificateWindow.document.close();
-    certificateWindow.focus();
-    certificateWindow.print();
+      certificateWindow.document.close();
+      certificateWindow.focus();
+      certificateWindow.print();
+    } catch (error) {
+      console.error("Certificate print failed:", error);
+      window.alert("The certificate could not be prepared right now.");
+    }
   }
 
   function copyLink(value) {
@@ -140,7 +180,9 @@ document.addEventListener("DOMContentLoaded", () => {
       certificateButton.remove();
     } else {
       certificateButton.removeAttribute("onclick");
-      certificateButton.addEventListener("click", () => printCertificate(data));
+      certificateButton.addEventListener("click", () => {
+        void printCertificate(data);
+      });
     }
   }
 
