@@ -120,13 +120,14 @@ def update_quiz_page(path: Path, code: str, title: str, bank_name: str, guide: d
     config = {
         "storageKey": f"{code}{'Practice' if is_practice else 'Test'}Best",
         "skillCode": code,
-        "maxQuestions": 8,
+        "maxQuestions": 8 if is_practice else 12,
         "shuffleQuestions": True,
         "shuffleAnswers": True,
         "avoidSameCorrectPosition": True,
         "questionCycle": True,
         "questionCycleStorageKey": f"{code}:{bank_name}:unseen-cycle-v2",
-        "preReadSeconds": 60 if is_practice else 0,
+        "preReadSeconds": 0,
+        "preModuleNotesRequired": True,
         "requireStudentName": not is_practice,
         "certificateOnPass": not is_practice,
         "passingPercent": 75,
@@ -149,7 +150,16 @@ def update_quiz_page(path: Path, code: str, title: str, bank_name: str, guide: d
         source,
         count=1,
     )
-    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=113', source)
+    notes_script = '<script src="/quiz/assets/foundation-maths-pre-module-notes.js?v=20260814-1"></script>'
+    if notes_script not in source:
+        source = re.sub(
+            r'(<script src="/quiz/assets/script\.js\?v=\d+"></script>)',
+            notes_script + r'\1',
+            source,
+            count=1,
+        )
+    source = re.sub(r'/quiz/assets/style\.css\?v=\d+', '/quiz/assets/style.css?v=114', source)
+    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=114', source)
     path.write_text(source, encoding="utf-8")
 
 

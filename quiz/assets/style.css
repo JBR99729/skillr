@@ -1051,6 +1051,127 @@ h3 {
   padding-left: 1.25rem;
 }
 
+/* =========================================================
+   REQUIRED PRE-MODULE CONCEPT REFRESHER
+   ========================================================= */
+
+.pre-module-screen {
+  width: 100%;
+}
+
+.pre-module-card {
+  width: min(760px, 100%);
+  margin: 20px auto 0;
+  padding: clamp(22px, 5vw, 48px);
+  text-align: left;
+}
+
+.pre-module-brand,
+.pre-module-context,
+.pre-module-time {
+  margin: 0;
+}
+
+.pre-module-brand {
+  color: var(--primary);
+  font-size: 0.8rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.pre-module-context {
+  margin-top: 10px;
+  color: var(--text);
+  font-weight: 800;
+}
+
+.pre-module-card h1 {
+  margin-bottom: 8px;
+  font-size: clamp(2rem, 5vw, 3rem);
+}
+
+.pre-module-time {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.pre-module-section {
+  min-width: 0;
+  margin-top: 18px;
+  padding: clamp(16px, 3vw, 22px);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #f8fafc;
+}
+
+.pre-module-section h2 {
+  margin: 0 0 8px;
+  color: #17335f;
+  font-size: clamp(1.1rem, 3vw, 1.35rem);
+}
+
+.pre-module-section p,
+.pre-module-section li {
+  color: var(--text);
+  font-size: clamp(1rem, 2.3vw, 1.08rem);
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+.pre-module-section p {
+  margin: 0;
+}
+
+.pre-module-big-idea {
+  border-color: #b9caf5;
+  background: #eef4ff;
+}
+
+.pre-module-section ol {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 1.65rem;
+}
+
+.pre-module-section li {
+  padding-left: 4px;
+}
+
+.pre-module-section li::marker {
+  color: var(--primary);
+  font-weight: 900;
+}
+
+.pre-module-memory-clue {
+  border-color: #e5c66f;
+  background: #fff8df;
+}
+
+.pre-module-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.pre-module-actions .button {
+  flex: 1 1 220px;
+}
+
+@media (max-width: 520px) {
+  .pre-module-card {
+    margin-top: 8px;
+    border-radius: 16px;
+  }
+
+  .pre-module-actions .button {
+    flex-basis: 100%;
+    width: 100%;
+  }
+}
+
 .review-status {
   font-weight: 800;
 }

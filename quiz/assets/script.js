@@ -270,6 +270,7 @@ document.addEventListener("DOMContentLoaded", () => {
     questionCycle: false,
     avoidSameCorrectPosition: false,
     preReadSeconds: 0,
+    preModuleNotesRequired: false,
     requireStudentName: false,
     certificateOnPass: false,
     storageKey: "skillrQuizBestScore",
@@ -525,6 +526,9 @@ document.addEventListener("DOMContentLoaded", () => {
   let preReadPanel = null;
   let preReadComplete = false;
   let preReadTimerId = null;
+  let preModuleRecord = null;
+  let preModuleComplete = false;
+  let preModuleReadButton = null;
   let cycleProgressElement = null;
   let currentCycleKey = null;
   let currentCycleTotalSets = null;
@@ -540,6 +544,188 @@ document.addEventListener("DOMContentLoaded", () => {
     if (readAloudAvailable) {
       window.speechSynthesis.cancel();
     }
+  }
+
+  function getPreModuleRecord() {
+    const code = String(config.skillCode || "").toUpperCase();
+    const registry = window.SkillrPreModuleNotes;
+    const record = registry && typeof registry === "object"
+      ? registry[code]
+      : null;
+    const notes = record?.pre_module_notes;
+    const valid = Boolean(
+      record &&
+      record.code === code &&
+      typeof record.topic === "string" &&
+      record.topic.trim() &&
+      notes &&
+      Number.isInteger(notes.target_read_time_seconds) &&
+      notes.target_read_time_seconds >= 60 &&
+      notes.target_read_time_seconds <= 75 &&
+      notes.title === "Read This Before You Start!" &&
+      typeof notes.big_idea === "string" &&
+      notes.big_idea.trim() &&
+      Array.isArray(notes.key_rules) &&
+      notes.key_rules.length >= 2 &&
+      notes.key_rules.length <= 3 &&
+      notes.key_rules.every((rule) => typeof rule === "string" && rule.trim()) &&
+      typeof notes.memory_clue === "string" &&
+      notes.memory_clue.trim()
+    );
+
+    if (!valid && (record || config.preModuleNotesRequired)) {
+      console.error(`Pre-module notes are missing or invalid for ${code || "this quiz"}.`);
+    }
+
+    return valid ? record : null;
+  }
+
+  function getPreModuleSpeechText() {
+    return normaliseSpeechText(
+      [...document.querySelectorAll(
+        "#preModuleScreen [data-pre-module-speech]"
+      )]
+        .map((element) => element.innerText)
+        .join(" ")
+    );
+  }
+
+  function readPreModuleNotes() {
+    if (!readAloudAvailable || !preModuleRecord || !preModuleReadButton) {
+      return;
+    }
+
+    stopReadAloud();
+    const utterance = new window.SpeechSynthesisUtterance(
+      getPreModuleSpeechText()
+    );
+    utterance.lang = "en-AU";
+    preModuleReadButton.textContent = "Stop reading";
+    utterance.addEventListener("end", () => {
+      preModuleReadButton.textContent = "Read this screen aloud";
+    });
+    utterance.addEventListener("error", () => {
+      preModuleReadButton.textContent = "Read this screen aloud";
+    });
+    window.speechSynthesis.speak(utterance);
+  }
+
+  function buildPreModuleScreen(record) {
+    const notes = record.pre_module_notes;
+    const screen = document.createElement("section");
+    screen.id = "preModuleScreen";
+    screen.className = "screen pre-module-screen";
+    screen.hidden = true;
+    screen.setAttribute("aria-labelledby", "preModuleTitle");
+
+    const card = document.createElement("div");
+    card.className = "card pre-module-card";
+
+    const prose = document.createElement("div");
+    prose.className = "pre-module-prose";
+
+    const brand = document.createElement("p");
+    brand.className = "pre-module-brand";
+    brand.textContent = "SkillrHub • Read Before You Start";
+
+    const context = document.createElement("p");
+    context.className = "pre-module-context";
+    context.textContent = `${record.code} • ${record.topic}`;
+
+    const title = document.createElement("h1");
+    title.id = "preModuleTitle";
+    title.tabIndex = -1;
+    title.textContent = notes.title;
+
+    const time = document.createElement("p");
+    time.className = "pre-module-time";
+    time.textContent = `About ${notes.target_read_time_seconds} seconds`;
+
+    const bigIdea = document.createElement("section");
+    bigIdea.className = "pre-module-section pre-module-big-idea";
+    const bigIdeaTitle = document.createElement("h2");
+    bigIdeaTitle.textContent = "The Big Idea";
+    const bigIdeaText = document.createElement("p");
+    bigIdeaText.dataset.preModuleSpeech = "true";
+    bigIdeaText.textContent = notes.big_idea;
+    bigIdea.append(bigIdeaTitle, bigIdeaText);
+
+    const keyRules = document.createElement("section");
+    keyRules.className = "pre-module-section";
+    const keyRulesTitle = document.createElement("h2");
+    keyRulesTitle.textContent = "Key Rules";
+    const keyRulesList = document.createElement("ol");
+    notes.key_rules.forEach((rule) => {
+      const item = document.createElement("li");
+      item.dataset.preModuleSpeech = "true";
+      item.textContent = rule;
+      keyRulesList.appendChild(item);
+    });
+    keyRules.append(keyRulesTitle, keyRulesList);
+
+    const memoryClue = document.createElement("section");
+    memoryClue.className = "pre-module-section pre-module-memory-clue";
+    const memoryTitle = document.createElement("h2");
+    memoryTitle.textContent = "Visual Memory Clue";
+    const memoryText = document.createElement("p");
+    memoryText.dataset.preModuleSpeech = "true";
+    memoryText.textContent = notes.memory_clue;
+    memoryClue.append(memoryTitle, memoryText);
+
+    const actions = document.createElement("div");
+    actions.className = "pre-module-actions";
+
+    if (readAloudAvailable) {
+      preModuleReadButton = document.createElement("button");
+      preModuleReadButton.type = "button";
+      preModuleReadButton.className = "button button-secondary";
+      preModuleReadButton.textContent = "Read this screen aloud";
+      preModuleReadButton.addEventListener("click", () => {
+        if (window.speechSynthesis.speaking) {
+          stopReadAloud();
+          preModuleReadButton.textContent = "Read this screen aloud";
+          return;
+        }
+        readPreModuleNotes();
+      });
+      actions.appendChild(preModuleReadButton);
+    }
+
+    const continueButton = document.createElement("button");
+    continueButton.id = "preModuleContinueButton";
+    continueButton.type = "button";
+    continueButton.className = "button button-primary";
+    continueButton.textContent = isPracticePage
+      ? "Continue to Practice"
+      : "Continue to Test";
+    continueButton.addEventListener("click", () => {
+      stopReadAloud();
+      preModuleComplete = true;
+      beginQuiz();
+    });
+    actions.appendChild(continueButton);
+
+    prose.append(
+      brand,
+      context,
+      title,
+      time,
+      bigIdea,
+      keyRules,
+      memoryClue
+    );
+    card.append(prose, actions);
+    screen.appendChild(card);
+    elements.startScreen.insertAdjacentElement("afterend", screen);
+    return screen;
+  }
+
+  function showPreModuleScreen() {
+    stopReadAloud();
+    showScreen(elements.preModuleScreen);
+    window.requestAnimationFrame(() => {
+      document.getElementById("preModuleTitle")?.focus();
+    });
   }
 
   function updateReadAloudControl() {
@@ -1040,9 +1226,10 @@ document.addEventListener("DOMContentLoaded", () => {
   function showScreen(screenToShow) {
     [
       elements.startScreen,
+      elements.preModuleScreen,
       elements.quizScreen,
       elements.resultScreen
-    ].forEach((screen) => {
+    ].filter(Boolean).forEach((screen) => {
       const isActive = screen === screenToShow;
 
       screen.hidden = !isActive;
@@ -1132,6 +1319,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "startScreenMessage";
       messageElement.className =
         "feedback incorrect";
+      messageElement.setAttribute(
+        "role",
+        "alert"
+      );
+      messageElement.setAttribute(
+        "aria-live",
+        "assertive"
+      );
+      messageElement.tabIndex = -1;
 
       elements.startButton.insertAdjacentElement(
         "beforebegin",
@@ -1256,6 +1452,21 @@ document.addEventListener("DOMContentLoaded", () => {
         "Please enter the student name before starting."
       );
       ensureStudentNameInput()?.focus();
+      return;
+    }
+
+    if (config.preModuleNotesRequired && !preModuleRecord) {
+      showStartMessage(
+        "The required Read Before You Start note could not be loaded. Please refresh the page."
+      );
+      document.getElementById(
+        "startScreenMessage"
+      )?.focus();
+      return;
+    }
+
+    if (preModuleRecord && !preModuleComplete) {
+      showPreModuleScreen();
       return;
     }
 
@@ -3806,6 +4017,10 @@ function renderImageDragState(
      ========================================================= */
 
   ensureStudentNameInput();
+  preModuleRecord = getPreModuleRecord();
+  if (preModuleRecord) {
+    elements.preModuleScreen = buildPreModuleScreen(preModuleRecord);
+  }
   renderCycleProgress();
 
   showScreen(
@@ -3960,6 +4175,21 @@ function renderImageDragState(
     ) {
       event.preventDefault();
       startQuiz();
+      return;
+    }
+
+    if (
+      isCurrentScreen(
+        elements.preModuleScreen
+      ) &&
+      !event.target?.closest?.(
+        "a, button, input, textarea, select"
+      )
+    ) {
+      event.preventDefault();
+      document.getElementById(
+        "preModuleContinueButton"
+      )?.click();
       return;
     }
 
