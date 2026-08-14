@@ -1,107 +1,28 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9s7h01-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "investigate and represent balanced and unbalanced forces, including…",
-      "use particle theory to describe the arrangement of particles in a substance,…",
-      "use a particle model to describe differences between pure substances and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "investigate how cultural perspectives and world views influence the…",
-      "exploring how scientists are re-examining the relationships between organisms…",
-      "examine how proposed scientific responses to contemporary issues may impact…",
-      "explore the role of science communication in informing individual viewpoints…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "plan and conduct reproducible investigations to answer questions and test…",
-      "researching developments in the understanding of astronomy, such as the…",
-      "select and use equipment to generate and record data with precision, using…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "investigating how aeronautical engineers’ understanding of the nature of the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "write and create texts to communicate ideas, findings and arguments for…",
-      "observing and identifying the similarities and differences of particular…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "creating and modifying a dichotomous key to classify organisms into groups…",
-      "investigating how aeronautical engineers’ understanding of the nature of the…",
-      "naming and classifying species using scientific conventions from the Linnaean…",
-      "considering the reasons for classifying living things, such as identification…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "examining how biological classification has changed over time through…",
-      "using provided dichotomous keys to identify organisms surveyed on a field trip",
-      "investigating how aeronautical engineers’ understanding of the nature of the…",
-      "analysing food webs to show feeding relationships between organisms in an…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "modelling how energy flows into and out of an ecosystem via the pathways of…",
-      "predicting the effects on local ecosystems when living things such…",
-      "examining how events such as seasonal changes, destruction of habitat or…",
-      "explain how new evidence or different perspectives can lead to changes in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  }
+const q=(id,question,answers,correct,explanation,hint)=>({id,type:"single",question,answers,correct,explanation,hint});
+window.quizQuestions=[
+q("ac9s7h01-p01","A new fossil has features that look partly like an older reptile group and partly like early birds. What is the strongest scientific response?",["Revise the classification if the fossil evidence is reliable and fits with other evidence","Ignore the fossil because classifications should not change once printed in textbooks","Rename every reptile as a bird because one fossil has mixed features","Choose the oldest classification because older ideas are always more accurate"],0,"Scientific knowledge can change when reliable new evidence shows that an existing explanation or classification is incomplete.","Look for the option that uses evidence to improve, not reject, scientific knowledge."),
+q("ac9s7h01-p02","Scientists once grouped two animals together because they looked alike. DNA evidence later showed they are not close relatives. What does this show?",["Appearance is the only evidence scientists should use","Different types of evidence can lead scientists to revise relationships between organisms","DNA evidence automatically proves every older observation was useless","Animals that look alike must always have the same ancestor"],1,"New evidence, such as DNA data, can change scientific understanding of how organisms are related.","Compare surface features with newer evidence from inside cells."),
+q("ac9s7h01-p03","A student says, 'Science keeps changing, so it must be unreliable.' Which reply is most accurate?",["Science changes randomly whenever scientists vote","Science is unreliable unless it never changes","Science improves when explanations are tested against better evidence","Science only changes when technology breaks older equipment"],2,"Changing a scientific idea because of stronger evidence is a strength of science, not a weakness.","Think about whether change is based on evidence or opinion."),
+q("ac9s7h01-p04","Two teams measure the length of a solar year using different instruments. The newer method gives a more precise value. What should scientists do?",["Keep the less precise value because it was calculated first","Reject both values because measurements should never differ","Use only the value that is easier to remember","Compare methods and update the accepted value if the newer evidence is more reliable"],3,"More precise instruments can improve measurements and lead to updated scientific knowledge.","The best answer checks the method before changing the conclusion."),
+q("ac9s7h01-p05","A traditional ecological knowledge record says a plant flowers after a seasonal wind arrives. Scientists compare this with long-term weather and flowering data. Why is this useful?",["Different perspectives can suggest patterns that scientists can test with evidence","Cultural knowledge replaces the need for data collection","Only laboratory evidence can ever be used in science","Seasonal observations cannot help scientific investigations"],0,"Different perspectives can guide useful questions and become part of evidence-based scientific investigation.","Look for respectful testing of an observation."),
+q("ac9s7h01-p06","A classification key puts a newly discovered organism in one group, but microscopic evidence shows it has structures typical of another group. What is the best next step?",["Delete the organism from the classification system","Review the classification using the new microscopic evidence","Pretend the microscope result was not collected","Classify it by colour because colour is easiest to observe"],1,"New observations can lead scientists to refine or change classification decisions.","The strongest answer uses the new evidence, not convenience."),
+q("ac9s7h01-p07","Which situation is the clearest example of scientific knowledge changing because of new evidence?",["A student chooses a different colour for a science poster","A textbook is reprinted with a brighter cover","Astronomers update a model of planetary motion after repeated observations do not match the old model","A class votes that one animal is more interesting than another"],2,"A model should be revised when repeated observations show that it does not explain the evidence well enough.","Find the option where evidence challenges an old explanation."),
+q("ac9s7h01-p08","A scientist claims a new species has been found after one blurry photograph. What should happen before the claim changes classification?",["The claim should be accepted immediately because new discoveries are exciting","All existing species should be renamed just in case","The photograph should replace physical evidence and DNA data","More reliable evidence should be collected and checked by other scientists"],3,"Major changes to scientific knowledge require reliable evidence that can be checked and replicated.","Ask whether one weak piece of evidence is enough."),
+q("ac9s7h01-p09","Early astronomers predicted eclipses using careful sky observations. Later, mathematical models improved those predictions. What does this demonstrate?",["Scientific explanations can become more accurate when observations and models improve","Astronomy stopped being science once mathematics was used","Older observations have no value once newer models exist","Eclipses happen because scientists predict them"],0,"Scientific knowledge can develop from careful observation to more precise predictive models.","Look for improvement over time, not replacement of all past work."),
+q("ac9s7h01-p10","A museum display says whales were once classified mainly by body shape, but fossil and DNA evidence changed ideas about their ancestry. Which idea best fits this example?",["Scientific classifications can be refined as different lines of evidence are combined","Large animals cannot be classified using evidence","DNA evidence is useful only for animals that live on land","Fossils are interesting but cannot affect scientific ideas"],1,"Combining fossil, anatomical and DNA evidence can change explanations of relationships between organisms.","The best answer combines evidence types."),
+q("ac9s7h01-p11","A student compares two explanations for the same natural event. One uses repeated measurements; the other uses a guess. Which should be preferred?",["The guess, because it is simpler","The older explanation, even if it lacks evidence","The explanation supported by repeated measurements","The explanation written in the most confident tone"],2,"Scientific explanations are stronger when they are supported by repeatable evidence.","Confidence is not the same as evidence."),
+q("ac9s7h01-p12","New satellite images reveal a landform that was not visible from the ground. Scientists update their map of the region. Why is this reasonable?",["Maps should change every year even without new evidence","Satellite images are decorative rather than scientific","Ground observations are always wrong","New technology can reveal evidence that improves scientific representations"],3,"Technology can provide new evidence that changes scientific representations and explanations.","Think about what new tools allow scientists to observe."),
+q("ac9s7h01-p13","Which phrase best describes a scientific model?",["A representation that can be improved when evidence shows its limits","A final answer that can never be changed","A picture used only to make science attractive","A personal opinion that does not need testing"],0,"Scientific models represent ideas and can be refined when evidence shows they are incomplete.","Models are useful, but they are not unchangeable truths."),
+q("ac9s7h01-p14","A group of scientists disagrees about how to classify an organism. Which action is most scientific?",["Compare the evidence each group is using and test which classification explains more observations","Choose the classification from the loudest scientist","Stop classifying organisms because disagreement means failure","Use the classification that gives the organism the shortest name"],1,"Scientific disagreement should be resolved by comparing evidence and explanatory power.","Disagreement is useful when it leads to better evidence checks."),
+q("ac9s7h01-p15","A student finds that an old science book says the universe is smaller than modern estimates. What is the best explanation?",["Science books are always wrong","Modern estimates may use improved instruments and evidence","The universe grew because the book was printed","Scientists changed the number to make it harder to remember"],2,"Improved instruments and observations can change estimates in astronomy.","Look for a change caused by better measurement."),
+q("ac9s7h01-p16","Why do scientists usually require peer review before accepting a major new claim?",["It lets scientists hide evidence from students","It makes every new claim true automatically","It prevents scientific ideas from ever changing","It allows other experts to check the evidence, method and reasoning"],3,"Peer review helps test whether a claim is supported by sound evidence and reasoning.","Think about checking quality before accepting change."),
+q("ac9s7h01-p17","A new microscope shows that two microorganisms have very different cell structures, even though they look similar at low magnification. What might change?",["Scientists may revise how the microorganisms are grouped","Scientists must stop using microscopes","The organisms become unrelated to all living things","Low-power observations become illegal"],0,"New technology can reveal evidence that changes classification.","The key idea is a better observation changing a grouping."),
+q("ac9s7h01-p18","Which statement best compares evidence and perspective in science?",["Perspective decides the answer, and evidence is optional","A perspective can shape the question, but evidence is needed to support the explanation","Evidence is useful only if every scientist has the same perspective","Scientific explanations should ignore all perspectives and observations"],1,"Different perspectives can influence questions, but scientific explanations still need evidence.","Separate the source of a question from the support for an answer."),
+q("ac9s7h01-p19","Why might a scientific name or classification change over time?",["Because names must change every ten years","Because scientists prefer confusing students","Because new evidence shows the organism is related differently than first thought","Because common names are always more accurate"],2,"Classification can change when new evidence alters understanding of relationships.","Think about relationships between organisms, not fashion in names."),
+q("ac9s7h01-p20","A class reads that early calendars used the Sun and stars, while modern calendars use more precise astronomical data. What does this show?",["Calendars are not connected to science","Old observations should be mocked rather than studied","The Sun changed its movement after modern instruments were invented","Scientific knowledge can build on earlier observations and become more precise"],3,"Science often builds on earlier observations while improving precision with better data and models.","The best answer values both older observation and improved evidence."),
+q("ac9s7h01-p21","Which claim would be strongest in a science report about changing classification?",["The organism should move groups because DNA, body structure and fossil evidence all support the change","The organism should move groups because the new group sounds better","The organism should stay where it is because change is confusing","The organism should be placed in every group so no one disagrees"],0,"A strong scientific claim uses multiple lines of relevant evidence.","Look for a claim backed by several evidence types."),
+q("ac9s7h01-p22","A new idea explains all the evidence explained by the old idea and also explains observations the old idea could not. How should scientists treat it?",["Consider accepting it if the evidence and reasoning are strong","Reject it because older ideas are always safer","Accept it without testing because it is new","Keep both ideas equally even if one explains more evidence"],1,"A new explanation becomes stronger when it explains more evidence and survives testing.","Newness is not enough; explanatory power and evidence matter."),
+q("ac9s7h01-p23","Which classroom investigation best matches AC9S7H01?",["Measuring the temperature of water every minute without discussing ideas","Testing which paper towel absorbs more water","Comparing old and new models of the solar system and explaining what evidence caused the change","Drawing a colourful title page for a science folder"],2,"The task asks students to explain how evidence caused scientific ideas to change.","Choose the task about evidence changing knowledge."),
+q("ac9s7h01-p24","Why should science teaching include examples from different cultures and time periods?",["Because all explanations from the past are equally correct today","Because culture decides whether evidence is true","Because modern science cannot use old observations","Because different perspectives can show how questions, observations and explanations develop"],3,"Different perspectives can help students understand how scientific questions and explanations develop over time.","Look for the answer that respects perspectives while keeping evidence central.")
 ];
