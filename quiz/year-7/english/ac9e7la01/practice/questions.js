@@ -1,107 +1,28 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9e7la01-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "understand how language expresses and creates personal and social identities",
-      "understand how complex and compound-complex sentences can be used to…",
-      "understand how consistency of tense through verbs and verb groups achieves…",
-      "analyse how techniques such as vectors, angle and/or social distance in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "investigate the role of vocabulary in building specialist and technical…",
-      "understanding local idioms and discussing their connection with personal and…",
-      "understand the use of punctuation including colons and brackets to support…",
-      "identify and explore ideas, points of view, characters, events and/or issues…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "form an opinion about characters, settings and events in texts, identifying…",
-      "explain the ways that literary devices and language features such as…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "discuss the aesthetic and social value of literary texts using relevant and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify and explain the ways that characters, settings and events combine to…",
-      "identify and explain how literary devices create layers of meaning in texts…",
-      "create and edit literary texts that experiment with language features and…",
-      "developing dialogue that reveals character in comics, cartoons and animations"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "understand how language expresses and creates personal and social identities",
-      "explain the effect of current technology on reading, creating and responding…",
-      "use interaction skills when discussing and presenting ideas and information…",
-      "analyse the ways in which language features shape meaning and vary according…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "explain the structure of ideas such as the use of taxonomies, cause and…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal texts, selecting…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver presentations for purposes and audiences…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "building knowledge about words of evaluation, including words to express…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  },
-  {
-    "id": "ac9e7la01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "analysing how evaluative language can be used to assess the qualities of a…",
-      "recognising how evaluative language is used to critically assess the validity…",
-      "examining the structures of book or film reviews and how they might move from…",
-      "understand how language expresses and creates personal and social identities"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA01: understand how language expresses and creates personal and social identities."
-  }
+const q=(id,question,answers,correct,explanation,hint)=>({id,type:"single",question,answers,correct,explanation,hint});
+window.quizQuestions=[
+q("ac9e7la01-p01","A character says, 'Mum reckons I'm the quiet one, but at soccer I'm the captain who calls every play.' What does this language mainly show?",["Language can show different parts of a person's identity in different settings","The character never speaks at home","Soccer language is always informal and incorrect","The character has no personal identity"],0,"The contrast between 'quiet one' and 'captain who calls every play' shows identity changing across family and team contexts.","Look for how the speaker presents self in two situations."),
+q("ac9e7la01-p02","In a school speech, a student says, 'As a proud Ngunnawal learner, I want our stories named, not hidden.' Which language choice most strongly creates social identity?",["The phrase 'school speech'","The phrase 'proud Ngunnawal learner'","The word 'want'","The comma after learner"],1,"'Proud Ngunnawal learner' links the speaker to culture, place and community identity.","Find the words that connect the speaker to a group."),
+q("ac9e7la01-p03","A teenager texts, 'Can't come rn, training with the squad.' What identity is mainly created by 'rn' and 'squad'?",["Formal workplace identity","Historical narrator identity","Peer-group youth identity","Scientific expert identity"],2,"Abbreviated texting language and the word 'squad' create an informal peer identity.","Notice the register and group language."),
+q("ac9e7la01-p04","A narrator writes, 'I adjusted my tie, checked the agenda and welcomed the visitors.' What identity is suggested by this language?",["A careless child avoiding responsibility","A sporting fan at a match","A fantasy creature in disguise","A formal organiser or leader"],3,"Words such as 'tie', 'agenda' and 'welcomed the visitors' suggest a formal organising role.","Look for the social role implied by the nouns and actions."),
+q("ac9e7la01-p05","Which sentence best shows language creating a team identity?",["We trained, we trusted, we turned up for each other.","I placed the book on the table.","The window opened at six o'clock.","A pencil rolled across the desk."],0,"The repeated 'we' and shared actions create a collective team identity.","Look for group pronouns and shared values."),
+q("ac9e7la01-p06","A character says, 'At home I'm Mei-Ling, but online I use M-L because people stop asking how to say it.' What issue is shown?",["Spelling has no link to identity","Name choices can reflect pressure, belonging and personal identity","Online names are always more accurate than real names","The character dislikes all language"],1,"The change from a full name to initials shows how language choices can be shaped by social pressure and identity.","Think about what names signal."),
+q("ac9e7la01-p07","Which phrase most clearly signals a formal public identity?",["Hey, chuck us the ball","On behalf of the committee, I welcome you","Nah, I'm good","That snack is epic"],2,"'On behalf of the committee, I welcome you' uses formal register and identifies the speaker as a representative.","Choose the phrase suited to an official role."),
+q("ac9e7la01-p08","A blogger writes, 'We bookworms know the smell of a library is basically perfume.' What identity is being created?",["A reader community identity","A medical expert identity","A person who dislikes books","A sports coach identity"],3,"'We bookworms' creates an inclusive identity for people who love reading.","Notice who is included by 'we'."),
+q("ac9e7la01-p09","Which change would make the sentence sound more like a young peer speaking informally? Original: 'I am extremely pleased with the result.'",["I'm so happy with how it turned out!","The result was recorded accurately.","I acknowledge the pleasing result.","One is pleased by the outcome."],0,"The contraction, intensifier and exclamation create a more informal youth-like voice.","Look for natural spoken informality."),
+q("ac9e7la01-p10","A character says, 'Sir, may I please explain my answer?' What does the language mostly suggest?",["The speaker is using respectful classroom language","The speaker is insulting the teacher","The speaker is texting a close friend","The speaker is refusing to participate"],1,"'Sir' and 'may I please' create a respectful student identity in a classroom context.","Identify the relationship between speaker and listener."),
+q("ac9e7la01-p11","A group slogan says, 'Our river, our responsibility.' How does language create identity here?",["It uses rhyme to hide the topic","It uses 'our' to connect people to a shared place and duty","It avoids any sense of belonging","It presents the river as a person speaking"],2,"The repeated possessive 'our' builds a shared community identity around caring for the river.","Watch the pronoun."),
+q("ac9e7la01-p12","Which sentence best shows a character shifting identity between settings?",["In the lab I used precise terms, but with my cousins I joked in our home slang.","The chair was blue and wooden.","The bell rang at lunchtime.","The road curved beside the oval."],3,"The sentence contrasts scientific language with family slang, showing identity shifting across settings.","Look for two contexts and two language styles."),
+q("ac9e7la01-p13","In a comic, a superhero says, 'Citizens, remain calm. I will protect this city.' Which identity is created?",["A public protector with authority","A shy student asking for help","A casual friend sending a text","A shopkeeper advertising bread"],0,"'Citizens', 'remain calm' and 'protect this city' create an authoritative protector identity.","Look at how the speaker positions themselves."),
+q("ac9e7la01-p14","A student writes, 'My Nonna says mangia before every meal, and somehow that word tastes like home.' What does the Italian word help express?",["A random spelling mistake","Cultural and family identity","A dislike of family traditions","A formal legal identity"],1,"Using 'Nonna' and 'mangia' connects language to family culture and belonging.","Think about what inherited words can carry."),
+q("ac9e7la01-p15","Which option explains how slang can create social identity?",["Slang always makes writing incorrect","Slang can signal membership of a peer, cultural or interest group","Slang removes all meaning from a sentence","Slang is used only by adults in formal speeches"],2,"Slang can help speakers show belonging to particular groups and contexts.","Look for belonging, not correctness only."),
+q("ac9e7la01-p16","A narrator describes herself as 'the scholarship kid from the flats who learned to sound posh for interviews.' What is language doing?",["Showing how speech can be adjusted to fit social expectations","Showing that interviews have no language rules","Proving that identity is only about money","Avoiding any link between language and society"],3,"'Learned to sound posh' shows language being adjusted to fit social expectations and identity pressures.","Notice the link between speech style and social context."),
+q("ac9e7la01-p17","Which sentence best creates an expert scientific identity?",["The sample produced a measurable reaction after heating.","Bro, that thing went fizzy.","It was, like, totally weird.","Chuck it in and see what happens."],0,"Precise terms such as 'sample', 'measurable reaction' and 'heating' create an expert scientific voice.","Look for technical precision."),
+q("ac9e7la01-p18","A student changes 'kids like us don't win prizes' to 'students from our suburb have earned recognition before.' What has changed?",["The sentence now creates a more confident collective identity","The meaning is exactly the same in tone and identity","The sentence becomes less respectful","The second version removes all group identity"],1,"The revised sentence shifts from limiting language to a more confident collective identity.","Compare how each version positions the group."),
+q("ac9e7la01-p19","Which word choice most clearly creates a respectful relationship with an elder?",["Whatever","Oldie","Elder Aunty Mara","Random person"],2,"'Elder Aunty Mara' uses respectful cultural and relational naming.","Look for respectful naming, not just description."),
+q("ac9e7la01-p20","A character says, 'I don't use my accent at debating; I use my debating voice.' What does this suggest?",["Language choices can be used to manage identity in public situations","Accents are not part of identity","Debating has no connection to language","The character cannot speak clearly"],3,"The character distinguishes everyday accent from a public 'debating voice', showing identity management through language.","Think about why someone changes voice for an audience."),
+q("ac9e7la01-p21","Which sentence uses inclusive language to build community identity?",["Together, we can make our classroom safer and kinder.","You people need to fix your mess.","I alone made everything better.","Someone should probably do something."],0,"'Together', 'we' and 'our classroom' invite shared responsibility and community identity.","Look for language that includes the audience."),
+q("ac9e7la01-p22","A fantasy character says, 'By the old oath, I guard the mountain gate.' What identity is created through language?",["A modern casual teenager","A guardian shaped by tradition and duty","A person ordering food","A sports commentator"],1,"'By the old oath' and 'guard' create an identity connected to tradition and duty.","Look for values and role signalled by word choice."),
+q("ac9e7la01-p23","Which explanation best matches AC9E7LA01?",["Language can show and shape who people are, what groups they belong to and how others see them","Language is only useful for spelling tests","Identity is never affected by words","All people use exactly the same language in every setting"],2,"AC9E7LA01 focuses on how language expresses and creates personal and social identities.","Choose the explanation about language and identity."),
+q("ac9e7la01-p24","In a review, a student writes, 'The narrator's clipped commands make her sound like a commander, not a friend.' What is the student analysing?",["How sentence length and word choice create identity","How punctuation proves the plot is false","How spelling changes the setting","How illustrations replace dialogue"],3,"The student links language features, such as clipped commands, to the narrator's social identity.","Look for a link between language feature and identity.")
 ];
