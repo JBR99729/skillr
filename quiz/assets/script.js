@@ -3755,24 +3755,51 @@ function renderImageDragState(
     actions.insertAdjacentElement("beforebegin", prompt);
   }
 
-  function celebrateCompletion(correct, total) {
+  function celebrateCompletion(correct, total, percentage) {
+    const passingPercent = Number(config.passingPercent) || 75;
+    const isProficient = Number(percentage) >= passingPercent;
+
+    if (!isProficient) {
+      return;
+    }
+
     document.querySelector(".quiz-celebration")?.remove();
+
+    const isDailyDrill =
+      Boolean(window.skillrDailyDrillMeta) ||
+      window.location.pathname.includes("/daily-drills/");
+
+    const certificateAvailable = Boolean(config.certificateOnPass);
+
+    const message = isDailyDrill
+      ? "Congratulations — you are proficient! Great work — you are building strong daily fluency."
+      : certificateAvailable
+        ? "Congratulations — you are proficient! Certificate unlocked where available."
+        : "Congratulations — you are proficient!";
+
     const celebration = document.createElement("div");
     celebration.className = "quiz-celebration";
     celebration.setAttribute("role", "status");
-    celebration.innerHTML = `<strong>🎉 Great job!</strong><span>Set complete: ${correct}/${total} correct</span>`;
+    celebration.setAttribute("aria-live", "polite");
+    celebration.innerHTML = `<strong>🎉 ${message}</strong><span>${correct}/${total} correct • ${percentage}%</span>`;
+
     document.body.appendChild(celebration);
-    window.setTimeout(() => celebration.remove(), 4200);
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    window.setTimeout(() => celebration.remove(), 5200);
+
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      return;
+    }
+
     const colours = ["#2457d6", "#12a06a", "#f3a712", "#8b5cf6", "#ef476f"];
-    for (let index = 0; index < 28; index += 1) {
+
+    for (let index = 0; index < 36; index += 1) {
       const piece = document.createElement("i");
       piece.className = "quiz-confetti";
       piece.style.setProperty("--confetti-x", `${5 + Math.random() * 90}vw`);
-      piece.style.setProperty("--confetti-delay", `${Math.random() * .35}s`);
+      piece.style.setProperty("--confetti-delay", `${Math.random() * 0.35}s`);
       piece.style.setProperty("--confetti-colour", colours[index % colours.length]);
       document.body.appendChild(piece);
-      window.setTimeout(() => piece.remove(), 2500);
+      window.setTimeout(() => piece.remove(), 2600);
     }
   }
 
@@ -3824,7 +3851,7 @@ function renderImageDragState(
     if (!isWarmupMode && !isEmbedMode) markCurrentCycleSetComplete();
     updateCertificateAction(percentage);
     updateResultSharePrompt(percentage);
-    celebrateCompletion(score, total);
+    celebrateCompletion(score, total, percentage);
 
     const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
     const resultData = {

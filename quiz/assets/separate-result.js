@@ -123,6 +123,54 @@ document.addEventListener("DOMContentLoaded", () => {
     actions.insertAdjacentElement("beforebegin", prompt);
   }
 
+  function celebrateProficientResult(data) {
+    const percentage = Number(data.percentage) || 0;
+    const isProficient = Boolean(data.passed) || percentage >= 75;
+
+    if (!isProficient) {
+      return;
+    }
+
+    document.querySelector(".quiz-celebration")?.remove();
+
+    const isDailyDrill =
+      /daily-drill/i.test(String(data.quizLabel || "")) ||
+      String(data.attemptUrl || "").includes("/daily-drills/");
+
+    const certificateButton = document.getElementById("certificateButton");
+
+    const message = isDailyDrill
+      ? "Congratulations — you are proficient! Great work — you are building strong daily fluency."
+      : certificateButton
+        ? "Congratulations — you are proficient! Certificate unlocked."
+        : "Congratulations — you are proficient!";
+
+    const celebration = document.createElement("div");
+    celebration.className = "quiz-celebration";
+    celebration.setAttribute("role", "status");
+    celebration.setAttribute("aria-live", "polite");
+    celebration.innerHTML = `<strong>🎉 ${message}</strong><span>${percentage}% result</span>`;
+
+    document.body.appendChild(celebration);
+    window.setTimeout(() => celebration.remove(), 5200);
+
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      return;
+    }
+
+    const colours = ["#2457d6", "#12a06a", "#f3a712", "#8b5cf6", "#ef476f"];
+
+    for (let index = 0; index < 36; index += 1) {
+      const piece = document.createElement("i");
+      piece.className = "quiz-confetti";
+      piece.style.setProperty("--confetti-x", `${5 + Math.random() * 90}vw`);
+      piece.style.setProperty("--confetti-delay", `${Math.random() * 0.35}s`);
+      piece.style.setProperty("--confetti-colour", colours[index % colours.length]);
+      document.body.appendChild(piece);
+      window.setTimeout(() => piece.remove(), 2600);
+    }
+  }
+
   const key = document.body.dataset.resultKey || "skillrQuizResult";
   let data = null;
   try { data = JSON.parse(sessionStorage.getItem(key) || "null"); } catch (error) { console.error(error); }
@@ -163,5 +211,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  celebrateProficientResult(data);
   addSharePrompt(data);
 });
