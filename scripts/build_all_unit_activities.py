@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import shutil
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -13,6 +14,16 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = "https://skillrhub.com"
 GA_ID = "G-8P22BET45N"
 ADSENSE = "ca-pub-7734963540104771"
+GENERIC_PROMPTS = (
+    "Which option best describes the skill being practised?",
+    "Which task gives the best practice for this skill?",
+    "Which example gives useful evidence of this learning?",
+    "A student is ready to show this skill. Which task should they try?",
+    "Which statement best summarises this topic?",
+    "Which task would give useful extra practice?",
+    "Which option stays focused on the curriculum goal?",
+    "What should students be able to explain or demonstrate after this unit?",
+)
 
 
 def esc(value: str) -> str:
@@ -78,36 +89,11 @@ def choices(correct: str, distractors: list[str], correct_index: int) -> tuple[l
     return answers, correct_index % 4
 
 
-def make_questions(unit: dict, peer_units: list[dict]) -> list[dict]:
-    code = unit["code"].lower()
-    description = trim(unit["description"])
-    eligible = [trim(e["text"]) for e in unit.get("elaborations", []) if e.get("questionEligible")]
-    if not eligible:
-        eligible = [description]
-    peer_desc = [trim(p["description"]) for p in peer_units if p["code"] != unit["code"]]
-    peer_elabs = [trim(e["text"]) for p in peer_units if p["code"] != unit["code"] for e in p.get("elaborations", []) if e.get("questionEligible")]
-    distractors = peer_desc + peer_elabs
-    prompts = [
-        ("Which option best describes the skill being practised?", description),
-        ("Which task gives the best practice for this skill?", eligible[0]),
-        ("Which example gives useful evidence of this learning?", eligible[min(1, len(eligible)-1)]),
-        ("A student is ready to show this skill. Which task should they try?", eligible[min(2, len(eligible)-1)]),
-        ("Which statement best summarises this topic?", description),
-        ("Which task would give useful extra practice?", eligible[min(3, len(eligible)-1)]),
-        ("Which option stays focused on the curriculum goal?", eligible[min(4, len(eligible)-1)]),
-        ("What should students be able to explain or demonstrate after this unit?", description),
-    ]
-    questions = []
-    for index, (prompt, correct) in enumerate(prompts, 1):
-        start = (index * 3) % max(1, len(distractors))
-        rotated = distractors[start:] + distractors[:start]
-        answers, correct_index = choices(correct, rotated, (index - 1) % 4)
-        questions.append({
-            "id": f"{code}-{index:02d}", "type": "single", "question": prompt,
-            "answers": answers, "correct": correct_index,
-            "explanation": f"This matches {unit['code']}: {description}."
-        })
-    return questions
+def is_generic_bank(bank_file: Path) -> bool:
+    if not bank_file.exists():
+        return False
+    content = bank_file.read_text(encoding="utf-8")
+    return all(json.dumps(prompt) in content for prompt in GENERIC_PROMPTS)
 
 
 def quick_notes(unit: dict) -> str:
@@ -173,19 +159,23 @@ def write_page(url: str, content: str) -> None:
 def main() -> None:
     manifest = json.loads((ROOT / "data/curriculum-units.json").read_text(encoding="utf-8"))
     units = manifest["units"]
-    groups: dict[tuple[str, str], list[dict]] = {}
-    for unit in units:
-        groups.setdefault((unit["level"], unit["learningArea"]), []).append(unit)
+    unavailable_paths = []
+    published_units = 0
     for unit in units:
         bank_dir = disk_path(unit["practiceUrl"])
-        bank_dir.mkdir(parents=True, exist_ok=True)
         reviewed_bank = bank_dir / "practice-questions.js"
         if reviewed_bank.exists():
             bank_file = reviewed_bank
         else:
             bank_file = bank_dir / "questions.js"
-            questions = make_questions(unit, groups[(unit["level"], unit["learningArea"])])
-            bank_file.write_text('"use strict";\nwindow.quizQuestions = ' + json.dumps(questions, ensure_ascii=False, indent=2) + ';\n', encoding="utf-8")
+        if not bank_file.exists() or is_generic_bank(bank_file):
+            activity_url = unit["practiceUrl"].removesuffix("practice/")
+            activity_dir = disk_path(activity_url)
+            if activity_dir.exists():
+                shutil.rmtree(activity_dir)
+            unavailable_paths.append(activity_url)
+            continue
+        published_units += 1
         bank_url = "/" + bank_file.relative_to(ROOT).as_posix()
         activity_url = unit["practiceUrl"].removesuffix("practice/")
         write_page(activity_url, activity_hub(unit, activity_url))
@@ -195,7 +185,9 @@ def main() -> None:
         for mode in ("practice", "test"):
             for kind in ("result", "review", "retake"):
                 write_page(f"{unit[mode + 'Url']}{kind}/", secondary_page(unit, mode, kind))
-    print(json.dumps({"units": len(units), "questions": len(units) * 8, "pages": len(units) * 10}, indent=2))
+    manifest = ROOT / "assets" / "unavailable-activity-paths.json"
+    manifest.write_text(json.dumps({"paths": unavailable_paths}, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps({"units": len(units), "publishedUnits": published_units, "hiddenGenericUnits": len(unavailable_paths)}, indent=2))
 
 
 if __name__ == "__main__":

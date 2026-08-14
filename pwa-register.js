@@ -3,6 +3,27 @@
 
   const path = window.location.pathname;
 
+  fetch("/assets/unavailable-activity-paths.json")
+    .then((response) => response.ok ? response.json() : { paths: [] })
+    .then(({ paths = [] }) => {
+      const unavailable = paths.map((value) => new URL(value, window.location.origin).pathname);
+      const removeUnavailableLinks = (root = document) => {
+        root.querySelectorAll?.("a[href]").forEach((link) => {
+          const target = new URL(link.href, window.location.origin);
+          if (target.origin === window.location.origin && unavailable.some((prefix) => target.pathname.startsWith(prefix))) {
+            link.remove();
+          }
+        });
+      };
+      removeUnavailableLinks();
+      new MutationObserver((records) => {
+        records.forEach((record) => record.addedNodes.forEach((node) => {
+          if (node.nodeType === Node.ELEMENT_NODE) removeUnavailableLinks(node);
+        }));
+      }).observe(document.documentElement, { childList: true, subtree: true });
+    })
+    .catch(() => {});
+
   function loadScript(src) {
     return new Promise((resolve, reject) => {
       const base = src.split("?")[0];

@@ -71,8 +71,10 @@ self.addEventListener("fetch", (event) => {
   // Live loaders, question banks and active curriculum releases must not be served stale.
   if (
     url.origin === self.location.origin &&
-    request.destination === "script" &&
     (
+      url.pathname === "/assets/unavailable-activity-paths.json" ||
+      request.destination === "script" &&
+      (
       url.pathname === "/pwa-register.js" ||
       url.pathname === "/share-button.js" ||
       url.pathname === "/assets/home-search.js" ||
@@ -97,6 +99,7 @@ self.addEventListener("fetch", (event) => {
       url.pathname === "/quiz/assets/daily-drills/year1-maths-remaining-extensions.js" ||
       url.pathname === "/assets/qa-complete-ribbon.js" ||
       url.pathname.endsWith("/questions.js")
+      )
     )
   ) {
     event.respondWith(
