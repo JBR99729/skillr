@@ -1,5 +1,42 @@
 """Authored student-facing headings and central concepts for Years 8–10 Maths."""
 
+AUTHORED = {
+    "AC9M10N01": [
+        {
+            "heading": "Keep surds exact and apply valid root rules",
+            "lead": "Exact surd notation preserves value through repeated calculations; early decimal rounding introduces error that later operations can compound.",
+            "highlight": "Keep √2 and √3 exact until the final requested approximation; √(9 + 16) = 5, but √9 + √16 = 7.",
+            "visual": {"type": "equation", "label": "√2 (exact) → calculate → round once; 1.414 (rounded early) → repeated calculation → accumulated error"},
+            "ask": "Why is √(a + b) = √a + √b not a valid general rule, and when should a decimal approximation be introduced?",
+            "answer": "Square roots do not distribute over addition: one counterexample is √25 = 5 while √9 + √16 = 7. Retain exact surds during working and approximate only when the context requests a decimal result.",
+            "notes": {
+                "teacherDoes": "Compare an exact-surds calculation with one using √2 ≈ 1.414 and √3 ≈ 1.732, then test the false addition rule using 9 and 16.",
+                "teacherAsks": "Where does rounding error enter, and what counterexample disproves distribution over addition?",
+                "studentDoes": "Compares exact and approximate pathways, identifies the first rounded step and explains the counterexample.",
+                "expectedEvidence": "States that exact notation avoids premature rounding and shows √(9 + 16) = 5 whereas √9 + √16 = 7.",
+                "ifIncorrect": "Calculate both sides of the proposed rule separately, then mark the first point where an approximation replaces an exact value.",
+                "shortCheck": "Is √2 + √5 equal to √7? Justify without using decimals."
+            }
+        },
+        {
+            "heading": "Simplify first, collect like surds and keep coefficients exact",
+            "lead": "Use perfect-square factors to rewrite entire surds as like surds, then apply the distributive law to their coefficients.",
+            "highlight": "2√45 − √20 + ¼√80 = 6√5 − 2√5 + √5 = 5√5; fractional coefficients remain exact.",
+            "visual": {"type": "equation", "label": "entire surds → perfect-square factors → mixed surds → collect like terms → exact result"},
+            "ask": "How does simplifying each radicand reveal like surds, and how can an unknown coefficient b be identified exactly?",
+            "answer": "Rewrite √45, √20 and √80 using perfect-square factors before collecting √5 terms. For ⅒√12 + ⅓√27 − ⅙√75 = b√3, the coefficient is 1/5 + 1 − 5/6 = 11/30, so b = 11/30.",
+            "notes": {
+                "teacherDoes": "Model √45 = 3√5, √20 = 2√5 and √80 = 4√5, then align coefficients. Repeat with √12, √27 and √75 using a common denominator of 30.",
+                "teacherAsks": "Which perfect-square factor should be extracted, which terms are now like surds, and what coefficient remains?",
+                "studentDoes": "Rewrites entire surds, collects only matching radicands and retains fractional coefficients exactly.",
+                "expectedEvidence": "Obtains 5√5 in the first example and b = 11/30 in the fractional example with each transformation shown.",
+                "ifIncorrect": "Circle the radicand after simplification. Combine coefficients only when those circled radicands match exactly.",
+                "shortCheck": "Simplify √18 + √50 exactly and explain why the terms can be combined."
+            }
+        }
+    ]
+}
+
 HEADINGS = {
     # Year 8
     "AC9M8N01": ["Where does π live?", "Where does √2 appear?", "Two famous irrational ratios", "Measure π with any circle"],
@@ -56,7 +93,7 @@ HEADINGS = {
     "AC9M9P03": ["Simulate simple and compound events", "Compare replacement methods", "List favourable outcomes systematically", "Estimate winning in a repeated game"],
 
     # Year 10
-    "AC9M10N01": ["Compare rounding and truncation", "Track approximation through repeated calculations"],
+    "AC9M10N01": ["Keep surds exact and apply valid root rules", "Simplify first, collect like surds and keep coefficients exact"],
     "AC9M10A01": ["Connect expansion, factorisation and completed square", "Use integer exponent laws in equations"],
     "AC9M10A02": ["Find a break-even intersection", "Interpret a simultaneous-equation solution", "Shade an inequality region", "Find integer solutions under a budget", "Test points against nonlinear inequalities", "Model strategy with two variables"],
     "AC9M10A03": ["Spot a constant ratio", "Connect exponential rules and graphs", "Explore exponential equations digitally", "Model competing animal populations"],
@@ -103,7 +140,7 @@ CORE = {
     "AC9M9P01": ("Compound Outcomes", "Systematic lists, arrays, tables and trees reveal complete sample spaces and how replacement changes probabilities."),
     "AC9M9P02": ("Relative Frequency and Event Language", "Long-run relative frequency estimates probability, while ‘and’ and two meanings of ‘or’ select different outcome sets."),
     "AC9M9P03": ("Chance Experiments and Simulations", "A simulation must reproduce the rules and dependencies of the real chance process before its frequencies can estimate probability."),
-    "AC9M10N01": ("Exact Values and Accumulated Error", "Rounding or truncating intermediate values can compound error; exact representations delay that loss of accuracy."),
+    "AC9M10N01": ("Exact Surds and Decimal Approximations", "Exact surds preserve value through repeated calculations; simplify and combine them before making a final decimal approximation."),
     "AC9M10A01": ("Advanced Algebraic Equivalence", "Expansion, factorisation, exponent laws and equation solving preserve equivalence only when every term and condition is handled."),
     "AC9M10A02": ("Simultaneous Equations and Inequalities", "Intersections solve two equations at once, while inequalities describe entire regions or sets of permissible values."),
     "AC9M10A03": ("Exponential Relations", "An exponential relationship multiplies by a constant ratio over equal input steps and appears as a curved graph."),

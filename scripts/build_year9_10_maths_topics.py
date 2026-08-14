@@ -6,7 +6,7 @@ import html
 import json
 from pathlib import Path
 
-from upper_maths_authored import CORE, HEADINGS
+from upper_maths_authored import AUTHORED, CORE, HEADINGS
 from upper_maths_authoring import build_spec
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,7 +15,11 @@ ROOT = Path(__file__).resolve().parents[1]
 def page_shell(unit: dict, spec: dict, year: int) -> str:
     code = unit["code"]
     title = html.escape(spec["title"], quote=True)
-    description = html.escape(unit["description"], quote=True)
+    description = html.escape(
+        "Year 10 exact surds and decimal approximations: simplify entire surds, combine like surds, avoid rounding error and apply AC9M10N01."
+        if code == "AC9M10N01" else unit["description"],
+        quote=True,
+    )
     return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>{code} {title} | Year {year} Maths Topic Guide</title><meta name="description" content="{code} Year {year} Maths topic guide: {description}"><meta name="robots" content="index,follow"><link rel="canonical" href="https://skillrhub.com{unit['url']}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/year8-maths.css?v=3"></head><body><main id="year8Topic"><p class="loading">Loading {code} topic guide…</p></main><script>window.skillrPageMeta={{curriculumCode:"{code}",pageType:"topic guide",year:"Year {year}",subject:"Maths"}};</script><script src="/assets/year{year}-maths-data.js?v=3"></script><script src="/assets/year8-maths-render.js?v=3"></script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script></body></html>'''
 
 
@@ -30,7 +34,7 @@ def build_year(all_units: list[dict], year: int) -> None:
     output = {}
     for code, unit in units.items():
         title, anchor = CORE[code]
-        output[code] = build_spec(unit, title, anchor, HEADINGS[code])
+        output[code] = build_spec(unit, title, anchor, HEADINGS[code], AUTHORED.get(code))
     payload = json.dumps(output, ensure_ascii=False, separators=(",", ":"))
     (ROOT / f"assets/year{year}-maths-data.js").write_text(f"window.SkillrUpperMathsData={payload};\n")
     for code, unit in units.items():
