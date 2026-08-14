@@ -15,7 +15,17 @@ wrongSound.preload = "auto";
 
 correctSound.volume = 0.7;
 wrongSound.volume = 0.7;
+const proficientSound = new Audio("/quiz/assets/sounds/proficient.mp3");
+proficientSound.preload = "auto";
+proficientSound.volume = 0.75;
 
+function playProficientSound() {
+  proficientSound.pause();
+  proficientSound.currentTime = 0;
+  proficientSound.play().catch(() => {
+    // Browser may block sound if there was no user interaction.
+  });
+}
 
 function playQuizSound(isCorrect) {
 
@@ -3762,7 +3772,7 @@ function renderImageDragState(
     if (!isProficient) {
       return;
     }
-
+playProficientSound();
     document.querySelector(".quiz-celebration")?.remove();
 
     const isDailyDrill =
