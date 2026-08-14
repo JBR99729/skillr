@@ -1,107 +1,28 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9s7h02-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "investigate how cultural perspectives and world views influence the…",
-      "investigate and represent balanced and unbalanced forces, including…",
-      "use particle theory to describe the arrangement of particles in a substance,…",
-      "use a particle model to describe differences between pure substances and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "exploring how the personal beliefs of a scientist may influence the questions…",
-      "examine how proposed scientific responses to contemporary issues may impact…",
-      "explore the role of science communication in informing individual viewpoints…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "plan and conduct reproducible investigations to answer questions and test…",
-      "considering why it is important to recognise that different people in society…",
-      "select and use equipment to generate and record data with precision, using…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "exploring the work of Wang Zhenyi, an acclaimed female scholar of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "investigate how cultural perspectives and world views influence the…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "write and create texts to communicate ideas, findings and arguments for…",
-      "observing and identifying the similarities and differences of particular…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "creating and modifying a dichotomous key to classify organisms into groups…",
-      "exploring how David Unaipon, a Ngarrindjeri man from Coorong region of South…",
-      "naming and classifying species using scientific conventions from the Linnaean…",
-      "considering the reasons for classifying living things, such as identification…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "examining how biological classification has changed over time through…",
-      "using provided dichotomous keys to identify organisms surveyed on a field trip",
-      "exploring how David Unaipon, a Ngarrindjeri man from Coorong region of South…",
-      "analysing food webs to show feeding relationships between organisms in an…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  },
-  {
-    "id": "ac9s7h02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "modelling how energy flows into and out of an ecosystem via the pathways of…",
-      "predicting the effects on local ecosystems when living things such…",
-      "examining how events such as seasonal changes, destruction of habitat or…",
-      "investigate how cultural perspectives and world views influence the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H02: investigate how cultural perspectives and world views influence the…."
-  }
+const q=(id,question,answers,correct,explanation,hint)=>({id,type:"single",question,answers,correct,explanation,hint});
+window.quizQuestions=[
+q("ac9s7h02-p01","A coastal council is planning a fish nursery survey. Elders describe seasonal signs that indicate when young fish usually arrive, while scientists propose water-temperature sensors. Which response best shows AC9S7H02 thinking?",["Use both knowledge sources and compare them with field observations.","Use only the sensors because cultural knowledge is not evidence.","Use only the Elders' knowledge because instruments are unnecessary.","Cancel the survey until everyone already agrees."],0,"Science can be strengthened when cultural knowledge, local observation and instrument data are considered together and tested respectfully.","Look for the option that combines perspectives without dismissing evidence."),
+q("ac9s7h02-p02","A student says, 'Only laboratory data can influence science.' Which example best challenges that claim?",["A graph uses the same scale on both axes.","Long-term Aboriginal fire knowledge helps scientists study safer cultural burning practices.","A test tube is labelled before an experiment.","A report is typed using scientific vocabulary."],1,"Cultural knowledge can shape research questions, methods and interpretations, especially when it is connected to careful long-term observation.","Find the option where a world view or knowledge tradition influences science."),
+q("ac9s7h02-p03","A class studies why some plants recover well after low-intensity fires. Which question best includes cultural perspectives in a scientific investigation?",["Which student can draw the neatest plant diagram?","Can we ignore previous land-management records?","How do cultural burning observations and plant-growth measurements together explain recovery?","Which answer will be easiest to finish before lunch?"],2,"The best question invites both cultural knowledge and measurable scientific evidence to explain the same phenomenon.","Choose the question that can be investigated and includes more than one knowledge perspective."),
+q("ac9s7h02-p04","A scientist studying stars reads historical work by Wang Zhenyi and compares it with modern eclipse models. What does this show?",["Old scientific ideas must always be deleted.","Only current scientists contribute to astronomy.","Eclipses are not suitable for scientific study.","People from different cultures and times have contributed to scientific understanding."],3,"Science develops through contributions from many cultures, places and historical periods.","Look for the option that recognises science as a human and cultural activity."),
+q("ac9s7h02-p05","A wetland research team asks Traditional Owners before choosing survey sites. Why is this scientifically useful as well as respectful?",["Local knowledge may identify patterns, places or seasonal changes the team would otherwise miss.","It means the team no longer needs to collect any data.","It guarantees the first hypothesis is correct.","It removes all uncertainty from the investigation."],0,"Cultural knowledge can guide better questions and site selection, but scientific data still need to be collected and analysed.","Avoid answers that say one perspective removes the need for evidence."),
+q("ac9s7h02-p06","A group investigates bush medicine plants. Which action best respects cultural knowledge?",["Publish the plant names online before asking anyone.","Seek permission, follow cultural protocols and avoid sharing restricted knowledge.","Take samples secretly so the data are unbiased.","Assume all knowledge can be used because it is educational."],1,"Using cultural knowledge in science requires permission, respect and appropriate limits on what can be shared.","Respectful science includes consent and protocols."),
+q("ac9s7h02-p07","Two communities describe different seasonal calendars. A student says one must be wrong because school calendars have four seasons. What is the best scientific response?",["Ignore both calendars because seasons are only official dates.","Choose the calendar that sounds most familiar.","Compare each calendar with local observations such as flowering, rainfall and animal behaviour.","Use only temperature averages from another country."],2,"Seasonal knowledge can vary by place; comparing it with local evidence helps scientists understand environmental patterns.","Think about local evidence, not just familiar labels."),
+q("ac9s7h02-p08","David Unaipon's work is discussed in a lesson on science and invention. Why is this relevant to AC9S7H02?",["It shows inventions are never based on observations.","It proves only one culture can do science.","It removes the need to test designs.","It shows people with different cultural backgrounds have shaped scientific and technological ideas."],3,"Studying scientists and inventors from different backgrounds helps students see that science is influenced by people, culture and society.","Choose the option about diverse contributions to science."),
+q("ac9s7h02-p09","A research team wants to use Indigenous ecological knowledge in a public report. Which statement is most appropriate?",["Knowledge holders should decide what can be shared and how it is acknowledged.","All cultural knowledge becomes public once a scientist hears it.","Acknowledgement is unnecessary if the report has graphs.","Permission is only needed for photographs, not ideas."],0,"Cultural knowledge belongs to knowledge holders and must be used with permission, acknowledgement and care.","Look for consent, acknowledgement and control over sharing."),
+q("ac9s7h02-p10","A student compares weather-station data with farmers' long-term observations of frost. What is the strongest reason to use both?",["It makes the project look longer.","Different evidence sources may reveal patterns that one source alone could miss.","It avoids the need for a conclusion.","It guarantees the data will have no errors."],1,"Different perspectives can strengthen investigations by revealing patterns, limits and questions for further testing.","The key idea is complementary evidence."),
+q("ac9s7h02-p11","Which conclusion best shows understanding of world views in science?",["Science is separate from society and is never influenced by people.","Cultural values decide answers without evidence.","The questions scientists ask can be influenced by culture, needs, values and available knowledge.","Scientific knowledge cannot change once published."],2,"Culture and world views can influence what is studied and how findings are used, while evidence remains central to science.","Separate influence on questions from unsupported claims about answers."),
+q("ac9s7h02-p12","A class studies a river. One group values the river as habitat, another as a water supply, and Traditional Owners describe cultural responsibilities. How could these perspectives influence science?",["They make measurements impossible.","They mean only opinions should be recorded.","They remove the need for sampling.","They can shape which questions are asked, such as water quality, species health and sustainable use."],3,"Different values and world views can influence research priorities and the way scientific information is used.","Choose the option where perspectives shape research questions."),
+q("ac9s7h02-p13","Which investigation plan best avoids tokenism when including cultural perspectives?",["Involve knowledge holders from the planning stage and follow agreed protocols.","Add one cultural word to the title after the experiment is finished.","Mention culture in the introduction but collect unrelated data.","Use a stock image of Country without permission."],0,"Cultural perspectives should be included meaningfully, respectfully and early, not added as decoration.","Tokenism means superficial inclusion."),
+q("ac9s7h02-p14","A science poster says, 'Ancient people were not scientific because they did not use modern equipment.' What is wrong with this statement?",["It uses too many words for a poster.","It ignores careful observation, pattern recognition and knowledge developed in different cultures.","It should only mention chemistry.","It proves modern instruments are useless."],1,"Many knowledge systems use careful observation and pattern recognition even when they do not use modern instruments.","Look for the answer that recognises evidence beyond modern tools."),
+q("ac9s7h02-p15","Students are comparing navigation methods: star knowledge used by Pacific navigators and satellite GPS. Which comparison is most scientific?",["Rank GPS as intelligent and star navigation as guessing.","Avoid comparison because cultures should not be discussed in science.","Compare the evidence, observations and conditions under which each method works.","Assume the older method must be wrong."],2,"Scientific comparison looks at evidence and conditions, not stereotypes about old or new knowledge.","A fair comparison tests how and when each method works."),
+q("ac9s7h02-p16","Why might a community's world view affect the way scientific findings are used?",["Data cannot be collected in communities.","World views replace all measurements.","Graphs stop being useful outside laboratories.","Values influence decisions about risks, benefits, priorities and responsibilities."],3,"Science provides evidence, but social and cultural values can affect decisions about how that evidence is applied.","Think about using science in decisions, not changing raw measurements."),
+q("ac9s7h02-p17","A student wants to investigate native bees. Which source combination is strongest?",["Local ecological knowledge, field observations and measurements of nesting sites.","A single social media comment with no observation.","A guess based only on the bee's colour.","A copied paragraph about overseas honeybees only."],0,"Strong investigations can combine local knowledge with direct observation and measurable evidence.","Pick the option with multiple relevant evidence sources."),
+q("ac9s7h02-p18","Which statement best describes the relationship between cultural perspectives and evidence?",["Cultural perspectives can guide questions, but claims still need appropriate evidence.","Cultural perspectives mean evidence is not needed.","Evidence is only valid if it comes from one culture.","Scientific claims are just personal beliefs."],0,"Cultural perspectives can influence what scientists investigate, while evidence is still needed to support scientific claims.","The correct idea keeps both respect and evidence."),
+q("ac9s7h02-p19","A class invites a guest speaker to discuss cultural knowledge of local plants. What should students do before turning the information into a public worksheet?",["Check permission and ask what information may be shared.","Publish everything quickly before forgetting it.","Remove the speaker's name to avoid acknowledgement.","Treat all information as free for anyone to sell."],0,"Knowledge shared in class may have limits; permission and acknowledgement matter before public use.","Look for ethical use of knowledge."),
+q("ac9s7h02-p20","Which example best shows world views influencing scientific priorities?",["A community affected by drought asks scientists to study water-saving crops.","A student sharpens a pencil before drawing a graph.","A thermometer uses degrees Celsius.","A beaker is washed after an experiment."],0,"Community needs and values can influence which scientific problems are prioritised for investigation.","Choose the example where people’s needs shape the research question."),
+q("ac9s7h02-p21","A student says, 'If two cultures explain the same natural event differently, science cannot study it.' What is a better response?",["Science can compare explanations with observations and evidence while respecting cultural context.","Science must choose the explanation from the largest group.","All explanations are automatically equally supported by evidence.","Natural events should not be discussed if people disagree."],0,"Science can examine evidence for explanations while recognising that cultural context influences meaning and questions.","Disagreement does not stop investigation."),
+q("ac9s7h02-p22","Which classroom product best demonstrates AC9S7H02?",["A labelled diagram copied from a textbook with no discussion of people or perspectives.","A case study explaining how cultural knowledge helped shape a scientific investigation and how evidence was used.","A list of lab safety rules only.","A poster saying science is always done in the same way everywhere."],1,"A strong response explains both the cultural perspective and its influence on scientific investigation or application.","Look for both perspective and evidence in the product."),
+q("ac9s7h02-p23","Why should scientists avoid treating cultural knowledge as just 'extra data'?",["Because it may involve ownership, responsibilities, permissions and meanings beyond a data point.","Because it can never be relevant to science.","Because it is always less accurate than instruments.","Because it must be published without context."],0,"Cultural knowledge can carry responsibilities and protocols, so it should be treated respectfully rather than extracted without context.","Think about ethics as well as information."),
+q("ac9s7h02-p24","A team combines satellite maps, local ranger observations and Traditional Owner knowledge to monitor a habitat. What is the best conclusion?",["Combining perspectives can produce a richer understanding of environmental change.","Only satellite maps should be kept in the final report.","Local observations make measurements unnecessary.","Traditional knowledge should be included only if it agrees with the first graph."],0,"Multiple perspectives and evidence sources can improve understanding when used respectfully and critically.","Choose the conclusion that values integration rather than exclusion.")
 ];
