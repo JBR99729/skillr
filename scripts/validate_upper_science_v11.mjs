@@ -37,7 +37,19 @@ for(const [code,u] of Object.entries(all)){
     for(const f of teacherFields)assert(el[f],`${code}/${el.id}: missing ${f}`);
     assert(el.masteryEvidence,`${code}/${el.id}: missing mastery evidence`);
   }
-  assert(u.slides.length===u.elaborations.length+3,`${code}: slide count does not cover intro, focuses, worked example and mastery`);
+  const assignmentItems=u.assignment?.items||[],assignmentIds=new Set(assignmentItems.map(x=>x.id));
+  assert(assignmentIds.size===assignmentItems.length,`${code}: duplicate assignment item ID`);
+  if(u.assignment){
+    assert(u.assignment.heading&&u.assignment.introduction,`${code}: incomplete assignment heading or introduction`);
+    for(const item of assignmentItems){
+      assert(["extendedResponse","multipleChoice"].includes(item.type),`${code}/${item.id}: invalid assignment type`);
+      assert(["central","E2","worked"].includes(item.placement),`${code}/${item.id}: invalid assignment placement`);
+      for(const f of ["prompt","expectedAnswer","acceptableEvidence","likelyError","remediation"])assert(item[f],`${code}/${item.id}: missing ${f}`);
+      if(item.type==="multipleChoice")assert(item.options?.length===4&&Number.isInteger(item.answerIndex)&&item.answerIndex>=0&&item.answerIndex<4,`${code}/${item.id}: invalid multiple-choice answers`);
+      assert(u.slides.filter(x=>x.display?.assignmentItemId===item.id).length===1,`${code}/${item.id}: assignment item must appear on exactly one slide`);
+    }
+  }
+  assert(u.slides.length===u.elaborations.length+3+assignmentItems.length,`${code}: slide count does not cover intro, focuses, worked example, assignment and mastery`);
   for(const slide of u.slides){
     assert(slide.title.length<=105,`${code}/${slide.id}: projected title too long (${slide.title.length})`);
     assert(!/\b(the|a|an|of|in|to|for|with|and|or|by|as|from|on)$/.test(slide.title),`${code}/${slide.id}: projected title ends mid-phrase`);
