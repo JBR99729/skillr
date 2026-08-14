@@ -18,12 +18,24 @@ wrongSound.volume = 0.7;
 const proficientSound = new Audio("/quiz/assets/sounds/proficient.mp3");
 proficientSound.preload = "auto";
 proficientSound.volume = 0.75;
+let proficientSoundCompletion = Promise.resolve();
 
 function playProficientSound() {
   proficientSound.pause();
   proficientSound.currentTime = 0;
-  proficientSound.play().catch(() => {
-    // Browser may block sound if there was no user interaction.
+  proficientSoundCompletion = new Promise((resolve) => {
+    let timeoutId;
+    const finish = () => {
+      proficientSound.removeEventListener("ended", finish);
+      proficientSound.removeEventListener("error", finish);
+      window.clearTimeout(timeoutId);
+      resolve();
+    };
+
+    proficientSound.addEventListener("ended", finish, { once: true });
+    proficientSound.addEventListener("error", finish, { once: true });
+    timeoutId = window.setTimeout(finish, 5000);
+    proficientSound.play().catch(finish);
   });
 }
 
@@ -3772,7 +3784,7 @@ function renderImageDragState(
     if (!isProficient) {
       return;
     }
-playProficientSound();
+    playProficientSound();
     document.querySelector(".quiz-celebration")?.remove();
 
     const isDailyDrill =
@@ -3925,7 +3937,15 @@ playProficientSound();
     if (config.resultUrl) {
       try {
         sessionStorage.setItem(config.resultStorageKey || "skillrQuizResult", JSON.stringify(resultData));
-        window.location.href = config.resultUrl;
+        const openResultPage = () => {
+          window.location.href = config.resultUrl;
+        };
+
+        if (resultData.passed) {
+          void proficientSoundCompletion.then(openResultPage);
+        } else {
+          openResultPage();
+        }
         return;
       } catch (error) {
         console.error("Could not open the separate result page:", error);
