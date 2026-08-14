@@ -4,8 +4,53 @@
   const KEY = "skillrhubProgressV1";
   const IDLE_MS = 3 * 60 * 1000;
   const SAVE_INTERVAL_MS = 15000;
+  const PWA_LAUNCH_SESSION_KEY = "skillrPwaLaunchTrackedV1";
   let lastActivity = Date.now();
   let lastTick = Date.now();
+
+  function trackGaEvent(name, params) {
+    const payload = params || {};
+    let attempts = 0;
+    const send = () => {
+      if (typeof window.gtag === "function") {
+        window.gtag("event", name, payload);
+        return;
+      }
+      attempts += 1;
+      if (attempts < 10) window.setTimeout(send, 500);
+    };
+    send();
+  }
+
+  function isStandaloneApp() {
+    return window.matchMedia?.("(display-mode: standalone)").matches || window.navigator.standalone === true;
+  }
+
+  window.addEventListener("skillr:installed", () => {
+    trackGaEvent("pwa_install", {
+      app_name: "SkillrHub",
+      page_path: window.location.pathname
+    });
+  });
+
+  if (isStandaloneApp()) {
+    try {
+      if (window.sessionStorage.getItem(PWA_LAUNCH_SESSION_KEY) !== "1") {
+        window.sessionStorage.setItem(PWA_LAUNCH_SESSION_KEY, "1");
+        trackGaEvent("pwa_launch", {
+          app_name: "SkillrHub",
+          page_path: window.location.pathname,
+          display_mode: window.navigator.standalone === true ? "ios_standalone" : "standalone"
+        });
+      }
+    } catch (_) {
+      trackGaEvent("pwa_launch", {
+        app_name: "SkillrHub",
+        page_path: window.location.pathname,
+        display_mode: window.navigator.standalone === true ? "ios_standalone" : "standalone"
+      });
+    }
+  }
 
   function blank() {
     return { format: "skillrhub-progress", version: 1, profile: { name: "", avatar: { type: "preset", value: "⭐" } }, activeSeconds: 0, attempts: [], updatedAt: new Date().toISOString() };
