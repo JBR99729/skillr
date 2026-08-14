@@ -13,6 +13,7 @@ SKIP={"year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activitie
 FUNCTIONAL_PARTS={"result","results","review","retake"}
 EXCLUDED_FILES={"offline.html"}
 EXCLUDED_PARTS={"teacher-slides"}
+EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 SECTION_LABELS={"foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
 SEARCH_SKIP_TAGS={"script","style","svg","noscript","template"}
 COMMON_FACTOR_RE=re.compile(r"(?:lowest common multiple|highest common factor|greatest common divisor)",re.I)
@@ -78,7 +79,7 @@ def norm(v):
 def is_canonical(source,url):
  t=canonical_path(source); return t is None or norm(t)==norm(url)
 def is_functional(path):
- return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS))
+ return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS))
 
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
