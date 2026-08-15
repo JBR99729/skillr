@@ -302,11 +302,12 @@
         return link;
       }));
       const facebookLink = document.createElement("a");
+      facebookLink.className = "footer-facebook-link";
       facebookLink.href = "https://www.facebook.com/1139028835969651";
       facebookLink.target = "_blank";
       facebookLink.rel = "noopener noreferrer";
       facebookLink.setAttribute("aria-label", "Follow SkillrHub on Facebook");
-      facebookLink.textContent = "Follow SkillrHub on Facebook";
+      facebookLink.textContent = "Facebook";
       footerNav.appendChild(facebookLink);
     }
   }
@@ -511,13 +512,6 @@
       if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "install"));
       tools.append(makeUtilityButton("timer", "Timer", "timer"));
       headerHost.appendChild(tools);
-    }
-    const footer = document.querySelector("footer");
-    if (footer && !footer.querySelector(".skillr-footer-tools")) {
-      const tools = document.createElement("div");
-      tools.className = "skillr-footer-tools";
-      tools.append(makeUtilityButton("install", "Install app", "install"));
-      footer.appendChild(tools);
     }
     document.querySelectorAll("[data-skillr-home-timer]").forEach((button) => {
       if (button.dataset.skillrTimerReady === "true") return;

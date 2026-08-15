@@ -3254,6 +3254,25 @@ footer {
     transform: none;
 }
 
+.footer-nav .footer-facebook-link,
+.home-page .footer-nav .footer-facebook-link,
+.footer-nav .footer-facebook-link:visited,
+.home-page .footer-nav .footer-facebook-link:visited {
+    padding: 3px 9px;
+    border-radius: 6px;
+    background: #1877f2;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-nav .footer-facebook-link:hover,
+.footer-nav .footer-facebook-link:focus-visible,
+.home-page .footer-nav .footer-facebook-link:hover,
+.home-page .footer-nav .footer-facebook-link:focus-visible {
+    background: #0f5fc4;
+    color: #fff;
+}
+
 
 /* Homepage progress tracker above the learning pathway */
 .learning-pathway__dashboard {
@@ -3656,9 +3675,8 @@ pre { overflow-x: auto; }
 .site-search__input::placeholder { color:#8996a8; opacity:1; font-weight:400; }
 
 /* Shared compact utility controls */
-.skillr-header-tools,.skillr-footer-tools { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+.skillr-header-tools { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
 .skillr-header-tools { margin-left:auto; }
-.skillr-footer-tools { justify-content:center; margin:11px auto 2px; }
 .skillr-utility-button,.skillr-qr-trigger {
     display:inline-flex;
     min-height:36px;
