@@ -58,11 +58,18 @@
     [
       ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
       ["Worksheets", "/worksheets/"], ["About", "/about.html"],
-      ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"]
+      ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"],
+      ["Facebook", "https://www.facebook.com/1139028835969651", true]
     ].forEach(function (item) {
       var link = document.createElement("a");
       link.textContent = item[0];
       link.href = item[1];
+      if (item[2]) {
+        link.className = "footer-facebook-link";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.setAttribute("aria-label", "Follow SkillrHub on Facebook");
+      }
       nav.appendChild(link);
     });
   }
