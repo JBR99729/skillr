@@ -516,7 +516,7 @@
     if (footer && !footer.querySelector(".skillr-footer-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-footer-tools";
-      tools.append(makeUtilityButton("install", "Install app", "install"), makeUtilityButton("timer", "Break timer", "timer"));
+      tools.append(makeUtilityButton("install", "Install app", "install"));
       footer.appendChild(tools);
     }
     document.querySelectorAll("[data-skillr-home-timer]").forEach((button) => {
