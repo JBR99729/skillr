@@ -301,6 +301,13 @@
         link.href = href;
         return link;
       }));
+      const facebookLink = document.createElement("a");
+      facebookLink.href = "https://www.facebook.com/1139028835969651";
+      facebookLink.target = "_blank";
+      facebookLink.rel = "noopener noreferrer";
+      facebookLink.setAttribute("aria-label", "Follow SkillrHub on Facebook");
+      facebookLink.textContent = "Follow SkillrHub on Facebook";
+      footerNav.appendChild(facebookLink);
     }
   }
 
