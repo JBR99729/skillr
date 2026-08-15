@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6la02-p-001",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "mark_evaluative_words",
+    "question": "Which sentence is most objective?",
+    "audio_prompt": "Which sentence is most objective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The survey included 240 respondents",
+        "is_correct": true
+      },
+      {
+        "text": "The ridiculous survey wasted everyone’s time",
+        "is_correct": false
+      },
+      {
+        "text": "The brilliant result proves everything",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone hated the survey",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates mark evaluative words in the stated context.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-002",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "objective_language",
+    "question": "Which term means “wording centred on verifiable information”?",
+    "audio_prompt": "Which term means “wording centred on verifiable information”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "objective language means wording centred on verifiable information.",
+      "hint": "Match the definition to the most precise term used in Objective, Subjective and Biased Language."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-003",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_verifiable_claim",
+    "question": "Which feature can create bias even with neutral wording?",
+    "audio_prompt": "Which feature can create bias even with neutral wording?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Including units",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the source",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting only one side’s evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Using a table accurately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-004",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Any adjective is subjective.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Any adjective is subjective.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Selection and omission can position readers",
+        "is_correct": false
+      },
+      {
+        "text": "Attribution identifies source, not truth",
+        "is_correct": false
+      },
+      {
+        "text": "It may arise from assumptions or methods",
+        "is_correct": false
+      },
+      {
+        "text": "Some adjectives classify observable features",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Some adjectives classify observable features",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-005",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_factual_reporting_evaluation_and_bias",
+    "question": "Which pairing accurately reflects the model for Objective, Subjective and Biased Language?",
+    "audio_prompt": "Which pairing accurately reflects the model for Objective, Subjective and Biased Language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "objective-style → The proposal costs $2.4 million. → verifiable quantity",
+        "is_correct": true
+      },
+      {
+        "text": "verifiable quantity → The proposal costs $2.4 million. → objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-006",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Objective, Subjective and Biased Language?",
+    "audio_prompt": "Which principle should guide a response about Objective, Subjective and Biased Language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias",
+        "is_correct": true
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-007",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Audit a headline and short report for wording, source selection, visual framing and omitted context?",
+    "audio_prompt": "Which plan would best complete this task: Audit a headline and short report for wording, source selection, visual framing and omitted context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    }
+  },
+  {
+    "id": "ac9e6la02-p-008",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Objective, Subjective and Biased Language?",
+    "audio_prompt": "Which evidence would best show secure understanding of Objective, Subjective and Biased Language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      },
+      {
+        "text": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-001",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "subjective_language",
+    "question": "In a new text, which definition correctly identifies subjective language?",
+    "audio_prompt": "In a new text, which definition correctly identifies subjective language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Wording expressing evaluation, feeling or viewpoint",
+        "is_correct": true
+      },
+      {
+        "text": "Wording centred on verifiable information",
+        "is_correct": false
+      },
+      {
+        "text": "Systematic positioning or imbalance affecting representation",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "subjective language means wording expressing evaluation, feeling or viewpoint.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-002",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Neutral tone proves no bias.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Neutral tone proves no bias.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Some adjectives classify observable features",
+        "is_correct": false
+      },
+      {
+        "text": "Selection and omission can position readers",
+        "is_correct": true
+      },
+      {
+        "text": "Attribution identifies source, not truth",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selection and omission can position readers",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-003",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_factual_reporting_evaluation_and_bias",
+    "question": "Which interpretation of this model element is accurate: “subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Objective, Subjective and Biased Language, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-004",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_a_bias_audit",
+    "question": "When applying Objective, Subjective and Biased Language to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Objective, Subjective and Biased Language to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-005",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "bias",
+    "question": "Which example best demonstrates an understanding of bias?",
+    "audio_prompt": "Which example best demonstrates an understanding of bias?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Systematic positioning or imbalance affecting representation, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      },
+      {
+        "text": "Bias means deliberate dishonesty",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "bias is systematic positioning or imbalance affecting representation.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-006",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Objective, Subjective and Biased Language?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Objective, Subjective and Biased Language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-007",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Write objective, openly subjective and subtly biased versions of the same event, then annotate choices?",
+    "audio_prompt": "Which response plan best addresses this challenge: Write objective, openly subjective and subtly biased versions of the same event, then annotate choices?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    }
+  },
+  {
+    "id": "ac9e6la02-t-008",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Compare two reports using the same facts but different selection and ordering. Evaluate reader positioning?",
+    "audio_prompt": "Which approach best addresses this evaluation: Compare two reports using the same facts but different selection and ordering. Evaluate reader positioning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

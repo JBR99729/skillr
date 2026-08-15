@@ -94,9 +94,9 @@ function addError(code, bank, id, message) {
   errors.push(`${code} ${bank}${id ? ` ${id}` : ""}: ${message}`);
 }
 
-function validatePage(code, mode, htmlFile, bankSize) {
+function validatePage(subject, code, mode, htmlFile, bankSize) {
   const html = read(htmlFile);
-  const expectedMax = mode === "practice" ? 8 : 12;
+  const expectedMax = subject === "english" ? 8 : mode === "practice" ? 8 : 12;
   const config = html.match(/window\.quizConfig\s*=\s*(\{.*?\});/s)?.[1];
   if (!config) {
     addError(code, mode, null, "missing quizConfig");
@@ -121,12 +121,13 @@ function validatePage(code, mode, htmlFile, bankSize) {
   if (/QA\s*(?:complete|passed|approved)/i.test(html)) addError(code, mode, null, "QA-complete badge remains");
 }
 
-function validateBank(code, bankName, items) {
-  const minimum = bankName === "practice" ? 24 : 16;
+function validateBank(subject, code, bankName, items) {
+  const minimum = subject === "english" ? 8 : bankName === "practice" ? 24 : 16;
+  const expectedChoices = subject === "english" ? 4 : 3;
   if (items.length < minimum) addError(code, bankName, null, `has ${items.length} items; minimum is ${minimum}`);
   const ids = new Set();
   const prompts = new Set();
-  const positions = [0, 0, 0];
+  const positions = Array(expectedChoices).fill(0);
 
   for (const [offset, item] of items.entries()) {
     const id = item.id || `item-${offset + 1}`;
@@ -143,10 +144,10 @@ function validateBank(code, bankName, items) {
     }
 
     const choices = answers(item);
-    if (choices.length !== 3) addError(code, bankName, id, `has ${choices.length} choices; expected 3`);
+    if (choices.length !== expectedChoices) addError(code, bankName, id, `has ${choices.length} choices; expected ${expectedChoices}`);
     if (new Set(choices.map(answerText).map(normalise)).size !== choices.length) addError(code, bankName, id, "duplicate choices");
     const correct = correctIndex(item, choices);
-    if (!Number.isInteger(correct) || correct < 0 || correct > 2) addError(code, bankName, id, `invalid correct position ${correct}`);
+    if (!Number.isInteger(correct) || correct < 0 || correct >= expectedChoices) addError(code, bankName, id, `invalid correct position ${correct}`);
     else positions[correct] += 1;
     if (choices.some((choice) => !answerText(choice).trim())) addError(code, bankName, id, "empty choice");
     const embeddedCorrect = choices.filter((choice) => choice?.is_correct === true);
@@ -203,10 +204,10 @@ for (const subject of selectedSubjects) {
     const practiceKeys = new Set(practice.map(fingerprint));
     const overlap = test.filter((item) => practiceKeys.has(fingerprint(item))).length;
     if (overlap) addError(code, "banks", null, `${overlap} Practice/Test duplicates`);
-    const practiceResult = validateBank(code, "practice", practice);
-    const testResult = validateBank(code, "test", test);
-    validatePage(code, "practice", practiceHtml, practice.length);
-    validatePage(code, "test", testHtml, test.length);
+    const practiceResult = validateBank(subject, code, "practice", practice);
+    const testResult = validateBank(subject, code, "test", test);
+    validatePage(subject, code, "practice", practiceHtml, practice.length);
+    validatePage(subject, code, "test", testHtml, test.length);
     results.push({ subject, code, practice: practiceResult.count, test: testResult.count, practiceScript, testScript });
   }
 }

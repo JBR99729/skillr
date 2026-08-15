@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6ly03-p-001",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_stage",
+    "question": "Which response best links structure and language?",
+    "audio_prompt": "Which response best links structure and language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
+        "is_correct": true
+      },
+      {
+        "text": "The text has although",
+        "is_correct": false
+      },
+      {
+        "text": "The text has paragraphs",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates identify stage in the stated context.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-002",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text_structure",
+    "question": "Which term means “organisation of stages and phases”?",
+    "audio_prompt": "Which term means “organisation of stages and phases”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "text structure means organisation of stages and phases.",
+      "hint": "Match the definition to the most precise term used in How Structure and Language Work Together."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-003",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "link_feature_to_stage",
+    "question": "Why might a graph appear in a persuasive stage?",
+    "audio_prompt": "Why might a graph appear in a persuasive stage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Because every graph proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "Only for decoration",
+        "is_correct": false
+      },
+      {
+        "text": "To support a claim while also directing attention",
+        "is_correct": true
+      },
+      {
+        "text": "To replace explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-004",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use context",
+        "is_correct": false
+      },
+      {
+        "text": "Explain audience guidance",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse interaction",
+        "is_correct": false
+      },
+      {
+        "text": "Connect them to stage and purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connect them to stage and purpose",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-005",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse_a_persuasive_feature_system",
+    "question": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
+    "audio_prompt": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "opening problem → emotive image + evaluative headline → creates urgency",
+        "is_correct": true
+      },
+      {
+        "text": "creates urgency → emotive image + evaluative headline → opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "reason 1 → topic sentence + data → builds evidence",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-006",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about How Structure and Language Work Together?",
+    "audio_prompt": "Which principle should guide a response about How Structure and Language Work Together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect",
+        "is_correct": true
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A feature does not work alone. Explain how its placement within the structure changes its effect",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-007",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
+    "audio_prompt": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    }
+  },
+  {
+    "id": "ac9e6ly03-p-008",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
+    "audio_prompt": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Students explain how stages, paragraph order, sentence patterns, vocabulary, modality, cohesion and multimodal features form a coordinated meaning system The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-001",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language_feature",
+    "question": "In a new text, which definition correctly identifies language feature?",
+    "audio_prompt": "In a new text, which definition correctly identifies language feature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word, sentence or cohesion choice",
+        "is_correct": true
+      },
+      {
+        "text": "Organisation of stages and phases",
+        "is_correct": false
+      },
+      {
+        "text": "Intended communicative outcome",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "language feature means word, sentence or cohesion choice.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-002",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Connect them to stage and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Use context",
+        "is_correct": true
+      },
+      {
+        "text": "Explain audience guidance",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use context",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-003",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_a_persuasive_feature_system",
+    "question": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within How Structure and Language Work Together, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-004",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_feature_function_across_purposes",
+    "question": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-005",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "purpose",
+    "question": "Which example best demonstrates an understanding of purpose?",
+    "audio_prompt": "Which example best demonstrates an understanding of purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Intended communicative outcome, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Visual and verbal modes separated",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "purpose is intended communicative outcome.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-006",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-007",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
+    "audio_prompt": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    }
+  },
+  {
+    "id": "ac9e6ly03-t-008",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
+    "audio_prompt": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6le05-p-001",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_mentor_technique",
+    "question": "Which approach is genuine adaptation?",
+    "audio_prompt": "Which approach is genuine adaptation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the mentor text’s suspense structure with new events, setting and characters",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the plot and change names",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat exact descriptions",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the same ending unchanged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates identify mentor technique in the stated context.",
+      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-002",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "adaptation",
+    "question": "Which term means “transformation of source techniques into a new text”?",
+    "audio_prompt": "Which term means “transformation of source techniques into a new text”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "character motivation",
+        "is_correct": false
+      },
+      {
+        "text": "adaptation",
+        "is_correct": true
+      },
+      {
+        "text": "plot causality",
+        "is_correct": false
+      },
+      {
+        "text": "Adaptation copies story with renamed characters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "adaptation means transformation of source techniques into a new text.",
+      "hint": "Match the definition to the most precise term used in Adapting Plot, Character, Setting and Style."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-003",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "plan_original_transformation",
+    "question": "Which revision makes setting functional?",
+    "audio_prompt": "Which revision makes setting functional?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The room is blue",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is named once",
+        "is_correct": false
+      },
+      {
+        "text": "A flood blocks the only route and forces a decision",
+        "is_correct": true
+      },
+      {
+        "text": "The background never affects events",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-004",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Adaptation copies story with renamed characters.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Adaptation copies story with renamed characters.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use foreshadowing and causal logic",
+        "is_correct": false
+      },
+      {
+        "text": "Make it constrain or enable action",
+        "is_correct": false
+      },
+      {
+        "text": "Show through choices and consequences",
+        "is_correct": false
+      },
+      {
+        "text": "Transform context, decisions and language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transform context, decisions and language",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-005",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "transform_rather_than_copy_a_mentor_text",
+    "question": "Which pairing accurately reflects the model for Adapting Plot, Character, Setting and Style?",
+    "audio_prompt": "Which pairing accurately reflects the model for Adapting Plot, Character, Setting and Style?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "begin at climax → open with failed space-station repair",
+        "is_correct": true
+      },
+      {
+        "text": "open with failed space-station repair → begin at climax",
+        "is_correct": false
+      },
+      {
+        "text": "unreliable first person → narrator misunderstands sensor warnings",
+        "is_correct": false
+      },
+      {
+        "text": "Twist has no preparation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-006",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Adapting Plot, Character, Setting and Style?",
+    "audio_prompt": "Which principle should guide a response about Adapting Plot, Character, Setting and Style?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adaptation copies story with renamed characters",
+        "is_correct": false
+      },
+      {
+        "text": "Adapt technique and structural function, not exact wording, event sequence or character identities",
+        "is_correct": true
+      },
+      {
+        "text": "Twist has no preparation",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is decorative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adapt technique and structural function, not exact wording, event sequence or character identities",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-007",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Plan an original story adapting one structural technique, one viewpoint feature and one motif from mentor texts?",
+    "audio_prompt": "Which plan would best complete this task: Plan an original story adapting one structural technique, one viewpoint feature and one motif from mentor texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    }
+  },
+  {
+    "id": "ac9e6le05-p-008",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Adapting Plot, Character, Setting and Style?",
+    "audio_prompt": "Which evidence would best show secure understanding of Adapting Plot, Character, Setting and Style?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adaptation copies story with renamed characters",
+        "is_correct": false
+      },
+      {
+        "text": "Twist has no preparation",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is decorative",
+        "is_correct": false
+      },
+      {
+        "text": "Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-001",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "character_motivation",
+    "question": "In a new text, which definition correctly identifies character motivation?",
+    "audio_prompt": "In a new text, which definition correctly identifies character motivation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Goal, belief or need driving choices",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation of source techniques into a new text",
+        "is_correct": false
+      },
+      {
+        "text": "Relationship where events and decisions create consequences",
+        "is_correct": false
+      },
+      {
+        "text": "Twist has no preparation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "character motivation means goal, belief or need driving choices.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-002",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Twist has no preparation.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Twist has no preparation.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Transform context, decisions and language",
+        "is_correct": false
+      },
+      {
+        "text": "Use foreshadowing and causal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Make it constrain or enable action",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use foreshadowing and causal logic",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-003",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transform_rather_than_copy_a_mentor_text",
+    "question": "Which interpretation of this model element is accurate: “unreliable first person → narrator misunderstands sensor warnings”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “unreliable first person → narrator misunderstands sensor warnings”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Adapting Plot, Character, Setting and Style, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-004",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_a_layered_revision_process",
+    "question": "When applying Adapting Plot, Character, Setting and Style to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Adapting Plot, Character, Setting and Style to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-005",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plot_causality",
+    "question": "Which example best demonstrates an understanding of plot causality?",
+    "audio_prompt": "Which example best demonstrates an understanding of plot causality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Relationship where events and decisions create consequences, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Setting is decorative",
+        "is_correct": false
+      },
+      {
+        "text": "Character change is announced only",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "plot causality is relationship where events and decisions create consequences.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-006",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Adapting Plot, Character, Setting and Style?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Adapting Plot, Character, Setting and Style?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-007",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Write two alternative climaxes arising from different character decisions and evaluate thematic effects?",
+    "audio_prompt": "Which response plan best addresses this challenge: Write two alternative climaxes arising from different character decisions and evaluate thematic effects?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    }
+  },
+  {
+    "id": "ac9e6le05-t-008",
+    "curriculum_code": "AC9E6LE05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Audit a draft for accidental copying and redesign the most derivative elements?",
+    "audio_prompt": "Which approach best addresses this evaluation: Audit a draft for accidental copying and redesign the most derivative elements?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

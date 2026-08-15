@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6ly06-p-001",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "plan_purpose_audience",
+    "question": "Which stage most directly improves ideas and structure?",
+    "audio_prompt": "Which stage most directly improves ideas and structure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revision",
+        "is_correct": true
+      },
+      {
+        "text": "printing",
+        "is_correct": false
+      },
+      {
+        "text": "spell-check only",
+        "is_correct": false
+      },
+      {
+        "text": "font colour selection",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates plan purpose/audience in the stated context.",
+      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-002",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "revision",
+    "question": "Which term means “substantive improvement of meaning and structure”?",
+    "audio_prompt": "Which term means “substantive improvement of meaning and structure”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "revision",
+        "is_correct": true
+      },
+      {
+        "text": "publishing",
+        "is_correct": false
+      },
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "revision means substantive improvement of meaning and structure.",
+      "hint": "Match the definition to the most precise term used in Creating and Publishing Sustained Written and Multimodal Texts."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-003",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organise_stages",
+    "question": "Which visual is integrated effectively?",
+    "audio_prompt": "Which visual is integrated effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unrelated stock image",
+        "is_correct": false
+      },
+      {
+        "text": "A logo covering data",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled diagram discussed in the explanation",
+        "is_correct": true
+      },
+      {
+        "text": "A picture with no caption or role",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-004",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “First draft treated as final.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “First draft treated as final.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Work from large scale to detail",
+        "is_correct": false
+      },
+      {
+        "text": "Plan their meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Attribute evidence and media",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use feedback and revision",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-005",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_a_layered_production_cycle",
+    "question": "Which pairing accurately reflects the model for Creating and Publishing Sustained Written and Multimodal Texts?",
+    "audio_prompt": "Which pairing accurately reflects the model for Creating and Publishing Sustained Written and Multimodal Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plan → ideas, evidence, structure, visual roles",
+        "is_correct": true
+      },
+      {
+        "text": "ideas, evidence, structure, visual roles → Plan",
+        "is_correct": false
+      },
+      {
+        "text": "Draft → paragraphs, stages and sentence relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Editing begins before structural problems are solved",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-006",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Creating and Publishing Sustained Written and Multimodal Texts?",
+    "audio_prompt": "Which principle should guide a response about Creating and Publishing Sustained Written and Multimodal Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "The process is recursive. New evidence or feedback may require returning to planning or restructuring",
+        "is_correct": true
+      },
+      {
+        "text": "Editing begins before structural problems are solved",
+        "is_correct": false
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The process is recursive. New evidence or feedback may require returning to planning or restructuring",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-007",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Plan a sustained multimodal text with paragraph purposes, visual roles, evidence and revision checkpoints?",
+    "audio_prompt": "Which plan would best complete this task: Plan a sustained multimodal text with paragraph purposes, visual roles, evidence and revision checkpoints?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+    }
+  },
+  {
+    "id": "ac9e6ly06-p-008",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Creating and Publishing Sustained Written and Multimodal Texts?",
+    "audio_prompt": "Which evidence would best show secure understanding of Creating and Publishing Sustained Written and Multimodal Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Editing begins before structural problems are solved",
+        "is_correct": false
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-001",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "editing",
+    "question": "In a new text, which definition correctly identifies editing?",
+    "audio_prompt": "In a new text, which definition correctly identifies editing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Checking language conventions and accuracy",
+        "is_correct": true
+      },
+      {
+        "text": "Substantive improvement of meaning and structure",
+        "is_correct": false
+      },
+      {
+        "text": "Preparing and sharing a finished accessible text",
+        "is_correct": false
+      },
+      {
+        "text": "Editing begins before structural problems are solved",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "editing means checking language conventions and accuracy.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-002",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Editing begins before structural problems are solved.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Editing begins before structural problems are solved.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Work from large scale to detail",
+        "is_correct": true
+      },
+      {
+        "text": "Plan their meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Work from large scale to detail",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-003",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_a_layered_production_cycle",
+    "question": "Which interpretation of this model element is accurate: “Draft → paragraphs, stages and sentence relationships”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “Draft → paragraphs, stages and sentence relationships”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Creating and Publishing Sustained Written and Multimodal Texts, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-004",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "match_text_resources_to_purpose",
+    "question": "When applying Creating and Publishing Sustained Written and Multimodal Texts to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Creating and Publishing Sustained Written and Multimodal Texts to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-005",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "publishing",
+    "question": "Which example best demonstrates an understanding of publishing?",
+    "audio_prompt": "Which example best demonstrates an understanding of publishing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Preparing and sharing a finished accessible text, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Sources omitted",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "publishing is preparing and sharing a finished accessible text.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-006",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Creating and Publishing Sustained Written and Multimodal Texts?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Creating and Publishing Sustained Written and Multimodal Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-007",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Create a collaborative publishing workflow with version control, accessibility and source verification?",
+    "audio_prompt": "Which response plan best addresses this challenge: Create a collaborative publishing workflow with version control, accessibility and source verification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+    }
+  },
+  {
+    "id": "ac9e6ly06-t-008",
+    "curriculum_code": "AC9E6LY06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Synthesize two drafts with different strengths without combining their weaknesses?",
+    "audio_prompt": "Which approach best addresses this evaluation: Synthesize two drafts with different strengths without combining their weaknesses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

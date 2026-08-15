@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6ly05-p-001",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "build_inference",
+    "question": "Which statement is an inference?",
+    "audio_prompt": "Which statement is an inference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
+        "text": "The graph labels 12%",
+        "is_correct": false
+      },
+      {
+        "text": "The heading is Demand",
+        "is_correct": false
+      },
+      {
+        "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates build inference in the stated context.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-002",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "inference",
+    "question": "Which term means “meaning built from evidence and knowledge”?",
+    "audio_prompt": "Which term means “meaning built from evidence and knowledge”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "inference means meaning built from evidence and knowledge.",
+      "hint": "Match the definition to the most precise term used in Comprehension, Inference and Critical Evaluation."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-003",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "revise_prediction",
+    "question": "Which is a valid evaluation criterion?",
+    "audio_prompt": "Which is a valid evaluation criterion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "whether the reader likes the topic",
+        "is_correct": false
+      },
+      {
+        "text": "the font alone",
+        "is_correct": false
+      },
+      {
+        "text": "sample quality and evidence transparency",
+        "is_correct": true
+      },
+      {
+        "text": "personal agreement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-004",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Select central relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Link it to interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use evidence and criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Revise with evidence",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-005",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_a_strategic_comprehension_cycle",
+    "question": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
+    "audio_prompt": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "level → example",
+        "is_correct": true
+      },
+      {
+        "text": "example → level",
+        "is_correct": false
+      },
+      {
+        "text": "literal → The graph shows a 12% decline.",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-006",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
+    "audio_prompt": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
+        "is_correct": true
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-007",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
+    "audio_prompt": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    }
+  },
+  {
+    "id": "ac9e6ly05-p-008",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
+    "audio_prompt": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      },
+      {
+        "text": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-001",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "monitoring",
+    "question": "In a new text, which definition correctly identifies monitoring?",
+    "audio_prompt": "In a new text, which definition correctly identifies monitoring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Checking and regulating understanding",
+        "is_correct": true
+      },
+      {
+        "text": "Meaning built from evidence and knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "Judgement supported by criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "monitoring means checking and regulating understanding.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-002",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Select central relationships",
+        "is_correct": true
+      },
+      {
+        "text": "Link it to interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select central relationships",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-003",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_a_strategic_comprehension_cycle",
+    "question": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Comprehension, Inference and Critical Evaluation, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-004",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "separate_literal_inferred_and_evaluative_claims",
+    "question": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-005",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluation",
+    "question": "Which example best demonstrates an understanding of evaluation?",
+    "audio_prompt": "Which example best demonstrates an understanding of evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Judgement supported by criteria, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluation equals liking",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "evaluation is judgement supported by criteria.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-006",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-007",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
+    "audio_prompt": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    }
+  },
+  {
+    "id": "ac9e6ly05-t-008",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
+    "audio_prompt": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6la07-p-001",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "choose_visual_type",
+    "question": "Which visual best shows exact values across categories?",
+    "audio_prompt": "Which visual best shows exact values across categories?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "table",
+        "is_correct": true
+      },
+      {
+        "text": "unlabelled photograph",
+        "is_correct": false
+      },
+      {
+        "text": "decorative icon",
+        "is_correct": false
+      },
+      {
+        "text": "colour wash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates choose visual type in the stated context.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-002",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "figure",
+    "question": "Which term means “numbered visual representation in a text”?",
+    "audio_prompt": "Which term means “numbered visual representation in a text”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "figure",
+        "is_correct": true
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "figure means numbered visual representation in a text.",
+      "hint": "Match the definition to the most precise term used in Images, Figures, Tables, Diagrams, Maps and Graphs."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-003",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "read_graph_scale",
+    "question": "What can a caption do?",
+    "audio_prompt": "What can a caption do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guarantee the visual is unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every label",
+        "is_correct": false
+      },
+      {
+        "text": "Identify and frame interpretation of a visual",
+        "is_correct": true
+      },
+      {
+        "text": "Make scale unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-004",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read axes and source",
+        "is_correct": false
+      },
+      {
+        "text": "It can frame interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Integrate evidence from both modes",
+        "is_correct": false
+      },
+      {
+        "text": "Name the form and function precisely",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Name the form and function precisely",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-005",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "match_visual_form_to_communicative_purpose",
+    "question": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "audio_prompt": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "table → exact values and categories → headers, units, totals",
+        "is_correct": true
+      },
+      {
+        "text": "headers, units, totals → exact values and categories → table",
+        "is_correct": false
+      },
+      {
+        "text": "graph → pattern, comparison or change → axes, scale, source",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-006",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "audio_prompt": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-007",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
+    "audio_prompt": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    }
+  },
+  {
+    "id": "ac9e6la07-p-008",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "audio_prompt": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      },
+      {
+        "text": "Students distinguish decorative, organisational, evidential and explanatory visual roles, read labels and scales and explain how visuals combine with captions and surrounding prose The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-001",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "caption",
+    "question": "In a new text, which definition correctly identifies caption?",
+    "audio_prompt": "In a new text, which definition correctly identifies caption?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Text identifying and interpreting a visual",
+        "is_correct": true
+      },
+      {
+        "text": "Numbered visual representation in a text",
+        "is_correct": false
+      },
+      {
+        "text": "Way image/data and words interact",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "caption means text identifying and interpreting a visual.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-002",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name the form and function precisely",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes and source",
+        "is_correct": true
+      },
+      {
+        "text": "It can frame interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read axes and source",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-003",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "match_visual_form_to_communicative_purpose",
+    "question": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Images, Figures, Tables, Diagrams, Maps and Graphs, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-004",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluate_visual_verbal_alignment",
+    "question": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-005",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual_verbal_relationship",
+    "question": "Which example best demonstrates an understanding of visual–verbal relationship?",
+    "audio_prompt": "Which example best demonstrates an understanding of visual–verbal relationship?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Way image/data and words interact, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      },
+      {
+        "text": "Visual information not mentioned in response",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "visual–verbal relationship is way image/data and words interact.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-006",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-007",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
+    "audio_prompt": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    }
+  },
+  {
+    "id": "ac9e6la07-t-008",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
+    "audio_prompt": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

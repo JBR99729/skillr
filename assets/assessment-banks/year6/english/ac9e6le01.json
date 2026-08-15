@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6le01-p-001",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_response",
+    "question": "Which response is best supported?",
+    "audio_prompt": "Which response is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The refusal appears courageous because it prevents harm despite institutional pressure",
+        "is_correct": true
+      },
+      {
+        "text": "The character is good",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone would agree",
+        "is_correct": false
+      },
+      {
+        "text": "The decision has no context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates state response in the stated context.",
+      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-002",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reader_response",
+    "question": "Which term means “interpretation or evaluation developed by a reader”?",
+    "audio_prompt": "Which term means “interpretation or evaluation developed by a reader”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "context",
+        "is_correct": false
+      },
+      {
+        "text": "reader response",
+        "is_correct": true
+      },
+      {
+        "text": "textual evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Personal reaction treated as self-evident",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reader response means interpretation or evaluation developed by a reader.",
+      "hint": "Match the definition to the most precise term used in Responses to Characters and Events across Contexts."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-003",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cite_character_evidence",
+    "question": "Which statement recognises interpretive difference?",
+    "audio_prompt": "Which statement recognises interpretive difference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only one reader response is possible",
+        "is_correct": false
+      },
+      {
+        "text": "Context proves the character is correct",
+        "is_correct": false
+      },
+      {
+        "text": "Another reader may value loyalty more strongly, but must still use evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Personal preference needs no text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-004",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Personal reaction treated as self-evident.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Personal reaction treated as self-evident.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consider available norms and constraints",
+        "is_correct": false
+      },
+      {
+        "text": "Context explains but does not remove evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the text and representation",
+        "is_correct": false
+      },
+      {
+        "text": "Explain feature and evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain feature and evidence",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-005",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "build_a_contextual_character_response",
+    "question": "Which pairing accurately reflects the model for Responses to Characters and Events across Contexts?",
+    "audio_prompt": "Which pairing accurately reflects the model for Responses to Characters and Events across Contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Text evidence → The order would endanger another person",
+        "is_correct": true
+      },
+      {
+        "text": "The order would endanger another person → Text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Context → The institution expects unquestioned obedience",
+        "is_correct": false
+      },
+      {
+        "text": "Historical character judged without context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-006",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Responses to Characters and Events across Contexts?",
+    "audio_prompt": "Which principle should guide a response about Responses to Characters and Events across Contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal reaction treated as self-evident",
+        "is_correct": false
+      },
+      {
+        "text": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place",
+        "is_correct": true
+      },
+      {
+        "text": "Historical character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Context used to excuse all actions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-007",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Compare two defensible responses to one difficult character decision, using evidence and context?",
+    "audio_prompt": "Which plan would best complete this task: Compare two defensible responses to one difficult character decision, using evidence and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+    }
+  },
+  {
+    "id": "ac9e6le01-p-008",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Responses to Characters and Events across Contexts?",
+    "audio_prompt": "Which evidence would best show secure understanding of Responses to Characters and Events across Contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal reaction treated as self-evident",
+        "is_correct": false
+      },
+      {
+        "text": "Historical character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Context used to excuse all actions",
+        "is_correct": false
+      },
+      {
+        "text": "Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-001",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "context",
+    "question": "In a new text, which definition correctly identifies context?",
+    "audio_prompt": "In a new text, which definition correctly identifies context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Historical, social or cultural conditions relevant to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Interpretation or evaluation developed by a reader",
+        "is_correct": false
+      },
+      {
+        "text": "Specific wording, event or visual detail supporting a claim",
+        "is_correct": false
+      },
+      {
+        "text": "Historical character judged without context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "context means historical, social or cultural conditions relevant to meaning.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-002",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Historical character judged without context.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Historical character judged without context.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain feature and evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Consider available norms and constraints",
+        "is_correct": true
+      },
+      {
+        "text": "Context explains but does not remove evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consider available norms and constraints",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-003",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "build_a_contextual_character_response",
+    "question": "Which interpretation of this model element is accurate: “Context → The institution expects unquestioned obedience”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “Context → The institution expects unquestioned obedience”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Responses to Characters and Events across Contexts, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-004",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_reader_positions",
+    "question": "When applying Responses to Characters and Events across Contexts to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Responses to Characters and Events across Contexts to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-005",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual_evidence",
+    "question": "Which example best demonstrates an understanding of textual evidence?",
+    "audio_prompt": "Which example best demonstrates an understanding of textual evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specific wording, event or visual detail supporting a claim, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Context used to excuse all actions",
+        "is_correct": false
+      },
+      {
+        "text": "One perspective generalised to a culture",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "textual evidence is specific wording, event or visual detail supporting a claim.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-006",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Responses to Characters and Events across Contexts?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Responses to Characters and Events across Contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-007",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Write a response that changes after new contextual information is revealed, explaining the revision?",
+    "audio_prompt": "Which response plan best addresses this challenge: Write a response that changes after new contextual information is revealed, explaining the revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+    }
+  },
+  {
+    "id": "ac9e6le01-t-008",
+    "curriculum_code": "AC9E6LE01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Evaluate when historical context should complicate moral judgement without eliminating it?",
+    "audio_prompt": "Which approach best addresses this evaluation: Evaluate when historical context should complicate moral judgement without eliminating it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

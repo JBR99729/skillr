@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6la03-p-001",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_stages",
+    "question": "Which sequence best suits a scientific investigation report?",
+    "audio_prompt": "Which sequence best suits a scientific investigation report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "question, method, results, conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "orientation, climax, resolution only",
+        "is_correct": false
+      },
+      {
+        "text": "slogan, price, purchase",
+        "is_correct": false
+      },
+      {
+        "text": "greeting, joke, farewell",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates identify stages in the stated context.",
+      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-002",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "stage",
+    "question": "Which term means “major functional section”?",
+    "audio_prompt": "Which term means “major functional section”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "stage",
+        "is_correct": true
+      },
+      {
+        "text": "disciplinary language",
+        "is_correct": false
+      },
+      {
+        "text": "Stage equals one paragraph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "stage means major functional section.",
+      "hint": "Match the definition to the most precise term used in Organisation of Curriculum Texts."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-003",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "name_a_phase",
+    "question": "What is a phase?",
+    "audio_prompt": "What is a phase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Always a whole book",
+        "is_correct": false
+      },
+      {
+        "text": "A punctuation mark",
+        "is_correct": false
+      },
+      {
+        "text": "A smaller functional move within a stage",
+        "is_correct": true
+      },
+      {
+        "text": "An unrelated decoration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-004",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Stage equals one paragraph.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Stage equals one paragraph.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Purpose determines form",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and evidence shape organisation",
+        "is_correct": false
+      },
+      {
+        "text": "They can form explanatory phases",
+        "is_correct": false
+      },
+      {
+        "text": "Stages can span several paragraphs or modes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Stages can span several paragraphs or modes",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-005",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_disciplinary_text_structures",
+    "question": "Which pairing accurately reflects the model for Organisation of Curriculum Texts?",
+    "audio_prompt": "Which pairing accurately reflects the model for Organisation of Curriculum Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "science investigation → question–method–results–conclusion → variables, measurements, cautious claims",
+        "is_correct": true
+      },
+      {
+        "text": "variables, measurements, cautious claims → question–method–results–conclusion → science investigation",
+        "is_correct": false
+      },
+      {
+        "text": "historical explanation → context–causes–events–consequences → chronology, sources, causality",
+        "is_correct": false
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-006",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Organisation of Curriculum Texts?",
+    "audio_prompt": "Which principle should guide a response about Organisation of Curriculum Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stage equals one paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose",
+        "is_correct": true
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      },
+      {
+        "text": "Template followed without adaptation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-007",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Map stages and phases in a multimodal explanation and explain how each mode contributes?",
+    "audio_prompt": "Which plan would best complete this task: Map stages and phases in a multimodal explanation and explain how each mode contributes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    }
+  },
+  {
+    "id": "ac9e6la03-p-008",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Organisation of Curriculum Texts?",
+    "audio_prompt": "Which evidence would best show secure understanding of Organisation of Curriculum Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stage equals one paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      },
+      {
+        "text": "Template followed without adaptation",
+        "is_correct": false
+      },
+      {
+        "text": "Students compare reports, explanations, arguments, procedures, historical accounts and multimodal presentations and connect their stages, evidence patterns and specialised language to purpose The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-001",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "phase",
+    "question": "In a new text, which definition correctly identifies phase?",
+    "audio_prompt": "In a new text, which definition correctly identifies phase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Smaller move developing a stage",
+        "is_correct": true
+      },
+      {
+        "text": "Major functional section",
+        "is_correct": false
+      },
+      {
+        "text": "Specialised language patterns of a subject",
+        "is_correct": false
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "phase means smaller move developing a stage.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-002",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Every subject uses one text type.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Every subject uses one text type.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stages can span several paragraphs or modes",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose determines form",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and evidence shape organisation",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purpose determines form",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-003",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_disciplinary_text_structures",
+    "question": "Which interpretation of this model element is accurate: “historical explanation → context–causes–events–consequences → chronology, sources, causality”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “historical explanation → context–causes–events–consequences → chronology, sources, causality”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Organisation of Curriculum Texts, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-004",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_stages_and_phases_in_a_hybrid_text",
+    "question": "When applying Organisation of Curriculum Texts to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Organisation of Curriculum Texts to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-005",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "disciplinary_language",
+    "question": "Which example best demonstrates an understanding of disciplinary language?",
+    "audio_prompt": "Which example best demonstrates an understanding of disciplinary language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specialised language patterns of a subject, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Template followed without adaptation",
+        "is_correct": false
+      },
+      {
+        "text": "Visuals excluded from structure",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "disciplinary language is specialised language patterns of a subject.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-006",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Organisation of Curriculum Texts?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Organisation of Curriculum Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-007",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Design a hybrid text combining report, explanation and argument while preserving a clear dominant purpose?",
+    "audio_prompt": "Which response plan best addresses this challenge: Design a hybrid text combining report, explanation and argument while preserving a clear dominant purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    }
+  },
+  {
+    "id": "ac9e6la03-t-008",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Compare two effective texts with the same purpose but different organisational choices?",
+    "audio_prompt": "Which approach best addresses this evaluation: Compare two effective texts with the same purpose but different organisational choices?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

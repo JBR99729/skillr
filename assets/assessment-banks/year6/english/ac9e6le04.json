@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6le04-p-001",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "mark_sound_pattern",
+    "question": "Which phrase uses alliteration?",
+    "audio_prompt": "Which phrase uses alliteration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cold currents curled",
+        "is_correct": true
+      },
+      {
+        "text": "the current was cold",
+        "is_correct": false
+      },
+      {
+        "text": "water moved",
+        "is_correct": false
+      },
+      {
+        "text": "a blue river",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates mark sound pattern in the stated context.",
+      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-002",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "assonance",
+    "question": "Which term means “repetition of vowel sounds”?",
+    "audio_prompt": "Which term means “repetition of vowel sounds”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rhythm",
+        "is_correct": false
+      },
+      {
+        "text": "assonance",
+        "is_correct": true
+      },
+      {
+        "text": "imagery",
+        "is_correct": false
+      },
+      {
+        "text": "Rhyme considered the only sound device",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "assonance means repetition of vowel sounds.",
+      "hint": "Match the definition to the most precise term used in Sound and Imagery in Literary Texts."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-003",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_imagery",
+    "question": "What can a line break do?",
+    "audio_prompt": "What can a line break do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guarantee rhyme",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all rhythm",
+        "is_correct": false
+      },
+      {
+        "text": "Delay or emphasise meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Prove one reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-004",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Rhyme considered the only sound device.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Rhyme considered the only sound device.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use evidence and context",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation and lineation guide it",
+        "is_correct": false
+      },
+      {
+        "text": "Consider figurative comparison",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse stress, repetition and internal sounds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Analyse stress, repetition and internal sounds",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-005",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse_a_sound_image_pattern",
+    "question": "Which pairing accurately reflects the model for Sound and Imagery in Literary Texts?",
+    "audio_prompt": "Which pairing accurately reflects the model for Sound and Imagery in Literary Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "alliteration → cold currents curled → links sound and circular movement",
+        "is_correct": true
+      },
+      {
+        "text": "links sound and circular movement → cold currents curled → alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "assonance → low road home → stretches mournful vowel",
+        "is_correct": false
+      },
+      {
+        "text": "Device name replaces effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-006",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Sound and Imagery in Literary Texts?",
+    "audio_prompt": "Which principle should guide a response about Sound and Imagery in Literary Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rhyme considered the only sound device",
+        "is_correct": false
+      },
+      {
+        "text": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment",
+        "is_correct": true
+      },
+      {
+        "text": "Device name replaces effect",
+        "is_correct": false
+      },
+      {
+        "text": "Performance treated as separate from text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-007",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Analyse one poem or passage for a connected sound and image pattern, including performance choices?",
+    "audio_prompt": "Which plan would best complete this task: Analyse one poem or passage for a connected sound and image pattern, including performance choices?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+    }
+  },
+  {
+    "id": "ac9e6le04-p-008",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Sound and Imagery in Literary Texts?",
+    "audio_prompt": "Which evidence would best show secure understanding of Sound and Imagery in Literary Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rhyme considered the only sound device",
+        "is_correct": false
+      },
+      {
+        "text": "Device name replaces effect",
+        "is_correct": false
+      },
+      {
+        "text": "Performance treated as separate from text",
+        "is_correct": false
+      },
+      {
+        "text": "Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-001",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "rhythm",
+    "question": "In a new text, which definition correctly identifies rhythm?",
+    "audio_prompt": "In a new text, which definition correctly identifies rhythm?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pattern of beats, stress and timing",
+        "is_correct": true
+      },
+      {
+        "text": "Repetition of vowel sounds",
+        "is_correct": false
+      },
+      {
+        "text": "Language evoking sensory or conceptual experience",
+        "is_correct": false
+      },
+      {
+        "text": "Device name replaces effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "rhythm means pattern of beats, stress and timing.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-002",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Device name replaces effect.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Device name replaces effect.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Analyse stress, repetition and internal sounds",
+        "is_correct": false
+      },
+      {
+        "text": "Use evidence and context",
+        "is_correct": true
+      },
+      {
+        "text": "Punctuation and lineation guide it",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use evidence and context",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-003",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_a_sound_image_pattern",
+    "question": "Which interpretation of this model element is accurate: “assonance → low road home → stretches mournful vowel”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “assonance → low road home → stretches mournful vowel”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Sound and Imagery in Literary Texts, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-004",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_performance_possibilities",
+    "question": "When applying Sound and Imagery in Literary Texts to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Sound and Imagery in Literary Texts to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-005",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "imagery",
+    "question": "Which example best demonstrates an understanding of imagery?",
+    "audio_prompt": "Which example best demonstrates an understanding of imagery?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Language evoking sensory or conceptual experience, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Performance treated as separate from text",
+        "is_correct": false
+      },
+      {
+        "text": "Image interpreted literally only",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "imagery is language evoking sensory or conceptual experience.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-006",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Sound and Imagery in Literary Texts?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Sound and Imagery in Literary Texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-007",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Write and perform a short poem where rhythm changes at a thematic turning point?",
+    "audio_prompt": "Which response plan best addresses this challenge: Write and perform a short poem where rhythm changes at a thematic turning point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+    }
+  },
+  {
+    "id": "ac9e6le04-t-008",
+    "curriculum_code": "AC9E6LE04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Compare two performances of the same text and justify different interpretations?",
+    "audio_prompt": "Which approach best addresses this evaluation: Compare two performances of the same text and justify different interpretations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]

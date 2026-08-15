@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e6ly02-p-001",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrase_claim",
+    "question": "Which response paraphrases before challenging?",
+    "audio_prompt": "Which response paraphrases before challenging?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So you argue that cost is the main issue; how does the long-term evidence affect that?",
+        "is_correct": true
+      },
+      {
+        "text": "Wrong",
+        "is_correct": false
+      },
+      {
+        "text": "I was not listening",
+        "is_correct": false
+      },
+      {
+        "text": "Let me change the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This choice best demonstrates paraphrase claim in the stated context.",
+      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-002",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paraphrase",
+    "question": "Which term means “accurate restatement in new words”?",
+    "audio_prompt": "Which term means “accurate restatement in new words”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "probing question",
+        "is_correct": false
+      },
+      {
+        "text": "paraphrase",
+        "is_correct": true
+      },
+      {
+        "text": "register",
+        "is_correct": false
+      },
+      {
+        "text": "Paraphrase repeats exact wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "paraphrase means accurate restatement in new words.",
+      "hint": "Match the definition to the most precise term used in Formal and Informal Interaction Skills."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-003",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "ask_probe",
+    "question": "Which move best suits a formal panel?",
+    "audio_prompt": "Which move best suits a formal panel?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nah, that’s bad",
+        "is_correct": false
+      },
+      {
+        "text": "Whatever",
+        "is_correct": false
+      },
+      {
+        "text": "Could you clarify the evidence supporting that conclusion?",
+        "is_correct": true
+      },
+      {
+        "text": "You always do this",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This answer applies the relevant language feature accurately.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-004",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "misconception_repair",
+    "question": "A student says, “Paraphrase repeats exact wording.” Which response best corrects the misunderstanding?",
+    "audio_prompt": "A student says, “Paraphrase repeats exact wording.” Which response best corrects the misunderstanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use neutral inquiry",
+        "is_correct": false
+      },
+      {
+        "text": "Formal discussion can include challenge",
+        "is_correct": false
+      },
+      {
+        "text": "Connect it and recognise its limits",
+        "is_correct": false
+      },
+      {
+        "text": "Restate meaning concisely",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Restate meaning concisely",
+      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-005",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_a_disciplined_discussion_response",
+    "question": "Which pairing accurately reflects the model for Formal and Informal Interaction Skills?",
+    "audio_prompt": "Which pairing accurately reflects the model for Formal and Informal Interaction Skills?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Paraphrase → So your position is…",
+        "is_correct": true
+      },
+      {
+        "text": "So your position is… → Paraphrase",
+        "is_correct": false
+      },
+      {
+        "text": "Clarify/probe → What evidence supports…?",
+        "is_correct": false
+      },
+      {
+        "text": "Question becomes an accusation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
+      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-006",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "concept_principle",
+    "question": "Which principle should guide a response about Formal and Informal Interaction Skills?",
+    "audio_prompt": "Which principle should guide a response about Formal and Informal Interaction Skills?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Paraphrase repeats exact wording",
+        "is_correct": false
+      },
+      {
+        "text": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes",
+        "is_correct": true
+      },
+      {
+        "text": "Question becomes an accusation",
+        "is_correct": false
+      },
+      {
+        "text": "Formality confused with silence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes",
+      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-007",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "guided_application",
+    "question": "Which plan would best complete this task: Write a six-turn discussion where participants paraphrase, probe, disagree and synthesize formally?",
+    "audio_prompt": "Which plan would best complete this task: Write a six-turn discussion where participants paraphrase, probe, disagree and synthesize formally?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List features without explaining their effects.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a personal preference without textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Discuss a different topic instead of the stated task.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    }
+  },
+  {
+    "id": "ac9e6ly02-p-008",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "reasoning",
+    "question": "Which evidence would best show secure understanding of Formal and Informal Interaction Skills?",
+    "audio_prompt": "Which evidence would best show secure understanding of Formal and Informal Interaction Skills?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Paraphrase repeats exact wording",
+        "is_correct": false
+      },
+      {
+        "text": "Question becomes an accusation",
+        "is_correct": false
+      },
+      {
+        "text": "Formality confused with silence",
+        "is_correct": false
+      },
+      {
+        "text": "Students listen for claims and reasons, paraphrase accurately, adapt register, ask clarifying or probing questions and justify a position while responding constructively to challenge The response also explains its evidence and limitations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
+      "hint": "Look for application and explanation rather than a feature name alone."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-001",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "probing_question",
+    "question": "In a new text, which definition correctly identifies probing question?",
+    "audio_prompt": "In a new text, which definition correctly identifies probing question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Question seeking deeper reasoning or evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Accurate restatement in new words",
+        "is_correct": false
+      },
+      {
+        "text": "Language choices suited to context",
+        "is_correct": false
+      },
+      {
+        "text": "Question becomes an accusation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "probing question means question seeking deeper reasoning or evidence.",
+      "hint": "Distinguish this term from related features in the unit."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-002",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "diagnosis",
+    "question": "A response shows this problem: “Question becomes an accusation.” What is the most effective revision?",
+    "audio_prompt": "A response shows this problem: “Question becomes an accusation.” What is the most effective revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Restate meaning concisely",
+        "is_correct": false
+      },
+      {
+        "text": "Use neutral inquiry",
+        "is_correct": true
+      },
+      {
+        "text": "Formal discussion can include challenge",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use neutral inquiry",
+      "hint": "Choose the repair that directly addresses the diagnosed problem."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-003",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_a_disciplined_discussion_response",
+    "question": "Which interpretation of this model element is accurate: “Clarify/probe → What evidence supportsthe omitted idea?”?",
+    "audio_prompt": "Which interpretation of this model element is accurate: “Clarify/probe → What evidence supportsthe omitted idea?”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part is decorative and can be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The second part always has the same effect in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows a deliberate relationship within Formal and Informal Interaction Skills, so both parts must be interpreted together.",
+        "is_correct": true
+      },
+      {
+        "text": "The pairing proves that no alternative interpretation is possible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
+      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-004",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adjust_interaction_language_by_context",
+    "question": "When applying Formal and Informal Interaction Skills to an unfamiliar text, which analytical move is strongest?",
+    "audio_prompt": "When applying Formal and Informal Interaction Skills to an unfamiliar text, which analytical move is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Name a feature and stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every audience responds identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace analysis with an unsupported personal judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-005",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "register",
+    "question": "Which example best demonstrates an understanding of register?",
+    "audio_prompt": "Which example best demonstrates an understanding of register?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Language choices suited to context, identified using evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Formality confused with silence",
+        "is_correct": false
+      },
+      {
+        "text": "Personal experience replaces evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A general comment that does not use the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "register is language choices suited to context.",
+      "hint": "Select the response that applies the definition and uses evidence."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-006",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transfer",
+    "question": "Which conclusion stays within the evidence when analysing Formal and Informal Interaction Skills?",
+    "audio_prompt": "Which conclusion stays within the evidence when analysing Formal and Informal Interaction Skills?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "This single example proves the rule applies identically everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "is_correct": false
+      },
+      {
+        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
+      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-007",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_analysis",
+    "question": "Which response plan best addresses this challenge: Design a discussion protocol that balances equitable participation, formality and evidence quality?",
+    "audio_prompt": "Which response plan best addresses this challenge: Design a discussion protocol that balances equitable participation, formality and evidence quality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Copy the lesson example without adapting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several unrelated features and do not explain them.",
+        "is_correct": false
+      },
+      {
+        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe the task but do not produce or analyse a response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    }
+  },
+  {
+    "id": "ac9e6ly02-t-008",
+    "curriculum_code": "AC9E6LY02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "skill": "critical_evaluation",
+    "question": "Which approach best addresses this evaluation: Analyse a transcript where participants misunderstand one another and repair key turns?",
+    "audio_prompt": "Which approach best addresses this evaluation: Analyse a transcript where participants misunderstand one another and repair key turns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a preferred answer before examining evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise each example without comparing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat one feature as proof of the whole judgement.",
+        "is_correct": false
+      },
+      {
+        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
+      "hint": "Build the judgement from evidence rather than preference."
+    }
+  }
+]
