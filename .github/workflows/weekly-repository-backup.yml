@@ -1,0 +1,98 @@
+name: Weekly repository backup
+
+on:
+  schedule:
+    # Sunday 22:00 Canberra during AEST (23:00 during AEDT).
+    - cron: '0 12 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: weekly-repository-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    name: Create verified backup
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out complete repository history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Set backup metadata
+        id: meta
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "stamp=$(date -u +'%Y-%m-%dT%H-%M-%SZ')" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Create portable backups
+        shell: bash
+        env:
+          STAMP: ${{ steps.meta.outputs.stamp }}
+        run: |
+          set -euo pipefail
+          mkdir -p backup
+
+          # A clean snapshot of all files tracked at the current main commit.
+          git archive --format=zip \
+            --output="backup/skillr-${STAMP}-source.zip" \
+            HEAD
+
+          # A portable Git repository backup including branches, tags and history.
+          git bundle create "backup/skillr-${STAMP}-history.bundle" --all
+
+          cat > "backup/skillr-${STAMP}-manifest.txt" <<EOF
+          Repository: $GITHUB_REPOSITORY
+          Commit: $(git rev-parse HEAD)
+          Branch/ref: $GITHUB_REF
+          Created UTC: $(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          Run ID: $GITHUB_RUN_ID
+          EOF
+
+          (cd backup && sha256sum *.zip *.bundle > "skillr-${STAMP}-sha256.txt")
+
+      - name: Verify backup integrity
+        shell: bash
+        env:
+          STAMP: ${{ steps.meta.outputs.stamp }}
+        run: |
+          set -euo pipefail
+          test -s "backup/skillr-${STAMP}-source.zip"
+          test -s "backup/skillr-${STAMP}-history.bundle"
+          unzip -t "backup/skillr-${STAMP}-source.zip" >/dev/null
+          git bundle verify "backup/skillr-${STAMP}-history.bundle"
+          (cd backup && sha256sum -c "skillr-${STAMP}-sha256.txt")
+
+      - name: Upload verified backup
+        uses: actions/upload-artifact@v4
+        with:
+          name: skillr-backup-${{ steps.meta.outputs.stamp }}
+          path: backup/
+          if-no-files-found: error
+          retention-days: 90
+          compression-level: 0
+
+      - name: Backup summary
+        shell: bash
+        env:
+          STAMP: ${{ steps.meta.outputs.stamp }}
+          SHA: ${{ steps.meta.outputs.sha }}
+        run: |
+          {
+            echo "## Skillr backup created"
+            echo ""
+            echo "- Snapshot: \`skillr-${STAMP}-source.zip\`"
+            echo "- Git history: \`skillr-${STAMP}-history.bundle\`"
+            echo "- Commit: \`${SHA}\`"
+            echo "- Artifact retention: 90 days"
+            echo "- Integrity checks: passed"
+          } >> "$GITHUB_STEP_SUMMARY"
