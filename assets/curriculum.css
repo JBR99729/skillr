@@ -122,7 +122,11 @@
 
 .curriculum-button.primary,
 .unit-action-row a.primary,
-.topic-action-row a.primary {
+.topic-action-row a.primary,
+.unit-action-row a[href*="/practice/"],
+.unit-action-row a[href*="/test/"],
+.topic-action-row a[href*="/practice/"],
+.topic-action-row a[href*="/test/"] {
   border-color: var(--skillr-blue);
   background: var(--skillr-blue);
   color: #fff;
@@ -141,7 +145,11 @@
 
 .curriculum-button.primary:hover,
 .unit-action-row a.primary:hover,
-.topic-action-row a.primary:hover {
+.topic-action-row a.primary:hover,
+.unit-action-row a[href*="/practice/"]:hover,
+.unit-action-row a[href*="/test/"]:hover,
+.topic-action-row a[href*="/practice/"]:hover,
+.topic-action-row a[href*="/test/"]:hover {
   background: var(--skillr-blue-2);
   color: #fff;
 }
