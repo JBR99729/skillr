@@ -5,6 +5,9 @@ on:
     # Sunday 22:00 Canberra during AEST (23:00 during AEDT).
     - cron: '0 12 * * 0'
   workflow_dispatch:
+  push:
+    paths:
+      - 'backup/trigger-now.txt'
 
 permissions:
   contents: read
@@ -42,12 +45,10 @@ jobs:
           set -euo pipefail
           mkdir -p backup
 
-          # A clean snapshot of all files tracked at the current main commit.
           git archive --format=zip \
             --output="backup/skillr-${STAMP}-source.zip" \
             HEAD
 
-          # A portable Git repository backup including branches, tags and history.
           git bundle create "backup/skillr-${STAMP}-history.bundle" --all
 
           cat > "backup/skillr-${STAMP}-manifest.txt" <<EOF
