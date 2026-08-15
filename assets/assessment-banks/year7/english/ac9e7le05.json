@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7le05-p-001",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_motivation",
+    "question": "During a guided example, which statement correctly explains character motivation?",
+    "audio_prompt": "During a guided example, which statement correctly explains character motivation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Use decisions and development."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-002",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_setting_constraint",
+    "question": "During a comparison task, which statement correctly explains setting constraint?",
+    "audio_prompt": "During a comparison task, which statement correctly explains setting constraint?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+      "hint": "Explain its effect on possibilities."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-003",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_causal_chain",
+    "question": "During an error analysis, which statement correctly explains causal chain?",
+    "audio_prompt": "During an error analysis, which statement correctly explains causal chain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+      "hint": "Connect why one leads to another."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-004",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "map_tension",
+    "question": "During a model interpretation, which response best demonstrates map tension in character, setting and event systems?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates map tension in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+      "hint": "Express an idea developed by interactions."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-005",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_thematic_meaning",
+    "question": "During an evidence check, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "audio_prompt": "During an evidence check, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Use decisions and development."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-006",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_motivation",
+    "question": "During a transfer problem, which response best demonstrates identify motivation in character, setting and event systems?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates identify motivation in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+      "hint": "Explain its effect on possibilities."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-007",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_setting_constraint",
+    "question": "During a peer explanation, which response best demonstrates explain setting constraint in character, setting and event systems?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates explain setting constraint in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+      "hint": "Connect why one leads to another."
+    }
+  },
+  {
+    "id": "ac9e7le05-p-008",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_causal_chain",
+    "question": "During an independent review, which response best demonstrates trace causal chain in character, setting and event systems?",
+    "audio_prompt": "During an independent review, which response best demonstrates trace causal chain in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+      "hint": "Express an idea developed by interactions."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-001",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "map_tension",
+    "question": "During a fresh case study, which response best demonstrates map tension in character, setting and event systems?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates map tension in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Use decisions and development."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-002",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_thematic_meaning",
+    "question": "During an unfamiliar representation, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+      "hint": "Explain its effect on possibilities."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-003",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_motivation",
+    "question": "During a critical response, which response best demonstrates identify motivation in character, setting and event systems?",
+    "audio_prompt": "During a critical response, which response best demonstrates identify motivation in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+      "hint": "Connect why one leads to another."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-004",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explain_setting_constraint",
+    "question": "During a worked solution audit, which response best demonstrates explain setting constraint in character, setting and event systems?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates explain setting constraint in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+      "hint": "Express an idea developed by interactions."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-005",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "trace_causal_chain",
+    "question": "During a source evaluation, which response best demonstrates trace causal chain in character, setting and event systems?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates trace causal chain in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Use decisions and development."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-006",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "map_tension",
+    "question": "During a multi-step application, which response best demonstrates map tension in character, setting and event systems?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates map tension in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+      "hint": "Explain its effect on possibilities."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-007",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_thematic_meaning",
+    "question": "During a justification task, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "audio_prompt": "During a justification task, which response best demonstrates state thematic meaning in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+      "hint": "Connect why one leads to another."
+    }
+  },
+  {
+    "id": "ac9e7le05-t-008",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_motivation",
+    "question": "During a final synthesis, which response best demonstrates identify motivation in character, setting and event systems?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates identify motivation in character, setting and event systems?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": false
+      },
+      {
+        "text": "Goal, need or belief driving action",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+      "hint": "Express an idea developed by interactions."
+    }
+  }
+]

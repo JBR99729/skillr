@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7i03-p-001",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_resolution",
+    "question": "During a guided example, which statement correctly explains accuracy?",
+    "audio_prompt": "During a guided example, which statement correctly explains accuracy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+        "is_correct": true
+      },
+      {
+        "text": "Extra decimals interpreted as accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "They may be unsupported precision",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+      "hint": "They may be unsupported precision."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-002",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_accuracy_precision",
+    "question": "During a comparison task, which statement correctly explains precision?",
+    "audio_prompt": "During a comparison task, which statement correctly explains precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeated biased values averaged",
+        "is_correct": false
+      },
+      {
+        "text": "Reporting more decimal places than the instrument supports creates false precision.",
+        "is_correct": true
+      },
+      {
+        "text": "Systematic error remains",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
+      "hint": "Systematic error remains."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-003",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "plan_calibration",
+    "question": "During an error analysis, which statement correctly explains calibration?",
+    "audio_prompt": "During an error analysis, which statement correctly explains calibration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Instrument range ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Over-range readings may be invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+      "hint": "Over-range readings may be invalid."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-004",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "read_scale_correctly",
+    "question": "During a model interpretation, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital sensor considered automatic truth",
+        "is_correct": false
+      },
+      {
+        "text": "Audit setup and calibration",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      },
+      {
+        "text": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+      "hint": "Audit setup and calibration."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-005",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "audit_digital_settings",
+    "question": "During an evidence check, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "audio_prompt": "During an evidence check, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+        "is_correct": true
+      },
+      {
+        "text": "Extra decimals interpreted as accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "They may be unsupported precision",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+      "hint": "They may be unsupported precision."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-006",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_resolution",
+    "question": "During a transfer problem, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeated biased values averaged",
+        "is_correct": false
+      },
+      {
+        "text": "Reporting more decimal places than the instrument supports creates false precision.",
+        "is_correct": true
+      },
+      {
+        "text": "Systematic error remains",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
+      "hint": "Systematic error remains."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-007",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_accuracy_precision",
+    "question": "During a peer explanation, which response best demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Instrument range ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Over-range readings may be invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+      "hint": "Over-range readings may be invalid."
+    }
+  },
+  {
+    "id": "ac9s7i03-p-008",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "plan_calibration",
+    "question": "During an independent review, which response best demonstrates plan calibration in equipment, accuracy and precision?",
+    "audio_prompt": "During an independent review, which response best demonstrates plan calibration in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital sensor considered automatic truth",
+        "is_correct": false
+      },
+      {
+        "text": "Audit setup and calibration",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      },
+      {
+        "text": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+      "hint": "Audit setup and calibration."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-001",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "read_scale_correctly",
+    "question": "During a fresh case study, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+        "is_correct": true
+      },
+      {
+        "text": "Extra decimals interpreted as accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "They may be unsupported precision",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+      "hint": "They may be unsupported precision."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-002",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "audit_digital_settings",
+    "question": "During an unfamiliar representation, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeated biased values averaged",
+        "is_correct": false
+      },
+      {
+        "text": "Reporting more decimal places than the instrument supports creates false precision.",
+        "is_correct": true
+      },
+      {
+        "text": "Systematic error remains",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
+      "hint": "Systematic error remains."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-003",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "choose_resolution",
+    "question": "During a critical response, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "audio_prompt": "During a critical response, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Instrument range ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Over-range readings may be invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+      "hint": "Over-range readings may be invalid."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-004",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "distinguish_accuracy_precision",
+    "question": "During a worked solution audit, which response best demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital sensor considered automatic truth",
+        "is_correct": false
+      },
+      {
+        "text": "Audit setup and calibration",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      },
+      {
+        "text": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+      "hint": "Audit setup and calibration."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-005",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "plan_calibration",
+    "question": "During a source evaluation, which response best demonstrates plan calibration in equipment, accuracy and precision?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates plan calibration in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+        "is_correct": true
+      },
+      {
+        "text": "Extra decimals interpreted as accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "They may be unsupported precision",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
+      "hint": "They may be unsupported precision."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-006",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "read_scale_correctly",
+    "question": "During a multi-step application, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates read scale correctly in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeated biased values averaged",
+        "is_correct": false
+      },
+      {
+        "text": "Reporting more decimal places than the instrument supports creates false precision.",
+        "is_correct": true
+      },
+      {
+        "text": "Systematic error remains",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
+      "hint": "Systematic error remains."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-007",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "audit_digital_settings",
+    "question": "During a justification task, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "audio_prompt": "During a justification task, which response best demonstrates audit digital settings in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Instrument range ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Over-range readings may be invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
+      "hint": "Over-range readings may be invalid."
+    }
+  },
+  {
+    "id": "ac9s7i03-t-008",
+    "curriculum_code": "AC9S7I03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "choose_resolution",
+    "question": "During a final synthesis, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates choose resolution in equipment, accuracy and precision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital sensor considered automatic truth",
+        "is_correct": false
+      },
+      {
+        "text": "Audit setup and calibration",
+        "is_correct": false
+      },
+      {
+        "text": "Closeness to accepted or reference value",
+        "is_correct": false
+      },
+      {
+        "text": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
+      "hint": "Audit setup and calibration."
+    }
+  }
+]

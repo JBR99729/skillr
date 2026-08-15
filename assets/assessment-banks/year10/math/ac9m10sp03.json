@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10sp03-p-001",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
+    "question": "During a guided example, For design a 3d scale model, what changes, what stays invariant, and why",
+    "audio_prompt": "During a guided example, For design a 3d scale model, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-002",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_a_computational_thinking_approach_to_solving_problems_involving_networks",
+    "question": "During a comparison task, For choose an efficient network route, what do the vertices and edges represent, and is the network connected",
+    "audio_prompt": "During a comparison task, For choose an efficient network route, what do the vertices and edges represent, and is the network connected",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply a computational thinking approach to solving problems involving networks but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Connectedness, coverage and weighted measures.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-003",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "defining_and_decomposing_spatial_problems_creating_and_applying_algorithms_to_generate_solutions_evaluating_and_communicating_solutions_in_terms_of_the_problem",
+    "question": "During an error analysis, For decompose a spatial design problem, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an error analysis, For decompose a spatial design problem, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-004",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "designing_creating_and_testing_algorithms_using_pseudocode_or_flow_charts_for_producing_self_similar_patterns_validating_algorithms_using_a_range_of_test_cases_to_compare_their_output",
+    "question": "During a model interpretation, For code a self-similar pattern, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a model interpretation, For code a self-similar pattern, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-005",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_geospatial_technologies_used_by_first_nations_australians_communities_to_consider_spatial_problems_including_position_and_transformation",
+    "question": "During an evidence check, For use geospatial technology for community problems, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an evidence check, For use geospatial technology for community problems, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-006",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
+    "question": "During a transfer problem, For design a 3d scale model, what changes, what stays invariant, and why",
+    "audio_prompt": "During a transfer problem, For design a 3d scale model, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-007",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_a_computational_thinking_approach_to_solving_problems_involving_networks",
+    "question": "During a peer explanation, For choose an efficient network route, what do the vertices and edges represent, and is the network connected",
+    "audio_prompt": "During a peer explanation, For choose an efficient network route, what do the vertices and edges represent, and is the network connected",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply a computational thinking approach to solving problems involving networks but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Connectedness, coverage and weighted measures.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-p-008",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "defining_and_decomposing_spatial_problems_creating_and_applying_algorithms_to_generate_solutions_evaluating_and_communicating_solutions_in_terms_of_the_problem",
+    "question": "During an independent review, For decompose a spatial design problem, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an independent review, For decompose a spatial design problem, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-001",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "designing_creating_and_testing_algorithms_using_pseudocode_or_flow_charts_for_producing_self_similar_patterns_validating_algorithms_using_a_range_of_test_cases_to_compare_their_output",
+    "question": "During a fresh case study, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-002",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_geospatial_technologies_used_by_first_nations_australians_communities_to_consider_spatial_problems_including_position_and_transformation",
+    "question": "During an unfamiliar representation, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-003",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
+    "question": "During a critical response, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-004",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_a_computational_thinking_approach_to_solving_problems_involving_networks",
+    "question": "During a worked solution audit, For choose an efficient network route, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For choose an efficient network route, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply a computational thinking approach to solving problems involving networks but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Connectedness, coverage and weighted measures.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-005",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "defining_and_decomposing_spatial_problems_creating_and_applying_algorithms_to_generate_solutions_evaluating_and_communicating_solutions_in_terms_of_the_problem",
+    "question": "During a source evaluation, For decompose a spatial design problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For decompose a spatial design problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-006",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "designing_creating_and_testing_algorithms_using_pseudocode_or_flow_charts_for_producing_self_similar_patterns_validating_algorithms_using_a_range_of_test_cases_to_compare_their_output",
+    "question": "During a multi-step application, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-007",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_geospatial_technologies_used_by_first_nations_australians_communities_to_consider_spatial_problems_including_position_and_transformation",
+    "question": "During a justification task, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10sp03-t-008",
+    "curriculum_code": "AC9M10SP03",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
+    "question": "During a final synthesis, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

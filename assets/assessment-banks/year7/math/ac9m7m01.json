@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7m01-p-001",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_triangle_area",
+    "question": "During a guided example, which statement correctly explains perpendicular height?",
+    "audio_prompt": "During a guided example, which statement correctly explains perpendicular height?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "Sloping side used as height",
+        "is_correct": false
+      },
+      {
+        "text": "Locate or construct the perpendicular distance",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+      "hint": "Locate or construct the perpendicular distance."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-002",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "choose_perpendicular_height",
+    "question": "During a comparison task, which statement correctly explains base?",
+    "audio_prompt": "During a comparison task, which statement correctly explains base?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle factor one-half omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+        "is_correct": true
+      },
+      {
+        "text": "Two congruent triangles form a parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+      "hint": "Two congruent triangles form a parallelogram."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-003",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_dimension",
+    "question": "During an error analysis, which statement correctly explains square unit?",
+    "audio_prompt": "During an error analysis, which statement correctly explains square unit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mixed length units multiplied",
+        "is_correct": false
+      },
+      {
+        "text": "Convert first",
+        "is_correct": false
+      },
+      {
+        "text": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+        "is_correct": true
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+      "hint": "Convert first."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-004",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "decompose_a_composite_shape",
+    "question": "During a model interpretation, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perimeter calculated instead of area",
+        "is_correct": false
+      },
+      {
+        "text": "Identify whether boundary or surface is required",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      },
+      {
+        "text": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+      "hint": "Identify whether boundary or surface is required."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-005",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_correct_units",
+    "question": "During an evidence check, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "audio_prompt": "During an evidence check, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "Sloping side used as height",
+        "is_correct": false
+      },
+      {
+        "text": "Locate or construct the perpendicular distance",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+      "hint": "Locate or construct the perpendicular distance."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-006",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_triangle_area",
+    "question": "During a transfer problem, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle factor one-half omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+        "is_correct": true
+      },
+      {
+        "text": "Two congruent triangles form a parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+      "hint": "Two congruent triangles form a parallelogram."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-007",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "choose_perpendicular_height",
+    "question": "During a peer explanation, which response best demonstrates choose perpendicular height in area of triangles and parallelograms?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates choose perpendicular height in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mixed length units multiplied",
+        "is_correct": false
+      },
+      {
+        "text": "Convert first",
+        "is_correct": false
+      },
+      {
+        "text": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+        "is_correct": true
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+      "hint": "Convert first."
+    }
+  },
+  {
+    "id": "ac9m7m01-p-008",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_missing_dimension",
+    "question": "During an independent review, which response best demonstrates find a missing dimension in area of triangles and parallelograms?",
+    "audio_prompt": "During an independent review, which response best demonstrates find a missing dimension in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perimeter calculated instead of area",
+        "is_correct": false
+      },
+      {
+        "text": "Identify whether boundary or surface is required",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      },
+      {
+        "text": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+      "hint": "Identify whether boundary or surface is required."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-001",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "decompose_a_composite_shape",
+    "question": "During a fresh case study, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "Sloping side used as height",
+        "is_correct": false
+      },
+      {
+        "text": "Locate or construct the perpendicular distance",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+      "hint": "Locate or construct the perpendicular distance."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-002",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_correct_units",
+    "question": "During an unfamiliar representation, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle factor one-half omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+        "is_correct": true
+      },
+      {
+        "text": "Two congruent triangles form a parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+      "hint": "Two congruent triangles form a parallelogram."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-003",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_triangle_area",
+    "question": "During a critical response, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "audio_prompt": "During a critical response, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mixed length units multiplied",
+        "is_correct": false
+      },
+      {
+        "text": "Convert first",
+        "is_correct": false
+      },
+      {
+        "text": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+        "is_correct": true
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+      "hint": "Convert first."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-004",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "choose_perpendicular_height",
+    "question": "During a worked solution audit, which response best demonstrates choose perpendicular height in area of triangles and parallelograms?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates choose perpendicular height in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perimeter calculated instead of area",
+        "is_correct": false
+      },
+      {
+        "text": "Identify whether boundary or surface is required",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      },
+      {
+        "text": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+      "hint": "Identify whether boundary or surface is required."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-005",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_missing_dimension",
+    "question": "During a source evaluation, which response best demonstrates find a missing dimension in area of triangles and parallelograms?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates find a missing dimension in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "Sloping side used as height",
+        "is_correct": false
+      },
+      {
+        "text": "Locate or construct the perpendicular distance",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
+      "hint": "Locate or construct the perpendicular distance."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-006",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "decompose_a_composite_shape",
+    "question": "During a multi-step application, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates decompose a composite shape in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle factor one-half omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+        "is_correct": true
+      },
+      {
+        "text": "Two congruent triangles form a parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
+      "hint": "Two congruent triangles form a parallelogram."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-007",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_correct_units",
+    "question": "During a justification task, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "audio_prompt": "During a justification task, which response best demonstrates use correct units in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mixed length units multiplied",
+        "is_correct": false
+      },
+      {
+        "text": "Convert first",
+        "is_correct": false
+      },
+      {
+        "text": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+        "is_correct": true
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
+      "hint": "Convert first."
+    }
+  },
+  {
+    "id": "ac9m7m01-t-008",
+    "curriculum_code": "AC9M7M01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_triangle_area",
+    "question": "During a final synthesis, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates find a triangle area in area of triangles and parallelograms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perimeter calculated instead of area",
+        "is_correct": false
+      },
+      {
+        "text": "Identify whether boundary or surface is required",
+        "is_correct": false
+      },
+      {
+        "text": "Shortest distance at right angles to the base",
+        "is_correct": false
+      },
+      {
+        "text": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
+      "hint": "Identify whether boundary or surface is required."
+    }
+  }
+]

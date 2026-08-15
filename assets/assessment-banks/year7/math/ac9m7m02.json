@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7m02-p-001",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_rectangular_prism_volume",
+    "question": "During a guided example, which statement correctly explains right prism?",
+    "audio_prompt": "During a guided example, which statement correctly explains right prism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "is_correct": true
+      },
+      {
+        "text": "All three visible edges multiplied for a triangular prism",
+        "is_correct": false
+      },
+      {
+        "text": "Find triangular area first",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+      "hint": "Find triangular area first."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-002",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_triangular_prism_volume",
+    "question": "During a comparison task, which statement correctly explains cross-section?",
+    "audio_prompt": "During a comparison task, which statement correctly explains cross-section?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Square units used for volume",
+        "is_correct": false
+      },
+      {
+        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cubic units",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+      "hint": "Use cubic units."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-003",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "convert_cm_to_ml",
+    "question": "During an error analysis, which statement correctly explains volume?",
+    "audio_prompt": "During an error analysis, which statement correctly explains volume?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prism length confused with triangle height",
+        "is_correct": false
+      },
+      {
+        "text": "Label each perpendicular dimension",
+        "is_correct": false
+      },
+      {
+        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+      "hint": "Label each perpendicular dimension."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-004",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_missing_length",
+    "question": "During a model interpretation, which response best demonstrates find missing length in volume of right prisms?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates find missing length in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Capacity conversion guessed",
+        "is_correct": false
+      },
+      {
+        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      },
+      {
+        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-005",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "check_dimensions_and_units",
+    "question": "During an evidence check, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "audio_prompt": "During an evidence check, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "is_correct": true
+      },
+      {
+        "text": "All three visible edges multiplied for a triangular prism",
+        "is_correct": false
+      },
+      {
+        "text": "Find triangular area first",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+      "hint": "Find triangular area first."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-006",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_rectangular_prism_volume",
+    "question": "During a transfer problem, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Square units used for volume",
+        "is_correct": false
+      },
+      {
+        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cubic units",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+      "hint": "Use cubic units."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-007",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_a_triangular_prism_volume",
+    "question": "During a peer explanation, which response best demonstrates find a triangular-prism volume in volume of right prisms?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates find a triangular-prism volume in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prism length confused with triangle height",
+        "is_correct": false
+      },
+      {
+        "text": "Label each perpendicular dimension",
+        "is_correct": false
+      },
+      {
+        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+      "hint": "Label each perpendicular dimension."
+    }
+  },
+  {
+    "id": "ac9m7m02-p-008",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "convert_cm_to_ml",
+    "question": "During an independent review, which response best demonstrates convert cm³ to ml in volume of right prisms?",
+    "audio_prompt": "During an independent review, which response best demonstrates convert cm³ to ml in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Capacity conversion guessed",
+        "is_correct": false
+      },
+      {
+        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      },
+      {
+        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-001",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_missing_length",
+    "question": "During a fresh case study, which response best demonstrates find missing length in volume of right prisms?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates find missing length in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "is_correct": true
+      },
+      {
+        "text": "All three visible edges multiplied for a triangular prism",
+        "is_correct": false
+      },
+      {
+        "text": "Find triangular area first",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+      "hint": "Find triangular area first."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-002",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "check_dimensions_and_units",
+    "question": "During an unfamiliar representation, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Square units used for volume",
+        "is_correct": false
+      },
+      {
+        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cubic units",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+      "hint": "Use cubic units."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-003",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_rectangular_prism_volume",
+    "question": "During a critical response, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "audio_prompt": "During a critical response, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prism length confused with triangle height",
+        "is_correct": false
+      },
+      {
+        "text": "Label each perpendicular dimension",
+        "is_correct": false
+      },
+      {
+        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+      "hint": "Label each perpendicular dimension."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-004",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_triangular_prism_volume",
+    "question": "During a worked solution audit, which response best demonstrates find a triangular-prism volume in volume of right prisms?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates find a triangular-prism volume in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Capacity conversion guessed",
+        "is_correct": false
+      },
+      {
+        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      },
+      {
+        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-005",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "convert_cm_to_ml",
+    "question": "During a source evaluation, which response best demonstrates convert cm³ to ml in volume of right prisms?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates convert cm³ to ml in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "is_correct": true
+      },
+      {
+        "text": "All three visible edges multiplied for a triangular prism",
+        "is_correct": false
+      },
+      {
+        "text": "Find triangular area first",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+      "hint": "Find triangular area first."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-006",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_missing_length",
+    "question": "During a multi-step application, which response best demonstrates find missing length in volume of right prisms?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates find missing length in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Square units used for volume",
+        "is_correct": false
+      },
+      {
+        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cubic units",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+      "hint": "Use cubic units."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-007",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "check_dimensions_and_units",
+    "question": "During a justification task, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "audio_prompt": "During a justification task, which response best demonstrates check dimensions and units in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prism length confused with triangle height",
+        "is_correct": false
+      },
+      {
+        "text": "Label each perpendicular dimension",
+        "is_correct": false
+      },
+      {
+        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+      "hint": "Label each perpendicular dimension."
+    }
+  },
+  {
+    "id": "ac9m7m02-t-008",
+    "curriculum_code": "AC9M7M02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_a_rectangular_prism_volume",
+    "question": "During a final synthesis, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates find a rectangular-prism volume in volume of right prisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Capacity conversion guessed",
+        "is_correct": false
+      },
+      {
+        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
+        "is_correct": false
+      },
+      {
+        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "is_correct": false
+      },
+      {
+        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+    }
+  }
+]

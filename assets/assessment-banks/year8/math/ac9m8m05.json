@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8m05-p-001",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_examples_of_rates_in_the_real_world_including_constant_rates_rate_of_pay_cost_per_kilogram_recipes_simple_interest_and_average_rates",
+    "question": "During a guided example, For read a rate as unlike units, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a guided example, For read a rate as unlike units, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-002",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_rates_to_solve_problems_involving_the_conversion_between_different_units_of_measure",
+    "question": "During a comparison task, For calculate a unit rate, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a comparison task, For calculate a unit rate, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply rates to solve problems involving the conversion between different units of measure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a conversion rate to convert distances from miles into kilometres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-003",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_rates_to_calculate_solutions_to_problems_in_different_contexts",
+    "question": "During an error analysis, For convert between compound units, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an error analysis, For convert between compound units, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply rates to calculate solutions to problems in different contexts but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-004",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_taxation_tables_to_calculate_an_individual_s_annual_income_tax",
+    "question": "During a model interpretation, For compare rates fairly, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a model interpretation, For compare rates fairly, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use taxation tables to calculate an individual's annual income tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-005",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_the_application_of_rates_in_first_nation_australians_land_management_practices_including_the_rate_of_fire_spread_under_different_environmental_conditions_such_as_fuel_types",
+    "question": "During an evidence check, For interpret a rate in context, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an evidence check, For interpret a rate in context, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-006",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_examples_of_rates_in_the_real_world_including_constant_rates_rate_of_pay_cost_per_kilogram_recipes_simple_interest_and_average_rates",
+    "question": "During a transfer problem, For read a rate as unlike units, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a transfer problem, For read a rate as unlike units, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-007",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_rates_to_solve_problems_involving_the_conversion_between_different_units_of_measure",
+    "question": "During a peer explanation, For calculate a unit rate, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a peer explanation, For calculate a unit rate, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply rates to solve problems involving the conversion between different units of measure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a conversion rate to convert distances from miles into kilometres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-p-008",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_rates_to_calculate_solutions_to_problems_in_different_contexts",
+    "question": "During an independent review, For convert between compound units, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an independent review, For convert between compound units, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply rates to calculate solutions to problems in different contexts but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-001",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_taxation_tables_to_calculate_an_individual_s_annual_income_tax",
+    "question": "During a fresh case study, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use taxation tables to calculate an individual's annual income tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-002",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_application_of_rates_in_first_nation_australians_land_management_practices_including_the_rate_of_fire_spread_under_different_environmental_conditions_such_as_fuel_types",
+    "question": "During an unfamiliar representation, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-003",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_examples_of_rates_in_the_real_world_including_constant_rates_rate_of_pay_cost_per_kilogram_recipes_simple_interest_and_average_rates",
+    "question": "During a critical response, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-004",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_rates_to_solve_problems_involving_the_conversion_between_different_units_of_measure",
+    "question": "During a worked solution audit, For calculate a unit rate, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For calculate a unit rate, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply rates to solve problems involving the conversion between different units of measure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a conversion rate to convert distances from miles into kilometres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-005",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_rates_to_calculate_solutions_to_problems_in_different_contexts",
+    "question": "During a source evaluation, For convert between compound units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For convert between compound units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions apply rates to calculate solutions to problems in different contexts but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-006",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_taxation_tables_to_calculate_an_individual_s_annual_income_tax",
+    "question": "During a multi-step application, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use taxation tables to calculate an individual's annual income tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-007",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_application_of_rates_in_first_nation_australians_land_management_practices_including_the_rate_of_fire_spread_under_different_environmental_conditions_such_as_fuel_types",
+    "question": "During a justification task, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m05-t-008",
+    "curriculum_code": "AC9M8M05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_examples_of_rates_in_the_real_world_including_constant_rates_rate_of_pay_cost_per_kilogram_recipes_simple_interest_and_average_rates",
+    "question": "During a final synthesis, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

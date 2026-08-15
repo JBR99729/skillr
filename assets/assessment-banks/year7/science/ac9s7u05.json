@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7u05-p-001",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "compare_arrangements",
+    "question": "During a guided example, which statement correctly explains particle theory?",
+    "audio_prompt": "During a guided example, which statement correctly explains particle theory?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Condensation transfers energy out; particles slow and become closer",
+        "is_correct": true
+      },
+      {
+        "text": "Particles expand when heated",
+        "is_correct": false
+      },
+      {
+        "text": "Average spacing and motion change, not particle size",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Condensation transfers energy out; particles slow and become closer",
+      "hint": "Average spacing and motion change, not particle size."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-002",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_melting",
+    "question": "During a comparison task, which statement correctly explains change of state?",
+    "audio_prompt": "During a comparison task, which statement correctly explains change of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles stop moving in solids",
+        "is_correct": false
+      },
+      {
+        "text": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+        "is_correct": true
+      },
+      {
+        "text": "They vibrate",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+      "hint": "They vibrate."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-003",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_boiling_evaporation",
+    "question": "During an error analysis, which statement correctly explains thermal energy?",
+    "audio_prompt": "During an error analysis, which statement correctly explains thermal energy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and evaporation identical",
+        "is_correct": false
+      },
+      {
+        "text": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range",
+        "is_correct": false
+      },
+      {
+        "text": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+        "is_correct": true
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+      "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-004",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "correct_expanding_particle_idea",
+    "question": "During a model interpretation, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State change creates a new substance",
+        "is_correct": false
+      },
+      {
+        "text": "Physical state changes preserve substance identity",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      },
+      {
+        "text": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+      "hint": "Physical state changes preserve substance identity."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-005",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_a_temperature_plateau",
+    "question": "During an evidence check, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "audio_prompt": "During an evidence check, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Condensation transfers energy out; particles slow and become closer",
+        "is_correct": true
+      },
+      {
+        "text": "Particles expand when heated",
+        "is_correct": false
+      },
+      {
+        "text": "Average spacing and motion change, not particle size",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Condensation transfers energy out; particles slow and become closer",
+      "hint": "Average spacing and motion change, not particle size."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-006",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "compare_arrangements",
+    "question": "During a transfer problem, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles stop moving in solids",
+        "is_correct": false
+      },
+      {
+        "text": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+        "is_correct": true
+      },
+      {
+        "text": "They vibrate",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+      "hint": "They vibrate."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-007",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_melting",
+    "question": "During a peer explanation, which response best demonstrates explain melting in particle theory and changes of state?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates explain melting in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and evaporation identical",
+        "is_correct": false
+      },
+      {
+        "text": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range",
+        "is_correct": false
+      },
+      {
+        "text": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+        "is_correct": true
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+      "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
+    }
+  },
+  {
+    "id": "ac9s7u05-p-008",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_boiling_evaporation",
+    "question": "During an independent review, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "audio_prompt": "During an independent review, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State change creates a new substance",
+        "is_correct": false
+      },
+      {
+        "text": "Physical state changes preserve substance identity",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      },
+      {
+        "text": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+      "hint": "Physical state changes preserve substance identity."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-001",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "correct_expanding_particle_idea",
+    "question": "During a fresh case study, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Condensation transfers energy out; particles slow and become closer",
+        "is_correct": true
+      },
+      {
+        "text": "Particles expand when heated",
+        "is_correct": false
+      },
+      {
+        "text": "Average spacing and motion change, not particle size",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Condensation transfers energy out; particles slow and become closer",
+      "hint": "Average spacing and motion change, not particle size."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-002",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_a_temperature_plateau",
+    "question": "During an unfamiliar representation, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles stop moving in solids",
+        "is_correct": false
+      },
+      {
+        "text": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+        "is_correct": true
+      },
+      {
+        "text": "They vibrate",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+      "hint": "They vibrate."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-003",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "compare_arrangements",
+    "question": "During a critical response, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "audio_prompt": "During a critical response, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and evaporation identical",
+        "is_correct": false
+      },
+      {
+        "text": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range",
+        "is_correct": false
+      },
+      {
+        "text": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+        "is_correct": true
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+      "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-004",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_melting",
+    "question": "During a worked solution audit, which response best demonstrates explain melting in particle theory and changes of state?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates explain melting in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State change creates a new substance",
+        "is_correct": false
+      },
+      {
+        "text": "Physical state changes preserve substance identity",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      },
+      {
+        "text": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+      "hint": "Physical state changes preserve substance identity."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-005",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "distinguish_boiling_evaporation",
+    "question": "During a source evaluation, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Condensation transfers energy out; particles slow and become closer",
+        "is_correct": true
+      },
+      {
+        "text": "Particles expand when heated",
+        "is_correct": false
+      },
+      {
+        "text": "Average spacing and motion change, not particle size",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Condensation transfers energy out; particles slow and become closer",
+      "hint": "Average spacing and motion change, not particle size."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-006",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "correct_expanding_particle_idea",
+    "question": "During a multi-step application, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles stop moving in solids",
+        "is_correct": false
+      },
+      {
+        "text": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+        "is_correct": true
+      },
+      {
+        "text": "They vibrate",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
+      "hint": "They vibrate."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-007",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_a_temperature_plateau",
+    "question": "During a justification task, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "audio_prompt": "During a justification task, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Boiling and evaporation identical",
+        "is_correct": false
+      },
+      {
+        "text": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range",
+        "is_correct": false
+      },
+      {
+        "text": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+        "is_correct": true
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
+      "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
+    }
+  },
+  {
+    "id": "ac9s7u05-t-008",
+    "curriculum_code": "AC9S7U05",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "compare_arrangements",
+    "question": "During a final synthesis, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State change creates a new substance",
+        "is_correct": false
+      },
+      {
+        "text": "Physical state changes preserve substance identity",
+        "is_correct": false
+      },
+      {
+        "text": "Model describing matter as moving particles",
+        "is_correct": false
+      },
+      {
+        "text": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
+      "hint": "Physical state changes preserve substance identity."
+    }
+  }
+]

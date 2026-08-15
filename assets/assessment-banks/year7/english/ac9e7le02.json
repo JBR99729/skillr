@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7le02-p-001",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_criterion",
+    "question": "During a guided example, which statement correctly explains literary opinion?",
+    "audio_prompt": "During a guided example, which statement correctly explains literary opinion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Opinion supported by plot retell only",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence through a criterion",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+      "hint": "Explain evidence through a criterion."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-002",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_concise_evidence",
+    "question": "During a comparison task, which statement correctly explains criterion?",
+    "audio_prompt": "During a comparison task, which statement correctly explains criterion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+        "is_correct": true
+      },
+      {
+        "text": "Consider information, pressure and development",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+      "hint": "Consider information, pressure and development."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-003",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "qualify_a_judgement",
+    "question": "During an error analysis, which statement correctly explains alternative interpretation?",
+    "audio_prompt": "During an error analysis, which statement correctly explains alternative interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Disagreement treated as proof one reader is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Test evidence and assumptions",
+        "is_correct": false
+      },
+      {
+        "text": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+      "hint": "Test evidence and assumptions."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-004",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_interpretations",
+    "question": "During a model interpretation, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting evaluated as scenery only",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse constraints, mood and symbolic role",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      },
+      {
+        "text": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+      "hint": "Analyse constraints, mood and symbolic role."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-005",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "revise_after_counterevidence",
+    "question": "During an evidence check, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "audio_prompt": "During an evidence check, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Opinion supported by plot retell only",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence through a criterion",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+      "hint": "Explain evidence through a criterion."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-006",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_criterion",
+    "question": "During a transfer problem, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+        "is_correct": true
+      },
+      {
+        "text": "Consider information, pressure and development",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+      "hint": "Consider information, pressure and development."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-007",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_concise_evidence",
+    "question": "During a peer explanation, which response best demonstrates use concise evidence in forming evidence-based literary opinions?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates use concise evidence in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Disagreement treated as proof one reader is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Test evidence and assumptions",
+        "is_correct": false
+      },
+      {
+        "text": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+      "hint": "Test evidence and assumptions."
+    }
+  },
+  {
+    "id": "ac9e7le02-p-008",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "qualify_a_judgement",
+    "question": "During an independent review, which response best demonstrates qualify a judgement in forming evidence-based literary opinions?",
+    "audio_prompt": "During an independent review, which response best demonstrates qualify a judgement in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting evaluated as scenery only",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse constraints, mood and symbolic role",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      },
+      {
+        "text": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+      "hint": "Analyse constraints, mood and symbolic role."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-001",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_interpretations",
+    "question": "During a fresh case study, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Opinion supported by plot retell only",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence through a criterion",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+      "hint": "Explain evidence through a criterion."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-002",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revise_after_counterevidence",
+    "question": "During an unfamiliar representation, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+        "is_correct": true
+      },
+      {
+        "text": "Consider information, pressure and development",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+      "hint": "Consider information, pressure and development."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-003",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_criterion",
+    "question": "During a critical response, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "audio_prompt": "During a critical response, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Disagreement treated as proof one reader is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Test evidence and assumptions",
+        "is_correct": false
+      },
+      {
+        "text": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+      "hint": "Test evidence and assumptions."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-004",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_concise_evidence",
+    "question": "During a worked solution audit, which response best demonstrates use concise evidence in forming evidence-based literary opinions?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates use concise evidence in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting evaluated as scenery only",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse constraints, mood and symbolic role",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      },
+      {
+        "text": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+      "hint": "Analyse constraints, mood and symbolic role."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-005",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "qualify_a_judgement",
+    "question": "During a source evaluation, which response best demonstrates qualify a judgement in forming evidence-based literary opinions?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates qualify a judgement in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Opinion supported by plot retell only",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence through a criterion",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The decision can be read as both brave and irresponsible because different criteria are relevant",
+      "hint": "Explain evidence through a criterion."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-006",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_interpretations",
+    "question": "During a multi-step application, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates compare interpretations in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character judged without context",
+        "is_correct": false
+      },
+      {
+        "text": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+        "is_correct": true
+      },
+      {
+        "text": "Consider information, pressure and development",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Complex opinions can combine praise and criticism. Avoid reducing a character to a single adjective.",
+      "hint": "Consider information, pressure and development."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-007",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revise_after_counterevidence",
+    "question": "During a justification task, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "audio_prompt": "During a justification task, which response best demonstrates revise after counterevidence in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Disagreement treated as proof one reader is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Test evidence and assumptions",
+        "is_correct": false
+      },
+      {
+        "text": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Disagreement becomes analytical when participants compare evidence and criteria rather than asserting taste.",
+      "hint": "Test evidence and assumptions."
+    }
+  },
+  {
+    "id": "ac9e7le02-t-008",
+    "curriculum_code": "AC9E7LE02",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_criterion",
+    "question": "During a final synthesis, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates state criterion in forming evidence-based literary opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting evaluated as scenery only",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse constraints, mood and symbolic role",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence-based judgement about a text",
+        "is_correct": false
+      },
+      {
+        "text": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A literary opinion is defensible when it names criteria, uses precise evidence, explains interpretation and acknowledges plausible alternatives.",
+      "hint": "Analyse constraints, mood and symbolic role."
+    }
+  }
+]

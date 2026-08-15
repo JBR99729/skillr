@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9i01-p-001",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_what_is_needed_for_a_question_to_be_investigable_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-002",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_generating_investigable_questions_about_the_relationships_between_human_body_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-003",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_investigable_questions_to_explore_an_explanatory_model_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-004",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_scientific_hypothesis_has_to_be_able_to_be_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-005",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_proposing_a_hypothesis_to_test_an_identified_relationship_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-006",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_what_is_needed_for_a_question_to_be_investigable_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, Use the central model to explain develop testable explanatory questions in three linked sentences",
+    "audio_prompt": "During a transfer problem, Use the central model to explain develop testable explanatory questions in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-007",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_generating_investigable_questions_about_the_relationships_between_human_body_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-p-008",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_investigable_questions_to_explore_an_explanatory_model_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-001",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_scientific_hypothesis_has_to_be_able_to_be_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-002",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_proposing_a_hypothesis_to_test_an_identified_relationship_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-003",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_what_is_needed_for_a_question_to_be_investigable_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-004",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_generating_investigable_questions_about_the_relationships_between_human_body_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-005",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_investigable_questions_to_explore_an_explanatory_model_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-006",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_scientific_hypothesis_has_to_be_able_to_be_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-007",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_proposing_a_hypothesis_to_test_an_identified_relationship_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+    }
+  },
+  {
+    "id": "ac9s9i01-t-008",
+    "curriculum_code": "AC9S9I01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_what_is_needed_for_a_question_to_be_investigable_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish descriptive, relational and causal questions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "hint": "Distinguish descriptive, relational and causal questions."
+    }
+  }
+]

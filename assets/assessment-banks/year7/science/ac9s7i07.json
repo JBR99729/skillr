@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7i07-p-001",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_a_claim",
+    "question": "During a guided example, which statement correctly explains scientific argument?",
+    "audio_prompt": "During a guided example, which statement correctly explains scientific argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence listed without reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the mechanism or logical connection",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+      "hint": "Explain the mechanism or logical connection."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-002",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "select_relevant_evidence",
+    "question": "During a comparison task, which statement correctly explains counterargument?",
+    "audio_prompt": "During a comparison task, which statement correctly explains counterargument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only supporting data selected",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+        "is_correct": true
+      },
+      {
+        "text": "Address relevant conflicting evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+      "hint": "Address relevant conflicting evidence."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-003",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "add_reasoning",
+    "question": "During an error analysis, which statement correctly explains qualification?",
+    "audio_prompt": "During an error analysis, which statement correctly explains qualification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Certainty exceeds evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify scope",
+        "is_correct": false
+      },
+      {
+        "text": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+      "hint": "Qualify scope."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-004",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "address_counterargument",
+    "question": "During a model interpretation, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recommendation criteria hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Make value choices explicit",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+      "hint": "Make value choices explicit."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-005",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "qualify_conclusion",
+    "question": "During an evidence check, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "audio_prompt": "During an evidence check, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence listed without reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the mechanism or logical connection",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+      "hint": "Explain the mechanism or logical connection."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-006",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_a_claim",
+    "question": "During a transfer problem, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only supporting data selected",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+        "is_correct": true
+      },
+      {
+        "text": "Address relevant conflicting evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+      "hint": "Address relevant conflicting evidence."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-007",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "select_relevant_evidence",
+    "question": "During a peer explanation, which response best demonstrates select relevant evidence in evidence-based scientific arguments?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates select relevant evidence in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Certainty exceeds evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify scope",
+        "is_correct": false
+      },
+      {
+        "text": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+      "hint": "Qualify scope."
+    }
+  },
+  {
+    "id": "ac9s7i07-p-008",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "add_reasoning",
+    "question": "During an independent review, which response best demonstrates add reasoning in evidence-based scientific arguments?",
+    "audio_prompt": "During an independent review, which response best demonstrates add reasoning in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recommendation criteria hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Make value choices explicit",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+      "hint": "Make value choices explicit."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-001",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "address_counterargument",
+    "question": "During a fresh case study, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence listed without reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the mechanism or logical connection",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+      "hint": "Explain the mechanism or logical connection."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-002",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "qualify_conclusion",
+    "question": "During an unfamiliar representation, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only supporting data selected",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+        "is_correct": true
+      },
+      {
+        "text": "Address relevant conflicting evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+      "hint": "Address relevant conflicting evidence."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-003",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "write_a_claim",
+    "question": "During a critical response, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "audio_prompt": "During a critical response, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Certainty exceeds evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify scope",
+        "is_correct": false
+      },
+      {
+        "text": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+      "hint": "Qualify scope."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-004",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "select_relevant_evidence",
+    "question": "During a worked solution audit, which response best demonstrates select relevant evidence in evidence-based scientific arguments?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates select relevant evidence in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recommendation criteria hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Make value choices explicit",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+      "hint": "Make value choices explicit."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-005",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "add_reasoning",
+    "question": "During a source evaluation, which response best demonstrates add reasoning in evidence-based scientific arguments?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates add reasoning in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence listed without reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the mechanism or logical connection",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
+      "hint": "Explain the mechanism or logical connection."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-006",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "address_counterargument",
+    "question": "During a multi-step application, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates address counterargument in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only supporting data selected",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+        "is_correct": true
+      },
+      {
+        "text": "Address relevant conflicting evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
+      "hint": "Address relevant conflicting evidence."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-007",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "qualify_conclusion",
+    "question": "During a justification task, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "audio_prompt": "During a justification task, which response best demonstrates qualify conclusion in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Certainty exceeds evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify scope",
+        "is_correct": false
+      },
+      {
+        "text": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
+      "hint": "Qualify scope."
+    }
+  },
+  {
+    "id": "ac9s7i07-t-008",
+    "curriculum_code": "AC9S7I07",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "write_a_claim",
+    "question": "During a final synthesis, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates write a claim in evidence-based scientific arguments?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recommendation criteria hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Make value choices explicit",
+        "is_correct": false
+      },
+      {
+        "text": "Claim supported by evidence and reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
+      "hint": "Make value choices explicit."
+    }
+  }
+]

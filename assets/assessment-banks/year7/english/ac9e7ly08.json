@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7ly08-p-001",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "find_base_affixes",
+    "question": "During a guided example, which statement correctly explains morpheme?",
+    "audio_prompt": "During a guided example, which statement correctly explains morpheme?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Morphology and history preserve letters."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-002",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_word_family",
+    "question": "During a comparison task, which statement correctly explains etymology?",
+    "audio_prompt": "During a comparison task, which statement correctly explains etymology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+      "hint": "Check base ending, stress and suffix type."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-003",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "apply_suffix_pattern",
+    "question": "During an error analysis, which statement correctly explains orthography?",
+    "audio_prompt": "During an error analysis, which statement correctly explains orthography?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+      "hint": "Connect root to meaning and family."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-004",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_root_meaning",
+    "question": "During a model interpretation, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      },
+      {
+        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+      "hint": "Verify intended word and grammar."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-005",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "verify_exception",
+    "question": "During an evidence check, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During an evidence check, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Morphology and history preserve letters."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-006",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "find_base_affixes",
+    "question": "During a transfer problem, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+      "hint": "Check base ending, stress and suffix type."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-007",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_word_family",
+    "question": "During a peer explanation, which response best demonstrates use word family in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates use word family in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+      "hint": "Connect root to meaning and family."
+    }
+  },
+  {
+    "id": "ac9e7ly08-p-008",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "apply_suffix_pattern",
+    "question": "During an independent review, which response best demonstrates apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During an independent review, which response best demonstrates apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      },
+      {
+        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+      "hint": "Verify intended word and grammar."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-001",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_root_meaning",
+    "question": "During a fresh case study, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Morphology and history preserve letters."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-002",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "verify_exception",
+    "question": "During an unfamiliar representation, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+      "hint": "Check base ending, stress and suffix type."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-003",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "find_base_affixes",
+    "question": "During a critical response, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a critical response, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+      "hint": "Connect root to meaning and family."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-004",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_word_family",
+    "question": "During a worked solution audit, which response best demonstrates use word family in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates use word family in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      },
+      {
+        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+      "hint": "Verify intended word and grammar."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-005",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "apply_suffix_pattern",
+    "question": "During a source evaluation, which response best demonstrates apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Morphology and history preserve letters."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-006",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_root_meaning",
+    "question": "During a multi-step application, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+      "hint": "Check base ending, stress and suffix type."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-007",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "verify_exception",
+    "question": "During a justification task, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a justification task, which response best demonstrates verify exception in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+      "hint": "Connect root to meaning and family."
+    }
+  },
+  {
+    "id": "ac9e7ly08-t-008",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "find_base_affixes",
+    "question": "During a final synthesis, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates find base/affixes in spelling through morphology, etymology and orthographic patterns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": false
+      },
+      {
+        "text": "Smallest meaningful word element",
+        "is_correct": false
+      },
+      {
+        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+      "hint": "Verify intended word and grammar."
+    }
+  }
+]

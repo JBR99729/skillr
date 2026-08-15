@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9st04-p-001",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_data_displays_using_mean_median_and_range_to_describe_and_interpret_numerical_data_sets_in_terms_of_centre_and_spread_using_histograms_dot_plots_or_stem_and_leaf_plots",
+    "question": "During a guided example, For match display to centre and spread, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a guided example, For match display to centre and spread, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-002",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "choose_the_type_of_representations_based_on_the_data_type_categorical_nominal_or_ordinal_or_numerical_discrete_or_continuous",
+    "question": "During a comparison task, For match display to data type, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a comparison task, For match display to data type, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-003",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_different_visualisations_of_data_including_non_standard_representations_such_as_infographics_and_discussing_their_purpose_intended_audience_evaluating_how_well_they_communicate_responses_to_statistical_questions_of_interest",
+    "question": "During an error analysis, For evaluate an infographic for its audience, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an error analysis, For evaluate an infographic for its audience, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Infographics, and discussing their purpose, intended audience.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-004",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_and_interpreting_stacked_bar_charts_area_charts_and_line_graphs_discussing_how_they_represent_larger_categories_that_can_be_subdivided_into_smaller_categories",
+    "question": "During a model interpretation, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a model interpretation, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-005",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_generate_different_data_displays_and_visualisations_using_existing_data_sets",
+    "question": "During an evidence check, For critique an ai-generated visualisation, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an evidence check, For critique an ai-generated visualisation, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-006",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_data_displays_using_mean_median_and_range_to_describe_and_interpret_numerical_data_sets_in_terms_of_centre_and_spread_using_histograms_dot_plots_or_stem_and_leaf_plots",
+    "question": "During a transfer problem, For match display to centre and spread, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a transfer problem, For match display to centre and spread, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-007",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "choose_the_type_of_representations_based_on_the_data_type_categorical_nominal_or_ordinal_or_numerical_discrete_or_continuous",
+    "question": "During a peer explanation, For match display to data type, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a peer explanation, For match display to data type, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-p-008",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_different_visualisations_of_data_including_non_standard_representations_such_as_infographics_and_discussing_their_purpose_intended_audience_evaluating_how_well_they_communicate_responses_to_statistical_questions_of_interest",
+    "question": "During an independent review, For evaluate an infographic for its audience, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an independent review, For evaluate an infographic for its audience, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Infographics, and discussing their purpose, intended audience.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-001",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_and_interpreting_stacked_bar_charts_area_charts_and_line_graphs_discussing_how_they_represent_larger_categories_that_can_be_subdivided_into_smaller_categories",
+    "question": "During a fresh case study, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-002",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_generate_different_data_displays_and_visualisations_using_existing_data_sets",
+    "question": "During an unfamiliar representation, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-003",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_data_displays_using_mean_median_and_range_to_describe_and_interpret_numerical_data_sets_in_terms_of_centre_and_spread_using_histograms_dot_plots_or_stem_and_leaf_plots",
+    "question": "During a critical response, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-004",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "choose_the_type_of_representations_based_on_the_data_type_categorical_nominal_or_ordinal_or_numerical_discrete_or_continuous",
+    "question": "During a worked solution audit, For match display to data type, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For match display to data type, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-005",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_different_visualisations_of_data_including_non_standard_representations_such_as_infographics_and_discussing_their_purpose_intended_audience_evaluating_how_well_they_communicate_responses_to_statistical_questions_of_interest",
+    "question": "During a source evaluation, For evaluate an infographic for its audience, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For evaluate an infographic for its audience, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Infographics, and discussing their purpose, intended audience.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-006",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_and_interpreting_stacked_bar_charts_area_charts_and_line_graphs_discussing_how_they_represent_larger_categories_that_can_be_subdivided_into_smaller_categories",
+    "question": "During a multi-step application, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-007",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_generate_different_data_displays_and_visualisations_using_existing_data_sets",
+    "question": "During a justification task, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st04-t-008",
+    "curriculum_code": "AC9M9ST04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_data_displays_using_mean_median_and_range_to_describe_and_interpret_numerical_data_sets_in_terms_of_centre_and_spread_using_histograms_dot_plots_or_stem_and_leaf_plots",
+    "question": "During a final synthesis, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

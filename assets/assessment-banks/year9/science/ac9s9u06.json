@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9u06-p-001",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_mass_and_charge_of_protons_neutrons_and_electrons_to_make_the_role_of_dalton_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how Dalton helps make sense of the mass and charge of protons, neutrons and electrons",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how Dalton helps make sense of the mass and charge of protons, neutrons and electrons",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the mass and charge of protons, neutrons and electrons to make the role of dalton visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-002",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_discovery_of_electrons_protons_and_neutrons_resulted_to_make_the_role_of_electron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how electron helps make sense of how the discovery of electrons, protons and neutrons resulted",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how electron helps make sense of how the discovery of electrons, protons and neutrons resulted",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+        "is_correct": true
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the discovery of electrons, protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-003",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_differences_in_the_number_of_neutrons_in_atoms_to_make_the_role_of_nucleus_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how nucleus helps make sense of differences in the number of neutrons in atoms",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how nucleus helps make sense of differences in the number of neutrons in atoms",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-004",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_in_simple_terms_how_different_unstable_isotopes_decay_to_make_the_role_of_proton_and_neutron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how proton and neutron helps make sense of in simple terms how different unstable isotopes decay",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how proton and neutron helps make sense of in simple terms how different unstable isotopes decay",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-005",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_half_life_examining_the_timescales_of_decay_of_different_elements_to_make_the_role_of_radioactive_decay_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how radioactive decay helps make sense of half-life, examining the timescales of decay of different elements",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how radioactive decay helps make sense of half-life, examining the timescales of decay of different elements",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+        "is_correct": true
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use half-life, examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-006",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_radiocarbon_and_other_dating_methods_have_been_used_to_make_the_role_of_dalton_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how Dalton helps make sense of how radiocarbon and other dating methods have been used",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how Dalton helps make sense of how radiocarbon and other dating methods have been used",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+        "is_correct": true
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how radiocarbon and other dating methods have been used to make the role of dalton visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-007",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_where_applications_of_radioactivity_are_used_in_medicine_to_make_the_role_of_electron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how electron helps make sense of where applications of radioactivity are used in medicine",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how electron helps make sense of where applications of radioactivity are used in medicine",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-p-008",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_mass_and_energy_are_connected_at_all_scales_to_make_the_role_of_nucleus_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how nucleus helps make sense of how mass and energy are connected at all scales",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how nucleus helps make sense of how mass and energy are connected at all scales",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-001",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_mass_and_charge_of_protons_neutrons_and_electrons_to_make_the_role_of_dalton_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, Use the central model to explain how atomic models changed in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, Use the central model to explain how atomic models changed in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientific atomic models changed when evidence could not be explained by an older model. Atoms contain electrons and a nucleus with protons and neutrons. Natural radioactive decay changes unstable nuclei toward more stable forms.",
+        "is_correct": true
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the mass and charge of protons, neutrons and electrons to make the role of dalton visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientific atomic models changed when evidence could not be explained by an older model. Atoms contain electrons and a nucleus with protons and neutrons. Natural radioactive decay changes unstable nuclei toward more stable forms.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-002",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_discovery_of_electrons_protons_and_neutrons_resulted_to_make_the_role_of_electron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how Dalton helps make sense of the mass and charge of protons, neutrons and electrons Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how Dalton helps make sense of the mass and charge of protons, neutrons and electrons Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      },
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-003",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_differences_in_the_number_of_neutrons_in_atoms_to_make_the_role_of_nucleus_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how electron helps make sense of how the discovery of electrons, protons and neutrons resulted Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how electron helps make sense of how the discovery of electrons, protons and neutrons resulted Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+        "is_correct": true
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-004",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_in_simple_terms_how_different_unstable_isotopes_decay_to_make_the_role_of_proton_and_neutron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how nucleus helps make sense of differences in the number of neutrons in atoms Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how nucleus helps make sense of differences in the number of neutrons in atoms Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-005",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_half_life_examining_the_timescales_of_decay_of_different_elements_to_make_the_role_of_radioactive_decay_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how proton and neutron helps make sense of in simple terms how different unstable isotopes decay Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how proton and neutron helps make sense of in simple terms how different unstable isotopes decay Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      },
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-006",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_radiocarbon_and_other_dating_methods_have_been_used_to_make_the_role_of_dalton_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how radioactive decay helps make sense of half-life, examining the timescales of decay of different elements Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how radioactive decay helps make sense of half-life, examining the timescales of decay of different elements Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+        "is_correct": true
+      },
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atoms contain electrons and a nucleus with protons and neutrons.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-007",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_where_applications_of_radioactivity_are_used_in_medicine_to_make_the_role_of_electron_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how Dalton helps make sense of how radiocarbon and other dating methods have been used Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how Dalton helps make sense of how radiocarbon and other dating methods have been used Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+        "is_correct": true
+      },
+      {
+        "text": "Match each revision to the evidence it explained",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Natural radioactive decay changes unstable nuclei toward more stable forms.",
+      "hint": "Distinguish random individual decay from predictable behaviour of a large sample."
+    }
+  },
+  {
+    "id": "ac9s9u06-t-008",
+    "curriculum_code": "AC9S9U06",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_mass_and_energy_are_connected_at_all_scales_to_make_the_role_of_nucleus_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how electron helps make sense of where applications of radioactivity are used in medicine Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how electron helps make sense of where applications of radioactivity are used in medicine Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists simply guessed newer models",
+        "is_correct": false
+      },
+      {
+        "text": "Radioactive atoms choose to decay at a predictable time",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish random individual decay from predictable behaviour of a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Scientific atomic models changed when evidence could not be explained by an older model.",
+      "hint": "Match each revision to the evidence it explained."
+    }
+  }
+]

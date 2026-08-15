@@ -1,0 +1,237 @@
+"use strict";
+window.skillrTestQuestions = [
+  {
+    "id": "ac9e7ly06-t-001",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "integrate mode",
+    "printable": true,
+    "type": "single",
+    "question": "During a fresh case study, which response best demonstrates integrate mode in creating and publishing extended texts?",
+    "audioPrompt": "During a fresh case study, which response best demonstrates integrate mode in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A graph should be cited, labelled and interpreted in the surrounding argument",
+      "First draft treated as final",
+      "Use feedback and revision",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 0,
+    "explanation": "A graph should be cited, labelled and interpreted in the surrounding argument\nHint: Use feedback and revision.",
+    "structuredExplanation": {
+      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Use feedback and revision."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-002",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "publish accessibly",
+    "printable": true,
+    "type": "single",
+    "question": "During an unfamiliar representation, which response best demonstrates publish accessibly in creating and publishing extended texts?",
+    "audioPrompt": "During an unfamiliar representation, which response best demonstrates publish accessibly in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Visuals added decoratively",
+      "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+      "Give them a meaning role",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 1,
+    "explanation": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.\nHint: Give them a meaning role.",
+    "structuredExplanation": {
+      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+      "hint": "Give them a meaning role."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-003",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "plan audience outcome",
+    "printable": true,
+    "type": "single",
+    "question": "During a critical response, which response best demonstrates plan audience outcome in creating and publishing extended texts?",
+    "audioPrompt": "During a critical response, which response best demonstrates plan audience outcome in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Sources collected after writing",
+      "Track evidence from research onward",
+      "Templates can support organisation but should not dictate content or hide missing reasoning.",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 2,
+    "explanation": "Templates can support organisation but should not dictate content or hide missing reasoning.\nHint: Track evidence from research onward.",
+    "structuredExplanation": {
+      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+      "hint": "Track evidence from research onward."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-004",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "revise argument",
+    "printable": true,
+    "type": "single",
+    "question": "During a worked solution audit, which response best demonstrates revise argument in creating and publishing extended texts?",
+    "audioPrompt": "During a worked solution audit, which response best demonstrates revise argument in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Automated checking trusted completely",
+      "Review context, homophones, claims and layout",
+      "Substantive improvement of meaning and structure",
+      "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity."
+    ],
+    "correct": 3,
+    "explanation": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.\nHint: Review context, homophones, claims and layout.",
+    "structuredExplanation": {
+      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
+      "hint": "Review context, homophones, claims and layout."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-005",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "audit cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "During a source evaluation, which response best demonstrates audit cohesion in creating and publishing extended texts?",
+    "audioPrompt": "During a source evaluation, which response best demonstrates audit cohesion in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A graph should be cited, labelled and interpreted in the surrounding argument",
+      "First draft treated as final",
+      "Use feedback and revision",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 0,
+    "explanation": "A graph should be cited, labelled and interpreted in the surrounding argument\nHint: Use feedback and revision.",
+    "structuredExplanation": {
+      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Use feedback and revision."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-006",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "integrate mode",
+    "printable": true,
+    "type": "single",
+    "question": "During a multi-step application, which response best demonstrates integrate mode in creating and publishing extended texts?",
+    "audioPrompt": "During a multi-step application, which response best demonstrates integrate mode in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Visuals added decoratively",
+      "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+      "Give them a meaning role",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 1,
+    "explanation": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.\nHint: Give them a meaning role.",
+    "structuredExplanation": {
+      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+      "hint": "Give them a meaning role."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-007",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "publish accessibly",
+    "printable": true,
+    "type": "single",
+    "question": "During a justification task, which response best demonstrates publish accessibly in creating and publishing extended texts?",
+    "audioPrompt": "During a justification task, which response best demonstrates publish accessibly in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Sources collected after writing",
+      "Track evidence from research onward",
+      "Templates can support organisation but should not dictate content or hide missing reasoning.",
+      "Substantive improvement of meaning and structure"
+    ],
+    "correct": 2,
+    "explanation": "Templates can support organisation but should not dictate content or hide missing reasoning.\nHint: Track evidence from research onward.",
+    "structuredExplanation": {
+      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+      "hint": "Track evidence from research onward."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e7ly06-t-008",
+    "curriculumCode": "AC9E7LY06",
+    "bank": "test",
+    "skill": "plan audience outcome",
+    "printable": true,
+    "type": "single",
+    "question": "During a final synthesis, which response best demonstrates plan audience outcome in creating and publishing extended texts?",
+    "audioPrompt": "During a final synthesis, which response best demonstrates plan audience outcome in creating and publishing extended texts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Automated checking trusted completely",
+      "Review context, homophones, claims and layout",
+      "Substantive improvement of meaning and structure",
+      "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity."
+    ],
+    "correct": 3,
+    "explanation": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.\nHint: Review context, homophones, claims and layout.",
+    "structuredExplanation": {
+      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
+      "hint": "Review context, homophones, claims and layout."
+    },
+    "qualitySchema": "production-v1"
+  }
+];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

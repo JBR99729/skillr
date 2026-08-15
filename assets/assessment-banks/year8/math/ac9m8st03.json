@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8st03-p-001",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_the_proportion_of_students_in_favour_of_a_proposal_for_a_change_in_school_uniform_between_different_random_samples_of_50_students_from_the_school_population",
+    "question": "During a guided example, For watch random samples vary, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a guided example, For watch random samples vary, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-002",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_simulate_repeated_sampling_of_the_same_population_such_as_heights_or_arm_spans_of_students_recording_and_comparing_means_median",
+    "question": "During a comparison task, For compare sample proportions, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a comparison task, For compare sample proportions, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-003",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_relative_frequencies_from_historical_data_to_predict_proportions",
+    "question": "During an error analysis, For see the effect of sample size, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an error analysis, For see the effect of sample size, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use relative frequencies from historical data to predict proportions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Weather forecasting or the countries of origin of visitors to tourist attractions.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-004",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_the_effect_that_adding_or_removing_data_from_a_data_set_has_on_measures_of_central_tendency_and_spread",
+    "question": "During a model interpretation, For simulate repeated samples, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a model interpretation, For simulate repeated samples, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore the effect that adding or removing data from a data set has on measures of central tendency and spread but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-005",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_first_nations_ranger_groups_and_other_groups_use_of_sampling_techniques_to_track_biodiversity_of_species",
+    "question": "During an evidence check, For separate population and sample values, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an evidence check, For separate population and sample values, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-006",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_the_comparison_of_variations_in_distributions_and_proportions_from_the_same_population_applies_to_data_driven_decision_making_and_how_this_relates_to_training_of_artificial_intelligence_systems",
+    "question": "During a transfer problem, For explain uncertainty without guessing, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a transfer problem, For explain uncertainty without guessing, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-007",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_the_proportion_of_students_in_favour_of_a_proposal_for_a_change_in_school_uniform_between_different_random_samples_of_50_students_from_the_school_population",
+    "question": "During a peer explanation, For watch random samples vary, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a peer explanation, For watch random samples vary, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-p-008",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_simulate_repeated_sampling_of_the_same_population_such_as_heights_or_arm_spans_of_students_recording_and_comparing_means_median",
+    "question": "During an independent review, For compare sample proportions, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an independent review, For compare sample proportions, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-001",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_relative_frequencies_from_historical_data_to_predict_proportions",
+    "question": "During a fresh case study, For see the effect of sample size, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For see the effect of sample size, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use relative frequencies from historical data to predict proportions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Weather forecasting or the countries of origin of visitors to tourist attractions.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-002",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_effect_that_adding_or_removing_data_from_a_data_set_has_on_measures_of_central_tendency_and_spread",
+    "question": "During an unfamiliar representation, For simulate repeated samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For simulate repeated samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore the effect that adding or removing data from a data set has on measures of central tendency and spread but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-003",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_first_nations_ranger_groups_and_other_groups_use_of_sampling_techniques_to_track_biodiversity_of_species",
+    "question": "During a critical response, For separate population and sample values, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For separate population and sample values, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-004",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_the_comparison_of_variations_in_distributions_and_proportions_from_the_same_population_applies_to_data_driven_decision_making_and_how_this_relates_to_training_of_artificial_intelligence_systems",
+    "question": "During a worked solution audit, For explain uncertainty without guessing, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For explain uncertainty without guessing, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-005",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_the_proportion_of_students_in_favour_of_a_proposal_for_a_change_in_school_uniform_between_different_random_samples_of_50_students_from_the_school_population",
+    "question": "During a source evaluation, For watch random samples vary, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For watch random samples vary, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-006",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_to_simulate_repeated_sampling_of_the_same_population_such_as_heights_or_arm_spans_of_students_recording_and_comparing_means_median",
+    "question": "During a multi-step application, For compare sample proportions, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare sample proportions, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-007",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_relative_frequencies_from_historical_data_to_predict_proportions",
+    "question": "During a justification task, For see the effect of sample size, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For see the effect of sample size, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use relative frequencies from historical data to predict proportions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Weather forecasting or the countries of origin of visitors to tourist attractions.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st03-t-008",
+    "curriculum_code": "AC9M8ST03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_effect_that_adding_or_removing_data_from_a_data_set_has_on_measures_of_central_tendency_and_spread",
+    "question": "During a final synthesis, For simulate repeated samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For simulate repeated samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore the effect that adding or removing data from a data set has on measures of central tendency and spread but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

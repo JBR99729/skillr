@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9a05-p-001",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_practical_contexts_using_linear_functions_such_as_cooking_times_that_include_resting_or_cooling_times_or_water_leakage_from_water_tanks_using_tables_and_graphs_or_digital_tools",
+    "question": "During a guided example, For model constant change, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a guided example, For model constant change, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-002",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_measurement_situations_and_determining_the_perimeter_and_areas_of_rectangles_where_the_length_l_of_the_rectangle_is_a_linear_function_of_its_width_w",
+    "question": "During a comparison task, For model rectangle dimensions, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a comparison task, For model rectangle dimensions, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘If the width is w and the length is w + 5, then the area is A = w(w + 5).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-003",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_practical_contexts_using_simple_quadratic_functions_tables_and_graphs_hand_drawn_or_using_digital_tools_and_algebraically",
+    "question": "During an error analysis, For interpret a quadratic context, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During an error analysis, For interpret a quadratic context, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Area, paths of projectiles, parabolic mirrors, satellite dishes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-004",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_and_solving_problems_involving_financial_contexts_using_linear_functions",
+    "question": "During a model interpretation, For build a financial linear model, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a model interpretation, For build a financial linear model, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and solving problems involving financial contexts using linear functions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-005",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_change",
+    "question": "During an evidence check, For represent changing motion or temperature, which bound or interval is justified by the model",
+    "audio_prompt": "During an evidence check, For represent changing motion or temperature, which bound or interval is justified by the model",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving change but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-006",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_the_hunting_techniques_of_first_nations_australians_using_quadratic_functions_and_exploring_the_effect_of_increasing_the_number_of_hunters_to_catch_more_prey",
+    "question": "During a transfer problem, For model a quadratic hunting strategy, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a transfer problem, For model a quadratic hunting strategy, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-007",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_practical_contexts_using_linear_functions_such_as_cooking_times_that_include_resting_or_cooling_times_or_water_leakage_from_water_tanks_using_tables_and_graphs_or_digital_tools",
+    "question": "During a peer explanation, For model constant change, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a peer explanation, For model constant change, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-p-008",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_measurement_situations_and_determining_the_perimeter_and_areas_of_rectangles_where_the_length_l_of_the_rectangle_is_a_linear_function_of_its_width_w",
+    "question": "During an independent review, For model rectangle dimensions, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an independent review, For model rectangle dimensions, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘If the width is w and the length is w + 5, then the area is A = w(w + 5).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-001",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_practical_contexts_using_simple_quadratic_functions_tables_and_graphs_hand_drawn_or_using_digital_tools_and_algebraically",
+    "question": "During a fresh case study, For interpret a quadratic context, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For interpret a quadratic context, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Area, paths of projectiles, parabolic mirrors, satellite dishes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-002",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_solving_problems_involving_financial_contexts_using_linear_functions",
+    "question": "During an unfamiliar representation, For build a financial linear model, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For build a financial linear model, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model and solving problems involving financial contexts using linear functions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-003",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_change",
+    "question": "During a critical response, For represent changing motion or temperature, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For represent changing motion or temperature, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving change but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plot time against speed or temperature; label intervals of increase, decrease and no change before choosing a model.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-004",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_the_hunting_techniques_of_first_nations_australians_using_quadratic_functions_and_exploring_the_effect_of_increasing_the_number_of_hunters_to_catch_more_prey",
+    "question": "During a worked solution audit, For model a quadratic hunting strategy, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For model a quadratic hunting strategy, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-005",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_practical_contexts_using_linear_functions_such_as_cooking_times_that_include_resting_or_cooling_times_or_water_leakage_from_water_tanks_using_tables_and_graphs_or_digital_tools",
+    "question": "During a source evaluation, For model constant change, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For model constant change, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-006",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_measurement_situations_and_determining_the_perimeter_and_areas_of_rectangles_where_the_length_l_of_the_rectangle_is_a_linear_function_of_its_width_w",
+    "question": "During a multi-step application, For model rectangle dimensions, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For model rectangle dimensions, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: If the width is w and the length is w + 5, then the area is A = w(w + 5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘If the width is w and the length is w + 5, then the area is A = w(w + 5).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-007",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_practical_contexts_using_simple_quadratic_functions_tables_and_graphs_hand_drawn_or_using_digital_tools_and_algebraically",
+    "question": "During a justification task, For interpret a quadratic context, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For interpret a quadratic context, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Area, paths of projectiles, parabolic mirrors, satellite dishes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Area, paths of projectiles, parabolic mirrors, satellite dishes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a05-t-008",
+    "curriculum_code": "AC9M9A05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_solving_problems_involving_financial_contexts_using_linear_functions",
+    "question": "During a final synthesis, For build a financial linear model, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For build a financial linear model, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and solving problems involving financial contexts using linear functions but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

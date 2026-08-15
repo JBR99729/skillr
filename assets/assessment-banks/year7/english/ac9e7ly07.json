@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7ly07-p-001",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "create_roadmap",
+    "question": "During a guided example, which statement correctly explains signposting?",
+    "audio_prompt": "During a guided example, which statement correctly explains signposting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Confidence substitutes for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Support claims",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Support claims."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-002",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_signpost",
+    "question": "During a comparison task, which statement correctly explains rehearsal?",
+    "audio_prompt": "During a comparison task, which statement correctly explains rehearsal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slides become script",
+        "is_correct": false
+      },
+      {
+        "text": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain visuals orally",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+      "hint": "Explain visuals orally."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-003",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "interpret_a_visual",
+    "question": "During an error analysis, which statement correctly explains delivery?",
+    "audio_prompt": "During an error analysis, which statement correctly explains delivery?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Volume set to maximum",
+        "is_correct": false
+      },
+      {
+        "text": "Use controlled audibility and emphasis",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+        "is_correct": true
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+      "hint": "Use controlled audibility and emphasis."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-004",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "set_rehearsal_criterion",
+    "question": "During a model interpretation, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rehearsal changes delivery only",
+        "is_correct": false
+      },
+      {
+        "text": "Revise content and structure when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      },
+      {
+        "text": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+      "hint": "Revise content and structure when needed."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-005",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "respond_to_questions",
+    "question": "During an evidence check, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During an evidence check, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Confidence substitutes for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Support claims",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Support claims."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-006",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "create_roadmap",
+    "question": "During a transfer problem, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slides become script",
+        "is_correct": false
+      },
+      {
+        "text": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain visuals orally",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+      "hint": "Explain visuals orally."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-007",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_signpost",
+    "question": "During a peer explanation, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Volume set to maximum",
+        "is_correct": false
+      },
+      {
+        "text": "Use controlled audibility and emphasis",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+        "is_correct": true
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+      "hint": "Use controlled audibility and emphasis."
+    }
+  },
+  {
+    "id": "ac9e7ly07-p-008",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "interpret_a_visual",
+    "question": "During an independent review, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During an independent review, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rehearsal changes delivery only",
+        "is_correct": false
+      },
+      {
+        "text": "Revise content and structure when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      },
+      {
+        "text": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+      "hint": "Revise content and structure when needed."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-001",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "set_rehearsal_criterion",
+    "question": "During a fresh case study, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Confidence substitutes for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Support claims",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Support claims."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-002",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "respond_to_questions",
+    "question": "During an unfamiliar representation, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slides become script",
+        "is_correct": false
+      },
+      {
+        "text": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain visuals orally",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+      "hint": "Explain visuals orally."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-003",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "create_roadmap",
+    "question": "During a critical response, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a critical response, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Volume set to maximum",
+        "is_correct": false
+      },
+      {
+        "text": "Use controlled audibility and emphasis",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+        "is_correct": true
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+      "hint": "Use controlled audibility and emphasis."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-004",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_signpost",
+    "question": "During a worked solution audit, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rehearsal changes delivery only",
+        "is_correct": false
+      },
+      {
+        "text": "Revise content and structure when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      },
+      {
+        "text": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+      "hint": "Revise content and structure when needed."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-005",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "interpret_a_visual",
+    "question": "During a source evaluation, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Confidence substitutes for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Support claims",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Support claims."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-006",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "set_rehearsal_criterion",
+    "question": "During a multi-step application, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slides become script",
+        "is_correct": false
+      },
+      {
+        "text": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain visuals orally",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
+      "hint": "Explain visuals orally."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-007",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "respond_to_questions",
+    "question": "During a justification task, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a justification task, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Volume set to maximum",
+        "is_correct": false
+      },
+      {
+        "text": "Use controlled audibility and emphasis",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+        "is_correct": true
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
+      "hint": "Use controlled audibility and emphasis."
+    }
+  },
+  {
+    "id": "ac9e7ly07-t-008",
+    "curriculum_code": "AC9E7LY07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "create_roadmap",
+    "question": "During a final synthesis, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rehearsal changes delivery only",
+        "is_correct": false
+      },
+      {
+        "text": "Revise content and structure when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Language making presentation structure explicit",
+        "is_correct": false
+      },
+      {
+        "text": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
+      "hint": "Revise content and structure when needed."
+    }
+  }
+]

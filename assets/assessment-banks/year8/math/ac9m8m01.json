@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8m01-p-001",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During a guided example, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a guided example, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-002",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
+    "question": "During a comparison task, For compare perimeter and area, what changes, what stays invariant, and why",
+    "audio_prompt": "During a comparison task, For compare perimeter and area, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-003",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
+    "question": "During an error analysis, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an error analysis, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-004",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During a model interpretation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a model interpretation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-005",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
+    "question": "During an evidence check, For compare perimeter and area, what changes, what stays invariant, and why",
+    "audio_prompt": "During an evidence check, For compare perimeter and area, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-006",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
+    "question": "During a transfer problem, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a transfer problem, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-007",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During a peer explanation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a peer explanation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-p-008",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
+    "question": "During an independent review, For compare perimeter and area, what changes, what stays invariant, and why",
+    "audio_prompt": "During an independent review, For compare perimeter and area, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-001",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
+    "question": "During a fresh case study, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-002",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During an unfamiliar representation, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-003",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
+    "question": "During a critical response, For compare perimeter and area, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For compare perimeter and area, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-004",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
+    "question": "During a worked solution audit, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-005",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During a source evaluation, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-006",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
+    "question": "During a multi-step application, For compare perimeter and area, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare perimeter and area, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-007",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
+    "question": "During a justification task, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For solve a composite design problem, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m01-t-008",
+    "curriculum_code": "AC9M8M01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
+    "question": "During a final synthesis, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For decompose an irregular region, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

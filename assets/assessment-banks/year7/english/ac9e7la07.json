@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7la07-p-001",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "find_a_vector",
+    "question": "During a guided example, which statement correctly explains vector?",
+    "audio_prompt": "During a guided example, which statement correctly explains vector?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Context can complicate the effect."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-002",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_angle",
+    "question": "During a comparison task, which statement correctly explains camera angle?",
+    "audio_prompt": "During a comparison task, which statement correctly explains camera angle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "is_correct": true
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+      "hint": "Gaze, limbs, roads and movement create vectors."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-003",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_shot_distance",
+    "question": "During an error analysis, which statement correctly explains social distance?",
+    "audio_prompt": "During an error analysis, which statement correctly explains social distance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+      "hint": "Modes interact."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-004",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse_gaze",
+    "question": "During a model interpretation, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      },
+      {
+        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+      "hint": "Qualify interpretation."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-005",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "connect_modes",
+    "question": "During an evidence check, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "audio_prompt": "During an evidence check, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Context can complicate the effect."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-006",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "find_a_vector",
+    "question": "During a transfer problem, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "is_correct": true
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+      "hint": "Gaze, limbs, roads and movement create vectors."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-007",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_angle",
+    "question": "During a peer explanation, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+      "hint": "Modes interact."
+    }
+  },
+  {
+    "id": "ac9e7la07-p-008",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_shot_distance",
+    "question": "During an independent review, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "audio_prompt": "During an independent review, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      },
+      {
+        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+      "hint": "Qualify interpretation."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-001",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_gaze",
+    "question": "During a fresh case study, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Context can complicate the effect."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-002",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "connect_modes",
+    "question": "During an unfamiliar representation, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "is_correct": true
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+      "hint": "Gaze, limbs, roads and movement create vectors."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-003",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "find_a_vector",
+    "question": "During a critical response, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "audio_prompt": "During a critical response, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+      "hint": "Modes interact."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-004",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explain_angle",
+    "question": "During a worked solution audit, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      },
+      {
+        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+      "hint": "Qualify interpretation."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-005",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_shot_distance",
+    "question": "During a source evaluation, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Context can complicate the effect."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-006",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_gaze",
+    "question": "During a multi-step application, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "is_correct": true
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+      "hint": "Gaze, limbs, roads and movement create vectors."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-007",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "connect_modes",
+    "question": "During a justification task, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "audio_prompt": "During a justification task, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+      "hint": "Modes interact."
+    }
+  },
+  {
+    "id": "ac9e7la07-t-008",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "find_a_vector",
+    "question": "During a final synthesis, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Visual line or direction connecting elements",
+        "is_correct": false
+      },
+      {
+        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+      "hint": "Qualify interpretation."
+    }
+  }
+]

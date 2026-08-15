@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8st02-p-001",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_different_methods_of_sampling_used_to_collect_data_considering_the_source_and_size_of_samples",
+    "question": "During a guided example, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a guided example, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-002",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_the_sampling_methods_of_simple_random_systematic_stratified_quota_clustered_or_convenience_or_judgement_and_discussing_the_reliability_of_conclusions_about_the_context_that_could_be_drawn",
+    "question": "During a comparison task, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a comparison task, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-003",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "defining_and_distinguishing_between_probabilistic_terms_such_as_random_sample_space_sample_and_sample_distribution",
+    "question": "During an error analysis, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an error analysis, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-004",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_primary_and_secondary_data_sources_relating_to_reconciliation_between_first_nations_australians_and_non_indigenous_australians_analysing_and_reporting_on_findings",
+    "question": "During a model interpretation, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a model interpretation, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-005",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_different_methods_of_sampling_used_to_collect_data_considering_the_source_and_size_of_samples",
+    "question": "During an evidence check, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an evidence check, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-006",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_the_sampling_methods_of_simple_random_systematic_stratified_quota_clustered_or_convenience_or_judgement_and_discussing_the_reliability_of_conclusions_about_the_context_that_could_be_drawn",
+    "question": "During a transfer problem, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a transfer problem, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-007",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "defining_and_distinguishing_between_probabilistic_terms_such_as_random_sample_space_sample_and_sample_distribution",
+    "question": "During a peer explanation, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a peer explanation, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-p-008",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_primary_and_secondary_data_sources_relating_to_reconciliation_between_first_nations_australians_and_non_indigenous_australians_analysing_and_reporting_on_findings",
+    "question": "During an independent review, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an independent review, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-001",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_different_methods_of_sampling_used_to_collect_data_considering_the_source_and_size_of_samples",
+    "question": "During a fresh case study, For compare random and non-random samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For compare random and non-random samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-002",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_the_sampling_methods_of_simple_random_systematic_stratified_quota_clustered_or_convenience_or_judgement_and_discussing_the_reliability_of_conclusions_about_the_context_that_could_be_drawn",
+    "question": "During an unfamiliar representation, For describe centre, spread and shape, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For describe centre, spread and shape, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-003",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "defining_and_distinguishing_between_probabilistic_terms_such_as_random_sample_space_sample_and_sample_distribution",
+    "question": "During a critical response, For connect sampling method to distribution, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For connect sampling method to distribution, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-004",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_primary_and_secondary_data_sources_relating_to_reconciliation_between_first_nations_australians_and_non_indigenous_australians_analysing_and_reporting_on_findings",
+    "question": "During a worked solution audit, For evaluate a claim from secondary data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For evaluate a claim from secondary data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-005",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_different_methods_of_sampling_used_to_collect_data_considering_the_source_and_size_of_samples",
+    "question": "During a source evaluation, For compare random and non-random samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For compare random and non-random samples, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-006",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_the_sampling_methods_of_simple_random_systematic_stratified_quota_clustered_or_convenience_or_judgement_and_discussing_the_reliability_of_conclusions_about_the_context_that_could_be_drawn",
+    "question": "During a multi-step application, For describe centre, spread and shape, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For describe centre, spread and shape, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-007",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "defining_and_distinguishing_between_probabilistic_terms_such_as_random_sample_space_sample_and_sample_distribution",
+    "question": "During a justification task, For connect sampling method to distribution, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For connect sampling method to distribution, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8st02-t-008",
+    "curriculum_code": "AC9M8ST02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_primary_and_secondary_data_sources_relating_to_reconciliation_between_first_nations_australians_and_non_indigenous_australians_analysing_and_reporting_on_findings",
+    "question": "During a final synthesis, For evaluate a claim from secondary data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For evaluate a claim from secondary data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

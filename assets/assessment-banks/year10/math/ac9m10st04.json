@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10st04-p-001",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During a guided example, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "audio_prompt": "During a guided example, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-002",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "record_data_in_two_way_tables_and_using_percentages_and_proportions_to_identify_patterns_and_associations_in_the_data",
+    "question": "During a comparison task, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a comparison task, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-003",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_labelled_model_to_investigate_investigate_two_categorical_variables",
+    "question": "During an error analysis, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "audio_prompt": "During an error analysis, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-004",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During a model interpretation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "audio_prompt": "During a model interpretation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-005",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "record_data_in_two_way_tables_and_using_percentages_and_proportions_to_identify_patterns_and_associations_in_the_data",
+    "question": "During an evidence check, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an evidence check, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-006",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_labelled_model_to_investigate_investigate_two_categorical_variables",
+    "question": "During a transfer problem, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "audio_prompt": "During a transfer problem, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-007",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During a peer explanation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "audio_prompt": "During a peer explanation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-p-008",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "record_data_in_two_way_tables_and_using_percentages_and_proportions_to_identify_patterns_and_associations_in_the_data",
+    "question": "During an independent review, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an independent review, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-001",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_labelled_model_to_investigate_investigate_two_categorical_variables",
+    "question": "During a fresh case study, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-002",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During an unfamiliar representation, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-003",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "record_data_in_two_way_tables_and_using_percentages_and_proportions_to_identify_patterns_and_associations_in_the_data",
+    "question": "During a critical response, For use row and column percentages, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For use row and column percentages, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-004",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_labelled_model_to_investigate_investigate_two_categorical_variables",
+    "question": "During a worked solution audit, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-005",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During a source evaluation, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-006",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "record_data_in_two_way_tables_and_using_percentages_and_proportions_to_identify_patterns_and_associations_in_the_data",
+    "question": "During a multi-step application, For use row and column percentages, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For use row and column percentages, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-007",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_labelled_model_to_investigate_investigate_two_categorical_variables",
+    "question": "During a justification task, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For investigate two categorical variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10st04-t-008",
+    "curriculum_code": "AC9M10ST04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_to_investigate_and_comparing_the_survey_responses_to_questions_involving_five_point_likert_scale_against_2_different_categories_of_respondents",
+    "question": "During a final synthesis, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For compare groups with a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

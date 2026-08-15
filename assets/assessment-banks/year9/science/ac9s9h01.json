@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9h01-p-001",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_process_of_publishing_a_paper_in_a_scientific_to_make_the_role_of_research_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+        "is_correct": true
+      },
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-002",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_publication_of_data_and_findings_related_to_make_the_role_of_method_and_data_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+        "is_correct": true
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-003",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_work_of_professor_barry_marshall_and_dr_robin_to_make_the_role_of_publication_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how publication helps make sense of the work of professor barry marshall and dr robin",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how publication helps make sense of the work of professor barry marshall and dr robin",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-004",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_scientific_consensus_supporting_global_warming_to_make_the_role_of_peer_scrutiny_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how peer scrutiny helps make sense of the scientific consensus supporting global warming",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how peer scrutiny helps make sense of the scientific consensus supporting global warming",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-005",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_jj_thomson_s_discovery_of_the_electron_robert_millikan_s_to_make_the_role_of_replication_and_refinement_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how replication and refinement helps make sense of how jj thomson’s discovery of the electron, robert millikan’s",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how replication and refinement helps make sense of how jj thomson’s discovery of the electron, robert millikan’s",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+        "is_correct": true
+      },
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how jj thomson’s discovery of the electron, robert millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-006",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_marie_and_pierre_curie_s_discovery_of_new_elements_to_make_the_role_of_research_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how research question helps make sense of how marie and pierre curie’s discovery of new elements",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how research question helps make sense of how marie and pierre curie’s discovery of new elements",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how marie and pierre curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-007",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_process_of_publishing_a_paper_in_a_scientific_to_make_the_role_of_research_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, Use the central model to explain how science is validated and refined in three linked sentences",
+    "audio_prompt": "During a peer explanation, Use the central model to explain how science is validated and refined in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      },
+      {
+        "text": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-p-008",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_publication_of_data_and_findings_related_to_make_the_role_of_method_and_data_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-001",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_work_of_professor_barry_marshall_and_dr_robin_to_make_the_role_of_publication_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+        "is_correct": true
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-002",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_scientific_consensus_supporting_global_warming_to_make_the_role_of_peer_scrutiny_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how publication helps make sense of the work of professor barry marshall and dr robin Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how publication helps make sense of the work of professor barry marshall and dr robin Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-003",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_jj_thomson_s_discovery_of_the_electron_robert_millikan_s_to_make_the_role_of_replication_and_refinement_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how peer scrutiny helps make sense of the scientific consensus supporting global warming Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how peer scrutiny helps make sense of the scientific consensus supporting global warming Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-004",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_marie_and_pierre_curie_s_discovery_of_new_elements_to_make_the_role_of_research_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how replication and refinement helps make sense of how jj thomson’s discovery of the electron, robert millikan’s Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how replication and refinement helps make sense of how jj thomson’s discovery of the electron, robert millikan’s Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-005",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_process_of_publishing_a_paper_in_a_scientific_to_make_the_role_of_research_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how research question helps make sense of how marie and pierre curie’s discovery of new elements Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how research question helps make sense of how marie and pierre curie’s discovery of new elements Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-006",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_publication_of_data_and_findings_related_to_make_the_role_of_method_and_data_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, Use the central model to explain how science is validated and refined in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Use the central model to explain how science is validated and refined in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-007",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_work_of_professor_barry_marshall_and_dr_robin_to_make_the_role_of_publication_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how research question helps make sense of the process of publishing a paper in a scientific Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer review proves a paper is true",
+        "is_correct": false
+      },
+      {
+        "text": "Treat it as one quality-control stage followed by replication and continuing scrutiny",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
+      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+    }
+  },
+  {
+    "id": "ac9s9h01-t-008",
+    "curriculum_code": "AC9S9H01",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_scientific_consensus_supporting_global_warming_to_make_the_role_of_peer_scrutiny_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how method and data helps make sense of how the publication of data and findings related Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Consensus is a vote detached from evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Connect consensus to independent, converging evidence and expert evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
+      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+    }
+  }
+]

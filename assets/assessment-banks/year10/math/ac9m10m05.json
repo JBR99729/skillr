@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10m05-p-001",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_plans_and_elevation_drawings_to_investigate_making_changes_to_building_designs_employing_appropriate_scales_and_converting_to_actual_measurements_within_the_context_to_make_decisions_about_changes",
+    "question": "During a guided example, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a guided example, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-002",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_and_applying_scale_and_ratios_in_situations_such_as_production_prototypes_and_3d_printing",
+    "question": "During a comparison task, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a comparison task, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-003",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "estimate_the_scale_of_an_object_such_as_a_toy_car_by_measuring_a_linear_dimension_and_using_a_typical_car_dimension_to_work_out_the_scale_factor",
+    "question": "During an error analysis, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an error analysis, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-004",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_compliance_with_building_codes_and_standards_in_design_and_construction_such_as_for_escalators_in_shopping_centres",
+    "question": "During a model interpretation, For check a design against standards, what changes, what stays invariant, and why",
+    "audio_prompt": "During a model interpretation, For check a design against standards, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-005",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_artificial_intelligence_image_generators_use_proportion_and_scaling_techniques_such_as_aspect_ratio_preservation",
+    "question": "During an evidence check, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an evidence check, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-006",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_plans_and_elevation_drawings_to_investigate_making_changes_to_building_designs_employing_appropriate_scales_and_converting_to_actual_measurements_within_the_context_to_make_decisions_about_changes",
+    "question": "During a transfer problem, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a transfer problem, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-007",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_and_applying_scale_and_ratios_in_situations_such_as_production_prototypes_and_3d_printing",
+    "question": "During a peer explanation, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a peer explanation, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-p-008",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "estimate_the_scale_of_an_object_such_as_a_toy_car_by_measuring_a_linear_dimension_and_using_a_typical_car_dimension_to_work_out_the_scale_factor",
+    "question": "During an independent review, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an independent review, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-001",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_compliance_with_building_codes_and_standards_in_design_and_construction_such_as_for_escalators_in_shopping_centres",
+    "question": "During a fresh case study, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-002",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_artificial_intelligence_image_generators_use_proportion_and_scaling_techniques_such_as_aspect_ratio_preservation",
+    "question": "During an unfamiliar representation, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-003",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_plans_and_elevation_drawings_to_investigate_making_changes_to_building_designs_employing_appropriate_scales_and_converting_to_actual_measurements_within_the_context_to_make_decisions_about_changes",
+    "question": "During a critical response, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-004",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_and_applying_scale_and_ratios_in_situations_such_as_production_prototypes_and_3d_printing",
+    "question": "During a worked solution audit, For scale a production prototype, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For scale a production prototype, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-005",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "estimate_the_scale_of_an_object_such_as_a_toy_car_by_measuring_a_linear_dimension_and_using_a_typical_car_dimension_to_work_out_the_scale_factor",
+    "question": "During a source evaluation, For estimate an object's scale, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For estimate an object's scale, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-006",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_compliance_with_building_codes_and_standards_in_design_and_construction_such_as_for_escalators_in_shopping_centres",
+    "question": "During a multi-step application, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-007",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_artificial_intelligence_image_generators_use_proportion_and_scaling_techniques_such_as_aspect_ratio_preservation",
+    "question": "During a justification task, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10m05-t-008",
+    "curriculum_code": "AC9M10M05",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_plans_and_elevation_drawings_to_investigate_making_changes_to_building_designs_employing_appropriate_scales_and_converting_to_actual_measurements_within_the_context_to_make_decisions_about_changes",
+    "question": "During a final synthesis, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

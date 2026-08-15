@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9i05-p-001",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_validity_of_the_data_when_extrapolating_to_make_the_role_of_source_a_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      },
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-002",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_representations_of_data_from_atmospheric_monitoring_and_ice_cores_to_make_the_role_of_source_b_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-003",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_published_data_with_experimental_data_to_make_the_role_of_shared_pattern_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-004",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_data_on_heat_transfer_through_multiple_layers_to_make_the_role_of_anomaly_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-005",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_tables_graphs_and_digital_simulations_of_radioactive_decay_half_life_to_make_the_role_of_model_based_explanation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-006",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_validity_of_the_data_when_extrapolating_to_make_the_role_of_source_a_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, Use the central model to explain connect evidence across data sets in three linked sentences",
+    "audio_prompt": "During a transfer problem, Use the central model to explain connect evidence across data sets in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
+        "is_correct": true
+      },
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-007",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_representations_of_data_from_atmospheric_monitoring_and_ice_cores_to_make_the_role_of_source_b_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-p-008",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_published_data_with_experimental_data_to_make_the_role_of_shared_pattern_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-001",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_data_on_heat_transfer_through_multiple_layers_to_make_the_role_of_anomaly_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+        "is_correct": true
+      },
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-002",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_tables_graphs_and_digital_simulations_of_radioactive_decay_half_life_to_make_the_role_of_model_based_explanation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-003",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_validity_of_the_data_when_extrapolating_to_make_the_role_of_source_a_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-004",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_representations_of_data_from_atmospheric_monitoring_and_ice_cores_to_make_the_role_of_source_b_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, Use the central model to explain connect evidence across data sets in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, Use the central model to explain connect evidence across data sets in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-005",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_published_data_with_experimental_data_to_make_the_role_of_shared_pattern_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      },
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-006",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_data_on_heat_transfer_through_multiple_layers_to_make_the_role_of_anomaly_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-007",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_tables_graphs_and_digital_simulations_of_radioactive_decay_half_life_to_make_the_role_of_model_based_explanation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different sources can be averaged immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Check units, definitions, sampling and comparability first",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+      "hint": "Check units, definitions, sampling and comparability first."
+    }
+  },
+  {
+    "id": "ac9s9i05-t-008",
+    "curriculum_code": "AC9S9I05",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_validity_of_the_data_when_extrapolating_to_make_the_role_of_source_a_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An anomaly invalidates the whole data set",
+        "is_correct": false
+      },
+      {
+        "text": "Test its cause and influence on the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "hint": "Test its cause and influence on the relationship."
+    }
+  }
+]

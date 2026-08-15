@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e10la01-p-001",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
+    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-002",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
+    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-003",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
+    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-004",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
+    "question": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-005",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
+    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-006",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
+    "question": "During a transfer problem, Explain how one deliberate choice shapes meaning in understand how language can have inclusive and exclusive social effects, and can empower or disempower people",
+    "audio_prompt": "During a transfer problem, Explain how one deliberate choice shapes meaning in understand how language can have inclusive and exclusive social effects, and can empower or disempower people",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10la01-p-007",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
+    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-p-008",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
+    "question": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-001",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
+    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-002",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
+    "question": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-003",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
+    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-004",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
+    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in understand how language can have inclusive and exclusive social effects, and can empower or disempower people Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in understand how language can have inclusive and exclusive social effects, and can empower or disempower people Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10la01-t-005",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
+    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-006",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
+    "question": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-007",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
+    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10la01-t-008",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
+    "question": "During a final synthesis, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A precise response names effect and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s10u06-p-001",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_elements_are_organised_in_the_periodic_table_to_make_the_role_of_proton_number_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+        "is_correct": true
+      },
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how elements are organised in the periodic table to make the role of proton number visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-002",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_physical_properties_of_some_metals_and_non_metals_to_make_the_role_of_electron_shells_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the physical properties of some metals and non-metals to make the role of electron shells visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-003",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_bohr_model_of_the_atom_to_describe_to_make_the_role_of_valence_electrons_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how valence electrons helps make sense of the bohr model of the atom to describe",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how valence electrons helps make sense of the bohr model of the atom to describe",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-004",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_repeating_patterns_of_the_periodic_table_reflect_patterns_to_make_the_role_of_groups_and_periods_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how groups and periods helps make sense of repeating patterns of the periodic table reflect patterns",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how groups and periods helps make sense of repeating patterns of the periodic table reflect patterns",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-005",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_flame_tests_for_a_selection_of_elements_and_examining_to_make_the_role_of_property_pattern_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how property pattern helps make sense of flame tests for a selection of elements and examining",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how property pattern helps make sense of flame tests for a selection of elements and examining",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-006",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_development_of_the_spectroscope_led_to_further_to_make_the_role_of_proton_number_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how proton number helps make sense of how the development of the spectroscope led to further",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how proton number helps make sense of how the development of the spectroscope led to further",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-007",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_elements_are_organised_in_the_periodic_table_to_make_the_role_of_proton_number_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, Use the central model to explain atomic structure explains periodic patterns in three linked sentences",
+    "audio_prompt": "During a peer explanation, Use the central model to explain atomic structure explains periodic patterns in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      },
+      {
+        "text": "Elements are organised by increasing proton number. Periods relate to occupied electron shells and groups to recurring outer-electron patterns. Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how elements are organised in the periodic table to make the role of proton number visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Elements are organised by increasing proton number. Periods relate to occupied electron shells and groups to recurring outer-electron patterns. Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-p-008",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_physical_properties_of_some_metals_and_non_metals_to_make_the_role_of_electron_shells_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-001",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_bohr_model_of_the_atom_to_describe_to_make_the_role_of_valence_electrons_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-002",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_repeating_patterns_of_the_periodic_table_reflect_patterns_to_make_the_role_of_groups_and_periods_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how valence electrons helps make sense of the bohr model of the atom to describe Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how valence electrons helps make sense of the bohr model of the atom to describe Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-003",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_flame_tests_for_a_selection_of_elements_and_examining_to_make_the_role_of_property_pattern_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how groups and periods helps make sense of repeating patterns of the periodic table reflect patterns Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how groups and periods helps make sense of repeating patterns of the periodic table reflect patterns Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-004",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_development_of_the_spectroscope_led_to_further_to_make_the_role_of_proton_number_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how property pattern helps make sense of flame tests for a selection of elements and examining Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how property pattern helps make sense of flame tests for a selection of elements and examining Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-005",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_elements_are_organised_in_the_periodic_table_to_make_the_role_of_proton_number_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how proton number helps make sense of how the development of the spectroscope led to further Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how proton number helps make sense of how the development of the spectroscope led to further Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-006",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_physical_properties_of_some_metals_and_non_metals_to_make_the_role_of_electron_shells_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, Use the central model to explain atomic structure explains periodic patterns in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Use the central model to explain atomic structure explains periodic patterns in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Elements are organised by increasing proton number. Periods relate to occupied electron shells and groups to recurring outer-electron patterns. Atomic structure helps explain trends in physical and chemical properties.",
+        "is_correct": true
+      },
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Elements are organised by increasing proton number. Periods relate to occupied electron shells and groups to recurring outer-electron patterns. Atomic structure helps explain trends in physical and chemical properties.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-007",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_bohr_model_of_the_atom_to_describe_to_make_the_role_of_valence_electrons_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how proton number helps make sense of how elements are organised in the periodic table Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Elements in a group are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Describe similar patterns alongside systematic changes down a group",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Elements are organised by increasing proton number.",
+      "hint": "Describe similar patterns alongside systematic changes down a group."
+    }
+  },
+  {
+    "id": "ac9s10u06-t-008",
+    "curriculum_code": "AC9S10U06",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_repeating_patterns_of_the_periodic_table_reflect_patterns_to_make_the_role_of_groups_and_periods_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how electron shells helps make sense of the physical properties of some metals and non-metals Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The periodic table is ordered by atomic mass",
+        "is_correct": false
+      },
+      {
+        "text": "Use proton number as the modern organising sequence",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Periods relate to occupied electron shells and groups to recurring outer-electron patterns.",
+      "hint": "Use proton number as the modern organising sequence."
+    }
+  }
+]

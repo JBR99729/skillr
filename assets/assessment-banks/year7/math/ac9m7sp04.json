@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7sp04-p-001",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_translation_algorithm",
+    "question": "During a guided example, which statement correctly explains algorithm?",
+    "audio_prompt": "During a guided example, which statement correctly explains algorithm?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation centre omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The output becomes ambiguous",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
+      "hint": "The output becomes ambiguous."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-002",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "add_a_decision_branch",
+    "question": "During a comparison task, which statement correctly explains iteration?",
+    "audio_prompt": "During a comparison task, which statement correctly explains iteration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Original and latest image confused",
+        "is_correct": false
+      },
+      {
+        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "is_correct": true
+      },
+      {
+        "text": "Specify which object is transformed each iteration",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
+      "hint": "Specify which object is transformed each iteration."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-003",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "set_a_stopping_condition",
+    "question": "During an error analysis, which statement correctly explains decision branch?",
+    "audio_prompt": "During an error analysis, which statement correctly explains decision branch?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Loop has no stop",
+        "is_correct": false
+      },
+      {
+        "text": "Define count or geometric condition",
+        "is_correct": false
+      },
+      {
+        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "is_correct": true
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+      "hint": "Define count or geometric condition."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-004",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "trace_an_iteration",
+    "question": "During a model interpretation, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital picture accepted without coordinate check",
+        "is_correct": false
+      },
+      {
+        "text": "Trace representative points",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      },
+      {
+        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+      "hint": "Trace representative points."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-005",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "debug_ambiguous_wording",
+    "question": "During an evidence check, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "audio_prompt": "During an evidence check, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation centre omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The output becomes ambiguous",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
+      "hint": "The output becomes ambiguous."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-006",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_translation_algorithm",
+    "question": "During a transfer problem, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Original and latest image confused",
+        "is_correct": false
+      },
+      {
+        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "is_correct": true
+      },
+      {
+        "text": "Specify which object is transformed each iteration",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
+      "hint": "Specify which object is transformed each iteration."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-007",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "add_a_decision_branch",
+    "question": "During a peer explanation, which response best demonstrates add a decision branch in spatial algorithms and decision processes?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates add a decision branch in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Loop has no stop",
+        "is_correct": false
+      },
+      {
+        "text": "Define count or geometric condition",
+        "is_correct": false
+      },
+      {
+        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "is_correct": true
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+      "hint": "Define count or geometric condition."
+    }
+  },
+  {
+    "id": "ac9m7sp04-p-008",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "set_a_stopping_condition",
+    "question": "During an independent review, which response best demonstrates set a stopping condition in spatial algorithms and decision processes?",
+    "audio_prompt": "During an independent review, which response best demonstrates set a stopping condition in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital picture accepted without coordinate check",
+        "is_correct": false
+      },
+      {
+        "text": "Trace representative points",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      },
+      {
+        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+      "hint": "Trace representative points."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-001",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "trace_an_iteration",
+    "question": "During a fresh case study, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation centre omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The output becomes ambiguous",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
+      "hint": "The output becomes ambiguous."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-002",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "debug_ambiguous_wording",
+    "question": "During an unfamiliar representation, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Original and latest image confused",
+        "is_correct": false
+      },
+      {
+        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "is_correct": true
+      },
+      {
+        "text": "Specify which object is transformed each iteration",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
+      "hint": "Specify which object is transformed each iteration."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-003",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_translation_algorithm",
+    "question": "During a critical response, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "audio_prompt": "During a critical response, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Loop has no stop",
+        "is_correct": false
+      },
+      {
+        "text": "Define count or geometric condition",
+        "is_correct": false
+      },
+      {
+        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "is_correct": true
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+      "hint": "Define count or geometric condition."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-004",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "add_a_decision_branch",
+    "question": "During a worked solution audit, which response best demonstrates add a decision branch in spatial algorithms and decision processes?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates add a decision branch in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital picture accepted without coordinate check",
+        "is_correct": false
+      },
+      {
+        "text": "Trace representative points",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      },
+      {
+        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+      "hint": "Trace representative points."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-005",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "set_a_stopping_condition",
+    "question": "During a source evaluation, which response best demonstrates set a stopping condition in spatial algorithms and decision processes?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates set a stopping condition in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "is_correct": true
+      },
+      {
+        "text": "Transformation centre omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The output becomes ambiguous",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
+      "hint": "The output becomes ambiguous."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-006",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "trace_an_iteration",
+    "question": "During a multi-step application, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates trace an iteration in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Original and latest image confused",
+        "is_correct": false
+      },
+      {
+        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "is_correct": true
+      },
+      {
+        "text": "Specify which object is transformed each iteration",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
+      "hint": "Specify which object is transformed each iteration."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-007",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "debug_ambiguous_wording",
+    "question": "During a justification task, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "audio_prompt": "During a justification task, which response best demonstrates debug ambiguous wording in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Loop has no stop",
+        "is_correct": false
+      },
+      {
+        "text": "Define count or geometric condition",
+        "is_correct": false
+      },
+      {
+        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "is_correct": true
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+      "hint": "Define count or geometric condition."
+    }
+  },
+  {
+    "id": "ac9m7sp04-t-008",
+    "curriculum_code": "AC9M7SP04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_translation_algorithm",
+    "question": "During a final synthesis, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates write a translation algorithm in spatial algorithms and decision processes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital picture accepted without coordinate check",
+        "is_correct": false
+      },
+      {
+        "text": "Trace representative points",
+        "is_correct": false
+      },
+      {
+        "text": "Finite ordered instructions",
+        "is_correct": false
+      },
+      {
+        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+      "hint": "Trace representative points."
+    }
+  }
+]

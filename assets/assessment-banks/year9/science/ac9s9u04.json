@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9u04-p-001",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_processes_underlying_convection_and_conduction_of_heat_to_make_the_role_of_wave_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how wave helps make sense of the processes underlying convection and conduction of heat",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how wave helps make sense of the processes underlying convection and conduction of heat",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      },
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-002",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_transfer_of_sound_energy_as_waves_using_slinky_to_make_the_role_of_amplitude_and_frequency_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how amplitude and frequency helps make sense of the transfer of sound energy as waves using slinky",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how amplitude and frequency helps make sense of the transfer of sound energy as waves using slinky",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+        "is_correct": true
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-003",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_particle_model_of_electricity_explains_static_electricity_to_make_the_role_of_particle_vibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how particle vibration helps make sense of how the particle model of electricity explains static electricity",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how particle vibration helps make sense of how the particle model of electricity explains static electricity",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-004",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_wave_and_particle_models_of_energy_transfer_to_make_the_role_of_medium_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how medium helps make sense of the wave and particle models of energy transfer",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how medium helps make sense of the wave and particle models of energy transfer",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the wave and particle models of energy transfer, to make the role of medium visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-005",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_aspects_of_heat_transfer_and_conservation_in_the_design_to_make_the_role_of_model_strength_and_limit_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how model strength and limit helps make sense of aspects of heat transfer and conservation in the design",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how model strength and limit helps make sense of aspects of heat transfer and conservation in the design",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+        "is_correct": true
+      },
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-006",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_impact_of_material_selection_on_the_transfer_to_make_the_role_of_wave_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how wave helps make sense of the impact of material selection on the transfer",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how wave helps make sense of the impact of material selection on the transfer",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-007",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_forms_of_electromagnetic_radiation_that_are_used_to_make_the_role_of_amplitude_and_frequency_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how amplitude and frequency helps make sense of the forms of electromagnetic radiation that are used",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how amplitude and frequency helps make sense of the forms of electromagnetic radiation that are used",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-p-008",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_processes_underlying_convection_and_conduction_of_heat_to_make_the_role_of_wave_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, Use the central model to explain two models for energy transfer in three linked sentences",
+    "audio_prompt": "During an independent review, Use the central model to explain two models for energy transfer in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "Waves transfer energy without net transfer of matter. Particle interactions explain transfer through a medium. Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Waves transfer energy without net transfer of matter. Particle interactions explain transfer through a medium. Models are evaluated by what they explain and what they omit.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-001",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_transfer_of_sound_energy_as_waves_using_slinky_to_make_the_role_of_amplitude_and_frequency_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how wave helps make sense of the processes underlying convection and conduction of heat Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how wave helps make sense of the processes underlying convection and conduction of heat Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      },
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-002",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_particle_model_of_electricity_explains_static_electricity_to_make_the_role_of_particle_vibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how amplitude and frequency helps make sense of the transfer of sound energy as waves using slinky Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how amplitude and frequency helps make sense of the transfer of sound energy as waves using slinky Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+        "is_correct": true
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-003",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_wave_and_particle_models_of_energy_transfer_to_make_the_role_of_medium_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how particle vibration helps make sense of how the particle model of electricity explains static electricity Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how particle vibration helps make sense of how the particle model of electricity explains static electricity Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the wave and particle models of energy transfer, to make the role of medium visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-004",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_aspects_of_heat_transfer_and_conservation_in_the_design_to_make_the_role_of_model_strength_and_limit_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how medium helps make sense of the wave and particle models of energy transfer Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how medium helps make sense of the wave and particle models of energy transfer Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-005",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_impact_of_material_selection_on_the_transfer_to_make_the_role_of_wave_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how model strength and limit helps make sense of aspects of heat transfer and conservation in the design Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how model strength and limit helps make sense of aspects of heat transfer and conservation in the design Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+        "is_correct": true
+      },
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Particle interactions explain transfer through a medium.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-006",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_forms_of_electromagnetic_radiation_that_are_used_to_make_the_role_of_amplitude_and_frequency_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how wave helps make sense of the impact of material selection on the transfer Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how wave helps make sense of the impact of material selection on the transfer Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Models are evaluated by what they explain and what they omit.",
+      "hint": "Identify which question each model answers and where it stops being useful."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-007",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_processes_underlying_convection_and_conduction_of_heat_to_make_the_role_of_wave_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how amplitude and frequency helps make sense of the forms of electromagnetic radiation that are used Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how amplitude and frequency helps make sense of the forms of electromagnetic radiation that are used Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "Track one particle oscillating around a fixed position",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Waves transfer energy without net transfer of matter.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  },
+  {
+    "id": "ac9s9u04-t-008",
+    "curriculum_code": "AC9S9U04",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_transfer_of_sound_energy_as_waves_using_slinky_to_make_the_role_of_amplitude_and_frequency_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, Use the central model to explain two models for energy transfer in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Use the central model to explain two models for energy transfer in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles travel with the wave from source to receiver",
+        "is_correct": false
+      },
+      {
+        "text": "One model must be the true picture",
+        "is_correct": false
+      },
+      {
+        "text": "Identify which question each model answers and where it stops being useful",
+        "is_correct": false
+      },
+      {
+        "text": "Waves transfer energy without net transfer of matter. Particle interactions explain transfer through a medium. Models are evaluated by what they explain and what they omit.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Waves transfer energy without net transfer of matter. Particle interactions explain transfer through a medium. Models are evaluated by what they explain and what they omit.",
+      "hint": "Track one particle oscillating around a fixed position."
+    }
+  }
+]

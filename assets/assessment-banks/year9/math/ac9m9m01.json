@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9m01-p-001",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "During a guided example, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a guided example, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse nets of objects to generate short cuts and establish formulas for surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Analyse nets of objects to generate short cuts and establish formulas for surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-002",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "During a comparison task, For minimise material for a cylinder, what changes, what stays invariant, and why",
+    "audio_prompt": "During a comparison task, For minimise material for a cylinder, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-003",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "During an error analysis, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an error analysis, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-004",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "During a model interpretation, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a model interpretation, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-005",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "During an evidence check, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During an evidence check, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse nets of objects to generate short cuts and establish formulas for surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Analyse nets of objects to generate short cuts and establish formulas for surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-006",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "During a transfer problem, For minimise material for a cylinder, what changes, what stays invariant, and why",
+    "audio_prompt": "During a transfer problem, For minimise material for a cylinder, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-007",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "During a peer explanation, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a peer explanation, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-p-008",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "During an independent review, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an independent review, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-001",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "During a fresh case study, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse nets of objects to generate short cuts and establish formulas for surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Analyse nets of objects to generate short cuts and establish formulas for surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-002",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "During an unfamiliar representation, For minimise material for a cylinder, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For minimise material for a cylinder, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-003",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "During a critical response, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-004",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "During a worked solution audit, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-005",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "During a source evaluation, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For build surface-area formulas from nets, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions analyse nets of objects to generate short cuts and establish formulas for surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Analyse nets of objects to generate short cuts and establish formulas for surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Analyse nets of objects to generate short cuts and establish formulas for surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-006",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "During a multi-step application, For minimise material for a cylinder, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For minimise material for a cylinder, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-007",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "During a justification task, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For hold volume constant and vary surface area, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-008",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "During a final synthesis, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For connect capacity, surface area and design, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

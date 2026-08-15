@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10a02-p-001",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_situations_involving_linear_equations_in_context_such_as_multiple_quotes_for_a_job_or_profit_and_loss_solving_the_equations_graphically_giving_solutions_in_everyday_language",
+    "question": "During a guided example, For find a break-even intersection, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a guided example, For find a break-even intersection, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Multiple quotes for a job, or profit and loss.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-002",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "describe_the_solution_of_simultaneous_equations_within_the_context_of_the_situation",
+    "question": "During a comparison task, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a comparison task, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions describe the solution of simultaneous equations within the context of the situation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Describe the solution of simultaneous equations within the context of the situation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-003",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "graphing_regions_corresponding_to_inequalities_in_the_cartesian_plane",
+    "question": "During an error analysis, For shade an inequality region, which bound or interval is justified by the model",
+    "audio_prompt": "During an error analysis, For shade an inequality region, which bound or interval is justified by the model",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions graphing regions corresponding to inequalities in the cartesian plane but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Graphing 2x+3y<24 and verifying using a test point such as (0, 0).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-004",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_all_the_combinations_of_trips_to_the_movies_each_costing_12_and_ice_skating_sessions_each_costing_21",
+    "question": "During a model interpretation, For find integer solutions under a budget, what changes, what stays invariant, and why",
+    "audio_prompt": "During a model interpretation, For find integer solutions under a budget, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-005",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "test_when_a_circle_of_a_specified_radius_has_a_corresponding_area_greater_than_a_given_value_or_whether_a_point_satisfies_an_inequality",
+    "question": "During an evidence check, For test points against nonlinear inequalities, which bound or interval is justified by the model",
+    "audio_prompt": "During an evidence check, For test points against nonlinear inequalities, which bound or interval is justified by the model",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Whether the point (3, 5) satisfies 2y<x². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Whether the point (3, 5) satisfies 2y<x². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Whether the point (3, 5) satisfies 2y<x².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-006",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_the_strategies_inherent_in_first_nations_australian_children_s_instructive_games",
+    "question": "During a transfer problem, For model strategy with two variables, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a transfer problem, For model strategy with two variables, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore the strategies inherent in first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-007",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_situations_involving_linear_equations_in_context_such_as_multiple_quotes_for_a_job_or_profit_and_loss_solving_the_equations_graphically_giving_solutions_in_everyday_language",
+    "question": "During a peer explanation, For find a break-even intersection, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a peer explanation, For find a break-even intersection, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Multiple quotes for a job, or profit and loss.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-p-008",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "describe_the_solution_of_simultaneous_equations_within_the_context_of_the_situation",
+    "question": "During an independent review, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During an independent review, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions describe the solution of simultaneous equations within the context of the situation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Describe the solution of simultaneous equations within the context of the situation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-001",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "graphing_regions_corresponding_to_inequalities_in_the_cartesian_plane",
+    "question": "During a fresh case study, For shade an inequality region, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For shade an inequality region, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions graphing regions corresponding to inequalities in the cartesian plane but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Graphing 2x+3y<24 and verifying using a test point such as (0, 0).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-002",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_all_the_combinations_of_trips_to_the_movies_each_costing_12_and_ice_skating_sessions_each_costing_21",
+    "question": "During an unfamiliar representation, For find integer solutions under a budget, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For find integer solutions under a budget, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-003",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "test_when_a_circle_of_a_specified_radius_has_a_corresponding_area_greater_than_a_given_value_or_whether_a_point_satisfies_an_inequality",
+    "question": "During a critical response, For test points against nonlinear inequalities, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For test points against nonlinear inequalities, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Whether the point (3, 5) satisfies 2y<x². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Whether the point (3, 5) satisfies 2y<x². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Whether the point (3, 5) satisfies 2y<x².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-004",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_strategies_inherent_in_first_nations_australian_children_s_instructive_games",
+    "question": "During a worked solution audit, For model strategy with two variables, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For model strategy with two variables, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore the strategies inherent in first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-005",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_situations_involving_linear_equations_in_context_such_as_multiple_quotes_for_a_job_or_profit_and_loss_solving_the_equations_graphically_giving_solutions_in_everyday_language",
+    "question": "During a source evaluation, For find a break-even intersection, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For find a break-even intersection, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Multiple quotes for a job, or profit and loss. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Multiple quotes for a job, or profit and loss.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-006",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "describe_the_solution_of_simultaneous_equations_within_the_context_of_the_situation",
+    "question": "During a multi-step application, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For interpret a simultaneous-equation solution, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions describe the solution of simultaneous equations within the context of the situation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Describe the solution of simultaneous equations within the context of the situation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Describe the solution of simultaneous equations within the context of the situation.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-007",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "graphing_regions_corresponding_to_inequalities_in_the_cartesian_plane",
+    "question": "During a justification task, For shade an inequality region, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For shade an inequality region, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions graphing regions corresponding to inequalities in the cartesian plane but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Graphing 2x+3y<24 and verifying using a test point such as (0, 0). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Graphing 2x+3y<24 and verifying using a test point such as (0, 0).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a02-t-008",
+    "curriculum_code": "AC9M10A02",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_all_the_combinations_of_trips_to_the_movies_each_costing_12_and_ice_skating_sessions_each_costing_21",
+    "question": "During a final synthesis, For find integer solutions under a budget, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For find integer solutions under a budget, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

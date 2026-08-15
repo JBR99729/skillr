@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e10ly02-p-001",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-002",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a comparison task, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "audio_prompt": "During a comparison task, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-003",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-004",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a model interpretation, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "audio_prompt": "During a model interpretation, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-005",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-006",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a transfer problem, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "audio_prompt": "During a transfer problem, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-007",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "audio_prompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-p-008",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During an independent review, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "audio_prompt": "During an independent review, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-001",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-002",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-003",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-004",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-005",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-006",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a multi-step application, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-007",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student labels a feature but does not explain its effect or context",
+        "is_correct": false
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+    }
+  },
+  {
+    "id": "ac9e10ly02-t-008",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
+    "question": "During a final synthesis, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Explain how one deliberate choice shapes meaning in listen to spoken texts and explain the purposes and effects of text structures and language features, and use interaction skills to discuss and present an opinion about these texts Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The student retells content or names a technique without explaining why it matters",
+        "is_correct": false
+      },
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "is_correct": false
+      },
+      {
+        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+    }
+  }
+]

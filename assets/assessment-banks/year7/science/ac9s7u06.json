@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7u06-p-001",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_particle_diagrams",
+    "question": "During a guided example, which statement correctly explains pure substance?",
+    "audio_prompt": "During a guided example, which statement correctly explains pure substance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+        "is_correct": true
+      },
+      {
+        "text": "Clear means pure",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved substances may be invisible",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+      "hint": "Dissolved substances may be invisible."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-002",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_filtration",
+    "question": "During a comparison task, which statement correctly explains mixture?",
+    "audio_prompt": "During a comparison task, which statement correctly explains mixture?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Filtration removes dissolved salt",
+        "is_correct": false
+      },
+      {
+        "text": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolved particles pass ordinary filter paper",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+      "hint": "Dissolved particles pass ordinary filter paper."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-003",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_distillation",
+    "question": "During an error analysis, which statement correctly explains separation technique?",
+    "audio_prompt": "During an error analysis, which statement correctly explains separation technique?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation and distillation confused",
+        "is_correct": false
+      },
+      {
+        "text": "Distillation collects the vaporised component after condensation",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+        "is_correct": true
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+      "hint": "Distillation collects the vaporised component after condensation."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-004",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "design_a_separation_sequence",
+    "question": "During a model interpretation, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method chosen by mixture name only",
+        "is_correct": false
+      },
+      {
+        "text": "Identify relevant property differences",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      },
+      {
+        "text": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+      "hint": "Identify relevant property differences."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-005",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "state_exploited_properties",
+    "question": "During an evidence check, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "audio_prompt": "During an evidence check, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+        "is_correct": true
+      },
+      {
+        "text": "Clear means pure",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved substances may be invisible",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+      "hint": "Dissolved substances may be invisible."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-006",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_particle_diagrams",
+    "question": "During a transfer problem, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Filtration removes dissolved salt",
+        "is_correct": false
+      },
+      {
+        "text": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolved particles pass ordinary filter paper",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+      "hint": "Dissolved particles pass ordinary filter paper."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-007",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_filtration",
+    "question": "During a peer explanation, which response best demonstrates choose filtration in pure substances, mixtures and separation?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates choose filtration in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation and distillation confused",
+        "is_correct": false
+      },
+      {
+        "text": "Distillation collects the vaporised component after condensation",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+        "is_correct": true
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+      "hint": "Distillation collects the vaporised component after condensation."
+    }
+  },
+  {
+    "id": "ac9s7u06-p-008",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_distillation",
+    "question": "During an independent review, which response best demonstrates explain distillation in pure substances, mixtures and separation?",
+    "audio_prompt": "During an independent review, which response best demonstrates explain distillation in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method chosen by mixture name only",
+        "is_correct": false
+      },
+      {
+        "text": "Identify relevant property differences",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      },
+      {
+        "text": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+      "hint": "Identify relevant property differences."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-001",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "design_a_separation_sequence",
+    "question": "During a fresh case study, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+        "is_correct": true
+      },
+      {
+        "text": "Clear means pure",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved substances may be invisible",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+      "hint": "Dissolved substances may be invisible."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-002",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "state_exploited_properties",
+    "question": "During an unfamiliar representation, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Filtration removes dissolved salt",
+        "is_correct": false
+      },
+      {
+        "text": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolved particles pass ordinary filter paper",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+      "hint": "Dissolved particles pass ordinary filter paper."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-003",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_particle_diagrams",
+    "question": "During a critical response, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "audio_prompt": "During a critical response, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation and distillation confused",
+        "is_correct": false
+      },
+      {
+        "text": "Distillation collects the vaporised component after condensation",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+        "is_correct": true
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+      "hint": "Distillation collects the vaporised component after condensation."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-004",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "choose_filtration",
+    "question": "During a worked solution audit, which response best demonstrates choose filtration in pure substances, mixtures and separation?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates choose filtration in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method chosen by mixture name only",
+        "is_correct": false
+      },
+      {
+        "text": "Identify relevant property differences",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      },
+      {
+        "text": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+      "hint": "Identify relevant property differences."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-005",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_distillation",
+    "question": "During a source evaluation, which response best demonstrates explain distillation in pure substances, mixtures and separation?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates explain distillation in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+        "is_correct": true
+      },
+      {
+        "text": "Clear means pure",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved substances may be invisible",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
+      "hint": "Dissolved substances may be invisible."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-006",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "design_a_separation_sequence",
+    "question": "During a multi-step application, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates design a separation sequence in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Filtration removes dissolved salt",
+        "is_correct": false
+      },
+      {
+        "text": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolved particles pass ordinary filter paper",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
+      "hint": "Dissolved particles pass ordinary filter paper."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-007",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "state_exploited_properties",
+    "question": "During a justification task, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "audio_prompt": "During a justification task, which response best demonstrates state exploited properties in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation and distillation confused",
+        "is_correct": false
+      },
+      {
+        "text": "Distillation collects the vaporised component after condensation",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+        "is_correct": true
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
+      "hint": "Distillation collects the vaporised component after condensation."
+    }
+  },
+  {
+    "id": "ac9s7u06-t-008",
+    "curriculum_code": "AC9S7U06",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_particle_diagrams",
+    "question": "During a final synthesis, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates classify particle diagrams in pure substances, mixtures and separation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method chosen by mixture name only",
+        "is_correct": false
+      },
+      {
+        "text": "Identify relevant property differences",
+        "is_correct": false
+      },
+      {
+        "text": "Material containing one particle type or chemical substance",
+        "is_correct": false
+      },
+      {
+        "text": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
+      "hint": "Identify relevant property differences."
+    }
+  }
+]

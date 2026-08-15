@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9u02-p-001",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_male_and_female_reproductive_organ_structures_work_to_make_the_role_of_gametes_and_organs_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+        "is_correct": true
+      },
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-002",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_forms_of_male_and_female_gametes_relate_to_make_the_role_of_fertilisation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+        "is_correct": true
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-003",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_comparing_sexual_and_asexual_reproductive_strategies_in_plants_to_make_the_role_of_sexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-004",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_sexual_reproduction_creates_a_greater_rate_of_variation_to_make_the_role_of_asexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-005",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_reproductive_strategies_of_multicellular_animals_are_related_to_make_the_role_of_variation_and_survival_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+        "is_correct": true
+      },
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-006",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_number_of_offspring_produced_by_animals_is_to_make_the_role_of_gametes_and_organs_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-007",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_male_and_female_reproductive_organ_structures_work_to_make_the_role_of_gametes_and_organs_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, Use the central model to explain reproduction and species survival in three linked sentences",
+    "audio_prompt": "During a peer explanation, Use the central model to explain reproduction and species survival in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      },
+      {
+        "text": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-p-008",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_forms_of_male_and_female_gametes_relate_to_make_the_role_of_fertilisation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-001",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_comparing_sexual_and_asexual_reproductive_strategies_in_plants_to_make_the_role_of_sexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+        "is_correct": true
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-002",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_sexual_reproduction_creates_a_greater_rate_of_variation_to_make_the_role_of_asexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-003",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_reproductive_strategies_of_multicellular_animals_are_related_to_make_the_role_of_variation_and_survival_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+        "is_correct": true
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-004",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_number_of_offspring_produced_by_animals_is_to_make_the_role_of_gametes_and_organs_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-005",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_male_and_female_reproductive_organ_structures_work_to_make_the_role_of_gametes_and_organs_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-006",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_forms_of_male_and_female_gametes_relate_to_make_the_role_of_fertilisation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, Use the central model to explain reproduction and species survival in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Use the central model to explain reproduction and species survival in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
+        "is_correct": true
+      },
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-007",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_comparing_sexual_and_asexual_reproductive_strategies_in_plants_to_make_the_role_of_sexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sexual reproduction always means mating",
+        "is_correct": false
+      },
+      {
+        "text": "Define it by fusion of gametes in plants and animals",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "hint": "Define it by fusion of gametes in plants and animals."
+    }
+  },
+  {
+    "id": "ac9s9u02-t-008",
+    "curriculum_code": "AC9S9U02",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_sexual_reproduction_creates_a_greater_rate_of_variation_to_make_the_role_of_asexual_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asexual offspring are always perfectly identical",
+        "is_correct": false
+      },
+      {
+        "text": "Use ‘genetically very similar’ and acknowledge mutation and environment",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s10u05-p-001",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_moving_object_to_analyse_and_propose_relationships_between_to_make_the_role_of_inertia_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how inertia helps make sense of a moving object to analyse and propose relationships between",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how inertia helps make sense of a moving object to analyse and propose relationships between",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      },
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-002",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_mathematical_representations_to_make_the_role_of_net_force_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how net force helps make sense of mathematical representations",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how net force helps make sense of mathematical representations",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+        "is_correct": true
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use mathematical representations to make the role of net force visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-003",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_first_nations_australians_achieve_an_increase_in_speed_to_make_the_role_of_action_reaction_pair_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how action–reaction pair helps make sense of how first nations australians achieve an increase in speed",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how action–reaction pair helps make sense of how first nations australians achieve an increase in speed",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how first nations australians achieve an increase in speed to make the role of action–reaction pair visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-004",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_a_change_in_net_force_acting_to_make_the_role_of_f_ma_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how F = ma helps make sense of how a change in net force acting",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how F = ma helps make sense of how a change in net force acting",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how a change in net force acting to make the role of f = ma visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-005",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_application_of_newton_s_laws_in_sport_and_how_to_make_the_role_of_motion_graph_and_safety_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how motion graph and safety helps make sense of the application of newton’s laws in sport and how",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how motion graph and safety helps make sense of the application of newton’s laws in sport and how",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+        "is_correct": true
+      },
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the application of newton’s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-006",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_an_argument_supported_by_data_to_support_lower_speed_to_make_the_role_of_inertia_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how inertia helps make sense of an argument, supported by data, to support lower speed",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how inertia helps make sense of an argument, supported by data, to support lower speed",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use an argument, supported by data, to support lower speed to make the role of inertia visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-007",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_driverless_vehicles_apply_newton_s_laws_of_motion_to_make_the_role_of_net_force_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how net force helps make sense of how driverless vehicles apply newton’s laws of motion",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how net force helps make sense of how driverless vehicles apply newton’s laws of motion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how driverless vehicles apply newton’s laws of motion to make the role of net force visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-p-008",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_moving_object_to_analyse_and_propose_relationships_between_to_make_the_role_of_inertia_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, Use the central model to explain newton’s laws quantify motion in three linked sentences",
+    "audio_prompt": "During an independent review, Use the central model to explain newton’s laws quantify motion in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "Newton’s laws relate force interactions to changes in motion. Net force is the vector sum of forces on one object. F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Newton’s laws relate force interactions to changes in motion. Net force is the vector sum of forces on one object. F = ma supports quantitative prediction and analysis.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-001",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_mathematical_representations_to_make_the_role_of_net_force_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how inertia helps make sense of a moving object to analyse and propose relationships between Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how inertia helps make sense of a moving object to analyse and propose relationships between Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      },
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use mathematical representations to make the role of net force visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-002",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_first_nations_australians_achieve_an_increase_in_speed_to_make_the_role_of_action_reaction_pair_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how net force helps make sense of mathematical representations Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how net force helps make sense of mathematical representations Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+        "is_correct": true
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how first nations australians achieve an increase in speed to make the role of action–reaction pair visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-003",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_a_change_in_net_force_acting_to_make_the_role_of_f_ma_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how action–reaction pair helps make sense of how first nations australians achieve an increase in speed Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how action–reaction pair helps make sense of how first nations australians achieve an increase in speed Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use how a change in net force acting to make the role of f = ma visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-004",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_application_of_newton_s_laws_in_sport_and_how_to_make_the_role_of_motion_graph_and_safety_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how F = ma helps make sense of how a change in net force acting Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how F = ma helps make sense of how a change in net force acting Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the application of newton’s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-005",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_an_argument_supported_by_data_to_support_lower_speed_to_make_the_role_of_inertia_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how motion graph and safety helps make sense of the application of newton’s laws in sport and how Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how motion graph and safety helps make sense of the application of newton’s laws in sport and how Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+        "is_correct": true
+      },
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use an argument, supported by data, to support lower speed to make the role of inertia visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Net force is the vector sum of forces on one object.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-006",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_driverless_vehicles_apply_newton_s_laws_of_motion_to_make_the_role_of_net_force_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how inertia helps make sense of an argument, supported by data, to support lower speed Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how inertia helps make sense of an argument, supported by data, to support lower speed Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use how driverless vehicles apply newton’s laws of motion to make the role of net force visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: F = ma supports quantitative prediction and analysis.",
+      "hint": "Place each force on its different interacting object."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-007",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_moving_object_to_analyse_and_propose_relationships_between_to_make_the_role_of_inertia_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how net force helps make sense of how driverless vehicles apply newton’s laws of motion Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how net force helps make sense of how driverless vehicles apply newton’s laws of motion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first law: zero net force means constant velocity, not necessarily rest",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Newton’s laws relate force interactions to changes in motion.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  },
+  {
+    "id": "ac9s10u05-t-008",
+    "curriculum_code": "AC9S10U05",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_mathematical_representations_to_make_the_role_of_net_force_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, Use the central model to explain newton’s laws quantify motion in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Use the central model to explain newton’s laws quantify motion in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A moving object needs a forward net force to keep moving",
+        "is_correct": false
+      },
+      {
+        "text": "Action and reaction forces cancel",
+        "is_correct": false
+      },
+      {
+        "text": "Place each force on its different interacting object",
+        "is_correct": false
+      },
+      {
+        "text": "Newton’s laws relate force interactions to changes in motion. Net force is the vector sum of forces on one object. F = ma supports quantitative prediction and analysis.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Newton’s laws relate force interactions to changes in motion. Net force is the vector sum of forces on one object. F = ma supports quantitative prediction and analysis.",
+      "hint": "Use the first law: zero net force means constant velocity, not necessarily rest."
+    }
+  }
+]

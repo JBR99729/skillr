@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9st05-p-001",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "During a guided example, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a guided example, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-002",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "During a comparison task, For design fair consumer research, what changes, what stays invariant, and why",
+    "audio_prompt": "During a comparison task, For design fair consumer research, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-003",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "During an error analysis, For compare locations with several variables, what changes, what stays invariant, and why",
+    "audio_prompt": "During an error analysis, For compare locations with several variables, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-004",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "During a model interpretation, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "audio_prompt": "During a model interpretation, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-005",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "During an evidence check, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an evidence check, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-006",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "During a transfer problem, For design fair consumer research, what changes, what stays invariant, and why",
+    "audio_prompt": "During a transfer problem, For design fair consumer research, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-007",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "During a peer explanation, For compare locations with several variables, what changes, what stays invariant, and why",
+    "audio_prompt": "During a peer explanation, For compare locations with several variables, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-p-008",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "During an independent review, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an independent review, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-001",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "During a fresh case study, For investigate a secondary data set, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For investigate a secondary data set, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-002",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "During an unfamiliar representation, For design fair consumer research, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For design fair consumer research, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-003",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "During a critical response, For compare locations with several variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For compare locations with several variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-004",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "During a worked solution audit, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-005",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "During a source evaluation, For investigate a secondary data set, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For investigate a secondary data set, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-006",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "During a multi-step application, For design fair consumer research, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For design fair consumer research, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-007",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "During a justification task, For compare locations with several variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For compare locations with several variables, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-008",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "During a final synthesis, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

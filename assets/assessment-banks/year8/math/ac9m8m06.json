@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8m06-p-001",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "discuss_and_comparing_different_applications_demonstrations_and_proofs_of_pythagoras_theorem_from_egypt_and_mesopotamia_greece_india_and_china_with_other_historical_and_contemporary_applications_and_proofs",
+    "question": "During a guided example, For see why a²+b²=c², which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a guided example, For see why a²+b²=c², which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-002",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_pythagoras_theorem_to_determine_unknown_lengths_of_sides_in_right_angled_triangles_and_finding_lengths_of_sides_of_right_angled_triangles_in_practical_applications",
+    "question": "During a comparison task, For identify the hypotenuse, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a comparison task, For identify the hypotenuse, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-003",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_relationship_between_the_squares_of_lengths_of_sides_for_different_types_of_triangles_right_angled_acute_or_obtuse",
+    "question": "During an error analysis, For find a missing shorter side, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an error analysis, For find a missing shorter side, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-004",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_pythagorean_triples_such_as_3_4_5_5_12_13_7_24_25_and_8_15_17",
+    "question": "During a model interpretation, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a model interpretation, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-005",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_pythagoras_theorem_can_be_applied_to_determine_the_distance_between_two_points_in_the_plane_and_how_this_can_be_used",
+    "question": "During an evidence check, For use pythagoras in a practical design, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an evidence check, For use pythagoras in a practical design, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-006",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "discuss_and_comparing_different_applications_demonstrations_and_proofs_of_pythagoras_theorem_from_egypt_and_mesopotamia_greece_india_and_china_with_other_historical_and_contemporary_applications_and_proofs",
+    "question": "During a transfer problem, For see why a²+b²=c², which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a transfer problem, For see why a²+b²=c², which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-007",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_pythagoras_theorem_to_determine_unknown_lengths_of_sides_in_right_angled_triangles_and_finding_lengths_of_sides_of_right_angled_triangles_in_practical_applications",
+    "question": "During a peer explanation, For identify the hypotenuse, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During a peer explanation, For identify the hypotenuse, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-p-008",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_relationship_between_the_squares_of_lengths_of_sides_for_different_types_of_triangles_right_angled_acute_or_obtuse",
+    "question": "During an independent review, For find a missing shorter side, which labelled relationship justifies the conclusion",
+    "audio_prompt": "During an independent review, For find a missing shorter side, which labelled relationship justifies the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-001",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_pythagorean_triples_such_as_3_4_5_5_12_13_7_24_25_and_8_15_17",
+    "question": "During a fresh case study, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions identify pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-002",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_pythagoras_theorem_can_be_applied_to_determine_the_distance_between_two_points_in_the_plane_and_how_this_can_be_used",
+    "question": "During an unfamiliar representation, For use pythagoras in a practical design, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For use pythagoras in a practical design, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore how pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-003",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "discuss_and_comparing_different_applications_demonstrations_and_proofs_of_pythagoras_theorem_from_egypt_and_mesopotamia_greece_india_and_china_with_other_historical_and_contemporary_applications_and_proofs",
+    "question": "During a critical response, For see why a²+b²=c², which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For see why a²+b²=c², which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-004",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_pythagoras_theorem_to_determine_unknown_lengths_of_sides_in_right_angled_triangles_and_finding_lengths_of_sides_of_right_angled_triangles_in_practical_applications",
+    "question": "During a worked solution audit, For identify the hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For identify the hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-005",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_relationship_between_the_squares_of_lengths_of_sides_for_different_types_of_triangles_right_angled_acute_or_obtuse",
+    "question": "During a source evaluation, For find a missing shorter side, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For find a missing shorter side, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-006",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_pythagorean_triples_such_as_3_4_5_5_12_13_7_24_25_and_8_15_17",
+    "question": "During a multi-step application, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For test whether a triangle is right-angled, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions identify pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17) but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17).’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-007",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_pythagoras_theorem_can_be_applied_to_determine_the_distance_between_two_points_in_the_plane_and_how_this_can_be_used",
+    "question": "During a justification task, For use pythagoras in a practical design, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For use pythagoras in a practical design, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8m06-t-008",
+    "curriculum_code": "AC9M8M06",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "discuss_and_comparing_different_applications_demonstrations_and_proofs_of_pythagoras_theorem_from_egypt_and_mesopotamia_greece_india_and_china_with_other_historical_and_contemporary_applications_and_proofs",
+    "question": "During a final synthesis, For see why a²+b²=c², which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For see why a²+b²=c², which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c². Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘In a right triangle, the areas of the two smaller side-squares combine exactly to equal the hypotenuse square: a² + b² = c².’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

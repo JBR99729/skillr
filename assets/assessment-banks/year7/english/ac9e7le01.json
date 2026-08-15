@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7le01-p-001",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_viewpoint",
+    "question": "During a guided example, which statement correctly explains point of view?",
+    "audio_prompt": "During a guided example, which statement correctly explains point of view?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Distinguish narrator, character and implied values."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-002",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_an_idea_as_a_sentence",
+    "question": "During a comparison task, which statement correctly explains issue?",
+    "audio_prompt": "During a comparison task, which statement correctly explains issue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+      "hint": "Express an idea about the topic."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-003",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_character_choice",
+    "question": "During an error analysis, which statement correctly explains representation?",
+    "audio_prompt": "During an error analysis, which statement correctly explains representation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "is_correct": true
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+      "hint": "Limit claims to the representation."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-004",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_two_resolutions",
+    "question": "During a model interpretation, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      },
+      {
+        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+      "hint": "Explain how it shapes motive, event or interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-005",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "write_a_respectful_limited_claim",
+    "question": "During an evidence check, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During an evidence check, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Distinguish narrator, character and implied values."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-006",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_viewpoint",
+    "question": "During a transfer problem, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+      "hint": "Express an idea about the topic."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-007",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_an_idea_as_a_sentence",
+    "question": "During a peer explanation, which response best demonstrates state an idea as a sentence in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates state an idea as a sentence in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "is_correct": true
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+      "hint": "Limit claims to the representation."
+    }
+  },
+  {
+    "id": "ac9e7le01-p-008",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_character_choice",
+    "question": "During an independent review, which response best demonstrates trace character choice in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During an independent review, which response best demonstrates trace character choice in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      },
+      {
+        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+      "hint": "Explain how it shapes motive, event or interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-001",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_two_resolutions",
+    "question": "During a fresh case study, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Distinguish narrator, character and implied values."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-002",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "write_a_respectful_limited_claim",
+    "question": "During an unfamiliar representation, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+      "hint": "Express an idea about the topic."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-003",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_viewpoint",
+    "question": "During a critical response, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a critical response, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "is_correct": true
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+      "hint": "Limit claims to the representation."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-004",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_an_idea_as_a_sentence",
+    "question": "During a worked solution audit, which response best demonstrates state an idea as a sentence in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates state an idea as a sentence in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      },
+      {
+        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+      "hint": "Explain how it shapes motive, event or interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-005",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "trace_character_choice",
+    "question": "During a source evaluation, which response best demonstrates trace character choice in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates trace character choice in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Distinguish narrator, character and implied values."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-006",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_two_resolutions",
+    "question": "During a multi-step application, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates compare two resolutions in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+      "hint": "Express an idea about the topic."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-007",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "write_a_respectful_limited_claim",
+    "question": "During a justification task, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a justification task, which response best demonstrates write a respectful limited claim in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "is_correct": true
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+      "hint": "Limit claims to the representation."
+    }
+  },
+  {
+    "id": "ac9e7le01-t-008",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_viewpoint",
+    "question": "During a final synthesis, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates identify viewpoint in exploring ideas, viewpoints and issues in literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Position from which events and values are presented",
+        "is_correct": false
+      },
+      {
+        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+      "hint": "Explain how it shapes motive, event or interpretation."
+    }
+  }
+]

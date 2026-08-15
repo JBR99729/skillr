@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7i02-p-001",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_reproducible_steps",
+    "question": "During a guided example, which statement correctly explains reproducibility?",
+    "audio_prompt": "During a guided example, which statement correctly explains reproducibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+        "is_correct": true
+      },
+      {
+        "text": "Equipment list treated as method",
+        "is_correct": false
+      },
+      {
+        "text": "Specify setup and use",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+      "hint": "Specify setup and use."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-002",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "identify_variables",
+    "question": "During a comparison task, which statement correctly explains risk control?",
+    "audio_prompt": "During a comparison task, which statement correctly explains risk control?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fair test assumed to require one trial",
+        "is_correct": false
+      },
+      {
+        "text": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat to assess variation",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+      "hint": "Repeat to assess variation."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-003",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "plan_repeats",
+    "question": "During an error analysis, which statement correctly explains controlled variable?",
+    "audio_prompt": "During an error analysis, which statement correctly explains controlled variable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Safety written as ‘be careful’",
+        "is_correct": false
+      },
+      {
+        "text": "Name hazard and control",
+        "is_correct": false
+      },
+      {
+        "text": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+        "is_correct": true
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+      "hint": "Name hazard and control."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-004",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "control_a_hazard",
+    "question": "During a model interpretation, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method changed without record",
+        "is_correct": false
+      },
+      {
+        "text": "Document and evaluate deviations",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      },
+      {
+        "text": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+      "hint": "Document and evaluate deviations."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-005",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_pilot_test",
+    "question": "During an evidence check, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "audio_prompt": "During an evidence check, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+        "is_correct": true
+      },
+      {
+        "text": "Equipment list treated as method",
+        "is_correct": false
+      },
+      {
+        "text": "Specify setup and use",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+      "hint": "Specify setup and use."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-006",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_reproducible_steps",
+    "question": "During a transfer problem, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fair test assumed to require one trial",
+        "is_correct": false
+      },
+      {
+        "text": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat to assess variation",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+      "hint": "Repeat to assess variation."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-007",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "identify_variables",
+    "question": "During a peer explanation, which response best demonstrates identify variables in planning reproducible investigations?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates identify variables in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Safety written as ‘be careful’",
+        "is_correct": false
+      },
+      {
+        "text": "Name hazard and control",
+        "is_correct": false
+      },
+      {
+        "text": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+        "is_correct": true
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+      "hint": "Name hazard and control."
+    }
+  },
+  {
+    "id": "ac9s7i02-p-008",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "plan_repeats",
+    "question": "During an independent review, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "audio_prompt": "During an independent review, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method changed without record",
+        "is_correct": false
+      },
+      {
+        "text": "Document and evaluate deviations",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      },
+      {
+        "text": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+      "hint": "Document and evaluate deviations."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-001",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "control_a_hazard",
+    "question": "During a fresh case study, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+        "is_correct": true
+      },
+      {
+        "text": "Equipment list treated as method",
+        "is_correct": false
+      },
+      {
+        "text": "Specify setup and use",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+      "hint": "Specify setup and use."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-002",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_pilot_test",
+    "question": "During an unfamiliar representation, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fair test assumed to require one trial",
+        "is_correct": false
+      },
+      {
+        "text": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat to assess variation",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+      "hint": "Repeat to assess variation."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-003",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "write_reproducible_steps",
+    "question": "During a critical response, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "audio_prompt": "During a critical response, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Safety written as ‘be careful’",
+        "is_correct": false
+      },
+      {
+        "text": "Name hazard and control",
+        "is_correct": false
+      },
+      {
+        "text": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+        "is_correct": true
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+      "hint": "Name hazard and control."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-004",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "identify_variables",
+    "question": "During a worked solution audit, which response best demonstrates identify variables in planning reproducible investigations?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates identify variables in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method changed without record",
+        "is_correct": false
+      },
+      {
+        "text": "Document and evaluate deviations",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      },
+      {
+        "text": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+      "hint": "Document and evaluate deviations."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-005",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "plan_repeats",
+    "question": "During a source evaluation, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+        "is_correct": true
+      },
+      {
+        "text": "Equipment list treated as method",
+        "is_correct": false
+      },
+      {
+        "text": "Specify setup and use",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
+      "hint": "Specify setup and use."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-006",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "control_a_hazard",
+    "question": "During a multi-step application, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fair test assumed to require one trial",
+        "is_correct": false
+      },
+      {
+        "text": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat to assess variation",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
+      "hint": "Repeat to assess variation."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-007",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_pilot_test",
+    "question": "During a justification task, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "audio_prompt": "During a justification task, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Safety written as ‘be careful’",
+        "is_correct": false
+      },
+      {
+        "text": "Name hazard and control",
+        "is_correct": false
+      },
+      {
+        "text": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+        "is_correct": true
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
+      "hint": "Name hazard and control."
+    }
+  },
+  {
+    "id": "ac9s7i02-t-008",
+    "curriculum_code": "AC9S7I02",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "write_reproducible_steps",
+    "question": "During a final synthesis, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Method changed without record",
+        "is_correct": false
+      },
+      {
+        "text": "Document and evaluate deviations",
+        "is_correct": false
+      },
+      {
+        "text": "Ability for others to repeat an investigation from its method",
+        "is_correct": false
+      },
+      {
+        "text": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
+      "hint": "Document and evaluate deviations."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s7h04-p-001",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "audit_a_headline",
+    "question": "During a guided example, which statement correctly explains science communication?",
+    "audio_prompt": "During a guided example, which statement correctly explains science communication?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+        "is_correct": true
+      },
+      {
+        "text": "Simplified means inaccurate",
+        "is_correct": false
+      },
+      {
+        "text": "Good simplification preserves the core relationship and limits",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+      "hint": "Good simplification preserves the core relationship and limits."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-002",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "read_uncertainty",
+    "question": "During a comparison task, which statement correctly explains uncertainty?",
+    "audio_prompt": "During a comparison task, which statement correctly explains uncertainty?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Expert title accepted without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+        "is_correct": true
+      },
+      {
+        "text": "Inspect source, methods and possible interests",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+      "hint": "Inspect source, methods and possible interests."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-003",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "check_graph_scale",
+    "question": "During an error analysis, which statement correctly explains source transparency?",
+    "audio_prompt": "During an error analysis, which statement correctly explains source transparency?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Uncertainty presented as total doubt",
+        "is_correct": false
+      },
+      {
+        "text": "It often defines a range of confidence",
+        "is_correct": false
+      },
+      {
+        "text": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+      "hint": "It often defines a range of confidence."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-004",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "separate_finding_recommendation",
+    "question": "During a model interpretation, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Graph appearance accepted without scale audit",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes, baselines and units",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      },
+      {
+        "text": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+      "hint": "Read axes, baselines and units."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-005",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "improve_accessibility",
+    "question": "During an evidence check, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "audio_prompt": "During an evidence check, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+        "is_correct": true
+      },
+      {
+        "text": "Simplified means inaccurate",
+        "is_correct": false
+      },
+      {
+        "text": "Good simplification preserves the core relationship and limits",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+      "hint": "Good simplification preserves the core relationship and limits."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-006",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "audit_a_headline",
+    "question": "During a transfer problem, which response best demonstrates audit a headline in science communication and decision-making?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates audit a headline in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Expert title accepted without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+        "is_correct": true
+      },
+      {
+        "text": "Inspect source, methods and possible interests",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+      "hint": "Inspect source, methods and possible interests."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-007",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "read_uncertainty",
+    "question": "During a peer explanation, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Uncertainty presented as total doubt",
+        "is_correct": false
+      },
+      {
+        "text": "It often defines a range of confidence",
+        "is_correct": false
+      },
+      {
+        "text": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+      "hint": "It often defines a range of confidence."
+    }
+  },
+  {
+    "id": "ac9s7h04-p-008",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "check_graph_scale",
+    "question": "During an independent review, which response best demonstrates check graph scale in science communication and decision-making?",
+    "audio_prompt": "During an independent review, which response best demonstrates check graph scale in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Graph appearance accepted without scale audit",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes, baselines and units",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      },
+      {
+        "text": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+      "hint": "Read axes, baselines and units."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-001",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "separate_finding_recommendation",
+    "question": "During a fresh case study, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+        "is_correct": true
+      },
+      {
+        "text": "Simplified means inaccurate",
+        "is_correct": false
+      },
+      {
+        "text": "Good simplification preserves the core relationship and limits",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+      "hint": "Good simplification preserves the core relationship and limits."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-002",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "improve_accessibility",
+    "question": "During an unfamiliar representation, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Expert title accepted without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+        "is_correct": true
+      },
+      {
+        "text": "Inspect source, methods and possible interests",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+      "hint": "Inspect source, methods and possible interests."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-003",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "audit_a_headline",
+    "question": "During a critical response, which response best demonstrates audit a headline in science communication and decision-making?",
+    "audio_prompt": "During a critical response, which response best demonstrates audit a headline in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Uncertainty presented as total doubt",
+        "is_correct": false
+      },
+      {
+        "text": "It often defines a range of confidence",
+        "is_correct": false
+      },
+      {
+        "text": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+      "hint": "It often defines a range of confidence."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-004",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "read_uncertainty",
+    "question": "During a worked solution audit, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Graph appearance accepted without scale audit",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes, baselines and units",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      },
+      {
+        "text": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+      "hint": "Read axes, baselines and units."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-005",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "check_graph_scale",
+    "question": "During a source evaluation, which response best demonstrates check graph scale in science communication and decision-making?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates check graph scale in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+        "is_correct": true
+      },
+      {
+        "text": "Simplified means inaccurate",
+        "is_correct": false
+      },
+      {
+        "text": "Good simplification preserves the core relationship and limits",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
+      "hint": "Good simplification preserves the core relationship and limits."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-006",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "separate_finding_recommendation",
+    "question": "During a multi-step application, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Expert title accepted without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+        "is_correct": true
+      },
+      {
+        "text": "Inspect source, methods and possible interests",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
+      "hint": "Inspect source, methods and possible interests."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-007",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "improve_accessibility",
+    "question": "During a justification task, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "audio_prompt": "During a justification task, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Uncertainty presented as total doubt",
+        "is_correct": false
+      },
+      {
+        "text": "It often defines a range of confidence",
+        "is_correct": false
+      },
+      {
+        "text": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
+      "hint": "It often defines a range of confidence."
+    }
+  },
+  {
+    "id": "ac9s7h04-t-008",
+    "curriculum_code": "AC9S7H04",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "audit_a_headline",
+    "question": "During a final synthesis, which response best demonstrates audit a headline in science communication and decision-making?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates audit a headline in science communication and decision-making?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Graph appearance accepted without scale audit",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes, baselines and units",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing scientific information and reasoning with audiences",
+        "is_correct": false
+      },
+      {
+        "text": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
+      "hint": "Read axes, baselines and units."
+    }
+  }
+]

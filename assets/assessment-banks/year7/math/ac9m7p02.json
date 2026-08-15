@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7p02-p-001",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "calculate_relative_frequency",
+    "question": "During a guided example, which statement correctly explains relative frequency?",
+    "audio_prompt": "During a guided example, which statement correctly explains relative frequency?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+        "is_correct": true
+      },
+      {
+        "text": "Small sample required to match theory",
+        "is_correct": false
+      },
+      {
+        "text": "Variation can be large",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+      "hint": "Variation can be large."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-002",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_expected_count",
+    "question": "During a comparison task, which statement correctly explains simulation?",
+    "audio_prompt": "During a comparison task, which statement correctly explains simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results adjusted to fit expectation",
+        "is_correct": false
+      },
+      {
+        "text": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+        "is_correct": true
+      },
+      {
+        "text": "Record all valid outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+      "hint": "Record all valid outcomes."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-003",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_sample_sizes",
+    "question": "During an error analysis, which statement correctly explains expected frequency?",
+    "audio_prompt": "During an error analysis, which statement correctly explains expected frequency?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw counts compared across different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Use relative frequencies",
+        "is_correct": false
+      },
+      {
+        "text": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+      "hint": "Use relative frequencies."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-004",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "audit_a_simulation",
+    "question": "During a model interpretation, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital random process not audited",
+        "is_correct": false
+      },
+      {
+        "text": "Check code, settings and output totals",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      },
+      {
+        "text": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+      "hint": "Check code, settings and output totals."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-005",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explain_variation",
+    "question": "During an evidence check, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "audio_prompt": "During an evidence check, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+        "is_correct": true
+      },
+      {
+        "text": "Small sample required to match theory",
+        "is_correct": false
+      },
+      {
+        "text": "Variation can be large",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+      "hint": "Variation can be large."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-006",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "calculate_relative_frequency",
+    "question": "During a transfer problem, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results adjusted to fit expectation",
+        "is_correct": false
+      },
+      {
+        "text": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+        "is_correct": true
+      },
+      {
+        "text": "Record all valid outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+      "hint": "Record all valid outcomes."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-007",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_expected_count",
+    "question": "During a peer explanation, which response best demonstrates find expected count in repeated experiments and probability simulation?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates find expected count in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw counts compared across different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Use relative frequencies",
+        "is_correct": false
+      },
+      {
+        "text": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+      "hint": "Use relative frequencies."
+    }
+  },
+  {
+    "id": "ac9m7p02-p-008",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_sample_sizes",
+    "question": "During an independent review, which response best demonstrates compare sample sizes in repeated experiments and probability simulation?",
+    "audio_prompt": "During an independent review, which response best demonstrates compare sample sizes in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital random process not audited",
+        "is_correct": false
+      },
+      {
+        "text": "Check code, settings and output totals",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      },
+      {
+        "text": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+      "hint": "Check code, settings and output totals."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-001",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "audit_a_simulation",
+    "question": "During a fresh case study, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+        "is_correct": true
+      },
+      {
+        "text": "Small sample required to match theory",
+        "is_correct": false
+      },
+      {
+        "text": "Variation can be large",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+      "hint": "Variation can be large."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-002",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explain_variation",
+    "question": "During an unfamiliar representation, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results adjusted to fit expectation",
+        "is_correct": false
+      },
+      {
+        "text": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+        "is_correct": true
+      },
+      {
+        "text": "Record all valid outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+      "hint": "Record all valid outcomes."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-003",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "calculate_relative_frequency",
+    "question": "During a critical response, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "audio_prompt": "During a critical response, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw counts compared across different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Use relative frequencies",
+        "is_correct": false
+      },
+      {
+        "text": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+      "hint": "Use relative frequencies."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-004",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_expected_count",
+    "question": "During a worked solution audit, which response best demonstrates find expected count in repeated experiments and probability simulation?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates find expected count in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital random process not audited",
+        "is_correct": false
+      },
+      {
+        "text": "Check code, settings and output totals",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      },
+      {
+        "text": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+      "hint": "Check code, settings and output totals."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-005",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_sample_sizes",
+    "question": "During a source evaluation, which response best demonstrates compare sample sizes in repeated experiments and probability simulation?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates compare sample sizes in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+        "is_correct": true
+      },
+      {
+        "text": "Small sample required to match theory",
+        "is_correct": false
+      },
+      {
+        "text": "Variation can be large",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
+      "hint": "Variation can be large."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-006",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "audit_a_simulation",
+    "question": "During a multi-step application, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates audit a simulation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Results adjusted to fit expectation",
+        "is_correct": false
+      },
+      {
+        "text": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+        "is_correct": true
+      },
+      {
+        "text": "Record all valid outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
+      "hint": "Record all valid outcomes."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-007",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explain_variation",
+    "question": "During a justification task, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "audio_prompt": "During a justification task, which response best demonstrates explain variation in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw counts compared across different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Use relative frequencies",
+        "is_correct": false
+      },
+      {
+        "text": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+        "is_correct": true
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
+      "hint": "Use relative frequencies."
+    }
+  },
+  {
+    "id": "ac9m7p02-t-008",
+    "curriculum_code": "AC9M7P02",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "calculate_relative_frequency",
+    "question": "During a final synthesis, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates calculate relative frequency in repeated experiments and probability simulation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital random process not audited",
+        "is_correct": false
+      },
+      {
+        "text": "Check code, settings and output totals",
+        "is_correct": false
+      },
+      {
+        "text": "Observed count divided by total trials",
+        "is_correct": false
+      },
+      {
+        "text": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
+      "hint": "Check code, settings and output totals."
+    }
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7la03-p-001",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_stages",
+    "question": "During a guided example, which statement correctly explains stage?",
+    "audio_prompt": "During a guided example, which statement correctly explains stage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Stages may cross paragraphs and modes."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-002",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "break_a_stage_into_phases",
+    "question": "During a comparison task, which statement correctly explains phase?",
+    "audio_prompt": "During a comparison task, which statement correctly explains phase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+      "hint": "Writers adapt patterns."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-003",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_modes",
+    "question": "During an error analysis, which statement correctly explains text structure?",
+    "audio_prompt": "During an error analysis, which statement correctly explains text structure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "is_correct": true
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+      "hint": "Menus, links and scrolling shape structure."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-004",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse_navigation",
+    "question": "During a model interpretation, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it guides meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      },
+      {
+        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+      "hint": "Explain how it guides meaning."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-005",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explain_hybrid_structure",
+    "question": "During an evidence check, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "audio_prompt": "During an evidence check, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Stages may cross paragraphs and modes."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-006",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "identify_stages",
+    "question": "During a transfer problem, which response best demonstrates identify stages in text structure, purpose and context?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates identify stages in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+      "hint": "Writers adapt patterns."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-007",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "break_a_stage_into_phases",
+    "question": "During a peer explanation, which response best demonstrates break a stage into phases in text structure, purpose and context?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates break a stage into phases in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "is_correct": true
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+      "hint": "Menus, links and scrolling shape structure."
+    }
+  },
+  {
+    "id": "ac9e7la03-p-008",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_modes",
+    "question": "During an independent review, which response best demonstrates compare modes in text structure, purpose and context?",
+    "audio_prompt": "During an independent review, which response best demonstrates compare modes in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it guides meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      },
+      {
+        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+      "hint": "Explain how it guides meaning."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-001",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_navigation",
+    "question": "During a fresh case study, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Stages may cross paragraphs and modes."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-002",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explain_hybrid_structure",
+    "question": "During an unfamiliar representation, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+      "hint": "Writers adapt patterns."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-003",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_stages",
+    "question": "During a critical response, which response best demonstrates identify stages in text structure, purpose and context?",
+    "audio_prompt": "During a critical response, which response best demonstrates identify stages in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "is_correct": true
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+      "hint": "Menus, links and scrolling shape structure."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-004",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "break_a_stage_into_phases",
+    "question": "During a worked solution audit, which response best demonstrates break a stage into phases in text structure, purpose and context?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates break a stage into phases in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it guides meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      },
+      {
+        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+      "hint": "Explain how it guides meaning."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-005",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_modes",
+    "question": "During a source evaluation, which response best demonstrates compare modes in text structure, purpose and context?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates compare modes in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Stages may cross paragraphs and modes."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-006",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "analyse_navigation",
+    "question": "During a multi-step application, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates analyse navigation in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+      "hint": "Writers adapt patterns."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-007",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explain_hybrid_structure",
+    "question": "During a justification task, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "audio_prompt": "During a justification task, which response best demonstrates explain hybrid structure in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "is_correct": true
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+      "hint": "Menus, links and scrolling shape structure."
+    }
+  },
+  {
+    "id": "ac9e7la03-t-008",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify_stages",
+    "question": "During a final synthesis, which response best demonstrates identify stages in text structure, purpose and context?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates identify stages in text structure, purpose and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it guides meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Major functional section of a text",
+        "is_correct": false
+      },
+      {
+        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+      "hint": "Explain how it guides meaning."
+    }
+  }
+]

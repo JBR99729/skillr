@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7le06-p-001",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_literal_layer",
+    "question": "During a guided example, which statement correctly explains layered meaning?",
+    "audio_prompt": "During a guided example, which statement correctly explains layered meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Trace contextual development."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-002",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "develop_figurative_layer",
+    "question": "During a comparison task, which statement correctly explains ambiguity?",
+    "audio_prompt": "During a comparison task, which statement correctly explains ambiguity?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+      "hint": "Anchor interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-003",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_motif",
+    "question": "During an error analysis, which statement correctly explains symbolism?",
+    "audio_prompt": "During an error analysis, which statement correctly explains symbolism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "is_correct": true
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+      "hint": "It supports figurative reading."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-004",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_context_cautiously",
+    "question": "During a model interpretation, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Select patterned or salient evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      },
+      {
+        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+      "hint": "Select patterned or salient evidence."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-005",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "compare_interpretations",
+    "question": "During an evidence check, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "audio_prompt": "During an evidence check, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Trace contextual development."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-006",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_literal_layer",
+    "question": "During a transfer problem, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+      "hint": "Anchor interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-007",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "develop_figurative_layer",
+    "question": "During a peer explanation, which response best demonstrates develop figurative layer in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates develop figurative layer in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "is_correct": true
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+      "hint": "It supports figurative reading."
+    }
+  },
+  {
+    "id": "ac9e7le06-p-008",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "trace_motif",
+    "question": "During an independent review, which response best demonstrates trace motif in layers of meaning in poetry and literature?",
+    "audio_prompt": "During an independent review, which response best demonstrates trace motif in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Select patterned or salient evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      },
+      {
+        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+      "hint": "Select patterned or salient evidence."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-001",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_context_cautiously",
+    "question": "During a fresh case study, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Trace contextual development."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-002",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_interpretations",
+    "question": "During an unfamiliar representation, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+      "hint": "Anchor interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-003",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_literal_layer",
+    "question": "During a critical response, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a critical response, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "is_correct": true
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+      "hint": "It supports figurative reading."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-004",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "develop_figurative_layer",
+    "question": "During a worked solution audit, which response best demonstrates develop figurative layer in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates develop figurative layer in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Select patterned or salient evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      },
+      {
+        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+      "hint": "Select patterned or salient evidence."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-005",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "trace_motif",
+    "question": "During a source evaluation, which response best demonstrates trace motif in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates trace motif in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Trace contextual development."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-006",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_context_cautiously",
+    "question": "During a multi-step application, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates use context cautiously in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+      "hint": "Anchor interpretation."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-007",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compare_interpretations",
+    "question": "During a justification task, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a justification task, which response best demonstrates compare interpretations in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "is_correct": true
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+      "hint": "It supports figurative reading."
+    }
+  },
+  {
+    "id": "ac9e7le06-t-008",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_literal_layer",
+    "question": "During a final synthesis, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates state literal layer in layers of meaning in poetry and literature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Select patterned or salient evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "is_correct": false
+      },
+      {
+        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+      "hint": "Select patterned or salient evidence."
+    }
+  }
+]

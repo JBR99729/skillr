@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9i07-p-001",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      },
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-002",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-003",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_interrogating_the_evidence_and_reasoning_used_to_justify_claims_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-004",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_methods_used_by_scientists_in_studies_reported_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-005",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_secondary_data_to_ensure_it_does_not_contain_personal_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-006",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_identifying_the_relationship_between_first_peoples_knowledges_and_contemporary_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-007",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_constructing_an_argument_for_the_contributions_to_medicine_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine",
+    "audio_prompt": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-p-008",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, Use the central model to explain argue from multiple lines of evidence in three linked sentences",
+    "audio_prompt": "During an independent review, Use the central model to explain argue from multiple lines of evidence in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-001",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      },
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-002",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_interrogating_the_evidence_and_reasoning_used_to_justify_claims_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-003",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_methods_used_by_scientists_in_studies_reported_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-004",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_secondary_data_to_ensure_it_does_not_contain_personal_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-005",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_identifying_the_relationship_between_first_peoples_knowledges_and_contemporary_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "is_correct": true
+      },
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-006",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_constructing_an_argument_for_the_contributions_to_medicine_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Use uncertainty to set an honest conclusion boundary."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-007",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate data quality and reasoning before rhetoric",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  },
+  {
+    "id": "ac9s9i07-t-008",
+    "curriculum_code": "AC9S9I07",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A persuasive tone strengthens scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Acknowledging uncertainty weakens an argument",
+        "is_correct": false
+      },
+      {
+        "text": "Use uncertainty to set an honest conclusion boundary",
+        "is_correct": false
+      },
+      {
+        "text": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+      "hint": "Evaluate data quality and reasoning before rhetoric."
+    }
+  }
+]

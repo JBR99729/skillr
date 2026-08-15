@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7st03-p-001",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_statistical_question",
+    "question": "During a guided example, which statement correctly explains population?",
+    "audio_prompt": "During a guided example, which statement correctly explains population?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "is_correct": true
+      },
+      {
+        "text": "Large sample assumed unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "A large biased sample remains biased",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+      "hint": "A large biased sample remains biased."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-002",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "define_population_sample",
+    "question": "During a comparison task, which statement correctly explains sample?",
+    "audio_prompt": "During a comparison task, which statement correctly explains sample?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Population and sample interchanged",
+        "is_correct": false
+      },
+      {
+        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample provides evidence about the population",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+      "hint": "The sample provides evidence about the population."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-003",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_sampling_methods",
+    "question": "During an error analysis, which statement correctly explains sampling bias?",
+    "audio_prompt": "During an error analysis, which statement correctly explains sampling bias?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nonresponse ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Missing responses may differ systematically",
+        "is_correct": false
+      },
+      {
+        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "is_correct": true
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+      "hint": "Missing responses may differ systematically."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-004",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_distribution",
+    "question": "During a model interpretation, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Causal claim from observational data",
+        "is_correct": false
+      },
+      {
+        "text": "Limit to association unless design supports cause",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      },
+      {
+        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+      "hint": "Limit to association unless design supports cause."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-005",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_limited_conclusion",
+    "question": "During an evidence check, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "audio_prompt": "During an evidence check, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "is_correct": true
+      },
+      {
+        "text": "Large sample assumed unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "A large biased sample remains biased",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+      "hint": "A large biased sample remains biased."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-006",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_statistical_question",
+    "question": "During a transfer problem, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Population and sample interchanged",
+        "is_correct": false
+      },
+      {
+        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample provides evidence about the population",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+      "hint": "The sample provides evidence about the population."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-007",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "define_population_sample",
+    "question": "During a peer explanation, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nonresponse ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Missing responses may differ systematically",
+        "is_correct": false
+      },
+      {
+        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "is_correct": true
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+      "hint": "Missing responses may differ systematically."
+    }
+  },
+  {
+    "id": "ac9m7st03-p-008",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_sampling_methods",
+    "question": "During an independent review, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "audio_prompt": "During an independent review, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Causal claim from observational data",
+        "is_correct": false
+      },
+      {
+        "text": "Limit to association unless design supports cause",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      },
+      {
+        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+      "hint": "Limit to association unless design supports cause."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-001",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_distribution",
+    "question": "During a fresh case study, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "is_correct": true
+      },
+      {
+        "text": "Large sample assumed unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "A large biased sample remains biased",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+      "hint": "A large biased sample remains biased."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-002",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_limited_conclusion",
+    "question": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Population and sample interchanged",
+        "is_correct": false
+      },
+      {
+        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample provides evidence about the population",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+      "hint": "The sample provides evidence about the population."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-003",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_statistical_question",
+    "question": "During a critical response, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "audio_prompt": "During a critical response, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nonresponse ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Missing responses may differ systematically",
+        "is_correct": false
+      },
+      {
+        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "is_correct": true
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+      "hint": "Missing responses may differ systematically."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-004",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "define_population_sample",
+    "question": "During a worked solution audit, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Causal claim from observational data",
+        "is_correct": false
+      },
+      {
+        "text": "Limit to association unless design supports cause",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      },
+      {
+        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+      "hint": "Limit to association unless design supports cause."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-005",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_sampling_methods",
+    "question": "During a source evaluation, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "is_correct": true
+      },
+      {
+        "text": "Large sample assumed unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "A large biased sample remains biased",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+      "hint": "A large biased sample remains biased."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-006",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_distribution",
+    "question": "During a multi-step application, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Population and sample interchanged",
+        "is_correct": false
+      },
+      {
+        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample provides evidence about the population",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+      "hint": "The sample provides evidence about the population."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-007",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_limited_conclusion",
+    "question": "During a justification task, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "audio_prompt": "During a justification task, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nonresponse ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Missing responses may differ systematically",
+        "is_correct": false
+      },
+      {
+        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "is_correct": true
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+      "hint": "Missing responses may differ systematically."
+    }
+  },
+  {
+    "id": "ac9m7st03-t-008",
+    "curriculum_code": "AC9M7ST03",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_statistical_question",
+    "question": "During a final synthesis, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Causal claim from observational data",
+        "is_correct": false
+      },
+      {
+        "text": "Limit to association unless design supports cause",
+        "is_correct": false
+      },
+      {
+        "text": "Complete group of interest",
+        "is_correct": false
+      },
+      {
+        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+      "hint": "Limit to association unless design supports cause."
+    }
+  }
+]

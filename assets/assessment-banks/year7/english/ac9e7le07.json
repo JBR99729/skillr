@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e7le07-p-001",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_intended_effect",
+    "question": "During a guided example, which statement correctly explains experimentation?",
+    "audio_prompt": "During a guided example, which statement correctly explains experimentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Transform the technique."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-002",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "transform_mentor_technique",
+    "question": "During a comparison task, which statement correctly explains mentor technique?",
+    "audio_prompt": "During a comparison task, which statement correctly explains mentor technique?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+      "hint": "Provide purposeful cues."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-003",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "test_orientation",
+    "question": "During an error analysis, which statement correctly explains reader orientation?",
+    "audio_prompt": "During an error analysis, which statement correctly explains reader orientation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+      "hint": "Select a coherent system."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-004",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "revise_motif",
+    "question": "During a model interpretation, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve meaning first",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      },
+      {
+        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+      "hint": "Resolve meaning first."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-005",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "use_peer_response",
+    "question": "During an evidence check, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "audio_prompt": "During an evidence check, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Transform the technique."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-006",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "state_intended_effect",
+    "question": "During a transfer problem, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+      "hint": "Provide purposeful cues."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-007",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "transform_mentor_technique",
+    "question": "During a peer explanation, which response best demonstrates transform mentor technique in creating and editing experimental literary texts?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates transform mentor technique in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+      "hint": "Select a coherent system."
+    }
+  },
+  {
+    "id": "ac9e7le07-p-008",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "test_orientation",
+    "question": "During an independent review, which response best demonstrates test orientation in creating and editing experimental literary texts?",
+    "audio_prompt": "During an independent review, which response best demonstrates test orientation in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve meaning first",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      },
+      {
+        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+      "hint": "Resolve meaning first."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-001",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revise_motif",
+    "question": "During a fresh case study, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Transform the technique."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-002",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_peer_response",
+    "question": "During an unfamiliar representation, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+      "hint": "Provide purposeful cues."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-003",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_intended_effect",
+    "question": "During a critical response, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "audio_prompt": "During a critical response, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+      "hint": "Select a coherent system."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-004",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "transform_mentor_technique",
+    "question": "During a worked solution audit, which response best demonstrates transform mentor technique in creating and editing experimental literary texts?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates transform mentor technique in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve meaning first",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      },
+      {
+        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+      "hint": "Resolve meaning first."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-005",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "test_orientation",
+    "question": "During a source evaluation, which response best demonstrates test orientation in creating and editing experimental literary texts?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates test orientation in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Transform the technique."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-006",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revise_motif",
+    "question": "During a multi-step application, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates revise motif in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+      "hint": "Provide purposeful cues."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-007",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "use_peer_response",
+    "question": "During a justification task, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "audio_prompt": "During a justification task, which response best demonstrates use peer response in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+      "hint": "Select a coherent system."
+    }
+  },
+  {
+    "id": "ac9e7le07-t-008",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "state_intended_effect",
+    "question": "During a final synthesis, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates state intended effect in creating and editing experimental literary texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve meaning first",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "is_correct": false
+      },
+      {
+        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+      "hint": "Resolve meaning first."
+    }
+  }
+]

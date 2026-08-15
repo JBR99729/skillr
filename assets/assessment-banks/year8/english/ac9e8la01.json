@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9e8la01-p-001",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a guided example, Which version would you use with a teacher you do not know well? Why",
+    "audio_prompt": "During a guided example, Which version would you use with a teacher you do not know well? Why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+        "is_correct": true
+      },
+      {
+        "text": "Student says formal is always correct",
+        "is_correct": false
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-002",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a comparison task, How can an acronym or specialist term make people feel part of a group",
+    "audio_prompt": "During a comparison task, How can an acronym or specialist term make people feel part of a group",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student treats acronyms as only shortened words",
+        "is_correct": false
+      },
+      {
+        "text": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+        "is_correct": true
+      },
+      {
+        "text": "Slang or acronyms are just lazy language",
+        "is_correct": false
+      },
+      {
+        "text": "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+      "hint": "Compare an acronym known by the group with one outsiders would not understand."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-003",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During an error analysis, What is one careful sentence we could write using a language name from an authoritative map",
+    "audio_prompt": "During an error analysis, What is one careful sentence we could write using a language name from an authoritative map",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says the map proves a simple ownership boundary",
+        "is_correct": false
+      },
+      {
+        "text": "A map label tells the whole story of Country/Place",
+        "is_correct": false
+      },
+      {
+        "text": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+      "hint": "Restate that language maps are references and cultural relationships need careful source context."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-004",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a model interpretation, Explain the effect of 'our chat' in Version A",
+    "audio_prompt": "During a model interpretation, Explain the effect of 'our chat' in Version A",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says it is informal but gives no effect",
+        "is_correct": false
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      },
+      {
+        "text": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+      "hint": "Use the stem: This phrase suggests the omitted idea because the omitted idea"
+    }
+  },
+  {
+    "id": "ac9e8la01-p-005",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During an evidence check, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity",
+    "audio_prompt": "During an evidence check, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Student describes the topic of the text rather than the social effect of language",
+        "is_correct": false
+      },
+      {
+        "text": "Slang or acronyms are just lazy language",
+        "is_correct": false
+      },
+      {
+        "text": "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+      "hint": "Ask for the exact word choice first, then ask who it includes, distances, respects or positions."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-006",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a transfer problem, Which version would you use with a teacher you do not know well? Why",
+    "audio_prompt": "During a transfer problem, Which version would you use with a teacher you do not know well? Why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says formal is always correct",
+        "is_correct": false
+      },
+      {
+        "text": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+        "is_correct": true
+      },
+      {
+        "text": "A map label tells the whole story of Country/Place",
+        "is_correct": false
+      },
+      {
+        "text": "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-007",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a peer explanation, How can an acronym or specialist term make people feel part of a group",
+    "audio_prompt": "During a peer explanation, How can an acronym or specialist term make people feel part of a group",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student treats acronyms as only shortened words",
+        "is_correct": false
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+      "hint": "Compare an acronym known by the group with one outsiders would not understand."
+    }
+  },
+  {
+    "id": "ac9e8la01-p-008",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During an independent review, What is one careful sentence we could write using a language name from an authoritative map",
+    "audio_prompt": "During an independent review, What is one careful sentence we could write using a language name from an authoritative map",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says the map proves a simple ownership boundary",
+        "is_correct": false
+      },
+      {
+        "text": "Slang or acronyms are just lazy language",
+        "is_correct": false
+      },
+      {
+        "text": "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
+        "is_correct": false
+      },
+      {
+        "text": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+      "hint": "Restate that language maps are references and cultural relationships need careful source context."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-001",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a fresh case study, Explain the effect of 'our chat' in Version A Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, Explain the effect of 'our chat' in Version A Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+        "is_correct": true
+      },
+      {
+        "text": "Student says it is informal but gives no effect",
+        "is_correct": false
+      },
+      {
+        "text": "A map label tells the whole story of Country/Place",
+        "is_correct": false
+      },
+      {
+        "text": "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+      "hint": "Use the stem: This phrase suggests the omitted idea because the omitted idea"
+    }
+  },
+  {
+    "id": "ac9e8la01-t-002",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During an unfamiliar representation, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student describes the topic of the text rather than the social effect of language",
+        "is_correct": false
+      },
+      {
+        "text": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+      "hint": "Ask for the exact word choice first, then ask who it includes, distances, respects or positions."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-003",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a critical response, Which version would you use with a teacher you do not know well? Why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, Which version would you use with a teacher you do not know well? Why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says formal is always correct",
+        "is_correct": false
+      },
+      {
+        "text": "Slang or acronyms are just lazy language",
+        "is_correct": false
+      },
+      {
+        "text": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+        "is_correct": true
+      },
+      {
+        "text": "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-004",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a worked solution audit, How can an acronym or specialist term make people feel part of a group Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, How can an acronym or specialist term make people feel part of a group Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student treats acronyms as only shortened words",
+        "is_correct": false
+      },
+      {
+        "text": "A map label tells the whole story of Country/Place",
+        "is_correct": false
+      },
+      {
+        "text": "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context",
+        "is_correct": false
+      },
+      {
+        "text": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
+      "hint": "Compare an acronym known by the group with one outsiders would not understand."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-005",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a source evaluation, What is one careful sentence we could write using a language name from an authoritative map Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, What is one careful sentence we could write using a language name from an authoritative map Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+        "is_correct": true
+      },
+      {
+        "text": "Student says the map proves a simple ownership boundary",
+        "is_correct": false
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
+      "hint": "Restate that language maps are references and cultural relationships need careful source context."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-006",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a multi-step application, Explain the effect of 'our chat' in Version A Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Explain the effect of 'our chat' in Version A Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says it is informal but gives no effect",
+        "is_correct": false
+      },
+      {
+        "text": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+        "is_correct": true
+      },
+      {
+        "text": "Slang or acronyms are just lazy language",
+        "is_correct": false
+      },
+      {
+        "text": "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
+      "hint": "Use the stem: This phrase suggests the omitted idea because the omitted idea"
+    }
+  },
+  {
+    "id": "ac9e8la01-t-007",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
+    "question": "During a justification task, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student describes the topic of the text rather than the social effect of language",
+        "is_correct": false
+      },
+      {
+        "text": "A map label tells the whole story of Country/Place",
+        "is_correct": false
+      },
+      {
+        "text": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
+      "hint": "Ask for the exact word choice first, then ask who it includes, distances, respects or positions."
+    }
+  },
+  {
+    "id": "ac9e8la01-t-008",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
+    "question": "During a final synthesis, Which version would you use with a teacher you do not know well? Why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, Which version would you use with a teacher you do not know well? Why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Student says formal is always correct",
+        "is_correct": false
+      },
+      {
+        "text": "Formal language is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
+        "is_correct": false
+      },
+      {
+        "text": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
+      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+    }
+  }
+]

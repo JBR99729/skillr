@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9m04-p-001",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_error_as_a_percentage_of_the_exact_value",
+    "question": "During a guided example, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a guided example, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-002",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_absolute_value_in_a_percentage_error_formula_considering_when_they_would_use_the_absolute_value_and_when_they_would_not_depending_upon_the_context",
+    "question": "During a comparison task, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a comparison task, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-003",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "calculate_the_percentage_errors_in_expected_budgets_to_actual_expenditure",
+    "question": "During an error analysis, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an error analysis, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions calculate the percentage errors in expected budgets to actual expenditure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-004",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "estimate_the_accuracy_of_measurements_in_practical_contexts_and_giving_suitable_lower_and_upper_bounds_for_measurement_values",
+    "question": "During a model interpretation, For give measurement bounds, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a model interpretation, For give measurement bounds, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-005",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_calculating_and_interpreting_absolute_relative_and_percentage_errors_in_measurements_relates_to_artificial_intelligence_systems_such_as_regression_models_estimating_uncertainty_and_recommendation_systems",
+    "question": "During an evidence check, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an evidence check, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Regression models, estimating uncertainty and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-006",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_error_as_a_percentage_of_the_exact_value",
+    "question": "During a transfer problem, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a transfer problem, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-007",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_absolute_value_in_a_percentage_error_formula_considering_when_they_would_use_the_absolute_value_and_when_they_would_not_depending_upon_the_context",
+    "question": "During a peer explanation, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During a peer explanation, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-p-008",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "calculate_the_percentage_errors_in_expected_budgets_to_actual_expenditure",
+    "question": "During an independent review, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "audio_prompt": "During an independent review, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions calculate the percentage errors in expected budgets to actual expenditure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-001",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "estimate_the_accuracy_of_measurements_in_practical_contexts_and_giving_suitable_lower_and_upper_bounds_for_measurement_values",
+    "question": "During a fresh case study, For give measurement bounds, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For give measurement bounds, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-002",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_calculating_and_interpreting_absolute_relative_and_percentage_errors_in_measurements_relates_to_artificial_intelligence_systems_such_as_regression_models_estimating_uncertainty_and_recommendation_systems",
+    "question": "During an unfamiliar representation, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Regression models, estimating uncertainty and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-003",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_error_as_a_percentage_of_the_exact_value",
+    "question": "During a critical response, For calculate percentage error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For calculate percentage error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-004",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_absolute_value_in_a_percentage_error_formula_considering_when_they_would_use_the_absolute_value_and_when_they_would_not_depending_upon_the_context",
+    "question": "During a worked solution audit, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-005",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "calculate_the_percentage_errors_in_expected_budgets_to_actual_expenditure",
+    "question": "During a source evaluation, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions calculate the percentage errors in expected budgets to actual expenditure but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-006",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "estimate_the_accuracy_of_measurements_in_practical_contexts_and_giving_suitable_lower_and_upper_bounds_for_measurement_values",
+    "question": "During a multi-step application, For give measurement bounds, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For give measurement bounds, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-007",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_calculating_and_interpreting_absolute_relative_and_percentage_errors_in_measurements_relates_to_artificial_intelligence_systems_such_as_regression_models_estimating_uncertainty_and_recommendation_systems",
+    "question": "During a justification task, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Regression models, estimating uncertainty and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9m04-t-008",
+    "curriculum_code": "AC9M9M04",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_error_as_a_percentage_of_the_exact_value",
+    "question": "During a final synthesis, For calculate percentage error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For calculate percentage error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

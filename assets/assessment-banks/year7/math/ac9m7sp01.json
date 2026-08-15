@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7sp01-p-001",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "draw_three_orthographic_views",
+    "question": "During a guided example, which statement correctly explains orthographic view?",
+    "audio_prompt": "During a guided example, which statement correctly explains orthographic view?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "is_correct": true
+      },
+      {
+        "text": "One view assumed to determine an object uniquely",
+        "is_correct": false
+      },
+      {
+        "text": "Different objects can share a front view",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A top and front view together communicate dimensions that either view alone hides",
+      "hint": "Different objects can share a front view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-002",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "interpret_an_isometric_sketch",
+    "question": "During a comparison task, which statement correctly explains isometric sketch?",
+    "audio_prompt": "During a comparison task, which statement correctly explains isometric sketch?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perspective length measured as true length",
+        "is_correct": false
+      },
+      {
+        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "is_correct": true
+      },
+      {
+        "text": "Foreshortening may distort scale",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+      "hint": "Foreshortening may distort scale."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-003",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_ambiguity",
+    "question": "During an error analysis, which statement correctly explains cross-section?",
+    "audio_prompt": "During an error analysis, which statement correctly explains cross-section?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hidden edges ignored when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Use conventions or another view",
+        "is_correct": false
+      },
+      {
+        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+      "hint": "Use conventions or another view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-004",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "choose_a_representation",
+    "question": "During a model interpretation, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Representation judged only by realism",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate fitness for purpose",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      },
+      {
+        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+      "hint": "Evaluate fitness for purpose."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-005",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "state_a_limitation",
+    "question": "During an evidence check, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During an evidence check, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "is_correct": true
+      },
+      {
+        "text": "One view assumed to determine an object uniquely",
+        "is_correct": false
+      },
+      {
+        "text": "Different objects can share a front view",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A top and front view together communicate dimensions that either view alone hides",
+      "hint": "Different objects can share a front view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-006",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "draw_three_orthographic_views",
+    "question": "During a transfer problem, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perspective length measured as true length",
+        "is_correct": false
+      },
+      {
+        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "is_correct": true
+      },
+      {
+        "text": "Foreshortening may distort scale",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+      "hint": "Foreshortening may distort scale."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-007",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "interpret_an_isometric_sketch",
+    "question": "During a peer explanation, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hidden edges ignored when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Use conventions or another view",
+        "is_correct": false
+      },
+      {
+        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+      "hint": "Use conventions or another view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-p-008",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_ambiguity",
+    "question": "During an independent review, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During an independent review, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Representation judged only by realism",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate fitness for purpose",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      },
+      {
+        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+      "hint": "Evaluate fitness for purpose."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-001",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "choose_a_representation",
+    "question": "During a fresh case study, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "is_correct": true
+      },
+      {
+        "text": "One view assumed to determine an object uniquely",
+        "is_correct": false
+      },
+      {
+        "text": "Different objects can share a front view",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A top and front view together communicate dimensions that either view alone hides",
+      "hint": "Different objects can share a front view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-002",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "state_a_limitation",
+    "question": "During an unfamiliar representation, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perspective length measured as true length",
+        "is_correct": false
+      },
+      {
+        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "is_correct": true
+      },
+      {
+        "text": "Foreshortening may distort scale",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+      "hint": "Foreshortening may distort scale."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-003",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "draw_three_orthographic_views",
+    "question": "During a critical response, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a critical response, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hidden edges ignored when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Use conventions or another view",
+        "is_correct": false
+      },
+      {
+        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+      "hint": "Use conventions or another view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-004",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "interpret_an_isometric_sketch",
+    "question": "During a worked solution audit, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Representation judged only by realism",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate fitness for purpose",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      },
+      {
+        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+      "hint": "Evaluate fitness for purpose."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-005",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_ambiguity",
+    "question": "During a source evaluation, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "is_correct": true
+      },
+      {
+        "text": "One view assumed to determine an object uniquely",
+        "is_correct": false
+      },
+      {
+        "text": "Different objects can share a front view",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A top and front view together communicate dimensions that either view alone hides",
+      "hint": "Different objects can share a front view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-006",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "choose_a_representation",
+    "question": "During a multi-step application, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Perspective length measured as true length",
+        "is_correct": false
+      },
+      {
+        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "is_correct": true
+      },
+      {
+        "text": "Foreshortening may distort scale",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+      "hint": "Foreshortening may distort scale."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-007",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "state_a_limitation",
+    "question": "During a justification task, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a justification task, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hidden edges ignored when needed",
+        "is_correct": false
+      },
+      {
+        "text": "Use conventions or another view",
+        "is_correct": false
+      },
+      {
+        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+      "hint": "Use conventions or another view."
+    }
+  },
+  {
+    "id": "ac9m7sp01-t-008",
+    "curriculum_code": "AC9M7SP01",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "draw_three_orthographic_views",
+    "question": "During a final synthesis, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Representation judged only by realism",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate fitness for purpose",
+        "is_correct": false
+      },
+      {
+        "text": "2D view seen perpendicular to a face",
+        "is_correct": false
+      },
+      {
+        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+      "hint": "Evaluate fitness for purpose."
+    }
+  }
+]

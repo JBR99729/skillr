@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9p03-p-001",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_conduct_probability_simulations_that_demonstrate_the_relationship_between_the_probability_of_compound_events_and_the_individual_probabilities",
+    "question": "During a guided example, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a guided example, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-002",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_experiments_which_differ_only_by_being_undertaken_with_replacement_or_without_replacement",
+    "question": "During a comparison task, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a comparison task, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-003",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "conduct_two_step_chance_experiments_using_systematic_methods_to_list_outcomes_of_experiments_and_to_list_outcomes_favourable_to_an_event",
+    "question": "During an error analysis, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During an error analysis, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-004",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_repeated_trials_of_first_nations_australian_children_s_instructive_games",
+    "question": "During a model interpretation, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "audio_prompt": "During a model interpretation, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-005",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_conduct_probability_simulations_that_demonstrate_the_relationship_between_the_probability_of_compound_events_and_the_individual_probabilities",
+    "question": "During an evidence check, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During an evidence check, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-006",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_experiments_which_differ_only_by_being_undertaken_with_replacement_or_without_replacement",
+    "question": "During a transfer problem, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a transfer problem, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-007",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "conduct_two_step_chance_experiments_using_systematic_methods_to_list_outcomes_of_experiments_and_to_list_outcomes_favourable_to_an_event",
+    "question": "During a peer explanation, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a peer explanation, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-p-008",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_repeated_trials_of_first_nations_australian_children_s_instructive_games",
+    "question": "During an independent review, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "audio_prompt": "During an independent review, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-001",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_to_conduct_probability_simulations_that_demonstrate_the_relationship_between_the_probability_of_compound_events_and_the_individual_probabilities",
+    "question": "During a fresh case study, For simulate simple and compound events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For simulate simple and compound events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-002",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_experiments_which_differ_only_by_being_undertaken_with_replacement_or_without_replacement",
+    "question": "During an unfamiliar representation, For compare replacement methods, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For compare replacement methods, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-003",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "conduct_two_step_chance_experiments_using_systematic_methods_to_list_outcomes_of_experiments_and_to_list_outcomes_favourable_to_an_event",
+    "question": "During a critical response, For list favourable outcomes systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For list favourable outcomes systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-004",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_repeated_trials_of_first_nations_australian_children_s_instructive_games",
+    "question": "During a worked solution audit, For estimate winning in a repeated game, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For estimate winning in a repeated game, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-005",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_to_conduct_probability_simulations_that_demonstrate_the_relationship_between_the_probability_of_compound_events_and_the_individual_probabilities",
+    "question": "During a source evaluation, For simulate simple and compound events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For simulate simple and compound events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-006",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_experiments_which_differ_only_by_being_undertaken_with_replacement_or_without_replacement",
+    "question": "During a multi-step application, For compare replacement methods, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare replacement methods, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-007",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "conduct_two_step_chance_experiments_using_systematic_methods_to_list_outcomes_of_experiments_and_to_list_outcomes_favourable_to_an_event",
+    "question": "During a justification task, For list favourable outcomes systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For list favourable outcomes systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9p03-t-008",
+    "curriculum_code": "AC9M9P03",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_repeated_trials_of_first_nations_australian_children_s_instructive_games",
+    "question": "During a final synthesis, For estimate winning in a repeated game, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For estimate winning in a repeated game, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

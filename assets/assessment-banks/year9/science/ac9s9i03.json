@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9s9i03-p-001",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_an_electronic_balance_that_measures_within_the_parameters_to_make_the_role_of_calibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a guided example, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters",
+    "audio_prompt": "During a guided example, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+        "is_correct": true
+      },
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-002",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_data_loggers_and_choosing_correct_scale_and_appropriate_output_to_make_the_role_of_range_and_resolution_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a comparison task, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output",
+    "audio_prompt": "During a comparison task, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-003",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_degree_of_accuracy_that_different_instruments_provide_to_make_the_role_of_consistent_technique_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an error analysis, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide",
+    "audio_prompt": "During an error analysis, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-004",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_replicability_of_data_collected_using_different_instruments_to_make_the_role_of_sample_size_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a model interpretation, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments",
+    "audio_prompt": "During a model interpretation, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-005",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_amount_of_data_needed_to_produce_a_useful_to_make_the_role_of_replicable_record_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an evidence check, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful",
+    "audio_prompt": "During an evidence check, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+        "is_correct": true
+      },
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-006",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_an_appropriate_sample_size_for_the_investigation_and_how_to_make_the_role_of_calibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a transfer problem, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how",
+    "audio_prompt": "During a transfer problem, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-007",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_an_electronic_balance_that_measures_within_the_parameters_to_make_the_role_of_calibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a peer explanation, Use the central model to explain collect precise, replicable data in three linked sentences",
+    "audio_prompt": "During a peer explanation, Use the central model to explain collect precise, replicable data in three linked sentences",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      },
+      {
+        "text": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-p-008",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_data_loggers_and_choosing_correct_scale_and_appropriate_output_to_make_the_role_of_range_and_resolution_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an independent review, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters",
+    "audio_prompt": "During an independent review, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-001",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_degree_of_accuracy_that_different_instruments_provide_to_make_the_role_of_consistent_technique_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a fresh case study, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+        "is_correct": true
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-002",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_replicability_of_data_collected_using_different_instruments_to_make_the_role_of_sample_size_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During an unfamiliar representation, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-003",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_amount_of_data_needed_to_produce_a_useful_to_make_the_role_of_replicable_record_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a critical response, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+        "is_correct": true
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-004",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_an_appropriate_sample_size_for_the_investigation_and_how_to_make_the_role_of_calibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a worked solution audit, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-005",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_an_electronic_balance_that_measures_within_the_parameters_to_make_the_role_of_calibration_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a source evaluation, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-006",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_data_loggers_and_choosing_correct_scale_and_appropriate_output_to_make_the_role_of_range_and_resolution_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a multi-step application, Use the central model to explain collect precise, replicable data in three linked sentences Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, Use the central model to explain collect precise, replicable data in three linked sentences Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-007",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_degree_of_accuracy_that_different_instruments_provide_to_make_the_role_of_consistent_technique_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a justification task, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A large data file means a large sample",
+        "is_correct": false
+      },
+      {
+        "text": "Count independent experimental units or trials, not sensor rows",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "hint": "Count independent experimental units or trials, not sensor rows."
+    }
+  },
+  {
+    "id": "ac9s9i03-t-008",
+    "curriculum_code": "AC9S9I03",
+    "year_level": "Year 9",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_replicability_of_data_collected_using_different_instruments_to_make_the_role_of_sample_size_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "During a final synthesis, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Calibration and zeroing are the same for every instrument",
+        "is_correct": false
+      },
+      {
+        "text": "Use the manufacturer or laboratory procedure appropriate to the instrument",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
+      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+    }
+  }
+]

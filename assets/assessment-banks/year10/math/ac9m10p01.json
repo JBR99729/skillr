@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10p01-p-001",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During a guided example, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a guided example, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-002",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_arrays_and_tree_diagrams_to_represent_interpret_and_compare_probabilities_of_dependent_and_independent_events",
+    "question": "During a comparison task, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a comparison task, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-003",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_conditional_probability_is_used_in_natural_language_processing_tasks_like_text_or_image_generation_language_translation_data_augmentation_and_recommendation_systems",
+    "question": "During an error analysis, For recognise conditional probability in ai, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During an error analysis, For recognise conditional probability in ai, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-004",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During a model interpretation, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a model interpretation, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-005",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_arrays_and_tree_diagrams_to_represent_interpret_and_compare_probabilities_of_dependent_and_independent_events",
+    "question": "During an evidence check, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During an evidence check, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-006",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_how_conditional_probability_is_used_in_natural_language_processing_tasks_like_text_or_image_generation_language_translation_data_augmentation_and_recommendation_systems",
+    "question": "During a transfer problem, For recognise conditional probability in ai, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a transfer problem, For recognise conditional probability in ai, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-007",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During a peer explanation, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During a peer explanation, For translate conditional probability language, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-p-008",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_arrays_and_tree_diagrams_to_represent_interpret_and_compare_probabilities_of_dependent_and_independent_events",
+    "question": "During an independent review, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "audio_prompt": "During an independent review, For compare dependent and independent events, which outcomes belong in the denominator, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-001",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_conditional_probability_is_used_in_natural_language_processing_tasks_like_text_or_image_generation_language_translation_data_augmentation_and_recommendation_systems",
+    "question": "During a fresh case study, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-002",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During an unfamiliar representation, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-003",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_arrays_and_tree_diagrams_to_represent_interpret_and_compare_probabilities_of_dependent_and_independent_events",
+    "question": "During a critical response, For compare dependent and independent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For compare dependent and independent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-004",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_conditional_probability_is_used_in_natural_language_processing_tasks_like_text_or_image_generation_language_translation_data_augmentation_and_recommendation_systems",
+    "question": "During a worked solution audit, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-005",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During a source evaluation, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-006",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_arrays_and_tree_diagrams_to_represent_interpret_and_compare_probabilities_of_dependent_and_independent_events",
+    "question": "During a multi-step application, For compare dependent and independent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For compare dependent and independent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-007",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_how_conditional_probability_is_used_in_natural_language_processing_tasks_like_text_or_image_generation_language_translation_data_augmentation_and_recommendation_systems",
+    "question": "During a justification task, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For recognise conditional probability in ai, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10p01-t-008",
+    "curriculum_code": "AC9M10P01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_two_way_tables_and_venn_diagrams_to_understand_conditional_statements_using_the_language_of_if_the_omitted_idea_then_the_omitted_idea_given_of_knowing_that",
+    "question": "During a final synthesis, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For translate conditional probability language, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use two-way tables and Venn diagrams to understand conditional statements using the language of “if.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

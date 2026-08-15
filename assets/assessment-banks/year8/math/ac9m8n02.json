@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8n02-p-001",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_connection_between_exponent_form_and_expanded_form_with_the_exponent_laws_of_product_of_powers_rule_quotient_of_powers_rule_and_power_of_a_power_rule",
+    "question": "During a guided example, For build the product-of-powers law, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a guided example, For build the product-of-powers law, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-002",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_the_exponent_laws_of_the_product_of_powers_rule_quotient_of_powers_rule_power_of_a_power_rule_and_zero_exponent_individually_and_in_combination",
+    "question": "During a comparison task, For build the quotient and power laws, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a comparison task, For build the quotient and power laws, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-003",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_systematically_explore_the_application_of_the_exponent_laws_observing_that_the_bases_need_to_be_the_same",
+    "question": "During an error analysis, For combine exponent laws, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During an error analysis, For combine exponent laws, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-004",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_examples_such_as_3_4_3_4_1_and_3_4_4_3_0_to_illustrate_the_necessity_that_for_any_non_zero_natural_number_n_n_0_1",
+    "question": "During a model interpretation, For why does a⁰ equal 1?, what changes, what stays invariant, and why",
+    "audio_prompt": "During a model interpretation, For why does a⁰ equal 1?, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-005",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_connection_between_exponent_form_and_expanded_form_with_the_exponent_laws_of_product_of_powers_rule_quotient_of_powers_rule_and_power_of_a_power_rule",
+    "question": "During an evidence check, For build the product-of-powers law, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During an evidence check, For build the product-of-powers law, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-006",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_the_exponent_laws_of_the_product_of_powers_rule_quotient_of_powers_rule_power_of_a_power_rule_and_zero_exponent_individually_and_in_combination",
+    "question": "During a transfer problem, For build the quotient and power laws, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a transfer problem, For build the quotient and power laws, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-007",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_to_systematically_explore_the_application_of_the_exponent_laws_observing_that_the_bases_need_to_be_the_same",
+    "question": "During a peer explanation, For combine exponent laws, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a peer explanation, For combine exponent laws, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-p-008",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_examples_such_as_3_4_3_4_1_and_3_4_4_3_0_to_illustrate_the_necessity_that_for_any_non_zero_natural_number_n_n_0_1",
+    "question": "During an independent review, For why does a⁰ equal 1?, what changes, what stays invariant, and why",
+    "audio_prompt": "During an independent review, For why does a⁰ equal 1?, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-001",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_connection_between_exponent_form_and_expanded_form_with_the_exponent_laws_of_product_of_powers_rule_quotient_of_powers_rule_and_power_of_a_power_rule",
+    "question": "During a fresh case study, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-002",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_the_exponent_laws_of_the_product_of_powers_rule_quotient_of_powers_rule_power_of_a_power_rule_and_zero_exponent_individually_and_in_combination",
+    "question": "During an unfamiliar representation, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-003",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_to_systematically_explore_the_application_of_the_exponent_laws_observing_that_the_bases_need_to_be_the_same",
+    "question": "During a critical response, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-004",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_examples_such_as_3_4_3_4_1_and_3_4_4_3_0_to_illustrate_the_necessity_that_for_any_non_zero_natural_number_n_n_0_1",
+    "question": "During a worked solution audit, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-005",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_connection_between_exponent_form_and_expanded_form_with_the_exponent_laws_of_product_of_powers_rule_quotient_of_powers_rule_and_power_of_a_power_rule",
+    "question": "During a source evaluation, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-006",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_the_exponent_laws_of_the_product_of_powers_rule_quotient_of_powers_rule_power_of_a_power_rule_and_zero_exponent_individually_and_in_combination",
+    "question": "During a multi-step application, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-007",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_to_systematically_explore_the_application_of_the_exponent_laws_observing_that_the_bases_need_to_be_the_same",
+    "question": "During a justification task, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n02-t-008",
+    "curriculum_code": "AC9M8N02",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_examples_such_as_3_4_3_4_1_and_3_4_4_3_0_to_illustrate_the_necessity_that_for_any_non_zero_natural_number_n_n_0_1",
+    "question": "During a final synthesis, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

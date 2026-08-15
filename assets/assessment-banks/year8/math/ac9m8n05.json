@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m8n05-p-001",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_weather_and_environmental_contexts_including_temperature_or_sea_depths_by_applying_operations_to_positive_and_negative_rational_numbers",
+    "question": "During a guided example, For model signed environmental change, what changes, what stays invariant, and why",
+    "audio_prompt": "During a guided example, For model signed environmental change, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-002",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_that_involve_percentage_increases_or_decreases_and_explaining_why_it_is_an_increase_or_decrease_such_as_mark_ups_discounts_goods_and_services_tax",
+    "question": "During a comparison task, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a comparison task, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-003",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_personal_income_tax_interpreting_tax_tables_to_determine_income_tax_at_various_levels_of_income_including_overall_percentage_of_income_allocated_to_tax",
+    "question": "During an error analysis, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "audio_prompt": "During an error analysis, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-004",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_percentage_increase_or_decrease_such_as_market_trends_effects_on_population_or_effects_on_the_environment_over_extended_time_periods",
+    "question": "During a model interpretation, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a model interpretation, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-005",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_weather_and_environmental_contexts_including_temperature_or_sea_depths_by_applying_operations_to_positive_and_negative_rational_numbers",
+    "question": "During an evidence check, For model signed environmental change, what changes, what stays invariant, and why",
+    "audio_prompt": "During an evidence check, For model signed environmental change, what changes, what stays invariant, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-006",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_that_involve_percentage_increases_or_decreases_and_explaining_why_it_is_an_increase_or_decrease_such_as_mark_ups_discounts_goods_and_services_tax",
+    "question": "During a transfer problem, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a transfer problem, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-007",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_personal_income_tax_interpreting_tax_tables_to_determine_income_tax_at_various_levels_of_income_including_overall_percentage_of_income_allocated_to_tax",
+    "question": "During a peer explanation, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "audio_prompt": "During a peer explanation, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-p-008",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_percentage_increase_or_decrease_such_as_market_trends_effects_on_population_or_effects_on_the_environment_over_extended_time_periods",
+    "question": "During an independent review, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an independent review, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-001",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_weather_and_environmental_contexts_including_temperature_or_sea_depths_by_applying_operations_to_positive_and_negative_rational_numbers",
+    "question": "During a fresh case study, For model signed environmental change, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For model signed environmental change, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-002",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_that_involve_percentage_increases_or_decreases_and_explaining_why_it_is_an_increase_or_decrease_such_as_mark_ups_discounts_goods_and_services_tax",
+    "question": "During an unfamiliar representation, For use percentage increase and decrease, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For use percentage increase and decrease, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-003",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_personal_income_tax_interpreting_tax_tables_to_determine_income_tax_at_various_levels_of_income_including_overall_percentage_of_income_allocated_to_tax",
+    "question": "During a critical response, For interpret a personal income-tax table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For interpret a personal income-tax table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-004",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_percentage_increase_or_decrease_such_as_market_trends_effects_on_population_or_effects_on_the_environment_over_extended_time_periods",
+    "question": "During a worked solution audit, For model percentage change over time, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For model percentage change over time, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-005",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_weather_and_environmental_contexts_including_temperature_or_sea_depths_by_applying_operations_to_positive_and_negative_rational_numbers",
+    "question": "During a source evaluation, For model signed environmental change, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For model signed environmental change, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-006",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_that_involve_percentage_increases_or_decreases_and_explaining_why_it_is_an_increase_or_decrease_such_as_mark_ups_discounts_goods_and_services_tax",
+    "question": "During a multi-step application, For use percentage increase and decrease, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For use percentage increase and decrease, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-007",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_personal_income_tax_interpreting_tax_tables_to_determine_income_tax_at_various_levels_of_income_including_overall_percentage_of_income_allocated_to_tax",
+    "question": "During a justification task, For interpret a personal income-tax table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For interpret a personal income-tax table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m8n05-t-008",
+    "curriculum_code": "AC9M8N05",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_percentage_increase_or_decrease_such_as_market_trends_effects_on_population_or_effects_on_the_environment_over_extended_time_periods",
+    "question": "During a final synthesis, For model percentage change over time, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For model percentage change over time, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Exact and approximate values are treated as interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

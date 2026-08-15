@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m9a02-p-001",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During a guided example, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a guided example, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-002",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
+    "question": "During a comparison task, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a comparison task, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-003",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
+    "question": "During an error analysis, For reverse expansion to factorise, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During an error analysis, For reverse expansion to factorise, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-004",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During a model interpretation, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a model interpretation, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-005",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
+    "question": "During an evidence check, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During an evidence check, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-006",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
+    "question": "During a transfer problem, For reverse expansion to factorise, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a transfer problem, For reverse expansion to factorise, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-007",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During a peer explanation, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "audio_prompt": "During a peer explanation, For expand two binomials, which algebraic step preserves equivalence, and why",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-p-008",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
+    "question": "During an independent review, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During an independent review, For use an area model for quadratics, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-001",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
+    "question": "During a fresh case study, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-002",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During an unfamiliar representation, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-003",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
+    "question": "During a critical response, For use an area model for quadratics, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For use an area model for quadratics, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-004",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
+    "question": "During a worked solution audit, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-005",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During a source evaluation, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-006",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
+    "question": "During a multi-step application, For use an area model for quadratics, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For use an area model for quadratics, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: (x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+1)(x+3) = x²+4x+3, (x-5)² = x²-10x+25 or (x-3)²+4 = x²-6x+9+4 = x²-6x+13.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-007",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
+    "question": "During a justification task, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For reverse expansion to factorise, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m9a02-t-008",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
+    "question": "During a final synthesis, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For expand two binomials, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘(x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]

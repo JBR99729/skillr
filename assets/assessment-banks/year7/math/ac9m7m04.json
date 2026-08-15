@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m7m04-p-001",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "name_corresponding_pair",
+    "question": "During a guided example, which statement correctly explains transversal?",
+    "audio_prompt": "During a guided example, which statement correctly explains transversal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "If one co-interior angle is 118°, the other is 62°",
+        "is_correct": true
+      },
+      {
+        "text": "Co-interior angles declared equal",
+        "is_correct": false
+      },
+      {
+        "text": "They sum to 180°",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "If one co-interior angle is 118°, the other is 62°",
+      "hint": "They sum to 180°."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-002",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_alternate_equality",
+    "question": "During a comparison task, which statement correctly explains alternate angles?",
+    "audio_prompt": "During a comparison task, which statement correctly explains alternate angles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Parallel assumption omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+        "is_correct": true
+      },
+      {
+        "text": "These relationships require parallel lines",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+      "hint": "These relationships require parallel lines."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-003",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_co_interior_supplement",
+    "question": "During an error analysis, which statement correctly explains co-interior angles?",
+    "audio_prompt": "During an error analysis, which statement correctly explains co-interior angles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Angle positions memorised from one orientation",
+        "is_correct": false
+      },
+      {
+        "text": "Rotate or tilt the diagram and use structural location",
+        "is_correct": false
+      },
+      {
+        "text": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+        "is_correct": true
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+      "hint": "Rotate or tilt the diagram and use structural location."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-004",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "add_vertical_opposite_step",
+    "question": "During a model interpretation, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "audio_prompt": "During a model interpretation, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measurement used instead of reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Apply geometric facts and stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      },
+      {
+        "text": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+      "hint": "Apply geometric facts and stated conditions."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-005",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "write_a_reasoned_solution",
+    "question": "During an evidence check, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "audio_prompt": "During an evidence check, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "If one co-interior angle is 118°, the other is 62°",
+        "is_correct": true
+      },
+      {
+        "text": "Co-interior angles declared equal",
+        "is_correct": false
+      },
+      {
+        "text": "They sum to 180°",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "If one co-interior angle is 118°, the other is 62°",
+      "hint": "They sum to 180°."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-006",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "name_corresponding_pair",
+    "question": "During a transfer problem, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "audio_prompt": "During a transfer problem, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Parallel assumption omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+        "is_correct": true
+      },
+      {
+        "text": "These relationships require parallel lines",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+      "hint": "These relationships require parallel lines."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-007",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_alternate_equality",
+    "question": "During a peer explanation, which response best demonstrates use alternate equality in angles in parallel lines?",
+    "audio_prompt": "During a peer explanation, which response best demonstrates use alternate equality in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Angle positions memorised from one orientation",
+        "is_correct": false
+      },
+      {
+        "text": "Rotate or tilt the diagram and use structural location",
+        "is_correct": false
+      },
+      {
+        "text": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+        "is_correct": true
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+      "hint": "Rotate or tilt the diagram and use structural location."
+    }
+  },
+  {
+    "id": "ac9m7m04-p-008",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_co_interior_supplement",
+    "question": "During an independent review, which response best demonstrates find co-interior supplement in angles in parallel lines?",
+    "audio_prompt": "During an independent review, which response best demonstrates find co-interior supplement in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measurement used instead of reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Apply geometric facts and stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      },
+      {
+        "text": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+      "hint": "Apply geometric facts and stated conditions."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-001",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "add_vertical_opposite_step",
+    "question": "During a fresh case study, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "audio_prompt": "During a fresh case study, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "If one co-interior angle is 118°, the other is 62°",
+        "is_correct": true
+      },
+      {
+        "text": "Co-interior angles declared equal",
+        "is_correct": false
+      },
+      {
+        "text": "They sum to 180°",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "If one co-interior angle is 118°, the other is 62°",
+      "hint": "They sum to 180°."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-002",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_reasoned_solution",
+    "question": "During an unfamiliar representation, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "audio_prompt": "During an unfamiliar representation, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Parallel assumption omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+        "is_correct": true
+      },
+      {
+        "text": "These relationships require parallel lines",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+      "hint": "These relationships require parallel lines."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-003",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "name_corresponding_pair",
+    "question": "During a critical response, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "audio_prompt": "During a critical response, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Angle positions memorised from one orientation",
+        "is_correct": false
+      },
+      {
+        "text": "Rotate or tilt the diagram and use structural location",
+        "is_correct": false
+      },
+      {
+        "text": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+        "is_correct": true
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+      "hint": "Rotate or tilt the diagram and use structural location."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-004",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_alternate_equality",
+    "question": "During a worked solution audit, which response best demonstrates use alternate equality in angles in parallel lines?",
+    "audio_prompt": "During a worked solution audit, which response best demonstrates use alternate equality in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measurement used instead of reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Apply geometric facts and stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      },
+      {
+        "text": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+      "hint": "Apply geometric facts and stated conditions."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-005",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_co_interior_supplement",
+    "question": "During a source evaluation, which response best demonstrates find co-interior supplement in angles in parallel lines?",
+    "audio_prompt": "During a source evaluation, which response best demonstrates find co-interior supplement in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "If one co-interior angle is 118°, the other is 62°",
+        "is_correct": true
+      },
+      {
+        "text": "Co-interior angles declared equal",
+        "is_correct": false
+      },
+      {
+        "text": "They sum to 180°",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "If one co-interior angle is 118°, the other is 62°",
+      "hint": "They sum to 180°."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-006",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "add_vertical_opposite_step",
+    "question": "During a multi-step application, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "audio_prompt": "During a multi-step application, which response best demonstrates add vertical-opposite step in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Parallel assumption omitted",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+        "is_correct": true
+      },
+      {
+        "text": "These relationships require parallel lines",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
+      "hint": "These relationships require parallel lines."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-007",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "write_a_reasoned_solution",
+    "question": "During a justification task, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "audio_prompt": "During a justification task, which response best demonstrates write a reasoned solution in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Angle positions memorised from one orientation",
+        "is_correct": false
+      },
+      {
+        "text": "Rotate or tilt the diagram and use structural location",
+        "is_correct": false
+      },
+      {
+        "text": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+        "is_correct": true
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
+      "hint": "Rotate or tilt the diagram and use structural location."
+    }
+  },
+  {
+    "id": "ac9m7m04-t-008",
+    "curriculum_code": "AC9M7M04",
+    "year_level": "Year 7",
+    "subject": "math",
+    "bank": "test",
+    "skill": "name_corresponding_pair",
+    "question": "During a final synthesis, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "audio_prompt": "During a final synthesis, which response best demonstrates name corresponding pair in angles in parallel lines?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measurement used instead of reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Apply geometric facts and stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Line crossing two or more other lines",
+        "is_correct": false
+      },
+      {
+        "text": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
+      "hint": "Apply geometric facts and stated conditions."
+    }
+  }
+]

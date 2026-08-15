@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ac9m10a04-p-001",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_and_choosing_between_linear_quadratic_and_exponential_models_by_representing_relationships_in_a_table_of_values",
+    "question": "During a guided example, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a guided example, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-002",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_exponential_growth_and_decay_and_contrasting_this_with_linear_growth_or_decay",
+    "question": "During a comparison task, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a comparison task, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations involving exponential growth and decay, and contrasting this with linear growth or decay but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Situations involving constant percentage change and constant ratio.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-003",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_that_involve_working_with_authentic_information_data_and_interest_rates_to_calculate_compound_interest_and_solve_related_problems",
+    "question": "During an error analysis, For model compound interest, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an error analysis, For model compound interest, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-004",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_and_investigating_how_exponential_equations_are_used_in_carbon_dating_to_estimate_the_age_of_first_nations_australians_artefacts_or_material_culture",
+    "question": "During a model interpretation, For use decay to estimate age, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a model interpretation, For use decay to estimate age, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians’ artefacts or material culture but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-005",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_and_formulating_situations_involving_population_growths_of_native_animals_on_country_place_with_varying_reproductive_behaviour_using_exponential_equations_and_critiquing_their_applicability_to_real_world_situations",
+    "question": "During an evidence check, For critique a population-growth model, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During an evidence check, For critique a population-growth model, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and formulating situations involving population growths of native animals on country/place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-006",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_and_choosing_between_linear_quadratic_and_exponential_models_by_representing_relationships_in_a_table_of_values",
+    "question": "During a transfer problem, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion",
+    "audio_prompt": "During a transfer problem, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-007",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_involving_exponential_growth_and_decay_and_contrasting_this_with_linear_growth_or_decay",
+    "question": "During a peer explanation, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor",
+    "audio_prompt": "During a peer explanation, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving exponential growth and decay, and contrasting this with linear growth or decay but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Situations involving constant percentage change and constant ratio.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-p-008",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "model_situations_that_involve_working_with_authentic_information_data_and_interest_rates_to_calculate_compound_interest_and_solve_related_problems",
+    "question": "During an independent review, For model compound interest, what claim is supported, and what limitation remains",
+    "audio_prompt": "During an independent review, For model compound interest, what claim is supported, and what limitation remains",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-001",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_investigating_how_exponential_equations_are_used_in_carbon_dating_to_estimate_the_age_of_first_nations_australians_artefacts_or_material_culture",
+    "question": "During a fresh case study, For use decay to estimate age, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a fresh case study, For use decay to estimate age, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians’ artefacts or material culture but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-002",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_formulating_situations_involving_population_growths_of_native_animals_on_country_place_with_varying_reproductive_behaviour_using_exponential_equations_and_critiquing_their_applicability_to_real_world_situations",
+    "question": "During an unfamiliar representation, For critique a population-growth model, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During an unfamiliar representation, For critique a population-growth model, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model and formulating situations involving population growths of native animals on country/place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-003",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_and_choosing_between_linear_quadratic_and_exponential_models_by_representing_relationships_in_a_table_of_values",
+    "question": "During a critical response, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a critical response, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-004",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_involving_exponential_growth_and_decay_and_contrasting_this_with_linear_growth_or_decay",
+    "question": "During a worked solution audit, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a worked solution audit, For compare constant change and constant percentage change, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations involving exponential growth and decay, and contrasting this with linear growth or decay but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Situations involving constant percentage change and constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Situations involving constant percentage change and constant ratio.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-005",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_that_involve_working_with_authentic_information_data_and_interest_rates_to_calculate_compound_interest_and_solve_related_problems",
+    "question": "During a source evaluation, For model compound interest, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "audio_prompt": "During a source evaluation, For model compound interest, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations that involve working with authentic information, data and interest rates to calculate compound interest and solve related problems.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-006",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_investigating_how_exponential_equations_are_used_in_carbon_dating_to_estimate_the_age_of_first_nations_australians_artefacts_or_material_culture",
+    "question": "During a multi-step application, For use decay to estimate age, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a multi-step application, For use decay to estimate age, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "A response that mentions model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians’ artefacts or material culture but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the model evidence: Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model and investigating how exponential equations are used in carbon dating to estimate the age of First Nations Australians’ artefacts or material culture.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-007",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_and_formulating_situations_involving_population_growths_of_native_animals_on_country_place_with_varying_reproductive_behaviour_using_exponential_equations_and_critiquing_their_applicability_to_real_world_situations",
+    "question": "During a justification task, For critique a population-growth model, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "audio_prompt": "During a justification task, For critique a population-growth model, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model and formulating situations involving population growths of native animals on country/place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the model evidence: P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘P(t) = P₀(1 + r)ᵗ assumes a constant growth rate; habitat, food and changing reproduction can limit that assumption.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  },
+  {
+    "id": "ac9m10a04-t-008",
+    "curriculum_code": "AC9M10A04",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "model_situations_and_choosing_between_linear_quadratic_and_exponential_models_by_representing_relationships_in_a_table_of_values",
+    "question": "During a final synthesis, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "audio_prompt": "During a final synthesis, For choose linear, quadratic or exponential, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A rule is applied without preserving equivalence or its conditions",
+        "is_correct": false
+      },
+      {
+        "text": "A response that mentions model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values but does not justify the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "is_correct": false
+      },
+      {
+        "text": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the model evidence: Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "hint": "Return to the labelled model ‘Model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values.’ and identify the quantity, condition or comparison that decides the result."
+    }
+  }
+]
