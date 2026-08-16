@@ -8,13 +8,13 @@ PDF_ROOT=ROOT/'worksheets'/'foundation'/'science'/'teacher-slides'
 CODES=['AC9SFH01','AC9SFI01','AC9SFI02','AC9SFI03','AC9SFI04','AC9SFI05','AC9SFU01','AC9SFU02','AC9SFU03']
 
 def topic_dir_for(code):
-    for d in TOPIC_ROOT.iterdir():
-        if not d.is_dir():
-            continue
-        f=d/'index.html'
-        if f.exists() and code.lower() in f.read_text(encoding='utf-8',errors='ignore').lower():
-            return d
-    raise RuntimeError(f'No topic directory found for {code}')
+    prefix=code.lower()+'-'
+    matches=[d for d in TOPIC_ROOT.iterdir() if d.is_dir() and (d.name.lower()==code.lower() or d.name.lower().startswith(prefix)) and (d/'index.html').exists()]
+    if len(matches)==1:
+        return matches[0]
+    if not matches:
+        raise RuntimeError(f'No topic directory found for {code}')
+    raise RuntimeError(f'Multiple topic directories found for {code}: {[d.name for d in matches]}')
 
 def viewer(code,count):
     slides=''.join([f'<figure class="fixed-slide-viewer__slide" data-slide{" hidden" if i else ""}><img draggable="false" src="slide-{i+1:02d}.png" alt="{code} teacher slide {i+1} of {count}"></figure>' for i in range(count)])
