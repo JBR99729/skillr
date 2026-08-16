@@ -490,14 +490,23 @@ document.addEventListener("DOMContentLoaded", () => {
       elements.quizScreen.insertAdjacentElement("afterend", notice);
       return;
     }
+    const trigger = document.createElement("button");
+    trigger.type = "button";
+    trigger.className = "scratchpad-trigger";
+    trigger.textContent = "Scratchpad";
+    trigger.setAttribute("aria-expanded", "false");
+    trigger.setAttribute("aria-controls", "maths-scratchpad");
+    const triggerHost = elements.quizScreen.querySelector(".quiz-header") || elements.quizScreen;
+    triggerHost.insertAdjacentElement("afterend", trigger);
     const layer = document.createElement("div");
-    layer.className = "scratchpad-layer";
-    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><div class="scratchpad-tools" role="group" aria-label="Writing colour"><button type="button" class="scratchpad-swatch is-selected" data-colour="#17335f" aria-label="Navy writing colour" aria-pressed="true"></button><button type="button" class="scratchpad-swatch" data-colour="#c62828" aria-label="Red writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#167447" aria-label="Green writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#111827" aria-label="Black writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-eraser" aria-label="Eraser" aria-pressed="false" title="Eraser"><img src="/icons/eraser.svg" alt="" width="20" height="20"></button></div><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
+    layer.className = "scratchpad-layer is-collapsed";
+    layer.id = "maths-scratchpad";
+    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div><button type="button" class="scratchpad-collapse" aria-label="Collapse scratchpad" title="Collapse scratchpad">›</button></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><div class="scratchpad-tools" role="group" aria-label="Writing colour"><button type="button" class="scratchpad-swatch is-selected" data-colour="#17335f" aria-label="Navy writing colour" aria-pressed="true"></button><button type="button" class="scratchpad-swatch" data-colour="#c62828" aria-label="Red writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#167447" aria-label="Green writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#111827" aria-label="Black writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-eraser" aria-label="Eraser" aria-pressed="false" title="Eraser"><img src="/icons/eraser.svg" alt="" width="20" height="20"></button></div><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
     elements.quizScreen.insertAdjacentElement("afterend", layer);
-    document.body.classList.add("has-scratchpad-dock");
     const canvas = layer.querySelector("canvas");
     const context = canvas.getContext("2d");
     let drawing = false;
+    let canvasReady = false;
     let strokeColour = "#17335f";
     let erasing = false;
 
@@ -516,6 +525,7 @@ document.addEventListener("DOMContentLoaded", () => {
       context.lineCap = "round";
       context.lineJoin = "round";
       applyDrawingTool();
+      canvasReady = true;
     }
 
     function point(event) {
@@ -560,11 +570,26 @@ document.addEventListener("DOMContentLoaded", () => {
       eraser.setAttribute("aria-pressed", "true");
       applyDrawingTool();
     });
+    function expandScratchpad() {
+      layer.classList.remove("is-collapsed");
+      document.body.classList.add("has-scratchpad-dock");
+      trigger.setAttribute("aria-expanded", "true");
+      if (!canvasReady) window.requestAnimationFrame(sizeCanvas);
+      window.setTimeout(() => window.dispatchEvent(new Event("resize")), 220);
+    }
+    function collapseScratchpad() {
+      layer.classList.add("is-collapsed");
+      document.body.classList.remove("has-scratchpad-dock");
+      trigger.setAttribute("aria-expanded", "false");
+      trigger.focus();
+      window.setTimeout(() => window.dispatchEvent(new Event("resize")), 220);
+    }
+    trigger.addEventListener("click", expandScratchpad);
+    layer.querySelector(".scratchpad-collapse").addEventListener("click", collapseScratchpad);
     layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
     new MutationObserver(() => {
-      if (elements.quizScreen.classList.contains("is-active")) window.requestAnimationFrame(sizeCanvas);
+      if (elements.quizScreen.classList.contains("is-active") && !layer.classList.contains("is-collapsed") && !canvasReady) window.requestAnimationFrame(sizeCanvas);
     }).observe(elements.quizScreen, { attributes: true, attributeFilter: ["class"] });
-    window.requestAnimationFrame(sizeCanvas);
   }
 
   setupMathsScratchpad();
