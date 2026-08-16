@@ -1,9 +1,23 @@
 name: Generate Year 3 Maths static migration
 
 on:
+  push:
+    branches:
+      - agent/year3-maths-slide-quality-fix
+    paths:
+      - 'scripts/migrate_year3_maths_static.mjs'
+      - 'scripts/build_year3_maths_fixed_pdfs.mjs'
+      - 'scripts/year3_maths_static_helpers.mjs'
+      - 'assets/year3-maths-static.css'
+      - 'assets/year3-maths-data-*.js'
+      - '.github/workflows/generate-year3-maths-static-migration.yml'
   pull_request:
     paths:
       - 'scripts/migrate_year3_maths_static.mjs'
+      - 'scripts/build_year3_maths_fixed_pdfs.mjs'
+      - 'scripts/year3_maths_static_helpers.mjs'
+      - 'assets/year3-maths-static.css'
+      - 'assets/year3-maths-data-*.js'
       - '.github/workflows/generate-year3-maths-static-migration.yml'
   workflow_dispatch:
 
@@ -12,7 +26,7 @@ permissions:
 
 jobs:
   generate:
-    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    if: ${{ !contains(github.event.head_commit.message || '', '[skip year3 build]') && (github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository) }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,36 +36,106 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate authored Year 3 Maths source modules before migration
+      - name: Install PDF and render validation tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          command -v google-chrome || command -v chromium || command -v chromium-browser
+      - name: Validate authored Year 3 Maths source modules
         shell: bash
         run: |
           set +e
           node scripts/validate_year3_maths_topic_modules.mjs > /tmp/year3-validator.log 2>&1
           status=$?
           cat /tmp/year3-validator.log
-          if [ "$status" -eq 0 ]; then
-            exit 0
-          fi
+          if [ "$status" -eq 0 ]; then exit 0; fi
           grep -vE '^AC9M3M03: topic cache version missing for (data-n1|data-n2|data-n3|data-a|data-sp|data-st|data-p)$' /tmp/year3-validator.log | sed '/^$/d' > /tmp/year3-unexpected.log
           if [ -s /tmp/year3-unexpected.log ]; then
             echo 'Unexpected Year 3 source-quality failures remain:'
             cat /tmp/year3-unexpected.log
             exit 1
           fi
-          echo 'Only the known AC9M3M03 legacy renderer-cache wiring errors were present; migration removes that dependency.'
-      - name: Generate Year 3 Maths static pages and fixed slides
+          echo 'Only known legacy renderer-cache wiring errors were present; the static migration does not use that wiring.'
+      - name: Generate static Topic Guides and fixed viewers
         run: node scripts/migrate_year3_maths_static.mjs
-      - name: Validate generated static architecture
-        run: node scripts/validate_static_curriculum_architecture.mjs
-      - name: Commit generated files to migration branch
+      - name: Build fixed branded PDFs and slide images
+        run: node scripts/build_year3_maths_fixed_pdfs.mjs
+      - name: Validate generated counts and content alignment
+        run: |
+          test "$(find year3/maths -mindepth 2 -maxdepth 2 -name index.html -path '*/ac9m3*/*' | wc -l)" -eq 23
+          test "$(find worksheets/year3/maths/teacher-slides -maxdepth 1 -name 'ac9m3*-teacher-slide.pdf' | wc -l)" -eq 23
+          test "$(find year3/maths -path '*/teacher-slides/slide-*.png' | wc -l)" -eq 92
+          test "$(find year3/maths -path '*/teacher-slides/slide-*.svg' | wc -l)" -eq 0
+          node - <<'NODE'
+          const fs=require('fs'),path=require('path');
+          const roots=fs.readdirSync('year3/maths').filter(name=>/^ac9m3/i.test(name));
+          if(roots.length!==23) throw new Error(`Expected 23 Year 3 topic folders, found ${roots.length}`);
+          for(const folder of roots){
+            const file=path.join('year3/maths',folder,'index.html');
+            const html=fs.readFileSync(file,'utf8');
+            if((html.match(/<details\b/gi)||[]).length!==8) throw new Error(`${file}: expected 8 dropdown sections`);
+            if(/year3-maths-(?:render|v11-init)|Loading .*topic guide/i.test(html)) throw new Error(`${file}: runtime curriculum dependency remains`);
+            const viewer=fs.readFileSync(path.join('year3/maths',folder,'teacher-slides/index.html'),'utf8');
+            if((viewer.match(/slide-\d+\.png/g)||[]).length!==4) throw new Error(`${folder}: viewer does not reference 4 fixed PNG pages`);
+          }
+          const m03=fs.readFileSync('year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/index.html','utf8');
+          if(!m03.includes('1 minute = 60 seconds')) throw new Error('AC9M3M03 remediation is not aligned to its quick check');
+          const m04=fs.readFileSync('year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/index.html','utf8');
+          if(!m04.includes('twenty-seven minutes past three')) throw new Error('AC9M3M04 expected response is not aligned to Read 3:27');
+          if(/30H|5\.5M|clock geometry|Year 4 extension/i.test(m04)) throw new Error('AC9M3M04 contains later-year overteaching');
+          console.log('Year 3 Maths static content alignment: PASS');
+          NODE
+          git diff --check
+      - name: Commit generated outputs locally
         shell: bash
         run: |
-          if git diff --quiet -- year3/maths; then
-            echo 'Generated output is already current.'
-            exit 0
+          git config user.name 'SkillrHub Static Builder'
+          git config user.email 'actions@users.noreply.github.com'
+          git add \
+            year3/maths \
+            worksheets/year3/maths/teacher-slides/ac9m3*-teacher-slide.pdf
+          if git diff --cached --quiet; then
+            echo 'Generated outputs are already current.'
+          else
+            git commit -m 'Generate rich fixed Year 3 Maths slides [skip year3 build]'
           fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add year3/maths
-          git commit -m 'Generate static Year 3 Maths curriculum pages'
-          git push origin HEAD:${GITHUB_HEAD_REF}
+      - name: Run locked static architecture gate
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Capture representative visual previews
+        run: |
+          mkdir -p /tmp/year3-maths-preview
+          cp year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/teacher-slides/slide-02.png /tmp/year3-maths-preview/numbers.png
+          cp year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/teacher-slides/slide-02.png /tmp/year3-maths-preview/fractions.png
+          cp year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/teacher-slides/slide-02.png /tmp/year3-maths-preview/arrays.png
+          cp year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/teacher-slides/slide-02.png /tmp/year3-maths-preview/time-units.png
+          cp year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/teacher-slides/slide-02.png /tmp/year3-maths-preview/clock.png
+          cp year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/teacher-slides/slide-02.png /tmp/year3-maths-preview/angles.png
+          cp year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/teacher-slides/slide-02.png /tmp/year3-maths-preview/map.png
+          cp year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/teacher-slides/slide-02.png /tmp/year3-maths-preview/graph.png
+          cp year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/teacher-slides/slide-02.png /tmp/year3-maths-preview/chance.png
+          python3 -m http.server 8000 --directory . >/tmp/year3-static-server.log 2>&1 &
+          server_pid=$!
+          sleep 3
+          chrome="$(command -v google-chrome || command -v chromium || command -v chromium-browser)"
+          "$chrome" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --window-size=1440,1300 \
+            --screenshot=/tmp/year3-maths-preview/topic-clock.png \
+            http://127.0.0.1:8000/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/
+          "$chrome" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --window-size=1440,900 \
+            --screenshot=/tmp/year3-maths-preview/viewer-clock.png \
+            http://127.0.0.1:8000/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/teacher-slides/
+          kill "$server_pid" || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: year3-maths-rich-slide-preview
+          path: /tmp/year3-maths-preview/*.png
+          if-no-files-found: error
+          retention-days: 7
+      - name: Push validated generated commit
+        shell: bash
+        run: |
+          target="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/$target)" ]; then
+            git push origin HEAD:"$target"
+          else
+            echo 'No generated commit to push.'
+          fi
