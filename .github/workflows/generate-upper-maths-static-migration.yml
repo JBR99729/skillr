@@ -1,3 +1,4 @@
+# Static Curriculum Architecture v2 — upper-maths migration trigger
 name: Generate upper maths static migration
 
 on:
