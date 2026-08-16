@@ -1674,8 +1674,8 @@ svg,canvas,video,iframe { max-width:100%; }
 .scratchpad-panel header strong,.scratchpad-panel header small { display:block; }
 .scratchpad-panel header small { margin-top:2px; color:#68778c; font-size:.76rem; }
 .scratchpad-panel canvas { display:block; width:100%; min-height:240px; flex:1; border:1px solid #c8d6e8; border-radius:11px; background-color:#fff; background-image:linear-gradient(#e9eef5 1px,transparent 1px),linear-gradient(90deg,#e9eef5 1px,transparent 1px); background-size:24px 24px; touch-action:none; }
-.scratchpad-panel footer { display:flex; justify-content:center; margin-top:5px; padding-top:5px; border-top:1px solid #e2e9f2; }
-.scratchpad-panel footer button { min-width:72px; min-height:24px; padding:2px 8px; border:1px solid #b9cae2; border-radius:5px; background:#fff; color:#294466; font:inherit; font-size:.68rem; font-weight:800; cursor:pointer; }
+.scratchpad-actions { display:flex; justify-content:center; align-items:center; margin-top:5px; padding-top:5px; border-top:1px solid #e2e9f2; }
+.scratchpad-actions .scratchpad-clear { width:auto; min-width:72px; max-width:max-content; min-height:24px; flex:0 0 auto; align-self:center; padding:2px 12px; border:1px solid #b9cae2; border-radius:999px; background:#fff; color:#294466; font:inherit; font-size:.68rem; font-weight:800; cursor:pointer; }
 @media(min-width:700px){
   body.has-scratchpad-dock { padding-right:min(564px,calc(42vw + 24px)); transition:padding-right .2s ease; }
 }

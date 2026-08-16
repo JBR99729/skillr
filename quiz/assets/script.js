@@ -485,7 +485,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!/\/(?:math|maths)\//i.test(window.location.pathname)) return;
     const layer = document.createElement("div");
     layer.className = "scratchpad-layer";
-    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
+    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
     elements.quizScreen.insertAdjacentElement("afterend", layer);
     document.body.classList.add("has-scratchpad-dock");
     const canvas = layer.querySelector("canvas");
