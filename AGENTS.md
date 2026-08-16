@@ -28,6 +28,7 @@ Non-negotiable rules:
 - Prefer validated parameterised illustrations that can be reused safely across pages, slides, activities and questions.
 - Read `docs/canonical-lesson-specification-v1.1.md` before authoring a code.
 - This format is locked for every Skillr teacher slide in every year and subject: teacher slides are live 16:9 presentation resources for direct display from a laptop or tablet to a classroom screen. Show exactly one slide at a time. Place Previous, Next and a dynamic `current / total` indicator such as `1 / 12` in the page toolbar above the slide, never inside the teaching canvas. Fit the complete 16:9 slide within the available device viewport without distortion, horizontal overflow or unnecessary blank page space below it. Download, print and save-as-PDF features must be blocked; every slide must carry a repeated SkillrHub watermark and a footer containing its curriculum code. A teacher slide must not be released if any part of this format is missing.
+- Do not run Playwright tests as a routine, pre-commit or release requirement. Use focused source validators, DOM assertions and human review for teacher-slide release gates. Run Playwright only when the user explicitly requests it.
 
 
 

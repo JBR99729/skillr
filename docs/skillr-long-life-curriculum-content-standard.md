@@ -360,6 +360,8 @@ Where possible, validation should check:
 - approved component names and safe parameter ranges;
 - responsive overflow and label collisions.
 
+Playwright is not a routine, pre-commit or mandatory release check. Prefer focused source validators and deterministic DOM assertions for rendered structure, navigation, branding, overflow and blocked controls. Run Playwright only when explicitly requested by the user.
+
 ### Human review
 
 Automation cannot certify conceptual quality by itself. A reviewer must confirm that the models, explanations and activities teach the correct concept cleanly.
