@@ -26,6 +26,9 @@ def patch_links(topic,code):
         rf'/worksheets/foundation/science/teacher-slides/{code.lower()}-teacher-slide\.html',
         rf'/worksheets/foundation/science/teacher-slides/live\.html\?code={code}'
     ]
+    # The patterns above are normal Python regex strings after interpolation. Normalize
+    # doubled escapes so they match real URLs, not literal backslashes.
+    patterns=[p.replace('\\\\.','\\.').replace('\\\\?','\\?') for p in patterns]
     for p in patterns:
         text=re.sub(p,'teacher-slides/',text,flags=re.I)
     f.write_text(text,encoding='utf-8')
@@ -50,18 +53,18 @@ for code in CODES:
     patch_links(topic,code)
     pages+=len(generated)
 
-# Patch Foundation Science curriculum index if it contains old slide routes.
 idx=ROOT/'foundation'/'curriculum'/'science'/'index.html'
 if idx.exists():
     text=idx.read_text(encoding='utf-8')
     for code in CODES:
         topic=topic_dir_for(code)
         slug=topic.name
-        text=re.sub(rf'/worksheets/foundation/science/teacher-slides/{code.lower()}-teacher-slide\.html',f'/foundation/science/{slug}/teacher-slides/',text,flags=re.I)
-        text=re.sub(rf'/worksheets/foundation/science/teacher-slides/live\.html\?code={code}',f'/foundation/science/{slug}/teacher-slides/',text,flags=re.I)
+        html_pat=rf'/worksheets/foundation/science/teacher-slides/{code.lower()}-teacher-slide\.html'.replace('\\\\.','\\.')
+        live_pat=rf'/worksheets/foundation/science/teacher-slides/live\.html\?code={code}'.replace('\\\\.','\\.').replace('\\\\?','\\?')
+        text=re.sub(html_pat,f'/foundation/science/{slug}/teacher-slides/',text,flags=re.I)
+        text=re.sub(live_pat,f'/foundation/science/{slug}/teacher-slides/',text,flags=re.I)
     idx.write_text(text,encoding='utf-8')
 
-# Assert the exact legacy route family has been removed from all Foundation Science topic pages.
 legacy=re.compile(r'/worksheets/foundation/science/teacher-slides/(?:live\.html|ac9sf[a-z0-9]+-teacher-slide\.html)',re.I)
 for f in TOPIC_ROOT.glob('*/index.html'):
     text=f.read_text(encoding='utf-8',errors='ignore')
