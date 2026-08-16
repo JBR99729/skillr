@@ -1,0 +1,45 @@
+name: Generate Foundation Science fixed slides
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_foundation_science_fixed_slides.py'
+      - '.github/workflows/generate-foundation-science-fixed-slides.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - name: Install PDF renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Generate protected fixed viewers
+        run: python3 scripts/migrate_foundation_science_fixed_slides.py
+      - name: Validate static architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Verify no old Foundation Science slide links remain
+        run: |
+          if grep -R -E 'worksheets/foundation/science/teacher-slides/(live\.html|ac9sf[a-z0-9]+-teacher-slide\.html)' foundation/science foundation/curriculum/science; then
+            echo 'Old Foundation Science teacher-slide route remains.'
+            exit 1
+          fi
+      - name: Commit generated output
+        shell: bash
+        run: |
+          if git diff --quiet -- foundation/science foundation/curriculum/science/index.html; then
+            echo 'Generated output is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation/science foundation/curriculum/science/index.html
+          git commit -m 'Generate fixed Foundation Science teacher slide viewers'
+          git push origin HEAD:${GITHUB_HEAD_REF}
