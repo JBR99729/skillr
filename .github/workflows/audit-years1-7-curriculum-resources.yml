@@ -1,4 +1,5 @@
 name: Audit Years 1-7 curriculum resources
+# Permanent architecture gate: every Years 1-7 curriculum code must remain static and display-only.
 
 on:
   pull_request:
