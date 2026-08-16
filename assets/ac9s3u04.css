@@ -4,22 +4,26 @@
 .ac9s3u04-deck{margin:0;background:#dce9eb;color:var(--ink);font-family:"Avenir Next","Trebuchet MS",sans-serif;overflow-x:hidden}.ac9s3u04-deck .nav{position:sticky;top:0;z-index:30;display:flex;align-items:center;gap:8px;min-height:60px;padding:8px 16px;background:var(--navy)}.ac9s3u04-deck .nav a,.ac9s3u04-deck .nav button{padding:9px 12px;border:1px solid #ffffff80;border-radius:6px;background:transparent;color:#fff;font:700 14px/1.2 inherit;text-decoration:none}.deck{width:100%;padding:8px}.slide{position:relative;display:grid;grid-template-columns:minmax(0,1.4fr) minmax(240px,.6fr);grid-template-rows:auto 1fr auto;gap:14px;width:min(100%,calc((100vh - 92px)*16/9));aspect-ratio:16/9;padding:clamp(24px,3vw,48px) clamp(28px,4vw,62px) clamp(38px,4vw,52px);overflow:hidden;background:linear-gradient(145deg,#fff 0 72%,#edf8f8 72%);box-shadow:0 12px 35px #17396830}.slide-kicker,.slide h2{grid-column:1/-1}.slide-kicker{margin:0;color:var(--blue);font-size:clamp(11px,1.1vw,16px);font-weight:900;text-transform:uppercase}.slide h2{margin:0;color:var(--navy);font-size:clamp(26px,3.2vw,48px);letter-spacing:0}.slide .matter-model{align-self:start;margin:0;padding:clamp(10px,1.4vw,18px);font-size:clamp(10px,1vw,15px)}.slide .student-prompt{align-self:start;padding:clamp(14px,2vw,24px);border-left:7px solid var(--gold);background:#fff8e5;font-size:clamp(15px,1.6vw,24px)}.slide .student-prompt p{margin:.4em 0 0}.key-text{align-self:end;margin:0;padding:12px 12px 12px 32px;background:#e9f5f7;font-size:clamp(12px,1.25vw,19px);font-weight:800}.slide>.checkpoint{align-self:end;margin:0;font-size:clamp(10px,.9vw,14px)}.slide>.checkpoint p{margin:.3em 0}.teacher-notes{position:absolute;z-index:25;right:18px;bottom:32px;max-width:min(520px,65%);padding:8px 12px;border:1px solid #9bb8c0;border-radius:6px;background:#fff}.teacher-notes summary{cursor:pointer;font-weight:800;color:var(--navy)}.teacher-notes dl{display:grid;grid-template-columns:110px 1fr;gap:5px 10px;margin:10px 0 0;font-size:12px}.teacher-notes dt{font-weight:900}.teacher-notes dd{margin:0}.slide .state-panel{padding:8px}.slide .container{height:70px}.slide .bag{width:125px;height:105px;padding-top:73px}.slide .ice{top:20px;left:42px;width:40px;height:40px}.slide .application-grid article{padding:9px}.slide .object-example{padding:9px}
 @media(max-width:720px){.state-compare{grid-template-columns:1fr}.state-compare figcaption{grid-column:1}.ac9s3u04-deck .nav>a:not(:first-child){display:none}.slide{grid-template-columns:1fr 180px;padding:20px 24px 38px}.teacher-notes{max-width:80%}.slide .matter-model figcaption{display:none}}
 
+.matter-model .container{width:auto;max-width:none;height:110px;min-height:0;margin:0;padding:0}
+@media(max-width:720px){.matter-model .container{height:76px}}
+
 /* The live frame can be narrow even on a desktop when viewport height is limited. */
 .ac9s3u04-deck .deck{container-type:inline-size}
-.ac9s3u04-deck .slide{grid-template-columns:minmax(0,1.35fr) minmax(0,.85fr);grid-template-rows:auto auto minmax(0,1fr) auto;gap:10px;padding:clamp(18px,2.5vw,38px) clamp(22px,3.2vw,48px) clamp(34px,3.2vw,44px)}
-.ac9s3u04-deck .slide h2{line-height:1.05}
-.ac9s3u04-deck .slide .matter-model{min-width:0;min-height:0;align-self:stretch;padding:clamp(7px,1vw,13px);overflow:hidden}
+.ac9s3u04-deck .slide{grid-template-columns:minmax(0,1.35fr) minmax(0,.85fr);grid-template-rows:auto auto auto auto;align-content:start;gap:10px;padding:clamp(18px,2.5vw,38px) clamp(22px,3.2vw,48px) clamp(34px,3.2vw,44px)}
+.ac9s3u04-deck .slide-kicker{font-size:clamp(9px,.8vw,13px)}
+.ac9s3u04-deck .slide h2{font-size:clamp(20px,2.5vw,36px);line-height:1.05}
+.ac9s3u04-deck .slide .matter-model{min-width:0;min-height:0;align-self:stretch;padding:clamp(7px,1vw,13px);font-size:clamp(8px,.8vw,12px);overflow:hidden}
 .ac9s3u04-deck .slide .matter-model figcaption{margin-top:6px}
-.ac9s3u04-deck .slide .student-prompt{align-self:stretch;padding:clamp(9px,1.3vw,17px)}
-.ac9s3u04-deck .slide .key-text{align-self:stretch;padding:8px 9px 8px 27px}
-.ac9s3u04-deck .slide>.checkpoint{align-self:end;padding:6px 8px}
+.ac9s3u04-deck .slide .student-prompt{align-self:start;padding:clamp(9px,1.3vw,17px);font-size:clamp(11px,1.2vw,17px);line-height:1.25}
+.ac9s3u04-deck .slide .key-text{align-self:start;padding:8px 9px 8px 27px;font-size:clamp(10px,1vw,15px);line-height:1.25}
+.ac9s3u04-deck .slide>.checkpoint{align-self:end;padding:6px 8px;font-size:clamp(8px,.7vw,11px)}
 .ac9s3u04-deck .teacher-notes{right:10px;bottom:26px;padding:5px 8px}
 .ac9s3u04-deck .teacher-notes summary{font-size:10px}
 
 @container (max-width:700px){
 	.ac9s3u04-deck .slide{grid-template-columns:minmax(0,1fr) minmax(132px,.72fr);gap:5px;padding:11px 16px 27px}
 	.ac9s3u04-deck .slide-kicker{font-size:7px;line-height:1.1}
-	.ac9s3u04-deck .slide h2{font-size:17px;line-height:1}
+	.ac9s3u04-deck .slide h2{font-size:15px;line-height:1.05}
 	.ac9s3u04-deck .slide .matter-model{padding:4px;font-size:7px}
 	.ac9s3u04-deck .slide .matter-model figcaption{display:none}
 	.ac9s3u04-deck .slide .object-grid,.ac9s3u04-deck .slide .application-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:3px}
@@ -35,15 +39,15 @@
 	.ac9s3u04-deck .slide .bag-water{height:20px}
 	.ac9s3u04-deck .slide .state-node{padding:7px;border-width:2px;font-size:9px}
 	.ac9s3u04-deck .slide .cycle-arrows p{margin:2px;font-size:7px}
-	.ac9s3u04-deck .slide .student-prompt{padding:5px;border-left-width:3px;font-size:9px;line-height:1.15}
-	.ac9s3u04-deck .slide .key-text{padding:5px 5px 5px 18px;font-size:8px;line-height:1.15}
+	.ac9s3u04-deck .slide .student-prompt{padding:5px;border-left-width:3px;font-size:8px;line-height:1.15}
+	.ac9s3u04-deck .slide .key-text{padding:5px 5px 5px 18px;font-size:7px;line-height:1.15}
 	.ac9s3u04-deck .slide>.checkpoint{padding:3px 5px;font-size:7px;line-height:1.15}
 	.ac9s3u04-deck .slide>.checkpoint p{display:none}
 	.ac9s3u04-deck .teacher-notes{right:7px;bottom:22px;max-width:70%;padding:3px 5px}
 	.ac9s3u04-deck .teacher-notes summary{font-size:7px}
 	.ac9s3u04-deck .teacher-notes dl{grid-template-columns:65px 1fr;gap:2px 4px;font-size:7px}
 	.ac9s3u04-deck .slide[data-slide="11"]>.matter-model{display:none}
-	.ac9s3u04-deck .slide[data-slide="11"]{grid-template-rows:auto auto minmax(0,1fr) auto}
+	.ac9s3u04-deck .slide[data-slide="11"]{grid-template-rows:auto auto auto auto}
 	.ac9s3u04-deck .slide[data-slide="11"]>.student-prompt{grid-column:1}
 	.ac9s3u04-deck .slide[data-slide="11"]>.key-text{grid-column:2}
 }
