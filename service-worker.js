@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v16";
-const STATIC_CACHE_NAME = "skillrhub-static-v14";
+const CACHE_NAME = "skillrhub-pwa-v17";
+const STATIC_CACHE_NAME = "skillrhub-static-v15";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -62,8 +62,18 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Teacher slides are live-display resources: always require the network and never serve a cached slide page.
-  if (request.mode === "navigate" && url.origin === self.location.origin && url.pathname.includes("/teacher-slides/")) {
+  const rebuiltCurriculumRoutes = [
+    "/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/",
+    "/year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/",
+    "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/"
+  ];
+
+  // Rebuilt curriculum and teacher decks are live resources: never serve a stale page shell.
+  if (
+    request.mode === "navigate" &&
+    url.origin === self.location.origin &&
+    (url.pathname.includes("/teacher-slides/") || url.pathname.includes("/teacher-deck/") || rebuiltCurriculumRoutes.includes(url.pathname))
+  ) {
     event.respondWith(fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html")));
     return;
   }
@@ -76,6 +86,10 @@ self.addEventListener("fetch", (event) => {
       request.destination === "script" &&
       (
       url.pathname === "/pwa-register.js" ||
+      url.pathname === "/assets/ac9s3u04-lesson.js" ||
+      url.pathname === "/assets/ac9s3u04-render.js" ||
+      url.pathname === "/assets/lower-materials-lessons.js" ||
+      url.pathname === "/assets/lower-materials-render.js" ||
       url.pathname === "/share-button.js" ||
       url.pathname === "/assets/home-search.js" ||
       url.pathname === "/assets/progress-store.js" ||

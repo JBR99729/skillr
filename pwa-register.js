@@ -180,7 +180,7 @@
     [/^\/year3\/maths\/ac9m3/i, [...year3MathsData, "/assets/year3-maths-render.js?v=2"]],
     [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/(practice|test)\/?$/i, [...year3MathsData, "/assets/year3-maths-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/worksheet\/?$/i, [...year3MathsData, "/assets/year3-maths-worksheet-page.js?v=2"]],
-    [/^\/year3\/science\/ac9s3/i, [...year3ScienceData, "/assets/year3-subject-render.js?v=2"]],
+    [/^\/year3\/science\/(?!ac9s3u04(?:-|\/))ac9s3/i, [...year3ScienceData, "/assets/year3-subject-render.js?v=2"]],
     [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/(practice|test)\/?$/i, [...year3ScienceData, "/assets/year3-subject-quick-read.js?v=2"]],
     [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/worksheet\/?$/i, [...year3ScienceData, "/assets/year3-subject-worksheet-page.js?v=2"]],
     [/^\/year3\/english\/ac9e3/i, [...year3EnglishData, "/assets/year3-subject-render.js?v=2"]],
