@@ -257,11 +257,16 @@
       certificateWindow.matchMedia("print").addEventListener("change", (event) => {
         if (!event.matches) closeCertificate();
       }, { once: true });
-      certificateWindow.addEventListener("load", () => {
+      let printStarted = false;
+      const openPrintDialog = () => {
+        if (printStarted || certificateWindow.closed) return;
+        printStarted = true;
         certificateWindow.focus();
         certificateWindow.print();
-      }, { once: true });
+      };
+      certificateWindow.addEventListener("load", openPrintDialog, { once: true });
       certificateWindow.document.close();
+      window.setTimeout(openPrintDialog, 150);
       byId("dashboardToolMessage").textContent = "Progress certificate prepared with a SkillrHub QR code.";
     } catch (error) {
       certificateWindow.close();
