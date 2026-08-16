@@ -22,12 +22,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Validate authored Foundation English source modules before migration
+        run: node scripts/validate_foundation_english_topic_modules.mjs
       - name: Generate Foundation English static pages and fixed slides
         run: node scripts/migrate_foundation_english_static.mjs
-      - name: Validate generated architecture
+      - name: Validate generated static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
-      - name: Preserve existing Foundation English semantic quality gates
-        run: node scripts/validate_foundation_english_topic_modules.mjs
       - name: Commit generated files to migration branch
         shell: bash
         run: |
