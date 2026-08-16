@@ -1,0 +1,28 @@
+name: Audit F-10 curriculum completeness
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/audit_f10_curriculum_completeness.py'
+      - '.github/workflows/audit-f10-curriculum-completeness.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit every indexed F-10 curriculum code
+        run: python3 scripts/audit_f10_curriculum_completeness.py
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: f10-curriculum-completeness-audit
+          path: tmp/f10-curriculum-completeness-audit.json
+          if-no-files-found: error
