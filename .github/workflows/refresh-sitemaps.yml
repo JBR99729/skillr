@@ -6,6 +6,9 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/generate_sitemap.py'
+      - 'scripts/clean_sitemap_seo.py'
+      - 'scripts/validate_seo_indexability.py'
+      - '.github/workflows/refresh-sitemaps.yml'
   workflow_dispatch:
 
 permissions:
@@ -28,7 +31,8 @@ jobs:
           python-version: '3.x'
       - name: Generate sitemap index and child sitemaps
         run: python3 scripts/generate_sitemap.py
-
+      - name: Clean human sitemap SEO
+        run: python3 scripts/clean_sitemap_seo.py
       - name: Validate public page indexability
         run: python3 scripts/validate_seo_indexability.py
       - name: Validate XML
