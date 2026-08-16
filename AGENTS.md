@@ -10,7 +10,7 @@ Protect the core user journey for every curriculum code: **Topic Guide → Teach
 
 Existing mass-build and migration workflows are maintenance tools, not permission to regenerate the site. Do not run, introduce or expand broad generators that rewrite all topic pages, teacher decks, worksheets or practice content unless the owner explicitly asks for that site-wide operation. Prefer the smallest direct patch to the affected curriculum code(s).
 
-SEO is also in light-touch maintenance mode. Preserve the current titles, descriptions, canonicals, sitemap strategy and keyword architecture unless a specific page has a verified defect or the owner explicitly requests an SEO change.
+SEO is also in light-touch maintenance mode. Preserve the current titles, descriptions, canonicals, sitemap strategy and keyword architecture unless a specific page has a verified defect or the owner explicitly requests an SEO change. Weekly SEO cleanup should be evidence-led from Search Console: prioritise queries/pages ranking worse than position 30, improve only the relevant individual pages, and do not use that cleanup as a reason for site-wide rewrites.
 
 ## Curriculum topic guides and teacher slides
 
