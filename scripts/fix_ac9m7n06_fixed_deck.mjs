@@ -11,7 +11,7 @@ const original=fs.readFileSync(deckFile,'utf8');
 
 const decode=s=>String(s||'').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&ne;|≠/g,'≠').replace(/&times;|×/g,'×').replace(/&divide;|÷/g,'÷').replace(/&rarr;|→/g,'→').replace(/&ndash;/g,'–').replace(/&mdash;/g,'—');
 const strip=s=>decode(String(s||'').replace(/<br\s*\/?>/gi,' ').replace(/<[^>]+>/g,' ')).replace(/\s+/g,' ').trim();
-const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
+const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&apos;'}[c]));
 function wrap(text,max=70){const words=String(text||'').split(/\s+/).filter(Boolean),out=[];let line='';for(const w of words){const n=line?`${line} ${w}`:w;if(n.length>max&&line){out.push(line);line=w}else line=n}if(line)out.push(line);return out;}
 function chunks(a,n){const out=[];for(let i=0;i<a.length;i+=n)out.push(a.slice(i,i+n));return out;}
 
@@ -28,7 +28,7 @@ for(const section of sections){
   }
   if(!blocks.length){const t=strip(body);if(t)blocks.push(t);}
   const lines=[];
-  for(const block of blocks){const prefix=/^<li/i.test(block)?'• ':'';lines.push(...wrap(prefix+block,68));}
+  for(const block of blocks){lines.push(...wrap(block,68));}
   const groups=chunks(lines.length?lines:[''],12);
   groups.forEach((g,i)=>pages.push({title:i?`${title} — continued`:title,lines:g}));
 }
@@ -49,7 +49,7 @@ fs.writeFileSync(deckFile,`<!doctype html><html lang="en-AU"><head><meta charset
 
 let topic=fs.readFileSync(topicFile,'utf8');
 topic=topic.replace(/<p>The original one-page PDF remains\. The expanded deck adds explicit instruction, worked examples, strategy comparisons, real-life contexts, misconceptions and an exit ticket\.<\/p>/i,'<p>Open the complete fixed teaching sequence with explicit instruction, worked examples, strategy comparisons, real-life contexts, misconceptions and an exit ticket.</p>');
-topic=topic.replace(/<a class="curriculum-button" href="teacher-slides\/"[^>]*>[^<]*<\/a>/gi,'');
+topic=topic.replace(/<a\b[^<]*href=["']teacher-slides\/["'][\s\S]*?<\/a>/gi,'');
 topic=topic.replace(/>Teacher deck</gi,'>Teacher Slides<');
 topic=topic.replace(/Open expanded teacher deck/gi,'Open Teacher Slides');
 fs.writeFileSync(topicFile,topic);
