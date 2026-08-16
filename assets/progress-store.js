@@ -152,6 +152,10 @@
     return write(current);
   }
 
+  function reset() {
+    return write(blank());
+  }
+
   function markActive() { lastActivity = Date.now(); }
   ["pointerdown", "keydown", "scroll", "touchstart"].forEach((eventName) => addEventListener(eventName, markActive, { passive: true }));
   setInterval(() => {
@@ -165,5 +169,5 @@
     }
   }, SAVE_INTERVAL_MS);
 
-  window.SkillrProgress = { read, setName, setAvatar, recordAttempt, exportBackup, importBackup };
+  window.SkillrProgress = { read, setName, setAvatar, recordAttempt, exportBackup, importBackup, reset };
 })();

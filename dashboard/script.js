@@ -200,82 +200,6 @@
     window.location.href = warmupUrl();
   });
 
-  function roundedRect(context, x, y, width, height, radius) {
-    context.beginPath();
-    context.moveTo(x + radius, y);
-    context.lineTo(x + width - radius, y);
-    context.quadraticCurveTo(x + width, y, x + width, y + radius);
-    context.lineTo(x + width, y + height - radius);
-    context.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
-    context.lineTo(x + radius, y + height);
-    context.quadraticCurveTo(x, y + height, x, y + height - radius);
-    context.lineTo(x, y + radius);
-    context.quadraticCurveTo(x, y, x + radius, y);
-    context.closePath();
-    context.fill();
-  }
-
-  byId("saveSnapshot").addEventListener("click", () => {
-    const state = window.SkillrProgress.read();
-    const attempts = state.attempts.filter(inSelectedRange);
-    const questions = attempts.reduce((sum, item) => sum + (Number(item.total) || 0), 0);
-    const correct = attempts.reduce((sum, item) => sum + (Number(item.score) || 0), 0);
-    const accuracy = questions ? Math.round(correct / questions * 100) : 0;
-    const skills = new Set(attempts.map((item) => item.curriculumCode || item.quizTitle).filter(Boolean));
-    const drills = attempts.filter((item) => item.mode === "daily-drill").length;
-    const canvas = document.createElement("canvas");
-    canvas.width = 1200;
-    canvas.height = 675;
-    const context = canvas.getContext("2d");
-    const gradient = context.createLinearGradient(0, 0, 1200, 675);
-    gradient.addColorStop(0, "#eef6ff");
-    gradient.addColorStop(1, "#f3ecff");
-    context.fillStyle = gradient;
-    context.fillRect(0, 0, 1200, 675);
-    context.fillStyle = "#17335f";
-    context.font = "800 34px system-ui, sans-serif";
-    context.fillText("SkillrHub Progress Snapshot", 70, 82);
-    context.font = "700 48px system-ui, sans-serif";
-    context.fillText(state.profile.name || "Learner", 70, 150);
-    context.font = "500 22px system-ui, sans-serif";
-    context.fillStyle = "#52647d";
-    context.fillText(`Saved locally • ${new Date().toLocaleDateString("en-AU")}`, 70, 188);
-    const cards = [
-      ["Questions", questions], ["Accuracy", `${accuracy}%`],
-      ["Skills covered", skills.size], ["Daily drills", drills]
-    ];
-    cards.forEach(([label, value], index) => {
-      const x = 70 + index * 270;
-      context.fillStyle = "rgba(255,255,255,.9)";
-      roundedRect(context, x, 245, 235, 150, 24);
-      context.fillStyle = "#17335f";
-      context.font = "800 42px system-ui, sans-serif";
-      context.fillText(String(value), x + 24, 310);
-      context.fillStyle = "#66758a";
-      context.font = "600 19px system-ui, sans-serif";
-      context.fillText(label, x + 24, 355);
-    });
-    context.fillStyle = "#17335f";
-    context.font = "700 22px system-ui, sans-serif";
-    context.fillText("Recent learning", 70, 470);
-    context.fillStyle = "#52647d";
-    context.font = "500 19px system-ui, sans-serif";
-    const recent = [...attempts].sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt)).slice(0, 3);
-    if (!recent.length) context.fillText("No completed activities in this date range yet.", 70, 515);
-    recent.forEach((item, index) => {
-      const title = activityTitle(item).slice(0, 82);
-      context.fillText(`• ${title} — ${item.percentage}%`, 70, 515 + index * 38);
-    });
-    context.fillStyle = "#2457d6";
-    context.font = "700 18px system-ui, sans-serif";
-    context.fillText("skillrhub.com • No learner account required", 70, 630);
-    const link = document.createElement("a");
-    link.download = `SkillrHub-Progress-${new Date().toISOString().slice(0, 10)}.png`;
-    link.href = canvas.toDataURL("image/png");
-    link.click();
-    byId("dashboardToolMessage").textContent = "Progress snapshot saved to this device.";
-  });
-
   async function dashboardQrDataUrl(url) {
     if (!window.QRCode) {
       await new Promise((resolve, reject) => {
@@ -314,6 +238,7 @@
       const accuracy = questions ? Math.round(correct / questions * 100) : 0;
       const skills = new Set(attempts.map((item) => item.curriculumCode || item.quizTitle).filter(Boolean));
       const tests = attempts.filter((item) => item.mode === "test").length;
+      const activeTime = formatTime(state.activeSeconds);
       const recent = [...attempts].sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt)).slice(0, 3);
       const qrDataUrl = await dashboardQrDataUrl("https://skillrhub.com/");
       const issuedDate = new Date().toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
@@ -322,8 +247,8 @@
         : "<li><span>No completed activities in this date range yet</span><strong>-</strong></li>";
       certificateWindow.document.open();
       certificateWindow.document.write(`<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>SkillrHub Progress Certificate</title><style>
-        @page{size:A4 landscape;margin:10mm}*{box-sizing:border-box}body{margin:0;background:#edf3f8;color:#17335f;font-family:Georgia,"Times New Roman",serif}.sheet{position:relative;width:277mm;min-height:190mm;margin:10mm auto;padding:13mm 15mm 11mm;overflow:hidden;border:2px solid #173968;background:#fff;box-shadow:0 12px 36px #17396822}.sheet:before{content:"";position:absolute;inset:5mm;border:1px solid #cf9d35;pointer-events:none}.header{position:relative;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #cad6e5;padding-bottom:5mm}.brand{display:flex;align-items:center;gap:4mm;font-family:Arial,sans-serif;font-size:24px;font-weight:900}.mark{display:grid;width:14mm;height:14mm;place-items:center;border-radius:4mm;background:#173968;color:#fff;font-size:24px}.brand small{display:block;color:#66758a;font-size:9px;letter-spacing:.16em;text-transform:uppercase}.date{color:#52647d;font:12px Arial,sans-serif;text-align:right}.main{position:relative;text-align:center;padding:7mm 0 4mm}.eyebrow{margin:0;color:#9a6914;font:800 10px Arial,sans-serif;letter-spacing:.24em;text-transform:uppercase}h1{margin:2mm 0 3mm;font-size:32px;font-weight:normal}h2{margin:0;color:#173968;font-size:29px}.recognition{margin:2mm 0 0;color:#52647d;font:15px Arial,sans-serif}.metrics{position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:4mm;margin:4mm 0}.metric{padding:4mm;border:1px solid #cad6e5;background:#f7faff;text-align:center}.metric strong{display:block;color:#173968;font:900 24px Arial,sans-serif}.metric span{color:#52647d;font:700 9px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase}.details{position:relative;display:grid;grid-template-columns:1fr 62mm;gap:6mm}.learning{padding:4mm 5mm;border:1px solid #cad6e5}.learning h3{margin:0 0 2mm;font:800 11px Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em}.learning ul{list-style:none;margin:0;padding:0}.learning li{display:grid;grid-template-columns:1fr auto;gap:5mm;padding:1.5mm 0;border-top:1px solid #e4eaf1;font:11px Arial,sans-serif}.learning li:first-child{border-top:0}.share{display:grid;grid-template-columns:24mm 1fr;gap:4mm;align-items:center;padding:4mm;border:1px solid #cf9d35;background:#fffaf0}.share img{width:24mm;height:24mm}.share strong,.share span{display:block;font-family:Arial,sans-serif}.share strong{margin-bottom:1.5mm;font-size:12px}.share span{color:#52647d;font-size:9.5px;line-height:1.4}.footer{position:relative;display:flex;justify-content:space-between;margin-top:4mm;padding-top:3mm;border-top:1px solid #cad6e5;color:#52647d;font:9px Arial,sans-serif}.footer strong{color:#173968}.screen-note{text-align:center;font:13px Arial,sans-serif}@media print{body{background:#fff}.sheet{width:auto;min-height:190mm;margin:0;box-shadow:none}.screen-note{display:none}}
-      </style></head><body><section class="sheet"><header class="header"><div class="brand"><span class="mark">S</span><span>SkillrHub<small>Learn &amp; Grow</small></span></div><div class="date">Presented on<br><strong>${issuedDate}</strong></div></header><main class="main"><p class="eyebrow">Certificate of Learning Progress</p><h1>This certificate recognises</h1><h2>${escapeHtml(state.profile.name || "Learner")}</h2><p class="recognition">for committed learning and continued growth with SkillrHub.</p></main><section class="metrics"><div class="metric"><strong>${questions}</strong><span>Questions</span></div><div class="metric"><strong>${accuracy}%</strong><span>Accuracy</span></div><div class="metric"><strong>${skills.size}</strong><span>Skills covered</span></div><div class="metric"><strong>${tests}</strong><span>Tests completed</span></div></section><section class="details"><div class="learning"><h3>Recent learning</h3><ul>${recentMarkup}</ul></div><div class="share">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to SkillrHub">` : ""}<div><strong>Share free learning</strong><span>Scan to visit skillrhub.com. Share SkillrHub with families and teachers looking for free Australian Curriculum learning resources.</span></div></div></section><footer class="footer"><span><strong>SkillrHub</strong> - Free F-10 Australian Curriculum learning</span><span>skillrhub.com - No learner login required</span></footer></section><p class="screen-note">Choose Print or Save as PDF in the print dialog.</p></body></html>`);
+        @page{size:A4 landscape;margin:10mm}*{box-sizing:border-box}body{margin:0;background:#edf3f8;color:#17335f;font-family:Georgia,"Times New Roman",serif}.sheet{position:relative;width:277mm;min-height:190mm;margin:10mm auto;padding:13mm 15mm 11mm;overflow:hidden;border:2px solid #173968;background:#fff;box-shadow:0 12px 36px #17396822}.sheet:before{content:"";position:absolute;inset:5mm;border:1px solid #cf9d35;pointer-events:none}.header{position:relative;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #cad6e5;padding-bottom:5mm}.brand{display:flex;align-items:center;gap:4mm;font-family:Arial,sans-serif;font-size:24px;font-weight:900}.mark{display:grid;width:14mm;height:14mm;place-items:center;border-radius:4mm;background:#173968;color:#fff;font-size:24px}.brand small{display:block;color:#66758a;font-size:9px;letter-spacing:.16em;text-transform:uppercase}.date{color:#52647d;font:12px Arial,sans-serif;text-align:right}.main{position:relative;text-align:center;padding:7mm 0 4mm}.eyebrow{margin:0;color:#9a6914;font:800 10px Arial,sans-serif;letter-spacing:.24em;text-transform:uppercase}h1{margin:2mm 0 3mm;font-size:32px;font-weight:normal}h2{margin:0;color:#173968;font-size:29px}.recognition{margin:2mm 0 0;color:#52647d;font:15px Arial,sans-serif}.metrics{position:relative;display:grid;grid-template-columns:repeat(5,1fr);gap:3mm;margin:4mm 0}.metric{padding:4mm 2mm;border:1px solid #cad6e5;background:#f7faff;text-align:center}.metric strong{display:block;color:#173968;font:900 24px Arial,sans-serif}.metric span{color:#52647d;font:700 9px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase}.details{position:relative;display:grid;grid-template-columns:1fr 62mm;gap:6mm}.learning{padding:4mm 5mm;border:1px solid #cad6e5}.learning h3{margin:0 0 2mm;font:800 11px Arial,sans-serif;text-transform:uppercase;letter-spacing:.1em}.learning ul{list-style:none;margin:0;padding:0}.learning li{display:grid;grid-template-columns:1fr auto;gap:5mm;padding:1.5mm 0;border-top:1px solid #e4eaf1;font:11px Arial,sans-serif}.learning li:first-child{border-top:0}.share{display:grid;grid-template-columns:24mm 1fr;gap:4mm;align-items:center;padding:4mm;border:1px solid #cf9d35;background:#fffaf0}.share img{width:24mm;height:24mm}.share strong,.share span{display:block;font-family:Arial,sans-serif}.share strong{margin-bottom:1.5mm;font-size:12px}.share span{color:#52647d;font-size:9.5px;line-height:1.4}.footer{position:relative;display:flex;justify-content:space-between;margin-top:4mm;padding-top:3mm;border-top:1px solid #cad6e5;color:#52647d;font:9px Arial,sans-serif}.footer strong{color:#173968}.screen-note{text-align:center;font:13px Arial,sans-serif}@media print{body{background:#fff}.sheet{width:auto;min-height:190mm;margin:0;box-shadow:none}.screen-note{display:none}}
+      </style></head><body><section class="sheet"><header class="header"><div class="brand"><span class="mark">S</span><span>SkillrHub<small>Learn &amp; Grow</small></span></div><div class="date">Presented on<br><strong>${issuedDate}</strong></div></header><main class="main"><p class="eyebrow">Certificate of Learning Progress</p><h1>This certificate recognises</h1><h2>${escapeHtml(state.profile.name || "Learner")}</h2><p class="recognition">for committed learning and continued growth with SkillrHub.</p></main><section class="metrics"><div class="metric"><strong>${activeTime}</strong><span>Active learning time</span></div><div class="metric"><strong>${questions}</strong><span>Questions</span></div><div class="metric"><strong>${accuracy}%</strong><span>Accuracy</span></div><div class="metric"><strong>${skills.size}</strong><span>Skills covered</span></div><div class="metric"><strong>${tests}</strong><span>Tests completed</span></div></section><section class="details"><div class="learning"><h3>Recent learning</h3><ul>${recentMarkup}</ul></div><div class="share">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to SkillrHub">` : ""}<div><strong>Share free learning</strong><span>Scan to visit skillrhub.com. Share SkillrHub with families and teachers looking for free Australian Curriculum learning resources.</span></div></div></section><footer class="footer"><span><strong>SkillrHub</strong> - Free F-10 Australian Curriculum learning</span><span>skillrhub.com - No learner login required</span></footer></section><p class="screen-note">Choose Print or Save as PDF in the print dialog.</p></body></html>`);
       certificateWindow.addEventListener("load", () => {
         certificateWindow.focus();
         certificateWindow.print();
@@ -338,6 +263,35 @@
   }
 
   byId("printScores").addEventListener("click", () => { void printProgressCertificate(); });
+
+  function closeResetPanel() {
+    byId("resetPanel").hidden = true;
+    byId("openReset").setAttribute("aria-expanded", "false");
+    byId("resetCode").value = "";
+    byId("resetMessage").textContent = "";
+  }
+
+  byId("openReset").addEventListener("click", () => {
+    const opening = byId("resetPanel").hidden;
+    byId("resetPanel").hidden = !opening;
+    byId("openReset").setAttribute("aria-expanded", String(opening));
+    if (opening) byId("resetCode").focus();
+  });
+  byId("cancelReset").addEventListener("click", closeResetPanel);
+  byId("confirmReset").addEventListener("click", () => {
+    if (byId("resetCode").value !== "1234") {
+      byId("resetMessage").textContent = "Incorrect reset code. Progress has not been changed.";
+      byId("resetCode").select();
+      return;
+    }
+    window.SkillrProgress.reset();
+    closeResetPanel();
+    byId("dashboardToolMessage").textContent = "Dashboard reset. A fresh daily practice record has started.";
+  });
+  byId("resetCode").addEventListener("keydown", (event) => {
+    if (event.key === "Enter") byId("confirmReset").click();
+    if (event.key === "Escape") closeResetPanel();
+  });
 
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
   byId("loadProgress").addEventListener("change",async(event)=>{ try { await window.SkillrProgress.importBackup(event.target.files[0]); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; });

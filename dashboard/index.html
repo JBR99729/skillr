@@ -60,13 +60,28 @@
       <button id="quickWarmup" class="dashboard-tool-button dashboard-tool-button--warmup" type="button">
         <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#dice"></use></svg></span><span><strong>Quick Class Warm-Up</strong><small>Open one question based on recent practice</small></span>
       </button>
-      <button id="saveSnapshot" class="dashboard-tool-button" type="button">
-        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#camera"></use></svg></span><span><strong>Save Progress Snapshot</strong><small>Download a private image for a teacher or portfolio</small></span>
-      </button>
       <button id="printScores" class="dashboard-tool-button" type="button">
-        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#print"></use></svg></span><span><strong>Print Progress Certificate</strong><small>Create a branded certificate with results and a QR code</small></span>
+        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#print"></use></svg></span><span><strong>Print Latest Scores</strong><small>Create a branded certificate with results, time spent and QR code</small></span>
+      </button>
+      <button id="openReset" class="dashboard-tool-button dashboard-tool-button--reset" type="button" aria-expanded="false" aria-controls="resetPanel">
+        <span aria-hidden="true">↺</span><span><strong>Reset Dashboard</strong><small>Start a fresh daily practice record</small></span>
       </button>
       <p id="dashboardToolMessage" class="dashboard-tool-message" role="status"></p>
+    </section>
+
+    <section id="resetPanel" class="dashboard-reset-panel" aria-labelledby="resetHeading" hidden>
+      <div>
+        <p class="progress-kicker">Fresh daily record</p>
+        <h2 id="resetHeading">Reset dashboard progress</h2>
+        <p><strong>Print or save your current progress certificate first.</strong> Resetting clears the learner profile, time spent and activity history on this device so today’s daily practice can be recorded separately.</p>
+      </div>
+      <div class="dashboard-reset-actions">
+        <label for="resetCode">Enter reset code</label>
+        <input id="resetCode" type="password" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="4-digit code">
+        <button id="confirmReset" type="button">Reset progress</button>
+        <button id="cancelReset" class="dashboard-reset-cancel" type="button">Cancel</button>
+      </div>
+      <p id="resetMessage" class="dashboard-reset-message" role="status"></p>
     </section>
 
     <section id="avatarPanel" class="avatar-panel" hidden aria-labelledby="avatarHeading">
@@ -110,8 +125,8 @@
 
     <p class="dashboard-privacy-note">Advertising helps keep SkillrHub free. Ads are kept separate from learning controls and progress information. See our <a href="/privacy-policy.html">Privacy Policy</a>.</p>
   </main>
-  <script src="/assets/progress-store.js?v=3" data-skillr-progress="true"></script>
-  <script src="/dashboard/script.js?v=20260816-2"></script>
+  <script src="/assets/progress-store.js?v=4" data-skillr-progress="true"></script>
+  <script src="/dashboard/script.js?v=20260816-3"></script>
   <script src="/assets/first-visit-onboarding.js?v=20260814-dashboard1"></script>
   <script src="/pwa-register.js?v=5"></script>
 </body>

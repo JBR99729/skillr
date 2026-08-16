@@ -3498,7 +3498,7 @@ function renderImageDragState(
     );
   }
 
-  const certificateBrandMark = `<svg class="certificate-mark" viewBox="0 0 96 96" role="img" aria-label="SkillrHub Learn and Grow"><path class="mark-book" d="M12 60V24c14-2 26 2 36 12 10-10 22-14 36-12v36c-14-2-26 2-36 12-10-10-22-14-36-12Z"/><path class="mark-fold" d="M48 36v36"/><path class="mark-s" d="M38 35c-3-4-12-4-14 1-3 8 17 5 14 15-2 7-13 7-18 2"/><path class="mark-h" d="M58 33v22m16-22v22M58 44h16"/></svg>`;
+  const certificateBrandMark = `<img class="certificate-mark" src="/icons/skillrhub-mark.svg" alt="SkillrHub">`;
 
   const certificateFooter = `<footer class="certificate-footer" aria-label="SkillrHub values">
     <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5.5c3.5-.8 6.5 0 9 2.3v12c-2.5-2-5.5-2.7-9-2V5.5Zm18 0c-3.5-.8-6.5 0-9 2.3v12c2.5-2 5.5-2.7 9-2V5.5Z"/></svg><span>Educational Focus</span></div>
@@ -3545,21 +3545,24 @@ function renderImageDragState(
         .replace(/</g, "&lt;")
         .replace(/>/g, "&gt;");
 
+    const certificateWindow =
+      window.open("", "SkillrHubTestCertificate", "width=1120,height=820");
+
+    if (!certificateWindow) {
+      alert(
+        "Please allow pop-ups to print the certificate."
+      );
+      return;
+    }
+
+    certificateWindow.document.write("<!doctype html><title>Preparing SkillrHub certificate</title><p style='font:18px system-ui;padding:32px'>Preparing certificate...</p>");
+
     try {
       const resourceUrl = new URL(window.location.pathname, window.location.origin).href;
       const qrDataUrl = await certificateQrDataUrl(resourceUrl);
       const curriculumCode = String(config.skillCode || "SkillrHub").toUpperCase();
       const completionDate = new Date().toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
-      const certificateWindow =
-        window.open("", "_blank");
-
-      if (!certificateWindow) {
-        alert(
-          "Please allow pop-ups to print the certificate."
-        );
-        return;
-      }
-
+      certificateWindow.document.open();
       certificateWindow.document.write(
         `<!DOCTYPE html>
       <html lang="en-AU">
@@ -3569,8 +3572,8 @@ function renderImageDragState(
         <title>SkillrHub Completion Certificate</title>
         <style>
           @page {
-            size: Letter portrait;
-            margin: 0.35in;
+            size: A4 landscape;
+            margin: 10mm;
           }
           * {
             box-sizing: border-box;
@@ -3584,17 +3587,16 @@ function renderImageDragState(
             background: #f4f7fb;
           }
           body {
-            padding: 0.25in;
+            padding: 10mm;
           }
           .certificate {
-            width: 100%;
-            max-width: 7.8in;
-            min-height: 9.75in;
+            position: relative;
+            width: 277mm;
+            min-height: 190mm;
             margin: 0 auto;
-            padding: 0.48in 0.55in 0.36in;
-            border: 7px solid #173968;
-            outline: 2px solid #d9a525;
-            outline-offset: -14px;
+            padding: 13mm 15mm 11mm;
+            overflow: hidden;
+            border: 2px solid #173968;
             background: linear-gradient(145deg, #fff 0%, #f7faff 100%);
             text-align: center;
             display: flex;
@@ -3602,25 +3604,28 @@ function renderImageDragState(
             break-inside: avoid;
             page-break-inside: avoid;
           }
+          .certificate::before { content: ""; position: absolute; inset: 5mm; border: 1px solid #cf9d35; pointer-events: none; }
           .certificate-header {
+            position: relative;
             display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 0.14in;
+            justify-content: space-between;
+            gap: 4mm;
+            padding-bottom: 5mm;
+            border-bottom: 1px solid #cad6e5;
           }
           .certificate-mark {
             width: 0.82in;
             height: 0.82in;
+            object-fit: contain;
           }
-          .mark-book { fill: #edf3ff; stroke: #1a3a72; stroke-width: 4; stroke-linejoin: round; }
-          .mark-fold, .mark-s, .mark-h { fill: none; stroke: #1a3a72; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
-          .mark-s, .mark-h { stroke: #d68a00; }
           .certificate-main {
+            position: relative;
             display: flex;
             flex: 1;
             flex-direction: column;
             justify-content: center;
-            padding: 0.12in 0 0.24in;
+            padding: 5mm 0 4mm;
           }
           .certificate p {
             margin: 0.12in 0;
@@ -3661,29 +3666,28 @@ function renderImageDragState(
             font-size: 20px;
             font-weight: 800;
           }
-          .certificate-meta { display: grid; grid-template-columns: 1fr auto; gap: 0.18in; align-items: center; margin-top: 0.2in; padding: 0.16in; border: 1px solid #cad6e5; background: #fff; text-align: left; }
+          .certificate-meta { position: relative; display: grid; grid-template-columns: 1fr 76mm; gap: 6mm; align-items: center; margin-top: 5mm; padding: 4mm; border: 1px solid #cad6e5; background: #fff; text-align: left; }
           .certificate-meta p { margin: 0.04in 0; color: #44546a; font-size: 12px; }
           .certificate-meta strong { color: #173968; }
-          .certificate-qr { display: grid; grid-template-columns: 0.88in 1fr; gap: 0.12in; align-items: center; }
-          .certificate-qr img { width: 0.88in; height: 0.88in; border: 1px solid #cad6e5; }
+          .certificate-qr { display: grid; grid-template-columns: 24mm 1fr; gap: 4mm; align-items: center; padding: 3mm; border: 1px solid #cf9d35; background: #fffaf0; }
+          .certificate-qr img { width: 24mm; height: 24mm; border: 1px solid #cad6e5; }
           .certificate-qr span { color: #52647d; font-size: 9px; line-height: 1.3; }
-          .certificate-footer { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.08in; padding-top: 0.18in; border-top: 1px solid #aab7ca; color: #1a3a72; }
+          .certificate-footer { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.08in; padding-top: 0.18in; border-top: 1px solid #aab7ca; color: #1a3a72; }
           .footer-item { display: flex; align-items: center; justify-content: center; gap: 6px; min-width: 0; font-size: 9px; font-weight: 700; line-height: 1.15; }
           .footer-item svg { width: 17px; height: 17px; flex: 0 0 17px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
           @media print {
             html,
             body {
-              width: 7.8in;
-              height: 10.3in;
+              width: auto;
+              height: auto;
               background: #fff;
             }
             body {
               padding: 0;
             }
             .certificate {
-              width: 7.8in;
-              min-height: 9.75in;
-              max-height: 10.3in;
+              width: auto;
+              min-height: 190mm;
               box-shadow: none;
               overflow: hidden;
             }
@@ -3702,7 +3706,7 @@ function renderImageDragState(
           <p class="score">Score: ${percentage}%</p>
           <div class="certificate-meta">
             <div><p><strong>Curriculum:</strong> ${escapeCertificateText(curriculumCode)}</p><p><strong>Completed:</strong> ${escapeCertificateText(completionDate)}</p><p><strong>Issued by:</strong> SkillrHub Learning</p></div>
-            <div class="certificate-qr">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to open this SkillrHub resource">` : ""}<span>Scan to revisit this learning resource at skillrhub.com</span></div>
+            <div class="certificate-qr">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to open this SkillrHub resource">` : ""}<span><strong>Share free learning</strong><br>Scan to revisit this test. Share SkillrHub with families and teachers looking for free Australian Curriculum learning resources.</span></div>
           </div>
           </main>
           ${certificateFooter}
@@ -3711,10 +3715,13 @@ function renderImageDragState(
       </html>`
       );
 
+      certificateWindow.addEventListener("load", () => {
+        certificateWindow.focus();
+        certificateWindow.print();
+      }, { once: true });
       certificateWindow.document.close();
-      certificateWindow.focus();
-      certificateWindow.print();
     } catch (error) {
+      certificateWindow.close();
       console.error("Certificate print failed:", error);
       alert("The certificate could not be prepared right now.");
     }
@@ -3733,7 +3740,7 @@ function renderImageDragState(
 
     if (
       !config.certificateOnPass ||
-      percentage <= passingPercent
+      percentage < passingPercent
     ) {
       return;
     }
