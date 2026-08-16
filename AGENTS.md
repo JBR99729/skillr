@@ -20,17 +20,19 @@ The **Static Topic Guide + Fixed Teacher Presentation standard (v2)** is mandato
 - Stay inside the curriculum code's year-level boundary. Do not add next-year formalism as core content.
 - Topic Guide, teacher presentation, worksheet, Practice and Test links must remain aligned to the same curriculum code.
 - Topic pages must remain indexable, accessible and readable without a client-side curriculum renderer.
+- Every migrated topic page must link directly to its fixed `.pptx` teacher presentation. A PDF may also be offered as a preview/export, but it is not the canonical teacher-slide asset.
 
 ### Non-negotiable teacher-presentation rules
 
 - Teacher presentations are fixed authored assets, not browser-assembled curriculum decks.
-- The canonical deliverable is a clean 16:9 PPTX and/or PDF generated ahead of publication. The website may open or embed the fixed asset; it must not rebuild slide content at runtime.
+- The canonical deliverable is a clean, pre-generated **16:9 PPTX**. PDF is optional only as a fixed preview/export generated from that PPTX.
+- The website must link to or serve the fixed PPTX. It must never rebuild slide content at runtime from curriculum JavaScript, JSON, renderers, `live.html` hosts or empty slide containers.
 - Every slide must include visible SkillrHub branding and a persistent footer in the form: `CURRICULUM_CODE • SkillrHub • skillrhub.com`.
 - Every slide must include a subtle repeated `SkillrHub • skillrhub.com` watermark that does not interfere with teaching content.
-- Branding, watermark and footer are part of the slide artwork itself, not injected by website CSS or JavaScript.
+- Branding, watermark and footer are part of the PPTX slide artwork itself, not injected by website CSS or JavaScript.
 - No slide may ship with clipped text, overlapping text/images, cropped diagrams, unreadable labels, footer collisions or content outside the 16:9 safe area.
 - Images and diagrams must fit controlled bounding boxes and preserve aspect ratio.
-- Final PDFs must be rendered to images and visually verified before publication. A presentation fails release if any overlap, clipping or broken glyph is visible.
+- The PPTX must be rendered to PDF/images for visual QA before publication. A presentation fails release if any overlap, clipping, broken glyph, missing branding, missing watermark or missing footer is visible.
 - Curriculum code, concept, examples and terminology must match the topic guide.
 
 ### Protected interactive areas
