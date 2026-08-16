@@ -26,7 +26,7 @@ for (const file of changed) {
     const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
     if (!/What students learn|Key concept|Learning intention|Learning goal/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
     if (publicDownload.test(html)) errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
-    if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/["']/i.test(html)) errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
+    if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/(?:[?#][^"']*)?["']/i.test(html)) errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
   }
 
   if (teacherViewerPath.test(file)) {
