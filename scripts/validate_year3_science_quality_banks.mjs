@@ -12,16 +12,17 @@ const allPrompts = new Set();
 const norm = (value) => String(value).toLowerCase().replace(/[“”'’".,:;!?—–-]/g, " ").replace(/\s+/g, " ").trim();
 
 for (const code of codes) {
+  const expected = code === "AC9S3U04" ? { practice: 28, test: 28, answers: 4 } : { practice: 24, test: 16, answers: 3 };
   const file = path.join(BANK_ROOT, `${code.toLowerCase()}.json`);
   let items;
   try { items = JSON.parse(fs.readFileSync(file, "utf8")); } catch (error) { problems.push(`${code}: invalid JSON (${error.message})`); continue; }
   const byBank = { practice: items.filter((item) => item.bank === "practice"), test: items.filter((item) => item.bank === "test") };
-  if (byBank.practice.length !== 24) problems.push(`${code}: expected 24 Practice, found ${byBank.practice.length}`);
-  if (byBank.test.length !== 16) problems.push(`${code}: expected 16 Test, found ${byBank.test.length}`);
+  if (byBank.practice.length !== expected.practice) problems.push(`${code}: expected ${expected.practice} Practice, found ${byBank.practice.length}`);
+  if (byBank.test.length !== expected.test) problems.push(`${code}: expected ${expected.test} Test, found ${byBank.test.length}`);
   const localIds = new Set(), localPrompts = new Set();
   for (const bank of ["practice", "test"]) {
     totals[bank] += byBank[bank].length;
-    const positions = [0, 0, 0];
+    const positions = Array(expected.answers).fill(0);
     for (const item of byBank[bank]) {
       const tag = `${code} ${item.id}`;
       if (item.curriculum_code !== code || item.subject !== "science" || item.year_level !== "Year 3") problems.push(`${tag}: identity fields mismatch`);
@@ -31,13 +32,14 @@ for (const code of codes) {
       if (!prompt || localPrompts.has(prompt) || allPrompts.has(prompt)) problems.push(`${tag}: duplicate or missing prompt`);
       localPrompts.add(prompt); allPrompts.add(prompt);
       if (item.audio_prompt !== item.question) problems.push(`${tag}: audio_prompt does not match question`);
-      if (!Array.isArray(item.answers) || item.answers.length !== 3) problems.push(`${tag}: must have exactly 3 answers`);
+      if (!Array.isArray(item.answers) || item.answers.length !== expected.answers) problems.push(`${tag}: must have exactly ${expected.answers} answers`);
       const correct = item.answers?.filter((answer) => answer.is_correct) || [];
-      if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index > 2 || correct.length !== 1 || !item.answers?.[item.correct_index]?.is_correct) problems.push(`${tag}: incorrect answer key`);
+      if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index >= expected.answers || correct.length !== 1 || !item.answers?.[item.correct_index]?.is_correct) problems.push(`${tag}: incorrect answer key`);
       else positions[item.correct_index]++;
-      if (new Set((item.answers || []).map((answer) => norm(answer.text))).size !== 3) problems.push(`${tag}: duplicate answer text`);
+      if (new Set((item.answers || []).map((answer) => norm(answer.text))).size !== expected.answers) problems.push(`${tag}: duplicate answer text`);
       if (!item.explanation?.summary || !item.explanation?.hint) problems.push(`${tag}: missing structured explanation`);
       if (/curriculum code|matches? (?:this|the) code|what does ac9s3/i.test(item.question)) problems.push(`${tag}: curriculum-definition prompt`);
+      if (code === "AC9S3U04" && /\b(?:gas(?:es)?|particle(?:s)?)\b/i.test(`${item.question} ${(item.answers || []).map((answer) => answer.text).join(" ")}`)) problems.push(`${tag}: later-year gas or particle content`);
       if (!item.visual?.asset_path || !item.visual?.alt_text || item.visual.alt_text.length < 30) problems.push(`${tag}: incomplete visual metadata`);
       const [asset, symbol] = String(item.visual?.asset_path || "").split("#");
       const assetFile = path.join(ROOT, asset.replace(/^\//, ""));
@@ -50,7 +52,7 @@ for (const code of codes) {
   const practicePrompts = new Set(byBank.practice.map((item) => norm(item.question)));
   for (const item of byBank.test) if (practicePrompts.has(norm(item.question))) problems.push(`${code}: Practice/Test prompt overlap at ${item.id}`);
   const route = path.join(ROOT, "quiz", "year-3", "science", code.toLowerCase());
-  for (const [bank, attempt, count] of [["practice", 8, 24], ["test", 12, 16]]) {
+  for (const [bank, attempt, count] of [["practice", 8, expected.practice], ["test", 12, expected.test]]) {
     const html = fs.readFileSync(path.join(route, bank, "index.html"), "utf8");
     if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":true')) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
     if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
@@ -69,4 +71,4 @@ if (problems.length) {
   console.error(problems.join("\n"));
   process.exit(1);
 }
-console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "3 options", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "full headings", "8/12 rotation"] }, null, 2));
+console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "code-specific option counts", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "AC9S3U04 year-level boundary", "full headings", "8/12 rotation"] }, null, 2));

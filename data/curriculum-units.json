@@ -1335,7 +1335,7 @@
       "practiceUrl": "/quiz/grade-k/science/ac9sfu03/practice/",
       "testUrl": "/quiz/grade-k/science/ac9sfu03/test/",
       "worksheetUrl": "/quiz/grade-k/science/ac9sfu03/worksheet/",
-      "teacherSlideUrl": "/worksheets/foundation/science/teacher-slides/ac9sfu03-teacher-slide.pdf",
+      "teacherSlideUrl": "/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/teacher-deck/",
       "questionCoverage": [
         {
           "code": "AC9SFU03",
@@ -10223,7 +10223,7 @@
       "practiceUrl": "/quiz/year-2/science/ac9s2u03/practice/",
       "testUrl": "/quiz/year-2/science/ac9s2u03/test/",
       "worksheetUrl": "/quiz/year-2/science/ac9s2u03/worksheet/",
-      "teacherSlideUrl": "/worksheets/year2/science/teacher-slides/ac9s2u03-teacher-slide.pdf",
+      "teacherSlideUrl": "/year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/teacher-deck/",
       "questionCoverage": [
         {
           "code": "AC9S2U03",
@@ -15214,7 +15214,7 @@
       "practiceUrl": "/quiz/year-3/science/ac9s3u04/practice/",
       "testUrl": "/quiz/year-3/science/ac9s3u04/test/",
       "worksheetUrl": "/quiz/year-3/science/ac9s3u04/worksheet/",
-      "teacherSlideUrl": "/worksheets/year3/science/teacher-slides/ac9s3u04-teacher-slide.pdf",
+      "teacherSlideUrl": "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/teacher-deck/",
       "questionCoverage": [
         {
           "code": "AC9S3U04",

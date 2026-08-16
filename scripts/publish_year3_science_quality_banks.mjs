@@ -42,6 +42,8 @@ function pageIdentity(relative, code, title) {
 
 for (const [code, unit] of Object.entries(units)) {
   const codeLower = code.toLowerCase();
+  const practiceBankCount = code === "AC9S3U04" ? 28 : 24;
+  const testBankCount = code === "AC9S3U04" ? 28 : 16;
   const bankFile = `assets/assessment-banks/year3/science/${codeLower}.json`;
   execFileSync(process.execPath, ["scripts/publish_production_question_bank.mjs", bankFile], { cwd: ROOT, stdio: "inherit" });
   const route = path.join(ROOT, "quiz", "year-3", "science", codeLower);
@@ -50,8 +52,9 @@ for (const [code, unit] of Object.entries(units)) {
   const activityFile = path.join(route, "index.html");
   let activity = fs.readFileSync(activityFile, "utf8");
   activity = activity
-    .replace(/<p>Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from 24 questions, while Test uses a separate 16-question bank.</p>`)
-    .replace(/<p>This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*<\/p>/, `<p>This QA-reviewed unit provides 24 Practice questions and 16 separate Test questions.</p>`)
+    .replace(/<p>Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from ${practiceBankCount} questions, while Test uses a separate ${testBankCount}-question bank.</p>`)
+    .replace(/<p>Choose a learning activity\. Practice draws from \d+ questions, while Test uses a separate \d+-question bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from ${practiceBankCount} questions, while Test uses a separate ${testBankCount}-question bank.</p>`)
+    .replace(/<p>This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*<\/p>/, `<p>This QA-reviewed unit provides ${practiceBankCount} Practice questions and ${testBankCount} separate Test questions.</p>`)
     .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Unit focus</h2>${listHtml(notes)}</section>`);
   fs.writeFileSync(activityFile, activity);
 
@@ -60,10 +63,10 @@ for (const [code, unit] of Object.entries(units)) {
     let html = fs.readFileSync(file, "utf8");
     const isTest = bankName === "test";
     const attempt = isTest ? 12 : 8;
-    const bankCount = isTest ? 16 : 24;
+    const bankCount = isTest ? testBankCount : practiceBankCount;
     const description = isTest
-      ? `Take a 12-question Year 3 ${unit.title} test drawn from a separate 16-question bank.`
-      : `Practise Year 3 ${unit.title} with rotating questions from a 24-question bank.`;
+      ? `Take a 12-question Year 3 ${unit.title} test drawn from a separate ${testBankCount}-question bank.`
+      : `Practise Year 3 ${unit.title} with rotating questions from a ${practiceBankCount}-question bank.`;
     html = html
       .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${description}">`)
       .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Quick preparation</h2>${listHtml(notes)}</section>`)
@@ -90,4 +93,4 @@ for (const [code, unit] of Object.entries(units)) {
   }
 }
 
-console.log(JSON.stringify({ codes: Object.keys(units).length, practiceBank: 24, testBank: 16, practiceAttempt: 8, testAttempt: 12, status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codes: Object.keys(units).length, defaultBanks: "24 Practice / 16 Test", AC9S3U04: "28 Practice / 28 Test", practiceAttempt: 8, testAttempt: 12, status: "PUBLISHED" }, null, 2));

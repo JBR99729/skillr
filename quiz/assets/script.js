@@ -544,6 +544,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let quizStartedAt = 0;
   let answerChecked = false;
   let quizHistory = [];
+  let resultsTransitionStarted = false;
   let studentNameInput = null;
   let preReadPanel = null;
   let preReadComplete = false;
@@ -1513,6 +1514,7 @@ document.addEventListener("DOMContentLoaded", () => {
     currentQuestionIndex = 0;
     score = 0;
     quizHistory = [];
+    resultsTransitionStarted = false;
 
     elements.liveScore.textContent = "0";
 
@@ -3455,7 +3457,7 @@ function renderImageDragState(
 
 
   function goToNextQuestion() {
-    if (!answerChecked) {
+    if (!answerChecked || resultsTransitionStarted) {
       return;
     }
 
@@ -3469,6 +3471,9 @@ function renderImageDragState(
     ) {
       renderQuestion();
     } else {
+      resultsTransitionStarted = true;
+      elements.nextButton.disabled = true;
+      elements.nextButton.textContent = "Opening results...";
       showResults();
     }
   }
@@ -3715,6 +3720,14 @@ function renderImageDragState(
       </html>`
       );
 
+      const closeCertificate = () => {
+        if (!certificateWindow.closed) certificateWindow.close();
+        window.focus();
+      };
+      certificateWindow.addEventListener("afterprint", closeCertificate, { once: true });
+      certificateWindow.matchMedia("print").addEventListener("change", (event) => {
+        if (!event.matches) closeCertificate();
+      }, { once: true });
       certificateWindow.addEventListener("load", () => {
         certificateWindow.focus();
         certificateWindow.print();
@@ -3998,11 +4011,7 @@ function renderImageDragState(
           window.location.href = config.resultUrl;
         };
 
-        if (resultData.passed) {
-          void proficientSoundCompletion.then(openResultPage);
-        } else {
-          openResultPage();
-        }
+        openResultPage();
         return;
       } catch (error) {
         console.error("Could not open the separate result page:", error);
