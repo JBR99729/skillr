@@ -1,0 +1,51 @@
+name: Build Year 6 Maths fixed teacher PDFs
+
+on:
+  push:
+    branches:
+      - agent/year6-maths-fixed-pdfs
+    paths:
+      - scripts/build_year6_maths_fixed_pdfs.mjs
+      - assets/year6-curriculum-base.js
+      - assets/year6-curriculum.css
+      - assets/year6-maths-data-*.js
+      - .github/workflows/build-year6-maths-fixed-pdfs.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: ${{ !contains(github.event.head_commit.message, '[skip pdf build]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/year6-maths-fixed-pdfs
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install PDF render checks
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          command -v google-chrome || command -v chromium || command -v chromium-browser
+      - name: Build and render-check all Year 6 Maths decks
+        run: node scripts/build_year6_maths_fixed_pdfs.mjs
+      - name: Verify generated scope
+        run: |
+          test "$(find worksheets/year6/maths/teacher-slides -maxdepth 1 -name 'ac9m6*-teacher-slide.pdf' | wc -l)" -ge 20
+          git diff --check
+      - name: Commit generated PDFs to repair branch
+        run: |
+          git config user.name "SkillrHub PDF Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add worksheets/year6/maths/teacher-slides/ac9m6*-teacher-slide.pdf
+          if git diff --cached --quiet; then
+            echo "PDF files are already current."
+          else
+            git commit -m "Build fixed Year 6 Maths teacher PDFs [skip pdf build]"
+            git push origin HEAD:agent/year6-maths-fixed-pdfs
+          fi
