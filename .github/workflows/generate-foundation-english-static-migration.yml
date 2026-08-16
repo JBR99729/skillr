@@ -1,0 +1,42 @@
+name: Generate Foundation English static migration
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_foundation_english_static.mjs'
+      - '.github/workflows/generate-foundation-english-static-migration.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate Foundation English static pages and fixed slides
+        run: node scripts/migrate_foundation_english_static.mjs
+      - name: Validate generated architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Preserve existing Foundation English semantic quality gates
+        run: node scripts/validate_foundation_english_topic_modules.mjs
+      - name: Commit generated files to migration branch
+        shell: bash
+        run: |
+          if git diff --quiet -- foundation/english; then
+            echo 'Generated output is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation/english
+          git commit -m 'Generate static Foundation English curriculum pages'
+          git push origin HEAD:${GITHUB_HEAD_REF}
