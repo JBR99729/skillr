@@ -30,6 +30,9 @@ for (const file of [topic, deck]) {
 requireValue(deck.includes("/assets/display-only.js?v=2"), "Deck does not load display-only protection");
 requireValue(!/adsbygoogle|googletagmanager|download|onclick=["'][^"']*print/i.test(deck), "Deck contains advertising or print/download UI");
 requireValue(/googletagmanager/.test(topic) && /adsbygoogle/.test(topic), "Public topic analytics or advertising missing");
+const legacySlideHost = read("worksheets/year3/science/teacher-slides/live.html");
+requireValue(legacySlideHost.includes('get("code")?.toUpperCase() === "AC9S3U04"'), "Legacy slide host does not detect AC9S3U04");
+requireValue(legacySlideHost.includes(`location.replace("${lesson.resourceLinks.teacherSlides}")`), "Legacy slide host does not redirect to canonical deck");
 for (const model of lesson.models) requireValue(renderer.includes(`\"${model.id}\"`), `Renderer missing model ${model.id}`);
 requireValue(metadata?.teacherSlideUrl === lesson.resourceLinks.teacherSlides, "Metadata teacher deck route mismatch");
 for (const relative of [
