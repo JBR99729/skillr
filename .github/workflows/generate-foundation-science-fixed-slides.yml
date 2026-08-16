@@ -43,3 +43,5 @@ jobs:
           git add foundation/science foundation/curriculum/science/index.html
           git commit -m 'Generate fixed Foundation Science teacher slide viewers'
           git push origin HEAD:${GITHUB_HEAD_REF}
+
+# Trigger corrected legacy-route regex validation: 2026-08-17
