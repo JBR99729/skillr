@@ -27,6 +27,7 @@ Non-negotiable rules:
 - Every checkpoint and mastery item requires an expected answer, acceptable evidence, likely error and remediation.
 - Prefer validated parameterised illustrations that can be reused safely across pages, slides, activities and questions.
 - Read `docs/canonical-lesson-specification-v1.1.md` before authoring a code.
+- This format is locked for every teacher slide in every year and subject: teacher slides are live 16:9 presentation resources for direct display from a device to a classroom screen. Show exactly one slide at a time with Previous and Next controls and a dynamic `current / total` indicator such as `1 / 12`. Download, print and save-as-PDF features must be blocked; every slide must carry a repeated SkillrHub watermark and a footer containing its curriculum code. A teacher slide must not be released if any part of this format is missing.
 
 
 

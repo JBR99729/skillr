@@ -28,6 +28,9 @@ A beautiful but inaccurate, ambiguous or conceptually mismatched resource fails.
 | Topic-guide/slide alignment | Same concept, examples, terminology and visual models |
 | Visual finish | At least 7/10: clean, readable, accurate and classroom-usable |
 | Generic filler | None |
+| Slide delivery | Live 16:9 direct display only; downloads, printing and save-as-PDF blocked |
+| Slide navigation | Exactly one slide visible with Previous, Next and dynamic `current / total` progress |
+| Slide branding | Repeated SkillrHub watermark and curriculum-code footer on every slide |
 
 The 7/10 visual threshold does not permit incorrect labels, misleading proportions, unclear arrows, cropped diagrams, text overlap or unreadable text. It means the illustration may be simple and functional rather than highly polished or photorealistic.
 
@@ -130,6 +133,26 @@ The fixed teacher-slide architecture is:
 7. Tiny Support, Core and Extend adaptations.
 8. Expected answers, acceptable evidence, misconceptions and remediation for checkpoints and mastery items.
 9. Navigation back to the topic guide and onward to related resources.
+
+### Non-negotiable live-display rule
+
+Teacher slides are live presentation resources designed for direct display from a teacher's device to a classroom screen or projector. They are not downloadable presentation or PDF resources.
+
+This format is locked for every teacher slide across all curriculum codes, years and subjects. It applies to new slides, rebuilt slides and legacy slides when they are migrated. A teacher slide must not pass validation or be released when any requirement in this section is absent.
+
+- Keep every slide in a stable, classroom-readable 16:9 presentation frame.
+- Show exactly one slide at a time. Do not stack the full sequence vertically in the live classroom view.
+- Provide visible Previous and Next controls and a dynamic `current / total` indicator, for example `1 / 12`, `2 / 12` and `3 / 12`.
+- Support Left Arrow and Right Arrow keyboard navigation while preserving the visible controls for touch and pointer use.
+- Derive the total from the rendered slide sequence; never hard-code a slide count.
+- Block slide download, browser printing and save-as-PDF pathways, including visible controls and common keyboard shortcuts.
+- Place a repeated, low-contrast `SkillrHub` watermark across every slide without obscuring teaching content.
+- Include a persistent footer on every slide containing the curriculum code.
+- Preserve these controls in normal, embedded and full-screen display modes.
+
+Browser-side controls deter routine copying but cannot guarantee technical prevention of screenshots or capture by the operating system. Do not claim absolute copy protection.
+
+Changing, removing or weakening any part of this live-display format is a structural change governed by the v1.1 unlock process.
 
 The number of slides and the teaching progression may vary because every code teaches a different concept. The underlying architecture and topic-guide/slide parity may not vary.
 

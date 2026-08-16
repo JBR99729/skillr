@@ -226,6 +226,10 @@ The renderer uses the complete specification: learning information, progression,
 
 The renderer selects the slide sequence from the same specification. It may shorten language for projection but must retain the approved purpose, models, example values, terminology and colour meanings.
 
+The live renderer must show exactly one 16:9 slide at a time, with visible Previous and Next controls, Left Arrow and Right Arrow keyboard navigation, and a dynamic `current / total` indicator derived from the rendered sequence. Every slide must include a repeated low-contrast SkillrHub watermark and a curriculum-code footer. Download, print and save-as-PDF pathways must be blocked in normal, embedded and full-screen modes.
+
+This renderer contract is locked and mandatory for every teacher slide across all years, subjects and curriculum codes. Failure of any delivery requirement blocks release.
+
 ### Activities and questions
 
 Activities, worksheets and future questions may use only approved concepts and models from the specification. They must not introduce new formality or a contradictory representation.
@@ -241,6 +245,10 @@ Activities, worksheets and future questions may use only approved concepts and m
 - all model IDs resolve;
 - parameters fall within valid ranges;
 - topic-guide/slide examples and terminology match;
+- one slide visible at a time with a correct dynamic `current / total` indicator;
+- Previous, Next, Left Arrow and Right Arrow navigation reaches every slide;
+- 16:9 framing, repeated watermark and curriculum-code footer appear on every slide;
+- download, print and save-as-PDF controls and shortcuts are blocked;
 - balanced HTML/SVG, unique IDs and accessible descriptions;
 - no overflow, clipping or label collision at target sizes.
 
