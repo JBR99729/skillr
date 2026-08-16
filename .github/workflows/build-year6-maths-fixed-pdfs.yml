@@ -32,18 +32,25 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils
           command -v google-chrome || command -v chromium || command -v chromium-browser
+      - name: Apply PDF-only visual sizing overrides
+        run: |
+          cat >> assets/year6-curriculum.css <<'CSS'
+          .model-wrap .y6-coordinate{width:560px;max-width:100%;margin:auto}.model-wrap .y6-coordinate .plot{width:100%;aspect-ratio:1}.model-wrap .y6-coordinate .plot span{min-height:0;aspect-ratio:1}.model-wrap .y6-numberline{width:100%}.model-wrap .y6-angle-set{max-width:900px;margin:auto}.model-wrap .y6-cross-section,.model-wrap .y6-tessellation{max-width:900px;margin:auto}
+          CSS
       - name: Build and render-check all Year 6 Maths decks
         run: node scripts/build_year6_maths_fixed_pdfs.mjs
       - name: Verify generated scope
         run: |
           test "$(find worksheets/year6/maths/teacher-slides -maxdepth 1 -name 'ac9m6*-teacher-slide.pdf' | wc -l)" -ge 20
           git diff --check
-      - name: Render representative visual preview
+      - name: Render representative visual previews
         run: |
           mkdir -p /tmp/year6-maths-preview
-          pdftoppm -png -r 144 \
-            worksheets/year6/maths/teacher-slides/ac9m6n01-teacher-slide.pdf \
-            /tmp/year6-maths-preview/ac9m6n01
+          for code in ac9m6n01 ac9m6n03 ac9m6m04 ac9m6sp01 ac9m6st02; do
+            pdftoppm -png -r 144 \
+              "worksheets/year6/maths/teacher-slides/${code}-teacher-slide.pdf" \
+              "/tmp/year6-maths-preview/${code}"
+          done
       - uses: actions/upload-artifact@v4
         with:
           name: year6-maths-pdf-preview
