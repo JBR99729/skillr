@@ -1,0 +1,81 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+
+const ROOT = process.cwd();
+const read = (file) => fs.readFileSync(path.join(ROOT, file), 'utf8');
+const write = (file, content) => { const full = path.join(ROOT, file); fs.mkdirSync(path.dirname(full), { recursive: true }); fs.writeFileSync(full, content); };
+const esc = (v='') => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const strip = (v='') => String(v ?? '').replace(/<style[\s\S]*?<\/style>/gi,' ').replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/\s+/g,' ').trim();
+const list = (v) => Array.isArray(v) ? v : v ? [v] : [];
+
+const document = { getElementById:()=>null, querySelector:()=>null, querySelectorAll:()=>[], addEventListener(){}, documentElement:{}, head:{appendChild(){}}, body:{dataset:{}}, createElement:()=>({setAttribute(){}}) };
+class MutationObserver { observe(){} disconnect(){} }
+const context = vm.createContext({ window:{}, document, MutationObserver, console, URLSearchParams, location:{search:'',pathname:'/'}, setTimeout:()=>0 });
+const run = (file) => new vm.Script(read(file), { filename:file }).runInContext(context);
+for (const file of [
+  'assets/foundation-english-data.js',
+  'assets/foundation-english-topic-module-la-v2.js',
+  'assets/foundation-english-topic-module-le-ly1-v2.js',
+  'assets/foundation-english-topic-module-ly2-v2.js',
+  'assets/foundation-elaboration-map.js',
+  'assets/foundation-canonical-v1.1.js',
+  'assets/foundation-english-topic-module-core-v2.js'
+]) run(file);
+const data = context.window.SkillrFoundationEnglishData;
+const canonical = context.window.SkillrFoundationCanonical;
+const generated = canonical.buildCollection(data, { subject:'English', year:'Foundation', pathSegment:'english', quizSubject:'english' });
+run('assets/foundation-ac9efla01-lesson.js');
+const specs = { ...generated, AC9EFLA01: context.window.SkillrAC9EFLA01Lesson };
+const codes = Object.keys(data).filter(code => /^AC9EF(?:LA|LE|LY)\d{2}$/.test(code)).sort();
+if (codes.length !== 29) throw new Error(`Expected 29 Foundation English codes, found ${codes.length}`);
+
+const topicRoute = (unit) => `/foundation/english/${unit.slug}/`;
+const quizRoute = (code,type) => `/quiz/grade-k/english/${code.toLowerCase()}/${type}/`;
+const hList = (items, fn=(x)=>x) => list(items).length ? `<ul>${list(items).map(x=>`<li>${fn(x)}</li>`).join('')}</ul>` : '<p>No additional items.</p>';
+
+function vocabularyHtml(spec) {
+  return hList(spec.vocabulary, item => `<strong>${esc(item.term)}</strong> — ${esc(item.definition)}`);
+}
+function examplesHtml(spec) {
+  return list(spec.workedExamples).map(ex => `<article class="curriculum-worked-example"><h3>${esc(ex.title || 'Worked example')}</h3>${ex.displayHtml ? `<div>${ex.displayHtml}</div>` : ''}${list(ex.displayModelIds).length ? `<p><strong>Model:</strong> ${esc(list(ex.displayModelIds).join(', '))}</p>` : ''}${ex.teacherPrompt ? `<p><strong>Teacher prompt:</strong> ${esc(ex.teacherPrompt)}</p>` : ''}</article>`).join('');
+}
+function elaborationsHtml(spec) {
+  return list(spec.elaborations).map(e => `<article class="curriculum-worked-example"><h3>${esc(e.id)}: ${esc(e.shortTitle || e.teachingPurpose || '')}</h3><p>${esc(e.plainLanguageConcept || '')}</p>${e.visualHtml ? `<div class="curriculum-static-visual">${e.visualHtml}</div>` : ''}${e.teacherDoes ? `<p><strong>Teacher:</strong> ${esc(e.teacherDoes)}</p>` : ''}${e.teacherSaysOrAsks ? `<p><strong>Ask:</strong> ${esc(e.teacherSaysOrAsks)}</p>` : ''}${e.studentDoes ? `<p><strong>Students:</strong> ${esc(e.studentDoes)}</p>` : ''}${e.whatToLookFor ? `<p><strong>Look for:</strong> ${esc(e.whatToLookFor)}</p>` : ''}${e.ifIncorrect ? `<p><strong>If incorrect:</strong> ${esc(e.ifIncorrect)}</p>` : ''}</article>`).join('');
+}
+function misconceptionsHtml(spec) {
+  return hList(spec.misconceptions, m => `<strong>${esc(m.title || 'Common mix-up')}</strong> — ${esc(m.rapidFix || m.correction || '')}`);
+}
+function activitiesHtml(unit) {
+  return list(unit.activities).map((a,i) => typeof a === 'string' ? `<li>${esc(a)}</li>` : `<li><strong>${esc(a.title || `Activity ${i+1}`)}</strong>${a.text ? ` — ${esc(a.text)}` : ''}${a.visual ? `<div>${a.visual}</div>` : ''}</li>`).join('');
+}
+function staticTopic(code, unit, spec) {
+  const canonicalUrl = `https://skillrhub.com${topicRoute(unit)}`;
+  const success = hList(spec.successCriteria, x=>esc(x));
+  const mastery = hList(spec.masteryItems, x=>esc(typeof x === 'string' ? x : (x.prompt || x.criterion || x.expectedAnswer || '')));
+  return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${esc(code)} ${esc(unit.title)} | Foundation English Topic Guide</title><meta name="description" content="${esc(code)} Foundation English topic guide: ${esc(unit.desc || spec.contentDescription || unit.title)}"><meta name="robots" content="index,follow"><link rel="canonical" href="${canonicalUrl}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/curriculum.css?v=3"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-8P22BET45N');</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script></head><body class="curriculum-shell"><div class="curriculum-page">
+<nav class="main-nav"><a href="/">Home</a><a href="/sitemap.html">Sitemap</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/how-to-use-skillr.html">How to use Skillr</a></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/foundation/">Foundation</a></li><li><a href="/foundation/curriculum/english/">English</a></li><li aria-current="page">${esc(code)}</li></ol></nav>
+<header class="curriculum-hero"><p class="curriculum-eyebrow">${esc(code)} • Foundation English</p><h1>${esc(unit.title)}</h1><p class="curriculum-hero__lead">${esc(unit.learn || unit.desc || spec.contentDescription || '')}</p><div class="topic-action-row"><a class="primary" href="#topic-guide">Topic Guide</a><a href="teacher-slides/">Teacher Slides</a><a href="${quizRoute(code,'worksheet')}">Practice Sheet</a><a href="${quizRoute(code,'practice')}">Practice</a><a href="${quizRoute(code,'test')}">Test</a></div></header>
+<main class="curriculum-layout"><div id="topic-guide">
+<details class="curriculum-topic-section" open><summary><strong>What students learn</strong></summary><div class="curriculum-detail-body"><p>${esc(unit.learn || unit.desc || '')}</p><p><strong>Learning intention:</strong> ${esc(spec.learningIntention || '')}</p><h3>Success criteria</h3>${success}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Key vocabulary</strong></summary><div class="curriculum-detail-body">${vocabularyHtml(spec)}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Model and guided application</strong></summary><div class="curriculum-detail-body">${unit.model_title ? `<h3>${esc(unit.model_title)}</h3>` : ''}${unit.model_html || ''}${unit.apply_title ? `<h3>${esc(unit.apply_title)}</h3>` : ''}${unit.apply_html || ''}${examplesHtml(spec)}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Learning activities</strong></summary><div class="curriculum-detail-body"><ol>${activitiesHtml(unit)}</ol></div></details>
+<details class="curriculum-topic-section"><summary><strong>Australian Curriculum elaborations</strong></summary><div class="curriculum-detail-body">${elaborationsHtml(spec)}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Common misconceptions and quick fixes</strong></summary><div class="curriculum-detail-body">${misconceptionsHtml(spec)}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Quick checks and mastery</strong></summary><div class="curriculum-detail-body"><h3>Quick checks</h3>${hList(unit.quick, x=>esc(x))}<h3>Mastery evidence</h3>${mastery}</div></details>
+<details class="curriculum-topic-section"><summary><strong>Resources</strong></summary><div class="curriculum-detail-body"><div class="curriculum-link-row"><a class="curriculum-button primary" href="teacher-slides/">Open Teacher Slides</a><a class="curriculum-button" href="${quizRoute(code,'worksheet')}">Practice Sheet</a><a class="curriculum-button" href="${quizRoute(code,'practice')}">Practice</a><a class="curriculum-button" href="${quizRoute(code,'test')}">Test</a></div></div></details>
+</div><aside class="curriculum-sidebar"><section class="curriculum-panel"><h2>Teacher resource</h2><p>Project the fixed branded deck one slide at a time.</p><a class="curriculum-button primary" href="teacher-slides/">Teacher Slides</a></section><section class="curriculum-panel"><h2>Curriculum code</h2><p><strong>${esc(code)}</strong><br>Foundation English</p></section></aside></main></div><script>window.skillrPageMeta={curriculumCode:${JSON.stringify(code)},pageType:'topic guide',year:'Foundation',subject:'English'};</script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script></body></html>\n`;
+}
+
+function wrap(text,width=55,max=4){const words=strip(text).split(' ').filter(Boolean),lines=[];let line='';for(const word of words){const c=line?`${line} ${word}`:word;if(c.length>width&&line){lines.push(line);line=word;}else line=c;}if(line)lines.push(line);if(lines.length>max){const k=lines.slice(0,max);k[max-1]=k[max-1].replace(/[.…]+$/,'')+'…';return k;}return lines;}
+function svgText(lines,x,y,size,gap,color='#0f172a',weight='400'){return lines.map((line,i)=>`<text x="${x}" y="${y+i*gap}" fill="${color}" font-family="Arial,Helvetica,sans-serif" font-size="${size}" font-weight="${weight}">${esc(line)}</text>`).join('');}
+function slideModelText(spec, slide){const ids=list(slide.display?.modelIds);const models=list(spec.models).filter(m=>ids.includes(m.id));return models.map(m=>m.accessibleDescription||m.title||'').filter(Boolean).join(' ');}
+function fixedSlide(code,spec,slide,index,total){const title=slide.title||slide.purpose||spec.title;const purpose=slide.purpose||slide.display?.studentPrompt||spec.learningIntention;const keys=list(slide.display?.keyText).join(' • ');const model=slideModelText(spec,slide)||strip(slide.display?.visualHtml||'')||keys;const prompt=slide.display?.studentPrompt||slide.teacherLayer?.teacherSaysOrAsks||'';const teacher=slide.teacherLayer?.teacherDoes||'';const titleL=wrap(title,43,2),purposeL=wrap(purpose,73,2),modelL=wrap(model,73,3),promptL=wrap(prompt,73,2),teacherL=wrap(teacher,73,2);return `<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d"><title id="t">${esc(code)} — ${esc(title)}</title><desc id="d">${esc(purpose)}</desc><rect width="1600" height="900" fill="#f8fafc"/><g opacity=".055" fill="#1d4ed8" font-family="Arial" font-size="34" font-weight="700"><text x="100" y="270" transform="rotate(-18 100 270)">SkillrHub • skillrhub.com</text><text x="760" y="565" transform="rotate(-18 760 565)">SkillrHub • skillrhub.com</text><text x="180" y="780" transform="rotate(-18 180 780)">SkillrHub • skillrhub.com</text></g><rect width="1600" height="96" fill="#173a72"/><text x="88" y="62" fill="#fff" font-family="Arial" font-size="32" font-weight="700">SkillrHub • Foundation English</text><text x="1460" y="62" text-anchor="end" fill="#fff" font-family="Arial" font-size="25">${index+1} / ${total}</text>${svgText(titleL,90,168,48,55,'#173a72','700')}${svgText(purposeL,90,titleL.length>1?300:245,30,39,'#334155')}<rect x="90" y="375" width="1420" height="175" rx="26" fill="#e8eef9"/><text x="132" y="422" fill="#173a72" font-family="Arial" font-size="26" font-weight="700">See / hear / notice</text>${svgText(modelL.length?modelL:['Use the displayed example and name the evidence that matters.'],132,468,28,36)}<rect x="90" y="575" width="1420" height="105" rx="22" fill="#fff7e6" stroke="#f0b429" stroke-width="3"/><text x="130" y="618" fill="#9a5b00" font-family="Arial" font-size="25" font-weight="700">Student prompt</text>${svgText(promptL.length?promptL:['Show or say your answer and the clue that proves it.'],130,656,27,34)}<rect x="90" y="700" width="1420" height="105" rx="22" fill="#ecfdf5"/><text x="130" y="742" fill="#166534" font-family="Arial" font-size="25" font-weight="700">Teacher move</text>${svgText(teacherL.length?teacherL:['Model once, then invite a student response and check the evidence.'],130,780,25,31)}<rect y="835" width="1600" height="65" fill="#173a72"/><text x="70" y="877" fill="#fff" font-family="Arial" font-size="26" font-weight="700">${esc(code)} • SkillrHub • skillrhub.com</text></svg>\n`;}
+function viewer(code,unit,spec){const slides=list(spec.slides);const figures=slides.map((s,i)=>`<figure class="fixed-slide-viewer__slide" data-slide${i?' hidden':''}><img src="slide-${String(i+1).padStart(2,'0')}.svg" alt="${esc(code)} teacher slide ${i+1} of ${slides.length}"></figure>`).join('');return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><title>${esc(code)} Teacher Slides | SkillrHub</title><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/teacher-slide-viewer.css?v=1"></head><body><nav class="main-nav"><a href="../">Topic Guide</a><a href="${quizRoute(code,'worksheet')}">Practice Sheet</a><a href="${quizRoute(code,'practice')}">Practice</a><a href="${quizRoute(code,'test')}">Test</a></nav><main style="padding:clamp(12px,3vw,32px)"><h1>${esc(code)} Teacher Slides</h1><p>Present one fixed slide at a time. Use Previous/Next, arrow keys or fullscreen.</p><section class="fixed-slide-viewer" data-fixed-slide-viewer tabindex="0" aria-label="${esc(code)} teacher slide deck"><div class="fixed-slide-viewer__stage">${figures}</div><div class="fixed-slide-viewer__controls"><button type="button" data-slide-previous aria-label="Previous slide">Previous</button><span class="fixed-slide-viewer__counter" data-slide-counter aria-live="polite">1 / ${slides.length}</span><button type="button" data-slide-next aria-label="Next slide">Next</button><button type="button" data-slide-fullscreen>Fullscreen</button></div></section></main><script src="/assets/teacher-slide-viewer.js?v=1"></script></body></html>\n`;}
+
+let slideCount=0;
+for(const code of codes){const unit=data[code], spec=specs[code]||unit.canonical;if(!unit?.slug||!spec) throw new Error(`${code}: missing unit/spec`);const dir=`foundation/english/${unit.slug}`;write(`${dir}/index.html`,staticTopic(code,unit,spec));const deck=list(spec.slides);if(deck.length<4) throw new Error(`${code}: expected at least 4 authored slides`);write(`${dir}/teacher-slides/index.html`,viewer(code,unit,spec));deck.forEach((slide,i)=>write(`${dir}/teacher-slides/slide-${String(i+1).padStart(2,'0')}.svg`,fixedSlide(code,spec,slide,i,deck.length)));slideCount+=deck.length;}
+console.log(`Migrated ${codes.length} Foundation English topic pages and generated ${slideCount} fixed teacher slides.`);
