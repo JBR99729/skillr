@@ -483,6 +483,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function setupMathsScratchpad() {
     if (!/\/(?:math|maths)\//i.test(window.location.pathname)) return;
+    if (!window.matchMedia("(min-width: 700px)").matches) {
+      const notice = document.createElement("p");
+      notice.className = "scratchpad-mobile-notice";
+      notice.textContent = "Scratchpad is not available on mobile devices. Use a tablet or larger screen.";
+      elements.quizScreen.insertAdjacentElement("afterend", notice);
+      return;
+    }
     const layer = document.createElement("div");
     layer.className = "scratchpad-layer";
     layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><div class="scratchpad-tools" role="group" aria-label="Writing colour"><button type="button" class="scratchpad-swatch is-selected" data-colour="#17335f" aria-label="Navy writing colour" aria-pressed="true"></button><button type="button" class="scratchpad-swatch" data-colour="#c62828" aria-label="Red writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#167447" aria-label="Green writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#111827" aria-label="Black writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-eraser" aria-label="Eraser" aria-pressed="false" title="Eraser">⌫</button></div><button type="button" class="scratchpad-clear">Clear</button></footer></section>';

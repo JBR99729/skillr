@@ -1668,14 +1668,15 @@ svg,canvas,video,iframe { max-width:100%; }
 .result-actions { gap:8px; }
 
 .warmup-mode-badge { display:inline-flex; margin:0 0 10px!important; padding:6px 10px; border-radius:999px; background:#fff1b8; color:#704500!important; font-size:.78rem; font-weight:900; }
+.scratchpad-mobile-notice { display:none; }
 .scratchpad-layer { position:fixed; z-index:10035; top:12px; right:12px; bottom:12px; width:min(540px,42vw); }
 .scratchpad-panel { display:flex; width:100%; height:100%; flex-direction:column; padding:14px; border:1px solid #c9d6e8; border-radius:12px; background:#fff; box-shadow:0 18px 48px rgba(9,28,57,.24); }
 .scratchpad-panel header { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; margin-bottom:10px; }
 .scratchpad-panel header strong,.scratchpad-panel header small { display:block; }
 .scratchpad-panel header small { margin-top:2px; color:#68778c; font-size:.76rem; }
 .scratchpad-panel canvas { display:block; width:100%; min-height:240px; flex:1; border:1px solid #c8d6e8; border-radius:11px; background-color:#fff; background-image:linear-gradient(#e9eef5 1px,transparent 1px),linear-gradient(90deg,#e9eef5 1px,transparent 1px); background-size:24px 24px; touch-action:none; }
-.scratchpad-actions { display:flex; justify-content:center; align-items:center; gap:8px; margin-top:5px; padding-top:5px; border-top:1px solid #e2e9f2; }
-.scratchpad-tools { display:flex; align-items:center; gap:5px; }
+.scratchpad-actions { display:flex; justify-content:center; align-items:center; gap:8px; min-width:0; margin-top:5px; padding-top:5px; border-top:1px solid #e2e9f2; }
+.scratchpad-tools { display:flex; min-width:0; flex:0 0 auto; align-items:center; gap:5px; }
 .scratchpad-tools button { display:grid; width:28px; min-width:28px; height:28px; flex:0 0 28px; place-items:center; padding:0; border:2px solid #fff; border-radius:50%; cursor:pointer; box-shadow:0 0 0 1px #aab9cc; }
 .scratchpad-swatch { background:var(--scratchpad-colour); }
 .scratchpad-swatch[data-colour="#17335f"] { --scratchpad-colour:#17335f; }
@@ -1687,6 +1688,9 @@ svg,canvas,video,iframe { max-width:100%; }
 .scratchpad-actions .scratchpad-clear { width:auto; min-width:72px; max-width:max-content; min-height:24px; flex:0 0 auto; align-self:center; padding:2px 12px; border:1px solid #b9cae2; border-radius:999px; background:#fff; color:#294466; font:inherit; font-size:.68rem; font-weight:800; cursor:pointer; }
 @media(min-width:700px){
   body.has-scratchpad-dock { padding-right:min(564px,calc(42vw + 24px)); transition:padding-right .2s ease; }
+}
+@media(min-width:700px) and (max-width:900px){
+  .scratchpad-actions { flex-direction:column; gap:6px; }
 }
 .quiz-celebration { position:fixed; z-index:10025; top:18px; left:50%; display:grid; min-width:min(340px,calc(100% - 28px)); gap:2px; padding:12px 16px; transform:translateX(-50%); border:1px solid #99d4b8; border-radius:14px; background:#edf9f3; color:#125d3d; text-align:center; box-shadow:0 12px 32px rgba(10,73,45,.18); animation:quiz-celebration-in .35s ease-out both; }
 .quiz-celebration strong { font-size:1.05rem; }
@@ -1701,15 +1705,8 @@ svg,canvas,video,iframe { max-width:100%; }
 @media(prefers-reduced-motion:reduce){ .quiz-celebration,.quiz-confetti { animation:none!important; } }
 @media(max-width:699px){
   body.has-scratchpad-dock { padding-right:0; }
-  .quiz-screen:not(.is-active) + .scratchpad-layer { display:none; }
-  .scratchpad-layer { position:relative; inset:auto; z-index:auto; width:calc(100% - 24px); height:clamp(220px,38vh,320px); margin:10px auto 18px; }
-  .scratchpad-panel { width:100%; height:100%; box-shadow:0 10px 28px rgba(9,28,57,.16); }
-  .scratchpad-panel header { margin-bottom:6px; }
-  .scratchpad-panel header small { font-size:.7rem; }
-  .scratchpad-panel canvas { min-height:140px; }
-  .scratchpad-actions { gap:6px; }
-  .scratchpad-tools { gap:4px; }
-  .scratchpad-tools button { width:26px; min-width:26px; height:26px; flex-basis:26px; }
+  .scratchpad-layer { display:none!important; }
+  .quiz-screen.is-active + .scratchpad-mobile-notice { display:block; width:calc(100% - 24px); margin:8px auto 18px; padding:8px 10px; border:1px solid #d5deea; border-radius:8px; background:#f5f8fc; color:#53657c; font-size:.75rem; line-height:1.35; text-align:center; }
 }
 @media(max-width:640px){
   .quiz-card,.screen { padding:14px; }
