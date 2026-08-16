@@ -6,6 +6,7 @@
   const match = location.pathname.match(/\/year3\/maths\/(ac9m3[a-z0-9]+)/i);
   const code = (window.skillrPageMeta?.curriculumCode || match?.[1] || "").toUpperCase();
   const unit = UNITS[code];
+  const CUSTOM_TEACHER_DECK_CODES = new Set(["AC9M3M03", "AC9M3M04"]);
   if (!unit) return;
 
   const q = (selector, root = document) => root.querySelector(selector);
@@ -33,6 +34,10 @@
     return heading?.closest("section")?.innerHTML || "";
   }
 
+  function hasAuthoredExpandedTopic() {
+    return Boolean(q('main a[href*="teacher-deck/"]')) && qa("main h2").length >= 5;
+  }
+
   function menu(title, badge, html, id = "") {
     return `<details class="topic-menu reference-menu"${id ? ` id="${id}"` : ""}><summary><span><span class="menu-title">${esc(title)}</span>${badge ? `<span class="menu-badge">${esc(badge)}</span>` : ""}</span></summary><div class="menu-content">${html}</div></details>`;
   }
@@ -45,6 +50,7 @@
   }
 
   function render() {
+    if (CUSTOM_TEACHER_DECK_CODES.has(code) || hasAuthoredExpandedTopic()) return;
     ensureAssets();
     const hero = q(".curriculum-hero");
     const main = q("main.curriculum-layout");

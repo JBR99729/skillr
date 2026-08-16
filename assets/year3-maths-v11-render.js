@@ -64,6 +64,10 @@
     return heading?.closest("section")?.innerHTML || "";
   }
 
+  function hasAuthoredExpandedTopic() {
+    return Boolean(q('main a[href*="teacher-deck/"]')) && qa("main h2").length >= 5;
+  }
+
   function relatedLinks(data, order, config) {
     return order.map((code) => data[code]).filter(Boolean).map((unit, index) => `<li><a href="/year3/maths/${esc(unit.slug)}/">${esc(order[index])}: ${esc(unit.title)}</a></li>`).join("");
   }
@@ -95,7 +99,7 @@
     const hero = q(".curriculum-hero");
     const main = q("main.curriculum-layout");
     if (!unit || !spec || !hero || !main) return false;
-    if (document.body.dataset.skillrPreserveTopic === "true") return enhanceStaticTopic({ data, order, config, code, unit, spec });
+    if (document.body.dataset.skillrPreserveTopic === "true" || hasAuthoredExpandedTopic()) return enhanceStaticTopic({ data, order, config, code, unit, spec });
 
     const international = legacySection("International curriculum mapping");
     const official = legacySection("Official curriculum references");
@@ -146,7 +150,8 @@
     stack.insertBefore(alignment, teacherResource || null);
     const preview = document.createElement("section");
     preview.className = "v11-section";
-    preview.innerHTML = `<div class="v11-section-head"><h2>Matching teacher-slide sequence</h2><span class="v11-badge">${spec.slides.length} selectable slides</span></div><div class="v11-slide-preview"><iframe title="${esc(code)} teacher-slide preview" src="${esc(spec.resourceLinks.slide)}&embed=1" loading="lazy"></iframe></div><div class="v11-resource-row"><a class="primary" href="${esc(spec.resourceLinks.slide)}" target="_blank" rel="noopener">Open Teacher Slides</a></div>`;
+    const embedUrl = `${spec.resourceLinks.slide}${spec.resourceLinks.slide.includes("?") ? "&" : "?"}embed=1`;
+    preview.innerHTML = `<div class="v11-section-head"><h2>Matching teacher-slide sequence</h2><span class="v11-badge">${spec.slides.length} selectable slides</span></div><div class="v11-slide-preview"><iframe title="${esc(code)} teacher-slide preview" src="${esc(embedUrl)}" loading="lazy"></iframe></div><div class="v11-resource-row"><a class="primary" href="${esc(spec.resourceLinks.slide)}" target="_blank" rel="noopener">Open Teacher Slides</a></div>`;
     alignment.insertAdjacentElement("afterend", preview);
     document.documentElement.dataset.year3MathsV11 = code;
     window.skillrPageMeta = { ...(window.skillrPageMeta || {}), lessonSchema: "1.1" };

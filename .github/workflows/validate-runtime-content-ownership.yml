@@ -1,0 +1,47 @@
+name: Validate runtime content ownership
+
+on:
+  pull_request:
+    paths:
+      - "foundation/**/index.html"
+      - "year3/curriculum/maths/index.html"
+      - "year3/maths/**"
+      - "quiz/year-3/math/**"
+      - "assets/foundation-v1.1-render.js"
+      - "assets/year3-maths-render.js"
+      - "assets/year3-maths-v11-canonical.js"
+      - "assets/year3-maths-v11-render.js"
+      - "scripts/validate_runtime_content_ownership.mjs"
+      - ".github/workflows/validate-runtime-content-ownership.yml"
+  push:
+    branches: [main]
+    paths:
+      - "foundation/**/index.html"
+      - "year3/curriculum/maths/index.html"
+      - "year3/maths/**"
+      - "quiz/year-3/math/**"
+      - "assets/foundation-v1.1-render.js"
+      - "assets/year3-maths-render.js"
+      - "assets/year3-maths-v11-canonical.js"
+      - "assets/year3-maths-v11-render.js"
+      - "scripts/validate_runtime_content_ownership.mjs"
+      - ".github/workflows/validate-runtime-content-ownership.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check audit syntax
+        run: node --check scripts/validate_runtime_content_ownership.mjs
+
+      - name: Prevent runtime content and link replacement regressions
+        run: node scripts/validate_runtime_content_ownership.mjs
