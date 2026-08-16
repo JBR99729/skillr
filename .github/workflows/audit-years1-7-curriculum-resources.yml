@@ -1,0 +1,35 @@
+name: Audit Years 1-7 curriculum resources
+# Permanent architecture gate: every Years 1-7 curriculum code must remain static and display-only.
+
+on:
+  pull_request:
+    paths:
+      - 'year1/**'
+      - 'year2/**'
+      - 'year3/**'
+      - 'year4/**'
+      - 'year5/**'
+      - 'year6/**'
+      - 'year7/**'
+      - 'worksheets/year1/**'
+      - 'worksheets/year2/**'
+      - 'worksheets/year3/**'
+      - 'worksheets/year4/**'
+      - 'worksheets/year5/**'
+      - 'worksheets/year6/**'
+      - 'worksheets/year7/**'
+      - 'assets/teacher-slide-viewer.*'
+      - 'scripts/audit_years1_7_curriculum_resources.mjs'
+      - '.github/workflows/audit-years1-7-curriculum-resources.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit every Years 1-7 curriculum code
+        run: node scripts/audit_years1_7_curriculum_resources.mjs
