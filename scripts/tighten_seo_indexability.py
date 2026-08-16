@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = "https://skillrhub.com"
-SKIP_PARTS = {"result", "results", "review", "retake", "teacher-slides"}
+SKIP_PARTS = {"result", "results", "review", "retake", "teacher-slides", "teacher-deck"}
 GA_ID = "G-8P22BET45N"
 ADSENSE_CLIENT = "ca-pub-7734963540104771"
 GA_SNIPPET = f'''<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
@@ -57,7 +57,7 @@ def upsert_robots(source: str, value: str) -> str:
 def main() -> None:
     changed = {"aliases_noindexed": 0, "canonicals_repaired": 0, "titles_added": 0, "analytics_added": 0, "adsense_added": 0}
     for absolute in sorted(ROOT.rglob("*.html")):
-        if ".git" in absolute.parts:
+        if set(absolute.parts) & {".git", "node_modules", "playwright-report", "test-results"}:
             continue
         relative = absolute.relative_to(ROOT)
         if set(relative.parts) & SKIP_PARTS or relative.as_posix() == "offline.html":

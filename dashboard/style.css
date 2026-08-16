@@ -80,7 +80,25 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 @media(max-width:820px){.stat-grid{grid-template-columns:repeat(2,1fr)}.skill-grid{grid-template-columns:1fr}.dashboard-grid{grid-template-columns:1fr}.install-callout{grid-template-columns:auto 1fr}.install-callout button{grid-column:1/-1}.progress-header,.filter-card{align-items:flex-start;flex-direction:column}}
 @media(max-width:480px){.progress-shell{width:min(100% - 20px,1120px);padding-top:12px}.stat-grid{grid-template-columns:1fr}.profile-card{align-items:flex-start}.profile-card .profile-name-wrap>div,.custom-dates{flex-direction:column}.overall-result{align-items:flex-start;flex-direction:column}.overall-result>strong{order:-1}}
 @media(max-width:480px){.ad-safe-zone{min-height:118px}.ad-safe-zone__space{min-height:76px}}
-@media print{.ad-safe-zone,.dashboard-privacy-note{display:none!important}}
+@media print{
+  @page{size:A4 portrait;margin:12mm}
+  body.progress-page{background:#fff!important;color:#172033!important}
+  .progress-shell{width:100%!important;margin:0!important;padding:0!important}
+  .dashboard-nav,.progress-header-actions,.dashboard-quick-tools,.avatar-panel,.filter-controls,.backup-actions,.ad-safe-zone,.dashboard-privacy-note{display:none!important}
+  .progress-header,.stat-card,.skill-summary,.overall-result,.panel{break-inside:avoid;box-shadow:none!important;background:#fff!important;color:#172033!important}
+  .progress-header{padding:12px 0!important;border:0!important;border-bottom:2px solid #2457d6!important}
+  .profile-avatar-wrap{display:none!important}
+  .progress-header::after{content:"SkillrHub • Latest learning scores • " attr(data-print-date);display:block;color:#52647d;font-size:9pt}
+  .metrics-section{margin-top:10mm}
+  .metrics-heading{display:block!important}
+  .stat-grid,.skill-grid{grid-template-columns:repeat(4,1fr)!important;gap:5mm!important}
+  .stat-card,.skill-summary{padding:5mm!important;border:1px solid #b9c8d8!important}
+  .stat-card span,.stat-card small,.stat-card strong,.skill-summary span,.skill-summary small,.skill-summary strong{color:#172033!important}
+  .overall-result{margin-top:6mm!important;padding:5mm!important;border:1px solid #b9c8d8!important}
+  .dashboard-grid{display:block!important;margin-top:6mm!important}
+  .dashboard-grid .panel{padding:5mm!important;border:1px solid #b9c8d8!important}
+  .dashboard-grid .panel+ .panel{display:none!important}
+}
 
 
 /* Compact dashboard layout */

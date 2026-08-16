@@ -3507,6 +3507,34 @@ function renderImageDragState(
     <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20S4 15.3 4 9.2C4 4.5 9.8 3 12 7c2.2-4 8-2.5 8 2.2C20 15.3 12 20 12 20Z"/></svg><span>Built with Purpose</span></div>
   </footer>`;
 
+  async function certificateQrDataUrl(url) {
+    if (!window.QRCode) {
+      await new Promise((resolve, reject) => {
+        const existing = document.querySelector('script[data-certificate-qr]');
+        if (existing) {
+          existing.addEventListener("load", resolve, { once: true });
+          existing.addEventListener("error", reject, { once: true });
+          return;
+        }
+        const script = document.createElement("script");
+        script.src = "/assets/vendor/qrcode.min.js?v=1";
+        script.dataset.certificateQr = "true";
+        script.addEventListener("load", resolve, { once: true });
+        script.addEventListener("error", reject, { once: true });
+        document.head.appendChild(script);
+      });
+    }
+    const holder = document.createElement("div");
+    holder.style.cssText = "position:fixed;left:-9999px;top:-9999px";
+    document.body.appendChild(holder);
+    new window.QRCode(holder, { text: url, width: 180, height: 180, colorDark: "#173968", colorLight: "#ffffff", correctLevel: window.QRCode.CorrectLevel.M });
+    const image = holder.querySelector("img");
+    const canvas = holder.querySelector("canvas");
+    const dataUrl = image?.src || canvas?.toDataURL("image/png") || "";
+    holder.remove();
+    return dataUrl;
+  }
+
   async function printCertificate(percentage) {
     const studentName =
       getStudentName() || "Student";
@@ -3518,6 +3546,10 @@ function renderImageDragState(
         .replace(/>/g, "&gt;");
 
     try {
+      const resourceUrl = new URL(window.location.pathname, window.location.origin).href;
+      const qrDataUrl = await certificateQrDataUrl(resourceUrl);
+      const curriculumCode = String(config.skillCode || "SkillrHub").toUpperCase();
+      const completionDate = new Date().toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
       const certificateWindow =
         window.open("", "_blank");
 
@@ -3560,8 +3592,10 @@ function renderImageDragState(
             min-height: 9.75in;
             margin: 0 auto;
             padding: 0.48in 0.55in 0.36in;
-            border: 8px solid #1a3a72;
-            background: #fff;
+            border: 7px solid #173968;
+            outline: 2px solid #d9a525;
+            outline-offset: -14px;
+            background: linear-gradient(145deg, #fff 0%, #f7faff 100%);
             text-align: center;
             display: flex;
             flex-direction: column;
@@ -3618,8 +3652,21 @@ function renderImageDragState(
             overflow-wrap: anywhere;
           }
           .score {
+            display: inline-block;
+            align-self: center;
+            padding: 0.1in 0.24in;
+            border-radius: 999px;
+            background: #173968;
+            color: #fff;
             font-size: 20px;
+            font-weight: 800;
           }
+          .certificate-meta { display: grid; grid-template-columns: 1fr auto; gap: 0.18in; align-items: center; margin-top: 0.2in; padding: 0.16in; border: 1px solid #cad6e5; background: #fff; text-align: left; }
+          .certificate-meta p { margin: 0.04in 0; color: #44546a; font-size: 12px; }
+          .certificate-meta strong { color: #173968; }
+          .certificate-qr { display: grid; grid-template-columns: 0.88in 1fr; gap: 0.12in; align-items: center; }
+          .certificate-qr img { width: 0.88in; height: 0.88in; border: 1px solid #cad6e5; }
+          .certificate-qr span { color: #52647d; font-size: 9px; line-height: 1.3; }
           .certificate-footer { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.08in; padding-top: 0.18in; border-top: 1px solid #aab7ca; color: #1a3a72; }
           .footer-item { display: flex; align-items: center; justify-content: center; gap: 6px; min-width: 0; font-size: 9px; font-weight: 700; line-height: 1.15; }
           .footer-item svg { width: 17px; height: 17px; flex: 0 0 17px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
@@ -3653,7 +3700,10 @@ function renderImageDragState(
           <p>successfully completed</p>
           <h2>${escapeCertificateText(getQuizTitle())}</h2>
           <p class="score">Score: ${percentage}%</p>
-          <p>skillrhub.com</p>
+          <div class="certificate-meta">
+            <div><p><strong>Curriculum:</strong> ${escapeCertificateText(curriculumCode)}</p><p><strong>Completed:</strong> ${escapeCertificateText(completionDate)}</p><p><strong>Issued by:</strong> SkillrHub Learning</p></div>
+            <div class="certificate-qr">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to open this SkillrHub resource">` : ""}<span>Scan to revisit this learning resource at skillrhub.com</span></div>
+          </div>
           </main>
           ${certificateFooter}
         </section>

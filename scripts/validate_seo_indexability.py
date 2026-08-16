@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-FUNCTIONAL = {"result", "results", "review", "retake", "teacher-slides"}
+FUNCTIONAL = {"result", "results", "review", "retake", "teacher-slides", "teacher-deck"}
 GA_ID = "G-8P22BET45N"
 ADSENSE_CLIENT = "ca-pub-7734963540104771"
 
@@ -33,7 +33,7 @@ def main() -> None:
     public_count = 0
     excluded_count = 0
     for absolute in sorted(ROOT.rglob("*.html")):
-        if ".git" in absolute.parts:
+        if set(absolute.parts) & {".git", "node_modules", "playwright-report", "test-results"}:
             continue
         relative = absolute.relative_to(ROOT)
         source = absolute.read_text(encoding="utf-8", errors="replace")

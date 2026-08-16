@@ -276,6 +276,16 @@
     byId("dashboardToolMessage").textContent = "Progress snapshot saved to this device.";
   });
 
+  byId("printScores").addEventListener("click", () => {
+    document.body.classList.add("dashboard-printing-scores");
+    const cleanup = () => {
+      document.body.classList.remove("dashboard-printing-scores");
+      window.removeEventListener("afterprint", cleanup);
+    };
+    window.addEventListener("afterprint", cleanup);
+    window.print();
+  });
+
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
   byId("loadProgress").addEventListener("change",async(event)=>{ try { await window.SkillrProgress.importBackup(event.target.files[0]); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; });
   addEventListener("beforeinstallprompt",(event)=>{ event.preventDefault(); deferredPrompt=event; });
