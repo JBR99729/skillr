@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'scripts/migrate_upper_science_static.mjs'
+      - 'scripts/fix_english_science_teacher_routes.mjs'
       - '.github/workflows/generate-upper-science-static-migration.yml'
   workflow_dispatch:
 
@@ -24,6 +25,8 @@ jobs:
           node-version: '22'
       - name: Generate static topic pages and fixed slide viewers
         run: node scripts/migrate_upper_science_static.mjs
+      - name: Rewrite curriculum links to fixed viewers
+        run: node scripts/fix_english_science_teacher_routes.mjs
       - name: Validate generated architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Verify no legacy upper Science live routes remain
