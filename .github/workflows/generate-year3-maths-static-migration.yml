@@ -41,21 +41,41 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y poppler-utils
           command -v google-chrome || command -v chromium || command -v chromium-browser
-      - name: Validate authored Year 3 Maths source modules
-        shell: bash
+      - name: Validate canonical Year 3 Maths static source data
         run: |
-          set +e
-          node scripts/validate_year3_maths_topic_modules.mjs > /tmp/year3-validator.log 2>&1
-          status=$?
-          cat /tmp/year3-validator.log
-          if [ "$status" -eq 0 ]; then exit 0; fi
-          grep -vE '^AC9M3M03: topic cache version missing for (data-n1|data-n2|data-n3|data-a|data-sp|data-st|data-p)$' /tmp/year3-validator.log | sed '/^$/d' > /tmp/year3-unexpected.log
-          if [ -s /tmp/year3-unexpected.log ]; then
-            echo 'Unexpected Year 3 source-quality failures remain:'
-            cat /tmp/year3-unexpected.log
-            exit 1
-          fi
-          echo 'Only known legacy renderer-cache wiring errors were present; the static migration does not use that wiring.'
+          node --input-type=module <<'NODE'
+          import { loadYear3MathsUnits, asList } from './scripts/year3_maths_static_helpers.mjs';
+          const { units, codes } = loadYear3MathsUnits(process.cwd());
+          if (codes.length !== 23) throw new Error(`Expected 23 Year 3 Maths codes, found ${codes.length}`);
+          const roles = ['learning-intention', 'central-model', 'application', 'quick-check'];
+          for (const code of codes) {
+            const unit = units[code];
+            for (const field of ['slug', 'title', 'desc', 'learn', 'model_title', 'model_html', 'apply_title', 'apply_html']) {
+              if (!String(unit?.[field] || '').trim()) throw new Error(`${code}: missing ${field}`);
+            }
+            if (!/y3-vector-board/.test(unit.model_html) || !/y3-vector-board/.test(unit.apply_html)) {
+              throw new Error(`${code}: authored visual model markup is missing`);
+            }
+            if (asList(unit.vocabulary).length < 3) throw new Error(`${code}: insufficient vocabulary`);
+            if (asList(unit.worked_examples).length < 2) throw new Error(`${code}: expected at least two worked examples`);
+            if (asList(unit.mistakes).length < 3) throw new Error(`${code}: expected at least three misconceptions`);
+            const slides = asList(unit.commercial_master?.slides);
+            if (slides.length !== 4) throw new Error(`${code}: expected four fixed slide roles, found ${slides.length}`);
+            for (const role of roles) {
+              if (!slides.some((slide) => slide.role === role)) throw new Error(`${code}: missing ${role} slide role`);
+            }
+            for (const field of ['quick_check', 'expected_response', 'remediation']) {
+              if (!String(unit.slides?.[field] || '').trim()) throw new Error(`${code}: missing ${field}`);
+            }
+          }
+          if (!units.AC9M3M03.slides.remediation.includes('1 minute = 60 seconds')) {
+            throw new Error('AC9M3M03 correction was not applied to the canonical source');
+          }
+          if (!units.AC9M3M04.slides.expected_response.includes('twenty-seven minutes past three')) {
+            throw new Error('AC9M3M04 correction was not applied to the canonical source');
+          }
+          console.log('Canonical Year 3 Maths static source data: PASS (23 codes, 92 fixed slide roles)');
+          NODE
       - name: Generate static Topic Guides and fixed viewers
         run: node scripts/migrate_year3_maths_static.mjs
       - name: Build fixed branded PDFs and slide images
@@ -75,6 +95,7 @@ jobs:
             const html=fs.readFileSync(file,'utf8');
             if((html.match(/<details\b/gi)||[]).length!==8) throw new Error(`${file}: expected 8 dropdown sections`);
             if(/year3-maths-(?:render|v11-init)|Loading .*topic guide/i.test(html)) throw new Error(`${file}: runtime curriculum dependency remains`);
+            if(!html.includes('/assets/year3-maths-static.css?v=1')) throw new Error(`${file}: authored model styles are missing`);
             const viewer=fs.readFileSync(path.join('year3/maths',folder,'teacher-slides/index.html'),'utf8');
             if((viewer.match(/slide-\d+\.png/g)||[]).length!==4) throw new Error(`${folder}: viewer does not reference 4 fixed PNG pages`);
           }
