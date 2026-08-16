@@ -30,6 +30,7 @@ A beautiful but inaccurate, ambiguous or conceptually mismatched resource fails.
 | Generic filler | None |
 | Slide delivery | Live 16:9 direct display only; downloads, printing and save-as-PDF blocked |
 | Slide navigation | Exactly one slide visible with Previous, Next and dynamic `current / total` progress |
+| Slide page fit | Complete slide fits laptop and tablet viewports with controls above it and no unnecessary page space below |
 | Slide branding | Repeated SkillrHub watermark and curriculum-code footer on every slide |
 
 The 7/10 visual threshold does not permit incorrect labels, misleading proportions, unclear arrows, cropped diagrams, text overlap or unreadable text. It means the illustration may be simple and functional rather than highly polished or photorealistic.
@@ -142,9 +143,11 @@ This format is locked for every teacher slide across all curriculum codes, years
 
 - Keep every slide in a stable, classroom-readable 16:9 presentation frame.
 - Show exactly one slide at a time. Do not stack the full sequence vertically in the live classroom view.
-- Provide visible Previous and Next controls and a dynamic `current / total` indicator, for example `1 / 12`, `2 / 12` and `3 / 12`.
+- Provide visible Previous and Next controls and a dynamic `current / total` indicator, for example `1 / 12`, `2 / 12` and `3 / 12`, in the page toolbar above the slide rather than inside the teaching canvas.
 - Support Left Arrow and Right Arrow keyboard navigation while preserving the visible controls for touch and pointer use.
 - Derive the total from the rendered slide sequence; never hard-code a slide count.
+- Fit the complete 16:9 slide within the available laptop or tablet viewport without stretching, cropping or changing its aspect ratio.
+- Prevent horizontal page overflow and remove legacy container height, margins or padding that create unnecessary blank page space below the slide.
 - Block slide download, browser printing and save-as-PDF pathways, including visible controls and common keyboard shortcuts.
 - Place a repeated, low-contrast `SkillrHub` watermark across every slide without obscuring teaching content.
 - Include a persistent footer on every slide containing the curriculum code.
