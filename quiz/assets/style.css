@@ -1685,6 +1685,7 @@ svg,canvas,video,iframe { max-width:100%; }
 .scratchpad-swatch[data-colour="#111827"] { --scratchpad-colour:#111827; }
 .scratchpad-tools button.is-selected { box-shadow:0 0 0 3px #7ba2e8; }
 .scratchpad-tools .scratchpad-eraser { border-radius:7px; background:#f3f6fa; color:#294466; font-size:.9rem; font-weight:900; }
+.scratchpad-eraser img { display:block; width:20px; height:20px; object-fit:contain; pointer-events:none; }
 .scratchpad-actions .scratchpad-clear { width:auto; min-width:72px; max-width:max-content; min-height:24px; flex:0 0 auto; align-self:center; margin-top:1px; padding:2px 12px; border:1px solid #b9cae2; border-radius:999px; background:#fff; color:#294466; font:inherit; font-size:.68rem; font-weight:800; cursor:pointer; }
 @media(min-width:700px){
   body.has-scratchpad-dock { padding-right:min(564px,calc(42vw + 24px)); transition:padding-right .2s ease; }
