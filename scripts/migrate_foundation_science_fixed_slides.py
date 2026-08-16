@@ -61,4 +61,11 @@ if idx.exists():
         text=re.sub(rf'/worksheets/foundation/science/teacher-slides/live\.html\?code={code}',f'/foundation/science/{slug}/teacher-slides/',text,flags=re.I)
     idx.write_text(text,encoding='utf-8')
 
+# Assert the exact legacy route family has been removed from all Foundation Science topic pages.
+legacy=re.compile(r'/worksheets/foundation/science/teacher-slides/(?:live\.html|ac9sf[a-z0-9]+-teacher-slide\.html)',re.I)
+for f in TOPIC_ROOT.glob('*/index.html'):
+    text=f.read_text(encoding='utf-8',errors='ignore')
+    if legacy.search(text):
+        raise RuntimeError(f'Legacy Foundation Science Teacher Slide link remains in {f}')
+
 print(f'Migrated {len(CODES)} Foundation Science teacher decks into {pages} fixed page images.')
