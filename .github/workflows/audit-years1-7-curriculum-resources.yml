@@ -1,0 +1,18 @@
+name: Audit Years 1-7 curriculum resources
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/audit_years1_7_curriculum_resources.mjs'
+      - '.github/workflows/audit-years1-7-curriculum-resources.yml'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit Years 1-7 Topic Guides and Teacher Slides
+        run: node scripts/audit_years1_7_curriculum_resources.mjs
