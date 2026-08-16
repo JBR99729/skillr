@@ -264,33 +264,21 @@
 
   byId("printScores").addEventListener("click", () => { void printProgressCertificate(); });
 
-  function closeResetPanel() {
-    byId("resetPanel").hidden = true;
-    byId("openReset").setAttribute("aria-expanded", "false");
-    byId("resetCode").value = "";
-    byId("resetMessage").textContent = "";
-  }
-
   byId("openReset").addEventListener("click", () => {
-    const opening = byId("resetPanel").hidden;
-    byId("resetPanel").hidden = !opening;
-    byId("openReset").setAttribute("aria-expanded", String(opening));
-    if (opening) byId("resetCode").focus();
-  });
-  byId("cancelReset").addEventListener("click", closeResetPanel);
-  byId("confirmReset").addEventListener("click", () => {
-    if (byId("resetCode").value !== "1234") {
-      byId("resetMessage").textContent = "Incorrect reset code. Progress has not been changed.";
-      byId("resetCode").select();
+    const resetCode = window.prompt("Print your latest scores first if needed. Enter reset code 1234 to clear the dashboard:");
+    if (resetCode === null) return;
+    if (resetCode.trim() !== "1234") {
+      byId("dashboardToolMessage").textContent = "Incorrect reset code. Dashboard data was not changed.";
       return;
     }
     window.SkillrProgress.reset();
-    closeResetPanel();
-    byId("dashboardToolMessage").textContent = "Dashboard reset. A fresh daily practice record has started.";
-  });
-  byId("resetCode").addEventListener("keydown", (event) => {
-    if (event.key === "Enter") byId("confirmReset").click();
-    if (event.key === "Escape") closeResetPanel();
+    const cleared = window.SkillrProgress.read();
+    if (cleared.attempts.length === 0 && Number(cleared.activeSeconds) === 0 && !cleared.profile.name) {
+      sessionStorage.setItem("skillrDashboardResetComplete", "1");
+      window.location.reload();
+      return;
+    }
+    byId("dashboardToolMessage").textContent = "Dashboard could not be cleared. Please reload and try again.";
   });
 
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
@@ -299,5 +287,9 @@
   byId("installButton").addEventListener("click",async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; } else { byId("installMessage").textContent="On iPhone or iPad, tap Share then Add to Home Screen. On desktop, use the install icon in your browser address bar."; } });
   addEventListener("skillr:progress-changed",render);
   render();
+  if (sessionStorage.getItem("skillrDashboardResetComplete") === "1") {
+    sessionStorage.removeItem("skillrDashboardResetComplete");
+    byId("dashboardToolMessage").textContent = "Dashboard cleared. A fresh daily practice record has started.";
+  }
   loadCurriculumTitles();
 })();

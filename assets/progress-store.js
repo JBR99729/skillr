@@ -153,6 +153,7 @@
   }
 
   function reset() {
+    localStorage.removeItem(KEY);
     return write(blank());
   }
 

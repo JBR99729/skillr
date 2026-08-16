@@ -19,7 +19,7 @@
   <link rel="icon" href="/icons/skillrhub-mark.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css?v=20260813-5">
-  <link rel="stylesheet" href="/dashboard/style.css?v=20260813-2">
+  <link rel="stylesheet" href="/dashboard/style.css?v=20260816-3">
 </head>
 <body class="progress-page">
   <main class="progress-shell">
@@ -63,25 +63,10 @@
       <button id="printScores" class="dashboard-tool-button" type="button">
         <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#print"></use></svg></span><span><strong>Print Latest Scores</strong><small>Create a branded certificate with results, time spent and QR code</small></span>
       </button>
-      <button id="openReset" class="dashboard-tool-button dashboard-tool-button--reset" type="button" aria-expanded="false" aria-controls="resetPanel">
+      <button id="openReset" class="dashboard-tool-button dashboard-tool-button--reset" type="button">
         <span aria-hidden="true">↺</span><span><strong>Reset Dashboard</strong><small>Start a fresh daily practice record</small></span>
       </button>
       <p id="dashboardToolMessage" class="dashboard-tool-message" role="status"></p>
-    </section>
-
-    <section id="resetPanel" class="dashboard-reset-panel" aria-labelledby="resetHeading" hidden>
-      <div>
-        <p class="progress-kicker">Fresh daily record</p>
-        <h2 id="resetHeading">Reset dashboard progress</h2>
-        <p><strong>Print or save your current progress certificate first.</strong> Resetting clears the learner profile, time spent and activity history on this device so today’s daily practice can be recorded separately.</p>
-      </div>
-      <div class="dashboard-reset-actions">
-        <label for="resetCode">Enter reset code</label>
-        <input id="resetCode" type="password" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="4-digit code">
-        <button id="confirmReset" type="button">Reset progress</button>
-        <button id="cancelReset" class="dashboard-reset-cancel" type="button">Cancel</button>
-      </div>
-      <p id="resetMessage" class="dashboard-reset-message" role="status"></p>
     </section>
 
     <section id="avatarPanel" class="avatar-panel" hidden aria-labelledby="avatarHeading">
@@ -125,8 +110,8 @@
 
     <p class="dashboard-privacy-note">Advertising helps keep SkillrHub free. Ads are kept separate from learning controls and progress information. See our <a href="/privacy-policy.html">Privacy Policy</a>.</p>
   </main>
-  <script src="/assets/progress-store.js?v=4" data-skillr-progress="true"></script>
-  <script src="/dashboard/script.js?v=20260816-3"></script>
+  <script src="/assets/progress-store.js?v=6" data-skillr-progress="true"></script>
+  <script src="/dashboard/script.js?v=20260816-5"></script>
   <script src="/assets/first-visit-onboarding.js?v=20260814-dashboard1"></script>
   <script src="/pwa-register.js?v=5"></script>
 </body>
