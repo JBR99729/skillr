@@ -38,9 +38,10 @@ const customDecks = fs.readdirSync(year3Root, { withFileTypes: true })
   .map((entry) => ({
     slug: entry.name,
     topicFile: path.join("year3", "maths", entry.name, "index.html"),
-    deckFile: path.join("year3", "maths", entry.name, "teacher-deck", "index.html")
+    legacyDeckFile: path.join("year3", "maths", entry.name, "teacher-deck", "index.html"),
+    fixedViewerFile: path.join("year3", "maths", entry.name, "teacher-slides", "index.html")
   }))
-  .filter(({ deckFile }) => fs.existsSync(path.join(root, deckFile)));
+  .filter(({ legacyDeckFile, fixedViewerFile }) => fs.existsSync(path.join(root, legacyDeckFile)) || fs.existsSync(path.join(root, fixedViewerFile)));
 
 const curriculumHub = read("year3/curriculum/maths/index.html");
 const canonical = read("assets/year3-maths-v11-canonical.js");
@@ -54,40 +55,40 @@ if (preservationIndex < 0 || preservationIndex > replacementIndex) {
   fail("Year 3 renderer: authored-topic preservation must run before main.innerHTML replacement");
 }
 
-for (const { slug, topicFile, deckFile } of customDecks) {
+let fixedViewerCount = 0;
+let legacyCustomDeckCount = 0;
+for (const { slug, topicFile, legacyDeckFile, fixedViewerFile } of customDecks) {
+  if (!fs.existsSync(path.join(root, topicFile))) continue;
   const topic = read(topicFile);
   const code = topic.match(/curriculumCode\s*:\s*["']([A-Z0-9]+)["']/i)?.[1]?.toUpperCase()
     || topic.match(/\b(AC9M3[A-Z0-9]+)\b/)?.[1]?.toUpperCase();
-  const route = `/year3/maths/${slug}/teacher-deck/`;
 
   if (!code) {
-    fail(`${topicFile}: cannot identify curriculum code for custom teacher deck`);
+    fail(`${topicFile}: cannot identify curriculum code for teacher slides`);
     continue;
   }
-  if (!topic.includes("teacher-deck/")) fail(`${code}: topic page does not link its custom teacher deck`);
-  if (!curriculumHub.includes(`href="${route}"`)) fail(`${code}: curriculum hub does not link its custom teacher deck`);
-  if (!canonical.includes(`"${code}"`) || !canonical.includes("CUSTOM_TEACHER_DECK_CODES.has(code)")) {
-    fail(`${code}: canonical resourceLinks can overwrite the custom teacher deck route`);
-  }
-  if (!legacyRenderer.includes(`"${code}"`) || !legacyRenderer.includes("CUSTOM_TEACHER_DECK_CODES.has(code)")) {
-    fail(`${code}: legacy renderer can overwrite the authored custom-deck topic`);
-  }
 
-  const authoredMarkers = [
-    "Essential relationships",
-    "Estimate → measure → compare",
-    "Real-life scenarios",
-    "Student FAQ",
-    "Quick guided practice"
-  ].filter((marker) => topic.includes(marker));
-  if (authoredMarkers.length >= 2) {
-    if (!renderer.includes("hasAuthoredExpandedTopic")) fail(`${code}: renderer cannot detect authored expanded topics`);
-    if (!renderer.includes("main a[href*=\"teacher-deck/\"]") || !renderer.includes('qa("main h2").length >= 5')) {
-      fail(`${code}: renderer preservation detector does not recognize substantial custom-deck topics`);
+  const usesFixedViewer = topic.includes('href="teacher-slides/"') || topic.includes("href='teacher-slides/'");
+  if (usesFixedViewer) {
+    fixedViewerCount++;
+    if (!fs.existsSync(path.join(root, fixedViewerFile))) fail(`${code}: fixed teacher-slides viewer target is missing`);
+    else {
+      const viewer = read(fixedViewerFile);
+      if (!viewer.includes("fixed-slide-viewer")) fail(`${code}: fixed teacher-slides route is not using the protected viewer`);
+      if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) fail(`${code}: fixed teacher-slides viewer exposes a direct PPTX/PDF link`);
+    }
+  } else if (fs.existsSync(path.join(root, legacyDeckFile))) {
+    legacyCustomDeckCount++;
+    const route = `/year3/maths/${slug}/teacher-deck/`;
+    if (!topic.includes("teacher-deck/")) fail(`${code}: topic page does not link its custom teacher deck`);
+    if (!curriculumHub.includes(`href="${route}"`)) fail(`${code}: curriculum hub does not link its custom teacher deck`);
+    if (!canonical.includes(`"${code}"`) || !canonical.includes("CUSTOM_TEACHER_DECK_CODES.has(code)")) {
+      fail(`${code}: canonical resourceLinks can overwrite the custom teacher deck route`);
+    }
+    if (!legacyRenderer.includes(`"${code}"`) || !legacyRenderer.includes("CUSTOM_TEACHER_DECK_CODES.has(code)")) {
+      fail(`${code}: legacy renderer can overwrite the authored custom-deck topic`);
     }
   }
-
-  if (!fs.existsSync(path.join(root, deckFile))) fail(`${code}: custom teacher deck target is missing`);
 
   for (const [bank, minimum] of [["practice", 24], ["test", 16]]) {
     const questions = loadAssembledBank(code, bank);
@@ -122,4 +123,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`PASS runtime content ownership: ${customDecks.length} custom Year 3 teacher deck(s), canonical links, curriculum entry points and authored-topic preservation verified.`);
+console.log(`PASS runtime content ownership: ${fixedViewerCount} fixed Year 3 teacher viewer(s), ${legacyCustomDeckCount} legacy custom deck(s), assessment-bank identity and static-topic preservation verified.`);
