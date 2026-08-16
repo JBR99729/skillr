@@ -38,6 +38,18 @@ jobs:
         run: |
           test "$(find worksheets/year6/maths/teacher-slides -maxdepth 1 -name 'ac9m6*-teacher-slide.pdf' | wc -l)" -ge 20
           git diff --check
+      - name: Render representative visual preview
+        run: |
+          mkdir -p /tmp/year6-maths-preview
+          pdftoppm -png -r 144 \
+            worksheets/year6/maths/teacher-slides/ac9m6n01-teacher-slide.pdf \
+            /tmp/year6-maths-preview/ac9m6n01
+      - uses: actions/upload-artifact@v4
+        with:
+          name: year6-maths-pdf-preview
+          path: /tmp/year6-maths-preview/*.png
+          if-no-files-found: error
+          retention-days: 7
       - name: Commit generated PDFs to repair branch
         run: |
           git config user.name "SkillrHub PDF Builder"
