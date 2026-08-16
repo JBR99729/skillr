@@ -1,5 +1,17 @@
 # Skillr Repository Instructions
 
+## Current operating mode: stability / QA freeze
+
+Until the owner explicitly lifts this freeze, do **not** add new product features or perform broad curriculum rebuilds. Work is limited to QA, bug fixes, SEO/indexability fixes, accessibility fixes, factual/content corrections, and changes driven by real user, teacher or parent feedback.
+
+Individual curriculum-code maintenance is allowed. A request to fix or improve one curriculum code, or a clearly named small set of curriculum codes, must stay scoped to those codes and must not be expanded into a site-wide rewrite.
+
+Protect the core user journey for every curriculum code: **Topic Guide → Teacher Slides → Practice Sheet / Worksheet → Practice → Test**. A change that breaks, removes, empties or silently reroutes any of these is a release blocker.
+
+Existing mass-build and migration workflows are maintenance tools, not permission to regenerate the site. Do not run, introduce or expand broad generators that rewrite all topic pages, teacher decks, worksheets or practice content unless the owner explicitly asks for that site-wide operation. Prefer the smallest direct patch to the affected curriculum code(s).
+
+SEO is also in light-touch maintenance mode. Preserve the current titles, descriptions, canonicals, sitemap strategy and keyword architecture unless a specific page has a verified defect or the owner explicitly requests an SEO change. Weekly SEO cleanup should be evidence-led from Search Console: prioritise queries/pages ranking worse than position 30, improve only the relevant individual pages, and do not use that cleanup as a reason for site-wide rewrites.
+
 ## Curriculum topic guides and teacher slides
 
 The user explicitly unlocked Topic Guide + Teacher Slide v1.1 on 2026-08-17. The old live-renderer architecture is superseded.
