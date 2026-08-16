@@ -22,12 +22,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate authored Foundation English source modules before migration
-        run: node scripts/validate_foundation_english_topic_modules.mjs
+      - name: Verify authored Foundation English source assets exist
+        run: |
+          test -f assets/foundation-english-data.js
+          test -f assets/foundation-english-topic-module-la-v2.js
+          test -f assets/foundation-english-topic-module-le-ly1-v2.js
+          test -f assets/foundation-english-topic-module-ly2-v2.js
+          test -f assets/foundation-english-topic-module-core-v2.js
+          test -f assets/foundation-canonical-v1.1.js
       - name: Generate Foundation English static pages and fixed slides
         run: node scripts/migrate_foundation_english_static.mjs
       - name: Validate generated static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Verify Foundation English topics no longer depend on runtime topic modules
+        run: |
+          if grep -R -E 'foundation-english-topic-module|foundation-english-classroom-v2|foundation-canonical-v1\.1\.js' foundation/english --include='index.html'; then
+            echo 'Legacy Foundation English runtime dependency remains.'
+            exit 1
+          fi
       - name: Commit generated files to migration branch
         shell: bash
         run: |
