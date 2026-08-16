@@ -4011,7 +4011,7 @@ function renderImageDragState(
           window.location.href = config.resultUrl;
         };
 
-        openResultPage();
+        proficientSoundCompletion.then(openResultPage, openResultPage);
         return;
       } catch (error) {
         console.error("Could not open the separate result page:", error);
