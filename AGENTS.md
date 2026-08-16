@@ -26,8 +26,9 @@ The **Static Topic Guide + Fixed Teacher Presentation standard (v2)** is mandato
 
 - Teacher presentations are fixed authored assets, not browser-assembled curriculum decks.
 - A clean, pre-generated 16:9 PPTX may be used as the build/master source, but the PPTX itself must not be publicly linked or exposed as the teacher-facing resource.
-- Public delivery is a simple page-by-page slide viewer using pre-rendered fixed slide images/pages generated from the approved presentation. The viewer may use minimal JavaScript only for Previous/Next, slide number, keyboard navigation and fullscreen; JavaScript must not assemble or alter curriculum content.
+- Public delivery is a simple page-by-page slide viewer using pre-rendered fixed slide images/pages generated from the approved presentation. The viewer may use minimal JavaScript only for Previous/Next, slide number, keyboard navigation, fullscreen and copy deterrence; JavaScript must not assemble or alter curriculum content.
 - No public Download PPTX or Download PDF control is permitted for Teacher Slides. Do not link directly to the source PPTX/PDF from topic pages or the viewer.
+- The public viewer must make casual copying difficult: disable context-menu/right-click over slide content, text/image selection, image dragging and browser print output; intercept common Copy/Save/Print/View Source shortcuts while the viewer has focus or is fullscreen. Do not claim this is DRM or screenshot-proof.
 - Every rendered slide must include visible SkillrHub branding and a persistent footer in the form: `CURRICULUM_CODE • SkillrHub • skillrhub.com`.
 - Every rendered slide must include a subtle repeated `SkillrHub • skillrhub.com` watermark that does not interfere with teaching content.
 - Branding, watermark and footer are baked into the fixed slide artwork before publication, not injected by website CSS or JavaScript.
