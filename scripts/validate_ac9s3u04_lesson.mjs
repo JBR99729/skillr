@@ -24,14 +24,22 @@ requireValue(lesson.slides.length >= 10, "Teacher deck requires at least 10 slid
 for (const slide of lesson.slides) for (const field of ["teacherDoes", "teacherSaysOrAsks", "studentDoes", "whatToLookFor", "ifIncorrect"]) requireValue(Boolean(slide.teacherLayer?.[field]), `${slide.id}: missing ${field}`);
 for (const item of lesson.masteryItems) for (const field of ["expectedAnswer", "acceptableRepresentations", "evidenceOfMastery", "likelyMisconception", "remediation", "decision"]) requireValue(Boolean(item[field]), `${item.id}: missing ${field}`);
 for (const file of [topic, deck]) {
-  requireValue(file.includes("/assets/ac9s3u04-lesson.js?v=1"), "Output does not load canonical source");
-  requireValue(file.includes("/assets/ac9s3u04-render.js?v=1"), "Output does not load shared renderer");
+  requireValue(/\/assets\/ac9s3u04-lesson\.js\?v=\d+/.test(file), "Output does not load versioned canonical source");
+  requireValue(/\/assets\/ac9s3u04-render\.js\?v=\d+/.test(file), "Output does not load versioned shared renderer");
 }
 requireValue(deck.includes("/assets/display-only.js?v=2"), "Deck does not load display-only protection");
 requireValue(!/adsbygoogle|googletagmanager|download|onclick=["'][^"']*print/i.test(deck), "Deck contains advertising or print/download UI");
 requireValue(/googletagmanager/.test(topic) && /adsbygoogle/.test(topic), "Public topic analytics or advertising missing");
 for (const model of lesson.models) requireValue(renderer.includes(`\"${model.id}\"`), `Renderer missing model ${model.id}`);
 requireValue(metadata?.teacherSlideUrl === lesson.resourceLinks.teacherSlides, "Metadata teacher deck route mismatch");
+for (const relative of [
+  "year3/curriculum/science/index.html",
+  "year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/index.html"
+]) {
+  const entryPoint = read(relative);
+  requireValue(entryPoint.includes(lesson.resourceLinks.teacherSlides), `${relative}: live teacher deck link missing`);
+  requireValue(!entryPoint.includes("ac9s3u04-teacher-slide.pdf"), `${relative}: stale teacher PDF link remains`);
+}
 requireValue(practice.length === 28 && test.length === 28, "Assessment must contain 28 Practice and 28 Test questions");
 requireValue(bank.every((item) => item.answers.length === 4), "Every assessment item must have four options");
 requireValue(new Set(bank.map((item) => item.question.toLowerCase())).size === 56, "Assessment prompts must be unique");

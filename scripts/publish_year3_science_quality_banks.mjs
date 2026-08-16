@@ -56,6 +56,12 @@ for (const [code, unit] of Object.entries(units)) {
     .replace(/<p>Choose a learning activity\. Practice draws from \d+ questions, while Test uses a separate \d+-question bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from ${practiceBankCount} questions, while Test uses a separate ${testBankCount}-question bank.</p>`)
     .replace(/<p>This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*<\/p>/, `<p>This QA-reviewed unit provides ${practiceBankCount} Practice questions and ${testBankCount} separate Test questions.</p>`)
     .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Unit focus</h2>${listHtml(notes)}</section>`);
+  if (code === "AC9S3U04") {
+    activity = activity.replace(
+      "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/#teacher-slide\">Teacher slide",
+      "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/teacher-deck/\">Teacher slides"
+    );
+  }
   fs.writeFileSync(activityFile, activity);
 
   for (const bankName of ["practice", "test"]) {
