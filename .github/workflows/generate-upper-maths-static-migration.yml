@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'scripts/migrate_upper_maths_static.mjs'
+      - 'scripts/fix_upper_maths_curriculum_teacher_links.mjs'
       - '.github/workflows/generate-upper-maths-static-migration.yml'
   workflow_dispatch:
 
@@ -24,17 +25,25 @@ jobs:
           node-version: '22'
       - name: Generate static topic pages and fixed slide viewers
         run: node scripts/migrate_upper_maths_static.mjs
+      - name: Fix curriculum Teacher Slide routes
+        run: node scripts/fix_upper_maths_curriculum_teacher_links.mjs
       - name: Validate generated architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Reject legacy upper Maths Teacher Slide routes
+        run: |
+          if grep -RInE '/worksheets/year(8|9|10)/maths/teacher-slides/live\.html\?code=' year8/curriculum/maths year9/curriculum/maths year10/curriculum/maths; then
+            echo 'Legacy upper Maths Teacher Slide route remains.' >&2
+            exit 1
+          fi
       - name: Commit generated files to migration branch
         shell: bash
         run: |
-          if git diff --quiet -- year8/maths year9/maths year10/maths; then
+          if git diff --quiet -- year8/maths year9/maths year10/maths year8/curriculum/maths year9/curriculum/maths year10/curriculum/maths; then
             echo 'Generated output is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add year8/maths year9/maths year10/maths
-          git commit -m 'Generate static Years 8-10 Maths curriculum pages'
+          git add year8/maths year9/maths year10/maths year8/curriculum/maths year9/curriculum/maths year10/curriculum/maths
+          git commit -m 'Generate static Years 8-10 Maths curriculum pages and routes'
           git push origin HEAD:${GITHUB_HEAD_REF}
