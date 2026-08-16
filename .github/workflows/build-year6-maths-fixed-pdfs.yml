@@ -35,7 +35,14 @@ jobs:
       - name: Apply PDF-only visual sizing overrides
         run: |
           cat >> assets/year6-curriculum.css <<'CSS'
-          .model-wrap .y6-coordinate{width:560px;max-width:100%;margin:auto}.model-wrap .y6-coordinate .plot{width:100%;aspect-ratio:1}.model-wrap .y6-coordinate .plot span{min-height:0;aspect-ratio:1}.model-wrap .y6-numberline{width:100%}.model-wrap .y6-angle-set{max-width:900px;margin:auto}.model-wrap .y6-cross-section,.model-wrap .y6-tessellation{max-width:900px;margin:auto}
+          .model-wrap .y6-coordinate{width:500px;max-width:100%;margin:auto}
+          .model-wrap .y6-numberline{width:100%}
+          .model-wrap .y6-angle-set{max-width:920px;margin:auto;gap:12px}
+          .model-wrap .y6-angle-set .angle{width:210px;height:150px}
+          .model-wrap .y6-angle-set .angle span,.model-wrap .y6-angle-set .angle i{left:35px;bottom:48px;width:120px;height:5px}
+          .model-wrap .y6-angle-set .angle strong{left:0;right:0;bottom:5px;text-align:center;font-size:16px;line-height:1.15}
+          .model-wrap .y6-angle-set .angle small{display:none}
+          .model-wrap .y6-cross-section,.model-wrap .y6-tessellation{max-width:900px;margin:auto}
           CSS
       - name: Build and render-check all Year 6 Maths decks
         run: node scripts/build_year6_maths_fixed_pdfs.mjs
