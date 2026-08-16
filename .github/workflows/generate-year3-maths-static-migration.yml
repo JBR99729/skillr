@@ -47,7 +47,7 @@ jobs:
           import { loadYear3MathsUnits, asList } from './scripts/year3_maths_static_helpers.mjs';
           const { units, codes } = loadYear3MathsUnits(process.cwd());
           if (codes.length !== 23) throw new Error(`Expected 23 Year 3 Maths codes, found ${codes.length}`);
-          const roles = ['learning-intention', 'central-model', 'application', 'quick-check'];
+          const roles = ['learning-intention', 'concept-refresher', 'guided-example', 'quick-check'];
           for (const code of codes) {
             const unit = units[code];
             for (const field of ['slug', 'title', 'desc', 'learn', 'model_title', 'model_html', 'apply_title', 'apply_html']) {
