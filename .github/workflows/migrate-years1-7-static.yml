@@ -52,14 +52,22 @@ jobs:
           fi
 
       - name: Guard changed Teacher Slide viewers against downloads/runtime assembly
+        shell: bash
         run: |
-          viewers=$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '/teacher-(slides|deck)/index\.html$' || true)
-          if [ -n "$viewers" ]; then
-            if grep -EnH 'href=["'"'][^"'"']+\.(pdf|pptx)|lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach' $viewers; then
-              echo "Legacy Teacher Slide delivery remains in a changed viewer"
-              exit 1
-            fi
-          fi
+          node <<'NODE'
+          const {execFileSync}=require('node:child_process');
+          const fs=require('node:fs');
+          const files=execFileSync('git',['diff','--name-only','origin/${{ github.base_ref }}...HEAD'],{encoding:'utf8'})
+            .trim().split(/\n/).filter(Boolean).filter(f=>/\/teacher-(slides|deck)\/index\.html$/.test(f));
+          const bad=[];
+          for(const f of files){
+            const h=fs.readFileSync(f,'utf8');
+            if(/href=["'][^"']+\.(?:pdf|pptx)(?:[?#]|["'])/i.test(h)) bad.push(`${f}: downloadable PDF/PPTX`);
+            if(/lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach/i.test(h)) bad.push(`${f}: runtime slide assembly`);
+          }
+          if(bad.length){console.error(bad.join('\n'));process.exit(1)}
+          console.log(`Teacher Slide delivery guard: PASS (${files.length} changed viewers)`);
+          NODE
 
       - name: Push generated curriculum commit
         run: |
