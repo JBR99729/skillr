@@ -1,0 +1,32 @@
+name: Audit static curriculum site
+
+on:
+  pull_request:
+    paths:
+      - 'foundation/**'
+      - 'year*/**'
+      - 'assets/teacher-slide-viewer.*'
+      - 'scripts/audit_static_curriculum_site.mjs'
+      - 'scripts/validate_static_curriculum_architecture.mjs'
+      - '.github/workflows/audit-static-curriculum-site.yml'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate changed curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Inventory remaining sitewide violations
+        run: node scripts/audit_static_curriculum_site.mjs --json=artifacts/static-curriculum-audit.json
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: static-curriculum-audit
+          path: artifacts/static-curriculum-audit.json
