@@ -2189,6 +2189,28 @@ footer {
     text-transform: uppercase;
 }
 
+.footer-nav .updates-link__badge {
+    margin-left: 2px;
+    animation: updates-badge-flash 1.4s ease-in-out infinite;
+}
+
+@keyframes updates-badge-flash {
+    0%, 100% {
+        background: #c62828;
+        box-shadow: 0 0 0 0 rgba(198, 40, 40, 0);
+    }
+    50% {
+        background: #e53935;
+        box-shadow: 0 0 0 3px rgba(229, 57, 53, 0.2);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .footer-nav .updates-link__badge {
+        animation: none;
+    }
+}
+
 .site-header__links {
     display: flex;
     align-items: center;
