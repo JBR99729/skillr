@@ -17,7 +17,7 @@ Required properties:
 - Analytics, reporting, accessibility helpers and PWA registration are permitted because they are not curriculum-content renderers.
 - Long topic guides must use native `<details>` / `<summary>` disclosure sections to remain compact without JavaScript.
 - The first high-value section may use `<details open>`; secondary sections should normally be collapsed.
-- Every migrated topic page must link directly to the fixed `.pptx` teacher presentation for the same curriculum code.
+- Every migrated topic page must link to the fixed Teacher Slides viewer for the same curriculum code, not to a downloadable presentation file.
 
 Recommended structure:
 
@@ -45,16 +45,21 @@ Before bulk rewriting a topic page:
 5. Never replace a strong topic page with a generic curriculum-description template.
 6. Keep the topic inside its curriculum boundary; later-year extension content must not silently become the core lesson.
 
-## 3. Teacher presentations are fixed PPTX assets
+## 3. Teacher presentations use fixed pre-rendered slides
 
-Teacher presentations must be generated ahead of publication as fixed 16:9 `.pptx` files. Runtime browser code must not assemble the teaching deck from JSON, JavaScript curriculum objects, live HTML hosts or renderer scripts.
+Teacher presentations must be authored/generated ahead of publication as clean 16:9 decks. A PPTX may be used as the build/master source, but the public website must not expose or link the PPTX.
 
-Publication rules:
+Public delivery rules:
 
-- The canonical teacher-slide asset is `.pptx`.
-- The topic page must link directly to that fixed PPTX.
-- A fixed PDF may also be exported from the PPTX for browser preview or printing, but PDF is optional and does not replace the PPTX master.
-- The website must never recreate the deck at runtime.
+- The teacher-facing resource is a simple browser viewer that presents one fixed pre-rendered slide at a time.
+- Slide artwork/pages are generated from the approved presentation ahead of publication.
+- Minimal viewer JavaScript is allowed only for Previous/Next, slide number, keyboard navigation and fullscreen.
+- Viewer JavaScript must not construct, rewrite or select curriculum teaching content from lesson data objects.
+- No public Download PPTX or Download PDF control is allowed.
+- Topic pages must link to the viewer route, not directly to PPTX/PDF assets.
+- A teacher should be able to open the viewer on a laptop, tablet or classroom display and move page by page through the lesson.
+
+Because the site is public, displayed slide images/pages cannot be made technically impossible to save by a determined user. The product requirement is therefore: do not expose the editable/downloadable deck file and do not provide a download control.
 
 ## 4. Mandatory branding
 
@@ -66,7 +71,7 @@ Every teacher slide must permanently include:
 
 `CURRICULUM_CODE • SkillrHub • skillrhub.com`
 
-The curriculum code must be the code for that topic. Branding must be baked into the PPTX artwork. Website CSS or JavaScript must not be responsible for adding it.
+The curriculum code must be the code for that topic. Branding must be baked into the fixed slide artwork before publication. Website CSS or JavaScript must not be responsible for adding it.
 
 ## 5. Slide safe-area and overlap rules
 
@@ -86,15 +91,16 @@ Images must preserve aspect ratio and fit controlled bounding boxes. Reserve a p
 
 ## 6. Render verification gate
 
-Every generated PPTX must follow a render-first verification loop:
+Every source presentation must follow a render-first verification loop:
 
-1. Generate the fixed PPTX.
-2. Export/render it to PDF and/or slide images for QA.
+1. Generate/authenticate the fixed source deck.
+2. Render every slide to the exact public slide image/page format.
 3. Inspect every rendered slide for overlap, clipping, broken glyphs, off-canvas content, branding, watermark and footer presence.
-4. Correct the PPTX source.
+4. Correct the source presentation.
 5. Re-render until clean.
+6. Verify the public viewer loads slide 1, navigates sequentially through every slide and never exposes a presentation/PDF download.
 
-A presentation is not publication-ready merely because the PPTX file was created successfully.
+A presentation is not publication-ready merely because the source deck was created successfully.
 
 ## 7. Alignment rules
 
@@ -108,7 +114,8 @@ Do not introduce or restore any of the following for canonical curriculum teachi
 
 - empty `topicRoot`, `slideRoot` or `deck` containers populated by curriculum JavaScript;
 - runtime iteration of `slides`, `teachingSlides`, `models`, lesson JSON or similar objects to construct the canonical teacher deck;
-- `teacher-slides/live.html` or equivalent live renderer as the canonical teacher resource;
+- live renderer hosts that generate slide content in the browser;
+- public direct links to `.pptx` or teacher-slide `.pdf` downloads;
 - separate renderer versions per year as the primary source of topic content;
 - content that disappears when a script fails to load;
 - website-only watermark/footer injection for teacher presentations;
@@ -122,8 +129,9 @@ A migrated topic is complete only when:
 - the page uses native collapsible sections where needed;
 - no curriculum-content renderer is required;
 - all resource links work;
-- a fixed `.pptx` teacher asset exists and is linked directly;
-- every teacher slide has branding, watermark and the curriculum-code footer;
+- Teacher Slides opens a fixed page-by-page viewer;
+- no PPTX/PDF download link is exposed;
+- every rendered teacher slide has branding, watermark and the curriculum-code footer;
 - rendered slide QA passes with no overlap or clipping;
 - topic and teacher presentation are curriculum-aligned; and
 - protected interactive features remain intact.

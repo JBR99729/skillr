@@ -13,8 +13,10 @@ try {
 }
 
 const topicPath = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/;
-const teacherHostPath = /(?:\/teacher-deck\/index\.html$|\/teacher-slides\/live\.html$|\/teacher-slides\/[^/]+\/index\.html$)/;
+const teacherViewerPath = /(?:\/teacher-deck\/index\.html$|\/teacher-slides\/live\.html$|\/teacher-slides\/[^/]+\/index\.html$)/;
 const errors = [];
+const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
+const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
 
 for (const file of changed) {
   if (!fs.existsSync(file)) continue;
@@ -34,18 +36,27 @@ for (const file of changed) {
     if (!/What students learn|Key concept|Learning intention|Learning goal/i.test(text)) {
       errors.push(`${file}: static teaching content appears to be missing`);
     }
-    if (!/href=["'][^"']+\.pptx(?:[?#][^"']*)?["']/i.test(html)) {
-      errors.push(`${file}: migrated topic page must link directly to its fixed teacher-slide PPTX`);
+    if (publicDownload.test(html)) {
+      errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
+    }
+    if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/["']/i.test(html)) {
+      errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
     }
   }
 
-  if (teacherHostPath.test(file)) {
+  if (teacherViewerPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
-    if (/(?:<main[^>]+class=["'][^"']*(?:deck|slide)|slideRoot|teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js)/i.test(html)) {
-      errors.push(`${file}: teacher-slide hosts must not assemble curriculum slides at runtime`);
+    if (runtimeDeck.test(html)) {
+      errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     }
-    if (!/\.pptx(?:[?#"'])/i.test(html)) {
-      errors.push(`${file}: teacher-slide host must point to a fixed PPTX`);
+    if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) {
+      errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
+    }
+    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html)) {
+      errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
+    }
+    if (!/(?:Previous|Next|aria-label=["']Next slide|data-next-slide)/i.test(html)) {
+      errors.push(`${file}: Teacher Slides viewer must support page-by-page navigation`);
     }
   }
 }
