@@ -1692,9 +1692,12 @@ svg,canvas,video,iframe { max-width:100%; }
 @media(prefers-reduced-motion:reduce){ .quiz-celebration,.quiz-confetti { animation:none!important; } }
 @media(max-width:699px){
   body.has-scratchpad-dock { padding-right:0; }
-  .scratchpad-layer { position:relative; inset:auto; z-index:auto; width:calc(100% - 24px); height:min(68vh,520px); margin:12px auto 24px; }
+  .quiz-screen:not(.is-active) + .scratchpad-layer { display:none; }
+  .scratchpad-layer { position:relative; inset:auto; z-index:auto; width:calc(100% - 24px); height:clamp(220px,38vh,320px); margin:10px auto 18px; }
   .scratchpad-panel { width:100%; height:100%; box-shadow:0 10px 28px rgba(9,28,57,.16); }
-  .scratchpad-panel canvas { min-height:180px; }
+  .scratchpad-panel header { margin-bottom:6px; }
+  .scratchpad-panel header small { font-size:.7rem; }
+  .scratchpad-panel canvas { min-height:140px; }
 }
 @media(max-width:640px){
   .quiz-card,.screen { padding:14px; }

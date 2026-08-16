@@ -523,6 +523,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     ["pointerup", "pointercancel", "pointerleave"].forEach((name) => canvas.addEventListener(name, () => { drawing = false; }));
     layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
+    new MutationObserver(() => {
+      if (elements.quizScreen.classList.contains("is-active")) window.requestAnimationFrame(sizeCanvas);
+    }).observe(elements.quizScreen, { attributes: true, attributeFilter: ["class"] });
     window.requestAnimationFrame(sizeCanvas);
   }
 
