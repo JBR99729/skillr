@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AC9M3M04 Teacher Deck | Telling Time and Clock Geometry</title>
+  <meta name="description" content="Expanded AC9M3M04 teacher slide deck for analogue and digital time to the nearest minute, with real-life scenarios and Year 4 clock-geometry extension.">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    :root{--navy:#1a3a72;--blue:#1a91c7;--gold:#e5aa3d;--ink:#172b3f;--paper:#fff;--bg:#eef3f8;--soft:#f7fbff;--green:#176b49}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,sans-serif}
+    .deck{max-width:1180px;margin:auto;padding:26px}
+    .slide{background:var(--paper);min-height:620px;margin:0 0 30px;padding:48px;border-radius:24px;box-shadow:0 10px 28px #0002;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden}
+    .slide::after{content:attr(data-slide);position:absolute;right:24px;bottom:16px;color:#6b7d90;font-size:14px}
+    .slide h1,.slide h2,.slide h3{color:var(--navy)}
+    .slide h1{font-size:50px;margin:.2em 0}
+    .slide h2{font-size:37px;margin:.15em 0 .45em}
+    .slide h3{font-size:25px}
+    .slide p,.slide li{font-size:23px;line-height:1.45}
+    .slide li{margin:.28em 0}
+    .eyebrow{font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--blue)}
+    .teacher{border-left:7px solid var(--gold);padding:14px 18px;background:#fff8e8;border-radius:10px}
+    .extension{border-left:7px solid #7c5ce0;padding:14px 18px;background:#f4f0ff;border-radius:10px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+    .card{padding:20px;border:2px solid #d8e3ef;border-radius:18px;background:var(--soft)}
+    .answer{font-weight:700;color:var(--green)}
+    .formula{font-size:28px;font-weight:800;text-align:center;padding:18px;border:2px solid #b7cdec;background:#eef5ff;border-radius:16px}
+    .nav{position:sticky;top:0;background:var(--navy);color:white;padding:12px 20px;z-index:5;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+    .nav a{color:white}
+    .nav button{border:0;border-radius:999px;padding:.55rem .9rem;font-weight:700;cursor:pointer}
+    .clock{min-height:310px;display:grid;place-items:center}
+    .clock svg{width:min(100%,520px);height:auto}
+    .two-column{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center}
+    .badge{display:inline-block;padding:.35rem .7rem;border-radius:999px;background:#e8f3ff;color:var(--navy);font-weight:700}
+    .badge.ext{background:#eee8ff;color:#5636b4}
+    .quick-q{border-bottom:1px solid #d7e1eb;padding:.55rem 0}
+    @media(max-width:760px){.slide{padding:30px;min-height:auto}.slide h1{font-size:38px}.slide h2{font-size:30px}.slide p,.slide li{font-size:19px}.two-column{grid-template-columns:1fr}}
+    @media print{.nav{display:none}.deck{max-width:none;padding:0}.slide{break-after:page;box-shadow:none;margin:0;border-radius:0;min-height:95vh}}
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <a href="../">Back to topic</a>
+    <a href="/quiz/year-3/math/ac9m3m04/practice/">Practice</a>
+    <a href="/quiz/year-3/math/ac9m3m04/test/">Test</a>
+    <button type="button" onclick="window.print()">Print / Save PDF</button>
+  </div>
+
+  <main class="deck">
+    <section class="slide" data-slide="1">
+      <p class="eyebrow">AC9M3M04 • Core Year 3 • Year 4-ready extension</p>
+      <h1>How Clocks Work</h1>
+      <p>Analogue time • digital time • minute accuracy • clock geometry</p>
+      <p class="teacher">Teacher goal: secure the meaning of the hands first. Geometry and the angle formula come only after students can read clocks accurately.</p>
+    </section>
+
+    <section class="slide" data-slide="2">
+      <h2>Learning intentions</h2>
+      <ul>
+        <li>Identify the hour, minute and second hands.</li>
+        <li>Read analogue and digital time to the nearest minute.</li>
+        <li>Connect digital notation with “past”, “to”, quarter and half.</li>
+        <li>Explain why the hour hand moves between hour numbers.</li>
+        <li><span class="badge ext">Extension</span> Use 360°, 30° and 6° to reason about clock angles.</li>
+      </ul>
+      <p class="teacher">Success criteria: students justify both the minute-hand position and the hour-hand position.</p>
+    </section>
+
+    <section class="slide" data-slide="3">
+      <div class="two-column">
+        <div>
+          <h2>Meet the analogue clock</h2>
+          <ul>
+            <li><strong>Hour hand:</strong> shorter; shows the hour.</li>
+            <li><strong>Minute hand:</strong> longer; counts minutes.</li>
+            <li><strong>Second hand:</strong> usually thin and fast.</li>
+          </ul>
+          <p class="teacher">Clock designs vary. Teach the purpose and movement of each hand, not appearance alone.</p>
+        </div>
+        <div class="clock" data-hour="8" data-minute="20" data-second="0" data-label="Analogue clock showing 8:20"></div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="4">
+      <h2>How fast do the hands move?</h2>
+      <div class="grid">
+        <article class="card"><h3>Hour hand</h3><p>1 rotation in 12 hours</p><p class="answer">30° per hour<br>0.5° per minute</p></article>
+        <article class="card"><h3>Minute hand</h3><p>1 rotation in 60 minutes</p><p class="answer">6° per minute</p></article>
+        <article class="card"><h3>Second hand</h3><p>1 rotation in 60 seconds</p><p class="answer">6° per second</p></article>
+      </div>
+      <p class="teacher">Have students physically rotate paper hands at different speeds.</p>
+    </section>
+
+    <section class="slide" data-slide="5">
+      <h2>A reliable clock-reading routine</h2>
+      <ol>
+        <li>Read the minute hand precisely.</li>
+        <li>Identify the hour that has just passed.</li>
+        <li>Write the hour before the colon.</li>
+        <li>Write two minute digits after the colon.</li>
+        <li>Check that the hour hand is in a sensible position.</li>
+      </ol>
+      <p class="teacher">Prompt: “How much of this hour has already passed?”</p>
+    </section>
+
+    <section class="slide" data-slide="6">
+      <h2>Count minutes around the clock</h2>
+      <div class="grid">
+        <div class="card">1 → <span class="answer">5 min</span></div>
+        <div class="card">2 → <span class="answer">10 min</span></div>
+        <div class="card">3 → <span class="answer">15 min</span></div>
+        <div class="card">4 → <span class="answer">20 min</span></div>
+        <div class="card">6 → <span class="answer">30 min</span></div>
+        <div class="card">9 → <span class="answer">45 min</span></div>
+      </div>
+      <p class="teacher">After counting by 5s is secure, count the small ticks for exact minutes such as 2:07 or 3:23.</p>
+    </section>
+
+    <section class="slide" data-slide="7">
+      <div class="two-column">
+        <div>
+          <h2>Nearest-minute reading</h2>
+          <p>The minute hand is on minute 7 and the hour hand is just past 2.</p>
+          <p class="answer">Time = 2:07</p>
+          <p>Not 2:7: the minute part uses two digits.</p>
+        </div>
+        <div class="clock" data-hour="2" data-minute="7" data-label="Analogue clock showing 2:07"></div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="8">
+      <h2>The hour hand moves continuously</h2>
+      <div class="grid">
+        <div class="card"><strong>4:00</strong><br>hour hand exactly on 4</div>
+        <div class="card"><strong>4:15</strong><br>one quarter towards 5</div>
+        <div class="card"><strong>4:30</strong><br>halfway towards 5</div>
+        <div class="card"><strong>4:45</strong><br>three quarters towards 5</div>
+      </div>
+      <p class="teacher">This is one of the most important diagnostic ideas. A student may read the minutes correctly but place the hour hand incorrectly.</p>
+    </section>
+
+    <section class="slide" data-slide="9">
+      <h2>Connect three representations</h2>
+      <div class="grid">
+        <div class="card"><strong>12:15</strong><br>15 minutes past 12<br><span class="answer">quarter past 12</span></div>
+        <div class="card"><strong>6:30</strong><br>30 minutes past 6<br><span class="answer">half past 6</span></div>
+        <div class="card"><strong>12:45</strong><br>15 minutes before 1<br><span class="answer">quarter to 1</span></div>
+        <div class="card"><strong>10:05</strong><br><span class="answer">5 minutes past 10</span></div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="10">
+      <h2>Real-life scenario: school timetable</h2>
+      <p>Maths begins at 9:07. Recess begins at 10:48.</p>
+      <div class="quick-q"><strong>Ask:</strong> Which time has a minute hand just after 1?</div>
+      <div class="quick-q"><strong>Ask:</strong> At 10:48, why is the hour hand much closer to 11 than 10?</div>
+      <div class="quick-q"><strong>Ask:</strong> How would both times appear on a digital timetable?</div>
+      <p class="teacher">Use the actual classroom clock several times each day, not only during the maths lesson.</p>
+    </section>
+
+    <section class="slide" data-slide="11">
+      <h2>Real-life scenario carousel</h2>
+      <div class="grid">
+        <article class="card"><h3>Bus</h3><p>Departure 8:20. Match the analogue clock to the timetable.</p></article>
+        <article class="card"><h3>Sport</h3><p>Training 4:45. Explain why the hour hand is close to 5.</p></article>
+        <article class="card"><h3>Cooking</h3><p>A timer rings at 6:15. Predict both hand positions.</p></article>
+        <article class="card"><h3>Appointment</h3><p>“Ten minutes to 10” means 9:50.</p></article>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="12">
+      <p class="eyebrow">Year 4 extension</p>
+      <h2>Clocks are circles</h2>
+      <ul>
+        <li>A complete turn is <span class="answer">360°</span>.</li>
+        <li>12 equal hour sections: 360° ÷ 12 = <span class="answer">30°</span>.</li>
+        <li>60 minute ticks: 360° ÷ 60 = <span class="answer">6°</span>.</li>
+      </ul>
+      <p class="extension">Link this to students’ prior language of full turn, half turn, quarter turn and right angle.</p>
+    </section>
+
+    <section class="slide" data-slide="13">
+      <h2>Degrees travelled by the minute hand</h2>
+      <div class="grid">
+        <div class="card">5 min<br><span class="answer">30°</span></div>
+        <div class="card">15 min<br><span class="answer">90°</span></div>
+        <div class="card">30 min<br><span class="answer">180°</span></div>
+        <div class="card">60 min<br><span class="answer">360°</span></div>
+      </div>
+      <p class="teacher">Language matters: “degrees travelled” may be larger than the smaller angle between start and finish.</p>
+    </section>
+
+    <section class="slide" data-slide="14">
+      <h2>Special angles on a clock</h2>
+      <div class="grid">
+        <div class="card"><div class="clock" data-hour="3" data-minute="0" data-label="Clock showing 3:00"></div><p class="answer">3:00 → 90°</p></div>
+        <div class="card"><div class="clock" data-hour="6" data-minute="0" data-label="Clock showing 6:00"></div><p class="answer">6:00 → 180°</p></div>
+        <div class="card"><div class="clock" data-hour="9" data-minute="0" data-label="Clock showing 9:00"></div><p class="answer">9:00 → 90° smaller angle</p></div>
+      </div>
+      <p class="teacher">3:00 and 9:00 are easy exact-hour examples, but the hands form right angles at other times too.</p>
+    </section>
+
+    <section class="slide" data-slide="15">
+      <p class="eyebrow">Advanced extension</p>
+      <h2>Angle formula</h2>
+      <p>Let H be the hour on a 12-hour clock and M be the minutes. Treat 12 as H = 0.</p>
+      <div class="formula">d = |30H − 5.5M|</div>
+      <div class="formula">smaller angle = min(d, 360° − d)</div>
+      <p class="extension">The second line corrects a common mistake: the raw difference can be greater than 180°.</p>
+    </section>
+
+    <section class="slide" data-slide="16">
+      <h2>Worked example: 3:15</h2>
+      <div class="two-column">
+        <div>
+          <p>d = |30(3) − 5.5(15)|</p>
+          <p>d = |90 − 82.5|</p>
+          <p class="answer">d = 7.5°</p>
+          <p>The hour hand has moved 7.5° beyond the 3.</p>
+        </div>
+        <div class="clock" data-hour="3" data-minute="15" data-label="Clock showing 3:15"></div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="17">
+      <h2>Worked examples</h2>
+      <div class="grid">
+        <article class="card"><h3>15-minute turn</h3><p>15 × 6° = <span class="answer">90°</span></p></article>
+        <article class="card"><h3>Numbers 2 to 5</h3><p>3 spaces × 30° = <span class="answer">90°</span></p></article>
+        <article class="card"><h3>8:20</h3><p>|240 − 110| = <span class="answer">130°</span></p></article>
+        <article class="card"><h3>9:00</h3><p>raw d = 270°;<br>smaller = <span class="answer">90°</span></p></article>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="18">
+      <h2>Fun fact: overlapping hands</h2>
+      <p>The hour and minute hands overlap <strong>11 times in a 12-hour cycle</strong>.</p>
+      <p>Why not exactly once every hour? The hour hand keeps moving, so the minute hand needs a little more than 60 minutes to catch it again.</p>
+      <p class="extension">This is enrichment reasoning, not a required AC9M3M04 assessment item.</p>
+    </section>
+
+    <section class="slide" data-slide="19">
+      <h2>Common misconceptions</h2>
+      <ul>
+        <li>Minute hand on 7 means 7 minutes ✗ → it means 35 minutes.</li>
+        <li>Hour hand stays exactly on 4 at 4:45 ✗.</li>
+        <li>7:5 is standard digital notation ✗ → write 7:05.</li>
+        <li>3:45 is quarter past 3 ✗ → quarter to 4.</li>
+        <li>Count printed numbers for an angle ✗ → count spaces.</li>
+        <li>|30H − 5.5M| always gives the smaller angle ✗.</li>
+      </ul>
+    </section>
+
+    <section class="slide" data-slide="20">
+      <h2>Guided classroom practice</h2>
+      <ol>
+        <li>Hour hand between 8 and 9; minute hand on 4. <span class="answer">8:20</span></li>
+        <li>Minute hand turns for 15 minutes. <span class="answer">90°</span></li>
+        <li>Shorter angle from number 2 to number 5. <span class="answer">90°</span></li>
+        <li>Smaller hand angle at 3:15. <span class="answer">7.5°</span></li>
+        <li>At 4:45, where is the hour hand? <span class="answer">Three quarters towards 5</span></li>
+      </ol>
+    </section>
+
+    <section class="slide" data-slide="21">
+      <h2>Exit ticket and next steps</h2>
+      <ol>
+        <li>Why does the hour hand sit between numbers?</li>
+        <li>Write “five minutes past seven” digitally.</li>
+        <li>How many degrees are between adjacent clock numbers?</li>
+        <li>What extra step is needed when d is greater than 180°?</li>
+      </ol>
+      <p class="answer">Answers: it moves continuously; 7:05; 30°; use 360° − d and choose the smaller angle.</p>
+      <p><a href="/quiz/year-3/math/ac9m3m04/practice/">Practice bank: 52 questions</a> • <a href="/quiz/year-3/math/ac9m3m04/test/">Test bank: 44 questions</a></p>
+      <p class="teacher">The 56 new MCQs are split evenly: 28 Practice and 28 Test.</p>
+    </section>
+  </main>
+
+  <script>
+    (() => {
+      const makeClock = (hour, minute, second, label) => {
+        const cx = 260, cy = 165, r = 128;
+        const point = (angle, distance) => {
+          const rad = (angle - 90) * Math.PI / 180;
+          return [cx + Math.cos(rad) * distance, cy + Math.sin(rad) * distance];
+        };
+        const ticks = Array.from({length:60}, (_, index) => {
+          const major = index % 5 === 0;
+          const [x1,y1] = point(index * 6, r - (major ? 16 : 9));
+          const [x2,y2] = point(index * 6, r);
+          return `<line x1="${x1.toFixed(1)}" y1="${y1.toFixed(1)}" x2="${x2.toFixed(1)}" y2="${y2.toFixed(1)}" stroke="${major ? '#17335f' : '#8aa1b7'}" stroke-width="${major ? 3 : 1.3}"/>`;
+        }).join('');
+        const nums = Array.from({length:12}, (_, index) => {
+          const n = index + 1;
+          const [x,y] = point(n * 30, r - 34);
+          return `<text x="${x.toFixed(1)}" y="${(y+7).toFixed(1)}" text-anchor="middle" font-size="21" font-family="Arial" font-weight="700" fill="#17335f">${n}</text>`;
+        }).join('');
+        const hAngle = (hour % 12) * 30 + minute * .5;
+        const mAngle = minute * 6;
+        const sAngle = second * 6;
+        return `<svg viewBox="0 0 520 330" role="img" aria-label="${label}"><rect width="520" height="330" rx="24" fill="#f7fbff"/><circle cx="${cx}" cy="${cy}" r="${r}" fill="#fff" stroke="#1a3a72" stroke-width="5"/>${ticks}${nums}<line x1="${cx}" y1="${cy}" x2="${cx}" y2="${cy-67}" stroke="#17335f" stroke-width="11" stroke-linecap="round" transform="rotate(${hAngle} ${cx} ${cy})"/><line x1="${cx}" y1="${cy}" x2="${cx}" y2="${cy-98}" stroke="#1a91c7" stroke-width="7" stroke-linecap="round" transform="rotate(${mAngle} ${cx} ${cy})"/>${Number.isFinite(second) ? `<line x1="${cx}" y1="${cy}" x2="${cx}" y2="${cy-108}" stroke="#d34848" stroke-width="3" stroke-linecap="round" transform="rotate(${sAngle} ${cx} ${cy})"/>` : ''}<circle cx="${cx}" cy="${cy}" r="8" fill="#e5aa3d"/></svg>`;
+      };
+      document.querySelectorAll('.clock').forEach((host) => {
+        const hour = Number(host.dataset.hour || 0);
+        const minute = Number(host.dataset.minute || 0);
+        const second = host.hasAttribute('data-second') ? Number(host.dataset.second) : NaN;
+        const label = host.dataset.label || `Clock showing ${hour}:${String(minute).padStart(2,'0')}`;
+        host.innerHTML = makeClock(hour, minute, second, label);
+      });
+    })();
+  </script>
+</body>
+</html>
