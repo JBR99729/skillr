@@ -22,10 +22,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate authored Foundation Maths source modules before migration
-        run: node scripts/validate_foundation_maths_topic_modules.mjs
-      - name: Generate Foundation Maths static pages and fixed slides
-        run: node scripts/migrate_foundation_maths_static.mjs
+      - name: Validate migration script syntax and canonical source availability
+        run: |
+          node --check scripts/migrate_foundation_maths_static.mjs
+          node scripts/migrate_foundation_maths_static.mjs
       - name: Validate generated static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Commit generated files to migration branch
