@@ -5,7 +5,8 @@
   window.__skillrDisplayOnlyLoaded = true;
 
   const pagePath = window.location.pathname.replace(/\/+$/, "") || "/";
-  const isTeacherSlide = pagePath.includes("/teacher-slides/");
+  const isTeacherSlide = pagePath.includes("/teacher-slides/") || pagePath.includes("/teacher-deck");
+  const curriculumCode = (new URLSearchParams(window.location.search).get("code") || pagePath.match(/ac9[a-z0-9]+/i)?.[0] || "").toUpperCase();
 
   // Year 7 pages retain their existing HTML and load the connected visual layer additively.
   if (/^\/(?:year7\/(?:maths|science|english)\/ac9|quiz\/year-7\/(?:math|science|english)\/ac9)/i.test(pagePath)) {
@@ -35,6 +36,60 @@
     }
 
     ${isTeacherSlide ? `
+    .skillr-display-slide {
+      position: relative !important;
+      isolation: isolate !important;
+      overflow: hidden !important;
+      width: 100% !important;
+      aspect-ratio: 16 / 9 !important;
+      min-height: 0 !important;
+    }
+
+    .skillr-display-watermark {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-template-rows: repeat(4, minmax(0, 1fr));
+      align-items: center;
+      justify-items: center;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .skillr-display-watermark span {
+      color: rgba(36, 87, 214, 0.065);
+      font: 800 clamp(11px, 1.25vw, 18px)/1 Arial, sans-serif;
+      transform: rotate(-24deg);
+      white-space: nowrap;
+    }
+
+    .skillr-display-footer {
+      position: absolute;
+      z-index: 20;
+      right: clamp(12px, 2vw, 28px);
+      bottom: clamp(7px, 1vw, 14px);
+      left: clamp(12px, 2vw, 28px);
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding-top: 5px;
+      border-top: 1px solid rgba(23, 57, 104, 0.25);
+      color: #173968;
+      font: 800 clamp(9px, 0.8vw, 12px)/1.2 Arial, sans-serif;
+      pointer-events: none;
+    }
+
+    .skillr-display-slide > :not(.skillr-display-watermark):not(.skillr-display-footer) {
+      position: relative;
+      z-index: 1;
+    }
+
+    a[download], button[data-download], button[onclick*="print" i], [class*="download" i] {
+      display: none !important;
+    }
+
     @media print {
       html, body {
         background: #fff !important;
@@ -55,6 +110,54 @@
     ` : ""}
   `;
   document.head.appendChild(style);
+
+  function secureTeacherSlides() {
+    if (!isTeacherSlide) return;
+
+    let slides = Array.from(document.querySelectorAll(".fcr-slide, .core-slide, .slide"));
+    if (!slides.length) {
+      const sheet = document.querySelector("main.sheet, #slideRoot.sheet, #slideRoot");
+      if (sheet && sheet.children.length) slides = [sheet];
+    }
+
+    slides.forEach((slide) => {
+      if (slide.classList.contains("skillr-display-slide")) return;
+      slide.classList.add("skillr-display-slide");
+
+      const watermark = document.createElement("div");
+      watermark.className = "skillr-display-watermark";
+      watermark.setAttribute("aria-hidden", "true");
+      for (let index = 0; index < 12; index += 1) {
+        const mark = document.createElement("span");
+        mark.textContent = "SkillrHub • skillrhub.com";
+        watermark.appendChild(mark);
+      }
+
+      const footer = document.createElement("div");
+      footer.className = "skillr-display-footer";
+      footer.setAttribute("aria-hidden", "true");
+      const brand = document.createElement("span");
+      brand.textContent = "SkillrHub • Live classroom display";
+      const code = document.createElement("span");
+      code.textContent = curriculumCode || "SkillrHub F–10";
+      footer.append(brand, code);
+      slide.prepend(watermark);
+      slide.appendChild(footer);
+    });
+  }
+
+  function initTeacherSlideProtection() {
+    secureTeacherSlides();
+    if (!isTeacherSlide || !document.body) return;
+    const observer = new MutationObserver(secureTeacherSlides);
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initTeacherSlideProtection, { once: true });
+  } else {
+    initTeacherSlideProtection();
+  }
 
   const block = (event) => {
     event.preventDefault();
