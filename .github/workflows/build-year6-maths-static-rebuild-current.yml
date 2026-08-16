@@ -1,0 +1,113 @@
+name: Build Year 6 Maths static Topic Guides
+
+on:
+  push:
+    branches:
+      - agent/year6-maths-static-rebuild-current
+    paths:
+      - scripts/build_year6_maths_static_topics.mjs
+      - scripts/validate_static_curriculum_architecture.mjs
+      - assets/static-topic.css
+      - assets/year6-curriculum-base.js
+      - assets/year6-curriculum.css
+      - assets/year6-maths-data-*.js
+      - worksheets/year6/maths/teacher-slides/ac9m6*-teacher-slide.pdf
+      - .github/workflows/build-year6-maths-static-rebuild-current.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: ${{ !contains(github.event.head_commit.message, '[skip static build]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/year6-maths-static-rebuild-current
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install fixed-page render tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          command -v google-chrome || command -v chromium || command -v chromium-browser
+      - name: Build static Topic Guides and viewer
+        run: node scripts/build_year6_maths_static_topics.mjs
+      - name: Render all fixed slide pages
+        run: |
+          rm -rf worksheets/year6/maths/teacher-slides/pages
+          mkdir -p worksheets/year6/maths/teacher-slides/pages
+          for pdf in worksheets/year6/maths/teacher-slides/ac9m6*-teacher-slide.pdf; do
+            base="$(basename "$pdf" -teacher-slide.pdf)"
+            pdftoppm -png -r 96 -f 1 -l 4 "$pdf" "worksheets/year6/maths/teacher-slides/pages/$base"
+          done
+          test "$(find worksheets/year6/maths/teacher-slides/pages -name 'ac9m6*-*.png' | wc -l)" -eq 96
+      - name: Validate generated static content
+        run: |
+          node - <<'NODE'
+          const fs=require('fs'),path=require('path');
+          const root='year6/maths';
+          const pages=[];
+          for(const name of fs.readdirSync(root)){
+            const file=path.join(root,name,'index.html');
+            if(fs.existsSync(file)&&/^ac9m6/i.test(name)) pages.push(file);
+          }
+          if(pages.length!==24) throw new Error(`Expected 24 Year 6 Maths pages, found ${pages.length}`);
+          for(const file of pages){
+            const html=fs.readFileSync(file,'utf8');
+            if((html.match(/<details\b/gi)||[]).length<7) throw new Error(`${file}: too few dropdown sections`);
+            if(!/<summary\b/i.test(html)) throw new Error(`${file}: summaries missing`);
+            if(/year6-(?:maths|curriculum).*(?:render|topic)\.js/i.test(html)) throw new Error(`${file}: runtime curriculum renderer remains`);
+            if(/href=["'][^"']+\.pdf/i.test(html)) throw new Error(`${file}: direct PDF link remains`);
+          }
+          const viewer=fs.readFileSync('worksheets/year6/maths/teacher-slides/viewer/index.html','utf8');
+          if(!/Previous/.test(viewer)||!/Next/.test(viewer)||!/<img\b/i.test(viewer)) throw new Error('Fixed Teacher Slides viewer is incomplete');
+          console.log(`Static Year 6 Maths source validation: PASS (${pages.length} pages)`);
+          NODE
+      - name: Commit generated pages locally
+        run: |
+          git config user.name "SkillrHub Static Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add \
+            year6/maths/ac9m6*/index.html \
+            year6/curriculum/maths/index.html \
+            worksheets/year6/maths/teacher-slides/viewer/index.html \
+            worksheets/year6/maths/teacher-slides/pages/ac9m6*-*.png
+          if git diff --cached --quiet; then
+            echo "Generated files are already current."
+          else
+            git commit -m "Build static Year 6 Maths Topic Guides [skip static build]"
+          fi
+      - name: Run locked architecture gate
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Capture representative browser previews
+        run: |
+          mkdir -p /tmp/year6-static-preview
+          python3 -m http.server 8000 --directory . >/tmp/year6-static-server.log 2>&1 &
+          server_pid=$!
+          sleep 3
+          chrome="$(command -v google-chrome || command -v chromium || command -v chromium-browser)"
+          "$chrome" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --window-size=1440,1200 \
+            --screenshot=/tmp/year6-static-preview/topic.png \
+            http://127.0.0.1:8000/year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/
+          "$chrome" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --window-size=1440,900 \
+            --screenshot=/tmp/year6-static-preview/viewer.png \
+            'http://127.0.0.1:8000/worksheets/year6/maths/teacher-slides/viewer/?code=AC9M6N01'
+          kill "$server_pid" || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: year6-maths-static-preview
+          path: /tmp/year6-static-preview/*.png
+          if-no-files-found: error
+          retention-days: 7
+      - name: Push validated generated files
+        run: |
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/agent/year6-maths-static-rebuild-current)" ]; then
+            git push origin HEAD:agent/year6-maths-static-rebuild-current
+          else
+            echo "No generated commit to push."
+          fi
