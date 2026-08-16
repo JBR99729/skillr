@@ -13,11 +13,12 @@ try {
 }
 
 const topicPath = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/;
-const teacherDeckPath = /\/teacher-deck\/index\.html$/;
+const teacherHostPath = /(?:\/teacher-deck\/index\.html$|\/teacher-slides\/live\.html$|\/teacher-slides\/[^/]+\/index\.html$)/;
 const errors = [];
 
 for (const file of changed) {
   if (!fs.existsSync(file)) continue;
+
   if (topicPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
     if (!/<details\b/i.test(html) || !/<summary\b/i.test(html)) {
@@ -26,19 +27,25 @@ for (const file of changed) {
     if (/id=["'](?:topicRoot|year\d+Topic|slideRoot)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) {
       errors.push(`${file}: curriculum teaching content cannot be a runtime Loading shell`);
     }
-    if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render)\.js/i.test(html)) {
+    if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) {
       errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
     }
     const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
     if (!/What students learn|Key concept|Learning intention|Learning goal/i.test(text)) {
       errors.push(`${file}: static teaching content appears to be missing`);
     }
+    if (!/href=["'][^"']+\.pptx(?:[?#][^"']*)?["']/i.test(html)) {
+      errors.push(`${file}: migrated topic page must link directly to its fixed teacher-slide PPTX`);
+    }
   }
 
-  if (teacherDeckPath.test(file)) {
+  if (teacherHostPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
-    if (/(?:slideRoot|deck)["']?[^>]*>\s*<\/|teachingSlides|\.slides\.forEach|render.*slide/i.test(html)) {
-      errors.push(`${file}: new/modified teacher-deck HTML must not assemble curriculum slides at runtime; link/embed a fixed PDF instead`);
+    if (/(?:<main[^>]+class=["'][^"']*(?:deck|slide)|slideRoot|teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js)/i.test(html)) {
+      errors.push(`${file}: teacher-slide hosts must not assemble curriculum slides at runtime`);
+    }
+    if (!/\.pptx(?:[?#"'])/i.test(html)) {
+      errors.push(`${file}: teacher-slide host must point to a fixed PPTX`);
     }
   }
 }
