@@ -6,6 +6,7 @@ on:
       - agent/year6-maths-static-topics
     paths:
       - scripts/build_year6_maths_static_topics.mjs
+      - scripts/validate_static_curriculum_architecture.mjs
       - assets/static-topic.css
       - assets/year6-curriculum-base.js
       - assets/year6-curriculum.css
