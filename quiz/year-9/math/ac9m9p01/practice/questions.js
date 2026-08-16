@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-001",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "discuss two step chance experiments such as the game of heads and tails describing the different outcomes and their related probabilities",
+    "skill": "complete sample spaces",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For list a two-step sample space, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a guided example, For list a two-step sample space, which outcomes belong in the denominator, and why",
+    "question": "A coin is flipped and a 4-section spinner is spun. How many outcomes are in the complete sample space?",
+    "audioPrompt": "A coin is flipped and a 4-section spinner is spun. How many outcomes are in the complete sample space?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "8",
+      "4",
+      "6",
+      "16"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "Each of 2 coin outcomes pairs with each of 4 spinner outcomes: 2 × 4 = 8.\nHint: Multiply the number of choices at the two stages.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Each of 2 coin outcomes pairs with each of 4 spinner outcomes: 2 × 4 = 8.",
+      "hint": "Multiply the number of choices at the two stages."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,11 +33,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-002",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "use systematic methods such as lists or arrays to record outcomes and assign probabilities",
+    "skill": "complete sample spaces",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For select two leaders systematically, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a comparison task, For select two leaders systematically, which outcomes belong in the denominator, and why",
+    "question": "A coin is flipped and a six-sided die is rolled. What is the probability of T5?",
+    "audioPrompt": "A coin is flipped and a six-sided die is rolled. What is the probability of T5?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "1/2",
+      "1/12",
+      "1/6",
+      "2/12"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "There are 2 × 6 = 12 equally likely ordered outcomes, and T5 is one outcome, so its probability is 1/12.\nHint: List T1 to T6 and H1 to H6.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "There are 2 × 6 = 12 equally likely ordered outcomes, and T5 is one outcome, so its probability is 1/12.",
+      "hint": "List T1 to T6 and H1 to H6."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,11 +62,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-003",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "use a tree diagram to represent a three stage event and assigning probabilities to these events",
+    "skill": "systematic lists and tables",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an error analysis, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
+    "question": "Two coins are flipped. Which is the complete sample space?",
+    "audioPrompt": "Two coins are flipped. Which is the complete sample space?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
-      "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "{H, T}",
+      "{HH, TT}",
+      "{HH, HT, TH, TT}",
+      "{HH, HT, TT}"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "A two-way array pairs each first-flip result with each second-flip result, producing HH, HT, TH and TT.\nHint: Keep the first and second flip positions separate.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "A two-way array pairs each first-flip result with each second-flip result, producing HH, HT, TH and TT.",
+      "hint": "Keep the first and second flip positions separate."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,11 +91,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-004",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "assign probabilities to compound events involving the random selection of people from a given population",
+    "skill": "systematic lists and tables",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a model interpretation, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
+    "question": "Two fair coins are flipped. What is the probability of exactly one head?",
+    "audioPrompt": "Two fair coins are flipped. What is the probability of exactly one head?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "1/4",
+      "3/4",
+      "1",
+      "1/2"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "HT and TH are the 2 favourable outcomes among 4 equally likely outcomes, so 2/4 = 1/2.\nHint: Identify both orders that contain one head.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "HT and TH are the 2 favourable outcomes among 4 equally likely outcomes, so 2/4 = 1/2.",
+      "hint": "Identify both orders that contain one head."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,11 +120,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-005",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "discuss two step chance experiments such as the game of heads and tails describing the different outcomes and their related probabilities",
+    "skill": "replacement and tree diagrams",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For list a two-step sample space, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an evidence check, For list a two-step sample space, which outcomes belong in the denominator, and why",
+    "question": "A bag has 3 red and 2 blue marbles. A marble is replaced after the first draw. What is P(red then red)?",
+    "audioPrompt": "A bag has 3 red and 2 blue marbles. A marble is replaced after the first draw. What is P(red then red)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "9/25",
+      "3/10",
+      "6/20",
+      "2/5"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "Replacement restores the bag, so P(RR) = 3/5 × 3/5 = 9/25.\nHint: Use the same red branch probability at both stages.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Replacement restores the bag, so P(RR) = 3/5 × 3/5 = 9/25.",
+      "hint": "Use the same red branch probability at both stages."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,11 +149,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-006",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "use systematic methods such as lists or arrays to record outcomes and assign probabilities",
+    "skill": "replacement and tree diagrams",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For select two leaders systematically, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a transfer problem, For select two leaders systematically, which outcomes belong in the denominator, and why",
+    "question": "From a standard deck, an ace is drawn, replaced and the deck shuffled. What is P(ace then king)?",
+    "audioPrompt": "From a standard deck, an ace is drawn, replaced and the deck shuffled. What is P(ace then king)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "4/51",
+      "1/169",
+      "4/663",
+      "1/13"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "With replacement, P(ace then king) = 4/52 × 4/52 = 1/13 × 1/13 = 1/169.\nHint: Replacement keeps both denominators at 52.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "With replacement, P(ace then king) = 4/52 × 4/52 = 1/13 × 1/13 = 1/169.",
+      "hint": "Replacement keeps both denominators at 52."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,11 +178,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-007",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "use a tree diagram to represent a three stage event and assigning probabilities to these events",
+    "skill": "population selection without replacement",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a peer explanation, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
+    "question": "A class has 4 Year 9 and 6 Year 10 students. Two different students are selected. What is P(both are Year 9)?",
+    "audioPrompt": "A class has 4 Year 9 and 6 Year 10 students. Two different students are selected. What is P(both are Year 9)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
-      "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "4/25",
+      "1/5",
+      "2/15",
+      "4/15"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "Students are not replaced: 4/10 × 3/9 = 12/90 = 2/15.\nHint: Reduce the target group and total after selection one.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Students are not replaced: 4/10 × 3/9 = 12/90 = 2/15.",
+      "hint": "Reduce the target group and total after selection one."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,11 +207,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m9p01-p-008",
     "curriculumCode": "AC9M9P01",
     "bank": "practice",
-    "skill": "assign probabilities to compound events involving the random selection of people from a given population",
+    "skill": "population selection without replacement",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an independent review, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
+    "question": "A committee has 5 teachers and 3 students. Two different people are selected. What is P(student then teacher)?",
+    "audioPrompt": "A committee has 5 teachers and 3 students. Two different people are selected. What is P(student then teacher)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "15/64",
+      "5/14",
+      "3/8",
+      "15/56"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "P(student then teacher) = 3/8 × 5/7 = 15/56.\nHint: After selecting a student, 7 people remain and all 5 teachers remain.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "P(student then teacher) = 3/8 × 5/7 = 15/56.",
+      "hint": "After selecting a student, 7 people remain and all 5 teachers remain."
     },
     "qualitySchema": "production-v1"
   }

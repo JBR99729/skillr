@@ -1,6 +1,88 @@
 """Authored student-facing headings and central concepts for Years 8–10 Maths."""
 
 AUTHORED = {
+    "AC9M9P01": [
+        {
+            "elaborationIndex": 1,
+            "heading": "Compound Events & Probability",
+            "lead": "Understanding outcomes with and without replacement.",
+            "highlight": "Map multi-step events and calculate their probabilities using systematic lists, two-way tables and tree diagrams.",
+            "visual": {"type": "probability", "label": "single events → compound event → complete sample space → probability"},
+            "ask": "What must be recorded before calculating the probability of a compound event?",
+            "answer": "Record every possible outcome systematically and identify whether replacement changes later probabilities.",
+            "notes": {"teacherDoes": "Introduce the lesson goal and display the three approved representations.", "teacherAsks": "What must be recorded before calculating the probability of a compound event?", "studentDoes": "Names the sample space and checks whether the experiment uses replacement.", "expectedEvidence": "States that all outcomes and the replacement condition must be known.", "ifIncorrect": "Contrast a single outcome with the complete set of possible outcomes.", "shortCheck": "Name one representation that can organise a compound event."}
+        },
+        {
+            "elaborationIndex": 1,
+            "heading": "What is a compound event?",
+            "lead": "A compound event combines two or more single events occurring together or in sequence; its sample space contains every possible combined outcome.",
+            "highlight": "Coin outcomes H or T combined with die outcomes 1 to 6 give 2 × 6 = 12 equally likely outcomes: H1 to H6 and T1 to T6.",
+            "visual": {"type": "probability", "label": "H: H1 H2 H3 H4 H5 H6 | T: T1 T2 T3 T4 T5 T6"},
+            "ask": "Why are there 12 outcomes rather than 8?",
+            "answer": "Each of the 2 coin outcomes can be paired with each of the 6 die outcomes, so the multiplication principle gives 2 × 6 = 12.",
+            "notes": {"teacherDoes": "Pair each coin result with all six die results and count the completed sample space.", "teacherAsks": "Why are there 12 outcomes rather than 8?", "studentDoes": "Lists or counts all ordered coin-die pairs.", "expectedEvidence": "Explains 2 choices followed by 6 choices and obtains 12 without omission.", "ifIncorrect": "Hold H fixed and list H1 to H6, then repeat with T.", "shortCheck": "How many outcomes result from a 3-colour spinner followed by a coin flip?"}
+        },
+        {
+            "elaborationIndex": 2,
+            "heading": "Representing outcomes: lists and arrays",
+            "lead": "A systematic list or two-way array organises two-stage outcomes so none are missed or counted twice.",
+            "highlight": "Two coin flips give (H,H), (H,T), (T,H) and (T,T). Only (H,H) has two heads, so P(2 heads) = 1/4 = 25%.",
+            "visual": {"type": "table", "label": "Rows: first flip H,T | columns: second flip H,T | cells: HH, HT, TH, TT"},
+            "ask": "Why are HT and TH different outcomes?",
+            "answer": "Order records which flip produced each result: HT means heads then tails, while TH means tails then heads.",
+            "notes": {"teacherDoes": "Build the ordered list and matching 2 × 2 array one row at a time.", "teacherAsks": "Why are HT and TH different outcomes?", "studentDoes": "Matches each ordered pair to one array cell and identifies HH as favourable.", "expectedEvidence": "Lists four unique outcomes and calculates 1/4.", "ifIncorrect": "Label positions as first flip and second flip before writing each pair.", "shortCheck": "What is the probability of exactly one head in two flips?"}
+        },
+        {
+            "elaborationIndex": 3,
+            "heading": "Tree diagrams for multi-stage events",
+            "lead": "A tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths.",
+            "highlight": "Bag: 3 red, 2 blue, with replacement. P(R then R) = 3/5 × 3/5 = 9/25.",
+            "visual": {"type": "probability", "label": "Start → R (3/5) → R (3/5): 9/25 | Start → B (2/5) → ..."},
+            "ask": "Why does the second red branch remain 3/5?",
+            "answer": "The first marble is replaced, restoring 3 red and 2 blue before the second draw.",
+            "notes": {"teacherDoes": "Draw and label the first branches, replace the marble, then repeat the same branches at stage two.", "teacherAsks": "Why does the second red branch remain 3/5?", "studentDoes": "Multiplies along the red-red path and explains the unchanged branch probabilities.", "expectedEvidence": "Obtains 9/25 and links equal stage probabilities to replacement.", "ifIncorrect": "Physically return a counter to the bag and recount before stage two.", "shortCheck": "Find P(B then R) with replacement."}
+        },
+        {
+            "elaborationIndex": 3,
+            "heading": "Independent events: with replacement",
+            "lead": "With replacement restores the original pool, so the probability distribution stays the same at each draw.",
+            "highlight": "From 52 cards, replace and shuffle after drawing an ace: P(ace then king) = 4/52 × 4/52 = 1/13 × 1/13 = 1/169.",
+            "visual": {"type": "probability", "label": "52 cards → ace 4/52 → replace → 52 cards → king 4/52"},
+            "ask": "Which numbers show that replacement has restored the experiment?",
+            "answer": "Both draws use a denominator of 52, with 4 favourable cards for the required rank each time.",
+            "notes": {"teacherDoes": "Mark the replacement step between two identical 52-card pools.", "teacherAsks": "Which numbers show that replacement has restored the experiment?", "studentDoes": "Simplifies each branch probability and multiplies along the path.", "expectedEvidence": "Uses 4/52 twice and obtains 1/169.", "ifIncorrect": "Redraw the full 52-card deck after the replacement arrow.", "shortCheck": "Would the second denominator still be 52 without replacement?"}
+        },
+        {
+            "elaborationIndex": 3,
+            "heading": "Dependent events: without replacement",
+            "lead": "Without replacement changes the pool after the first draw, so later branch probabilities depend on the earlier outcome.",
+            "highlight": "Keep the ace out: P(ace then king) = 4/52 × 4/51 = 4/663.",
+            "visual": {"type": "probability", "label": "52 cards → ace 4/52 → no replacement → 51 cards → king 4/51"},
+            "ask": "Why does the king numerator stay 4 while the denominator becomes 51?",
+            "answer": "Removing an ace reduces the deck to 51 cards but does not remove any of the 4 kings.",
+            "notes": {"teacherDoes": "Cross out the drawn ace, recount the deck and recount the kings before labelling stage two.", "teacherAsks": "Why does the king numerator stay 4 while the denominator becomes 51?", "studentDoes": "Updates only the quantities changed by the first outcome and multiplies the path.", "expectedEvidence": "Uses 4/52 × 4/51 and simplifies to 4/663.", "ifIncorrect": "Ask separately: how many total cards remain, and how many kings remain?", "shortCheck": "If the first card were a king, what would P(king on draw two) be?"}
+        },
+        {
+            "elaborationIndex": 4,
+            "heading": "Population selection without replacement",
+            "lead": "Randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice.",
+            "highlight": "Class of 10: 4 Year 9 and 6 Year 10. P(two Year 9 students) = 4/10 × 3/9 = 2/15.",
+            "visual": {"type": "probability", "label": "10 students, 4 Year 9 → select Year 9 → 9 students, 3 Year 9 → probability 2/15"},
+            "ask": "What changes after the first Year 9 student is selected?",
+            "answer": "There are 9 students and 3 Year 9 students remaining, so the second probability is 3/9.",
+            "notes": {"teacherDoes": "Model the class with 10 name cards and remove one Year 9 card after the first selection.", "teacherAsks": "What changes after the first Year 9 student is selected?", "studentDoes": "Updates numerator and denominator and calculates 2/15.", "expectedEvidence": "Uses 4/10 × 3/9 and explains both decreases.", "ifIncorrect": "Remove one labelled card physically, then recount the whole group and target subgroup.", "shortCheck": "What is the probability the first student is Year 10 and the second is Year 9?"}
+        },
+        {
+            "elaborationIndex": 4,
+            "heading": "Quick summary and check",
+            "lead": "Check replacement first, label every branch, multiply along paths and add only separate successful paths.",
+            "highlight": "Bag: 3 green, 2 yellow. Eat one green, then pick again: P(G then G) = 3/5 × 2/4 = 3/10.",
+            "visual": {"type": "probability", "label": "With replacement: denominator stays constant | without replacement: remaining totals and colours may change"},
+            "ask": "A sweet is eaten after the first pick. Why is the second green probability 2/4?",
+            "answer": "Eating the first green means no replacement: 2 green sweets remain among 4 sweets, giving 3/5 × 2/4 = 3/10.",
+            "notes": {"teacherDoes": "Hide the solution, ask students to label both stages, then reveal and compare.", "teacherAsks": "A sweet is eaten after the first pick. Why is the second green probability 2/4?", "studentDoes": "Identifies no replacement, labels both branches and simplifies the product.", "expectedEvidence": "Calculates 3/10 and explains the changed numerator and denominator.", "ifIncorrect": "Act out eating one green counter, then recount before the second pick.", "shortCheck": "State one test that tells you whether probabilities should change between stages."}
+        }
+    ],
     "AC9M10N01": [
         {
             "heading": "Keep surds exact and apply valid root rules",

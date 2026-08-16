@@ -34,8 +34,9 @@ for(const year of [8,9,10]){
     for(const key of required)if(blank(u[key]))errors.push(`${code}: missing ${key}`);
     if(u.schemaVersion!=="1.1")errors.push(`${code}: schemaVersion is not 1.1`);
     if(u.year!==year||u.code!==code)errors.push(`${code}: year/code mismatch`);
-    const counts=[u.elaborations?.length,u.models?.length,u.slides?.length,u.masteryItems?.length,u.teachingSlides?.length];
-    if(new Set(counts).size!==1)errors.push(`${code}: elaboration/model/slide/checkpoint counts differ (${counts.join("/")})`);
+    const slideCounts=[u.models?.length,u.slides?.length,u.masteryItems?.length,u.teachingSlides?.length];
+    if(new Set(slideCounts).size!==1)errors.push(`${code}: model/slide/checkpoint counts differ (${slideCounts.join("/")})`);
+    const elaborationsById=new Map(u.elaborations.map(elaboration=>[elaboration.id,elaboration]));
     if(new Set(u.teachingSlides.map(s=>s.heading)).size!==u.teachingSlides.length)errors.push(`${code}: repeated projected heading`);
     if(new Set(u.teachingSlides.map(s=>s.highlight)).size!==u.teachingSlides.length)errors.push(`${code}: repeated mathematical model`);
     if(new Set(u.teachingSlides.map(s=>s.ask)).size!==u.teachingSlides.length)errors.push(`${code}: repeated class prompt`);
@@ -48,8 +49,8 @@ for(const year of [8,9,10]){
       for(const key of noteKeys)if(blank(s.notes?.[key]))errors.push(`${code}/${s.id}: missing note ${key}`);
       const canonical=u.slides[index];
       for(const key of teacherKeys)if(blank(canonical?.teacherLayer?.[key]))errors.push(`${code}/${canonical?.id}: missing teacher layer ${key}`);
-      const elaboration=u.elaborations[index];
-      if(elaboration?.id!==s.elaborationId)errors.push(`${code}/${s.id}: elaboration parity mismatch`);
+      const elaboration=elaborationsById.get(s.elaborationId);
+      if(!elaboration)errors.push(`${code}/${s.id}: elaboration parity mismatch`);
       if(elaboration?.modelIds?.some(id=>!modelIds.has(id)))errors.push(`${code}/${s.id}: unresolved model id`);
       const checkpoint=u.masteryItems[index];
       for(const key of ["prompt","expectedAnswer","acceptableRepresentations","evidenceOfMastery","likelyMisconception","remediation","decision"])if(blank(checkpoint?.[key]))errors.push(`${code}/${checkpoint?.id}: missing mastery field ${key}`);

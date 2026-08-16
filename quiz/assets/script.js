@@ -313,6 +313,12 @@ document.addEventListener("DOMContentLoaded", () => {
   } else if (Number.isInteger(requestedQuestions) && requestedQuestions > 0 && requestedQuestions <= 10) {
     config.maxQuestions = requestedQuestions;
   }
+  if (!isWarmupMode) {
+    const maximumQuestions = Number(config.maxQuestions);
+    config.questionCycle = Number.isInteger(maximumQuestions) &&
+      maximumQuestions > 0 &&
+      questions.length > maximumQuestions;
+  }
   if (isEmbedMode) {
     config.requireStudentName = false;
     config.certificateOnPass = false;
@@ -480,19 +486,21 @@ document.addEventListener("DOMContentLoaded", () => {
     const trigger = document.createElement("button");
     trigger.type = "button";
     trigger.className = "scratchpad-trigger";
-    trigger.textContent = "✏️ Scratchpad";
+    trigger.textContent = "✏️ Open scratchpad";
     trigger.setAttribute("aria-haspopup", "dialog");
+    trigger.setAttribute("aria-expanded", "false");
     const host = elements.quizScreen.querySelector(".quiz-header") || elements.quizScreen;
     host.insertAdjacentElement("afterend", trigger);
 
     const layer = document.createElement("div");
     layer.className = "scratchpad-layer";
-    layer.hidden = true;
-    layer.innerHTML = '<section class="scratchpad-panel" role="dialog" aria-modal="true" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div><button type="button" class="scratchpad-close" aria-label="Close scratchpad">×</button></header><canvas aria-label="Drawing area"></canvas><footer><button type="button" class="scratchpad-clear">Clear</button><button type="button" class="scratchpad-done">Done</button></footer></section>';
+    layer.innerHTML = '<section class="scratchpad-panel" role="dialog" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div><button type="button" class="scratchpad-close" aria-label="Collapse scratchpad" title="Collapse scratchpad">›</button></header><canvas aria-label="Drawing area"></canvas><footer><button type="button" class="scratchpad-clear">Clear</button><button type="button" class="scratchpad-done">Collapse</button></footer></section>';
     document.body.appendChild(layer);
+    document.body.classList.add("has-scratchpad-dock");
     const canvas = layer.querySelector("canvas");
     const context = canvas.getContext("2d");
     let drawing = false;
+    let canvasReady = false;
 
     function sizeCanvas() {
       const rect = canvas.getBoundingClientRect();
@@ -504,6 +512,7 @@ document.addEventListener("DOMContentLoaded", () => {
       context.lineJoin = "round";
       context.lineWidth = 3;
       context.strokeStyle = "#17335f";
+      canvasReady = true;
     }
 
     function point(event) {
@@ -524,16 +533,28 @@ document.addEventListener("DOMContentLoaded", () => {
       context.stroke();
     });
     ["pointerup", "pointercancel", "pointerleave"].forEach((name) => canvas.addEventListener(name, () => { drawing = false; }));
-    function close() { layer.hidden = true; trigger.focus(); }
-    trigger.addEventListener("click", () => {
-      layer.hidden = false;
-      window.requestAnimationFrame(() => { sizeCanvas(); layer.querySelector(".scratchpad-close").focus(); });
-    });
-    layer.querySelector(".scratchpad-close").addEventListener("click", close);
-    layer.querySelector(".scratchpad-done").addEventListener("click", close);
+    function collapse(moveFocus = true) {
+      layer.classList.add("is-collapsed");
+      document.body.classList.add("scratchpad-is-collapsed");
+      trigger.setAttribute("aria-expanded", "false");
+      if (moveFocus) trigger.focus();
+    }
+    function expand(moveFocus = true) {
+      layer.classList.remove("is-collapsed");
+      document.body.classList.remove("scratchpad-is-collapsed");
+      trigger.setAttribute("aria-expanded", "true");
+      window.requestAnimationFrame(() => {
+        if (!canvasReady) sizeCanvas();
+        if (moveFocus) layer.querySelector(".scratchpad-close").focus();
+      });
+    }
+    trigger.addEventListener("click", expand);
+    layer.querySelector(".scratchpad-close").addEventListener("click", collapse);
+    layer.querySelector(".scratchpad-done").addEventListener("click", collapse);
     layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
-    layer.addEventListener("click", (event) => { if (event.target === layer) close(); });
-    document.addEventListener("keydown", (event) => { if (event.key === "Escape" && !layer.hidden) close(); });
+    document.addEventListener("keydown", (event) => { if (event.key === "Escape" && !layer.classList.contains("is-collapsed")) collapse(); });
+    if (window.matchMedia("(min-width: 1101px)").matches) expand(false);
+    else collapse(false);
   }
 
   setupMathsScratchpad();

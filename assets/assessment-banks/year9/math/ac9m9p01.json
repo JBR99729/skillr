@@ -5,35 +5,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "discuss_two_step_chance_experiments_such_as_the_game_of_heads_and_tails_describing_the_different_outcomes_and_their_related_probabilities",
-    "question": "During a guided example, For list a two-step sample space, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a guided example, For list a two-step sample space, which outcomes belong in the denominator, and why",
+    "skill": "complete_sample_spaces",
+    "question": "A coin is flipped and a 4-section spinner is spun. How many outcomes are in the complete sample space?",
+    "audio_prompt": "A coin is flipped and a 4-section spinner is spun. How many outcomes are in the complete sample space?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "8",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "16",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Each of 2 coin outcomes pairs with each of 4 spinner outcomes: 2 × 4 = 8.",
+      "hint": "Multiply the number of choices at the two stages."
     }
   },
   {
@@ -42,35 +42,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_systematic_methods_such_as_lists_or_arrays_to_record_outcomes_and_assign_probabilities",
-    "question": "During a comparison task, For select two leaders systematically, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a comparison task, For select two leaders systematically, which outcomes belong in the denominator, and why",
+    "skill": "complete_sample_spaces",
+    "question": "A coin is flipped and a six-sided die is rolled. What is the probability of T5?",
+    "audio_prompt": "A coin is flipped and a six-sided die is rolled. What is the probability of T5?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "1/2",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "1/12",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
+        "text": "1/6",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "2/12",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "There are 2 × 6 = 12 equally likely ordered outcomes, and T5 is one outcome, so its probability is 1/12.",
+      "hint": "List T1 to T6 and H1 to H6."
     }
   },
   {
@@ -79,35 +79,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_a_tree_diagram_to_represent_a_three_stage_event_and_assigning_probabilities_to_these_events",
-    "question": "During an error analysis, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an error analysis, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
+    "skill": "systematic_lists_and_tables",
+    "question": "Two coins are flipped. Which is the complete sample space?",
+    "audio_prompt": "Two coins are flipped. Which is the complete sample space?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "{H, T}",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
+        "text": "{HH, TT}",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "{HH, HT, TH, TT}",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "{HH, HT, TT}",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "A two-way array pairs each first-flip result with each second-flip result, producing HH, HT, TH and TT.",
+      "hint": "Keep the first and second flip positions separate."
     }
   },
   {
@@ -116,35 +116,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "assign_probabilities_to_compound_events_involving_the_random_selection_of_people_from_a_given_population",
-    "question": "During a model interpretation, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a model interpretation, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
+    "skill": "systematic_lists_and_tables",
+    "question": "Two fair coins are flipped. What is the probability of exactly one head?",
+    "audio_prompt": "Two fair coins are flipped. What is the probability of exactly one head?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "1/4",
         "is_correct": false
       },
       {
-        "text": "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
+        "text": "3/4",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "1",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "1/2",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "HT and TH are the 2 favourable outcomes among 4 equally likely outcomes, so 2/4 = 1/2.",
+      "hint": "Identify both orders that contain one head."
     }
   },
   {
@@ -153,35 +153,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "discuss_two_step_chance_experiments_such_as_the_game_of_heads_and_tails_describing_the_different_outcomes_and_their_related_probabilities",
-    "question": "During an evidence check, For list a two-step sample space, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an evidence check, For list a two-step sample space, which outcomes belong in the denominator, and why",
+    "skill": "replacement_and_tree_diagrams",
+    "question": "A bag has 3 red and 2 blue marbles. A marble is replaced after the first draw. What is P(red then red)?",
+    "audio_prompt": "A bag has 3 red and 2 blue marbles. A marble is replaced after the first draw. What is P(red then red)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "9/25",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "3/10",
         "is_correct": false
       },
       {
-        "text": "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
+        "text": "6/20",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "2/5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Replacement restores the bag, so P(RR) = 3/5 × 3/5 = 9/25.",
+      "hint": "Use the same red branch probability at both stages."
     }
   },
   {
@@ -190,35 +190,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_systematic_methods_such_as_lists_or_arrays_to_record_outcomes_and_assign_probabilities",
-    "question": "During a transfer problem, For select two leaders systematically, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a transfer problem, For select two leaders systematically, which outcomes belong in the denominator, and why",
+    "skill": "replacement_and_tree_diagrams",
+    "question": "From a standard deck, an ace is drawn, replaced and the deck shuffled. What is P(ace then king)?",
+    "audio_prompt": "From a standard deck, an ace is drawn, replaced and the deck shuffled. What is P(ace then king)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "4/51",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "1/169",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
+        "text": "4/663",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "1/13",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "With replacement, P(ace then king) = 4/52 × 4/52 = 1/13 × 1/13 = 1/169.",
+      "hint": "Replacement keeps both denominators at 52."
     }
   },
   {
@@ -227,35 +227,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_a_tree_diagram_to_represent_a_three_stage_event_and_assigning_probabilities_to_these_events",
-    "question": "During a peer explanation, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a peer explanation, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why",
+    "skill": "population_selection_without_replacement",
+    "question": "A class has 4 Year 9 and 6 Year 10 students. Two different students are selected. What is P(both are Year 9)?",
+    "audio_prompt": "A class has 4 Year 9 and 6 Year 10 students. Two different students are selected. What is P(both are Year 9)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "4/25",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
+        "text": "1/5",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "2/15",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "4/15",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Students are not replaced: 4/10 × 3/9 = 12/90 = 2/15.",
+      "hint": "Reduce the target group and total after selection one."
     }
   },
   {
@@ -264,35 +264,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "assign_probabilities_to_compound_events_involving_the_random_selection_of_people_from_a_given_population",
-    "question": "During an independent review, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an independent review, For calculate a population-selection probability, which outcomes belong in the denominator, and why",
+    "skill": "population_selection_without_replacement",
+    "question": "A committee has 5 teachers and 3 students. Two different people are selected. What is P(student then teacher)?",
+    "audio_prompt": "A committee has 5 teachers and 3 students. Two different people are selected. What is P(student then teacher)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "15/64",
         "is_correct": false
       },
       {
-        "text": "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
+        "text": "5/14",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "3/8",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "15/56",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "P(student then teacher) = 3/8 × 5/7 = 15/56.",
+      "hint": "After selecting a student, 7 people remain and all 5 teachers remain."
     }
   },
   {
@@ -301,35 +301,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "discuss_two_step_chance_experiments_such_as_the_game_of_heads_and_tails_describing_the_different_outcomes_and_their_related_probabilities",
-    "question": "During a fresh case study, For list a two-step sample space, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For list a two-step sample space, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "complete_sample_spaces",
+    "question": "A 3-colour spinner is spun and then a coin is flipped. How many ordered outcomes are possible?",
+    "audio_prompt": "A 3-colour spinner is spun and then a coin is flipped. How many ordered outcomes are possible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "9",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "The multiplication principle gives 3 × 2 = 6 ordered outcomes.",
+      "hint": "Pair each spinner colour with H and T."
     }
   },
   {
@@ -338,35 +338,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_systematic_methods_such_as_lists_or_arrays_to_record_outcomes_and_assign_probabilities",
-    "question": "During an unfamiliar representation, For select two leaders systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For select two leaders systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "complete_sample_spaces",
+    "question": "Two fair six-sided dice are rolled. What is the probability of the ordered outcome (2, 5)?",
+    "audio_prompt": "Two fair six-sided dice are rolled. What is the probability of the ordered outcome (2, 5)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "1/12",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "1/36",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
+        "text": "1/6",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "2/36",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "There are 6 × 6 = 36 equally likely ordered outcomes and (2, 5) is one of them.",
+      "hint": "The first and second die positions matter."
     }
   },
   {
@@ -375,35 +375,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_a_tree_diagram_to_represent_a_three_stage_event_and_assigning_probabilities_to_these_events",
-    "question": "During a critical response, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "systematic_lists_and_tables",
+    "question": "A spinner labelled A, B, C is spun twice. Which method guarantees every ordered outcome is recorded once?",
+    "audio_prompt": "A spinner labelled A, B, C is spun twice. Which method guarantees every ordered outcome is recorded once?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "List A, B and C once",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
+        "text": "Record only matching letters",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "Use a 3 × 3 table with first spin as rows and second spin as columns",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "Add the two labels",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "A 3 × 3 table creates one cell for each of the 9 ordered pairs.",
+      "hint": "One axis must represent each stage."
     }
   },
   {
@@ -412,35 +412,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "assign_probabilities_to_compound_events_involving_the_random_selection_of_people_from_a_given_population",
-    "question": "During a worked solution audit, For calculate a population-selection probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For calculate a population-selection probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "systematic_lists_and_tables",
+    "question": "A 3-colour spinner is spun twice. What is the probability that both spins show the same colour?",
+    "audio_prompt": "A 3-colour spinner is spun twice. What is the probability that both spins show the same colour?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "1/9",
         "is_correct": false
       },
       {
-        "text": "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
+        "text": "2/3",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "1",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "1/3",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "The 3 matching outcomes are AA, BB and CC among 9 equally likely ordered outcomes, so 3/9 = 1/3.",
+      "hint": "Use the diagonal cells of a 3 × 3 table."
     }
   },
   {
@@ -449,35 +449,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "discuss_two_step_chance_experiments_such_as_the_game_of_heads_and_tails_describing_the_different_outcomes_and_their_related_probabilities",
-    "question": "During a source evaluation, For list a two-step sample space, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For list a two-step sample space, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "replacement_and_tree_diagrams",
+    "question": "A bag has 4 green and 3 yellow counters. Two are drawn without replacement. What is P(green then green)?",
+    "audio_prompt": "A bag has 4 green and 3 yellow counters. Two are drawn without replacement. What is P(green then green)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "2/7",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "16/49",
         "is_correct": false
       },
       {
-        "text": "A response that mentions discuss two-step chance experiments, such as the game of heads and tails, describing the different outcomes and their related probabilities but does not justify the relationship",
+        "text": "3/7",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "4/21",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The game of Heads and Tails, describing the different outcomes and their related probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The game of Heads and Tails, describing the different outcomes and their related probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Without replacement, P(GG) = 4/7 × 3/6 = 12/42 = 2/7.",
+      "hint": "After one green is removed, update both counts."
     }
   },
   {
@@ -486,35 +486,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_systematic_methods_such_as_lists_or_arrays_to_record_outcomes_and_assign_probabilities",
-    "question": "During a multi-step application, For select two leaders systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For select two leaders systematically, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "replacement_and_tree_diagrams",
+    "question": "An ace is drawn from a 52-card deck and kept out. What is the probability the next card is a king?",
+    "audio_prompt": "An ace is drawn from a 52-card deck and kept out. What is the probability the next card is a king?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "3/51",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "4/51",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use systematic methods such as lists or arrays to record outcomes and assign probabilities but does not justify the relationship",
+        "text": "4/52",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "3/52",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "Removing an ace leaves 51 cards but all 4 kings, so the second probability is 4/51.",
+      "hint": "Ask separately how the total and number of kings changed."
     }
   },
   {
@@ -523,35 +523,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_a_tree_diagram_to_represent_a_three_stage_event_and_assigning_probabilities_to_these_events",
-    "question": "During a justification task, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For compare replacement on a three-stage tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "population_selection_without_replacement",
+    "question": "A team has 7 juniors and 5 seniors. Two captains are selected without replacement. What is P(both are seniors)?",
+    "audio_prompt": "A team has 7 juniors and 5 seniors. Two captains are selected without replacement. What is P(both are seniors)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "25/144",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a tree diagram to represent a three-stage event and assigning probabilities to these events but does not justify the relationship",
+        "text": "10/33",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "5/33",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "5/12",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "P(two seniors) = 5/12 × 4/11 = 20/132 = 5/33.",
+      "hint": "Update 5 seniors out of 12 to 4 seniors out of 11."
     }
   },
   {
@@ -560,35 +560,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "assign_probabilities_to_compound_events_involving_the_random_selection_of_people_from_a_given_population",
-    "question": "During a final synthesis, For calculate a population-selection probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For calculate a population-selection probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "skill": "population_selection_without_replacement",
+    "question": "From 6 musicians and 4 actors, two different people are chosen. What is P(actor first, then musician)?",
+    "audio_prompt": "From 6 musicians and 4 actors, two different people are chosen. What is P(actor first, then musician)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "2/5",
         "is_correct": false
       },
       {
-        "text": "A response that mentions assign probabilities to compound events involving the random selection of people from a given population but does not justify the relationship",
+        "text": "3/10",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "8/15",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "4/15",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "P(actor then musician) = 4/10 × 6/9 = 24/90 = 4/15.",
+      "hint": "Selecting an actor leaves all 6 musicians among 9 people."
     }
   }
 ]

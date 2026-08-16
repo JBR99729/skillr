@@ -166,7 +166,8 @@ def build_teaching_slides(unit: dict, headings: list[str], authored: list[dict] 
         for index, slide in enumerate(authored, 1):
             item = dict(slide)
             item["id"] = item.get("id", f"elaboration-{index}")
-            item["elaborationId"] = unit["elaborations"][index - 1]["number"]
+            elaboration_index = item.pop("elaborationIndex", min(index, len(unit["elaborations"])))
+            item["elaborationId"] = unit["elaborations"][elaboration_index - 1]["number"]
             item["visual"] = dict(item["visual"])
             item["visual"].setdefault("label", item["highlight"])
             item["visual"].setdefault("index", index)
@@ -239,7 +240,10 @@ def build_spec(unit: dict, title: str, anchor: str, headings: list[str], authore
     mastery_items = []
     elaboration_records = []
     slide_records = []
-    for index, (elab, slide) in enumerate(zip(unit["elaborations"], slides), 1):
+    elaborations_by_id = {elab["number"]: elab for elab in unit["elaborations"]}
+    elaboration_records_by_id = {}
+    for index, slide in enumerate(slides, 1):
+        elab = elaborations_by_id[slide["elaborationId"]]
         model_id = f"model-{index}"
         checkpoint_id = f"checkpoint-{index}"
         model_records.append({
@@ -251,14 +255,21 @@ def build_spec(unit: dict, title: str, anchor: str, headings: list[str], authore
             "usedBy": ["topic", slide["id"], checkpoint_id],
             "reviewed": {"conceptAccurate": True, "labelsClear": True, "noOverlap": True},
         })
-        elaboration_records.append({
+        elaboration_record = elaboration_records_by_id.get(elab["number"])
+        if elaboration_record:
+            elaboration_record["modelIds"].append(model_id)
+            elaboration_record["checkpointIds"].append(checkpoint_id)
+        else:
+            elaboration_record = {
             "id": elab["number"], "curriculumWording": elab["text"],
             "plainLanguageConcept": slide["lead"], "teachingPurpose": slide["heading"],
             "modelIds": [model_id], "teacherDoes": slide["notes"]["teacherDoes"],
             "teacherSaysOrAsks": slide["notes"]["teacherAsks"], "studentDoes": slide["notes"]["studentDoes"],
             "whatToLookFor": slide["notes"]["expectedEvidence"], "ifIncorrect": slide["notes"]["ifIncorrect"],
             "checkpointIds": [checkpoint_id], "masteryEvidence": slide["answer"],
-        })
+            }
+            elaboration_records_by_id[elab["number"]] = elaboration_record
+            elaboration_records.append(elaboration_record)
         slide_records.append({
             "id": slide["id"], "title": slide["heading"], "purpose": slide["lead"],
             "display": {"modelIds": [model_id], "studentPrompt": slide["ask"], "keyText": [slide["highlight"]]},
