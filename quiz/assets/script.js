@@ -485,12 +485,20 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!/\/(?:math|maths)\//i.test(window.location.pathname)) return;
     const layer = document.createElement("div");
     layer.className = "scratchpad-layer";
-    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
+    layer.innerHTML = '<section class="scratchpad-panel" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div></header><canvas aria-label="Drawing area"></canvas><footer class="scratchpad-actions"><div class="scratchpad-tools" role="group" aria-label="Writing colour"><button type="button" class="scratchpad-swatch is-selected" data-colour="#17335f" aria-label="Navy writing colour" aria-pressed="true"></button><button type="button" class="scratchpad-swatch" data-colour="#c62828" aria-label="Red writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#167447" aria-label="Green writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-swatch" data-colour="#111827" aria-label="Black writing colour" aria-pressed="false"></button><button type="button" class="scratchpad-eraser" aria-label="Eraser" aria-pressed="false" title="Eraser">⌫</button></div><button type="button" class="scratchpad-clear">Clear</button></footer></section>';
     elements.quizScreen.insertAdjacentElement("afterend", layer);
     document.body.classList.add("has-scratchpad-dock");
     const canvas = layer.querySelector("canvas");
     const context = canvas.getContext("2d");
     let drawing = false;
+    let strokeColour = "#17335f";
+    let erasing = false;
+
+    function applyDrawingTool() {
+      context.globalCompositeOperation = erasing ? "destination-out" : "source-over";
+      context.lineWidth = erasing ? 18 : 3;
+      context.strokeStyle = strokeColour;
+    }
 
     function sizeCanvas() {
       const rect = canvas.getBoundingClientRect();
@@ -500,8 +508,7 @@ document.addEventListener("DOMContentLoaded", () => {
       context.setTransform(ratio, 0, 0, ratio, 0, 0);
       context.lineCap = "round";
       context.lineJoin = "round";
-      context.lineWidth = 3;
-      context.strokeStyle = "#17335f";
+      applyDrawingTool();
     }
 
     function point(event) {
@@ -522,6 +529,30 @@ document.addEventListener("DOMContentLoaded", () => {
       context.stroke();
     });
     ["pointerup", "pointercancel", "pointerleave"].forEach((name) => canvas.addEventListener(name, () => { drawing = false; }));
+    const swatches = [...layer.querySelectorAll(".scratchpad-swatch")];
+    const eraser = layer.querySelector(".scratchpad-eraser");
+    swatches.forEach((swatch) => swatch.addEventListener("click", () => {
+      strokeColour = swatch.dataset.colour;
+      erasing = false;
+      swatches.forEach((item) => {
+        const selected = item === swatch;
+        item.classList.toggle("is-selected", selected);
+        item.setAttribute("aria-pressed", String(selected));
+      });
+      eraser.classList.remove("is-selected");
+      eraser.setAttribute("aria-pressed", "false");
+      applyDrawingTool();
+    }));
+    eraser.addEventListener("click", () => {
+      erasing = true;
+      swatches.forEach((item) => {
+        item.classList.remove("is-selected");
+        item.setAttribute("aria-pressed", "false");
+      });
+      eraser.classList.add("is-selected");
+      eraser.setAttribute("aria-pressed", "true");
+      applyDrawingTool();
+    });
     layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
     new MutationObserver(() => {
       if (elements.quizScreen.classList.contains("is-active")) window.requestAnimationFrame(sizeCanvas);
