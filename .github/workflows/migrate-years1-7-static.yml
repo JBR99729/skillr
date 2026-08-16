@@ -1,0 +1,70 @@
+name: Migrate Years 1-7 static curriculum
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_years1_7_static_from_pdfs.mjs'
+      - '.github/workflows/migrate-years1-7-static.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+
+      - name: Install PDF renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Generate preserved static Topic Guides and fixed Teacher Slides
+        run: node scripts/migrate_years1_7_static_from_pdfs.mjs
+
+      - name: Commit generated curriculum files locally
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year1 year2 year3 year4 year5 year6 year7
+          if git diff --cached --quiet; then
+            echo "No generated curriculum changes"
+            exit 0
+          fi
+          git commit -m "Migrate Years 1-7 static topic guides and teacher slides"
+
+      - name: Validate locked static architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+
+      - name: Guard changed Topic Guides against runtime curriculum renderers
+        run: |
+          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'year1/**/index.html' 'year2/**/index.html' 'year3/**/index.html' 'year4/**/index.html' 'year5/**/index.html' 'year6/**/index.html' 'year7/**/index.html')
+          if [ -n "$changed" ]; then
+            if grep -EnH 'lower-materials-render|topic-modules-render|lesson-render|year[1-7]-(maths|science|english)-(render|topic)\.js' $changed; then
+              echo "Runtime curriculum renderer remains in a changed Topic Guide"
+              exit 1
+            fi
+          fi
+
+      - name: Guard changed Teacher Slide viewers against downloads/runtime assembly
+        run: |
+          viewers=$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '/teacher-(slides|deck)/index\.html$' || true)
+          if [ -n "$viewers" ]; then
+            if grep -EnH 'href=["'"'][^"'"']+\.(pdf|pptx)|lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach' $viewers; then
+              echo "Legacy Teacher Slide delivery remains in a changed viewer"
+              exit 1
+            fi
+          fi
+
+      - name: Push generated curriculum commit
+        run: |
+          if [ "$(git rev-parse HEAD)" != "${{ github.sha }}" ]; then
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+          else
+            echo "Nothing new to push"
+          fi
