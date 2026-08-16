@@ -39,7 +39,7 @@ for (const file of changed) {
     if (publicDownload.test(html)) {
       errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
     }
-    if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/["']/i.test(html)) {
+    if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/(?:[?#][^"']*)?["']/i.test(html)) {
       errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
     }
   }
