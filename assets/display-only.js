@@ -6,6 +6,8 @@
 
   const pagePath = window.location.pathname.replace(/\/+$/, "") || "/";
   const isTeacherSlide = pagePath.includes("/teacher-slides/") || pagePath.includes("/teacher-deck");
+  const isStandaloneTeacherDeck = pagePath.includes("/teacher-deck");
+  if (isStandaloneTeacherDeck) document.documentElement.classList.add("skillr-standalone-deck");
   const curriculumCode = (new URLSearchParams(window.location.search).get("code") || pagePath.match(/ac9[a-z0-9]+/i)?.[0] || "").toUpperCase();
 
   // Year 7 pages retain their existing HTML and load the connected visual layer additively.
@@ -43,6 +45,48 @@
       width: 100% !important;
       aspect-ratio: 16 / 9 !important;
       min-height: 0 !important;
+    }
+
+    .skillr-display-slide[hidden] {
+      display: none !important;
+    }
+
+    .skillr-standalone-deck .deck {
+      display: grid !important;
+      width: 100% !important;
+      max-width: none !important;
+      margin: 0 !important;
+      padding: 8px !important;
+      place-items: start center !important;
+    }
+
+    .skillr-standalone-deck .skillr-display-slide {
+      width: min(100%, calc((100vh - 92px) * 16 / 9)) !important;
+      margin: 0 !important;
+    }
+
+    .skillr-deck-controls {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-left: auto;
+    }
+
+    .skillr-deck-controls button {
+      min-height: 40px;
+    }
+
+    .skillr-deck-controls button:disabled {
+      cursor: not-allowed;
+      opacity: 0.45;
+    }
+
+    .skillr-deck-progress {
+      min-width: 72px;
+      color: #fff;
+      font-weight: 800;
+      text-align: center;
+      white-space: nowrap;
     }
 
     .skillr-display-watermark {
@@ -107,6 +151,14 @@
         font: 700 18pt/1.4 Arial, sans-serif;
       }
     }
+
+    @media (max-width: 720px) {
+      .skillr-deck-controls {
+        width: 100%;
+        justify-content: center;
+        margin-left: 0;
+      }
+    }
     ` : ""}
   `;
   document.head.appendChild(style);
@@ -146,8 +198,56 @@
     });
   }
 
+  function initStandaloneDeckNavigation() {
+    if (!isStandaloneTeacherDeck || document.querySelector(".skillr-deck-controls")) return;
+    const slides = Array.from(document.querySelectorAll(".slide"));
+    if (!slides.length) return;
+
+    const controls = document.createElement("div");
+    controls.className = "skillr-deck-controls";
+    controls.setAttribute("aria-label", "Slide navigation");
+
+    const previous = document.createElement("button");
+    previous.type = "button";
+    previous.textContent = "Previous";
+
+    const progress = document.createElement("span");
+    progress.className = "skillr-deck-progress";
+    progress.setAttribute("aria-live", "polite");
+
+    const next = document.createElement("button");
+    next.type = "button";
+    next.textContent = "Next";
+    controls.append(previous, progress, next);
+
+    const toolbar = document.querySelector(".nav");
+    if (toolbar) toolbar.appendChild(controls);
+    else document.body.insertBefore(controls, document.body.firstChild);
+
+    let current = 0;
+    const show = (index) => {
+      current = Math.max(0, Math.min(index, slides.length - 1));
+      slides.forEach((slide, slideIndex) => {
+        slide.hidden = slideIndex !== current;
+        slide.setAttribute("aria-hidden", String(slideIndex !== current));
+      });
+      progress.textContent = `${current + 1} / ${slides.length}`;
+      previous.disabled = current === 0;
+      next.disabled = current === slides.length - 1;
+    };
+
+    previous.addEventListener("click", () => show(current - 1));
+    next.addEventListener("click", () => show(current + 1));
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowLeft") show(current - 1);
+      if (event.key === "ArrowRight") show(current + 1);
+    });
+    show(0);
+  }
+
   function initTeacherSlideProtection() {
     secureTeacherSlides();
+    initStandaloneDeckNavigation();
     if (!isTeacherSlide || !document.body) return;
     const observer = new MutationObserver(secureTeacherSlides);
     observer.observe(document.body, { childList: true, subtree: true });
