@@ -64,6 +64,13 @@
       var link = document.createElement("a");
       link.textContent = item[0];
       link.href = item[1];
+      if (item[0] === "Updates") {
+        link.className = "updates-link";
+        var badge = document.createElement("span");
+        badge.className = "updates-link__badge";
+        badge.textContent = "New";
+        link.appendChild(badge);
+      }
       if (item[2]) {
         link.className = "footer-facebook-link";
         link.target = "_blank";

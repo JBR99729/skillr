@@ -2158,6 +2158,37 @@ footer {
     color: var(--maths);
 }
 
+.updates-link {
+    align-items: center;
+    gap: 6px;
+}
+
+.site-header__links .updates-link,
+.footer-nav .updates-link {
+    display: inline-flex;
+}
+
+.site-header__menu-panel .updates-link {
+    display: flex;
+}
+
+.updates-link__badge {
+    display: inline-flex;
+    min-width: 30px;
+    min-height: 18px;
+    padding: 2px 5px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    background: #c62828;
+    color: #fff;
+    font-size: .625rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+
 .site-header__links {
     display: flex;
     align-items: center;
