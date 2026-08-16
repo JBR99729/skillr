@@ -40,3 +40,5 @@ jobs:
           git add foundation/english
           git commit -m 'Generate static Foundation English curriculum pages'
           git push origin HEAD:${GITHUB_HEAD_REF}
+
+# Current-main migration trigger: 2026-08-17
