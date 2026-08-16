@@ -495,7 +495,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const layer = document.createElement("div");
     layer.className = "scratchpad-layer";
     layer.innerHTML = '<section class="scratchpad-panel" role="dialog" aria-labelledby="scratchpad-title"><header><div><strong id="scratchpad-title">Maths scratchpad</strong><small>Work it out with a finger, mouse or stylus. Nothing is uploaded.</small></div><button type="button" class="scratchpad-close" aria-label="Collapse scratchpad" title="Collapse scratchpad">›</button></header><canvas aria-label="Drawing area"></canvas><footer><button type="button" class="scratchpad-clear">Clear</button><button type="button" class="scratchpad-done">Collapse</button></footer></section>';
-    document.body.appendChild(layer);
+    elements.quizScreen.insertAdjacentElement("afterend", layer);
     document.body.classList.add("has-scratchpad-dock");
     const canvas = layer.querySelector("canvas");
     const context = canvas.getContext("2d");
@@ -545,6 +545,7 @@ document.addEventListener("DOMContentLoaded", () => {
       trigger.setAttribute("aria-expanded", "true");
       window.requestAnimationFrame(() => {
         if (!canvasReady) sizeCanvas();
+        if (window.matchMedia("(max-width: 699px)").matches) layer.scrollIntoView({ behavior: "smooth", block: "nearest" });
         if (moveFocus) layer.querySelector(".scratchpad-close").focus();
       });
     }
@@ -553,7 +554,7 @@ document.addEventListener("DOMContentLoaded", () => {
     layer.querySelector(".scratchpad-done").addEventListener("click", collapse);
     layer.querySelector(".scratchpad-clear").addEventListener("click", () => context.clearRect(0, 0, canvas.width, canvas.height));
     document.addEventListener("keydown", (event) => { if (event.key === "Escape" && !layer.classList.contains("is-collapsed")) collapse(); });
-    if (window.matchMedia("(min-width: 1101px)").matches) expand(false);
+    if (window.matchMedia("(min-width: 700px)").matches) expand(false);
     else collapse(false);
   }
 
