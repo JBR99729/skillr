@@ -1,0 +1,44 @@
+name: Fix English and Science teacher routes
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/fix_english_science_teacher_routes.mjs'
+      - '.github/workflows/fix-english-science-teacher-routes.yml'
+      - 'foundation/curriculum/english/index.html'
+      - 'foundation/curriculum/science/index.html'
+      - 'year*/curriculum/english/index.html'
+      - 'year*/curriculum/science/index.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit-and-fix:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rewrite safe legacy teacher routes
+        run: node scripts/fix_english_science_teacher_routes.mjs
+      - name: Validate locked static architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit repaired curriculum indexes
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation/curriculum/english/index.html foundation/curriculum/science/index.html year*/curriculum/english/index.html year*/curriculum/science/index.html 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo 'No safe route rewrites were required.'
+          else
+            git commit -m 'Route English and Science curriculum links to fixed Teacher Slides'
+            git push origin HEAD:${GITHUB_HEAD_REF}
+          fi
