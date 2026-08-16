@@ -1669,7 +1669,7 @@ svg,canvas,video,iframe { max-width:100%; }
 
 .warmup-mode-badge { display:inline-flex; margin:0 0 10px!important; padding:6px 10px; border-radius:999px; background:#fff1b8; color:#704500!important; font-size:.78rem; font-weight:900; }
 .scratchpad-trigger { position:fixed; z-index:10036; top:44%; right:0; display:none; min-height:42px; align-items:center; padding:9px 12px; border:1px solid #b8cae3; border-right:0; border-radius:10px 0 0 10px; background:#fff; color:#294466; font:inherit; font-size:.82rem; font-weight:800; cursor:pointer; box-shadow:0 8px 24px rgba(9,28,57,.16); }
-.scratchpad-layer { position:fixed; z-index:10035; top:12px; right:12px; bottom:12px; width:min(310px,calc(100vw - 24px)); }
+.scratchpad-layer { position:fixed; z-index:10035; top:12px; right:12px; bottom:12px; width:min(360px,calc(100vw - 24px)); }
 .scratchpad-layer.is-collapsed { display:none; }
 .scratchpad-layer.is-collapsed + .scratchpad-trigger,.scratchpad-is-collapsed .scratchpad-trigger { display:inline-flex; }
 .scratchpad-panel { display:flex; width:100%; height:100%; flex-direction:column; padding:14px; border:1px solid #c9d6e8; border-radius:12px; background:#fff; box-shadow:0 18px 48px rgba(9,28,57,.24); }
@@ -1678,11 +1678,11 @@ svg,canvas,video,iframe { max-width:100%; }
 .scratchpad-panel header small { margin-top:2px; color:#68778c; font-size:.76rem; }
 .scratchpad-close { display:grid; width:36px; height:36px; place-items:center; border:0; border-radius:50%; background:#edf2f8; color:#17335f; font-size:1.35rem; cursor:pointer; }
 .scratchpad-panel canvas { display:block; width:100%; min-height:240px; flex:1; border:1px solid #c8d6e8; border-radius:11px; background-color:#fff; background-image:linear-gradient(#e9eef5 1px,transparent 1px),linear-gradient(90deg,#e9eef5 1px,transparent 1px); background-size:24px 24px; touch-action:none; }
-.scratchpad-panel footer { display:flex; justify-content:flex-end; gap:8px; margin-top:10px; }
-.scratchpad-panel footer button { min-height:40px; padding:8px 13px; border:1px solid #b9cae2; border-radius:9px; background:#fff; color:#294466; font:inherit; font-weight:800; cursor:pointer; }
+.scratchpad-panel footer { display:flex; justify-content:flex-end; gap:6px; margin-top:6px; }
+.scratchpad-panel footer button { min-height:34px; padding:5px 10px; border:1px solid #b9cae2; border-radius:7px; background:#fff; color:#294466; font:inherit; font-size:.78rem; font-weight:800; cursor:pointer; }
 .scratchpad-panel footer .scratchpad-done { border-color:#2457d6; background:#2457d6; color:#fff; }
 @media(min-width:700px){
-  body.has-scratchpad-dock { padding-right:334px; transition:padding-right .2s ease; }
+  body.has-scratchpad-dock { padding-right:384px; transition:padding-right .2s ease; }
   body.has-scratchpad-dock.scratchpad-is-collapsed { padding-right:52px; }
 }
 .quiz-celebration { position:fixed; z-index:10025; top:18px; left:50%; display:grid; min-width:min(340px,calc(100% - 28px)); gap:2px; padding:12px 16px; transform:translateX(-50%); border:1px solid #99d4b8; border-radius:14px; background:#edf9f3; color:#125d3d; text-align:center; box-shadow:0 12px 32px rgba(10,73,45,.18); animation:quiz-celebration-in .35s ease-out both; }
@@ -1698,7 +1698,7 @@ svg,canvas,video,iframe { max-width:100%; }
 @media(prefers-reduced-motion:reduce){ .quiz-celebration,.quiz-confetti { animation:none!important; } }
 @media(max-width:699px){
   body.has-scratchpad-dock { padding-right:0; }
-  .scratchpad-layer { position:relative; inset:auto; z-index:auto; width:calc(100% - 24px); height:min(62vh,480px); margin:12px auto 24px; }
+  .scratchpad-layer { position:relative; inset:auto; z-index:auto; width:calc(100% - 24px); height:min(68vh,520px); margin:12px auto 24px; }
   .scratchpad-panel { width:100%; height:100%; box-shadow:0 10px 28px rgba(9,28,57,.16); }
   .scratchpad-panel canvas { min-height:180px; }
 }
