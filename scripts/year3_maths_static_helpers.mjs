@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 
+// This helper is a watched input for the full static Topic Guide and fixed-slide validation workflow.
 const DATA_PARTS = ["base", "n1", "n2", "n3", "a", "m1", "m2", "sp", "st", "p"];
 
 export function loadYear3MathsUnits(root = process.cwd()) {
