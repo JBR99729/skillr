@@ -11,6 +11,15 @@
   const fullscreen = root.querySelector('[data-slide-fullscreen]');
   let index = 0;
 
+  const loadProgression = () => {
+    if (document.querySelector('script[data-skillr-curriculum-progression]')) return;
+    const script = document.createElement('script');
+    script.src = '/assets/curriculum-progression.js?v=1';
+    script.defer = true;
+    script.dataset.skillrCurriculumProgression = 'true';
+    document.head.appendChild(script);
+  };
+
   const show = (nextIndex) => {
     if (!slides.length) return;
     index = Math.max(0, Math.min(slides.length - 1, nextIndex));
@@ -22,6 +31,7 @@
     if (previous) previous.disabled = index === 0;
     if (next) next.disabled = index === slides.length - 1;
     if (counter) counter.textContent = `${index + 1} / ${slides.length}`;
+    document.dispatchEvent(new CustomEvent('skillr:slidechange', { detail: { index, total: slides.length, root } }));
   };
 
   previous?.addEventListener('click', () => show(index - 1));
@@ -65,5 +75,6 @@
     if (blocked) event.preventDefault();
   });
 
+  loadProgression();
   show(0);
 })();
