@@ -17,6 +17,109 @@ PROTECTED_PUBLIC_ROUTES = {"/quiz/daily-drills/"}
 REQUIRED_ALIAS_REDIRECTS = {
     "/quiz/year-2/math/addition-substraction-daily/":
         "/quiz/year-2/daily-drills/math/addition-subtraction-strategies/",
+    "/quiz/grade-k/math/daily-drills/reading-comprehension/":
+        "/quiz/grade-k/daily-drills/english/reading-comprehension/",
+    "/quiz/grade-k/math/daily-drills/":
+        "/quiz/grade-k/daily-drills/",
+    "/quiz/year-1/math/measurment-comparison-daily/":
+        "/quiz/year-1/daily-drills/math/measurement-time-space-data/",
+    "/quiz/year-1/math/addition-substraction-daily/":
+        "/quiz/year-1/daily-drills/math/addition-subtraction-to-20/",
+    "/foundation/Maths/foundation-days-of-the-week-and-daily-routines.html":
+        "/foundation/maths/foundation-days-of-the-week-and-daily-routines.html",
+    "/foundation/Maths/foundation-data-collection-sorting-and-comparing-activities.html":
+        "/foundation/maths/foundation-data-collection-sorting-and-comparing-activities.html",
+    "/quiz/grade-k/math/AC9MFN01/":
+        "/quiz/grade-k/math/ac9mfn01/",
+    "/year6/science/":
+        "/year6/curriculum/science/",
+}
+REQUIRED_PAGE_MARKERS = {
+    "/quiz/year-10/science/ac9s10i03/test/": (
+        "Collect Precise, Replicable Data",
+        "AC9S10I03 Science",
+        "Calibration and instrument limits affect measurement quality.",
+    ),
+    "/quiz/year-8/english/ac9e8ly04/test/": (
+        "Organising Ideas to Shape Meaning",
+        "AC9E8LY04 English",
+        "cause and effect",
+    ),
+    "/quiz/year-8/math/ac9m8n01/test/": (
+        "Irrational Numbers in Context",
+        "AC9M8N01 Maths",
+        "non-terminating, non-repeating",
+    ),
+    "/quiz/year-6/english/ac9e6ly09/practice/": (
+        "Word Origins, Morphemes and Unfamiliar Words",
+        "AC9E6LY09 English",
+        "/year6/english/ac9e6ly09-knowledge-of-known-words-word-origins-including-some-latin-and/",
+    ),
+    "/quiz/grade-k/english/ac9efly01/test/": (
+        "Familiar Text Types and Their Purposes",
+        "AC9EFLY01 English",
+        "stories, informative texts, everyday symbols",
+    ),
+    "/quiz/year-10/math/ac9m10st02/practice/": (
+        "Continuous Distributions and Boxplots",
+        "AC9M10ST02 Maths",
+        "centre, spread, shape and outliers",
+    ),
+    "/quiz/year-10/science/ac9s10h04/worksheet/": (
+        "How Society Shapes Research Priorities Worksheet",
+        "AC9S10H04 Science",
+        "Funding and infrastructure",
+    ),
+    "/quiz/year-10/science/ac9s10i05/practice/": (
+        "Connect Evidence Across Data Sets",
+        "AC9S10I05 Science",
+        "patterns, trends, relationships and anomalies",
+    ),
+    "/quiz/year-9/science/ac9s9h03/test/": (
+        "Why Society Adopts Scientific Practices",
+        "AC9S9H03 Science",
+        "trust, access, cost, values and policy",
+    ),
+    "/quiz/year-7/math/ac9m7n04/test/": (
+        "Equivalent Rational Numbers and Number Lines",
+        "2/3 = 4/6 = 6/9",
+        "fraction, decimal and percentage",
+    ),
+}
+FORBIDDEN_PAGE_MARKERS = {
+    "/quiz/year-10/science/ac9s10i03/test/": (
+        "Students compare vocabulary, modality, terms of address",
+        "AC9S10I03 Maths",
+    ),
+    "/quiz/year-8/english/ac9e8ly04/test/": (
+        "Students compare vocabulary, modality, terms of address",
+        "AC9E8LY04 Maths",
+    ),
+    "/quiz/year-8/math/ac9m8n01/test/": (
+        "Students compare vocabulary, modality, terms of address",
+    ),
+    "/quiz/year-6/english/ac9e6ly09/practice/": (
+        "/year6/maths/ac9e6ly09-",
+        "AC9E6LY09 Maths",
+    ),
+    "/quiz/year-10/math/ac9m10st02/practice/": (
+        "Students compare vocabulary, modality, terms of address",
+    ),
+    "/quiz/year-10/science/ac9s10h04/worksheet/": (
+        "AC9S10H04 Maths",
+        "Examine how the values and needs of society influence the worksheet",
+    ),
+    "/quiz/year-10/science/ac9s10i05/practice/": (
+        "Students compare vocabulary, modality, terms of address",
+        "AC9S10I05 Maths",
+    ),
+    "/quiz/year-9/science/ac9s9h03/test/": (
+        "Students compare vocabulary, modality, terms of address",
+        "AC9S9H03 Maths",
+    ),
+    "/quiz/year-7/math/ac9m7n04/test/": (
+        r"\frac23",
+    ),
 }
 
 
@@ -91,6 +194,7 @@ def main() -> None:
     excluded_count = 0
     protected_seen: set[str] = set()
     aliases_seen: set[str] = set()
+    content_rules_seen: set[str] = set()
 
     for absolute in sorted(ROOT.rglob("*.html")):
         if set(absolute.parts) & {".git", "node_modules", "playwright-report", "test-results"}:
@@ -131,6 +235,15 @@ def main() -> None:
                 if not target_canonical or target_canonical.rstrip("/") != expected_redirect.rstrip("/"):
                     errors.append(f"{url}: redirect target is not self-canonical: {expected_redirect}")
 
+        if url in REQUIRED_PAGE_MARKERS or url in FORBIDDEN_PAGE_MARKERS:
+            content_rules_seen.add(url)
+            for marker in REQUIRED_PAGE_MARKERS.get(url, ()):
+                if marker not in source:
+                    errors.append(f"{url}: missing required regression marker: {marker}")
+            for marker in FORBIDDEN_PAGE_MARKERS.get(url, ()):
+                if marker in source:
+                    errors.append(f"{url}: contains stale or incorrect marker: {marker}")
+
         if noindex or functional:
             excluded_count += 1
             continue
@@ -161,6 +274,9 @@ def main() -> None:
         errors.append(f"{missing}: protected public hub file is missing")
     for missing in sorted(REQUIRED_ALIAS_REDIRECTS.keys() - aliases_seen):
         errors.append(f"{missing}: required legacy alias file is missing")
+    expected_content_rules = set(REQUIRED_PAGE_MARKERS) | set(FORBIDDEN_PAGE_MARKERS)
+    for missing in sorted(expected_content_rules - content_rules_seen):
+        errors.append(f"{missing}: targeted Search Console regression page is missing")
 
     if errors:
         print("\n".join(errors))
