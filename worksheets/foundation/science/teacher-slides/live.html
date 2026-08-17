@@ -1,26 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-AU">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <meta name="google-adsense-account" content="ca-pub-7734963540104771">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="robots" content="noindex,nofollow">
-  <meta name="theme-color" content="#173968">
   <title>Foundation Science Teacher Slides | SkillrHub</title>
-  <script src="/assets/display-only.js?v=1"></script>
-  <script src="/assets/foundation-science-data.js?v=20260813-v11"></script>
-  <script src="/assets/foundation-elaboration-map.js?v=20260813-v11"></script>
-  <script src="/assets/foundation-canonical-v1.1.js?v=20260813-v11"></script>
-  <script src="/assets/foundation-v1.1-render.js?v=20260813-foundation2"></script>
 </head>
-<body data-skillr-teacher-host="true">
-  <noscript>This selectable teacher-slide sequence requires JavaScript.</noscript>
+<body>
+  <p>Opening the static SkillrHub teacher deck…</p>
   <script>
-    window.SkillrFoundationV11Renderer.renderSlides({
-      data: window.SkillrFoundationScienceData,
-      config: { subject: "Science", pathSegment: "science", quizSubject: "science" }
-    });
+    (() => {
+      'use strict';
+      const code = (new URLSearchParams(location.search).get('code') || '').toUpperCase();
+      const decks = {
+        AC9SFU01: '/foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/teacher-slides/',
+        AC9SFU02: '/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/teacher-slides/',
+        AC9SFU03: '/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/teacher-slides/',
+        AC9SFH01: '/foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/teacher-slides/',
+        AC9SFI01: '/foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/teacher-slides/',
+        AC9SFI02: '/foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/teacher-slides/',
+        AC9SFI03: '/foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/teacher-slides/',
+        AC9SFI04: '/foundation/science/ac9sfi04-observations-with-predictions-with-guidance/teacher-slides/',
+        AC9SFI05: '/foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/teacher-slides/'
+      };
+      const target = decks[code];
+      if (target) location.replace(target);
+      else document.body.innerHTML = '<p>Choose a valid Foundation Science teacher deck.</p>';
+    })();
   </script>
-  <script defer src="/pwa-register.js"></script>
 </body>
 </html>
