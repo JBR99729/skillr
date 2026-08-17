@@ -161,7 +161,6 @@
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i, [...year1EnglishData, "/assets/year1-english-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i, [...year1EnglishData, "/assets/year1-english-worksheet-page.js?v=2"]],
 
-    [/^\/year2\/maths\/ac9m2/i, [...year2MathsData, "/assets/year2-maths-render.js?v=3"]],
     [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i, [...year2MathsData, "/assets/year2-maths-practice-quick-read.js?v=3"]],
     [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i, [...year2MathsData, "/assets/year2-maths-worksheet-page.js?v=3"]],
     [/^\/year2\/science\/ac9s2/i, [...year2ScienceData, "/assets/year2-science-render.js?v=3"]],
