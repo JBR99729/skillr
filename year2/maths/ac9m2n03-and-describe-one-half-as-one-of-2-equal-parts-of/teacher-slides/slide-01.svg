@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Fractions describe equal parts of one whole</title>
+<desc id="desc">A rectangle is divided into two equal parts, one shaded, with the notation one-half.</desc>
+<style>
+  .title{font:700 47px Arial,sans-serif}.sub{font:700 29px Arial,sans-serif}.text{font:500 25px Arial,sans-serif}.small{font:500 20px Arial,sans-serif}.footer{font:700 18px Arial,sans-serif}.watermark{font:700 31px Arial,sans-serif;letter-spacing:4px}.shape{stroke:#24324a;stroke-width:4}
+</style>
+<rect width="1200" height="675" fill="#f8fafc"/>
+<rect width="1200" height="82" fill="#173a72"/>
+<text x="52" y="54" fill="#fff" class="sub">SkillrHub • Year 2 Maths</text>
+<text x="1148" y="54" text-anchor="end" fill="#fff" class="small">1 / 7</text>
+<text x="60" y="150" fill="#173a72" class="title">Fractions describe equal parts of one whole</text>
+<text x="60" y="205" fill="#475569" class="text">The parts must be the same size or amount.</text>
+<rect x="120" y="280" width="440" height="220" rx="22" fill="#fff" class="shape"/>
+<path d="M142 280 H340 V500 H142 Q120 500 120 478 V302 Q120 280 142 280Z" fill="#d9e8ff"/>
+<line x1="340" y1="280" x2="340" y2="500" stroke="#24324a" stroke-width="5"/>
+<text x="340" y="555" text-anchor="middle" fill="#173a72" class="sub">2 equal parts</text>
+<text x="760" y="350" fill="#173a72" class="title">1/2</text>
+<text x="760" y="410" fill="#0f172a" class="sub">one-half</text>
+<text x="760" y="465" fill="#475569" class="text">1 equal part out of 2</text>
+<text x="600" y="395" text-anchor="middle" fill="#173a72" opacity=".055" class="watermark">SKILLRHUB • SKILLRHUB</text>
+<rect y="620" width="1200" height="55" fill="#173a72"/>
+<text x="52" y="655" fill="#fff" class="footer">AC9M2N03 • SkillrHub • skillrhub.com</text>
+</svg>
