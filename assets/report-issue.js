@@ -4,20 +4,25 @@
    Lightweight issue reporting.
    Uses mailto instead of embedded third-party forms so topic
    pages stay fast for SEO and mobile users.
-   Also loads the shared curriculum-alignment enhancement on
-   curriculum topic guides, avoiding hundreds of duplicated edits.
+   Also loads shared curriculum enhancements on curriculum
+   topic guides, avoiding hundreds of duplicated edits.
    ========================================================= */
 
 (function initialiseSkillrIssueReporter() {
   const DEFAULT_EMAIL = "skillrhublearning@gmail.com";
 
-  function loadInternationalAlignment() {
-    if (!window.skillrPageMeta?.curriculumCode || document.querySelector('script[data-skillr-international-alignment]')) return;
+  function loadSharedEnhancement(src, dataAttribute) {
+    if (!window.skillrPageMeta?.curriculumCode || document.querySelector(`script[${dataAttribute}]`)) return;
     const script = document.createElement("script");
-    script.src = "/assets/international-curriculum-seo.js?v=1";
+    script.src = src;
     script.defer = true;
-    script.dataset.skillrInternationalAlignment = "true";
+    script.setAttribute(dataAttribute, "true");
     document.head.appendChild(script);
+  }
+
+  function loadCurriculumEnhancements() {
+    loadSharedEnhancement("/assets/international-curriculum-seo.js?v=1", "data-skillr-international-alignment");
+    loadSharedEnhancement("/assets/curriculum-progression.js?v=1", "data-skillr-curriculum-progression");
   }
 
   function getPageMeta() {
@@ -47,7 +52,7 @@
   }
 
   function createFloatingButton() {
-    loadInternationalAlignment();
+    loadCurriculumEnhancements();
     if (document.querySelector("[data-report-issue], .report-issue-button")) return;
     const existingFloating = document.querySelector(".floating-learning-links");
     const button = document.createElement("button");
