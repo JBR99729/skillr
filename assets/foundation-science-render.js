@@ -16,6 +16,10 @@
     return DATA[code] ? code : null;
   }
 
+  function staticTeacherDeck(u){
+    return `/foundation/science/${u.slug}/teacher-slides/`;
+  }
+
   function legacySection(title){
     const h = qa("h2").find(el => el.textContent.trim().toLowerCase() === title.toLowerCase());
     return h?.closest("section")?.innerHTML || "";
@@ -75,6 +79,7 @@
       return;
     }
     const u = DATA[code];
+    const teacherDeck = staticTeacherDeck(u);
     const hero = q(".curriculum-hero");
     const main = q("main.curriculum-layout");
     if (!hero || !main) return;
@@ -88,7 +93,7 @@
     if (d) d.content = `Teach ${code} ${u.title} with a focused visual Foundation Science lesson, teacher slide, worksheet, Practice and Test.`;
 
     hero.classList.add("micro-hero");
-    hero.innerHTML = `<p class="curriculum-eyebrow">${code} • Foundation Science</p><h1>${esc(u.title)}</h1><p class="micro-hero__subtitle">${esc(u.subtitle)}</p><p class="micro-hero__goal">${esc(u.learn)}</p><div class="topic-action-row"><a class="primary" href="#teaching-lesson">Start lesson</a><a href="/worksheets/foundation/science/teacher-slides/live.html?code=${code}" target="_blank" rel="noopener">Teacher slide</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/worksheet/" target="_blank" rel="noopener">Worksheet</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/practice/">Practice</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/test/">Test</a></div><button class="report-issue-button" type="button" data-report-issue>Report issue</button>`;
+    hero.innerHTML = `<p class="curriculum-eyebrow">${code} • Foundation Science</p><h1>${esc(u.title)}</h1><p class="micro-hero__subtitle">${esc(u.subtitle)}</p><p class="micro-hero__goal">${esc(u.learn)}</p><div class="topic-action-row"><a class="primary" href="#teaching-lesson">Start lesson</a><a href="${teacherDeck}" target="_blank" rel="noopener">Teacher slide</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/worksheet/" target="_blank" rel="noopener">Worksheet</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/practice/">Practice</a><a href="/quiz/grade-k/science/${code.toLowerCase()}/test/">Test</a></div><button class="report-issue-button" type="button" data-report-issue>Report issue</button>`;
 
     const visuals = `<div class="science-visual-grid${u.visuals.length===2?" two":""}">${u.visuals.map(visualCard).join("")}</div>`;
     const activities = `<div class="mini-grid-3">${u.activities.map((a,i)=>activityCard(a,u,i)).join("")}</div>`;
@@ -116,7 +121,7 @@
     main.innerHTML = `<div class="lesson-stack">${lesson}
       <details class="topic-menu"><summary><span class="menu-title">Quick Mastery Check</span></summary><div class="menu-content"><p><strong>If the student can do these independently, move to Practice or Test.</strong></p><div class="mastery-row">${mastery}</div></div></details>
       ${menu("Australian Curriculum description & elaborations","Reference",curriculumHtml)}
-      ${menu("Teacher resource","Resource",`<h3>Classroom teaching slide</h3><p>Open the condensed classroom notes with the exact same teaching visuals used in this topic lesson.</p><a class="curriculum-button primary" href="/worksheets/foundation/science/teacher-slides/live.html?code=${code}" target="_blank" rel="noopener">Open teaching slide</a>`,"teacher-slide")}
+      ${menu("Teacher resource","Resource",`<h3>Classroom teaching slide</h3><p>Open the fixed classroom teaching deck for this curriculum code.</p><a class="curriculum-button primary" href="${teacherDeck}" target="_blank" rel="noopener">Open teaching slide</a>`,"teacher-slide")}
       ${menu("International curriculum mapping","Links",intlHtml)}
       ${menu("Related Foundation Science topics","Links",`<ul class="curriculum-related-list">${relatedLinks()}</ul>`)}
       ${menu("Official references","Sources",officialHtml)}
