@@ -1,0 +1,27 @@
+name: Patch AC9S3U04 static teacher link
+on:
+  push:
+    branches: ['agent/qa-year3-science-ac9s3u04']
+    paths:
+      - 'scripts/patch_ac9s3u04_static_teacher_link.mjs'
+      - '.github/workflows/patch-ac9s3u04-static-link.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/qa-year3-science-ac9s3u04
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/patch_ac9s3u04_static_teacher_link.mjs
+      - name: Commit patched topic page
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/index.html
+          git commit -m 'Route AC9S3U04 to static Teacher Slides'
+          git push origin HEAD:agent/qa-year3-science-ac9s3u04
