@@ -112,8 +112,10 @@ for (const file of topicFiles) {
     console.error(`VIOLATION ${rel}: malformed Teacher Slides anchor remains`);
     violations++;
   }
-  if (!/href=["']teacher-slides\/["'][^>]*>\s*Open Teacher Slides\s*<\/a>/i.test(html)) {
-    console.error(`VIOLATION ${rel}: fixed deck exists but no valid direct Teacher Slides CTA was found`);
+  // The link label may vary across curriculum generations; the invariant is
+  // that a direct static teacher-slides/ anchor exists when the fixed deck exists.
+  if (!/<a\b[^>]*href=["'](?:\.\/)?teacher-slides\/["'][^>]*>/i.test(html)) {
+    console.error(`VIOLATION ${rel}: fixed deck exists but no valid direct Teacher Slides link was found`);
     violations++;
   }
 }
