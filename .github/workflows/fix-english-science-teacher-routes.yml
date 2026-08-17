@@ -9,6 +9,10 @@ on:
       - 'foundation/curriculum/science/index.html'
       - 'year*/curriculum/english/index.html'
       - 'year*/curriculum/science/index.html'
+      - 'foundation/english/**/index.html'
+      - 'foundation/science/**/index.html'
+      - 'year*/english/**/index.html'
+      - 'year*/science/**/index.html'
   workflow_dispatch:
 
 permissions:
@@ -26,19 +30,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Rewrite safe legacy teacher routes
+      - name: Repair static Teacher Slides routes and anchors
         run: node scripts/fix_english_science_teacher_routes.mjs
       - name: Validate locked static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
-      - name: Commit repaired curriculum indexes
+      - name: Commit repaired routes and topic links
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add foundation/curriculum/english/index.html foundation/curriculum/science/index.html year*/curriculum/english/index.html year*/curriculum/science/index.html 2>/dev/null || true
+          git add foundation/english/*/index.html foundation/science/*/index.html year*/english/*/index.html year*/science/*/index.html 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo 'No safe route rewrites were required.'
+            echo 'No safe route or anchor rewrites were required.'
           else
-            git commit -m 'Route English and Science curriculum links to fixed Teacher Slides'
+            git commit -m 'Repair English and Science static Teacher Slides links'
             git push origin HEAD:${GITHUB_HEAD_REF}
           fi
