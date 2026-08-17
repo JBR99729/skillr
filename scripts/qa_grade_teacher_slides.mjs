@@ -2,6 +2,18 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
+/*
+Run after a full grade/subject slide-development batch is complete.
+Example:
+  node scripts/qa_grade_teacher_slides.mjs --grade=year2 --subject=science
+
+This regression specifically protects against:
+- malformed Teacher Slides anchors on topic pages;
+- legacy live/runtime slide routes;
+- missing or under-built static decks;
+- Step Up links that bypass an available QA-cleared static teacher deck.
+*/
+
 const ROOT = process.cwd();
 const args = Object.fromEntries(process.argv.slice(2).map((arg) => {
   const [key, ...rest] = arg.replace(/^--/, '').split('=');
