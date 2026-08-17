@@ -6,11 +6,13 @@ const ROOT = process.cwd();
 const subjects = new Set(['english','science']);
 const changed = [];
 const migrated = [];
+const repairedTopics = [];
 const unresolved = [];
 
 function walk(dir) {
   const out = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    if (entry.name === '.git' || entry.name === 'node_modules') continue;
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) out.push(...walk(full));
     else out.push(full);
@@ -18,9 +20,11 @@ function walk(dir) {
   return out;
 }
 
-const files = walk(ROOT).filter((file) => /(?:^|\/)curriculum\/(english|science)\/index\.html$/i.test(file.replaceAll('\\','/')));
+const allFiles = walk(ROOT);
+const curriculumFiles = allFiles.filter((file) => /(?:^|\/)curriculum\/(english|science)\/index\.html$/i.test(file.replaceAll('\\','/')));
+const topicFiles = allFiles.filter((file) => /(?:^|\/)(?:foundation|year\d+)\/(english|science)\/ac9[^/]+\/index\.html$/i.test(file.replaceAll('\\','/')));
 
-for (const file of files) {
+for (const file of curriculumFiles) {
   const rel = path.relative(ROOT, file).replaceAll('\\','/');
   const subjectMatch = rel.match(/curriculum\/(english|science)\/index\.html$/i);
   if (!subjectMatch || !subjects.has(subjectMatch[1].toLowerCase())) continue;
@@ -48,18 +52,44 @@ for (const file of files) {
   }
 }
 
-console.log(`English/Science curriculum indexes scanned: ${files.length}`);
+for (const file of topicFiles) {
+  const rel = path.relative(ROOT, file).replaceAll('\\','/');
+  const deckFile = path.join(path.dirname(file), 'teacher-slides', 'index.html');
+  if (!fs.existsSync(deckFile)) continue;
+  let html = fs.readFileSync(file, 'utf8');
+  const before = html;
+
+  // Historical generator bug produced: rel="noOpen Teacher Slides</a>
+  // Replace the whole malformed teacher CTA with one valid direct link to the fixed deck.
+  html = html.replace(
+    /<a\b[^>]*class=["'][^"']*curriculum-button[^"']*primary[^"']*["'][^>]*href=["']teacher-slides\/["'][\s\S]*?Open Teacher Slides<\/a>/gi,
+    '<a class="curriculum-button primary" href="teacher-slides/" rel="noopener">Open Teacher Slides</a>'
+  );
+  html = html.replace(
+    /<a\b[^>]*href=["']teacher-slides\/["'][^>]*rel=["']noOpen Teacher Slides<\/a>/gi,
+    '<a class="curriculum-button primary" href="teacher-slides/" rel="noopener">Open Teacher Slides</a>'
+  );
+
+  if (html !== before) {
+    fs.writeFileSync(file, html);
+    repairedTopics.push(rel);
+    changed.push(rel);
+  }
+}
+
+console.log(`English/Science curriculum indexes scanned: ${curriculumFiles.length}`);
+console.log(`English/Science topic pages scanned: ${topicFiles.length}`);
 console.log(`Legacy routes migrated to fixed viewers: ${migrated.length}`);
-console.log(`Indexes changed: ${changed.length}`);
+console.log(`Malformed topic Teacher Slides anchors repaired: ${repairedTopics.length}`);
+console.log(`Files changed: ${changed.length}`);
 for (const item of changed) console.log(`CHANGED ${item}`);
 if (unresolved.length) {
   console.log(`Legacy routes without fixed topic viewer: ${unresolved.length}`);
   for (const item of unresolved) console.log(`NEEDS_MIGRATION ${item}`);
 }
 
-// Guard: once a fixed topic viewer exists, curriculum indexes must not link to a legacy shared host.
 let violations = 0;
-for (const file of files) {
+for (const file of curriculumFiles) {
   const rel = path.relative(ROOT, file).replaceAll('\\','/');
   const html = fs.readFileSync(file, 'utf8');
   for (const card of html.match(/<article\b[\s\S]*?<\/article>/gi) || []) {
@@ -72,4 +102,20 @@ for (const file of files) {
     }
   }
 }
+
+for (const file of topicFiles) {
+  const rel = path.relative(ROOT, file).replaceAll('\\','/');
+  const deckFile = path.join(path.dirname(file), 'teacher-slides', 'index.html');
+  if (!fs.existsSync(deckFile)) continue;
+  const html = fs.readFileSync(file, 'utf8');
+  if (/rel=["']noOpen Teacher Slides/i.test(html)) {
+    console.error(`VIOLATION ${rel}: malformed Teacher Slides anchor remains`);
+    violations++;
+  }
+  if (!/href=["']teacher-slides\/["'][^>]*>\s*Open Teacher Slides\s*<\/a>/i.test(html)) {
+    console.error(`VIOLATION ${rel}: fixed deck exists but no valid direct Teacher Slides CTA was found`);
+    violations++;
+  }
+}
+
 if (violations) process.exit(1);
