@@ -116,6 +116,12 @@
       upTitle: 'Year 1: Compare image meaning',
       upText: 'Move from combining picture and word clues to comparing how images contribute across text types.'
     },
+    AC9EFLA08: {
+      practice: '/quiz/grade-k/english/ac9efla08/practice/',
+      up: '/year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/',
+      upTitle: 'Year 1: Learning-area vocabulary',
+      upText: 'Extend familiar-context vocabulary into recognising and using words that belong to school learning topics.'
+    },
     AC9EFLA09: {
       practice: '/quiz/grade-k/english/ac9efla09/practice/',
       up: '/year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/',
