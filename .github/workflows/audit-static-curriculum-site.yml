@@ -5,8 +5,9 @@ on:
     paths:
       - 'foundation/**'
       - 'year*/**'
-      - 'assets/teacher-slide-viewer.*'
+      - 'assets/**'
       - 'scripts/audit_static_curriculum_site.mjs'
+      - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - '.github/workflows/audit-static-curriculum-site.yml'
   workflow_dispatch:
@@ -23,6 +24,8 @@ jobs:
           node-version: '22'
       - name: Validate changed curriculum architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Enforce static Teacher Slides architecture
+        run: node scripts/audit_static_teacher_slides.mjs
       - name: Inventory remaining sitewide violations
         run: node scripts/audit_static_curriculum_site.mjs --json=artifacts/static-curriculum-audit.json
       - name: Upload audit report
