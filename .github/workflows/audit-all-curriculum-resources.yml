@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Audit every discovered curriculum code
-        run: node scripts/audit-all-curriculum-resources.js
+        run: node scripts/run-corrected-curriculum-audit.js
       - name: Preserve existing Years 1-7 static architecture validator
         run: node scripts/audit_years1_7_curriculum_resources.mjs
