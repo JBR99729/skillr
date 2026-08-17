@@ -60,7 +60,6 @@ for (const file of topicFiles) {
   const before = html;
 
   // Historical generator bug produced: rel="noOpen Teacher Slides</a>
-  // Replace the whole malformed teacher CTA with one valid direct link to the fixed deck.
   html = html.replace(
     /<a\b[^>]*class=["'][^"']*curriculum-button[^"']*primary[^"']*["'][^>]*href=["']teacher-slides\/["'][\s\S]*?Open Teacher Slides<\/a>/gi,
     '<a class="curriculum-button primary" href="teacher-slides/" rel="noopener">Open Teacher Slides</a>'
@@ -68,6 +67,16 @@ for (const file of topicFiles) {
   html = html.replace(
     /<a\b[^>]*href=["']teacher-slides\/["'][^>]*rel=["']noOpen Teacher Slides<\/a>/gi,
     '<a class="curriculum-button primary" href="teacher-slides/" rel="noopener">Open Teacher Slides</a>'
+  );
+
+  // If a fixed per-topic deck now exists, retire old live/teacher-deck topic routes.
+  html = html.replace(
+    /href=["'](?:\/[^"']+)?\/teacher-deck\/?(?:index\.html)?(?:\?[^"']*)?["']/gi,
+    'href="teacher-slides/"'
+  );
+  html = html.replace(
+    /href=["'][^"']*teacher-slides\/live\.html(?:\?[^"']*)?["']/gi,
+    'href="teacher-slides/"'
   );
 
   if (html !== before) {
@@ -80,7 +89,7 @@ for (const file of topicFiles) {
 console.log(`English/Science curriculum indexes scanned: ${curriculumFiles.length}`);
 console.log(`English/Science topic pages scanned: ${topicFiles.length}`);
 console.log(`Legacy routes migrated to fixed viewers: ${migrated.length}`);
-console.log(`Malformed topic Teacher Slides anchors repaired: ${repairedTopics.length}`);
+console.log(`Topic Teacher Slides links repaired: ${repairedTopics.length}`);
 console.log(`Files changed: ${changed.length}`);
 for (const item of changed) console.log(`CHANGED ${item}`);
 if (unresolved.length) {
@@ -112,10 +121,14 @@ for (const file of topicFiles) {
     console.error(`VIOLATION ${rel}: malformed Teacher Slides anchor remains`);
     violations++;
   }
-  // The link label may vary across curriculum generations; the invariant is
-  // that a direct static teacher-slides/ anchor exists when the fixed deck exists.
-  if (!/<a\b[^>]*href=["'](?:\.\/)?teacher-slides\/["'][^>]*>/i.test(html)) {
-    console.error(`VIOLATION ${rel}: fixed deck exists but no valid direct Teacher Slides link was found`);
+  if (/href=["'][^"']*(?:teacher-deck\/|teacher-slides\/live\.html)/i.test(html)) {
+    console.error(`VIOLATION ${rel}: legacy/live Teacher Slides route remains despite fixed deck`);
+    violations++;
+  }
+  const hasFixedDeckLink = /<a\b[^>]*href=["'](?:\.\/)?teacher-slides\/["'][^>]*>/i.test(html);
+  const hasStaticPdfLink = /<a\b[^>]*href=["'][^"']*teacher-slide[^"']*\.pdf(?:\?[^"']*)?["'][^>]*>/i.test(html);
+  if (!hasFixedDeckLink && !hasStaticPdfLink) {
+    console.error(`VIOLATION ${rel}: fixed deck exists but no static Teacher Slides resource link was found`);
     violations++;
   }
 }
