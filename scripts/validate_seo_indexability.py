@@ -28,9 +28,9 @@ REQUIRED_ALIAS_REDIRECTS = {
     "/foundation/Maths/foundation-days-of-the-week-and-daily-routines.html":
         "/foundation/maths/foundation-days-of-the-week-and-daily-routines.html",
     "/foundation/Maths/foundation-data-collection-sorting-and-comparing-activities.html":
-        "/foundation/maths/foundation-data-collection-sorting-and-comparing-activities.html",
+        "/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/",
     "/quiz/grade-k/math/AC9MFN01/":
-        "/quiz/grade-k/math/ac9mfn01/",
+        "/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/",
     "/year6/science/":
         "/year6/curriculum/science/",
 }
