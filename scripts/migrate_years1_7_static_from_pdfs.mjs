@@ -14,6 +14,13 @@ function codePattern(year,subject){return subject==='maths'?new RegExp(`AC9M${ye
 function findTopic(year,subject,code){const root=path.join(ROOT,`year${year}`,subject);if(!fs.existsSync(root))return null;const dirs=fs.readdirSync(root,{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>d.name);const hits=dirs.filter(d=>d.toLowerCase()===code.toLowerCase()||d.toLowerCase().startsWith(code.toLowerCase()+'-'));return hits.length===1?path.join(root,hits[0]):null;}
 function teacherPdf(html){return anchors(html).find(a=>/\.pdf(?:[?#]|$)/i.test(a.href)&&/teacher|slide|deck/i.test(`${a.text} ${a.href}`));}
 function hasGoodLocalViewer(topicDir){const v=path.join(topicDir,'teacher-slides','index.html');if(!fs.existsSync(v))return false;const h=read(v);return /(?:Previous|Next|data-slide-(?:previous|next))/i.test(h)&&/<img\b[^>]+src=["'][^"']+\.(?:png|jpe?g|webp|svg)/i.test(h)&&!/(?:lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach)/i.test(h);}
+function normalizeTeacherResource(html){
+  const cleanAnchor='<a class="curriculum-button primary" href="teacher-slides/" rel="noopener">Open Teacher Slides</a>';
+  let out=html.replace(/(<details\b[^>]*class=["'][^"']*teacher-resource[^"']*["'][^>]*>[\s\S]*?)(<a\b[\s\S]*?<\/a>)([\s\S]*?<\/details>)/i,`$1${cleanAnchor}$3`);
+  out=out.replace(/Use this one-page PDF to introduce the key idea, vocabulary and teaching sequence before students begin the activities\./gi,'Open this fixed classroom slide deck to introduce the key idea, vocabulary and teaching sequence before students begin the activities.');
+  return out;
+}
+function hasValidTeacherLink(html){return /href=["'](?:\.\/)?teacher-slides\/["'][^>]*>\s*(?:Open\s+)?Teacher Slides?\s*<\/a>/i.test(html)&&!/rel=["']noOpen Teacher Slides/i.test(html);}
 function convertSections(html){
   if(/<details\b/i.test(html)&&/<summary\b/i.test(html))return html;
   return html.replace(/<section\b([^>]*class=["'][^"']*curriculum-topic-section[^"']*["'][^>]*)>([\s\S]*?)<\/section>/gi,(all,attrs,body)=>{
@@ -44,7 +51,11 @@ for(let year=1;year<=7;year++)for(const subject of subjects){
   for(const code of codes){
     const topicDir=findTopic(year,subject,code); if(!topicDir){unresolved.push(`${code}: topic directory`);continue;}
     const topicFile=path.join(topicDir,'index.html'), original=read(topicFile); if(!original){unresolved.push(`${code}: topic html`);continue;}
-    if(hasGoodLocalViewer(topicDir)&&/<details\b/i.test(original)){skippedGood++;continue;}
+    if(hasGoodLocalViewer(topicDir)&&/<details\b/i.test(original)){
+      const normalized=normalizeTeacherResource(original);
+      if(normalized!==original||!hasValidTeacherLink(original)){write(topicFile,normalized);migrated++;}else skippedGood++;
+      continue;
+    }
     const pdf=teacherPdf(original);
     if(!pdf){
       if(/\/worksheets\/year[1-7]\/(?:maths|science|english)\/teacher-slides\/viewer\//i.test(original)&&/<details\b/i.test(original)){skippedGood++;continue;}
@@ -58,7 +69,8 @@ for(let year=1;year<=7;year++)for(const subject of subjects){
     html=html.replace(/<script\b[^>]*src=["'][^"']*(?:lower-materials-render|topic-modules-render|lesson-render)[^"']*["'][^>]*><\/script>\s*/gi,'');
     html=html.replace(/<script\b[^>]*src=["'][^"']*lower-materials-lessons[^"']*["'][^>]*><\/script>\s*/gi,'');
     html=html.replace(pdf.full,pdf.full.replace(pdf.href,'teacher-slides/').replace(/target=["']_blank["']/i,'').replace(/Open[^<]*(?:PDF|slide)[^<]*/i,'Open Teacher Slides'));
-    if(!/href=["']teacher-slides\/["']/i.test(html))html=html.replace(/(<a\b[^>]*href=["']#topic-guide["'][^>]*>[^<]*<\/a>)/i,`$1<a href="teacher-slides/">Teacher Slides</a>`);
+    html=normalizeTeacherResource(html);
+    if(!/href=["']teacher-slides\/["']/i.test(html))html=html.replace(/(<a\b[^>]*href=["']#topic-guide["'][^>]*>[^<]*<\/a>)/i,`$1<a href="teacher-slides/" rel="noopener">Teacher Slides</a>`);
     write(topicFile,html); migrated++; slides+=count;
   }
 }
