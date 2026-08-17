@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Repeated halving makes quarters and eighths</title>
+<desc id="desc">The same strip is divided into two halves, four quarters and eight eighths.</desc>
+<style>
+  .title{font:700 47px Arial,sans-serif}.sub{font:700 29px Arial,sans-serif}.text{font:500 25px Arial,sans-serif}.small{font:500 20px Arial,sans-serif}.footer{font:700 18px Arial,sans-serif}.watermark{font:700 31px Arial,sans-serif;letter-spacing:4px}.shape{stroke:#24324a;stroke-width:4}
+</style>
+<rect width="1200" height="675" fill="#f8fafc"/>
+<rect width="1200" height="82" fill="#173a72"/>
+<text x="52" y="54" fill="#fff" class="sub">SkillrHub • Year 2 Maths</text>
+<text x="1148" y="54" text-anchor="end" fill="#fff" class="small">4 / 7</text>
+<text x="60" y="145" fill="#173a72" class="title">Repeated halving makes quarters and eighths</text>
+<text x="60" y="198" fill="#475569" class="text">Half each part again and keep every part equal.</text>
+<text x="95" y="285" fill="#173a72" class="sub">Halves</text>
+<rect x="300" y="235" width="780" height="75" fill="#fff" class="shape"/>
+<rect x="300" y="235" width="390" height="75" fill="#bfdbfe"/>
+<line x1="690" y1="235" x2="690" y2="310" stroke="#24324a" stroke-width="4"/>
+<text x="495" y="285" text-anchor="middle" fill="#173a72" class="text">1/2</text>
+<text x="95" y="410" fill="#173a72" class="sub">Quarters</text>
+<rect x="300" y="360" width="780" height="75" fill="#fff" class="shape"/>
+<rect x="300" y="360" width="195" height="75" fill="#bbf7d0"/>
+<line x1="495" y1="360" x2="495" y2="435" stroke="#24324a" stroke-width="4"/>
+<line x1="690" y1="360" x2="690" y2="435" stroke="#24324a" stroke-width="4"/>
+<line x1="885" y1="360" x2="885" y2="435" stroke="#24324a" stroke-width="4"/>
+<text x="397" y="410" text-anchor="middle" fill="#166534" class="text">1/4</text>
+<text x="95" y="535" fill="#173a72" class="sub">Eighths</text>
+<rect x="300" y="485" width="780" height="75" fill="#fff" class="shape"/>
+<rect x="300" y="485" width="97.5" height="75" fill="#fed7aa"/>
+<line x1="397.5" y1="485" x2="397.5" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="495" y1="485" x2="495" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="592.5" y1="485" x2="592.5" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="690" y1="485" x2="690" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="787.5" y1="485" x2="787.5" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="885" y1="485" x2="885" y2="560" stroke="#24324a" stroke-width="3"/>
+<line x1="982.5" y1="485" x2="982.5" y2="560" stroke="#24324a" stroke-width="3"/>
+<text x="349" y="535" text-anchor="middle" fill="#9a3412" class="small">1/8</text>
+<text x="690" y="600" text-anchor="middle" fill="#173a72" class="small">A quarter is half of a half • An eighth is half of a quarter</text>
+<text x="600" y="395" text-anchor="middle" fill="#173a72" opacity=".055" class="watermark">SKILLRHUB • SKILLRHUB</text>
+<rect y="620" width="1200" height="55" fill="#173a72"/>
+<text x="52" y="655" fill="#fff" class="footer">AC9M2N03 • SkillrHub • skillrhub.com</text>
+</svg>
