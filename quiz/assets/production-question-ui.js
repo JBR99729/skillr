@@ -1,6 +1,11 @@
 "use strict";
 
 (() => {
+  const y10GiftedMatch = window.location.pathname.toLowerCase().match(/^\/quiz\/year-10\/math\/(ac9m10[a-z0-9]+)\/(practice|test)\//);
+  if (y10GiftedMatch && document.readyState === "loading") {
+    document.write(`<script src="/quiz/year-10/math/${y10GiftedMatch[1]}/gifted.js?v=20260819-final"><\/script><script src="/quiz/assets/year10-gifted-runtime.js?v=20260819-final"><\/script>`);
+  }
+
   const BANNED_STUDENT_CONTENT = [
     /\bthe current page is practicing\b/i,
     /\baustralian curriculum descriptor\b/i,
@@ -39,20 +44,12 @@
   function safeFilter(items) {
     if (!Array.isArray(items) || items.length === 0) return items;
     const clean = items.filter((question) => !isContaminated(question));
-    // Never turn a working quiz into an empty quiz. Existing bad banks remain
-    // available until their authored replacements are published.
     return clean.length > 0 ? clean : items;
   }
 
-  if (Array.isArray(window.quizQuestions)) {
-    window.quizQuestions = safeFilter(window.quizQuestions);
-  }
-  if (Array.isArray(window.skillrPracticeQuestions)) {
-    window.skillrPracticeQuestions = safeFilter(window.skillrPracticeQuestions);
-  }
-  if (Array.isArray(window.skillrTestQuestions)) {
-    window.skillrTestQuestions = safeFilter(window.skillrTestQuestions);
-  }
+  if (Array.isArray(window.quizQuestions)) window.quizQuestions = safeFilter(window.quizQuestions);
+  if (Array.isArray(window.skillrPracticeQuestions)) window.skillrPracticeQuestions = safeFilter(window.skillrPracticeQuestions);
+  if (Array.isArray(window.skillrTestQuestions)) window.skillrTestQuestions = safeFilter(window.skillrTestQuestions);
 
   const style = document.createElement("style");
   style.textContent = `
@@ -93,9 +90,7 @@
   function currentQuestionFromHeading() {
     const text = document.getElementById("questionText")?.textContent?.replace(/\s+/g, " ").trim();
     if (!text || !Array.isArray(window.quizQuestions)) return null;
-    return window.quizQuestions.find((question) =>
-      String(question.question || "").replace(/\s+/g, " ").trim() === text
-    ) || null;
+    return window.quizQuestions.find((question) => String(question.question || "").replace(/\s+/g, " ").trim() === text) || null;
   }
 
   function quizMode() {
@@ -105,33 +100,18 @@
     return "practice";
   }
 
-  function questionIdentity(question) {
-    return String(question.id || question.questionId || question.question || "unknown");
-  }
-
+  function questionIdentity(question) { return String(question.id || question.questionId || question.question || "unknown"); }
   function questionVoteKey(question) {
     const code = String(question.curriculumCode || question.curriculum_code || window.quizConfig?.skillCode || "unknown").toUpperCase();
     return `skillrQuestionVote:${code}:${questionIdentity(question)}`;
   }
-
-  function readVote(question) {
-    try { return localStorage.getItem(questionVoteKey(question)) || ""; }
-    catch { return ""; }
-  }
-
-  function saveVote(question, vote) {
-    try { localStorage.setItem(questionVoteKey(question), vote); }
-    catch { /* feedback must never interrupt the quiz */ }
-  }
-
+  function readVote(question) { try { return localStorage.getItem(questionVoteKey(question)) || ""; } catch { return ""; } }
+  function saveVote(question, vote) { try { localStorage.setItem(questionVoteKey(question), vote); } catch {} }
   function sendVote(question, vote, previousVote) {
     if (typeof window.gtag !== "function") return;
     window.gtag("event", "question_feedback", {
       curriculum_code: String(question.curriculumCode || question.curriculum_code || window.quizConfig?.skillCode || "unknown").toUpperCase(),
-      question_id: questionIdentity(question),
-      quiz_mode: quizMode(),
-      vote,
-      previous_vote: previousVote || "none"
+      question_id: questionIdentity(question), quiz_mode: quizMode(), vote, previous_vote: previousVote || "none"
     });
   }
 
@@ -140,69 +120,22 @@
     const question = currentQuestionFromHeading();
     document.querySelector(".question-quality-feedback")?.remove();
     if (!heading || !question) return;
-
-    const box = document.createElement("div");
-    box.className = "question-quality-feedback";
-    box.setAttribute("aria-label", "Question quality feedback");
-
-    const note = document.createElement("p");
-    note.textContent = "Help us improve Skillr: like a good-quality question, or downvote one that needs improvement.";
-    box.appendChild(note);
-
-    const up = document.createElement("button");
-    const down = document.createElement("button");
-    up.type = down.type = "button";
-    up.textContent = "👍 Good question";
-    down.textContent = "👎 Needs improvement";
-    up.setAttribute("aria-label", "Like this question's quality");
-    down.setAttribute("aria-label", "Downvote this question's quality");
-
-    const thanks = document.createElement("span");
-    thanks.className = "feedback-thanks";
-
-    function refresh() {
-      const vote = readVote(question);
-      up.setAttribute("aria-pressed", vote === "up" ? "true" : "false");
-      down.setAttribute("aria-pressed", vote === "down" ? "true" : "false");
-      thanks.textContent = vote ? "Thanks — your feedback helps us improve the question bank." : "";
-    }
-
-    function vote(value) {
-      const previous = readVote(question);
-      if (previous === value) return;
-      saveVote(question, value);
-      sendVote(question, value, previous);
-      refresh();
-    }
-
-    up.addEventListener("click", () => vote("up"));
-    down.addEventListener("click", () => vote("down"));
-    box.append(up, down, thanks);
-
-    const answerList = document.getElementById("answerList");
-    if (answerList?.parentNode) answerList.insertAdjacentElement("afterend", box);
-    else heading.insertAdjacentElement("afterend", box);
-    refresh();
+    const box = document.createElement("div"); box.className = "question-quality-feedback"; box.setAttribute("aria-label", "Question quality feedback");
+    const note = document.createElement("p"); note.textContent = "Help us improve Skillr: like a good-quality question, or downvote one that needs improvement."; box.appendChild(note);
+    const up = document.createElement("button"), down = document.createElement("button"); up.type = down.type = "button"; up.textContent = "👍 Good question"; down.textContent = "👎 Needs improvement";
+    up.setAttribute("aria-label", "Like this question's quality"); down.setAttribute("aria-label", "Downvote this question's quality");
+    const thanks = document.createElement("span"); thanks.className = "feedback-thanks";
+    function refresh() { const vote = readVote(question); up.setAttribute("aria-pressed", vote === "up" ? "true" : "false"); down.setAttribute("aria-pressed", vote === "down" ? "true" : "false"); thanks.textContent = vote ? "Thanks — your feedback helps us improve the question bank." : ""; }
+    function vote(value) { const previous = readVote(question); if (previous === value) return; saveVote(question, value); sendVote(question, value, previous); refresh(); }
+    up.addEventListener("click", () => vote("up")); down.addEventListener("click", () => vote("down")); box.append(up, down, thanks);
+    const answerList = document.getElementById("answerList"); if (answerList?.parentNode) answerList.insertAdjacentElement("afterend", box); else heading.insertAdjacentElement("afterend", box); refresh();
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    const heading = document.getElementById("questionText");
-    if (!heading) return;
-    const refreshQuestionExtras = () => queueMicrotask(() => {
-      addReadAloudButton();
-      addQuestionQualityFeedback();
-    });
+    const heading = document.getElementById("questionText"); if (!heading) return;
+    const refreshQuestionExtras = () => queueMicrotask(() => { addReadAloudButton(); addQuestionQualityFeedback(); });
     new MutationObserver(refreshQuestionExtras).observe(heading, { childList: true, characterData: true, subtree: true });
     const app = document.getElementById("quizApp");
-    if (app) {
-      new MutationObserver(() => {
-        const visual = document.getElementById("questionVisual");
-        if (!visual || visual.dataset.productionReady) return;
-        visual.dataset.productionReady = "true";
-        visual.classList.add("production-question-visual");
-        const svg = visual.querySelector("svg[aria-label]");
-        if (svg) visual.setAttribute("aria-label", svg.getAttribute("aria-label"));
-      }).observe(app, { childList: true, subtree: true });
-    }
+    if (app) new MutationObserver(() => { const visual = document.getElementById("questionVisual"); if (!visual || visual.dataset.productionReady) return; visual.dataset.productionReady = "true"; visual.classList.add("production-question-visual"); const svg = visual.querySelector("svg[aria-label]"); if (svg) visual.setAttribute("aria-label", svg.getAttribute("aria-label")); }).observe(app, { childList: true, subtree: true });
   });
 })();
