@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10st03-p-001",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control\nHint: Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control.",
-    "structuredExplanation": {
-      "summary": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
-      "hint": "Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-002",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The bivariate association model is copied without interpretation",
-      "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media\nHint: Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media.",
-    "structuredExplanation": {
-      "summary": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
-      "hint": "Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-003",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "informally using a line of good fit by eye to discuss reliability of any predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving informally using a line of good fit by eye to discuss reliability of any predictions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving informally using a line of good fit by eye to discuss reliability of any predictions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "informally using a line of good fit by eye to discuss reliability of any predictions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "informally using a line of good fit by eye to discuss reliability of any predictions\nHint: informally using a line of good fit by eye to discuss reliability of any predictions.",
-    "structuredExplanation": {
-      "summary": "informally using a line of good fit by eye to discuss reliability of any predictions",
-      "hint": "informally using a line of good fit by eye to discuss reliability of any predictions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-004",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "explore how scatter plots and association help data scientists gain insights into the data identify relationships",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how scatter plots and association help data scientists gain insights into the data identify relationships. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how scatter plots and association help data scientists gain insights into the data identify relationships. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance"
-    ],
-    "correct": 3,
-    "explanation": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance\nHint: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.",
-    "structuredExplanation": {
-      "summary": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance",
-      "hint": "Explore how scatter plots and association help data scientists gain insights into the data, identify relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-005",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications",
-      "The bivariate association model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications\nHint: Explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations.",
-    "structuredExplanation": {
-      "summary": "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications",
-      "hint": "Explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-006",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions\nHint: Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions.",
-    "structuredExplanation": {
-      "summary": "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions",
-      "hint": "Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-007",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control\nHint: Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control.",
-    "structuredExplanation": {
-      "summary": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
-      "hint": "Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st03-p-008",
-    "curriculumCode": "AC9M10ST03",
-    "bank": "practice",
-    "skill": "use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The bivariate association model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media"
-    ],
-    "correct": 3,
-    "explanation": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media\nHint: Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media.",
-    "structuredExplanation": {
-      "summary": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
-      "hint": "Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,q,a,c,e)=>({id,curriculumCode:"AC9M10ST03",bank:"practice",section:"Scatterplots and association",sourceNumber:n,skill:"construct and interpret scatterplots",printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Sketch the points if useful, then describe direction, strength and form."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10st03-p-001",1,"A student records hours studied and quiz score as (1,2), (2,4), (3,6), (4,8). If these points are plotted, which association is shown?",["Strong positive linear","Weak positive","Negative","No association"],0,"All four points lie exactly on an increasing straight line."),
+Q("ac9m10st03-p-002",2,"A runner records training session number and recovery time as (1,9), (2,7), (3,5), (4,3). What is the direction of association?",["Positive","Negative","No direction","Random"],1,"As x increases, y consistently decreases."),
+Q("ac9m10st03-p-003",3,"Four students all studied exactly 2 hours, with scores 5, 6, 7 and 8. The plotted points are (2,5), (2,6), (2,7), (2,8). What pattern appears?",["Horizontal line","Positive linear trend","Negative linear trend","Vertical line"],3,"All points have the same x-value, so they form a vertical line; ordinary correlation is not defined when x has no variation."),
+Q("ac9m10st03-p-004",4,"A scatterplot of distance travelled and fuel used contains (1,1), (2,2), (3,3), (4,4). How strong is the linear association?",["Weak","Moderate","Strong","None"],2,"The points lie exactly on one straight line, so the linear association is perfect and therefore strong."),
+Q("ac9m10st03-p-005",5,"A shop records advertising spend and extra sales as (1,10), (2,9), (3,8), (4,7). Which best describes the form?",["Linear","Non-linear","Random","No pattern"],0,"The points lie on a straight decreasing line."),
+Q("ac9m10st03-p-006",6,"A sensor records time and a constant temperature: (1,5), (2,5), (3,5), (4,5). What does the scatterplot show?",["No association between time and temperature","Positive association","Negative association","Strong increasing association"],0,"Temperature does not change as time changes, so there is no increasing or decreasing association."),
+Q("ac9m10st03-p-007",7,"A plant's age and height are recorded as (1,2), (2,3), (3,5), (4,8). What is the direction of association?",["Positive","Negative","None","Random"],0,"Larger x-values are generally paired with larger y-values."),
+Q("ac9m10st03-p-008",8,"A machine runs for 1, 2, 3 and 4 hours and produces 10, 20, 30 and 40 units. How strong is the linear association?",["Weak","Moderate","Strong","None"],2,"The points lie exactly on an increasing straight line."),
+Q("ac9m10st03-p-009",9,"A class records number of practice questions completed and receives the same score of 3 in each case: (1,3), (2,3), (3,3), (4,3). What geometric pattern appears?",["Vertical line","Positive trend","Negative trend","Horizontal line"],3,"All y-values are equal, so the points form a horizontal line."),
+Q("ac9m10st03-p-010",10,"A scatterplot of hours studied and test score contains (1,2), (2,4), (3,3), (4,7). Which description is most appropriate?",["Perfect positive linear","Moderate positive association","Strong negative association","No association"],1,"The overall direction is positive, but the points do not lie perfectly on a line."),
+Q("ac9m10st03-p-011",11,"A car's speed and travel time over a fixed route are recorded as (1,10), (2,8), (3,6), (4,4), (5,2). What is the direction?",["Positive","Negative","None","Random"],1,"As x increases, y decreases in a clear pattern."),
+Q("ac9m10st03-p-012",12,"A growing colony is measured at times 1, 2, 3 and 4, giving sizes 2, 4, 7 and 11. Which form best describes the plotted pattern?",["Perfectly linear","Curved/non-linear","No association","Random"],1,"The increases are 2, 3 and 4, so the points bend upward rather than lying on one straight line."),
+Q("ac9m10st03-p-013",13,"A scatterplot of daily exercise time and fitness score contains (1,5), (2,6), (3,7), (4,8), (5,20). Which point is the clearest outlier from the main linear pattern?",["(1,5)","(4,8)","(5,20)","There is no outlier"],2,"The first four points follow y=x+4, while (5,20) lies far above that pattern."),
+Q("ac9m10st03-p-014",14,"A teacher plots hours of revision against test score: (1,2), (2,3), (3,4), (4,10). Which statement is most accurate?",["Perfect linear association","Positive association with one point far from the earlier trend","Negative association","No association"],1,"The first three points follow a gentle positive line, while the final point lies well above it."),
+Q("ac9m10st03-p-015",15,"A store compares advertising spend with sales: (1,10), (2,20), (3,30), (4,25). What is the overall association?",["Perfect positive linear","Moderate positive","Negative","None"],1,"Sales generally rise with advertising spend, although the last point departs from the straight-line trend."),
+Q("ac9m10st03-p-016",16,"A cooling experiment records (time, temperature): (1,100), (2,90), (3,80), (4,70), (5,5). Which point is most clearly inconsistent with the trend of the first four measurements?",["(1,100)","(3,80)","(4,70)","(5,5)"],3,"The first four values decrease by 10 each step; (5,5) is far below that continuation."),
+Q("ac9m10st03-p-017",17,"A square's side length x and area y are recorded as (1,2), (2,4), (3,9), (4,16). Which form best describes the association?",["Linear","Non-linear","No association","Random"],1,"The points curve upward rather than following a straight line."),
+Q("ac9m10st03-p-018",18,"A training program records sessions completed and performance score as (1,5), (2,10), (3,15), (4,14). Which description fits best?",["Strong negative","Moderate positive","No association","Perfect positive"],1,"The overall trend is upward, but the final point falls below the earlier linear pattern."),
+Q("ac9m10st03-p-019",19,"A battery test records usage time and remaining charge as (1,50), (2,49), (3,48), (4,47). What is the direction?",["Positive","Negative","None","Random"],1,"Charge decreases as usage time increases."),
+Q("ac9m10st03-p-020",20,"A class records practice hours and scores as (1,2), (2,3), (3,3), (4,4), (5,5). Which description is best?",["Strong negative","Moderate positive","No association","Perfect positive"],1,"Scores generally increase with practice hours, though not perfectly."),
+Q("ac9m10st03-p-021",21,"A retailer plots advertising spend and sales as (1,10), (2,20), (3,30), (4,40), (5,100). Which point is the clearest outlier from the first four points?",["(1,10)","(4,40)","(5,100)","No outlier"],2,"The first four lie on y=10x, while (5,100) is far above the expected value of 50."),
+Q("ac9m10st03-p-022",22,"A delivery company records distance and travel cost as (1,3), (2,6), (3,9), (4,12). Which association is shown?",["Strong positive linear","Moderate positive","Weak positive","None"],0,"Every point lies on the increasing straight line y=3x."),
+Q("ac9m10st03-p-023",23,"A device records operating time and battery level as (1,10), (2,8), (3,6), (4,5), (5,4). How strong is the negative association?",["Strong","Moderate","Weak","None"],0,"The points remain close to a clear decreasing trend."),
+Q("ac9m10st03-p-024",24,"A student plots hours practised and skill score as (1,2), (2,4), (3,6), (4,8), (5,7). Which description is most appropriate?",["Approximately linear positive association","Non-linear with no direction","Negative association","No association"],0,"Most points follow a positive straight-line pattern, with the last point somewhat below it.")];
+window.quizQuestions=window.skillrPracticeQuestions;
