@@ -100,7 +100,7 @@ AC9E2LE05,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/
 AC9E2LY01,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly01/practice/questions.js,quiz/year-2/english/ac9e2ly01/test/questions.js,
 AC9E2LY02,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly02/practice/questions.js,quiz/year-2/english/ac9e2ly02/test/questions.js,
 AC9E2LY03,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly03/practice/questions.js,quiz/year-2/english/ac9e2ly03/test/questions.js,
-AC9E2LY04,2,english,24,16,true,false,false,0,0,2,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly04/practice/questions.js,quiz/year-2/english/ac9e2ly04/test/questions.js,truncated prompt or answer text
+AC9E2LY04,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly04/practice/questions.js,quiz/year-2/english/ac9e2ly04/test/questions.js,
 AC9E2LY05,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly05/practice/questions.js,quiz/year-2/english/ac9e2ly05/test/questions.js,
 AC9E2LY06,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly06/practice/questions.js,quiz/year-2/english/ac9e2ly06/test/questions.js,
 AC9E2LY07,2,english,24,16,true,true,false,0,0,0,0,0,0,0,0,1,quiz/year-2/english/ac9e2ly07/practice/questions.js,quiz/year-2/english/ac9e2ly07/test/questions.js,
@@ -334,7 +334,7 @@ AC9S6U04,6,science,24,16,true,false,false,0,0,0,0,0,0,40,0,1,quiz/year-6/science
 AC9E6LA01,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la01/practice/questions.js,quiz/year-6/english/ac9e6la01/test/questions.js,practice below 24; dedicated test below 16
 AC9E6LA02,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la02/practice/questions.js,quiz/year-6/english/ac9e6la02/test/questions.js,practice below 24; dedicated test below 16
 AC9E6LA03,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la03/practice/questions.js,quiz/year-6/english/ac9e6la03/test/questions.js,practice below 24; dedicated test below 16
-AC9E6LA04,6,english,8,8,false,false,false,0,0,1,0,0,0,0,0,0,quiz/year-6/english/ac9e6la04/practice/questions.js,quiz/year-6/english/ac9e6la04/test/questions.js,practice below 24; dedicated test below 16; truncated prompt or answer text
+AC9E6LA04,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la04/practice/questions.js,quiz/year-6/english/ac9e6la04/test/questions.js,practice below 24; dedicated test below 16
 AC9E6LA05,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la05/practice/questions.js,quiz/year-6/english/ac9e6la05/test/questions.js,practice below 24; dedicated test below 16
 AC9E6LA06,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la06/practice/questions.js,quiz/year-6/english/ac9e6la06/test/questions.js,practice below 24; dedicated test below 16
 AC9E6LA07,6,english,8,8,false,false,false,0,0,0,0,0,0,0,0,0,quiz/year-6/english/ac9e6la07/practice/questions.js,quiz/year-6/english/ac9e6la07/test/questions.js,practice below 24; dedicated test below 16

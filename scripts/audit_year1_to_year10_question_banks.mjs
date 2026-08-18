@@ -148,7 +148,8 @@ function analyseBank(questions, year) {
     const index = correctIndex(item, answers);
     if (!prompt.trim()) malformed += 1;
     if (GENERIC_PATTERNS.some(pattern => pattern.test(prompt) || pattern.test(String(item.explanation ?? '')))) generic += 1;
-    if (/[\u2026]|\.\.\./.test(prompt) || answers.some(answer => /[\u2026]|\.\.\./.test(String(answer?.text ?? answer)))) truncated += 1;
+    const endsAbruptly = (value) => /(?:\u2026|\.\.\.)\s*["'”’)]?\s*$/.test(String(value ?? ""));
+    if (endsAbruptly(prompt) || answers.some(answer => endsAbruptly(answer?.text ?? answer))) truncated += 1;
     if (answers.some(answer => FILLER_ANSWERS.test(String(answer?.text ?? answer).trim()))) filler += 1;
     if (!hasStructuredExplanation(item)) missingExplanation += 1;
     if (year <= 2 && !hasAudio(item)) missingAudio += 1;

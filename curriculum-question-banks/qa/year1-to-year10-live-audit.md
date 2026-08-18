@@ -1,6 +1,6 @@
 # Year 1–10 live assessment-bank audit
 
-Generated: 2026-08-18T00:27:49.947Z
+Generated: 2026-08-18T00:48:53.340Z
 
 ## Release baseline
 
@@ -13,12 +13,12 @@ Generated: 2026-08-18T00:27:49.947Z
 
 - Curriculum codes checked: **626**
 - Passing the 24/16 count-and-separation baseline: **367**
-- Passing all automated quality signals: **110**
+- Passing all automated quality signals: **111**
 - Practice and Test sharing one source: **3**
 - Below 24 Practice: **256**
 - Below 16 dedicated Test: **259**
 - Codes containing generic curriculum-description items: **0**
-- Codes containing visibly truncated prompts/options: **6**
+- Codes containing visibly truncated prompts/options: **4**
 - Codes missing structured summary + hint feedback: **4**
 - Year 1–2 codes missing audio metadata: **0**
 - Pages without a loadable Practice or Test bank: **0**
@@ -35,7 +35,7 @@ Generated: 2026-08-18T00:27:49.947Z
 | 1 | english | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | math | 18 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | science | 10 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | english | 27 | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 2 | english | 27 | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | math | 23 | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
 | 3 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 3 | english | 28 | 28 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
@@ -47,7 +47,7 @@ Generated: 2026-08-18T00:27:49.947Z
 | 5 | english | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | math | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 6 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 6 | english | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 2 | 0 |
+| 6 | english | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 1 | 0 |
 | 7 | math | 30 | 15 | 0 | 15 | 15 | 240 | 120 | 0 | 0 | 0 |
 | 7 | science | 18 | 0 | 1 | 17 | 18 | 272 | 152 | 0 | 0 | 1 |
 | 7 | english | 24 | 0 | 1 | 23 | 24 | 368 | 200 | 0 | 0 | 1 |
