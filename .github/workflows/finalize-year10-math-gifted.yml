@@ -24,6 +24,7 @@ jobs:
           mkdir -p curriculum-question-banks
           cat .github/tmp-year10-gifted/source-*.b64 | base64 -d | gzip -d > curriculum-question-banks/year10-gifted-math-reviewed.txt
           sed -i 's/parents\[3\]/parents[2]/' .github/tmp-year10-gifted/finalize_year10_gifted_math.py
+          sed -i 's/"difficulty":"gifted"/"difficulty":"extension"/' .github/tmp-year10-gifted/finalize_year10_gifted_math.py
 
       - name: Append gifted layer and verify
         run: python .github/tmp-year10-gifted/finalize_year10_gifted_math.py
@@ -39,7 +40,7 @@ jobs:
           Final bank policy:
           - retain the authored core questions;
           - append 16 reviewed gifted questions to Practice and 8 to Test for each Year 10 Maths curriculum code;
-          - gifted questions are ordered after the core bank in source arrays;
+          - gifted questions are ordered after the core bank in source arrays and tagged as extension difficulty so progressive Practice ordering keeps them after the core progression;
           - do not run further content-audit/re-authoring passes on Year 10 Maths unless explicitly reopened by the repository owner;
           - runtime, link, syntax, security and regression validation may continue.
           EOF
