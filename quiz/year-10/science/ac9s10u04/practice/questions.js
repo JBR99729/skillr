@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10u04-p-001",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
-      "The greenhouse effect is a physical layer trapping heat",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system\nHint: Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
-      "hint": "Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-002",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One weather event proves or disproves climate change",
-      "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice\nHint: Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
-      "hint": "Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-003",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The greenhouse effect is a physical layer trapping heat",
-      "The method can be chosen without checking the values or conditions",
-      "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed\nHint: Use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
-      "hint": "Use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-004",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One weather event proves or disproves climate change",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life"
-    ],
-    "correct": 3,
-    "explanation": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life\nHint: Use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life",
-      "hint": "Use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-005",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating how quantum computers enhance modelling of complex weather and climate systems",
-      "The greenhouse effect is a physical layer trapping heat",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating how quantum computers enhance modelling of complex weather and climate systems\nHint: Use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how quantum computers enhance modelling of complex weather and climate systems",
-      "hint": "Use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-006",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One weather event proves or disproves climate change",
-      "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects\nHint: Use changes to the Earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
-      "hint": "Use changes to the Earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-007",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The greenhouse effect is a physical layer trapping heat",
-      "The method can be chosen without checking the values or conditions",
-      "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system\nHint: Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
-      "hint": "Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u04-p-008",
-    "curriculumCode": "AC9S10U04",
-    "bank": "practice",
-    "skill": "use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One weather event proves or disproves climate change",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice"
-    ],
-    "correct": 3,
-    "explanation": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice\nHint: Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
-      "hint": "Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=(id,n,section,question,answers,correct,explanation)=>({id:`ac9s10u04-p-${String(id).padStart(3,"0")}`,curriculumCode:"AC9S10U04",bank:"practice",section,sourceNumber:n,skill:section,printable:true,type:"single",question,answers,correct,explanation,structuredExplanation:{summary:explanation,hint:"Use the evidence and mechanism in the scenario; eliminate options that overstate what the evidence proves."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q(1,1,"Earth spheres","Which Earth sphere is directly altered when atmospheric carbon dioxide concentration increases?",["Geosphere","Atmosphere","Biosphere","Hydrosphere"],1,"Carbon dioxide is a gas in the atmosphere, although its effects then propagate through the other spheres."),
+Q(2,2,"Albedo feedback","Sea ice melts and exposes darker ocean water. What happens to the local energy balance?",["Albedo increases and more solar energy is reflected","Infrared emission stops","Albedo decreases and more solar energy is absorbed","No energy-balance change occurs"],2,"Dark ocean reflects less sunlight than bright ice, increasing absorption and reinforcing warming."),
+Q(3,3,"Hydrosphere","Why can the ocean absorb a large fraction of excess heat in the climate system?",["Water has high heat capacity and ocean mixing distributes heat through a large volume","Ocean water blocks all infrared radiation","Currents create heat from nothing","Salt prevents water from warming"],0,"The ocean's large mass and heat capacity allow it to store vast amounts of thermal energy, while mixing and circulation redistribute it."),
+Q(4,4,"Sphere interactions","Which process transfers carbon from organisms to the atmosphere?",["Photosynthesis","Sedimentation","Plate subduction","Cellular respiration"],3,"Respiration releases carbon dioxide from the biosphere to the atmosphere."),
+Q(5,5,"Climate impacts","Which statement about tropical cyclones and warmer oceans is most scientifically careful?",["Every tropical cyclone must double in strength","Warmer ocean conditions can increase potential cyclone intensity and rainfall, but do not mean every cyclone becomes stronger","Warmer oceans prevent tropical cyclones","Cyclone intensity is unrelated to ocean heat"],1,"Warm ocean water supplies energy to tropical cyclones; climate effects involve probabilities and intensity distributions, not a guarantee for each storm."),
+Q(6,6,"Geosphere-atmosphere","How can mountain ranges in the geosphere affect regional climate?",["They absorb all greenhouse gases","They stop ocean evaporation globally","They force air to rise, influencing rainfall and creating rain-shadow effects","They increase solar output"],2,"Topography changes airflow and precipitation patterns."),
+Q(7,7,"Volcanic forcing","Large explosive volcanic eruptions can cause temporary global cooling mainly when they:",["inject sulfur gases that form reflective sulfate aerosols high in the atmosphere","release ash that permanently blocks sunlight worldwide","remove all atmospheric carbon dioxide","cool the ocean by direct contact with lava"],0,"Stratospheric sulfate aerosols can reflect incoming sunlight for months to years; ash generally settles much faster."),
+Q(8,8,"Biosphere","Which is a likely biological response to sustained climate change?",["All ecosystems become more stable","Evolution stops","Every species increases in abundance","Species distributions shift as suitable climatic zones move"],3,"Species may shift ranges, alter timing or decline if they cannot track suitable conditions."),
+Q(9,9,"Climate drivers","Which statement best describes the main driver of the recent long-term global warming trend?",["Plate tectonics over the last few decades","Increased greenhouse-gas concentrations from human activities","A permanent increase in solar output","Individual volcanic eruptions"],1,"The dominant driver of recent global warming is the human-caused increase in greenhouse gases."),
+Q(10,10,"Energy flow","Why is describing energy transfer among Earth spheres as simply 'cyclical' incomplete?",["Energy can never cross sphere boundaries","All energy returns to the Sun","Energy flows through and eventually leaves the Earth system, while matter such as carbon is more clearly cycled","Only the biosphere contains energy"],2,"Matter cycles, whereas energy is transferred, transformed and ultimately radiated to space."),
+Q(11,11,"Sea level","What are the two major contributors to current global mean sea-level rise?",["Thermal expansion of seawater and melting of land ice","Melting sea ice and reduced rainfall","Ocean acidification and tides","Volcanic ash and salinity"],0,"Warming seawater expands, and melting glaciers/ice sheets add water to the ocean. Floating sea ice has little direct effect on sea level."),
+Q(12,12,"Greenhouse effect","How do greenhouse gases warm the lower atmosphere and surface?",["They reflect all incoming visible light back to Earth","They create ultraviolet radiation","They prevent convection entirely","They absorb and re-emit outgoing infrared radiation"],3,"Greenhouse gases interact strongly with outgoing infrared radiation, altering Earth's radiative energy balance."),
+Q(13,13,"Climate impacts","What is the most common immediate trigger of mass coral bleaching?",["A small decrease in atmospheric nitrogen","Sustained unusually high sea-surface temperatures","Lower tidal height","Increased rock weathering"],1,"Heat stress can cause corals to expel their symbiotic algae, producing bleaching."),
+Q(14,14,"Sphere interactions","A prolonged heatwave and drought dry vegetation, increasing fire danger. Which interaction is most direct?",["Geosphere affecting the Sun","Biosphere creating the atmosphere","Atmosphere affecting the biosphere","Hydrosphere creating plate tectonics"],2,"Atmospheric heat and low moisture can dry living vegetation and fuels in the biosphere."),
+Q(15,15,"Carbon cycle","Why can deforestation contribute to higher atmospheric CO₂?",["It reduces carbon uptake and can release stored carbon","It increases global photosynthesis","It converts CO₂ directly to oxygen without plants","It prevents fossil-fuel combustion"],0,"Removing forests reduces a carbon sink and can release carbon through burning or decomposition."),
+Q(16,16,"Ocean chemistry","Why does absorption of additional atmospheric CO₂ cause ocean acidification?",["CO₂ becomes salt and raises pH","CO₂ removes all dissolved oxygen instantly","Ocean currents convert CO₂ to sulfuric acid","Dissolved CO₂ forms carbonic acid and shifts carbonate chemistry toward lower pH"],3,"CO₂ reacts with water and changes carbonate equilibria, increasing hydrogen ion concentration and lowering pH."),
+Q(17,17,"Ocean-atmosphere","El Niño is best described as:",["A shift in Earth's orbit every few years","A coupled change in tropical Pacific ocean temperatures, winds and atmospheric pressure patterns","A volcanic cycle","A permanent increase in solar radiation"],1,"El Niño is part of ENSO, a coupled ocean-atmosphere phenomenon in the tropical Pacific."),
+Q(18,18,"Water cycle","Warmer air can contribute to heavier rainfall events because:",["warm air cannot contain water vapour","warming always reduces evaporation","warmer air can hold more water vapour, increasing moisture available for precipitation","rainfall depends only on mountains"],2,"A warmer atmosphere can contain more water vapour, which can intensify heavy precipitation when conditions trigger rainfall."),
+Q(19,19,"Greenhouse gases","Which natural ecosystem is an important methane source?",["Wetlands","Dry granite","Coral skeletons","Polar ice crystals"],0,"Anaerobic decomposition in wetlands produces methane."),
+Q(20,20,"Feedbacks","Which sequence is a positive climate feedback?",["Warming → greater outgoing infrared emission → reduced warming tendency","Rain → river flow → ocean","Wind → waves → mixing","Warming → ice melt → lower albedo → greater solar absorption → more warming"],3,"Ice-albedo feedback amplifies an initial warming."),
+Q(21,21,"Water cycle","Why does increased evaporation not guarantee increased rainfall at the same location?",["Evaporation destroys water molecules","Atmospheric circulation transports water vapour, so moisture can precipitate elsewhere","Humidity always decreases after evaporation","Clouds form only over land"],1,"The water cycle redistributes moisture; local precipitation depends on circulation and condensation conditions."),
+Q(22,22,"Ocean heat","Where has most of the excess energy from recent planetary warming accumulated?",["The upper atmosphere only","Mountain rocks only","The oceans","The biosphere only"],2,"The ocean stores the great majority of the excess heat because of its mass and high heat capacity."),
+Q(23,23,"Climate impacts","A region experiences lower rainfall and higher temperatures for decades. Which impact on the biosphere is most plausible?",["Greater drought stress and shifts in species distributions","Guaranteed increase in biodiversity","No change because climate affects only the atmosphere","Immediate extinction of every species"],0,"Long-term heat and water stress can alter habitat suitability, mortality and species ranges."),
+Q(24,24,"Greenhouse effect","Which statement distinguishes the natural greenhouse effect from the enhanced greenhouse effect?",["The natural greenhouse effect is entirely caused by industry","The enhanced greenhouse effect is caused only by ozone depletion","There was no greenhouse effect before humans","The natural greenhouse effect keeps Earth habitable; added greenhouse gases strengthen it and alter the energy balance"],3,"The natural greenhouse effect is essential; anthropogenic greenhouse-gas increases strengthen the effect.")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
