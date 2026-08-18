@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10p02-p-001",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible\nHint: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.",
-    "structuredExplanation": {
-      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-002",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "recognise that an event can be dependent on another event and that this will affect the way its probability is calculated",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The conditional probability simulations model is copied without interpretation",
-      "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated\nHint: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated.",
-    "structuredExplanation": {
-      "summary": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
-      "hint": "Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-003",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem\nHint: Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem.",
-    "structuredExplanation": {
-      "summary": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
-      "hint": "Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-004",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing"
-    ],
-    "correct": 3,
-    "explanation": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing\nHint: Identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing.",
-    "structuredExplanation": {
-      "summary": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
-      "hint": "Identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-005",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "use simulation to predict the number of people likely to be infected with a strain of flu or virus",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use simulation to predict the number of people likely to be infected with a strain of flu or virus. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use simulation to predict the number of people likely to be infected with a strain of flu or virus. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
-      "The conditional probability simulations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using simulation to predict the number of people likely to be infected with a strain of flu or virus\nHint: Use simulation to predict the number of people likely to be infected with a strain of flu or virus.",
-    "structuredExplanation": {
-      "summary": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
-      "hint": "Use simulation to predict the number of people likely to be infected with a strain of flu or virus."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-006",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible\nHint: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.",
-    "structuredExplanation": {
-      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
-      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-007",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "recognise that an event can be dependent on another event and that this will affect the way its probability is calculated",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated\nHint: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated.",
-    "structuredExplanation": {
-      "summary": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
-      "hint": "Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p02-p-008",
-    "curriculumCode": "AC9M10P02",
-    "bank": "practice",
-    "skill": "use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use simulations to gather data on frequencies for situations involving chance that appear to be counter intuitive such as the three door problem or the birthday problem. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The conditional probability simulations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem"
-    ],
-    "correct": 3,
-    "explanation": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem\nHint: Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem.",
-    "structuredExplanation": {
-      "summary": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
-      "hint": "Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10P02",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Identify the simulated sample space, number of trials and whether trials are independent or dependent."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10p02-p-001",1,"Experimental probability","A digital coin simulator produces 52 heads in 100 flips. What is the experimental probability of heads?",["0.40","0.50","0.52","0.60"],2,"52/100=0.52."),
+Q("ac9m10p02-p-002",2,"Expected frequency","A fair spinner has 4 equal sections. In 200 spins, what is the expected frequency for one specified colour?",["25","50","100","200"],1,"Each colour has probability 1/4, so 200×1/4=50."),
+Q("ac9m10p02-p-003",3,"Experimental probability","A die is simulated 600 times and a 6 occurs 100 times. What is the experimental probability of rolling a 6?",["0.10","0.15","0.167","0.20"],2,"100/600=1/6≈0.167."),
+Q("ac9m10p02-p-004",4,"Expected frequency","A fair coin is simulated 500 times. What is the expected number of tails?",["100","200","250","300"],2,"500×0.5=250."),
+Q("ac9m10p02-p-005",5,"Experimental probability","A simulation produces 180 red outcomes in 600 trials. What is the experimental probability of red?",["0.20","0.25","0.30","0.40"],2,"180/600=0.30."),
+Q("ac9m10p02-p-006",6,"Comparing theory and simulation","Two fair dice are simulated 1200 times. A sum of 7 occurs 196 times. Which statement is best?",["The experimental probability is about 0.163, close to the theoretical 1/6","The dice must be biased","The theoretical probability is 1/12","The simulation proves the probability is exactly 0.163"],0,"196/1200≈0.163, reasonably close to 1/6≈0.167."),
+Q("ac9m10p02-p-007",7,"Long-run frequency","A simulation gives 30 successes in 100 trials, then 302 successes in 1000 trials. What does this illustrate?",["Experimental probability can stabilise as trials increase","The true probability must be exactly 0.302","More trials always increase the probability","The first 100 trials should be discarded"],0,"Larger samples often give more stable estimates of a long-run probability."),
+Q("ac9m10p02-p-008",8,"Simulation design","A bag contains 3 blue and 2 red marbles. Which digital simulation best models one draw with replacement?",["Generate integers 1–5; let 1–3=blue and 4–5=red","Generate integers 1–2 with equal probability","Use a fair coin and call heads blue","Choose blue 80% of the time"],0,"Three of five equally likely outcomes must represent blue and two red."),
+Q("ac9m10p02-p-009",9,"Expected frequency","A game has a simulated win probability of about 0.30. Over 300 similar trials, what number of wins would be expected?",["30","60","90","120"],2,"300×0.30=90."),
+Q("ac9m10p02-p-010",10,"Biased chance model","A biased coin has P(H)=0.7. In 1000 simulated flips, the expected number of heads is:",["300","500","700","900"],2,"1000×0.7=700."),
+Q("ac9m10p02-p-011",11,"Conditional simulation","In 1000 simulated card draws with replacement, 250 draws are hearts. Of those 250 heart draws, 100 are face cards. What is P(face | heart) from the simulation?",["0.10","0.25","0.40","0.50"],2,"Condition on the 250 hearts:100/250=0.40."),
+Q("ac9m10p02-p-012",12,"Conditional simulation","A simulation records 300 occasions on which the first die roll is even. On 148 of those occasions, the next roll is even. Estimate P(next even | current even).",["0.247","0.493","0.600","0.740"],1,"148/300≈0.493."),
+Q("ac9m10p02-p-013",13,"Independence","For a fair-coin simulation, P(H)=0.50 and P(next H | current H)=0.51. Which interpretation is most reasonable?",["The flips show no meaningful evidence of dependence","Heads strongly causes another head","The coin is certainly biased","Conditional probability must equal 1"],0,"A conditional estimate very close to the overall probability is consistent with independence."),
+Q("ac9m10p02-p-014",14,"Replacement","A bag has 4 red and 6 blue marbles. A marble is drawn, replaced, then another is drawn. How should the probability of red on the second draw compare with the first?",["It remains 0.4","It becomes smaller","It becomes larger","It depends on the first colour even after replacement"],0,"Replacement restores the original composition."),
+Q("ac9m10p02-p-015",15,"Without replacement","A bag has 4 red and 6 blue marbles. A red marble is drawn and not replaced. What is P(red on the next draw)?",["4/10","3/9","4/9","3/10"],1,"After removing one red, 3 red remain among 9 marbles."),
+Q("ac9m10p02-p-016",16,"Sample size","Two students estimate a probability using simulations. A uses 20 trials; B uses 5000 trials. Which estimate would usually be expected to have less random fluctuation?",["A's","B's","Always equal","Impossible because simulations cannot estimate probability"],1,"More trials generally reduce sampling variability."),
+Q("ac9m10p02-p-017",17,"Digital model validity","A student models a fair six-sided die by generating random integers from 1 to 5. What is wrong?",["One die outcome is missing","The model has too many outcomes","Digital tools cannot model dice","Nothing is wrong"],0,"A fair die needs six equally likely outcomes."),
+Q("ac9m10p02-p-018",18,"Conditional frequency","A simulation has 400 trials where event B occurs. Event A occurs on 160 of those B trials. What is the simulated value of P(A|B)?",["0.25","0.30","0.40","0.50"],2,"160/400=0.40."),
+Q("ac9m10p02-p-019",19,"Convergence","A fair coin simulation has head proportions 0.70 after 10 flips, 0.54 after 100 flips and 0.503 after 10,000 flips. This is evidence of:",["Long-run relative frequency approaching 0.5","The coin becoming fairer over time","Heads becoming less likely after each flip","A programming error"],0,"Long-run relative frequency tends to settle near the theoretical probability."),
+Q("ac9m10p02-p-020",20,"Counter-intuitive simulation","Why is simulation useful for a problem such as the three-door problem?",["It can compare long-run win rates for different strategies","It proves every individual trial outcome","It removes randomness from the problem","It guarantees a 50% win rate"],0,"Repeated trials can estimate and compare strategy probabilities."),
+Q("ac9m10p02-p-021",21,"Birthday simulation","To simulate whether a class of 25 students contains a shared birthday, what should one trial do?",["Generate 25 birthdays and check whether any two match","Generate one birthday only","Generate 365 class sizes","Count only birthdays in January"],0,"Each trial must model one complete class of 25 birthdays."),
+Q("ac9m10p02-p-022",22,"Real-life simulation","An insurer simulates thousands of possible annual claim totals. The main purpose is to:",["Estimate the distribution of possible losses","Guarantee the exact claims next year","Remove all financial uncertainty","Make every customer equally risky"],0,"Simulation estimates a range/distribution of plausible outcomes."),
+Q("ac9m10p02-p-023",23,"Queue simulation","A café simulates random customer arrivals and service times. Which quantity could the model estimate?",["Average waiting time","Exact name of the next customer","The colour of the café walls","A guaranteed zero queue"],0,"Queueing simulations can estimate waits and congestion."),
+Q("ac9m10p02-p-024",24,"Simulation assumptions","A flu-spread simulation assumes every person has the same contact rate. What should be recognised?",["This simplifying assumption may affect how realistic predictions are","The simulation therefore becomes exact","Contact patterns never matter","More computer speed removes the assumption"],0,"Simulation results depend on the assumptions built into the model.")];
+window.quizQuestions=window.skillrPracticeQuestions;
