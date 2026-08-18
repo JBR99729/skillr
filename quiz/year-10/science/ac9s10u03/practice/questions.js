@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10u03-p-001",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
-      "The Big Bang was an explosion at one location",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years\nHint: Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
-      "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-002",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A scientific theory is an untested guess",
-      "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies\nHint: Use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
-      "hint": "Use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-003",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use how stars light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how stars light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how stars light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The Big Bang was an explosion at one location",
-      "The method can be chosen without checking the values or conditions",
-      "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth\nHint: Use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
-      "hint": "Use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-004",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A scientific theory is an untested guess",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory"
-    ],
-    "correct": 3,
-    "explanation": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory\nHint: Use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory",
-      "hint": "Use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-005",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use first nations australians knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use first nations australians knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use first nations australians knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
-      "The Big Bang was an explosion at one location",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe\nHint: Use First Nations Australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
-      "hint": "Use First Nations Australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-006",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A scientific theory is an untested guess",
-      "identifying the different technologies used to collect astronomical data and the types of data collected",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying the different technologies used to collect astronomical data and the types of data collected\nHint: Use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying the different technologies used to collect astronomical data and the types of data collected",
-      "hint": "Use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-007",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use recent advances in astronomy to make the role of expansion visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use recent advances in astronomy to make the role of expansion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use recent advances in astronomy to make the role of expansion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The Big Bang was an explosion at one location",
-      "The method can be chosen without checking the values or conditions",
-      "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged\nHint: Use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
-      "hint": "Use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u03-p-008",
-    "curriculumCode": "AC9S10U03",
-    "bank": "practice",
-    "skill": "use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A scientific theory is an untested guess",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years"
-    ],
-    "correct": 3,
-    "explanation": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years\nHint: Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
-      "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=(id,n,section,question,answers,correct,explanation)=>({id:`ac9s10u03-p-${String(id).padStart(3,"0")}`,curriculumCode:"AC9S10U03",bank:"practice",section,sourceNumber:n,skill:section,printable:true,type:"single",question,answers,correct,explanation,structuredExplanation:{summary:explanation,hint:"Use the evidence and mechanism in the scenario; eliminate options that overstate what the evidence proves."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q(1,1,"Big Bang model","Which statement best matches the modern Big Bang model?",["The universe began as matter exploding from one point into empty space","The observable universe evolved from an extremely hot, dense early state as space expanded","A giant star exploded and formed all galaxies","A black hole released the present universe"],1,"The Big Bang model describes an expanding universe that was much hotter and denser in the past; it is not simply an explosion into pre-existing empty space."),
+Q(2,2,"Evidence","Which observation is direct evidence that the early universe was once much hotter than it is today?",["Earth's magnetic field","The phases of Venus","The cosmic microwave background radiation","The existence of asteroids"],2,"The CMB is relic radiation from the early universe, now cooled to microwave wavelengths by cosmic expansion."),
+Q(3,3,"Redshift","A distant galaxy's spectral lines are shifted toward longer wavelengths compared with laboratory wavelengths. What is the best interpretation?",["The galaxy is receding from us overall","The galaxy contains only red stars","The galaxy is moving toward Earth","Its stars have stopped emitting blue light"],0,"A cosmological redshift shifts spectral features to longer wavelengths and is associated with recession in the expanding universe."),
+Q(4,4,"Expansion","Hubble-Lemaître observations show that, on large scales, more distant galaxies generally have larger recession speeds. What does this support?",["A static universe","Earth at the centre of the universe","All galaxies orbiting one central galaxy","Expansion of the universe"],3,"The distance-recession relationship supports large-scale cosmic expansion."),
+Q(5,5,"Evidence","The cosmic microwave background has a temperature of about 2.7 K. Why is this significant?",["It is heat emitted mainly by modern planets","It is leftover radiation from an early hot universe that has cooled as the universe expanded","It proves all galaxies have the same temperature","It is produced by Earth's atmosphere"],1,"The ~2.7 K CMB is relic radiation stretched and cooled by expansion."),
+Q(6,6,"Early universe","Why are hydrogen and helium much more abundant than most heavier elements in the universe?",["They are the only elements stars can make","Planets continuously create them","They were produced in large amounts during early-universe nucleosynthesis","Heavy elements cannot exist in stars"],2,"Big Bang nucleosynthesis produced mostly hydrogen and helium, with small amounts of a few light nuclei."),
+Q(7,7,"Timeline","Which sequence is in the correct broad chronological order?",["Early nuclei → first atoms → CMB released → stars and galaxies develop","First atoms → early nuclei → stars → CMB released","Stars → early nuclei → CMB → first atoms","CMB → Big Bang → atoms → nuclei"],0,"As the universe cooled, light nuclei formed first; later neutral atoms formed and radiation decoupled, followed by growth of stars and galaxies."),
+Q(8,8,"Early universe","Why could neutral atoms form only after the universe had cooled sufficiently?",["There were no electrons before stars formed","Gravity had not yet existed","Hydrogen nuclei had already become iron","High temperatures kept electrons and nuclei from remaining bound"],3,"At very high temperatures, energetic collisions ionised matter; cooling allowed electrons to remain bound to nuclei."),
+Q(9,9,"Evidence","Tiny temperature variations in the CMB are important because they trace:",["individual planets that existed before stars","early differences in matter density that later grew into large-scale structure","modern solar flares","regions where physical laws were absent"],1,"Small CMB anisotropies trace early density variations from which later cosmic structure developed."),
+Q(10,10,"Cosmic age","Which statement about the age of the universe is most consistent with current cosmological measurements?",["About 4.5 billion years","About 100 million years","About 13.8 billion years","Exactly 20 billion years"],2,"Multiple cosmological measurements give an age of roughly 13.8 billion years."),
+Q(11,11,"Model limits","Which statement about a 'singularity' is scientifically most careful?",["It is a mathematical extrapolation where current theories cease to give a reliable physical description","It is an observed object at the centre of the universe","It is a confirmed point from which matter exploded","It is another name for the cosmic microwave background"],0,"General relativity extrapolated backward can produce a singularity, but physics at the earliest instant is not established by current theory."),
+Q(12,12,"Inflation","What does cosmological inflation refer to?",["The slow formation of planets","The present orbit of galaxies around Earth","The collapse of the first stars","A proposed extremely rapid early expansion of space"],3,"Inflation is a proposed brief period of extremely rapid expansion in the very early universe."),
+Q(13,13,"Astronomical evidence","A spectrum from a star contains dark lines at specific wavelengths. What can these lines help astronomers determine?",["The exact age of the universe by themselves","The star's chemical composition","The number of planets in every galaxy","Whether the universe is static"],1,"Spectral lines correspond to transitions in specific elements and can reveal composition."),
+Q(14,14,"Scientific units","Which quantity is most appropriately measured in light-years?",["Mass of a star","Temperature of the CMB","Distance between distant stars or galaxies","Age of a rock"],2,"A light-year is a unit of distance, useful for astronomical scales."),
+Q(15,15,"Hubble-Lemaître law","If Galaxy A is twice as distant as Galaxy B and both follow the same Hubble-Lemaître relation, what would you expect approximately?",["Galaxy A to have about twice the recession speed","Galaxy A to have half the recession speed","Both galaxies to have zero recession speed","Galaxy B to have twice the recession speed"],0,"For nearby-to-moderate cosmological distances in the simple relation v≈H0d, recession speed is proportional to distance."),
+Q(16,16,"Observable universe","Why is the observable universe not necessarily the same as the entire universe?",["Telescopes can only detect the Milky Way","Everything outside our galaxy is hidden by dust","The universe has a solid boundary","Only light that has had time to reach us can be observed"],3,"The observable universe is limited by the finite age of the universe and the finite speed of light."),
+Q(17,17,"Structure formation","Which process was most important in forming the first large concentrations of stars and galaxies from small early density variations?",["Solar wind","Gravity","Radioactive decay","Plate tectonics"],1,"Gravity amplified density differences, allowing matter to clump into large-scale structures."),
+Q(18,18,"Element formation","Which statement about heavy elements is most accurate?",["All heavy elements formed during the first few minutes after the Big Bang","Heavy elements form only inside planets","Most elements heavier than helium were produced later through stellar processes and energetic events","Hydrogen is produced mainly by supernovae"],2,"Stars build heavier nuclei by fusion, while supernovae and other energetic events contribute to forming and dispersing many heavy elements."),
+Q(19,19,"Evidence","Which pair provides two independent lines of evidence supporting the Big Bang model?",["CMB radiation and galaxy redshifts","Moon phases and tides","Earthquakes and volcanoes","Sunspots and seasons"],0,"The CMB and large-scale galaxy redshifts are independent observations consistent with an expanding universe that was hotter and denser in the past."),
+Q(20,20,"Nature of science","What is a scientific theory in the context of the Big Bang?",["An opinion that cannot be tested","A scientific law that can never be revised","A guess accepted without evidence","A well-supported explanatory framework that makes testable predictions"],3,"Scientific theories integrate evidence, explain observations and make predictions that can be tested and refined."),
+Q(21,21,"Evidence","Why was discovery of the CMB especially powerful evidence?",["It showed every galaxy is stationary","A hot early-universe model predicted a relic radiation background before it was detected","It proved Earth is at the centre of expansion","It directly photographed the instant of the Big Bang"],1,"The existence of relic background radiation was a prediction of hot Big Bang models, and its later detection strongly supported them."),
+Q(22,22,"Expansion","Which statement best describes cosmic expansion?",["All galaxies are flying away from a single central point through fixed space","Stars push neighbouring galaxies apart with radiation pressure","Galaxies are generally carried apart as the scale of space increases","Only the Milky Way is expanding"],2,"On large scales, cosmic expansion is described as increasing separation associated with expansion of space itself."),
+Q(23,23,"Cosmic components","Dark matter is inferred mainly because it:",["has gravitational effects that visible matter alone cannot explain","emits bright visible light","causes the CMB to vanish","is another name for hydrogen gas"],0,"Dark matter is inferred from gravitational effects such as galaxy motions, lensing and structure formation."),
+Q(24,24,"Cosmic components","Dark energy is used in current cosmological models primarily to account for:",["the formation of DNA","the heating of Earth's atmosphere","the red colour of cool stars","the observed accelerated expansion of the universe"],3,"Dark energy is the name given to the component associated with the observed acceleration of cosmic expansion.")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
