@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Energy is conserved while being transferred and transformed between stores and pathways.",
       "hint": "Include both useful light and heating."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Greater height gives the ball a larger gravitational potential energy store.",
       "hint": "The balls differ in starting height, not mass."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Efficiency is useful output divided by total input: 180 ÷ 1000 × 100 = 18%.",
       "hint": "Divide useful electrical energy by incoming light energy."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Different materials transfer thermal energy by conduction at different rates.",
       "hint": "Both spoons share the same soup; compare their materials."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Heating can create density differences that drive circulating convection currents in fluids.",
       "hint": "Use the visible bulk movement of the water."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Dull dark surfaces are generally better emitters of thermal radiation than shiny surfaces.",
       "hint": "The cans differ only in surface finish."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Energy shifts between kinetic and gravitational potential stores while total energy is conserved.",
       "hint": "Connect speed with kinetic energy and height with gravitational energy."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Some input energy spreads thermally to the surroundings rather than reaching the intended store.",
       "hint": "Classify the warming as useful or dissipated output."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Insulation designs address multiple thermal-transfer pathways.",
       "hint": "Match each feature to a transfer pathway."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The decreasing bounce height reflects energy dissipated as heating, sound and deformation.",
       "hint": "Look for measured outputs besides the next bounce."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Kinetic energy transfers mainly to thermal energy by friction.",
       "hint": "Track energy during friction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Elastic potential energy transfers to kinetic energy.",
       "hint": "Compare before and after stores."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Electrical input transfers to sound and dissipated thermal energy.",
       "hint": "Include unwanted output."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The LED is more efficient because less energy is dissipated as heat.",
       "hint": "Compare useful output for equal input."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The layer reduces conduction and prevents bulk convection.",
       "hint": "Consider two transfer pathways."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Trapped air reduces thermal transfer to the surroundings.",
       "hint": "Insulation slows transfer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Energy arrives by electromagnetic radiation.",
       "hint": "Which pathway needs no matter?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Energy dissipates through air resistance and friction.",
       "hint": "Find thermal and sound outputs."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Gravitational potential energy transfers to kinetic and electrical energy.",
       "hint": "Track height, movement and generator."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Faster air carries more kinetic energy available for transfer.",
       "hint": "Relate speed to kinetic energy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Stored elastic energy transfers to cart movement.",
       "hint": "Identify the initial store."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Absorbed radiation and internal conduction produce the temperature pattern.",
       "hint": "Separate absorption from spreading."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The dark surface absorbs more radiation.",
       "hint": "Compare absorption."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Warm air and vapour escape, increasing convection and evaporation.",
       "hint": "Identify newly available pathways."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U05-T-001",

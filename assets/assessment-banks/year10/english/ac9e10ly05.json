@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice",
       "hint": "A writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "interpreting how visual features represent abstract concepts in advertising, such as the representation of parenthood in advertisements",
       "hint": "A writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype",
       "hint": "A writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice",
       "hint": "A writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "interpreting how visual features represent abstract concepts in advertising, such as the representation of parenthood in advertisements",
       "hint": "A writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype",
       "hint": "A writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly05-p-007",
@@ -256,7 +274,9 @@
     "explanation": {
       "summary": "monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice",
       "hint": "A writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10ly05-p-008",
@@ -293,7 +313,9 @@
     "explanation": {
       "summary": "interpreting how visual features represent abstract concepts in advertising, such as the representation of parenthood in advertisements",
       "hint": "A writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10ly05-t-001",

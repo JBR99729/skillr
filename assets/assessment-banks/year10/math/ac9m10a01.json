@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
       "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
       "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
       "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
       "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
       "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
       "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a01-p-007",
@@ -256,7 +268,10 @@
     "explanation": {
       "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
       "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m10a01-p-008",
@@ -293,7 +308,10 @@
     "explanation": {
       "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
       "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m10a01-t-001",

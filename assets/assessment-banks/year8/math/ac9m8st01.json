@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "identifying situations where data can be collected by census and those where a sample is appropriate",
       "hint": "Identify situations where data can be collected by census and those where a sample is appropriate."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the practicalities and implications of obtaining data through sampling, using a variety of investigative processes; for example, investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method",
       "hint": "Explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "discussing how observations, experiments and sampling methods can be impacted by bias; for example, recognising that a sampling bias occurs when certain members of a population are more likely to be selected in a sample than others, such as a survey conducted at a shopping centre; recognising that environmental conditions may bias the results of scientific investigations if experiments are conducted at different times or under different conditions",
       "hint": "Discuss how observations, experiments and sampling methods can be impacted by bias."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error",
       "hint": "Use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models",
       "hint": "Explore how decisions concerning sampling relate to the training of artificial intelligence systems."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "identifying situations where data can be collected by census and those where a sample is appropriate",
       "hint": "Identify situations where data can be collected by census and those where a sample is appropriate."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating the practicalities and implications of obtaining data through sampling, using a variety of investigative processes; for example, investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method",
       "hint": "Explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "discussing how observations, experiments and sampling methods can be impacted by bias; for example, recognising that a sampling bias occurs when certain members of a population are more likely to be selected in a sample than others, such as a survey conducted at a shopping centre; recognising that environmental conditions may bias the results of scientific investigations if experiments are conducted at different times or under different conditions",
       "hint": "Discuss how observations, experiments and sampling methods can be impacted by bias."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st01-t-001",

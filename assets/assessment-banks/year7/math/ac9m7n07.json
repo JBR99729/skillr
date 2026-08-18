@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -7, -2, 0, 5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -9, -1, 0, 4.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-003",
@@ -99,7 +103,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -12, -8, -3, 2.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-004",
@@ -133,7 +139,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -6, -1, 1, 6.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-005",
@@ -167,7 +175,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -20, -11, -5, -2.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-006",
@@ -201,7 +211,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -9, -4, 3, 7.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-007",
@@ -235,7 +247,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -15, -1, 0, 5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-008",
@@ -269,7 +283,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -100, -10, -1, 1.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-009",
@@ -303,7 +319,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -8, -7, -6, -5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-010",
@@ -337,7 +355,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -12, -2, 2, 12.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-011",
@@ -371,7 +391,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -30, -3, 0, 30.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-012",
@@ -405,7 +427,9 @@
     "explanation": {
       "summary": "Numbers farther left are smaller; the correct order is -40, -14, -4, -1.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-013",
@@ -439,7 +463,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 13 right from -8; the result is 5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-014",
@@ -473,7 +500,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 7 right from -12; the result is -5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-015",
@@ -507,7 +537,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 9 left from -6; the result is -15.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-016",
@@ -541,7 +574,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 20 left from 14; the result is -6.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-017",
@@ -575,7 +611,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 40 right from -25; the result is 15.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-018",
@@ -609,7 +648,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 7 left from 18; the result is 11.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-019",
@@ -643,7 +685,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 12 right from -30; the result is -18.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-020",
@@ -677,7 +722,10 @@
     "explanation": {
       "summary": "Combine directed changes or move 15 left from 9; the result is -6.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Combine directed changes or move 4 right from -4; the result is 0.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Combine directed changes or move 22 right from -17; the result is 5.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Combine directed changes or move 50 left from 35; the result is -15.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Combine directed changes or move 65 right from -100; the result is -35.",
       "hint": "Use direction and distance from zero; check the sign in the original context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N07-T-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The sky becomes brighter from dawn to morning. can be noticed or measured.",
       "hint": "Choose a change in light, temperature, clouds, rain, plants or animals."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A hat and light clothing suits the observed conditions.",
       "hint": "Match clothing or shelter to rain, sunshine, wind or temperature."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Dawn, morning, midday, afternoon, sunset, night follows the observed time or seasonal sequence.",
       "hint": "Start with the earliest stage and move forward one step at a time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A shadow is often shorter near midday than in the morning. describes how light and time can affect shadows.",
       "hint": "Compare the same object's shadow at different times or in different light."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Sunny and warm describes observable conditions.",
       "hint": "Use words for clouds, rain, wind, sunshine or temperature."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Some animals rest in shade during the hottest part of the day. is a possible response to environmental conditions.",
       "hint": "Look for a careful statement using “some” or “may”, not an absolute claim."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Repeated records help reveal patterns and differences.",
       "hint": "Keep the observation time and method similar, then compare."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Daily cycles and seasonal patterns happen over different time scales.",
       "hint": "Think about what repeats in one day and what changes across the year."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The air temperature rises after sunrise and falls again at night. can be noticed or measured.",
       "hint": "Choose a change in light, temperature, clouds, rain, plants or animals."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "A warm layer suits the observed conditions.",
       "hint": "Match clothing or shelter to rain, sunshine, wind or temperature."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Dawn, morning, midday, afternoon, sunset, night follows the observed time or seasonal sequence.",
       "hint": "Start with the earliest stage and move forward one step at a time."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A shadow changes position as the Sun appears to move across the sky. describes how light and time can affect shadows.",
       "hint": "Compare the same object's shadow at different times or in different light."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Cold and cloudy describes observable conditions.",
       "hint": "Use words for clouds, rain, wind, sunshine or temperature."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Some animals seek sheltered places in cold weather. is a possible response to environmental conditions.",
       "hint": "Look for a careful statement using “some” or “may”, not an absolute claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Repeated records help reveal patterns and differences.",
       "hint": "Keep the observation time and method similar, then compare."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Daily cycles and seasonal patterns happen over different time scales.",
       "hint": "Think about what repeats in one day and what changes across the year."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Clouds darken before rain begins. can be noticed or measured.",
       "hint": "Choose a change in light, temperature, clouds, rain, plants or animals."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A raincoat suits the observed conditions.",
       "hint": "Match clothing or shelter to rain, sunshine, wind or temperature."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Clouds gather, rain begins, puddles form, rain stops follows the observed time or seasonal sequence.",
       "hint": "Start with the earliest stage and move forward one step at a time."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A clear shadow may be hard to see under thick clouds. describes how light and time can affect shadows.",
       "hint": "Compare the same object's shadow at different times or in different light."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Cloudy and rainy describes observable conditions.",
       "hint": "Use words for clouds, rain, wind, sunshine or temperature."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Worms may be seen near the surface after rain. is a possible response to environmental conditions.",
       "hint": "Look for a careful statement using “some” or “may”, not an absolute claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Repeated records help reveal patterns and differences.",
       "hint": "Keep the observation time and method similar, then compare."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Daily cycles and seasonal patterns happen over different time scales.",
       "hint": "Think about what repeats in one day and what changes across the year."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U02-T-001",

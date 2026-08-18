@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Each dollar is 100 cents, so $2 is 200 cents.",
       "hint": "Multiply the dollars by 100."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Money notation uses two digits for cents.",
       "hint": "Write dollars before the decimal point and cents after it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "$2 is 200 cents; add 15 cents to get 215.",
       "hint": "Convert dollars first, then add the cents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "125 cents is 1 dollar and 25 cents.",
       "hint": "Trade each group of 100 cents for one dollar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Adding one dollar increases the dollars by 1 while cents stay 15.",
       "hint": "Line up dollars with dollars and cents with cents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Change is the amount paid minus the cost.",
       "hint": "Start with the larger paid amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "215 cents is $2.15, which is more than $2.00.",
       "hint": "Convert both amounts to cents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Standard money notation writes the cents with two digits.",
       "hint": "Count the digits after the decimal point."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Each dollar is 100 cents, so $3 is 300 cents.",
       "hint": "Multiply the dollars by 100."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Money notation uses two digits for cents.",
       "hint": "Write dollars before the decimal point and cents after it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "$3 is 300 cents; add 22 cents to get 322.",
       "hint": "Convert dollars first, then add the cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "160 cents is 1 dollar and 60 cents.",
       "hint": "Trade each group of 100 cents for one dollar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Adding one dollar increases the dollars by 1 while cents stay 22.",
       "hint": "Line up dollars with dollars and cents with cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Change is the amount paid minus the cost.",
       "hint": "Start with the larger paid amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "322 cents is $3.22, which is more than $3.00.",
       "hint": "Convert both amounts to cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Standard money notation writes the cents with two digits.",
       "hint": "Count the digits after the decimal point."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Each dollar is 100 cents, so $4 is 400 cents.",
       "hint": "Multiply the dollars by 100."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Money notation uses two digits for cents.",
       "hint": "Write dollars before the decimal point and cents after it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "$4 is 400 cents; add 29 cents to get 429.",
       "hint": "Convert dollars first, then add the cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "195 cents is 1 dollar and 95 cents.",
       "hint": "Trade each group of 100 cents for one dollar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Adding one dollar increases the dollars by 1 while cents stay 29.",
       "hint": "Line up dollars with dollars and cents with cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Change is the amount paid minus the cost.",
       "hint": "Start with the larger paid amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "429 cents is $4.29, which is more than $4.00.",
       "hint": "Convert both amounts to cents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Standard money notation writes the cents with two digits.",
       "hint": "Count the digits after the decimal point."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-T-001",

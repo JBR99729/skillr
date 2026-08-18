@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The torch and dark cave add setting and suggest an exploration not stated in the words.",
       "hint": "Combine the direction of the open door with the place and object shown."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Combine the direction of the open door with the place and object shown. The torch and dark cave add setting and suggest an exploration not stated in the words.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Wide eyes and a bitten lip are visual clues that Jo is worried.",
       "hint": "Notice the face and body clues, then connect them to the coming event."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Notice the face and body clues, then connect them to the coming event. Wide eyes and a bitten lip are visual clues that Jo is worried.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "The labelled diagram adds specific information about parts and where they are.",
       "hint": "Read what the labels point to, rather than guessing a sequence or future size."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Read what the labels point to, rather than guessing a sequence or future size. The labelled diagram adds specific information about parts and where they are.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "The numbered pictures make the sequence of actions clear.",
       "hint": "Track the panel numbers and what changes from first to last."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Track the panel numbers and what changes from first to last. The numbered pictures make the sequence of actions clear.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "Dark clouds add a warning and support a prediction about a storm.",
       "hint": "Use the weather clue to predict how it may affect the walk."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Use the weather clue to predict how it may affect the walk. Dark clouds add a warning and support a prediction about a storm.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "The direct visual comparison shows the great scale of the cliff.",
       "hint": "Compare the two objects where they meet in the same scene."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Compare the two objects where they meet in the same scene. The direct visual comparison shows the great scale of the cliff.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The image adds sadness that is different from the spoken words.",
       "hint": "Use both the tears and body position, not the words alone."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use both the tears and body position, not the words alone. The image adds sadness that is different from the spoken words.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The visible tail adds a clue to Pip's hidden location.",
       "hint": "Notice the small detail the characters may not have seen yet."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Notice the small detail the characters may not have seen yet. The visible tail adds a clue to Pip's hidden location.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
       "hint": "Use the colours, weather and lack of other people as mood clues."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Use the colours, weather and lack of other people as mood clues. The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The cut-away view reveals the underground roots and their role.",
       "hint": "Look at the part the diagram lets you see that is usually hidden."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Look at the part the diagram lets you see that is usually hidden. The cut-away view reveals the underground roots and their role.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The smile and reaching hands show that the action is friendly sharing.",
       "hint": "Use facial expression and body position to explain the action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use facial expression and body position to explain the action. The smile and reaching hands show that the action is friendly sharing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The paired photos make the size and movement of the change visible.",
       "hint": "Compare the water level and movement in both images."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Compare the water level and movement in both images. The paired photos make the size and movement of the change visible.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA08-T-001",

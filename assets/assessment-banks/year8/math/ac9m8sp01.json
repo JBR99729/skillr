@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "developing an understanding of what it means for shapes to be congruent or similar",
       "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
       "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
       "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
       "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
       "hint": "Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
       "hint": "Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "developing an understanding of what it means for shapes to be congruent or similar",
       "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
       "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp01-t-001",

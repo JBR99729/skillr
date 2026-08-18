@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
       "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
       "hint": "Analyse and applying scale and ratios in situations such as production prototypes and 3D printing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
       "hint": "Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
       "hint": "Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
       "hint": "Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
       "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
       "hint": "Analyse and applying scale and ratios in situations such as production prototypes and 3D printing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
       "hint": "Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m05-t-001",

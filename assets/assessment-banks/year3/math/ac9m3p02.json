@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Recording every outcome creates usable experiment data.",
       "hint": "Use one tally for each trial."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "20−8=12.",
       "hint": "Subtract red outcomes from all trials."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Repeated trials provide more evidence about how outcomes behave.",
       "hint": "One trial gives very little evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Chance experiments can produce different short-run results.",
       "hint": "Fair does not mean every small set is identical."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "All outcomes need a clear place to be recorded.",
       "hint": "List possible outcomes before starting."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Compare 8 with 12.",
       "hint": "Use the observed totals, not what you expected."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Keeping conditions consistent makes comparisons meaningful.",
       "hint": "Only the random outcome should change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "A report compares the prediction honestly with recorded evidence.",
       "hint": "Describe what happened without rewriting the totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Recording every outcome creates usable experiment data.",
       "hint": "Use one tally for each trial."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "25−10=15.",
       "hint": "Subtract red outcomes from all trials."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Repeated trials provide more evidence about how outcomes behave.",
       "hint": "One trial gives very little evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Chance experiments can produce different short-run results.",
       "hint": "Fair does not mean every small set is identical."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "All outcomes need a clear place to be recorded.",
       "hint": "List possible outcomes before starting."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Compare 10 with 15.",
       "hint": "Use the observed totals, not what you expected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Keeping conditions consistent makes comparisons meaningful.",
       "hint": "Only the random outcome should change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A report compares the prediction honestly with recorded evidence.",
       "hint": "Describe what happened without rewriting the totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Recording every outcome creates usable experiment data.",
       "hint": "Use one tally for each trial."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "30−12=18.",
       "hint": "Subtract red outcomes from all trials."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Repeated trials provide more evidence about how outcomes behave.",
       "hint": "One trial gives very little evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Chance experiments can produce different short-run results.",
       "hint": "Fair does not mean every small set is identical."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "All outcomes need a clear place to be recorded.",
       "hint": "List possible outcomes before starting."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Compare 12 with 18.",
       "hint": "Use the observed totals, not what you expected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Keeping conditions consistent makes comparisons meaningful.",
       "hint": "Only the random outcome should change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A report compares the prediction honestly with recorded evidence.",
       "hint": "Describe what happened without rewriting the totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P02-T-001",

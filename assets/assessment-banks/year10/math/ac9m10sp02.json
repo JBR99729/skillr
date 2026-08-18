@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
       "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
       "hint": "Explore the use of graphs to represent a network, analysing connectedness."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
       "hint": "Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
       "hint": "Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
       "hint": "Explore the use of networks to represent authentic situations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
       "hint": "Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
       "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
       "hint": "Explore the use of graphs to represent a network, analysing connectedness."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10sp02-t-001",

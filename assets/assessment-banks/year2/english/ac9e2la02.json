@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The response states a preference and links it to the poem's repeated sounds.",
       "hint": "Look for both what the reader liked and why they liked it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Look for both what the reader liked and why they liked it. The response states a preference and links it to the poem's repeated sounds.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
       "hint": "Choose an action that shows the character quality."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Choose an action that shows the character quality. Entering the cave to help her dog is evidence of Mina acting bravely.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "The response names setting details and explains the feeling they create.",
       "hint": "Find a reason that points to words describing the setting."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Find a reason that points to words describing the setting. The response names setting details and explains the feeling they create.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
       "hint": "Connect a visible feature of the picture to the meaning it adds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Connect a visible feature of the picture to the meaning it adds. The close view helps the reader notice the chick's fearful expression and pose.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "The penguin's unexpected actions create a playful, humorous moment.",
       "hint": "Look for an event meant to make the reader laugh."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Look for an event meant to make the reader laugh. The penguin's unexpected actions create a playful, humorous moment.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
       "hint": "Choose the detail that proves the reason, not just any fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Choose the detail that proves the reason, not just any fact. Hiding the key before the guard arrived shows the fox using a clever plan.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "Readers may value different features when they support their responses with the text.",
       "hint": "Personal preferences can differ, but each reason still needs support."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Personal preferences can differ, but each reason still needs support. Readers may value different features when they support their responses with the text.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
       "hint": "Choose a reason connected to how the plot affects the reader."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Choose a reason connected to how the plot affects the reader. Waiting for the answer to the muddy-print clue creates suspense for the reader.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "The labelled diagram is a useful text feature that helps explain the information.",
       "hint": "Look for a feature that helps the reader learn about bees."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Look for a feature that helps the reader learn about bees. The labelled diagram is a useful text feature that helps explain the information.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
       "hint": "Choose words that name the sound and how it makes the listener feel."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Choose words that name the sound and how it makes the listener feel. Gentle rhythm and soothing explain both a sound feature and its effect.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The ending solves the problem and connects to clues planted earlier in the story.",
       "hint": "Check whether the comment explains what the ending resolves."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check whether the comment explains what the ending resolves. The ending solves the problem and connects to clues planted earlier in the story.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The contrast between the dark sky and warm light adds a hopeful mood.",
       "hint": "Think about how the two colours work together to shape meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Think about how the two colours work together to shape meaning. The contrast between the dark sky and warm light adds a hopeful mood.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA02-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "comparing the mass and charge of protons, neutrons and electrons",
       "hint": "Use the mass and charge of protons, neutrons and electrons to make the role of Dalton visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms",
       "hint": "Use how the discovery of electrons, protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable",
       "hint": "Use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms",
       "hint": "Use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life",
       "hint": "Use half-life, examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years",
       "hint": "Use how radiocarbon and other dating methods have been used to make the role of Dalton visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft",
       "hint": "Use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei",
       "hint": "Use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u06-t-001",

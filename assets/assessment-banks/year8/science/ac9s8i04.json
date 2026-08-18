@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A line graph clearly shows how a continuous measurement changes with time.",
       "hint": "Time is the independent variable and belongs on the horizontal axis."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Separated bars compare frequencies across distinct categories.",
       "hint": "The transport types are categories, not a continuous scale."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "A scatter plot reveals association between two numerical variables.",
       "hint": "Both variables are measured numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Truncated axes require clear signalling because they visually magnify differences.",
       "hint": "Compare the visual change with the actual values."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Table headings identify both the measured variable and its unit.",
       "hint": "A reader needs to know what was measured and how it was measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Models can reveal a relationship while simplifying scale and appearance.",
       "hint": "State what the model helps show and what it does not reproduce literally."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "A mapped display preserves location and shows spatial patterns.",
       "hint": "Choose a representation that keeps geographic position."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Distribution plots show spread and clustering that a mean alone conceals.",
       "hint": "The display must show individual values or distribution summaries."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-009",
@@ -303,7 +325,9 @@
     "explanation": {
       "summary": "A numerical axis uses a consistent scale so distance represents quantity.",
       "hint": "The gap from 5 to 20 minutes should be larger than from 0 to 1."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "A purposeful model highlights the target relationship and discloses simplifications.",
       "hint": "Select detail according to the question the model must answer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between water temperature and dissolving time. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Put the changed or explanatory variable, water temperature, on the horizontal axis. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-012",
@@ -405,7 +433,10 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between ramp angle and travel time. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Put the changed or explanatory variable, ramp angle, on the horizontal axis. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between light intensity and bubbles per minute. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Put the changed or explanatory variable, light intensity, on the horizontal axis. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between soil type and height after 14 days. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Put the changed or explanatory variable, soil type, on the horizontal axis. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-015",
@@ -507,7 +542,10 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between wire length and current. This conclusion concerns wire length and electrical current.",
       "hint": "Put the changed or explanatory variable, wire length, on the horizontal axis. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between exercise duration and recovery time. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Put the changed or explanatory variable, exercise duration, on the horizontal axis. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between salt concentration and floating height. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Put the changed or explanatory variable, salt concentration, on the horizontal axis. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between insulation material and temperature loss. This conclusion concerns insulation material and cooling.",
       "hint": "Put the changed or explanatory variable, insulation material, on the horizontal axis. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between exposed surface area and mass of water lost. This conclusion concerns surface area and evaporation.",
       "hint": "Put the changed or explanatory variable, exposed surface area, on the horizontal axis. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between pH and time to digest starch. This conclusion concerns pH and amylase activity.",
       "hint": "Put the changed or explanatory variable, pH, on the horizontal axis. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between drop height and crater diameter. This conclusion concerns drop height and crater diameter.",
       "hint": "Put the changed or explanatory variable, drop height, on the horizontal axis. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between fertiliser concentration and change in frond number. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Put the changed or explanatory variable, fertiliser concentration, on the horizontal axis. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between blade length and rotations per minute. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Put the changed or explanatory variable, blade length, on the horizontal axis. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A scatter or line graph can reveal the measured relationship between detergent concentration and drops held on a coin. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Put the changed or explanatory variable, detergent concentration, on the horizontal axis. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I04-T-001",

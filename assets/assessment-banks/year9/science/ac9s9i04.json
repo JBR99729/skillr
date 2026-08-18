@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using spreadsheet software to present data in tabular and graphical forms",
       "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
       "hint": "Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "applying algorithms to measure carbon storage of different vegetation types",
       "hint": "Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
       "hint": "Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
       "hint": "Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using spreadsheet software to present data in tabular and graphical forms",
       "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
       "hint": "Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "applying algorithms to measure carbon storage of different vegetation types",
       "hint": "Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i04-t-001",

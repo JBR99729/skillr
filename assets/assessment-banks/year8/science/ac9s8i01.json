@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A testable question names a measurable changed variable, response variable and controlled system.",
       "hint": "Look for one measured cause, one measured response and stated controls."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "A prediction states a measurable expected pattern without treating one observation as proof.",
       "hint": "Choose an outcome that could be measured and compared."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "A hypothesis links variables with a reason that can be tested.",
       "hint": "Find the response direction and the scientific mechanism."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "A useful follow-up isolates the variable of interest from a possible confounding variable.",
       "hint": "Hold light constant and vary moisture."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Investigable questions measure a pattern before assigning an untested cause.",
       "hint": "Avoid wording that decides the conclusion in advance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "The revised question identifies the independent variable, dependent variable and important controls.",
       "hint": "Make starting temperature equal before comparing colour."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "A correlational prediction describes an association, not proven causation.",
       "hint": "Use cautious language because sleep was observed, not assigned."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "Descriptive investigations can map variation without requiring a manipulated variable.",
       "hint": "Ask what varies across clearly defined locations."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "An operational definition states exactly how a variable will be measured.",
       "hint": "Choose a rule another group could apply in the same way."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "A precise question defines the samples, measurement and endpoint.",
       "hint": "Look for fixed sheet size and a measurable absorption rule."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 11: crickets chirp at different rates on warm and cool nights.",
       "hint": "Check that the cause and response can both be measured. Focus on crickets chirp at different rates on warm and cool nights."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 12: bread develops mould at different rates in sealed bags.",
       "hint": "Check that the cause and response can both be measured. Focus on bread develops mould at different rates in sealed bags."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 13: magnets lift different numbers of identical paper clips.",
       "hint": "Check that the cause and response can both be measured. Focus on magnets lift different numbers of identical paper clips."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 14: coastal rocks host different numbers of barnacles.",
       "hint": "Check that the cause and response can both be measured. Focus on coastal rocks host different numbers of barnacles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 15: tablets fizz for different times when broken up.",
       "hint": "Check that the cause and response can both be measured. Focus on tablets fizz for different times when broken up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 16: sound level falls farther from a speaker.",
       "hint": "Check that the cause and response can both be measured. Focus on sound level falls farther from a speaker."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 17: apples brown after being cut.",
       "hint": "Check that the cause and response can both be measured. Focus on apples brown after being cut."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 18: water drains through soils at different rates.",
       "hint": "Check that the cause and response can both be measured. Focus on water drains through soils at different rates."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 19: rubber bands stretch by different amounts under loads.",
       "hint": "Check that the cause and response can both be measured. Focus on rubber bands stretch by different amounts under loads."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 20: pond-water clarity differs among three sites.",
       "hint": "Check that the cause and response can both be measured. Focus on pond-water clarity differs among three sites."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 21: antacid brands neutralise acid differently.",
       "hint": "Check that the cause and response can both be measured. Focus on antacid brands neutralise acid differently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 22: metal spoons feel colder than wooden spoons in one room.",
       "hint": "Check that the cause and response can both be measured. Focus on metal spoons feel colder than wooden spoons in one room."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 23: yeast balloons inflate by different amounts.",
       "hint": "Check that the cause and response can both be measured. Focus on yeast balloons inflate by different amounts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The question identifies measurable variables and avoids assuming its conclusion. Context 24: shadows change length through the day.",
       "hint": "Check that the cause and response can both be measured. Focus on shadows change length through the day."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I01-T-001",

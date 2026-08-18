@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
       "hint": "deducing that the area of a circle is between 2 radius squares and 4 radius squares."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
       "hint": "Explore the area of circles using a square grid or by rearranging a circle divided into smaller."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
       "hint": "Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles",
       "hint": "Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
       "hint": "deducing that the area of a circle is between 2 radius squares and 4 radius squares."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
       "hint": "Explore the area of circles using a square grid or by rearranging a circle divided into smaller."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
       "hint": "Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles",
       "hint": "Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m03-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "The evidence and language purpose support “genre or audience”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Evaluate evidence and context rather than age alone.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-007",
@@ -235,7 +249,10 @@
     "explanation": {
       "summary": "Genre, author, medium and audience may also explain it.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "Describe historical assumptions carefully while still evaluating effects.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Identify what both texts are trying to achieve before comparing form.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-013",
@@ -439,7 +470,10 @@
     "explanation": {
       "summary": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "depiction is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "historical context is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "continuity is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY01-T-001",

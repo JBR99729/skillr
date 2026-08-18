@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
       "hint": "Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
       "hint": "Explore the links between algebraic and graphical representations of exponential functions using graphing software."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
       "hint": "Use digital tools with symbolic manipulation functionality to systematically explore exponential relations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species",
       "hint": "Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
       "hint": "Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
       "hint": "Explore the links between algebraic and graphical representations of exponential functions using graphing software."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
       "hint": "Use digital tools with symbolic manipulation functionality to systematically explore exponential relations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species",
       "hint": "Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10a03-t-001",

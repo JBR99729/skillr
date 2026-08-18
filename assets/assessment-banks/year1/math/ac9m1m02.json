@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "With the same unit, smaller counts are shorter.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose the unit, cover the length fairly, then count.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Uniform units placed end-to-end cover the length once.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Count the 8 equal squares.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Overlapping units cover and count part of the length more than once.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Counts only compare fairly when the unit is the same size.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Measuring begins at an endpoint so the full length is covered.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "The line is covered by 7 equal blocks.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "One more equal cube completes the length.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "The uncovered gap is part of the object's length.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-011",
@@ -371,7 +396,10 @@
     "explanation": {
       "summary": "Gaps leave some length unmeasured.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Uniform units give each count the same meaning.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "A larger hand span covers more length per unit.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "The same part must not be counted twice.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "same-sized hand spans can be repeated end-to-end.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Both use the same unit, and 9 is more than 7.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Choose the unit, cover the length fairly, then count.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "With the same unit, smaller counts are shorter.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Uniform units placed end-to-end cover the length once.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Overlapping units cover and count part of the length more than once.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Counts only compare fairly when the unit is the same size.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Counts only compare fairly when the unit is the same size.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Overlapping units cover and count part of the length more than once.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Measuring begins at an endpoint so the full length is covered.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-025",
@@ -847,7 +903,9 @@
     "explanation": {
       "summary": "Measuring begins at an endpoint so the full length is covered.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "Gaps leave some length unmeasured.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "A larger hand span covers more length per unit.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "Uniform units give each count the same meaning.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M02-T-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A sound argument links a limited claim to relevant repeated evidence.",
       "hint": "Keep the claim within the tested load and observed data."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Source quality depends on relevant expertise, transparent methods and inspectable evidence.",
       "hint": "Popularity is not a measure of scientific reliability."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Reasoning explains how evidence supports the claim through a scientific mechanism.",
       "hint": "Look for the link between temperature and oxygen capacity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Evidence evaluation considers method, consistency and conflicts of interest rather than simple source counts.",
       "hint": "Funding matters, but it is not a substitute for evaluating evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Evidence must be representative of the population named in the claim.",
       "hint": "Compare the size of the claim with the sampling scope."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Responsible argument uses transparent attribution and preserves the meaning of evidence.",
       "hint": "Readers should be able to trace and interpret the original data."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Cultural knowledge is used according to authority, protocol and agreed purpose.",
       "hint": "Permission to hear information is not automatic permission to republish it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Strong arguments address relevant counterevidence instead of selecting only supportive results.",
       "hint": "Include both the intended benefit and the measured trade-off."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "Multiple reports of one study do not provide independent corroboration.",
       "hint": "Follow the citation chain to the underlying data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "An evidence-based argument distinguishes observed association from demonstrated causation.",
       "hint": "State the pattern and the key limitation together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I07-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a water temperature and sugar dissolving time claim to source quality and tested conditions. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a ramp angle and toy-car travel time claim to source quality and tested conditions. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a light intensity and pondweed bubble rate claim to source quality and tested conditions. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a soil type and bean-seedling height claim to source quality and tested conditions. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a wire length and electrical current claim to source quality and tested conditions. This conclusion concerns wire length and electrical current.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a exercise duration and pulse recovery claim to source quality and tested conditions. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a salt concentration and egg buoyancy claim to source quality and tested conditions. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a insulation material and cooling claim to source quality and tested conditions. This conclusion concerns insulation material and cooling.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a surface area and evaporation claim to source quality and tested conditions. This conclusion concerns surface area and evaporation.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a pH and amylase activity claim to source quality and tested conditions. This conclusion concerns pH and amylase activity.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a drop height and crater diameter claim to source quality and tested conditions. This conclusion concerns drop height and crater diameter.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a fertiliser concentration and duckweed growth claim to source quality and tested conditions. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a blade length and paper-turbine rotation claim to source quality and tested conditions. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "An evidence-based argument matches the scope of a detergent concentration and surface tension claim to source quality and tested conditions. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I07-T-001",

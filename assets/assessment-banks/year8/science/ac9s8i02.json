@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A reproducible plan defines exact values and changes one intended variable.",
       "hint": "Choose measured lengths that another class can copy."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Controls prevent other factors from explaining differences in dissolving time.",
       "hint": "Keep everything except water temperature consistent."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Repeatable methods specify quantities, equipment, timing and endpoints.",
       "hint": "Ask whether another group could reproduce each action."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "A risk assessment links a hazard to harm and a practical control.",
       "hint": "Find hazard, consequence and control in one response."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Authority and Country or Place protocols shape whether and how sampling may occur.",
       "hint": "Scientific interest does not replace permission."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Replication improves evidence about variation but does not remove confounding variables.",
       "hint": "Separate consistency from fairness."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "A fair design changes insulation while controlling container and water conditions.",
       "hint": "Only insulation should differ."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Ethical methods minimise disturbance and include clear stopping rules.",
       "hint": "Choose non-invasive observations and a welfare trigger."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Plans state important assumptions and test them where practical.",
       "hint": "Replace a proxy with a direct measurement if possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Random allocation and balanced positions reduce systematic differences between groups.",
       "hint": "Prevent starting condition or location from favouring a treatment."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "A reproducible water temperature and sugar dissolving time plan defines the test, measurement and relevant controls. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Only water temperature should explain a change in dissolving time. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A reproducible ramp angle and toy-car travel time plan defines the test, measurement and relevant controls. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Only ramp angle should explain a change in travel time. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A reproducible light intensity and pondweed bubble rate plan defines the test, measurement and relevant controls. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Only light intensity should explain a change in bubbles per minute. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A reproducible soil type and bean-seedling height plan defines the test, measurement and relevant controls. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Only soil type should explain a change in height after 14 days. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A reproducible wire length and electrical current plan defines the test, measurement and relevant controls. This conclusion concerns wire length and electrical current.",
       "hint": "Only wire length should explain a change in current. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A reproducible exercise duration and pulse recovery plan defines the test, measurement and relevant controls. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Only exercise duration should explain a change in recovery time. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A reproducible salt concentration and egg buoyancy plan defines the test, measurement and relevant controls. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Only salt concentration should explain a change in floating height. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A reproducible insulation material and cooling plan defines the test, measurement and relevant controls. This conclusion concerns insulation material and cooling.",
       "hint": "Only insulation material should explain a change in temperature loss. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A reproducible surface area and evaporation plan defines the test, measurement and relevant controls. This conclusion concerns surface area and evaporation.",
       "hint": "Only exposed surface area should explain a change in mass of water lost. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A reproducible pH and amylase activity plan defines the test, measurement and relevant controls. This conclusion concerns pH and amylase activity.",
       "hint": "Only pH should explain a change in time to digest starch. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A reproducible drop height and crater diameter plan defines the test, measurement and relevant controls. This conclusion concerns drop height and crater diameter.",
       "hint": "Only drop height should explain a change in crater diameter. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A reproducible fertiliser concentration and duckweed growth plan defines the test, measurement and relevant controls. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Only fertiliser concentration should explain a change in change in frond number. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A reproducible blade length and paper-turbine rotation plan defines the test, measurement and relevant controls. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Only blade length should explain a change in rotations per minute. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A reproducible detergent concentration and surface tension plan defines the test, measurement and relevant controls. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Only detergent concentration should explain a change in drops held on a coin. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I02-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
       "hint": "Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
       "hint": "Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated",
       "hint": "Use the work of Professor Barry Marshall and Dr Robin to make the role of publication visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "examining the scientific consensus supporting global warming",
       "hint": "Use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity",
       "hint": "Use how JJ Thomson’s discovery of the electron, Robert Millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "examining how Marie and Pierre Curie’s discovery of new elements was validated",
       "hint": "Use how Marie and Pierre Curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
       "hint": "Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
       "hint": "Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9h01-t-001",

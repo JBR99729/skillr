@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Returning the wallet is an action that shows Niko is honest.",
       "hint": "Use what the character does as evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Use what the character does as evidence. Returning the wallet is an action that shows Niko is honest.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The sand and empty track describe where the story happens.",
       "hint": "Setting means the place and time of events."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Setting means the place and time of events. The sand and empty track describe where the story happens.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The response names a preference and supports it with the character's generous action.",
       "hint": "Choose a reason based on a meaningful character detail."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Choose a reason based on a meaningful character detail. The response names a preference and supports it with the character's generous action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The response gives a specific setting detail and explains what interested the reader.",
       "hint": "Look for a feature of the place that supports the preference."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Look for a feature of the place that supports the preference. The response gives a specific setting detail and explains what interested the reader.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The rushing river blocks the fox's goal, so it is a story problem.",
       "hint": "Ask what is making the character's goal difficult."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Ask what is making the character's goal difficult. The rushing river blocks the fox's goal, so it is a story problem.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "The return of the dog resolves the story problem and explains the preference.",
       "hint": "A strong reason refers to what happened in the ending and why it mattered."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A strong reason refers to what happened in the ending and why it mattered. The return of the dog resolves the story problem and explains the preference.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Readers may prefer different literary features when they support their reasons.",
       "hint": "Preferences can differ, but evidence still matters."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Preferences can differ, but evidence still matters. Readers may prefer different literary features when they support their reasons.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Tess's action of sharing is evidence of generosity.",
       "hint": "Compare what each character does with the umbrella."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Compare what each character does with the umbrella. Tess's action of sharing is evidence of generosity.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Soft wind and silver leaves support the reader's calm response.",
       "hint": "Match the setting details with the feeling they create; avoid a broad rule."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Match the setting details with the feeling they create; avoid a broad rule. Soft wind and silver leaves support the reader's calm response.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The unknown owner of the footprints creates the mystery problem the reader enjoys.",
       "hint": "Identify the story feature that causes the enjoyment."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Identify the story feature that causes the enjoyment. The unknown owner of the footprints creates the mystery problem the reader enjoys.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The response focuses respectfully on an unresolved story feature.",
       "hint": "Choose wording that gives a text-based reason without deciding for other readers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Choose wording that gives a text-based reason without deciding for other readers. The response focuses respectfully on an unresolved story feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Helping the injured bird is an action that shows care.",
       "hint": "Choose evidence about what the character does for another living thing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Choose evidence about what the character does for another living thing. Helping the injured bird is an action that shows care.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE02-T-001",

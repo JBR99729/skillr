@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Purpose and audience guide content and form.",
       "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Scientific representations and conventions remain accurate.",
       "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
       "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Purpose and audience guide content and form.",
       "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "Scientific representations and conventions remain accurate.",
       "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
       "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "Purpose and audience guide content and form.",
       "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "Scientific representations and conventions remain accurate.",
       "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i08-t-001",

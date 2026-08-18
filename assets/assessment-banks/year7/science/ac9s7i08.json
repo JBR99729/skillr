@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
       "hint": "Select and interpret evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i08-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
       "hint": "Change support, not facts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i08-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
       "hint": "Maintain precision with explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i08-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.",
       "hint": "Use visual evidence and concise cues."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i08-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
       "hint": "Select and interpret evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i08-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
       "hint": "Change support, not facts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i08-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
       "hint": "Maintain precision with explanation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i08-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.",
       "hint": "Use visual evidence and concise cues."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i08-t-001",

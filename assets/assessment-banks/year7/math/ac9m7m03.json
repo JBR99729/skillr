@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "For r=5 cm, C=2πr≈31.4 cm",
       "hint": "Label centre and endpoints."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
       "hint": "It is a dimensionless ratio."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
       "hint": "Use linear units."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
       "hint": "Round final result as requested."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "For r=5 cm, C=2πr≈31.4 cm",
       "hint": "Label centre and endpoints."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
       "hint": "It is a dimensionless ratio."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
       "hint": "Use linear units."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
       "hint": "Round final result as requested."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m03-t-001",

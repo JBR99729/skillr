@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Habitat This matches the task.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Connect the word to meaning and topic.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts This matches the task.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Locates C entry and explains capacity as how much a container can hold This matches the task.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for subject and check the whole example.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Pulls/draws closer This matches the task.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Check that you can use in sentence.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Notice → read clues/definition → check topic fit → use in sentence This matches the task.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Sequencing a vocabulary-learning strategy.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Shows groups with the same count and labels both terms meaningfully This matches the task.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Practise a sentence, not just a definition.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "First is furniture; second is organised rows/columns of information This matches the task.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "'The push moved the object to the left direction/left' with terms used accurately This matches the task.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Look for sentence and check the whole example.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "How long it is from one end to the other This matches the task.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "Check that you can use in sentence.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA09-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each term matches its topic example This matches the task.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Connecting cross-curricular vocabulary with meanings.",
       "hint": "Connect the word to meaning and topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Locate label → follow line to part → inspect image → read definition/context This matches the task.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check the subject meaning.",
       "hint": "Check the subject meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The measurement meaning related to how heavy the bag is at this level This matches the task.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
       "hint": "Practise a sentence, not just a definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA09-T-001",

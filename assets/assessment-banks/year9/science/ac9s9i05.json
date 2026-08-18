@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing the validity of the data when extrapolating from a graph",
       "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
       "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
       "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’",
       "hint": "Use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
       "hint": "Use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "discussing the validity of the data when extrapolating from a graph",
       "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
       "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
       "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i05-t-001",

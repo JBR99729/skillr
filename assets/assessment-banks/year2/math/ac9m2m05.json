@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A clockwise quarter turn moves one direction around: north to east.",
       "hint": "Move one step clockwise around north, east, south and west."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A half turn faces the opposite direction, so north becomes south.",
       "hint": "A half turn is two quarter turns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A full turn goes all the way around and ends facing north again.",
       "hint": "Spin once and notice the starting and finishing direction match."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A half turn is 180 degrees and points in the opposite direction.",
       "hint": "Think of turning from north to south."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Four equal quarter turns go all the way around.",
       "hint": "Count the four directions around a compass."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Three clockwise quarter turns from north finish at west.",
       "hint": "Move clockwise three steps, one direction at a time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "east is one clockwise quarter turn from north.",
       "hint": "Choose the turn that reaches the new direction in one step."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Three quarter turns are three equal one-quarter rotations.",
       "hint": "Count exactly three quarter-turn actions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "A clockwise quarter turn moves one direction around: east to south.",
       "hint": "Move one step clockwise around north, east, south and west."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "A half turn faces the opposite direction, so east becomes west.",
       "hint": "A half turn is two quarter turns."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "A full turn goes all the way around and ends facing east again.",
       "hint": "Spin once and notice the starting and finishing direction match."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A half turn is 180 degrees and points in the opposite direction.",
       "hint": "Think of turning from north to south."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Four equal quarter turns go all the way around.",
       "hint": "Count the four directions around a compass."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Three clockwise quarter turns from east finish at north.",
       "hint": "Move clockwise three steps, one direction at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "south is one clockwise quarter turn from east.",
       "hint": "Choose the turn that reaches the new direction in one step."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Three quarter turns are three equal one-quarter rotations.",
       "hint": "Count exactly three quarter-turn actions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A clockwise quarter turn moves one direction around: south to west.",
       "hint": "Move one step clockwise around north, east, south and west."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A half turn faces the opposite direction, so south becomes north.",
       "hint": "A half turn is two quarter turns."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A full turn goes all the way around and ends facing south again.",
       "hint": "Spin once and notice the starting and finishing direction match."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A half turn is 180 degrees and points in the opposite direction.",
       "hint": "Think of turning from north to south."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Four equal quarter turns go all the way around.",
       "hint": "Count the four directions around a compass."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Three clockwise quarter turns from south finish at east.",
       "hint": "Move clockwise three steps, one direction at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "west is one clockwise quarter turn from south.",
       "hint": "Choose the turn that reaches the new direction in one step."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Three quarter turns are three equal one-quarter rotations.",
       "hint": "Count exactly three quarter-turn actions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M05-T-001",

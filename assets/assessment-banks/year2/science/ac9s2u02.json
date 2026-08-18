@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "A vibration is repeated back-and-forth movement.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Striking starts vibrations that produce sound.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Plucking starts the string vibrating.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "A strike starts the metal vibrating.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Shaking makes the contents and shell vibrate.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Moving air causes vibrations in the recorder.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Rubbing can start a repeated vibration.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Fast vibration can look blurred.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "A gentle touch can feel the voice box vibrating.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "Loud and soft tell how strong a sound seems.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Pitch tells how high or low a sound is.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "One change helps link it to the sound difference.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "A stronger strike usually makes a larger vibration and louder sound.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "The towel reduces sound reaching the listener.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Vibrations transfer sound energy.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "A sound-making vibration has not been started.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Movement of the scrap is visible evidence.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "The moving skin pushes the grains.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "The moving prongs disturb the water.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Changing string length can change pitch.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Tension can affect vibration and pitch.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-022",
@@ -745,7 +794,10 @@
     "explanation": {
       "summary": "A maraca sounds when shaken.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Blown air starts the whistle's vibration.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Pitch and volume describe different sound features.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U02-T-001",

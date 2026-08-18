@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "In rain, the letters ai work together to represent the long a sound.",
       "hint": "Look for the two-letter vowel pattern and say the whole word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Look for the two-letter vowel pattern and say the whole word. In rain, the letters ai work together to represent the long a sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Boat fits the meaning and uses oa for the long o sound.",
       "hint": "Check both the vowel pattern and the sentence meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Check both the vowel pattern and the sentence meaning. Boat fits the meaning and uses oa for the long o sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-005",
@@ -167,7 +176,10 @@
     "explanation": {
       "summary": "The cluster fr preserves the f and r sounds at the start of frog.",
       "hint": "Stretch the beginning and listen for both consonant sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Stretch the beginning and listen for both consonant sounds. The cluster fr preserves the f and r sounds at the start of frog.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-007",
@@ -235,7 +249,10 @@
     "explanation": {
       "summary": "Knee begins with the written pattern kn, but k is silent.",
       "hint": "Compare the written letters with the sounds you actually say."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "Compare the written letters with the sounds you actually say. Knee begins with the written pattern kn, but k is silent.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-009",
@@ -303,7 +322,10 @@
     "explanation": {
       "summary": "Sunset is a compound word built from the complete words sun and set.",
       "hint": "Look for two meaningful words that remain visible in the compound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "Look for two meaningful words that remain visible in the compound. Sunset is a compound word built from the complete words sun and set.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "Robot has two spoken beats: ro and bot.",
       "hint": "Say the word naturally and clap each syllable."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "Say the word naturally and clap each syllable. Robot has two spoken beats: ro and bot.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The two letters oa represent one long o phoneme in road.",
       "hint": "Find the letter group between the starting and final consonants."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Find the letter group between the starting and final consonants. The two letters oa represent one long o phoneme in road.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "The vowel digraph ee represents the long e sound in green.",
       "hint": "Look for the two vowel letters working together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Look for the two vowel letters working together. The vowel digraph ee represents the long e sound in green.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "Wrist begins with the written pattern wr, but the w is not pronounced.",
       "hint": "Compare the letters you see with the sounds you say."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY10-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Compare the letters you see with the sounds you say. Wrist begins with the written pattern wr, but the w is not pronounced.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Raincoat combines two complete words whose meanings explain the compound.",
       "hint": "Find both meaningful base words inside the longer word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Find both meaningful base words inside the longer word. Raincoat combines two complete words whose meanings explain the compound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Eight and weigh share a less common spelling for the long a sound.",
       "hint": "Say the cue word weigh, then find the option with the same sound and letter pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Say the cue word weigh, then find the option with the same sound and letter pattern. Eight and weigh share a less common spelling for the long a sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The starting cluster str preserves s, t and r.",
       "hint": "Stretch the start and check that no consonant sound is missing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Stretch the start and check that no consonant sound is missing. The starting cluster str preserves s, t and r.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY10-T-001",

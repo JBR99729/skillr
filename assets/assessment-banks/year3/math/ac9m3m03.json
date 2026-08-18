@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "1×60=60 minutes.",
       "hint": "Each hour contains 60 minutes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "15×60=900 seconds.",
       "hint": "Each minute contains 60 seconds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "1 hours is 60 minutes, which is 10 minutes longer.",
       "hint": "Convert to the same unit before comparing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Counting 15 minutes from 9:00 gives 9:15.",
       "hint": "Move forward in minutes from the start time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "1×7=7 days.",
       "hint": "Each week has 7 days."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Brushing teeth usually lasts a small number of minutes.",
       "hint": "Choose a unit matching the event's duration."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Clock time uses 60 minutes per hour, not base ten.",
       "hint": "Recall the minute marks around a clock."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "A fair comparison uses the same unit.",
       "hint": "Convert hours to minutes or minutes to hours first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M03-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "2×60=120 minutes.",
       "hint": "Each hour contains 60 minutes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "20×60=1200 seconds.",
       "hint": "Each minute contains 60 seconds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "2 hours is 120 minutes, which is 10 minutes longer.",
       "hint": "Convert to the same unit before comparing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Counting 20 minutes from 9:00 gives 9:20.",
       "hint": "Move forward in minutes from the start time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "2×7=14 days.",
       "hint": "Each week has 7 days."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Brushing teeth usually lasts a small number of minutes.",
       "hint": "Choose a unit matching the event's duration."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Clock time uses 60 minutes per hour, not base ten.",
       "hint": "Recall the minute marks around a clock."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A fair comparison uses the same unit.",
       "hint": "Convert hours to minutes or minutes to hours first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "3×60=180 minutes.",
       "hint": "Each hour contains 60 minutes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "25×60=1500 seconds.",
       "hint": "Each minute contains 60 seconds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "3 hours is 180 minutes, which is 10 minutes longer.",
       "hint": "Convert to the same unit before comparing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Counting 25 minutes from 9:00 gives 9:25.",
       "hint": "Move forward in minutes from the start time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "3×7=21 days.",
       "hint": "Each week has 7 days."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Brushing teeth usually lasts a small number of minutes.",
       "hint": "Choose a unit matching the event's duration."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Clock time uses 60 minutes per hour, not base ten.",
       "hint": "Recall the minute marks around a clock."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A fair comparison uses the same unit.",
       "hint": "Convert hours to minutes or minutes to hours first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M03-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
       "hint": "Explain the mechanism or logical connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i07-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
       "hint": "Address relevant conflicting evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i07-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
       "hint": "Qualify scope."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i07-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
       "hint": "Make value choices explicit."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i07-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
       "hint": "Explain the mechanism or logical connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i07-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
       "hint": "Address relevant conflicting evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i07-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
       "hint": "Qualify scope."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i07-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
       "hint": "Make value choices explicit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i07-t-001",

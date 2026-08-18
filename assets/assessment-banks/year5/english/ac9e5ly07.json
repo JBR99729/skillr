@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-002",
@@ -60,7 +62,9 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-003",
@@ -89,7 +93,9 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-004",
@@ -118,7 +124,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-005",
@@ -152,7 +160,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-006",
@@ -181,7 +191,10 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-007",
@@ -210,7 +223,10 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-008",
@@ -239,7 +255,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-009",
@@ -273,7 +291,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-010",
@@ -302,7 +322,10 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-011",
@@ -331,7 +354,10 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-012",
@@ -360,7 +386,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-013",
@@ -394,7 +422,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-014",
@@ -423,7 +453,10 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-015",
@@ -452,7 +485,10 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-016",
@@ -481,7 +517,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-017",
@@ -515,7 +553,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-018",
@@ -544,7 +584,10 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-019",
@@ -573,7 +616,10 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly07-p-020",
@@ -602,7 +648,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-021",
@@ -636,7 +684,9 @@
     "explanation": {
       "summary": "The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-022",
@@ -665,7 +715,9 @@
     "explanation": {
       "summary": "Controlled delivery helps listeners process the intended meaning.",
       "hint": "Match pace, pitch, tone and volume to the message and room."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-023",
@@ -694,7 +746,9 @@
     "explanation": {
       "summary": "A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-p-024",
@@ -723,7 +777,9 @@
     "explanation": {
       "summary": "Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly07-t-001",

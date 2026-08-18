@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-012",
@@ -405,7 +432,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-016",
@@ -541,7 +578,10 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4ST03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A statistical investigation links question, data, display and conclusion.",
       "hint": "Check that each stage answers the original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The conclusion stays within the collected class data.",
       "hint": "Avoid claims beyond the sample."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4ST03-T-001",

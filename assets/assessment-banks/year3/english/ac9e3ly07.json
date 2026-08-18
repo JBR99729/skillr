@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LY07-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LY07-T-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “clear formation, spacing and alignment”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “clear formation, spacing and alignment”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “accurate writing with less conscious effort”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate writing with less conscious effort”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Follow the approved style; forced joins can reduce clarity.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Follow the approved style; forced joins can reduce clarity.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Fluency balances pace, accuracy, comfort and legibility.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Fluency balances pace, accuracy, comfort and legibility.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY08-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Transfer movements into words and authentic writing.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Transfer movements into words and authentic writing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Excess tension reduces endurance and movement quality.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Excess tension reduces endurance and movement quality.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Use suitable adjustments or digital alternatives when required.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use suitable adjustments or digital alternatives when required.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Practise a small family of related joins, then use the movement in real words and one sentence.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Practise a small family of related joins, then use the movement in real words and one sentence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Use the five-part check to identify one strength and one high-impact improvement.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Use the five-part check to identify one strength and one high-impact improvement.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "join is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. join is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "baseline is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. baseline is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY08-T-001",

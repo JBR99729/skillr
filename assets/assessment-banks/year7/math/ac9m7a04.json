@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "A flat distance section means no change in position.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "The highest plotted value is 25 °C at noon.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-003",
@@ -99,7 +103,9 @@
     "explanation": {
       "summary": "Each 5-minute interval loses 15 L, so the rate is 15 ÷ 5 = 3 L/min.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-004",
@@ -133,7 +139,9 @@
     "explanation": {
       "summary": "Successive values differ by a constant 25 visits.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-005",
@@ -167,7 +175,9 @@
     "explanation": {
       "summary": "The changes are +3, −2, +4 and −1; +4 is the greatest rise.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-006",
@@ -201,7 +211,9 @@
     "explanation": {
       "summary": "Equal consecutive elevations produce a horizontal section.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-007",
@@ -235,7 +247,9 @@
     "explanation": {
       "summary": "The maximum value is 15 kWh on Thursday.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-008",
@@ -269,7 +283,9 @@
     "explanation": {
       "summary": "Distance from school falls from 12 km to 6 km, indicating movement back.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-009",
@@ -303,7 +319,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-010",
@@ -337,7 +356,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-011",
@@ -371,7 +393,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-012",
@@ -405,7 +430,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-013",
@@ -439,7 +467,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-014",
@@ -473,7 +504,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-016",
@@ -541,7 +578,10 @@
     "explanation": {
       "summary": "Overall change is final value minus initial value.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "More distance in the same time means a greater rate and steeper slope.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A 20 L decrease in the same time has the greater slope magnitude.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The rise is 24 units over 6 hours, so 24 ÷ 6 = 4.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Horizontal distance means no change in position; the interval lasts 6 minutes.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The change is −12 °C over 3 hours, giving −4 °C per hour.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Their rises per step are 3 and 4, so the second is steeper.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Every successive y-value increases by 4.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Every successive y-value decreases by 8.",
       "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A04-T-001",

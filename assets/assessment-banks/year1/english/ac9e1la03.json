@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Time order This matches the task.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Ask what the text is doing, not only what it is about.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts This matches the task.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Gives three logically ordered events with the time words used accurately This matches the task.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for narrate and check the whole example.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "To explain; it tells how a process happens using ordered causes This matches the task.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Check that you can compare text types.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-009",
@@ -303,7 +325,9 @@
     "explanation": {
       "summary": "Opening → problem → attempts/events → resolution This matches the task.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "Sequencing a simple narrative structure.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "Includes all named features and groups relevant information beneath headings This matches the task.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Point to a heading, time word, fact or opinion word.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Report groups facts under headings; opinion begins with a view and supports it with reasons This matches the task.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "Includes start/materials if needed, ordered actions and result This matches the task.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Look for narrate and check the whole example.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "Opinion text; next gives one or more reasons/evidence This matches the task.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "Check that you can compare text types.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report This matches the task.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Interpreting titles and headings as purpose clues.",
       "hint": "Ask what the text is doing, not only what it is about."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "State preference → reason one → reason two → concluding reminder This matches the task.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match structure to purpose.",
       "hint": "Match structure to purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "'My favourite game'; it is unrelated personal information This matches the task.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
       "hint": "Point to a heading, time word, fact or opinion word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA03-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
       "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
       "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
       "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
       "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
       "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
       "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
       "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
       "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st02-t-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Darkening sky and bringing washing in are clues that rain may be coming.",
       "hint": "Use events in the text, not a wild guess."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Use events in the text, not a wild guess. Darkening sky and bringing washing in are clues that rain may be coming.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Golden, spun and narrow provide colour, movement and shape for visualising.",
       "hint": "Build the picture from each descriptive clue."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "Build the picture from each descriptive clue. Golden, spun and narrow provide colour, movement and shape for visualising.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "The number, colour, object and action are directly stated in the sentence.",
       "hint": "For literal meaning, use only information the words clearly give."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "For literal meaning, use only information the words clearly give. The number, colour, object and action are directly stated in the sentence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
       "hint": "Combine the character's actions with what you know about the situation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Combine the character's actions with what you know about the situation. Gripping the card and taking a deep breath before a crowd suggest nervousness.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Monitoring means noticing a meaning problem and checking the text again.",
       "hint": "Respond when an idea conflicts with a sensible sequence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Respond when an idea conflicts with a sensible sequence. Monitoring means noticing a meaning problem and checking the text again.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The summary keeps the main idea and important supporting information.",
       "hint": "Leave out small examples and keep what the whole passage is mostly about."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Leave out small examples and keep what the whole passage is mostly about. The summary keeps the main idea and important supporting information.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The question connects to the problem and invites further thinking.",
       "hint": "Ask about an important idea that the text raises."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Ask about an important idea that the text raises. The question connects to the problem and invites further thinking.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The relevant experience explains how a map helps with finding a route.",
       "hint": "Choose a connection that sheds light on the character's action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose a connection that sheds light on the character's action. The relevant experience explains how a map helps with finding a route.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The repeated morning behaviour supports a prediction that it will happen again.",
       "hint": "Base the prediction on the pattern in the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Base the prediction on the pattern in the text. The repeated morning behaviour supports a prediction that it will happen again.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Rereading context can clarify an uncertain pronoun reference.",
       "hint": "Notice exactly what is unclear and search nearby for evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Notice exactly what is unclear and search nearby for evidence. Rereading context can clarify an uncertain pronoun reference.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The summary captures the important change across the whole sequence.",
       "hint": "Combine the key stages into one main idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Combine the key stages into one main idea. The summary captures the important change across the whole sequence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Quiet voices, bookshelves and a borrowing scanner are clues for a library.",
       "hint": "Combine all the setting clues rather than relying on one word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Combine all the setting clues rather than relying on one word. Quiet voices, bookshelves and a borrowing scanner are clues for a library.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY05-T-001",

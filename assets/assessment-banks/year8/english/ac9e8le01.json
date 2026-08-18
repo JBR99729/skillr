@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
       "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
       "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
       "hint": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
       "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
       "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
       "hint": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8le01-p-007",
@@ -256,7 +274,9 @@
     "explanation": {
       "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
       "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8le01-p-008",
@@ -293,7 +313,9 @@
     "explanation": {
       "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
       "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8le01-t-001",

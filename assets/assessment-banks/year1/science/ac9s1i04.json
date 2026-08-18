@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Colour is the shared feature used for the groups.",
       "hint": "Name the feature that is the same within each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Green, yellow and brown clearly names the categories.",
       "hint": "Labels should describe the sorting rule, not an opinion."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "3 green, 5 yellow and 2 brown reports the category totals.",
       "hint": "Count every item once in its matching group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Yellow has the greatest recorded count.",
       "hint": "Compare the category numbers, not the size of the words or pictures."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A picture graph with one leaf picture for each card shows the categories and data clearly.",
       "hint": "Choose a display with labels and one place for every result."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Counting each item once prevents missing or double-counting data.",
       "hint": "Check that every item is in one suitable category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "A correct sort places items according to the stated rule.",
       "hint": "Test each item against its category label."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The recorded numbers show that yellow has the greatest count.",
       "hint": "Use the numbers to describe what is most, least or equal."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Number of holes is the shared feature used for the groups.",
       "hint": "Name the feature that is the same within each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Two-hole and four-hole clearly names the categories.",
       "hint": "Labels should describe the sorting rule, not an opinion."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "6 two-hole and 4 four-hole reports the category totals.",
       "hint": "Count every item once in its matching group."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Two-hole has the greatest recorded count.",
       "hint": "Compare the category numbers, not the size of the words or pictures."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A two-column table labelled by number of holes shows the categories and data clearly.",
       "hint": "Choose a display with labels and one place for every result."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Counting each item once prevents missing or double-counting data.",
       "hint": "Check that every item is in one suitable category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A correct sort places items according to the stated rule.",
       "hint": "Test each item against its category label."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The recorded numbers show that two-hole has the greatest count.",
       "hint": "Use the numbers to describe what is most, least or equal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Distance travelled is the shared feature used for the groups.",
       "hint": "Name the feature that is the same within each group."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Short, medium and long distance clearly names the categories.",
       "hint": "Labels should describe the sorting rule, not an opinion."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "2 short, 3 medium and 5 long reports the category totals.",
       "hint": "Count every item once in its matching group."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Long distance has the greatest recorded count.",
       "hint": "Compare the category numbers, not the size of the words or pictures."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A picture graph labelled short, medium and long shows the categories and data clearly.",
       "hint": "Choose a display with labels and one place for every result."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Counting each item once prevents missing or double-counting data.",
       "hint": "Check that every item is in one suitable category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A correct sort places items according to the stated rule.",
       "hint": "Test each item against its category label."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The recorded numbers show that long distance has the greatest count.",
       "hint": "Use the numbers to describe what is most, least or equal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I04-T-001",

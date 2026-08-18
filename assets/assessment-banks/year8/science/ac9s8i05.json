@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Analysis reports the main trend while examining rather than hiding anomalies.",
       "hint": "Describe both the broad direction and the unusual point."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "An outlier prompts a documented check before exclusion or repetition.",
       "hint": "Look for a specific reason the unusual trial differed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A third factor can explain why two variables change together.",
       "hint": "Ask what might cause both observed quantities to increase."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Scientific relationships may be curved and include an optimum rather than a constant trend.",
       "hint": "Describe what happens before and after the peak."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Group difference should be interpreted alongside spread and overlap.",
       "hint": "Compare the mean gap with variation within each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "A conclusion should match the sampled location, variables and observational design.",
       "hint": "Avoid extending one transect to all habitats or claiming causation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Practice effects can create a time trend unrelated to the treatment.",
       "hint": "Consider what participants learn during repeated trials."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "The repeated values support a large group difference while the conclusion remains conditional.",
       "hint": "Compare the ranges, then limit the claim to this test."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Changing patterns can signal additional variables or mechanisms.",
       "hint": "Use the conflicting season to refine the explanation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Trend size depends on numerical scale and measurement uncertainty, not visual steepness alone.",
       "hint": "Read the values before judging the effect."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Analysis of water temperature and sugar dissolving time includes trend, variation, anomalies and limits on causal claims. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Analysis of ramp angle and toy-car travel time includes trend, variation, anomalies and limits on causal claims. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Analysis of light intensity and pondweed bubble rate includes trend, variation, anomalies and limits on causal claims. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Analysis of soil type and bean-seedling height includes trend, variation, anomalies and limits on causal claims. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Analysis of wire length and electrical current includes trend, variation, anomalies and limits on causal claims. This conclusion concerns wire length and electrical current.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Analysis of exercise duration and pulse recovery includes trend, variation, anomalies and limits on causal claims. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Analysis of salt concentration and egg buoyancy includes trend, variation, anomalies and limits on causal claims. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Analysis of insulation material and cooling includes trend, variation, anomalies and limits on causal claims. This conclusion concerns insulation material and cooling.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Analysis of surface area and evaporation includes trend, variation, anomalies and limits on causal claims. This conclusion concerns surface area and evaporation.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Analysis of pH and amylase activity includes trend, variation, anomalies and limits on causal claims. This conclusion concerns pH and amylase activity.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Analysis of drop height and crater diameter includes trend, variation, anomalies and limits on causal claims. This conclusion concerns drop height and crater diameter.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Analysis of fertiliser concentration and duckweed growth includes trend, variation, anomalies and limits on causal claims. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Analysis of blade length and paper-turbine rotation includes trend, variation, anomalies and limits on causal claims. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Analysis of detergent concentration and surface tension includes trend, variation, anomalies and limits on causal claims. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Report the main pattern and investigate the point that differs. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I05-T-001",

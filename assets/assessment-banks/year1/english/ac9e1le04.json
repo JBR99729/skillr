@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Silver snake; both begin with /s/ This matches the task.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Listen for same sound, not just same spelling.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern This matches the task.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Performs clearly and identifies /s/ repetition This matches the task.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for beat and check the whole example.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "A meaningful line ending in night, light, flight or another true rhyme This matches the task.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can invent pattern.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Two identical clap-clap-stomp units This matches the task.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing an imitated chant pattern.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled This matches the task.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Say it aloud to hear the pattern.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words This matches the task.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "At least three initial sounds match and phrase remains understandable This matches the task.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for beat and check the whole example.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Yes; both end with /oon/ This matches the task.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can invent pattern.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each line matches a supported sound-created mood This matches the task.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Connecting sound pattern with mood.",
       "hint": "Listen for same sound, not just same spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Cat, moon, hat, spoon This matches the task.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Rhyme is usually ending sound.",
       "hint": "Rhyme is usually ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "fast fox, furry fox or friendly fox This matches the task.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
       "hint": "Say it aloud to hear the pattern."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE04-T-001",

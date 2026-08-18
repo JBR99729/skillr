@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using spreadsheet software to carry out mathematical analyses of data",
       "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
       "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
       "hint": "Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "considering how the scales used for representing data affect interpretation of the data",
       "hint": "Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
       "hint": "Use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
       "hint": "Use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using spreadsheet software to carry out mathematical analyses of data",
       "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
       "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i04-t-001",

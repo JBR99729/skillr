@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A testable question links a changed factor to an observable or measurable outcome.",
       "hint": "Find the question that could be answered by collecting data."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "A prediction states an expected measurable outcome.",
       "hint": "Look for what students expect to observe or measure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Evidence-based predictions grow from relevant observations or patterns.",
       "hint": "Use what was noticed, not a preference."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "The changed factor is deliberately varied to explore a relationship.",
       "hint": "Look after \"How does\" and before \"affect\"."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "The measured outcome provides data to answer the question.",
       "hint": "Look for the result that can be recorded."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Words such as best need a measurable meaning.",
       "hint": "Replace \"best\" with a named measurement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-007",
@@ -235,7 +251,9 @@
     "explanation": {
       "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
       "hint": "Keep observations separate from what was expected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "A useful prediction states an outcome and connects it to evidence or science.",
       "hint": "Look for if, then and because."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "A testable question links a changed factor to an observable or measurable outcome.",
       "hint": "Find the question that could be answered by collecting data."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "A prediction states an expected measurable outcome.",
       "hint": "Look for what students expect to observe or measure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "Evidence-based predictions grow from relevant observations or patterns.",
       "hint": "Use what was noticed, not a preference."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-012",
@@ -405,7 +432,10 @@
     "explanation": {
       "summary": "The changed factor is deliberately varied to explore a relationship.",
       "hint": "Look after \"How does\" and before \"affect\"."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-013",
@@ -439,7 +469,10 @@
     "explanation": {
       "summary": "The measured outcome provides data to answer the question.",
       "hint": "Look for the result that can be recorded."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-014",
@@ -473,7 +506,10 @@
     "explanation": {
       "summary": "Words such as best need a measurable meaning.",
       "hint": "Replace \"best\" with a named measurement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
       "hint": "Keep observations separate from what was expected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A useful prediction states an outcome and connects it to evidence or science.",
       "hint": "Look for if, then and because."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A testable question links a changed factor to an observable or measurable outcome.",
       "hint": "Find the question that could be answered by collecting data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A prediction states an expected measurable outcome.",
       "hint": "Look for what students expect to observe or measure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Evidence-based predictions grow from relevant observations or patterns.",
       "hint": "Use what was noticed, not a preference."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The changed factor is deliberately varied to explore a relationship.",
       "hint": "Look after \"How does\" and before \"affect\"."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The measured outcome provides data to answer the question.",
       "hint": "Look for the result that can be recorded."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Words such as best need a measurable meaning.",
       "hint": "Replace \"best\" with a named measurement."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
       "hint": "Keep observations separate from what was expected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A useful prediction states an outcome and connects it to evidence or science.",
       "hint": "Look for if, then and because."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I01-T-001",

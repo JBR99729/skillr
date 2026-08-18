@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A cube has 6 square faces.",
       "hint": "Check faces, edges, vertices and curved surfaces."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The everyday object shares the cube's three-dimensional features.",
       "hint": "Ignore colour and compare shape features."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The object's geometric features affect how it rolls, stacks or fits.",
       "hint": "Connect a visible feature to a practical use."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Flat and curved surfaces are geometric features that support consistent classification.",
       "hint": "Choose a feature another person can observe and repeat."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A cylinder can be grouped with rollers by its curved surface and stackers by its flat faces.",
       "hint": "Change the sorting rule and test the object again."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Flat faces can rest securely against other flat faces.",
       "hint": "Imagine placing another object on top."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Prisms have flat polygonal faces; a cylinder includes a curved surface.",
       "hint": "Use defining geometric features."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Classification should use defining features such as faces, edges, vertices and surfaces.",
       "hint": "Ask whether a smaller version would still be the same object."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "A rectangular prism has 6 rectangular faces.",
       "hint": "Check faces, edges, vertices and curved surfaces."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "The everyday object shares the rectangular prism's three-dimensional features.",
       "hint": "Ignore colour and compare shape features."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3SP01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The object's geometric features affect how it rolls, stacks or fits.",
       "hint": "Connect a visible feature to a practical use."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Flat and curved surfaces are geometric features that support consistent classification.",
       "hint": "Choose a feature another person can observe and repeat."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A cylinder can be grouped with rollers by its curved surface and stackers by its flat faces.",
       "hint": "Change the sorting rule and test the object again."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Flat faces can rest securely against other flat faces.",
       "hint": "Imagine placing another object on top."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Prisms have flat polygonal faces; a cylinder includes a curved surface.",
       "hint": "Use defining geometric features."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Classification should use defining features such as faces, edges, vertices and surfaces.",
       "hint": "Ask whether a smaller version would still be the same object."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A cylinder has 2 flat circular faces and a curved surface.",
       "hint": "Check faces, edges, vertices and curved surfaces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The everyday object shares the cylinder's three-dimensional features.",
       "hint": "Ignore colour and compare shape features."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The object's geometric features affect how it rolls, stacks or fits.",
       "hint": "Connect a visible feature to a practical use."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Flat and curved surfaces are geometric features that support consistent classification.",
       "hint": "Choose a feature another person can observe and repeat."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A cylinder can be grouped with rollers by its curved surface and stackers by its flat faces.",
       "hint": "Change the sorting rule and test the object again."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Flat faces can rest securely against other flat faces.",
       "hint": "Imagine placing another object on top."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Prisms have flat polygonal faces; a cylinder includes a curved surface.",
       "hint": "Use defining geometric features."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Classification should use defining features such as faces, edges, vertices and surfaces.",
       "hint": "Ask whether a smaller version would still be the same object."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3SP01-T-001",

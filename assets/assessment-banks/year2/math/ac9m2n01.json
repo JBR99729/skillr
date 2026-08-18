@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "2 hundreds, 3 tens and 4 ones make 234.",
       "hint": "Write the hundreds digit, then tens, then ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The digits show 200, 30 and 4.",
       "hint": "Use the place of each digit to find its value."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Both have 2 hundreds. 242 has more tens, so it is greater.",
       "hint": "Compare hundreds first, then tens, then ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "250 is 50 more than 200 and 50 less than 300.",
       "hint": "Half of 100 is 50."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Compare the hundreds first. The order is 134, 234, 264.",
       "hint": "Find the number with the fewest hundreds first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Adding 10 increases the tens place by 1: 234 becomes 244.",
       "hint": "Keep the hundreds and ones the same."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The 0 is in the tens place, so the number has no tens.",
       "hint": "Read the place-value columns: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "With no tens, a zero keeps the tens place: 204.",
       "hint": "Leave a zero in the tens column."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "3 hundreds, 4 tens and 5 ones make 345.",
       "hint": "Write the hundreds digit, then tens, then ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The digits show 300, 40 and 5.",
       "hint": "Use the place of each digit to find its value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Both have 3 hundreds. 353 has more tens, so it is greater.",
       "hint": "Compare hundreds first, then tens, then ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "350 is 50 more than 300 and 50 less than 400.",
       "hint": "Half of 100 is 50."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Compare the hundreds first. The order is 245, 345, 375.",
       "hint": "Find the number with the fewest hundreds first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Adding 10 increases the tens place by 1: 345 becomes 355.",
       "hint": "Keep the hundreds and ones the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The 0 is in the tens place, so the number has no tens.",
       "hint": "Read the place-value columns: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "With no tens, a zero keeps the tens place: 305.",
       "hint": "Leave a zero in the tens column."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "4 hundreds, 5 tens and 6 ones make 456.",
       "hint": "Write the hundreds digit, then tens, then ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The digits show 400, 50 and 6.",
       "hint": "Use the place of each digit to find its value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Both have 4 hundreds. 464 has more tens, so it is greater.",
       "hint": "Compare hundreds first, then tens, then ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "450 is 50 more than 400 and 50 less than 500.",
       "hint": "Half of 100 is 50."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Compare the hundreds first. The order is 356, 456, 486.",
       "hint": "Find the number with the fewest hundreds first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Adding 10 increases the tens place by 1: 456 becomes 466.",
       "hint": "Keep the hundreds and ones the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The 0 is in the tens place, so the number has no tens.",
       "hint": "Read the place-value columns: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "With no tens, a zero keeps the tens place: 406.",
       "hint": "Leave a zero in the tens column."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N01-T-001",

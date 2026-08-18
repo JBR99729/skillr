@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing and comparing different applications, demonstrations and proofs of Pythagoras’ theorem, from Egypt and Mesopotamia, Greece, India and China with other historical and contemporary applications and proofs",
       "hint": "Discuss and comparing different applications, demonstrations and proofs of Pythagoras’ theorem, from Egypt and Mesopotamia, Greece, India and China with other historical and contemporary applications and proofs."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications",
       "hint": "Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "recognising the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse",
       "hint": "Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "identifying Pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17)",
       "hint": "Identify Pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17)."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used by predictive algorithms to navigate autonomous vehicles",
       "hint": "Explore how Pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "discussing and comparing different applications, demonstrations and proofs of Pythagoras’ theorem, from Egypt and Mesopotamia, Greece, India and China with other historical and contemporary applications and proofs",
       "hint": "Discuss and comparing different applications, demonstrations and proofs of Pythagoras’ theorem, from Egypt and Mesopotamia, Greece, India and China with other historical and contemporary applications and proofs."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications",
       "hint": "Use Pythagoras’ theorem to determine unknown lengths of sides in right-angled triangles and finding lengths of sides of right-angled triangles in practical applications."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "recognising the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse",
       "hint": "Recognise the relationship between the squares of lengths of sides for different types of triangles: right-angled, acute or obtuse."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m06-t-001",

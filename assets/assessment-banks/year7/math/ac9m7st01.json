@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
       "hint": "Sort values first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
       "hint": "A set can have multiple modes or none."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
       "hint": "It describes spread."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
       "hint": "Check context and sample size."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
       "hint": "Sort values first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
       "hint": "A set can have multiple modes or none."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
       "hint": "It describes spread."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
       "hint": "Check context and sample size."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st01-t-001",

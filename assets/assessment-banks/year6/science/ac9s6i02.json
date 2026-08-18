@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "repeatable method means method described clearly enough for another group to follow.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "controlled variable means relevant condition kept consistent.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "pilot test means small preliminary test used to improve method.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "It refers to method clarity and consistency.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "State actual values or procedures.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Name hazard and specific action.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Document deviations and their effect.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links question with How does number of series lamps affect brightness?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links change with number of identical lamps.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links measure with light sensor reading.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "The organiser links control with cells, lamp type, sensor distance, room light.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "The organiser links repeat with 3+ readings each setup.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The organiser links risk with low-voltage cells only; prevent hot components.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Specify component connections, sensor distance and timing is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "Finding practical problems before full collection is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-016",
@@ -541,7 +577,10 @@
     "explanation": {
       "summary": "repeatable method means method described clearly enough for another group to follow.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "controlled variable means relevant condition kept consistent.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "pilot test means small preliminary test used to improve method.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "It refers to method clarity and consistency.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "State actual values or procedures.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Name hazard and specific action.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Document deviations and their effect.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "The organiser links question with How does number of series lamps affect brightness?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I02-P-024",
@@ -813,7 +866,10 @@
     "explanation": {
       "summary": "The organiser links change with number of identical lamps.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I02-T-001",

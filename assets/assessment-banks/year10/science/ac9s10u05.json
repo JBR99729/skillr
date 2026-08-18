@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
       "hint": "Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass",
       "hint": "Use mathematical representations to make the role of net force visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows",
       "hint": "Use how First Nations Australians achieve an increase in speed to make the role of action–reaction pair visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles",
       "hint": "Use how a change in net force acting to make the role of F = ma visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety",
       "hint": "Use the application of Newton’s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments",
       "hint": "Use an argument, supported by data, to support lower speed to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating how driverless vehicles apply Newton’s laws of motion to brake in time",
       "hint": "Use how driverless vehicles apply Newton’s laws of motion to make the role of net force visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
       "hint": "Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u05-t-001",

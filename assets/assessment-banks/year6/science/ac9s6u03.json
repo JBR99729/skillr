@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "circuit means complete conducting path containing components.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "energy transfer means movement of energy between stores or systems.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "transformation means change from one energy form to another.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Current is not a fuel; energy is transferred at components.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "A gap stops the closed path.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Trace actual connection points and paths.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Respect component ratings and classroom limits.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links switch open with path incomplete; components stop.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links two lamps in series with same path; brightness may reduce.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links two branches in parallel with separate paths; one branch can operate if other opens.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "The organiser links more cells in suitable series with greater energy supplied per charge; lamp may brighten.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "The organiser links motor with electrical transfer to kinetic + thermal + sound.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The conducting path is incomplete is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "One branch may operate if another branch is open is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "circuit means complete conducting path containing components.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "energy transfer means movement of energy between stores or systems.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "transformation means change from one energy form to another.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Current is not a fuel; energy is transferred at components.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "A gap stops the closed path.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Trace actual connection points and paths.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Respect component ratings and classroom limits.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-022",
@@ -745,7 +794,10 @@
     "explanation": {
       "summary": "The organiser links switch open with path incomplete; components stop.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The organiser links two lamps in series with same path; brightness may reduce.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The organiser links two branches in parallel with separate paths; one branch can operate if other opens.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U03-T-001",

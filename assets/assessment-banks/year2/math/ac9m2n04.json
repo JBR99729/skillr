@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Add tens and ones: 24 + 13 = 37.",
       "hint": "Partition both numbers into tens and ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Take away 13: 45 − 13 = 32.",
       "hint": "Subtract the tens, then the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "28 + 16 = 20 + 10 + 14 = 44.",
       "hint": "Add the tens, add the ones, then combine."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The stickers are taken away, so 42 − 18 = 24.",
       "hint": "Start with the whole and subtract the used part."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The missing part is 48 − 17 = 31.",
       "hint": "Use whole minus known part."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Addition checks subtraction by joining the two parts back to the whole.",
       "hint": "Use the answer and the amount taken away."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
       "hint": "Use a nearby friendly number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Altogether means join the groups: 24 + 13 = 37.",
       "hint": "Look for whether the story joins or separates amounts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Add tens and ones: 31 + 15 = 46.",
       "hint": "Partition both numbers into tens and ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Take away 15: 54 − 15 = 39.",
       "hint": "Subtract the tens, then the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "32 + 17 = 30 + 10 + 9 = 49.",
       "hint": "Add the tens, add the ones, then combine."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The stickers are taken away, so 47 − 19 = 28.",
       "hint": "Start with the whole and subtract the used part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The missing part is 51 − 18 = 33.",
       "hint": "Use whole minus known part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Addition checks subtraction by joining the two parts back to the whole.",
       "hint": "Use the answer and the amount taken away."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
       "hint": "Use a nearby friendly number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Altogether means join the groups: 31 + 15 = 46.",
       "hint": "Look for whether the story joins or separates amounts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Add tens and ones: 38 + 17 = 55.",
       "hint": "Partition both numbers into tens and ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Take away 17: 63 − 17 = 46.",
       "hint": "Subtract the tens, then the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "36 + 18 = 30 + 10 + 14 = 54.",
       "hint": "Add the tens, add the ones, then combine."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The stickers are taken away, so 52 − 20 = 32.",
       "hint": "Start with the whole and subtract the used part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The missing part is 54 − 19 = 35.",
       "hint": "Use whole minus known part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Addition checks subtraction by joining the two parts back to the whole.",
       "hint": "Use the answer and the amount taken away."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
       "hint": "Use a nearby friendly number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Altogether means join the groups: 38 + 17 = 55.",
       "hint": "Look for whether the story joins or separates amounts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N04-T-001",

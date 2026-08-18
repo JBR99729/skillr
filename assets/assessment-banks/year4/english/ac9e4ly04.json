@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “accurate phrasing and expression that support meaning”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate phrasing and expression that support meaning”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Use the complete written word and cross-check meaning.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use the complete written word and cross-check meaning.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Accuracy, phrasing and comprehension are essential.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Accuracy, phrasing and comprehension are essential.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Noticing and repairing is a skilled reading behaviour.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Noticing and repairing is a skilled reading behaviour.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Teach a strategic sequence and allow productive effort.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Teach a strategic sequence and allow productive effort.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "decoding is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. decoding is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "morphology is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. morphology is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "fluency is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. fluency is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-T-001",

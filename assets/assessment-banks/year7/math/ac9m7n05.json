@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 47.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 47.4.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 47.39.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 8.7.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 8.75.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 0.005.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-007",
@@ -235,7 +251,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 13.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 306.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 306.4.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 19.95.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 2.68.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 0.1.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "Keep 0 decimal places and inspect the next digit; the rounded value is 785.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 65.05.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-015",
@@ -507,7 +539,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 10.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-016",
@@ -541,7 +575,9 @@
     "explanation": {
       "summary": "Keep 3 decimal places and inspect the next digit; the rounded value is 123.457.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-017",
@@ -575,7 +611,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 5.44.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-018",
@@ -609,7 +647,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 5.45.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-019",
@@ -643,7 +683,9 @@
     "explanation": {
       "summary": "Keep 2 decimal places and inspect the next digit; the rounded value is 0.85.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-020",
@@ -677,7 +719,9 @@
     "explanation": {
       "summary": "Keep 1 decimal place and inspect the next digit; the rounded value is 99.9.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N05-P-021",
@@ -711,7 +755,10 @@
     "explanation": {
       "summary": "Round to compatible numbers before multiplying; the result should be about 1000.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-022",
@@ -745,7 +792,10 @@
     "explanation": {
       "summary": "Round to compatible numbers before multiplying; the result should be about 100.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-023",
@@ -779,7 +829,10 @@
     "explanation": {
       "summary": "Round to compatible numbers before multiplying; the result should be about 2000.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-P-024",
@@ -813,7 +866,10 @@
     "explanation": {
       "summary": "Round to compatible numbers before multiplying; the result should be about 300.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N05-T-001",

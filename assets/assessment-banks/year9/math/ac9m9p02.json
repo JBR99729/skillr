@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
       "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
       "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
       "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
       "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
       "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
       "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
       "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
       "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p02-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Two groups can share median 47 while one has much greater range",
       "hint": "Ordering supports median and shape reading."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
       "hint": "Value scale becomes ambiguous."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
       "hint": "Use centre, spread, clusters, gaps and extremes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
       "hint": "Investigate validity and impact."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Two groups can share median 47 while one has much greater range",
       "hint": "Ordering supports median and shape reading."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
       "hint": "Value scale becomes ambiguous."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
       "hint": "Use centre, spread, clusters, gaps and extremes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
       "hint": "Investigate validity and impact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st02-t-001",

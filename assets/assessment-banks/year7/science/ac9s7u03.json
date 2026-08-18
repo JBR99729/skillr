@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
       "hint": "Only lunar eclipses use Earth’s shadow."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
       "hint": "Axial tilt changes Sun angle and day length."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
       "hint": "The Moon’s orbital plane is tilted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
       "hint": "Most classroom models preserve geometry, not true distances."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
       "hint": "Only lunar eclipses use Earth’s shadow."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
       "hint": "Axial tilt changes Sun angle and day length."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
       "hint": "The Moon’s orbital plane is tilted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
       "hint": "Most classroom models preserve geometry, not true distances."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u03-t-001",

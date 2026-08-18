@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The evidence creates unease: sound and image make danger seem closer.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The evidence creates energy: rhythm and angled shapes suggest rapid work.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The evidence creates calm: both choices create a gentle pace.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The evidence creates anticipation: sound and scale show approach.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The evidence creates shock: the sudden sound and contrast startle readers.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "The evidence creates secrecy: quiet sound and narrow framing make readers feel hidden.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The evidence creates joy: rhythm and colour create shared excitement.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "The evidence creates isolation: slow sound and scale emphasise distance.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le02-p-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The evidence creates humour: exaggerated sounds and angles make movement playful.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The evidence creates flow: sound and lines mimic water movement.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The evidence creates conflict: sharp rhythm and spacing show division.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The evidence creates liveliness: sound words and salience focus busy life.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The evidence creates nostalgia: repetition and muted colour suggest the past.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The evidence creates power: heavy sound and angle make the giant dominant.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The evidence creates confusion: echo and layout stress uncertainty.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The evidence creates focus: sound and framing narrow attention.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The evidence creates mystery: pattern and fragmented light unsettle the calm.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The evidence creates bustle: sound and crowded composition create activity.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The evidence creates freedom: sound and layout suggest quick release.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The evidence creates suspense: pause and spotlight delay the reveal.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The evidence creates loss: repetition and space hold attention on absence.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The evidence creates speed: rhythm and sequence accelerate the ending.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The evidence creates tension: sound and lighting make the story eerie.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The evidence creates hope: sound and colour show awakening.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le02-t-001",

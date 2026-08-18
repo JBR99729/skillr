@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “Could you please provide the meeting details?”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Could you please provide the meeting details?”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “I understand that point, but the evidence suggests another view”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “I understand that point, but the evidence suggests another view”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Clarity and suitability matter more than sounding impressive.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Clarity and suitability matter more than sounding impressive.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Casual interaction still needs cooperation and audience awareness.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Casual interaction still needs cooperation and audience awareness.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Relationships and purposes change language choices.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Relationships and purposes change language choices.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Word choice, punctuation and sentence structure also create tone.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Word choice, punctuation and sentence structure also create tone.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Place speaking and writing examples from casual to formal, then justify placements using language evidence.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Place speaking and writing examples from casual to formal, then justify placements using language evidence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Rewrite the same request for a close friend, unfamiliar adult, class teacher and formal email.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite the same request for a close friend, unfamiliar adult, class teacher and formal email.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Identify language that threatens cooperation and replace it with wording that acknowledges the other person’s role or viewpoint.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Identify language that threatens cooperation and replace it with wording that acknowledges the other person’s role or viewpoint.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "formality is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. formality is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "register is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. register is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "tone is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. tone is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA01-T-001",

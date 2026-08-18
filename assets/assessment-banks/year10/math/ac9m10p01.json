@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
       "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
       "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
       "hint": "Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
       "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
       "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
       "hint": "Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
       "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
       "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10p01-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "4 groups of 3 make 12.",
       "hint": "Skip-count by 3, 4 times."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "12 split into groups of 3 makes 4 groups.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Add one more group of 3 to the known fact.",
       "hint": "Use a nearby multiplication fact."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "3 equal rows of 4 contain 12 objects.",
       "hint": "Rows × objects per row gives the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "Add 3 to 9 to get 12.",
       "hint": "Keep the jump size constant."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Equal groups are multiplied: 4×3=12.",
       "hint": "Identify groups and amount in each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "4×3 means 4 equal groups of 3, not 4+3.",
       "hint": "Draw the equal groups."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Division reverses the equal-group multiplication.",
       "hint": "Start with the product 12."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "5 groups of 4 make 20.",
       "hint": "Skip-count by 4, 5 times."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "20 split into groups of 4 makes 5 groups.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Add one more group of 4 to the known fact.",
       "hint": "Use a nearby multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "4 equal rows of 5 contain 20 objects.",
       "hint": "Rows × objects per row gives the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Add 4 to 12 to get 16.",
       "hint": "Keep the jump size constant."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Equal groups are multiplied: 5×4=20.",
       "hint": "Identify groups and amount in each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "5×4 means 5 equal groups of 4, not 5+4.",
       "hint": "Draw the equal groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Division reverses the equal-group multiplication.",
       "hint": "Start with the product 20."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "6 groups of 5 make 30.",
       "hint": "Skip-count by 5, 6 times."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "30 split into groups of 5 makes 6 groups.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Add one more group of 5 to the known fact.",
       "hint": "Use a nearby multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "5 equal rows of 6 contain 30 objects.",
       "hint": "Rows × objects per row gives the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Add 5 to 15 to get 20.",
       "hint": "Keep the jump size constant."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Equal groups are multiplied: 6×5=30.",
       "hint": "Identify groups and amount in each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "6×5 means 6 equal groups of 5, not 6+5.",
       "hint": "Draw the equal groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Division reverses the equal-group multiplication.",
       "hint": "Start with the product 30."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A03-T-001",

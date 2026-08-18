@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
       "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
       "hint": "Use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
       "hint": "Use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed",
       "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
       "hint": "Use ethical issues when collaborating with First Nations Australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
       "hint": "Use how to report the discovery of unregistered First Nations to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
       "hint": "Use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
       "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i02-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Twelve is written as 12.",
       "hint": "Say the number name slowly, then look for the matching tens and ones digits."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The numeral 33 is read as thirty-three.",
       "hint": "Read the tens digit first, then the ones digit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "The model has 0 hundreds, 2 tens and 8 ones, making 28.",
       "hint": "Count the tens rods first. Then count the ones dots."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "43 has 0 hundreds, 4 tens and 3 ones.",
       "hint": "Look at what each digit means: hundreds, tens, then ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "The number line increases by 1, so the missing number is 35.",
       "hint": "Start at a labelled number and count one step at a time."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Moving down one row adds 10: 51, 61, 71.",
       "hint": "Moving down one row on a hundreds chart adds 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "25 comes after 24 and before 26.",
       "hint": "Count one more than the smaller number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-008",
@@ -269,7 +287,10 @@
     "explanation": {
       "summary": "Compare hundreds first, then tens, then ones.",
       "hint": "Compare the tens first. If they match, compare the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "112 comes after 103 in the counting sequence.",
       "hint": "Compare hundreds, then tens, then ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "72 is greater because its digits have different place values.",
       "hint": "The position of each digit changes its value. Compare the tens first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "Moving below changes 53 by +10, giving 63.",
       "hint": "Across changes by 1. Down changes by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "The sequence continues one number at a time, so the blank is 100.",
       "hint": "Count carefully through the number ending in 9 or 0."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "36, 35, 34; the finishing number is 34.",
       "hint": "Move to numbers that are one smaller each time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "One less changes 107 by -1, giving 106.",
       "hint": "Decide whether the question asks for more or less, then move by that amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-015",
@@ -507,7 +542,10 @@
     "explanation": {
       "summary": "People may use different words or symbols, but the quantity can stay the same.",
       "hint": "The symbols or words may change, but the counted amount stays the same."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Counting by ones after 66 should give 67, not 68.",
       "hint": "Say every number in order and notice which number is missing or repeated."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "106 is 100 plus 6.",
       "hint": "Read the hundred, tens and ones separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The point is 78, which lies between 67 and 87.",
       "hint": "Use the labelled points to work out the equal steps on the line."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "One hundred and one is written as 101.",
       "hint": "Say the number name slowly, then look for the matching tens and ones digits."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The numeral 66 is read as sixty-six.",
       "hint": "Read the tens digit first, then the ones digit."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The model has 0 hundreds, 8 tens and 0 ones, making 80.",
       "hint": "Count the tens rods first. Then count the ones dots."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "20 has 0 hundreds, 2 tens and 0 ones.",
       "hint": "Look at what each digit means: hundreds, tens, then ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The number line increases by 1, so the missing number is 55.",
       "hint": "Start at a labelled number and count one step at a time."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Moving down one row adds 10: 62, 72, 82.",
       "hint": "Moving down one row on a hundreds chart adds 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-025",
@@ -847,7 +903,9 @@
     "explanation": {
       "summary": "56 comes after 55 and before 57.",
       "hint": "Count one more than the smaller number."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "Compare hundreds first, then tens, then ones.",
       "hint": "Compare the tens first. If they match, compare the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "18 comes after 17 in the counting sequence.",
       "hint": "Compare hundreds, then tens, then ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "81 is greater because its digits have different place values.",
       "hint": "The position of each digit changes its value. Compare the tens first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-029",
@@ -983,7 +1047,9 @@
     "explanation": {
       "summary": "Moving left changes 21 by -1, giving 20.",
       "hint": "Across changes by 1. Down changes by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-030",
@@ -1017,7 +1083,9 @@
     "explanation": {
       "summary": "The sequence continues one number at a time, so the blank is 120.",
       "hint": "Count carefully through the number ending in 9 or 0."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-031",
@@ -1051,7 +1119,9 @@
     "explanation": {
       "summary": "55, 54, 53; the finishing number is 53.",
       "hint": "Move to numbers that are one smaller each time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-032",
@@ -1085,7 +1155,9 @@
     "explanation": {
       "summary": "One more changes 17 by +1, giving 18.",
       "hint": "Decide whether the question asks for more or less, then move by that amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-033",
@@ -1119,7 +1191,9 @@
     "explanation": {
       "summary": "People may use different words or symbols, but the quantity can stay the same.",
       "hint": "The symbols or words may change, but the counted amount stays the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-034",
@@ -1153,7 +1227,9 @@
     "explanation": {
       "summary": "Counting by ones after 49 should give 50, not 51.",
       "hint": "Say every number in order and notice which number is missing or repeated."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-035",
@@ -1187,7 +1263,9 @@
     "explanation": {
       "summary": "119 is 100 plus 19.",
       "hint": "Read the hundred, tens and ones separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-036",
@@ -1221,7 +1299,9 @@
     "explanation": {
       "summary": "The point is 64, which lies between 56 and 76.",
       "hint": "Use the labelled points to work out the equal steps on the line."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-037",
@@ -1255,7 +1335,9 @@
     "explanation": {
       "summary": "Eighty-one is written as 81.",
       "hint": "Say the number name slowly, then look for the matching tens and ones digits."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-038",
@@ -1289,7 +1371,9 @@
     "explanation": {
       "summary": "The numeral 99 is read as ninety-nine.",
       "hint": "Read the tens digit first, then the ones digit."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-039",
@@ -1323,7 +1407,9 @@
     "explanation": {
       "summary": "The model has 0 hundreds, 2 tens and 1 one, making 21.",
       "hint": "Count the tens rods first. Then count the ones dots."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-040",
@@ -1357,7 +1443,9 @@
     "explanation": {
       "summary": "108 has 1 hundred, 0 tens and 8 ones.",
       "hint": "Look at what each digit means: hundreds, tens, then ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-041",
@@ -1391,7 +1479,9 @@
     "explanation": {
       "summary": "The number line increases by 1, so the missing number is 72.",
       "hint": "Start at a labelled number and count one step at a time."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-042",
@@ -1425,7 +1515,9 @@
     "explanation": {
       "summary": "Moving down one row adds 10: 73, 83, 93.",
       "hint": "Moving down one row on a hundreds chart adds 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-043",
@@ -1459,7 +1551,9 @@
     "explanation": {
       "summary": "87 comes after 86 and before 88.",
       "hint": "Count one more than the smaller number."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-044",
@@ -1493,7 +1587,9 @@
     "explanation": {
       "summary": "Compare hundreds first, then tens, then ones.",
       "hint": "Compare the tens first. If they match, compare the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-045",
@@ -1527,7 +1623,9 @@
     "explanation": {
       "summary": "28 comes after 26 in the counting sequence.",
       "hint": "Compare hundreds, then tens, then ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-046",
@@ -1561,7 +1659,9 @@
     "explanation": {
       "summary": "109 is greater because its digits have different place values.",
       "hint": "The position of each digit changes its value. Compare the tens first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-047",
@@ -1595,7 +1695,9 @@
     "explanation": {
       "summary": "Moving right changes 78 by +1, giving 79.",
       "hint": "Across changes by 1. Down changes by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-048",
@@ -1629,7 +1731,9 @@
     "explanation": {
       "summary": "The sequence continues one number at a time, so the blank is 100.",
       "hint": "Count carefully through the number ending in 9 or 0."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-049",
@@ -1663,7 +1767,9 @@
     "explanation": {
       "summary": "74, 73, 72; the finishing number is 72.",
       "hint": "Move to numbers that are one smaller each time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-050",
@@ -1697,7 +1803,9 @@
     "explanation": {
       "summary": "Ten less changes 28 by -10, giving 18.",
       "hint": "Decide whether the question asks for more or less, then move by that amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-051",
@@ -1731,7 +1839,9 @@
     "explanation": {
       "summary": "People may use different words or symbols, but the quantity can stay the same.",
       "hint": "The symbols or words may change, but the counted amount stays the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-052",
@@ -1765,7 +1875,9 @@
     "explanation": {
       "summary": "Counting by ones after 32 should give 33, not 34.",
       "hint": "Say every number in order and notice which number is missing or repeated."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-053",
@@ -1799,7 +1911,9 @@
     "explanation": {
       "summary": "111 is 100 plus 11.",
       "hint": "Read the hundred, tens and ones separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-054",
@@ -1833,7 +1947,9 @@
     "explanation": {
       "summary": "The point is 50, which lies between 45 and 65.",
       "hint": "Use the labelled points to work out the equal steps on the line."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-055",
@@ -1867,7 +1983,9 @@
     "explanation": {
       "summary": "Sixty-one is written as 61.",
       "hint": "Say the number name slowly, then look for the matching tens and ones digits."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-P-056",
@@ -1901,7 +2019,9 @@
     "explanation": {
       "summary": "The numeral 31 is read as thirty-one.",
       "hint": "Read the tens digit first, then the ones digit."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N01-T-001",

@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e9la02-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
       "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la02-t-001",

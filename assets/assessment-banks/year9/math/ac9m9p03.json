@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
       "hint": "Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "comparing experiments which differ only by being undertaken with replacement or without replacement",
       "hint": "Compare experiments which differ only by being undertaken with replacement or without replacement."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
       "hint": "Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning",
       "hint": "Use repeated trials of First Nations Australian children’s instructive games."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
       "hint": "Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "comparing experiments which differ only by being undertaken with replacement or without replacement",
       "hint": "Compare experiments which differ only by being undertaken with replacement or without replacement."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
       "hint": "Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning",
       "hint": "Use repeated trials of First Nations Australian children’s instructive games."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9p03-t-001",

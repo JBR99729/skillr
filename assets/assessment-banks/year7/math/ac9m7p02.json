@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
       "hint": "Variation can be large."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
       "hint": "Record all valid outcomes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
       "hint": "Use relative frequencies."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
       "hint": "Check code, settings and output totals."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
       "hint": "Variation can be large."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
       "hint": "Record all valid outcomes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
       "hint": "Use relative frequencies."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
       "hint": "Check code, settings and output totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p02-t-001",

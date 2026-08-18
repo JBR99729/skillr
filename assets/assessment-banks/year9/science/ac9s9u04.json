@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "describing the processes underlying convection and conduction of heat in terms of the particle model",
       "hint": "Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred",
       "hint": "Use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators",
       "hint": "Use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation",
       "hint": "Use the wave and particle models of energy transfer, to make the role of medium visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia",
       "hint": "Use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments",
       "hint": "Use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations",
       "hint": "Use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "describing the processes underlying convection and conduction of heat in terms of the particle model",
       "hint": "Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u04-t-001",

@@ -36,7 +36,9 @@
     "explanation": {
       "summary": "The evidence and language purpose support “predict”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-002",
@@ -75,7 +77,9 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “predict”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-003",
@@ -114,7 +118,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-004",
@@ -153,7 +160,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-005",
@@ -192,7 +202,10 @@
     "explanation": {
       "summary": "They serve different purposes and may divide differently.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-006",
@@ -231,7 +244,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. They serve different purposes and may divide differently.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-007",
@@ -270,7 +286,10 @@
     "explanation": {
       "summary": "Vowel graphemes and unstressed vowels can be complex.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-008",
@@ -309,7 +328,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Vowel graphemes and unstressed vowels can be complex.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-009",
@@ -348,7 +370,10 @@
     "explanation": {
       "summary": "Confirm that the remaining base and whole-word meaning make sense.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-010",
@@ -387,7 +412,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Confirm that the remaining base and whole-word meaning make sense.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY09-P-011",
@@ -426,7 +454,9 @@
     "explanation": {
       "summary": "Context verifies a word; written evidence remains essential.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-012",
@@ -465,7 +495,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context verifies a word; written evidence remains essential.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-013",
@@ -504,7 +536,9 @@
     "explanation": {
       "summary": "Connect pronunciation to morphology and sentence meaning.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-014",
@@ -543,7 +577,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect pronunciation to morphology and sentence meaning.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-015",
@@ -582,7 +618,9 @@
     "explanation": {
       "summary": "Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-016",
@@ -621,7 +659,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-017",
@@ -660,7 +700,9 @@
     "explanation": {
       "summary": "Build related words and note pronunciation or spelling changes across morphemes.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-018",
@@ -699,7 +741,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Build related words and note pronunciation or spelling changes across morphemes.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-019",
@@ -738,7 +782,9 @@
     "explanation": {
       "summary": "Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-020",
@@ -777,7 +823,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-021",
@@ -816,7 +864,9 @@
     "explanation": {
       "summary": "phonological knowledge is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-022",
@@ -855,7 +905,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. phonological knowledge is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-023",
@@ -894,7 +946,9 @@
     "explanation": {
       "summary": "morphological knowledge is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-P-024",
@@ -933,7 +987,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. morphological knowledge is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY09-T-001",

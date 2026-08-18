@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A frog needs pond water to live.",
       "hint": "A need is required for life, not simply wanted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Insects is a suitable source of food or energy for a frog.",
       "hint": "Choose what the living thing naturally uses for nutrition or making food."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Reeds and rocks helps meet the living thing's needs.",
       "hint": "Shelter or growing space provides protection and suitable conditions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A pond with water, insects and plants provides several basic needs.",
       "hint": "Check for water, food or light, air, shelter and suitable space."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "A habitat must provide the conditions the living thing needs.",
       "hint": "Name the missing water, food, air, light, shelter or space."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Protect its pond habitat supports the living thing's needs.",
       "hint": "Choose an action that protects health or habitat."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Living things share basic needs, although the exact resources can differ.",
       "hint": "Think about air, water, food or light, shelter and space."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Without pond water, an essential need is missing.",
       "hint": "Choose the change that removes a resource needed for life."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "A bean plant needs clean water to live.",
       "hint": "A need is required for life, not simply wanted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Light energy is a suitable source of food or energy for a bean plant.",
       "hint": "Choose what the living thing naturally uses for nutrition or making food."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Suitable soil and space helps meet the living thing's needs.",
       "hint": "Shelter or growing space provides protection and suitable conditions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "A pot with soil, water, light and space provides several basic needs.",
       "hint": "Check for water, food or light, air, shelter and suitable space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "A habitat must provide the conditions the living thing needs.",
       "hint": "Name the missing water, food, air, light, shelter or space."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Give it suitable light and water supports the living thing's needs.",
       "hint": "Choose an action that protects health or habitat."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Living things share basic needs, although the exact resources can differ.",
       "hint": "Think about air, water, food or light, shelter and space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Without clean water, an essential need is missing.",
       "hint": "Choose the change that removes a resource needed for life."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "A dog needs fresh water to live.",
       "hint": "A need is required for life, not simply wanted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Suitable dog food is a suitable source of food or energy for a dog.",
       "hint": "Choose what the living thing naturally uses for nutrition or making food."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A safe resting place helps meet the living thing's needs.",
       "hint": "Shelter or growing space provides protection and suitable conditions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A safe home with food, water and space provides several basic needs.",
       "hint": "Check for water, food or light, air, shelter and suitable space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A habitat must provide the conditions the living thing needs.",
       "hint": "Name the missing water, food, air, light, shelter or space."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Provide food, water, exercise and shelter supports the living thing's needs.",
       "hint": "Choose an action that protects health or habitat."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Living things share basic needs, although the exact resources can differ.",
       "hint": "Think about air, water, food or light, shelter and space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Without fresh water, an essential need is missing.",
       "hint": "Choose the change that removes a resource needed for life."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U01-T-001",

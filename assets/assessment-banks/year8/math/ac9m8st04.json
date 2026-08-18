@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
       "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
       "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
       "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
       "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
       "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
       "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
       "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
       "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st04-t-001",

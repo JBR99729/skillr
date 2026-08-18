@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
       "hint": "Good simplification preserves the core relationship and limits."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
       "hint": "Inspect source, methods and possible interests."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
       "hint": "It often defines a range of confidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
       "hint": "Read axes, baselines and units."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h04-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A responsible message states the evidence, its limits and which value judgement supports the recommendation",
       "hint": "Good simplification preserves the core relationship and limits."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h04-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Communication is not neutral packaging: graph scale, headline, examples and omission influence interpretation. Evaluate the full message.",
       "hint": "Inspect source, methods and possible interests."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h04-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Accessibility matters: captions, readable diagrams, translations and plain-language definitions can broaden use without altering evidence.",
       "hint": "It often defines a range of confidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h04-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Science communication translates evidence for an audience while preserving accuracy, uncertainty, source transparency and the distinction between findings and recommendations.",
       "hint": "Read axes, baselines and units."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h04-t-001",

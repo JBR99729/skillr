@@ -26,7 +26,10 @@
     "explanation": {
       "summary": "The dominant purpose is to help readers experience the event.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-002",
@@ -60,7 +63,9 @@
     "explanation": {
       "summary": "These features work together to help readers experience the event.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-003",
@@ -89,7 +94,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-004",
@@ -118,7 +125,10 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-005",
@@ -147,7 +157,9 @@
     "explanation": {
       "summary": "The dominant purpose is to help readers understand a process.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-006",
@@ -181,7 +193,9 @@
     "explanation": {
       "summary": "These features work together to help readers understand a process.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-007",
@@ -210,7 +224,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-008",
@@ -239,7 +255,9 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-009",
@@ -268,7 +286,10 @@
     "explanation": {
       "summary": "The dominant purpose is to convince listeners to protect the tree.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-010",
@@ -302,7 +323,9 @@
     "explanation": {
       "summary": "These features work together to convince listeners to protect the tree.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-011",
@@ -331,7 +354,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-012",
@@ -360,7 +385,10 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-013",
@@ -389,7 +417,10 @@
     "explanation": {
       "summary": "The dominant purpose is to teach safe choices through an engaging example.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-014",
@@ -423,7 +454,9 @@
     "explanation": {
       "summary": "These features work together to teach safe choices through an engaging example.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-015",
@@ -452,7 +485,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-016",
@@ -481,7 +516,10 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-017",
@@ -510,7 +548,10 @@
     "explanation": {
       "summary": "The dominant purpose is to encourage a change in behaviour.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-018",
@@ -544,7 +585,9 @@
     "explanation": {
       "summary": "These features work together to encourage a change in behaviour.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-019",
@@ -573,7 +616,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-020",
@@ -602,7 +647,10 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly03-p-021",
@@ -631,7 +679,9 @@
     "explanation": {
       "summary": "The dominant purpose is to explain a person's contribution.",
       "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-022",
@@ -665,7 +715,9 @@
     "explanation": {
       "summary": "These features work together to explain a person's contribution.",
       "hint": "Choose features by their combined purpose, not by one isolated detail."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-023",
@@ -694,7 +746,9 @@
     "explanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
       "hint": "Connect the pattern of features to the audience outcome."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-p-024",
@@ -723,7 +777,9 @@
     "explanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
       "hint": "Do not let one fact, colour or story moment decide the classification."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly03-t-001",

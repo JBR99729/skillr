@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Ten to exponent 0 equals 1; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Ten to exponent 1 equals 10; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Ten to exponent 2 equals 100; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Ten to exponent 3 equals 1000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Ten to exponent 4 equals 10000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Ten to exponent 5 equals 100000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Ten to exponent 6 equals 1000000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Ten to exponent 7 equals 10000000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N03-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Ten to exponent 8 equals 100000000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Ten to exponent 9 equals 1000000000; the exponent counts factors of 10, and 10⁰ = 1.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The digit 5 is in the 10^4 place, so its value is 5 × 10^4 = 50000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The digit 8 is in the 10^4 place, so its value is 8 × 10^4 = 80000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The digit 1 is in the 10^1 place, so its value is 1 × 10^1 = 10.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 3000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The digit 6 is in the 10^3 place, so its value is 6 × 10^3 = 6000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The digit 1 is in the 10^4 place, so its value is 1 × 10^4 = 10000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The digit 8 is in the 10^1 place, so its value is 8 × 10^1 = 80.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The digit 4 is in the 10^3 place, so its value is 4 × 10^3 = 4000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The digit 5 is in the 10^0 place, so its value is 5 × 10^0 = 5.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 30000.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Evaluate each place-value term and add them: 4×10⁶ + 8×10⁴ + 1×10 + 9 = 4080019.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Evaluate each place-value term and add them: 7×10⁵ + 2×10³ + 6×10 + 4 = 702064.",
       "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N03-T-001",

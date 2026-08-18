@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "changed variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "measured variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "controlled variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "hazard is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "repetition is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "changed variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "measured variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "controlled variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "hazard is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "repetition is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Control every relevant condition that could affect the result.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Conduct the trial again and record the new observation.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Fair refers to method, not matching results.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Name the hazard and a specific control.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Control every relevant condition that could affect the result.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Conduct the trial again and record the new observation.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Fair refers to method, not matching results.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Name the hazard and a specific control.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "the brand",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Wipe it promptly and keep people from running through it",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Highlight changed, measured and controlled variables in sample methods and repair missing controls.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Match hazards to proportionate controls and explain why vague instructions such as ‘be careful’ are insufficient.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Trial the method once, identify ambiguity or measurement difficulty and revise before full data collection.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use a relevant observation or measurement, demonstrate “Use planning scaffolds”, and explain the result.",
       "hint": "Choose the action that demonstrates the named skill with observable evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I02-T-001",

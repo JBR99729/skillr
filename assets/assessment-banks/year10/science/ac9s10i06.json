@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "evaluating the strength of a conclusion that can be inferred from a particular data set",
       "hint": "Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "distinguishing between random and systematic errors and how these can affect investigation results",
       "hint": "Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "judging the validity of science-related media reports and how these reports might be interpreted by the public",
       "hint": "Use judging the validity of science-related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "identifying assumptions in methods then examining if further testing or extra variable control is needed",
       "hint": "Use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made",
       "hint": "Use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
       "hint": "Use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "evaluating the strength of a conclusion that can be inferred from a particular data set",
       "hint": "Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "distinguishing between random and systematic errors and how these can affect investigation results",
       "hint": "Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i06-t-001",

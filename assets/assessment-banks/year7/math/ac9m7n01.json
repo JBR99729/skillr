@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A square's area is side × side, so 6 × 6 = 36 square metres.",
       "hint": "Use the same side length twice, not side plus side."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A square's area is side × side, so 8 × 8 = 64 square metres.",
       "hint": "Use the same side length twice, not side plus side."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A square's area is side × side, so 11 × 11 = 121 square metres.",
       "hint": "Use the same side length twice, not side plus side."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "A square's area is side × side, so 14 × 14 = 196 square metres.",
       "hint": "Use the same side length twice, not side plus side."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "The side length is √49 = 7 centimetres because 7² = 49.",
       "hint": "Find the positive number that multiplies by itself to make the area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "The side length is √81 = 9 centimetres because 9² = 81.",
       "hint": "Find the positive number that multiplies by itself to make the area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "The side length is √144 = 12 centimetres because 12² = 144.",
       "hint": "Find the positive number that multiplies by itself to make the area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "The side length is √225 = 15 centimetres because 15² = 225.",
       "hint": "Find the positive number that multiplies by itself to make the area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "5² = 25 and 6² = 36, so √30 lies between 5 and 6.",
       "hint": "Bracket 30 between two neighbouring perfect squares."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "8² = 64 and 9² = 81, so √70 lies between 8 and 9.",
       "hint": "Bracket 70 between two neighbouring perfect squares."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-011",
@@ -371,7 +394,9 @@
     "explanation": {
       "summary": "10² = 100 and 11² = 121, so √110 lies between 10 and 11.",
       "hint": "Bracket 110 between two neighbouring perfect squares."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-012",
@@ -405,7 +430,9 @@
     "explanation": {
       "summary": "13² = 169 and 14² = 196, so √170 lies between 13 and 14.",
       "hint": "Bracket 170 between two neighbouring perfect squares."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-013",
@@ -439,7 +466,9 @@
     "explanation": {
       "summary": "These are consecutive perfect squares, so the next term is 36.",
       "hint": "Write each term as n² and increase n by one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-014",
@@ -473,7 +502,9 @@
     "explanation": {
       "summary": "These are consecutive perfect squares, so the next term is 81.",
       "hint": "Write each term as n² and increase n by one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-015",
@@ -507,7 +538,9 @@
     "explanation": {
       "summary": "These are consecutive perfect squares, so the next term is 144.",
       "hint": "Write each term as n² and increase n by one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-016",
@@ -541,7 +574,10 @@
     "explanation": {
       "summary": "18² = 324, exactly the square of 18.",
       "hint": "Square the stated number before comparing nearby square numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-017",
@@ -575,7 +611,10 @@
     "explanation": {
       "summary": "27² = 729, exactly the square of 27.",
       "hint": "Square the stated number before comparing nearby square numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-018",
@@ -609,7 +648,10 @@
     "explanation": {
       "summary": "42² = 1764, exactly the square of 42.",
       "hint": "Square the stated number before comparing nearby square numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-019",
@@ -643,7 +685,9 @@
     "explanation": {
       "summary": "A square root is a number that multiplies by itself to make the original number.",
       "hint": "Test each proposed root by squaring it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-020",
@@ -677,7 +721,9 @@
     "explanation": {
       "summary": "Squaring 13 means 13 × 13, not 13 × 2.",
       "hint": "Translate the exponent 2 into repeated multiplication."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-021",
@@ -711,7 +757,10 @@
     "explanation": {
       "summary": "Since 19 = 20 − 1, (20 − 1)² = 20² − 2 × 20 + 1.",
       "hint": "Use (a − b)² = a² − 2ab + b²."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-022",
@@ -745,7 +794,10 @@
     "explanation": {
       "summary": "The square of a sum includes two equal 20-by-3 rectangles: (20 + 3)² = 20² + 2 × 20 × 3 + 3².",
       "hint": "Account for all four regions in the area model."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Doubling both dimensions multiplies area by 2² = 4, so 196 × 4 = 784 cm².",
       "hint": "Area changes by the square of the scale factor."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "11² = 121, which lies between 120 and 130; 10² = 100 and 12² = 144 do not.",
       "hint": "Square each possible side length and check the interval."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-T-001",

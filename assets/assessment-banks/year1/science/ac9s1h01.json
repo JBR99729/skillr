@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The leaves are drooping. describes something that can be noticed or measured.",
       "hint": "Choose what the person can see, hear, feel safely or measure."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A ruler is suited to measuring plant height.",
       "hint": "Match the tool to the thing being measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Plant height can be checked using evidence.",
       "hint": "Look for the feature that can be counted or measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Do the tomato plants grow taller each week? can be explored using observations or measurements.",
       "hint": "Choose a question that can be checked with evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
       "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Records help people compare evidence and remember what happened.",
       "hint": "Think about why dates, numbers, drawings and notes are useful."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "The soil dried quickly on three sunny days. reports a repeated observation rather than an opinion.",
       "hint": "Choose the statement that tells what was actually observed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Science supports everyday decisions with evidence.",
       "hint": "Look for the choice that uses careful checking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "The soup is bubbling. describes something that can be noticed or measured.",
       "hint": "Choose what the person can see, hear, feel safely or measure."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "A timer is suited to measuring heating time.",
       "hint": "Match the tool to the thing being measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "Heating time can be checked using evidence.",
       "hint": "Look for the feature that can be counted or measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1H01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "How long does the soup take to heat? can be explored using observations or measurements.",
       "hint": "Choose a question that can be checked with evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
       "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Records help people compare evidence and remember what happened.",
       "hint": "Think about why dates, numbers, drawings and notes are useful."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The soup bubbled after 6 minutes in three trials. reports a repeated observation rather than an opinion.",
       "hint": "Choose the statement that tells what was actually observed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Science supports everyday decisions with evidence.",
       "hint": "Look for the choice that uses careful checking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The thermometer shows 37 degrees Celsius. describes something that can be noticed or measured.",
       "hint": "Choose what the person can see, hear, feel safely or measure."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A thermometer is suited to measuring temperature.",
       "hint": "Match the tool to the thing being measured."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Temperature can be checked using evidence.",
       "hint": "Look for the feature that can be counted or measured."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "What temperature does the thermometer show? can be explored using observations or measurements.",
       "hint": "Choose a question that can be checked with evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
       "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Records help people compare evidence and remember what happened.",
       "hint": "Think about why dates, numbers, drawings and notes are useful."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The reading stayed the same for three checks. reports a repeated observation rather than an opinion.",
       "hint": "Choose the statement that tells what was actually observed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Science supports everyday decisions with evidence.",
       "hint": "Look for the choice that uses careful checking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1H01-T-001",

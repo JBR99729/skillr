@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The command urges riders to take a safety action.",
       "hint": "Ask what the poster wants its audience to do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Ask what the poster wants its audience to do. The command urges riders to take a safety action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "The heading, facts and labels provide information about frog habitats.",
       "hint": "Use the text features as evidence for its purpose."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Use the text features as evidence for its purpose. The heading, facts and labels provide information about frog habitats.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "The invented character and magical event signal an imaginative purpose.",
       "hint": "Look for story clues that could not be a factual explanation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Look for story clues that could not be a factual explanation. The invented character and magical event signal an imaginative purpose.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The product and wording address families who need a child-friendly lunch box.",
       "hint": "Ask who would use or choose the advertised item."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Ask who would use or choose the advertised item. The product and wording address families who need a child-friendly lunch box.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The accurate, familiar wording informs young zoo visitors clearly.",
       "hint": "Match the vocabulary to young readers and an informative purpose."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Match the vocabulary to young readers and an informative purpose. The accurate, familiar wording informs young zoo visitors clearly.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Topic tells what texts are about; story and care guide show different purposes.",
       "hint": "Separate the subject matter from what each text is designed to do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Separate the subject matter from what each text is designed to do. Topic tells what texts are about; story and care guide show different purposes.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The line directly invites families and gives positive reasons to act.",
       "hint": "Choose wording that encourages the intended audience."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose wording that encourages the intended audience. The line directly invites families and gives positive reasons to act.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The simple directions and location beside picture books identify young library users.",
       "hint": "Use the placement and wording to infer who needs the message."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Use the placement and wording to infer who needs the message. The simple directions and location beside picture books identify young library users.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Ingredients and ordered steps are features of an instructional recipe.",
       "hint": "Ask what a reader can do by following the page."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Ask what a reader can do by following the page. Ingredients and ordered steps are features of an instructional recipe.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The language, setting and characters are designed to connect with primary-school readers.",
       "hint": "Combine clues from vocabulary, content and design."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Combine clues from vocabulary, content and design. The language, setting and characters are designed to connect with primary-school readers.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The explanation and examples provide factual information in audio form.",
       "hint": "Use what the speaker explains and demonstrates as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use what the speaker explains and demonstrates as evidence. The explanation and examples provide factual information in audio form.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Both share a topic but adjust vocabulary and detail for different audiences.",
       "hint": "Compare who will use each text and what each group needs."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Compare who will use each text and what each group needs. Both share a topic but adjust vocabulary and detail for different audiences.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY03-T-001",

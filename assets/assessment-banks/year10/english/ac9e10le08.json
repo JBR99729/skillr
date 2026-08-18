@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "experimenting with the aesthetic features that authors use in their own texts",
       "hint": "A writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences",
       "hint": "A writer or speaker can use representation to shape creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "creating and editing a suite of short texts that focus on a key idea expressed in different voices",
       "hint": "A writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices",
       "hint": "A writer or speaker can use reader response to shape describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "experimenting with the aesthetic features that authors use in their own texts",
       "hint": "A writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences",
       "hint": "A writer or speaker can use representation to shape creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "creating and editing a suite of short texts that focus on a key idea expressed in different voices",
       "hint": "A writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices",
       "hint": "A writer or speaker can use reader response to shape describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10le08-t-001",

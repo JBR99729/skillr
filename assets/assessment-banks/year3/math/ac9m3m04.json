@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The long hand shows 7 minutes past 2, so the time is 2:07.",
       "hint": "Read the minute hand, then check which hour has just passed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "2:07 means 7 minutes have passed since 2 o'clock.",
       "hint": "Digits after the colon show minutes past the hour."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The minute digits are 07, so the long hand marks minute 7.",
       "hint": "Count minute marks clockwise from 12."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The hour hand moves gradually from 2 toward 3 as minutes pass.",
       "hint": "It should not stay exactly on the hour after minutes have passed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Count forward 6 minutes from 2:07.",
       "hint": "Move one minute mark at a time and regroup at 60."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Count back 5 minutes from 2:07.",
       "hint": "Move anticlockwise across the hour if needed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Digital time writes hour before the colon and minutes after it.",
       "hint": "Label the two sides of the colon."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The hour hand moves continuously, so after 7 minutes it is between 2 and 3.",
       "hint": "Use the fraction of the hour that has passed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "The long hand shows 23 minutes past 3, so the time is 3:23.",
       "hint": "Read the minute hand, then check which hour has just passed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "3:23 means 23 minutes have passed since 3 o'clock.",
       "hint": "Digits after the colon show minutes past the hour."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The minute digits are 23, so the long hand marks minute 23.",
       "hint": "Count minute marks clockwise from 12."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The hour hand moves gradually from 3 toward 4 as minutes pass.",
       "hint": "It should not stay exactly on the hour after minutes have passed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Count forward 6 minutes from 3:23.",
       "hint": "Move one minute mark at a time and regroup at 60."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Count back 5 minutes from 3:23.",
       "hint": "Move anticlockwise across the hour if needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Digital time writes hour before the colon and minutes after it.",
       "hint": "Label the two sides of the colon."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The hour hand moves continuously, so after 23 minutes it is between 3 and 4.",
       "hint": "Use the fraction of the hour that has passed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The long hand shows 38 minutes past 4, so the time is 4:38.",
       "hint": "Read the minute hand, then check which hour has just passed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "4:38 means 38 minutes have passed since 4 o'clock.",
       "hint": "Digits after the colon show minutes past the hour."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The minute digits are 38, so the long hand marks minute 38.",
       "hint": "Count minute marks clockwise from 12."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The hour hand moves gradually from 4 toward 5 as minutes pass.",
       "hint": "It should not stay exactly on the hour after minutes have passed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Count forward 6 minutes from 4:38.",
       "hint": "Move one minute mark at a time and regroup at 60."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Count back 5 minutes from 4:38.",
       "hint": "Move anticlockwise across the hour if needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Digital time writes hour before the colon and minutes after it.",
       "hint": "Label the two sides of the colon."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The hour hand moves continuously, so after 38 minutes it is between 4 and 5.",
       "hint": "Use the fraction of the hour that has passed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M04-T-001",

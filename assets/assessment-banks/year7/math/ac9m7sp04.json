@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
       "hint": "The output becomes ambiguous."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
       "hint": "Specify which object is transformed each iteration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
       "hint": "Define count or geometric condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
       "hint": "Trace representative points."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp04-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
       "hint": "The output becomes ambiguous."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp04-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
       "hint": "Specify which object is transformed each iteration."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp04-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
       "hint": "Define count or geometric condition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp04-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
       "hint": "Trace representative points."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp04-t-001",

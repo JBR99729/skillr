@@ -26,7 +26,10 @@
     "explanation": {
       "summary": "The task calls for scanning and confirming.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-002",
@@ -55,7 +58,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses scanning and confirming for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-003",
@@ -84,7 +90,10 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-004",
@@ -113,7 +122,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-005",
@@ -142,7 +153,9 @@
     "explanation": {
       "summary": "The task calls for skimming.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-006",
@@ -171,7 +184,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses skimming for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-007",
@@ -200,7 +216,9 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-008",
@@ -229,7 +247,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-009",
@@ -258,7 +278,9 @@
     "explanation": {
       "summary": "The task calls for close procedural reading.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-010",
@@ -287,7 +309,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses close procedural reading for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-011",
@@ -316,7 +341,9 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-012",
@@ -345,7 +372,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-013",
@@ -374,7 +403,9 @@
     "explanation": {
       "summary": "The task calls for evidence comparison.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-014",
@@ -403,7 +434,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses evidence comparison for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-015",
@@ -432,7 +466,9 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-016",
@@ -461,7 +497,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-017",
@@ -490,7 +528,9 @@
     "explanation": {
       "summary": "The task calls for navigation and context confirmation.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-018",
@@ -519,7 +559,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses navigation and context confirmation for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-019",
@@ -548,7 +591,9 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-020",
@@ -577,7 +622,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-021",
@@ -606,7 +653,9 @@
     "explanation": {
       "summary": "The task calls for close multimodal reading.",
       "hint": "Let the information need decide where to navigate and how closely to read."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-022",
@@ -635,7 +684,10 @@
     "explanation": {
       "summary": "The pathway deliberately uses close multimodal reading for the stated purpose.",
       "hint": "Name what the reader is doing, including any final confirmation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly04-p-023",
@@ -664,7 +716,9 @@
     "explanation": {
       "summary": "A keyword locates a candidate; context confirms it.",
       "hint": "Check the heading, sentence, label, date or unit around the match."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-p-024",
@@ -693,7 +747,9 @@
     "explanation": {
       "summary": "Efficient readers vary navigation and reading depth according to purpose.",
       "hint": "Explain how the pathway saves time while preserving accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly04-t-001",

@@ -26,7 +26,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-002",
@@ -55,7 +57,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-003",
@@ -89,7 +94,10 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-004",
@@ -118,7 +126,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-005",
@@ -147,7 +157,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-006",
@@ -176,7 +188,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-007",
@@ -210,7 +225,10 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-008",
@@ -239,7 +257,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-009",
@@ -268,7 +288,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-010",
@@ -297,7 +319,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-011",
@@ -331,7 +356,9 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-012",
@@ -360,7 +387,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-013",
@@ -389,7 +418,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-014",
@@ -418,7 +449,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-015",
@@ -452,7 +486,9 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-016",
@@ -481,7 +517,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-017",
@@ -510,7 +548,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-018",
@@ -539,7 +579,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-019",
@@ -573,7 +616,9 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-020",
@@ -602,7 +647,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-021",
@@ -631,7 +678,9 @@
     "explanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
       "hint": "Plan what each paragraph must achieve before drafting sentences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-022",
@@ -660,7 +709,10 @@
     "explanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
       "hint": "Choose a verb group that fits both meaning and tense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly06-p-023",
@@ -694,7 +746,9 @@
     "explanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
       "hint": "Ask whether the visual has a clear job beyond decoration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-p-024",
@@ -723,7 +777,9 @@
     "explanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
       "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly06-t-001",

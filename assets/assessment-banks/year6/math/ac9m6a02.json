@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "brackets means symbols grouping an expression as one unit.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "inverse operation means operation that reverses another.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "substitution means replacing the unknown with a proposed value.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Undo the outer operation first.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Treat the grouped expression as one quantity.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "20 − x is not x − 20.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Substitute into the original.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "The representation connects Undo ×4 with □ + 7 = 25.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The representation connects Undo +7 with □ = 18.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "The representation connects Substitute with 4(18 + 7) = 100.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-011",
@@ -371,7 +394,9 @@
     "explanation": {
       "summary": "The representation connects Confirm with both sides equal.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-012",
@@ -405,7 +430,9 @@
     "explanation": {
       "summary": "The representation connects 3□ + 5□ = 96 with combine like multiplicative groups: 8□ = 96.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-013",
@@ -439,7 +466,9 @@
     "explanation": {
       "summary": "The representation connects 5(20 − □) = 35 with divide, then solve 20 − □ = 7.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-014",
@@ -473,7 +502,9 @@
     "explanation": {
       "summary": "The representation connects (□ + 8) ÷ 4 = 9 with multiply by 4, then subtract 8.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-015",
@@ -507,7 +538,10 @@
     "explanation": {
       "summary": "18 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-016",
@@ -541,7 +575,10 @@
     "explanation": {
       "summary": "28 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-017",
@@ -575,7 +612,10 @@
     "explanation": {
       "summary": "brackets means symbols grouping an expression as one unit.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-018",
@@ -609,7 +649,10 @@
     "explanation": {
       "summary": "inverse operation means operation that reverses another.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "substitution means replacing the unknown with a proposed value.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6a02-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Undo the outer operation first.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Treat the grouped expression as one quantity.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "20 − x is not x − 20.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Substitute into the original.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The representation connects Undo ×4 with □ + 7 = 25.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6a02-t-001",

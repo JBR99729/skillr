@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Technical vocabulary names ideas precisely within a field.",
       "hint": "Choose the word a subject expert would use."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Context helps readers select the relevant meaning of a technical word.",
       "hint": "Use the subject and surrounding idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Precision, not word length, makes technical vocabulary useful.",
       "hint": "Ask which word identifies the concept accurately."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Definitions and surrounding information support word meaning.",
       "hint": "Look for a clue that explains the idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "Context determines which meaning is intended.",
       "hint": "Read around the word before choosing a meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-006",
@@ -201,7 +212,10 @@
     "explanation": {
       "summary": "Precise usage fits the word's field-specific meaning.",
       "hint": "Check whether the sentence matches the definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-007",
@@ -235,7 +249,10 @@
     "explanation": {
       "summary": "A glossary-style note gives a clear contextual definition.",
       "hint": "Choose the note that is specific and accurate."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "Vague wording can weaken a subject explanation.",
       "hint": "Compare how exactly each phrase names the concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-009",
@@ -303,7 +322,10 @@
     "explanation": {
       "summary": "Technical vocabulary names ideas precisely within a field.",
       "hint": "Choose the word a subject expert would use."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "Context helps readers select the relevant meaning of a technical word.",
       "hint": "Use the subject and surrounding idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "Precision, not word length, makes technical vocabulary useful.",
       "hint": "Ask which word identifies the concept accurately."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "Definitions and surrounding information support word meaning.",
       "hint": "Look for a clue that explains the idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "Context determines which meaning is intended.",
       "hint": "Read around the word before choosing a meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-014",
@@ -473,7 +503,10 @@
     "explanation": {
       "summary": "Precise usage fits the word's field-specific meaning.",
       "hint": "Check whether the sentence matches the definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-015",
@@ -507,7 +540,10 @@
     "explanation": {
       "summary": "A glossary-style note gives a clear contextual definition.",
       "hint": "Choose the note that is specific and accurate."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Vague wording can weaken a subject explanation.",
       "hint": "Compare how exactly each phrase names the concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "Technical vocabulary names ideas precisely within a field.",
       "hint": "Choose the word a subject expert would use."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Context helps readers select the relevant meaning of a technical word.",
       "hint": "Use the subject and surrounding idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "Precision, not word length, makes technical vocabulary useful.",
       "hint": "Ask which word identifies the concept accurately."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Definitions and surrounding information support word meaning.",
       "hint": "Look for a clue that explains the idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Context determines which meaning is intended.",
       "hint": "Read around the word before choosing a meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-022",
@@ -745,7 +794,10 @@
     "explanation": {
       "summary": "Precise usage fits the word's field-specific meaning.",
       "hint": "Check whether the sentence matches the definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA10-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A glossary-style note gives a clear contextual definition.",
       "hint": "Choose the note that is specific and accurate."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Vague wording can weaken a subject explanation.",
       "hint": "Compare how exactly each phrase names the concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA10-T-001",

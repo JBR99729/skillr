@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
       "hint": "Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
       "hint": "graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
       "hint": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
       "hint": "graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution",
       "hint": "Solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution",
       "hint": "Solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
       "hint": "Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
       "hint": "graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a02-t-001",

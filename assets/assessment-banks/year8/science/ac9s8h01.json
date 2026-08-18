@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A pattern can motivate an explanation, but acceptance requires evidence for how the process occurs.",
       "hint": "Separate an interesting pattern from evidence for a mechanism."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Magnetic stripes record reversals as new seafloor forms and spreads from ridges.",
       "hint": "Use the symmetry and the location of the youngest crust."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "New technology can reveal evidence, but reliability still requires checks and replication.",
       "hint": "A stronger tool improves detection, not automatic certainty."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A useful revision accounts for the full reliable evidence set, not only the newest result.",
       "hint": "The replacement must explain old and new findings."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "Improved instruments can extend observations and expose limits in earlier models.",
       "hint": "Focus on what became observable."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "An anomaly deserves investigation, but one unchecked result is weak grounds for major revision.",
       "hint": "Check reliability before judging significance."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Explanatory range and successful testable predictions strengthen a scientific model.",
       "hint": "Judge performance against evidence, not age or style."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Scientific knowledge often develops through connected contributions rather than a lone event.",
       "hint": "Trace where the evidence came from."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Persistent mismatches can identify model limits and guide testable revisions.",
       "hint": "Use the mismatch as evidence about what the model may omit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Tests that yield different predictions can discriminate between competing explanations.",
       "hint": "Look for evidence that the explanations expect to differ."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "It supported a former land connection because the animal could not cross a wide ocean",
       "hint": "Consider the organism and the distance it could travel."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "One plate descends beneath another, producing deepening earthquakes",
       "hint": "Relate earthquake depth to a descending plate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Seafloor is created at ridges and moves outward",
       "hint": "Follow the age pattern away from the ridge."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "It directly measures motion predicted by plate tectonics",
       "hint": "Compare the measurement with a model prediction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "They support heritable resistance rather than individual bacteria choosing to adapt",
       "hint": "Trace which organisms survive and reproduce."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The repeated controlled pattern links transmission reduction to hygiene",
       "hint": "Look for replicated comparative evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Revise the model's water distribution after checking the probe data",
       "hint": "Change only the part challenged by reliable evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Molecular evidence revealed ancestry not obvious from outward form",
       "hint": "Focus on evidence of shared ancestry."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Dating reliability and whether the evolutionary timeline needs extension",
       "hint": "Verify the date, then assess the timeline."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Repeated tracks can support a previously unrecognised oppositely charged particle",
       "hint": "Ask what repeatable new entity explains the track."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Agreement between independent methods strengthens the age estimate",
       "hint": "Independent agreement matters, but uncertainty remains."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Confidence should decrease while methods and possible differences are investigated",
       "hint": "Distinguish reduced confidence from proof of misconduct."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A larger sample can reveal a real pattern hidden by random variation",
       "hint": "Consider precision as well as bias."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "It exposes large-scale structures needed to test geological explanations",
       "hint": "Separate detecting a feature from causing it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H01-T-001",

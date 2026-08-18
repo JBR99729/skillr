@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "4 and 5 make 9.",
       "hint": "Start with 4 and count on 5."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "9 has parts 4 and 5, so 9 − 4 = 5.",
       "hint": "Think: 4 plus what makes 9?"
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The same whole and parts make 9 − 4 = 5.",
       "hint": "The largest number is the whole. Start subtraction with it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "8 needs 2 to make 10. Add the rest to get 12.",
       "hint": "Move 2 from 4 to make 10 first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "4 + 5 is one more than the double 4 + 4.",
       "hint": "Use the double, then add one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "The related addition fact is 5 + 4 = 9.",
       "hint": "Use the same two parts and whole."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The shells join, so 4 + 5 = 9.",
       "hint": "The word “more” tells you to join the groups."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The birds leave, so 12 − 5 = 7.",
       "hint": "Start with all the birds and take away the ones that flew away."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "5 and 6 make 11.",
       "hint": "Start with 5 and count on 6."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "11 has parts 5 and 6, so 11 − 5 = 6.",
       "hint": "Think: 5 plus what makes 11?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The same whole and parts make 11 − 5 = 6.",
       "hint": "The largest number is the whole. Start subtraction with it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "9 needs 1 to make 10. Add the rest to get 14.",
       "hint": "Move 1 from 5 to make 10 first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "5 + 6 is one more than the double 5 + 5.",
       "hint": "Use the double, then add one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The related addition fact is 6 + 5 = 11.",
       "hint": "Use the same two parts and whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The shells join, so 5 + 6 = 11.",
       "hint": "The word “more” tells you to join the groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The birds leave, so 14 − 6 = 8.",
       "hint": "Start with all the birds and take away the ones that flew away."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "6 and 7 make 13.",
       "hint": "Start with 6 and count on 7."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "13 has parts 6 and 7, so 13 − 6 = 7.",
       "hint": "Think: 6 plus what makes 13?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The same whole and parts make 13 − 6 = 7.",
       "hint": "The largest number is the whole. Start subtraction with it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "8 needs 2 to make 10. Add the rest to get 14.",
       "hint": "Move 2 from 6 to make 10 first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "6 + 7 is one more than the double 6 + 6.",
       "hint": "Use the double, then add one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The related addition fact is 7 + 6 = 13.",
       "hint": "Use the same two parts and whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The shells join, so 6 + 7 = 13.",
       "hint": "The word “more” tells you to join the groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The birds leave, so 16 − 7 = 9.",
       "hint": "Start with all the birds and take away the ones that flew away."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A02-T-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
       "hint": "Separate the predictable parts from the tricky spelling part."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Separate the predictable parts from the tricky spelling part. Said has useful sound clues plus an unusual ai spelling that must be remembered.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Was is a high-frequency word with a less predictable vowel spelling.",
       "hint": "Keep the sounds you can map and practise the remembered letter pattern."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Keep the sounds you can map and practise the remembered letter pattern. Was is a high-frequency word with a less predictable vowel spelling.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "They uses the less common ey pattern for the long a sound.",
       "hint": "Recall the whole familiar word and check its ending letters."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Recall the whole familiar word and check its ending letters. They uses the less common ey pattern for the long a sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-007",
@@ -235,7 +248,10 @@
     "explanation": {
       "summary": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
       "hint": "Find the word containing the complete base and requested suffix."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "Find the word containing the complete base and requested suffix. Helpful keeps the meaningful base help and adds ful, meaning full of.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-009",
@@ -303,7 +321,10 @@
     "explanation": {
       "summary": "Jumping keeps the base jump and adds the suffix ing.",
       "hint": "Remove the ending ing and check the meaningful word that remains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "Remove the ending ing and check the meaningful word that remains. Jumping keeps the base jump and adds the suffix ing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-011",
@@ -371,7 +394,10 @@
     "explanation": {
       "summary": "Played keeps the base play and adds the past-tense suffix ed.",
       "hint": "Use the familiar base word before adding the ending."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "Use the familiar base word before adding the ending. Played keeps the base play and adds the past-tense suffix ed.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
       "hint": "Practise retrieving the whole word and then compare it with the model."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "Practise retrieving the whole word and then compare it with the model. Focused recall and checking strengthen memory for the less predictable ie spelling.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-015",
@@ -507,7 +539,9 @@
     "explanation": {
       "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
       "hint": "Compare the known written word with the sound-based attempt."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-016",
@@ -541,7 +575,9 @@
     "explanation": {
       "summary": "Compare the known written word with the sound-based attempt. Come contains an o and final e that are not fully predictable from the spoken sounds.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-017",
@@ -575,7 +611,10 @@
     "explanation": {
       "summary": "Light and night share the ight pattern and its long i sound.",
       "hint": "Look for the same meaningful sound-letter pattern, not just one letter."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-018",
@@ -609,7 +648,9 @@
     "explanation": {
       "summary": "Look for the same meaningful sound-letter pattern, not just one letter. Light and night share the ight pattern and its long i sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-019",
@@ -643,7 +684,10 @@
     "explanation": {
       "summary": "Looked keeps the familiar base look and adds the suffix ed.",
       "hint": "Write the known base first, then add the ending."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-020",
@@ -677,7 +721,9 @@
     "explanation": {
       "summary": "Write the known base first, then add the ending. Looked keeps the familiar base look and adds the suffix ed.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-021",
@@ -711,7 +757,10 @@
     "explanation": {
       "summary": "One is a high-frequency word with a spelling that must be remembered beyond sound alone.",
       "hint": "Use the meaning single and recall the familiar written word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Use the meaning single and recall the familiar written word. One is a high-frequency word with a spelling that must be remembered beyond sound alone.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-P-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "Replay keeps the base play and adds the prefix re.",
       "hint": "Write both meaningful parts in their familiar forms."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY11-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Write both meaningful parts in their familiar forms. Replay keeps the base play and adds the prefix re.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY11-T-001",

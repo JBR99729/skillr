@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A combined response may be preferred when prevention, adaptation and monitoring address different parts of the problem",
       "hint": "Compare all relevant criteria."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "A response can be scientifically plausible but socially unacceptable, impractical or environmentally harmful. Criteria and trade-offs should be explicit.",
       "hint": "Quantify or explain it and manage risk."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Use current evidence carefully and date time-sensitive claims. Avoid presenting uncertainty as ignorance or certainty as proof of no risk.",
       "hint": "Identify who experiences them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A scientific response should be evaluated for mechanism and evidence, but decisions also require feasibility, uncertainty, distribution of impacts and ethical values.",
       "hint": "Consider production, operation and disposal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A combined response may be preferred when prevention, adaptation and monitoring address different parts of the problem",
       "hint": "Compare all relevant criteria."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "A response can be scientifically plausible but socially unacceptable, impractical or environmentally harmful. Criteria and trade-offs should be explicit.",
       "hint": "Quantify or explain it and manage risk."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Use current evidence carefully and date time-sensitive claims. Avoid presenting uncertainty as ignorance or certainty as proof of no risk.",
       "hint": "Identify who experiences them."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7h03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A scientific response should be evaluated for mechanism and evidence, but decisions also require feasibility, uncertainty, distribution of impacts and ethical values.",
       "hint": "Consider production, operation and disposal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7h03-t-001",

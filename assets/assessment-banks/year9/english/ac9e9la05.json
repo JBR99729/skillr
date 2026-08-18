@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e9la05-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "identifying the effects of using an interrupting clause inside another clause; for example, “His friend, who had left home the previous year, suddenly returned.”, intentionally using a dependent clause on its own; for example, “If you see what I mean.” or using a sentence fragment; for example, “Breathtaking!”",
       "hint": "A writer or speaker can use word choice to shape identifying the effects of using an interrupting clause inside another clause and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9la05-t-001",

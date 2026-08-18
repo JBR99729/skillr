@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Yes; Birds names who/what and sing tells what they do This matches the task.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Add the person, place or thing doing the action.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls This matches the task.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "'The silver fish swims quickly.' with complete meaning This matches the task.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Look for complete idea and check the whole example.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "'A rabbit waits beside the tall tree.' This matches the task.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can use boundary punctuation.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "The bird sings softly. This matches the task.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA06-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing words into a grammatical simple sentence.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Drawing matches one event; puppy labelled who/what and carries sock labelled action This matches the task.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Start with a capital and end with punctuation.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Bell rang; children ran This matches the task.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "'Mina waters the plant.' with subject and verb, capital and full stop This matches the task.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for full stop and check the whole example.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Because signals that another idea is needed; the clause does not complete the relationship by itself This matches the task.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can use boundary punctuation.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each subject matches a grammatical meaningful predicate This matches the task.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Forming complete simple sentences.",
       "hint": "Add the person, place or thing doing the action."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The sleepy cat rests after lunch. This matches the task.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Keep one clear event or idea.",
       "hint": "Keep one clear event or idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "'The train stopped.' or another one-event train clause This matches the task.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
       "hint": "Start with a capital and end with punctuation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA06-T-001",

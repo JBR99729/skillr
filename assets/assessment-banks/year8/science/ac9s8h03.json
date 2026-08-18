@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A response is equitable only if access and capacity to benefit are considered.",
       "hint": "Identify who may miss the benefit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Health responses involve evidence plus economic and ethical questions about access and allocation.",
       "hint": "Consider benefits, costs and who can receive them."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Organoids may reduce animal use while model limitations still affect decisions.",
       "hint": "Balance the ethical benefit with scientific validity."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Contemporary responses require environmental, social, cultural, ethical and economic evaluation.",
       "hint": "Map consequences beyond technical feasibility."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A justified response compares intended benefits, unintended impacts and alternatives.",
       "hint": "Measure both the target outcome and collateral effects."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Life-cycle evidence reveals trade-offs that a single stage can hide.",
       "hint": "Follow the technology from materials to end of life."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Access, control and affordability affect whether benefits are distributed fairly.",
       "hint": "Ask who can actually act on the proposal."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Proportionate safeguards can manage uncertainty while evidence develops.",
       "hint": "Avoid treating uncertainty as either zero risk or a reason to stop all inquiry."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Responses can shift risks between stakeholders and ecosystems rather than remove them.",
       "hint": "Trace where the energy and sediment go next."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Science informs consequences, while communities still make value-based trade-offs.",
       "hint": "Separate measured outcomes from how outcomes are prioritised."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Water reliability, energy emissions, cost and ecological effects of brine",
       "hint": "Evaluate connected consequences."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Who faces greatest risk and how access can be made fair",
       "hint": "Consider need, benefit and equity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Compare energy benefit with ecosystem evidence and mitigation such as fish passages",
       "hint": "Seek evidence and feasible mitigation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Safety evidence, accountability, programmed values and effects on different road users",
       "hint": "Technical and ethical questions interact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Leak risk, monitoring plans, benefits, uncertainty and community concerns",
       "hint": "Assess risk and affected stakeholders."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The disposal system does not match the conditions required for decomposition",
       "hint": "Follow actual disposal conditions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Fish recovery, ecosystem effects and impacts on fishing livelihoods",
       "hint": "Measure environmental and social results."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Accuracy and bias may differ for the local population",
       "hint": "Check performance for intended users."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Shade, habitat and stormwater benefits lost with the trees",
       "hint": "Compare multiple ecosystem services."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Field data on yield, exposure, pollinator harm and alternative controls",
       "hint": "Quantify benefit, harm and alternatives."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Reliable access to devices, connectivity, privacy and follow-up care",
       "hint": "Ask who can use the service."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "How costs and protection benefits are distributed",
       "hint": "Compare who pays with who benefits."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Its net impact depends on production energy and other life-cycle measures",
       "hint": "Avoid single-factor conclusions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Effectiveness, ecological effects, reversibility and community acceptance",
       "hint": "Consider evidence and governance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H03-T-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "The prediction was “The car will travel farther on carpet.” The result was “The car travelled farther on tile.” They did not match.",
       "hint": "Read the prediction and result separately, then compare them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "The car travelled farther on tile. states what happened, not what was expected.",
       "hint": "The result comes from observation or measurement after the test."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Keeping the same car and start line the same makes the comparison fairer.",
       "hint": "Change only the feature being investigated."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Repeats help reveal whether a result happens consistently or varies.",
       "hint": "Record every repeat, including surprising results."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "All six measured distances gives the complete evidence set.",
       "hint": "Use all relevant recorded observations, not only one convenient result."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Both matches and mismatches help build better scientific ideas.",
       "hint": "Keep the original prediction and the real result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-007",
@@ -235,7 +251,9 @@
     "explanation": {
       "summary": "The car will travel farther on carpet. states the expected outcome before testing.",
       "hint": "Predictions are made before the evidence is collected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "A mismatch can reveal something new and guide another investigation.",
       "hint": "Science learns from actual evidence, not only correct guesses."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "The prediction was “The ice in the sun will melt first.” The result was “The ice in the sun melted first.” They matched.",
       "hint": "Read the prediction and result separately, then compare them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "The ice in the sun melted first. states what happened, not what was expected.",
       "hint": "The result comes from observation or measurement after the test."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-011",
@@ -371,7 +396,10 @@
     "explanation": {
       "summary": "Keeping equal ice cubes and the same start time the same makes the comparison fairer.",
       "hint": "Change only the feature being investigated."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Repeats help reveal whether a result happens consistently or varies.",
       "hint": "Record every repeat, including surprising results."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "The melting time for every cube gives the complete evidence set.",
       "hint": "Use all relevant recorded observations, not only one convenient result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Both matches and mismatches help build better scientific ideas.",
       "hint": "Keep the original prediction and the real result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "The ice in the sun will melt first. states the expected outcome before testing.",
       "hint": "Predictions are made before the evidence is collected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "A mismatch can reveal something new and guide another investigation.",
       "hint": "Science learns from actual evidence, not only correct guesses."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-017",
@@ -575,7 +613,9 @@
     "explanation": {
       "summary": "The prediction was “The plant with more light will grow taller.” The result was “The plant with more light was shorter after one week.” They did not match.",
       "hint": "Read the prediction and result separately, then compare them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-018",
@@ -609,7 +649,10 @@
     "explanation": {
       "summary": "The plant with more light was shorter after one week. states what happened, not what was expected.",
       "hint": "The result comes from observation or measurement after the test."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Keeping the plant type, soil, pot and water the same makes the comparison fairer.",
       "hint": "Change only the feature being investigated."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Repeats help reveal whether a result happens consistently or varies.",
       "hint": "Record every repeat, including surprising results."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "All dated height measurements gives the complete evidence set.",
       "hint": "Use all relevant recorded observations, not only one convenient result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Both matches and mismatches help build better scientific ideas.",
       "hint": "Keep the original prediction and the real result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The plant with more light will grow taller. states the expected outcome before testing.",
       "hint": "Predictions are made before the evidence is collected."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A mismatch can reveal something new and guide another investigation.",
       "hint": "Science learns from actual evidence, not only correct guesses."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I05-T-001",

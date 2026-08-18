@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "If P(red)=1/2, expected red in 200 trials is 100",
       "hint": "Inspect sectors, counts or rules."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
       "hint": "Sum elementary outcome probabilities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
       "hint": "Use 1−P(event)."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
       "hint": "Chance variation remains."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "If P(red)=1/2, expected red in 200 trials is 100",
       "hint": "Inspect sectors, counts or rules."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
       "hint": "Sum elementary outcome probabilities."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
       "hint": "Use 1−P(event)."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7p01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
       "hint": "Chance variation remains."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7p01-t-001",

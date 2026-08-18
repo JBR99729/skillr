@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
       "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
       "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
       "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste",
       "hint": "Explore a range of data and its sources."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made",
       "hint": "Analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
       "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
       "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
       "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st01-t-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Word spaces show where one word ends and the next begins.",
       "hint": "Add gaps between words, not inside them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Add gaps between words, not inside them. Word spaces show where one word ends and the next begins.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Consistent placement on the line makes words easier to recognise.",
       "hint": "Check where each letter sits compared with the guide line."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "Check where each letter sits compared with the guide line. Consistent placement on the line makes words easier to recognise.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "Consistent letter size helps the word look clear and balanced.",
       "hint": "Compare letters with similar height and adjust them to match."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Compare letters with similar height and adjust them to match. Consistent letter size helps the word look clear and balanced.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "Closing the round part preserves the recognisable shape of lower-case a.",
       "hint": "Focus on the movement that distinguishes the two letter shapes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Focus on the movement that distinguishes the two letter shapes. Closing the round part preserves the recognisable shape of lower-case a.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The name begins with an upper-case M followed by clear lower-case letters.",
       "hint": "Use a capital at the start of the name and lower-case for the remaining letters."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Use a capital at the start of the name and lower-case for the remaining letters. The name begins with an upper-case M followed by clear lower-case letters.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Brief accurate repetition builds smoother movement without losing legibility.",
       "hint": "Keep clear formation while increasing pace a little at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Keep clear formation while increasing pace a little at a time. Brief accurate repetition builds smoother movement without losing legibility.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "The letter shapes are clear, so the specific next improvement is word spacing.",
       "hint": "Choose the feature shown by the evidence, not an unrelated change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Choose the feature shown by the evidence, not an unrelated change. The letter shapes are clear, so the specific next improvement is word spacing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Consistent tall-letter height helps h and l stay recognisable and balanced.",
       "hint": "Compare letters that belong to the same height group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Compare letters that belong to the same height group. Consistent tall-letter height helps h and l stay recognisable and balanced.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Lower-case g has a main part on the line and a descender below it.",
       "hint": "Check which part sits on the line and which part descends."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Check which part sits on the line and which part descends. Lower-case g has a main part on the line and a descender below it.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
       "hint": "Check the first letter and then the case of the remaining word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Check the first letter and then the case of the remaining word. A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Letters within a word sit closer together than the gap between words.",
       "hint": "Compare letter spacing with word spacing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Compare letter spacing with word spacing. Letters within a word sit closer together than the gap between words.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Short targeted word practice develops the specific related letter movements.",
       "hint": "Choose practice that repeats the exact letters while preserving meaning and spacing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Choose practice that repeats the exact letters while preserving meaning and spacing. Short targeted word practice develops the specific related letter movements.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY08-T-001",

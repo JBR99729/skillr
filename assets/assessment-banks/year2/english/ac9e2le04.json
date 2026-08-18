@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Boat and goat share the same ending sound.",
       "hint": "Say the words aloud and listen to the final sound pattern."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Say the words aloud and listen to the final sound pattern. Boat and goat share the same ending sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Repeating tap creates a clear rhythmic beat.",
       "hint": "Listen for words or syllables that repeat in time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Listen for words or syllables that repeat in time. Repeating tap creates a clear rhythmic beat.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Glows and blows share the same ending sound and complete the rhyme.",
       "hint": "Choose a word that makes sense and rhymes with glows."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Choose a word that makes sense and rhymes with glows. Glows and blows share the same ending sound and complete the rhyme.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-007",
@@ -235,7 +251,9 @@
     "explanation": {
       "summary": "The repeated word strengthens the beat and makes the chant easy to join.",
       "hint": "Think about how repeated words sound in performance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "Think about how repeated words sound in performance. The repeated word strengthens the beat and makes the chant easy to join.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "Two claps followed by one stamp reproduces the given pattern.",
       "hint": "Match the number and order of sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "Match the number and order of sounds. Two claps followed by one stamp reproduces the given pattern.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-011",
@@ -371,7 +396,10 @@
     "explanation": {
       "summary": "Busy, buzzing and bees repeat the /b/ sound.",
       "hint": "Listen to the first sound in each word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Listen to the first sound in each word. Busy, buzzing and bees repeat the /b/ sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Dog and log rhyme, so the sound pattern remains.",
       "hint": "Keep the ending sounds alike."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Keep the ending sounds alike. Dog and log rhyme, so the sound pattern remains.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "The alternating stomp-clap pattern repeats with stomp next.",
       "hint": "Say or tap the pattern from the beginning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Say or tap the pattern from the beginning. The alternating stomp-clap pattern repeats with stomp next.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "Rain and train share the ending sound, forming a rhyming pair.",
       "hint": "Listen to the last word in each line."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Listen to the last word in each line. Rain and train share the ending sound, forming a rhyming pair.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "A line repeated after each verse is a refrain and supports the song pattern.",
       "hint": "Notice where the same line returns."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Notice where the same line returns. A line repeated after each verse is a refrain and supports the song pattern.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Float like a leaf keeps a short action-like-a-noun pattern.",
       "hint": "Speak each option aloud and compare its beat pattern with the model."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Speak each option aloud and compare its beat pattern with the model. Float like a leaf keeps a short action-like-a-noun pattern.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-P-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "Drip and drop copy sounds and repeat in a rhythmic pattern.",
       "hint": "Look for sound words that repeat as a pattern."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Look for sound words that repeat as a pattern. Drip and drop copy sounds and repeat in a rhythmic pattern.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE04-T-001",

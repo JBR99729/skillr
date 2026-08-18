@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
       "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
       "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
       "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
       "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
       "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
       "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n03-p-007",
@@ -256,7 +268,10 @@
     "explanation": {
       "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
       "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m8n03-p-008",
@@ -293,7 +308,10 @@
     "explanation": {
       "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
       "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m8n03-t-001",

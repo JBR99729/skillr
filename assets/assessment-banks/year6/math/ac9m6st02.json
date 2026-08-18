@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "sample means subset observed to learn about a larger population.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "bias means systematic influence producing unrepresentative evidence.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "denominator means total on which a fraction or percentage is based.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Check denominator and sample.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Read axes and labels.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Inspect distribution and outliers.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Causal claims need stronger design and reasoning.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "The representation connects Source with Who conducted and funded it?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "The representation connects Sample with How many, selected how, from where?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "The representation connects Question with Was wording leading?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "The representation connects Display with Are scales and categories complete?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "The representation connects Statistic with Count, percentage, mean, mode?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "The representation connects Conclusion with What is actually supported?.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "The representation connects truncated axis with exaggerates visual difference.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-015",
@@ -507,7 +539,9 @@
     "explanation": {
       "summary": "The representation connects small voluntary sample with selection bias.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-016",
@@ -541,7 +575,9 @@
     "explanation": {
       "summary": "The representation connects percentage without denominator with hides sample size.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-017",
@@ -575,7 +611,9 @@
     "explanation": {
       "summary": "The representation connects average without distribution with hides spread or extremes.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-018",
@@ -609,7 +647,9 @@
     "explanation": {
       "summary": "The representation connects association phrased as cause with overstates evidence.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-019",
@@ -643,7 +683,9 @@
     "explanation": {
       "summary": "The sample size and selection method follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-p-020",
@@ -677,7 +719,10 @@
     "explanation": {
       "summary": "It can exaggerate small differences follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-021",
@@ -711,7 +756,10 @@
     "explanation": {
       "summary": "sample means subset observed to learn about a larger population.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-022",
@@ -745,7 +793,10 @@
     "explanation": {
       "summary": "bias means systematic influence producing unrepresentative evidence.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "denominator means total on which a fraction or percentage is based.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6st02-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Check denominator and sample.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6st02-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Mat This matches the task.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Use sound and pattern knowledge.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each pattern matched correctly This matches the task.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "s-t-o-p in correct order, with st blend retained This matches the task.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for segment and check the whole example.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Pic/nic → picnic This matches the task.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can segment before spelling.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY13-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Say → segment → write → reread/check This matches the task.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a spelling strategy.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "All three words spelled correctly and -op highlighted This matches the task.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Compare with a known word.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "/l/ and letter l are missing from bl This matches the task.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Bed + room = bedroom This matches the task.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for segment and check the whole example.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Cake This matches the task.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can segment before spelling.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning This matches the task.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Recognising initial and final blend spellings.",
       "hint": "Use sound and pattern knowledge."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Rain + bow = rainbow This matches the task.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Clap and spell both parts.",
       "hint": "Clap and spell both parts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Time; i_e represents the long /ī/ sound here This matches the task.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
       "hint": "Compare with a known word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY13-T-001",

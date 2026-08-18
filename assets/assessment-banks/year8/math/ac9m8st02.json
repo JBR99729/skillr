@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
       "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
       "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
       "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
       "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
       "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
       "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
       "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
       "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st02-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
       "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
       "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
       "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
       "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
       "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
       "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
       "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
       "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m01-t-001",

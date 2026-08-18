@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
       "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
       "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
       "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
       "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
       "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
       "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
       "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
       "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-001",

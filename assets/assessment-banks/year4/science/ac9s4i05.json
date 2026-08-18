@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "finding is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "fair test is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "variation is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "conclusion is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "further question is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "finding is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "fair test is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "variation is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "conclusion is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "further question is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Check variation, measurement and method before judging.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Fairness concerns method and controls.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "It should answer the question using evidence.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A useful follow-up isolates a factor suggested by the findings.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Check variation, measurement and method before judging.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Fairness concerns method and controls.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "It should answer the question using evidence.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A useful follow-up isolates a factor suggested by the findings.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Groups release the object from different points",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "In these trials, the rough surface produced shorter distances",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Compare group methods and identify which differences could explain inconsistent findings.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Turn a limitation or unexpected pattern into a focused follow-up question.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
       "hint": "Choose the action that demonstrates the named skill with observable evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I05-T-001",

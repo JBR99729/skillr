@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "They provide a short diffusion distance and maintain concentration gradients",
       "hint": "Link structure to diffusion."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Mucus and trapped particles clear less effectively",
       "hint": "Trace mucus movement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Cardiac muscle cell, cardiac tissue, heart, circulatory system",
       "hint": "Build from one cell to a system."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "It increases surface area for absorbing water and mineral ions",
       "hint": "Use location and resource."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Both are transport tissues specialised for different materials",
       "hint": "Compare transported substances."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Reduced flow can limit oxygen delivery and strain the heart",
       "hint": "Trace flow to organ supply."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "It replaces selected filtering functions but not every kidney role",
       "hint": "State represented function and limitation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Each representation reveals different spatial information",
       "hint": "Compare what each makes visible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Nutrient absorption decreases because surface area is reduced",
       "hint": "Connect villi to surface area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "It depends on lungs for oxygen and vessels for transport",
       "hint": "Trace system dependencies."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "More oxygen reaches respiring muscles and carbon dioxide is removed faster",
       "hint": "Link respiratory and circulatory roles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Brain cells lose oxygen and glucose carried by blood",
       "hint": "Trace transported materials to cells."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Blood can flow backward and pool, especially against gravity",
       "hint": "Use the one-way role of valves."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Materials diffuse over a short distance between blood and tissues",
       "hint": "Relate thickness to exchange."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "It must generate greater pressure to pump blood around the body",
       "hint": "Compare pumping distance and required force."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Heart partitions that reduce mixing between circulation pathways",
       "hint": "Consider separation of blood pathways."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Time available for nutrient absorption",
       "hint": "Match organ with function."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Large food molecules are broken down less effectively",
       "hint": "Trace enzyme action before absorption."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Acid and enzymes can attack cells in the stomach wall",
       "hint": "Identify the protective structure-function link."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Peristalsis moving food through the gut",
       "hint": "Follow the wave of muscle contraction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Water loss falls, but carbon dioxide entry and photosynthesis may also fall",
       "hint": "Consider gases and water using the same openings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Specialised cells regulate an opening that affects whole-leaf gas exchange",
       "hint": "Connect cell action to organ function."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Sugars transported from leaves",
       "hint": "Identify the material moved in phloem."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Water delivery and sugar removal depend on vascular tissues",
       "hint": "Link transport tissues to leaf processes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U02-T-001",

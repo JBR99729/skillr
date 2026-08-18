@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
       "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
       "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
       "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
       "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
       "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
       "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
       "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
       "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n02-t-001",

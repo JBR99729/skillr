@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e9le02-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed",
       "hint": "A writer or speaker can use voice to shape interrogating and making judgements about a text, comparing others’ ideas against the student’s own and reaching an independent decision or consensus about the interpretations and ideas expressed and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le02-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "There are more blue counters, so blue has the greater chance.",
       "hint": "Compare how many of each colour are possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A 9 is not on the cube, so it cannot occur.",
       "hint": "List the possible outcomes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Every available card has a letter.",
       "hint": "Check what is true for every possible outcome."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Each colour covers two equal sections.",
       "hint": "Count equal sections for each outcome."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "An 80% chance is high but not guaranteed.",
       "hint": "Likely means expected more often than not."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Increasing favourable outcomes increases the chance of red.",
       "hint": "Compare the bag before and after the change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Unlikely means a small chance, not no chance.",
       "hint": "Impossible is the word for no chance."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Chance depends on the number of possible outcomes, not colour preference.",
       "hint": "Use counts as evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3P01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "There are more blue counters, so blue has the greater chance.",
       "hint": "Compare how many of each colour are possible."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "A 9 is not on the cube, so it cannot occur.",
       "hint": "List the possible outcomes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Every available card has a letter.",
       "hint": "Check what is true for every possible outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Each colour covers two equal sections.",
       "hint": "Count equal sections for each outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "An 80% chance is high but not guaranteed.",
       "hint": "Likely means expected more often than not."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Increasing favourable outcomes increases the chance of red.",
       "hint": "Compare the bag before and after the change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Unlikely means a small chance, not no chance.",
       "hint": "Impossible is the word for no chance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Chance depends on the number of possible outcomes, not colour preference.",
       "hint": "Use counts as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "There are more blue counters, so blue has the greater chance.",
       "hint": "Compare how many of each colour are possible."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A 9 is not on the cube, so it cannot occur.",
       "hint": "List the possible outcomes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Every available card has a letter.",
       "hint": "Check what is true for every possible outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Each colour covers two equal sections.",
       "hint": "Count equal sections for each outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "An 80% chance is high but not guaranteed.",
       "hint": "Likely means expected more often than not."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Increasing favourable outcomes increases the chance of red.",
       "hint": "Compare the bag before and after the change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Unlikely means a small chance, not no chance.",
       "hint": "Impossible is the word for no chance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Chance depends on the number of possible outcomes, not colour preference.",
       "hint": "Use counts as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3P01-T-001",

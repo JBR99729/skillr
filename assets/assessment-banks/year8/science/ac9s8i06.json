@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A confounding variable narrows the supported claim and guides a specific follow-up.",
       "hint": "Name the uncontrolled variable and how to test its influence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A consistent calibration offset is systematic and biases every measurement in one direction.",
       "hint": "The same error direction occurs each time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Conflicting evidence should be investigated through study quality, context and replication.",
       "hint": "Look for reasons the studies could differ before resolving the conflict."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "A comparison group helps distinguish treatment effects from other causes of change.",
       "hint": "Ask what would have happened without the treatment."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Precision is repeatability; accuracy is closeness to an accepted value.",
       "hint": "Separate agreement among readings from agreement with the reference."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Failure to find strong evidence is not proof that an effect is absent.",
       "hint": "Distinguish ‘not detected’ from ‘does not exist’."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Sampling across relevant conditions tests whether a result represents the wider pattern.",
       "hint": "Gather new observations, not extra arithmetic on one observation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Evaluation identifies the mechanism of error and a targeted procedural correction.",
       "hint": "Consider what the probe is actually touching."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "Models are evaluated against purpose, domain and known limitations.",
       "hint": "A limitation can restrict use without removing all value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "A follow-up targets sample size, variation and generalisability revealed by the first study.",
       "hint": "Test whether the local finding holds across more organisms and places."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in water temperature and sugar dissolving time to its effect and a targeted improvement. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Name which uncontrolled condition could also change dissolving time. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in ramp angle and toy-car travel time to its effect and a targeted improvement. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Name which uncontrolled condition could also change travel time. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in light intensity and pondweed bubble rate to its effect and a targeted improvement. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Name which uncontrolled condition could also change bubbles per minute. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in soil type and bean-seedling height to its effect and a targeted improvement. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Name which uncontrolled condition could also change height after 14 days. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in wire length and electrical current to its effect and a targeted improvement. This conclusion concerns wire length and electrical current.",
       "hint": "Name which uncontrolled condition could also change current. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in exercise duration and pulse recovery to its effect and a targeted improvement. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Name which uncontrolled condition could also change recovery time. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in salt concentration and egg buoyancy to its effect and a targeted improvement. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Name which uncontrolled condition could also change floating height. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in insulation material and cooling to its effect and a targeted improvement. This conclusion concerns insulation material and cooling.",
       "hint": "Name which uncontrolled condition could also change temperature loss. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in surface area and evaporation to its effect and a targeted improvement. This conclusion concerns surface area and evaporation.",
       "hint": "Name which uncontrolled condition could also change mass of water lost. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in pH and amylase activity to its effect and a targeted improvement. This conclusion concerns pH and amylase activity.",
       "hint": "Name which uncontrolled condition could also change time to digest starch. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in drop height and crater diameter to its effect and a targeted improvement. This conclusion concerns drop height and crater diameter.",
       "hint": "Name which uncontrolled condition could also change crater diameter. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in fertiliser concentration and duckweed growth to its effect and a targeted improvement. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Name which uncontrolled condition could also change change in frond number. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in blade length and paper-turbine rotation to its effect and a targeted improvement. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Name which uncontrolled condition could also change rotations per minute. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Evaluation links a specific limitation in detergent concentration and surface tension to its effect and a targeted improvement. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Name which uncontrolled condition could also change drops held on a coin. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I06-T-001",

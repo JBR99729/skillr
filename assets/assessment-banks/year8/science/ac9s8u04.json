@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Interlocking crystals commonly form as molten rock cools and solidifies.",
       "hint": "Link crystal growth to a change from molten to solid material."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Layering, grains and fossils are evidence of sediment deposition and lithification.",
       "hint": "Use all three observations, especially the preserved fossils."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Metamorphism changes a rock through heat and pressure without complete melting.",
       "hint": "The key evidence says the rock did not melt."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Weathering breaks rock down, erosion transports it and deposition leaves sediment.",
       "hint": "Separate breaking, moving and settling."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Compaction and cementation turn deposited sediment into sedimentary rock.",
       "hint": "Focus on reduced pore space and minerals binding grains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Rock can melt into magma and crystallise again, showing the rock cycle has many pathways.",
       "hint": "Track the material through each stated change of state."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Directed pressure can align minerals and produce foliation in metamorphic rock.",
       "hint": "Use the evidence that the original rock was solid and compressed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "The rock cycle is a network of processes, not one compulsory sequence.",
       "hint": "Consider whether different starting rocks can undergo the same process."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Cooling rate affects igneous crystal size: slower cooling generally produces larger crystals.",
       "hint": "Think about crystal growth time during cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Abrasion and breakage during transport can reduce and round sediment grains.",
       "hint": "Link repeated collisions to the observed shape change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Lava cooled too quickly for crystals to grow.",
       "hint": "Relate cooling time to crystal growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Gas bubbles were trapped as gas-rich lava cooled.",
       "hint": "Consider gas escaping from lava."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The sediment surface was shaped by moving water or wind before burial.",
       "hint": "Treat the marks as preserved surface evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Wet sediment dried and cracked before later burial.",
       "hint": "Reconstruct conditions before burial."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The pebbles were transported and abraded before cementation.",
       "hint": "Use rounding as transport evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Fragments travelled only a short distance before deposition.",
       "hint": "Angular edges indicate limited abrasion."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Directed pressure realigned minerals during metamorphism.",
       "hint": "Connect foliation with pressure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "High-grade metamorphism separated minerals into bands.",
       "hint": "Distinguish mineral bands from sediment layers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Heat from the intrusion caused contact metamorphism.",
       "hint": "Focus on the heat source."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Regional metamorphism is likely during mountain building.",
       "hint": "Link collision conditions to metamorphism."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Rapid cooling against water formed pillow basalt.",
       "hint": "Use the volcanic setting and shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Slow cooling is likely to produce large crystals.",
       "hint": "More cooling time allows growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Chemical weathering altered the mineral.",
       "hint": "A mineral changed through surface reactions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Expansion can widen the crack by physical weathering.",
       "hint": "Consider water's expansion on freezing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U04-T-001",

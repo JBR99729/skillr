@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The Desert Animals section is the broad section most likely to contain information about camels.",
       "hint": "Match the topic you need with the closest section heading and page number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Match the topic you need with the closest section heading and page number. The Desert Animals section is the broad section most likely to contain information about camels.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "The alphabetical index entry for bees points directly to pages 6 and 12.",
       "hint": "Find the exact keyword in the index, then follow every page number beside it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Find the exact keyword in the index, then follow every page number beside it. The alphabetical index entry for bees points directly to pages 6 and 12.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-005",
@@ -167,7 +176,10 @@
     "explanation": {
       "summary": "The chapter title The Rescue most closely matches the event where the boat was saved.",
       "hint": "Choose the chapter heading that best matches the event you want to find."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "Choose the chapter heading that best matches the event you want to find. The chapter title The Rescue most closely matches the event where the boat was saved.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "Homework is the menu section designed for class tasks to complete at home.",
       "hint": "Use the menu label that matches the information you need."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-008",
@@ -269,7 +287,10 @@
     "explanation": {
       "summary": "Use the menu label that matches the information you need. Homework is the menu section designed for class tasks to complete at home.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "Tiger facts belong in the website section about the zoo's animals.",
       "hint": "Open the choice whose label is closest to your topic."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Open the choice whose label is closest to your topic. Tiger facts belong in the website section about the zoo's animals.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "A frog life-cycle page should explain how tadpoles grow and change.",
       "hint": "Read each link label and choose the one that promises the needed information."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Read each link label and choose the one that promises the needed information. A frog life-cycle page should explain how tadpoles grow and change.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The destination does not match Noah's question, so he should return and choose a better pathway.",
       "hint": "After moving to a new page, check that its heading matches your original question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "After moving to a new page, check that its heading matches your original question. The destination does not match Noah's question, so he should return and choose a better pathway.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The broad Space section begins on page 30 and is the likely place for planet information.",
       "hint": "Match the topic to its section heading, then follow that page number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Match the topic to its section heading, then follow that page number. The broad Space section begins on page 30 and is the likely place for planet information.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The contents page lists broad chapters and where each one begins.",
       "hint": "For a whole section, use a broad chapter heading rather than one specific word or image."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "For a whole section, use a broad chapter heading rather than one specific word or image. The contents page lists broad chapters and where each one begins.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Lunch Menu directly matches the information about food served on Friday.",
       "hint": "Choose the link label that answers the key word in the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Choose the link label that answers the key word in the question. Lunch Menu directly matches the information about food served on Friday.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Caterpillars damaging plants belong in the Pests section.",
       "hint": "Connect the problem named in the question with the broad menu category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Connect the problem named in the question with the broad menu category. Caterpillars damaging plants belong in the Pests section.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The wrong heading shows May followed the wrong page number, so she should check the navigation step.",
       "hint": "Always compare the destination heading with the section you wanted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Always compare the destination heading with the section you wanted. The wrong heading shows May followed the wrong page number, so she should check the navigation step.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA05-T-001",

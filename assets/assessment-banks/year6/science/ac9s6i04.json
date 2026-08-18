@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "processed data means data transformed through calculations or grouping.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "trend means general direction in ordered or related data.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "model means simplified representation of a system or relationship.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Match variables and purpose.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Use clear scales and disclose breaks.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Retain source data.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Consider investigation design.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links exact repeated measurements with raw-data table.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links change through time with line graph.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "The organiser links compare categories with column graph.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-011",
@@ -371,7 +394,10 @@
     "explanation": {
       "summary": "The organiser links relationship between two numbers with scatter-style plot.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "The organiser links system or process with labelled model/flow diagram.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-013",
@@ -439,7 +467,10 @@
     "explanation": {
       "summary": "The organiser links Data with 12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-014",
@@ -473,7 +504,10 @@
     "explanation": {
       "summary": "The organiser links Scope with same lamp, materials and 10-minute period.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "The organiser links Limitation with few distances and possible room-light effects.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-016",
@@ -541,7 +577,10 @@
     "explanation": {
       "summary": "line graph is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "Under these conditions, temperature rise decreased with distance is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "processed data means data transformed through calculations or grouping.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "trend means general direction in ordered or related data.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "model means simplified representation of a system or relationship.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Match variables and purpose.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use clear scales and disclose breaks.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Retain source data.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Consider investigation design.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I04-T-001",

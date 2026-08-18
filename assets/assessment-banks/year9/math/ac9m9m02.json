@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
       "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
       "hint": "Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
       "hint": "Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
       "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
       "hint": "Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
       "hint": "Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
       "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
       "hint": "Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m02-t-001",

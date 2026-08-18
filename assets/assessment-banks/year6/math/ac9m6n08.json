@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "compatible numbers means nearby values that calculate easily.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "upper bound means value at or above a plausible exact amount.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Choose strategy from purpose.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Use approximation language and precision.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "A safe budget estimate should not underestimate.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Keep exact values when later accuracy matters.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The representation connects 18.7% of 398 with about 20% of 400 = 80.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-009",
@@ -303,7 +322,10 @@
     "explanation": {
       "summary": "The representation connects 63.4 ÷ 7.9 with about 64 ÷ 8 = 8.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "The representation connects $29.95 + $18.60 + $7.85 with safe budget: $30 + $19 + $8 = $57.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "The representation connects 3/8 of 79 with about 3/8 of 80 = 30.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "The representation connects minimum capacity with round demand upward.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "The representation connects quick reasonableness with round to one useful place.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "The representation connects range estimate with calculate plausible lower and upper values.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-015",
@@ -507,7 +539,10 @@
     "explanation": {
       "summary": "20% of 400 = 80 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-016",
@@ -541,7 +576,10 @@
     "explanation": {
       "summary": "Round each cost upward appropriately follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "compatible numbers means nearby values that calculate easily.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "upper bound means value at or above a plausible exact amount.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m6n08-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.",
       "hint": "Match every feature of the description to the mathematical term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Choose strategy from purpose.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Use approximation language and precision.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A safe budget estimate should not underestimate.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Keep exact values when later accuracy matters.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The representation connects 18.7% of 398 with about 20% of 400 = 80.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m6n08-t-001",

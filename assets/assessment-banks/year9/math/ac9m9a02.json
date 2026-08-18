@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
       "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
       "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
       "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
       "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
       "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
       "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
       "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
       "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a02-t-001",

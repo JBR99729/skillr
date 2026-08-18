@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "collaboration means people combining expertise and work.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "replication means independent repetition or testing.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "scientific advance means improvement in explanation, method, measurement or application.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Identify teams and prior contributions.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Validate and calibrate it.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Constructive challenge improves reliability.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Data quality and relevance matter.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links Technology with new sensor or imaging method.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links Team roles with field observers, technicians, analysts.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links Shared data with standard formats and open methods.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "The organiser links Critique/replication with other groups test findings.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "The organiser links Advance with explanation becomes more precise or useful.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-013",
@@ -439,7 +467,10 @@
     "explanation": {
       "summary": "The organiser links more sensitive sensor with detect smaller changes.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-014",
@@ -473,7 +504,10 @@
     "explanation": {
       "summary": "The organiser links faster computing with analyse larger data sets.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "The organiser links remote communication with coordinate global observations.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-016",
@@ -541,7 +577,10 @@
     "explanation": {
       "summary": "The organiser links standardised database with combine evidence.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "The organiser links new model with generate testable predictions.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Different expertise and independent checking strengthen evidence is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "It should be calibrated and validated is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "collaboration means people combining expertise and work.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "replication means independent repetition or testing.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "scientific advance means improvement in explanation, method, measurement or application.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Identify teams and prior contributions.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Validate and calibrate it.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H01-T-001",

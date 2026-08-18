@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "8 + 5 = 13. Make 10 by moving 2 from the group of 5: 10 + 3 = 13.",
       "hint": "Start with the first amount and count on the second amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "7 needs 3 more to make 10.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Joining the groups means addition: 6 + 4 = 10.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Removing a part means subtraction: 14 − 5 = 9.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "The jumps add 7 altogether: 6 + 4 + 3 = 13.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Counting back four steps gives 14, 13, 12, 11.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-007",
@@ -235,7 +248,10 @@
     "explanation": {
       "summary": "Split 6 into 1 and 5. Then 9 + 1 = 10 and 10 + 5 = 15.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "Move 2 from 7 to fill the first frame: 10 + 5 = 15.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-009",
@@ -303,7 +321,10 @@
     "explanation": {
       "summary": "A double has two equal parts: 7 + 7 = 14.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "6 + 7 is one more than double 6: 12 + 1 = 13.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-011",
@@ -371,7 +395,9 @@
     "explanation": {
       "summary": "13 − 3 = 10 and 10 − 2 = 8.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-012",
@@ -405,7 +431,10 @@
     "explanation": {
       "summary": "Subtract 10, then add 1 back because 9 is one less than 10.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-013",
@@ -439,7 +468,9 @@
     "explanation": {
       "summary": "Addition and subtraction are related. Removing one part from 15 leaves the other part.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-014",
@@ -473,7 +504,10 @@
     "explanation": {
       "summary": "The same whole and parts make 9 + 6 = 15 and 15 − 6 = 9.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "The missing part is 9 because 9 + 8 = 17.",
       "hint": "Start with the first amount and count on the second amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "The removed part is 7 because 9 + 7 = 16.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Find the difference: 14 − 8 = 6.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "7 + 5 = 12, so the other side must also equal 12. 8 + 4 = 12.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Making ten uses a known benchmark: 9 + 1 + 7 = 17.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Subtracting 10 removes one group of ten, leaving 8.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The frogs join, so add: 5 + 7 = 12.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Putting pencils away decreases the collection: 16 − 6 = 10.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The whole is 18 and one part is 11. The other part is 18 − 11 = 7.",
       "hint": "Compare how much each container can hold, not only how tall it looks."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "12 − 5 = 7. You can check because 7 + 5 = 12.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-025",
@@ -847,7 +903,9 @@
     "explanation": {
       "summary": "Counting back by ones after 12 should give 11, not 10.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "9 + 5 = 14, so it does not show 13.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "Make ten by first finding the part that fills 8 to 10.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "6 + 8 = 14 and 7 + 7 = 14. Both show the same total.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N04-T-001",

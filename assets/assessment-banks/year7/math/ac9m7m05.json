@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
       "hint": "Use given markings and relationships."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
       "hint": "Equal sides face equal angles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
       "hint": "Relate it to a straight line or remote interior angles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
       "hint": "The code concerns Euclidean space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m05-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
       "hint": "Use given markings and relationships."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m05-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
       "hint": "Equal sides face equal angles."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m05-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
       "hint": "Relate it to a straight line or remote interior angles."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m05-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
       "hint": "The code concerns Euclidean space."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m05-t-001",

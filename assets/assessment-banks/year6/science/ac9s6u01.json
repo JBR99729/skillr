@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "abiotic condition means non-living physical or chemical feature of a habitat.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "habitat means place providing conditions and resources for organisms.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "distribution means where organisms occur across an area.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Organisms respond to interacting factors.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Sampling and detection are limited.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Use cautious language and further tests.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Use ethical, minimal-impact methods.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links light and seedling growth with light intensity; height/leaf number; water, soil, time.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links soil moisture and invertebrates with moisture locations; count abundance; area, search time.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links temperature and germination with temperature; germination proportion; seed type, water.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "soil moisture is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "More invertebrates were found in the moister samples under this method is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "abiotic condition means non-living physical or chemical feature of a habitat.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "habitat means place providing conditions and resources for organisms.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "distribution means where organisms occur across an area.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Organisms respond to interacting factors.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-017",
@@ -575,7 +613,9 @@
     "explanation": {
       "summary": "Sampling and detection are limited.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-018",
@@ -609,7 +649,9 @@
     "explanation": {
       "summary": "Use cautious language and further tests.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-019",
@@ -643,7 +685,9 @@
     "explanation": {
       "summary": "Use ethical, minimal-impact methods.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-020",
@@ -677,7 +721,9 @@
     "explanation": {
       "summary": "The organiser links light and seedling growth with light intensity; height/leaf number; water, soil, time.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-021",
@@ -711,7 +757,9 @@
     "explanation": {
       "summary": "The organiser links soil moisture and invertebrates with moisture locations; count abundance; area, search time.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-022",
@@ -745,7 +793,10 @@
     "explanation": {
       "summary": "The organiser links temperature and germination with temperature; germination proportion; seed type, water.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "soil moisture is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U01-P-024",
@@ -813,7 +866,10 @@
     "explanation": {
       "summary": "More invertebrates were found in the moister samples under this method is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U01-T-001",

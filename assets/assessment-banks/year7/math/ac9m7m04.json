@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "If one co-interior angle is 118°, the other is 62°",
       "hint": "They sum to 180°."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
       "hint": "These relationships require parallel lines."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
       "hint": "Rotate or tilt the diagram and use structural location."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
       "hint": "Apply geometric facts and stated conditions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m04-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "If one co-interior angle is 118°, the other is 62°",
       "hint": "They sum to 180°."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m04-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
       "hint": "These relationships require parallel lines."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m04-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
       "hint": "Rotate or tilt the diagram and use structural location."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m04-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
       "hint": "Apply geometric facts and stated conditions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m04-t-001",

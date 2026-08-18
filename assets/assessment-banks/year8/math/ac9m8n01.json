@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
       "hint": "Irrational numbers have exact positions even though their decimals never end or repeat."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
       "hint": "A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating the golden ratio in art and design, and historical approximations to π in different societies",
       "hint": "The golden ratio appears in design, while societies have developed useful approximations for π throughout history."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software",
       "hint": "For every circle, circumference divided by diameter gives the same irrational ratio: π."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
       "hint": "Irrational numbers have exact positions even though their decimals never end or repeat."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
       "hint": "A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating the golden ratio in art and design, and historical approximations to π in different societies",
       "hint": "The golden ratio appears in design, while societies have developed useful approximations for π throughout history."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software",
       "hint": "For every circle, circumference divided by diameter gives the same irrational ratio: π."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n01-t-001",

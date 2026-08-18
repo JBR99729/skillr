@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
       "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
       "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
       "hint": "A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
       "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
       "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
       "hint": "A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la06-p-007",
@@ -256,7 +274,9 @@
     "explanation": {
       "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
       "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10la06-p-008",
@@ -293,7 +313,9 @@
     "explanation": {
       "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
       "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10la06-t-001",

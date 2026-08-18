@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Condensation transfers energy out; particles slow and become closer",
       "hint": "Average spacing and motion change, not particle size."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
       "hint": "They vibrate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
       "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
       "hint": "Physical state changes preserve substance identity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u05-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Condensation transfers energy out; particles slow and become closer",
       "hint": "Average spacing and motion change, not particle size."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u05-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Particles are not drawn to scale. Spaces in the model are not air, and particles do not grow during heating.",
       "hint": "They vibrate."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u05-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "During a state-change plateau, added or removed energy changes arrangement rather than temperature in the idealised model.",
       "hint": "Boiling occurs throughout at a boiling point; evaporation occurs at a surface over a range."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u05-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "State changes alter particle energy, motion and spacing while the particles themselves remain the same substance during a physical change.",
       "hint": "Physical state changes preserve substance identity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u05-t-001",

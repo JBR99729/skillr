@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The polite question clearly asks the teacher for the help Noah needs.",
       "hint": "Choose words that fit a student speaking respectfully to a teacher."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose words that fit a student speaking respectfully to a teacher. The polite question clearly asks the teacher for the help Noah needs.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Luca asks for a later turn without demanding that his friend stop.",
       "hint": "Look for a request that respects the other person's turn."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Look for a request that respects the other person's turn. Luca asks for a later turn without demanding that his friend stop.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A class host welcomes the visitor and offers useful help.",
       "hint": "Think about what a friendly host should say and do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Think about what a friendly host should say and do. A class host welcomes the visitor and offers useful help.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The direction politely tells each team member exactly what to do and where to meet.",
       "hint": "A leader's words should be specific, useful and respectful."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "A leader's words should be specific, useful and respectful. The direction politely tells each team member exactly what to do and where to meet.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "The reply respects the partner while using a map clue to explain another view.",
       "hint": "Choose a reply that focuses on evidence, not on putting down the speaker."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Choose a reply that focuses on evidence, not on putting down the speaker. The reply respects the partner while using a map clue to explain another view.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Listening to the language teacher respects community knowledge and the way the greeting is used.",
       "hint": "Let the person sharing the language guide its pronunciation and use."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Let the person sharing the language guide its pronunciation and use. Listening to the language teacher respects community knowledge and the way the greeting is used.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "Ruby names what happened, apologises and offers to repair the harm.",
       "hint": "A sincere apology does not blame the other person or dismiss their feelings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "A sincere apology does not blame the other person or dismiss their feelings. Ruby names what happened, apologises and offers to repair the harm.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Ava gives her name, class and a clear reason for the message.",
       "hint": "An unfamiliar listener needs names and the important detail."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "An unfamiliar listener needs names and the important detail. Ava gives her name, class and a clear reason for the message.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Ben gives calm, useful help without embarrassing the younger reader.",
       "hint": "A buddy should guide the reader and help them keep trying."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "A buddy should guide the reader and help them keep trying. Ben gives calm, useful help without embarrassing the younger reader.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "Urgent language should be direct and tell helpers who needs help and where.",
       "hint": "In an emergency, give the key information quickly and clearly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "In an emergency, give the key information quickly and clearly. Urgent language should be direct and tell helpers who needs help and where.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-021",
@@ -711,7 +758,10 @@
     "explanation": {
       "summary": "The message has a clear learning purpose and uses respectful online language.",
       "hint": "School chat language should still be polite, safe and useful."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "School chat language should still be polite, safe and useful. The message has a clear learning purpose and uses respectful online language.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Jo sets a clear boundary without insulting the other person.",
       "hint": "A respectful refusal can be firm and kind at the same time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A respectful refusal can be firm and kind at the same time. Jo sets a clear boundary without insulting the other person.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA01-T-001",

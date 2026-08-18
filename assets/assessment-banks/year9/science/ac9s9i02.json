@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
       "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
       "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
       "hint": "Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
       "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
       "hint": "Use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
       "hint": "Use First Nations Australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
       "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
       "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i02-t-001",

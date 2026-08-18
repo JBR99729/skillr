@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "What We Observed on the Leaf names the investigation or observation clearly.",
       "hint": "A good title tells the audience what the science communication is about."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The leaf had three brown spots. gives specific evidence.",
       "hint": "Include what was seen or measured, with a number or unit when useful."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Jagged edge names a relevant visible feature or setup part.",
       "hint": "A diagram label should point to something the audience needs to identify."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The leaf had more brown spots on Friday than Monday. communicates a result supported by observations.",
       "hint": "A finding tells what the evidence showed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Spots tells the audience what was counted or measured.",
       "hint": "Write the number together with what the number measures."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Clear structure helps classmates understand the evidence.",
       "hint": "Show what was investigated, what was observed and what was found."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "The audience first needs to know what the communication is about.",
       "hint": "Use the order: topic, evidence, finding."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Evidence connects the observation or test to the finding.",
       "hint": "Ask: What did we see, count or measure that supports this finding?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "How Far the Toy Car Travelled names the investigation or observation clearly.",
       "hint": "A good title tells the audience what the science communication is about."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "The car travelled 70 centimetres. gives specific evidence.",
       "hint": "Include what was seen or measured, with a number or unit when useful."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "Start line names a relevant visible feature or setup part.",
       "hint": "A diagram label should point to something the audience needs to identify."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1I06-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The car travelled farther on tile than carpet. communicates a result supported by observations.",
       "hint": "A finding tells what the evidence showed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Centimetres tells the audience what was counted or measured.",
       "hint": "Write the number together with what the number measures."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Clear structure helps another Year 1 class understand the evidence.",
       "hint": "Show what was investigated, what was observed and what was found."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The audience first needs to know what the communication is about.",
       "hint": "Use the order: topic, evidence, finding."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Evidence connects the observation or test to the finding.",
       "hint": "Ask: What did we see, count or measure that supports this finding?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Our Bean Plant Growth names the investigation or observation clearly.",
       "hint": "A good title tells the audience what the science communication is about."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The plant was 12 cubes tall on Tuesday. gives specific evidence.",
       "hint": "Include what was seen or measured, with a number or unit when useful."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "New leaf names a relevant visible feature or setup part.",
       "hint": "A diagram label should point to something the audience needs to identify."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The plant grew 3 cubes during the week. communicates a result supported by observations.",
       "hint": "A finding tells what the evidence showed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Cubes tells the audience what was counted or measured.",
       "hint": "Write the number together with what the number measures."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Clear structure helps families understand the evidence.",
       "hint": "Show what was investigated, what was observed and what was found."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The audience first needs to know what the communication is about.",
       "hint": "Use the order: topic, evidence, finding."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Evidence connects the observation or test to the finding.",
       "hint": "Ask: What did we see, count or measure that supports this finding?"
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1I06-T-001",

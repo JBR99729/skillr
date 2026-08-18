@@ -36,7 +36,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support ““We should leave now,” Ava said.”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-002",
@@ -75,7 +78,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support ““We should leave now,” Ava said.”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-003",
@@ -114,7 +120,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “a new paragraph”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-004",
@@ -153,7 +162,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a new paragraph”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-005",
@@ -192,7 +204,10 @@
     "explanation": {
       "summary": "Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-006",
@@ -231,7 +246,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-007",
@@ -270,7 +287,10 @@
     "explanation": {
       "summary": "The reporting clause continues the sentence: ‘?’ she asked.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-008",
@@ -309,7 +329,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The reporting clause continues the sentence: ‘?’ she asked.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-009",
@@ -348,7 +370,10 @@
     "explanation": {
       "summary": "Wrapping on the page does not mean a new speaker.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-010",
@@ -387,7 +412,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Wrapping on the page does not mean a new speaker.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-011",
@@ -426,7 +453,10 @@
     "explanation": {
       "summary": "Use reporting clauses, actions or paragraphing to identify speakers.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-012",
@@ -465,7 +495,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use reporting clauses, actions or paragraphing to identify speakers.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-013",
@@ -504,7 +536,9 @@
     "explanation": {
       "summary": "Arrange speech, reporting clause and punctuation cards into several valid patterns.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-014",
@@ -543,7 +577,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Arrange speech, reporting clause and punctuation cards into several valid patterns.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-015",
@@ -582,7 +618,9 @@
     "explanation": {
       "summary": "Format an unbroken two-person conversation so each change of speaker is clear.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-016",
@@ -621,7 +659,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Format an unbroken two-person conversation so each change of speaker is clear.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-017",
@@ -660,7 +700,9 @@
     "explanation": {
       "summary": "Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-018",
@@ -699,7 +741,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-019",
@@ -738,7 +782,9 @@
     "explanation": {
       "summary": "quotation marks is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-020",
@@ -777,7 +823,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. quotation marks is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-021",
@@ -816,7 +864,9 @@
     "explanation": {
       "summary": "reporting clause is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-022",
@@ -855,7 +905,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-023",
@@ -894,7 +946,9 @@
     "explanation": {
       "summary": "boundary punctuation is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-024",
@@ -933,7 +987,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. boundary punctuation is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-T-001",

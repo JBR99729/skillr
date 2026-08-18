@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "observation is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "testable question is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "prediction is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "relationship is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "observation is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "testable question is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "variable is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "prediction is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "relationship is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Use an observable or measurable outcome.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "State an expected direction or result and a reason.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Focus on one relationship at a time.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Collect evidence before deciding whether it was supported.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Use an observable or measurable outcome.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "State an expected direction or result and a reason.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Focus on one relationship at a time.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Collect evidence before deciding whether it was supported.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "How does surface type affect the distance a block slides?",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The warmer water will melt the ice faster because it transfers more heat energy",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Record patterns around the classroom or outdoors, then turn three into testable questions.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Revise opinion, yes/no and multi-variable questions into focused relationship questions.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Write if–then–because predictions and rate whether the reason comes from observation, prior science or unsupported preference.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Which towel is best? is linked to How does towel material affect volume absorbed in 30 seconds?.",
       "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I01-T-001",

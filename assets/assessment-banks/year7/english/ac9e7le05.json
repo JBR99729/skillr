@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
       "hint": "Use decisions and development."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
       "hint": "Explain its effect on possibilities."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
       "hint": "Connect why one leads to another."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
       "hint": "Express an idea developed by interactions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
       "hint": "Use decisions and development."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
       "hint": "Explain its effect on possibilities."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
       "hint": "Connect why one leads to another."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
       "hint": "Express an idea developed by interactions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7le05-t-001",

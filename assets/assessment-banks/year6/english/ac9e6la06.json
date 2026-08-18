@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "This choice best demonstrates sharpen a verb in the stated context.",
       "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "verb group means main verb with auxiliaries expressing tense, aspect or modality.",
       "hint": "Match the definition to the most precise term used in Expanding and Sharpening Ideas through Language Choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "This answer applies the relevant language feature accurately.",
       "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Select precise relevant detail",
       "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
       "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives",
       "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
       "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
       "hint": "Look for application and explanation rather than a feature name alone."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la06-t-001",

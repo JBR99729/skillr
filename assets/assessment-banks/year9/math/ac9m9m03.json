@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
       "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
       "hint": "Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
       "hint": "Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
       "hint": "Use images of proportional relationships to estimate actual measurements."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
       "hint": "Explore theorems and conjectures involving triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
       "hint": "Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
       "hint": "Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
       "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m03-t-001",

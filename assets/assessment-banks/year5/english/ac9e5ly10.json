@@ -26,7 +26,10 @@
     "explanation": {
       "summary": "the related base preserves the c before the suffix.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-002",
@@ -55,7 +58,10 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-003",
@@ -84,7 +90,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-004",
@@ -113,7 +121,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-005",
@@ -142,7 +153,9 @@
     "explanation": {
       "summary": "the final y changes to i before this suffix.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-006",
@@ -171,7 +184,9 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-007",
@@ -200,7 +215,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-008",
@@ -229,7 +246,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-009",
@@ -258,7 +278,9 @@
     "explanation": {
       "summary": "the final consonant doubles after a short stressed vowel.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-010",
@@ -287,7 +309,9 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-011",
@@ -316,7 +340,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-012",
@@ -345,7 +371,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-013",
@@ -374,7 +403,9 @@
     "explanation": {
       "summary": "the final e stays before a suffix beginning with a consonant.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-014",
@@ -403,7 +434,9 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-015",
@@ -432,7 +465,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-016",
@@ -461,7 +496,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-017",
@@ -490,7 +528,9 @@
     "explanation": {
       "summary": "the origin explains the ph spelling and meaningful roots.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-018",
@@ -519,7 +559,9 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-019",
@@ -548,7 +590,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-020",
@@ -577,7 +621,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-p-021",
@@ -606,7 +653,9 @@
     "explanation": {
       "summary": "the roots explain both meaning and stable spelling.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-022",
@@ -635,7 +684,9 @@
     "explanation": {
       "summary": "The correction uses a transferable spelling generalisation or word relationship.",
       "hint": "Explain the condition that applies, not just the correct letters."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-023",
@@ -664,7 +715,9 @@
     "explanation": {
       "summary": "Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly10-p-024",
@@ -693,7 +746,10 @@
     "explanation": {
       "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly10-t-001",

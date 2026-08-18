@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Data are recorded observations or measurements.",
       "hint": "Choose the statement containing a measured result."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A supported claim describes the pattern in the collected data.",
       "hint": "Compare the two numbers, then keep the claim limited to this test."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Relevant measurements provide evidence for a scientific explanation.",
       "hint": "Use information that directly answers the investigation question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Reasoning explains why the evidence supports the claim.",
       "hint": "Think of the bridge between what was measured and what is claimed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "A scientific explanation combines a claim with relevant evidence.",
       "hint": "Look for both the measured comparison and a careful claim."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Preferences do not measure the investigated relationship.",
       "hint": "Ask whether another observer could record the same evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "Multiple results help judge the pattern and variation.",
       "hint": "Keep the data and compare rather than hiding it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Scientific conclusions should match the amount and limits of evidence.",
       "hint": "Use words that keep the conclusion within this investigation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Data are recorded observations or measurements.",
       "hint": "Choose the statement containing a measured result."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "A supported claim describes the pattern in the collected data.",
       "hint": "Compare the two numbers, then keep the claim limited to this test."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Relevant measurements provide evidence for a scientific explanation.",
       "hint": "Use information that directly answers the investigation question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Reasoning explains why the evidence supports the claim.",
       "hint": "Think of the bridge between what was measured and what is claimed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A scientific explanation combines a claim with relevant evidence.",
       "hint": "Look for both the measured comparison and a careful claim."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Preferences do not measure the investigated relationship.",
       "hint": "Ask whether another observer could record the same evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Multiple results help judge the pattern and variation.",
       "hint": "Keep the data and compare rather than hiding it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Scientific conclusions should match the amount and limits of evidence.",
       "hint": "Use words that keep the conclusion within this investigation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Data are recorded observations or measurements.",
       "hint": "Choose the statement containing a measured result."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A supported claim describes the pattern in the collected data.",
       "hint": "Compare the two numbers, then keep the claim limited to this test."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Relevant measurements provide evidence for a scientific explanation.",
       "hint": "Use information that directly answers the investigation question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Reasoning explains why the evidence supports the claim.",
       "hint": "Think of the bridge between what was measured and what is claimed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A scientific explanation combines a claim with relevant evidence.",
       "hint": "Look for both the measured comparison and a careful claim."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Preferences do not measure the investigated relationship.",
       "hint": "Ask whether another observer could record the same evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Multiple results help judge the pattern and variation.",
       "hint": "Keep the data and compare rather than hiding it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Scientific conclusions should match the amount and limits of evidence.",
       "hint": "Use words that keep the conclusion within this investigation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H01-T-001",

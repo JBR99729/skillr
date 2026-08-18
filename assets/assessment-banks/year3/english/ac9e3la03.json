@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-007",
@@ -235,7 +251,9 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-008",
@@ -269,7 +287,10 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA03-T-001",

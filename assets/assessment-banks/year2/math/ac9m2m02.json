@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the same whole.",
       "hint": "Check the number of parts and whether they are equal."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "One of 4 equal parts is one quarter.",
       "hint": "The fraction name tells how many equal parts make the whole."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Eight one-eighth parts join to make one whole.",
       "hint": "Count all the equal pieces in the whole."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "When the same whole is split into more equal parts, each part is smaller.",
       "hint": "Compare 4 equal cuts with 8 equal cuts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Two half-hours join to make one whole hour.",
       "hint": "Think of an hour split into 2 equal time parts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Four equal quarter turns make one full turn.",
       "hint": "The whole turn is divided into 4 equal parts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Quarters must be 4 equal parts of one whole.",
       "hint": "Count the shares, then check they are equal."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
       "hint": "Double the number of parts after every fold."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the same whole.",
       "hint": "Check the number of parts and whether they are equal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "One of 4 equal parts is one quarter.",
       "hint": "The fraction name tells how many equal parts make the whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Eight one-eighth parts join to make one whole.",
       "hint": "Count all the equal pieces in the whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "When the same whole is split into more equal parts, each part is smaller.",
       "hint": "Compare 4 equal cuts with 8 equal cuts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Two half-hours join to make one whole hour.",
       "hint": "Think of an hour split into 2 equal time parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Four equal quarter turns make one full turn.",
       "hint": "The whole turn is divided into 4 equal parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Quarters must be 4 equal parts of one whole.",
       "hint": "Count the shares, then check they are equal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
       "hint": "Double the number of parts after every fold."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the same whole.",
       "hint": "Check the number of parts and whether they are equal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "One of 4 equal parts is one quarter.",
       "hint": "The fraction name tells how many equal parts make the whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Eight one-eighth parts join to make one whole.",
       "hint": "Count all the equal pieces in the whole."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "When the same whole is split into more equal parts, each part is smaller.",
       "hint": "Compare 4 equal cuts with 8 equal cuts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Two half-hours join to make one whole hour.",
       "hint": "Think of an hour split into 2 equal time parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Four equal quarter turns make one full turn.",
       "hint": "The whole turn is divided into 4 equal parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Quarters must be 4 equal parts of one whole.",
       "hint": "Count the shares, then check they are equal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
       "hint": "Double the number of parts after every fold."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M02-T-001",

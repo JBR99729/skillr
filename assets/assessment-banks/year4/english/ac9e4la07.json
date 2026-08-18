@@ -36,7 +36,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “Mia said that she was ready.”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-002",
@@ -75,7 +78,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-003",
@@ -114,7 +120,10 @@
     "explanation": {
       "summary": "The evidence and language purpose support “promised”.",
       "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-004",
@@ -153,7 +162,10 @@
     "explanation": {
       "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-005",
@@ -192,7 +204,10 @@
     "explanation": {
       "summary": "Pronouns, tense and time references may need adjustment.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-006",
@@ -231,7 +246,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-007",
@@ -270,7 +288,10 @@
     "explanation": {
       "summary": "Reported speech normally uses no quotation marks around the message.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-008",
@@ -309,7 +330,10 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA07-P-009",
@@ -348,7 +372,9 @@
     "explanation": {
       "summary": "Said, claimed, admitted and promised suggest different meanings.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-010",
@@ -387,7 +413,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-011",
@@ -426,7 +454,9 @@
     "explanation": {
       "summary": "Direct quotation should preserve the original wording or show omissions transparently.",
       "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-012",
@@ -465,7 +495,9 @@
     "explanation": {
       "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-013",
@@ -504,7 +536,9 @@
     "explanation": {
       "summary": "Convert short quotations to reported speech and underline every grammatical change.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-014",
@@ -543,7 +577,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-015",
@@ -582,7 +618,9 @@
     "explanation": {
       "summary": "Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-016",
@@ -621,7 +659,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-017",
@@ -660,7 +700,9 @@
     "explanation": {
       "summary": "Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
       "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-018",
@@ -699,7 +741,9 @@
     "explanation": {
       "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-019",
@@ -738,7 +782,9 @@
     "explanation": {
       "summary": "quoted speech is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-020",
@@ -777,7 +823,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. quoted speech is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-021",
@@ -816,7 +864,9 @@
     "explanation": {
       "summary": "reported speech is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-022",
@@ -855,7 +905,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. reported speech is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-023",
@@ -894,7 +946,9 @@
     "explanation": {
       "summary": "reporting clause is the precise term for this feature.",
       "hint": "Match the definition to the exact language or literacy concept."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-P-024",
@@ -933,7 +987,9 @@
     "explanation": {
       "summary": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA07-T-001",

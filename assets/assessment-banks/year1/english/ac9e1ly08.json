@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Upper-case M This matches the task.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Use clear spaces between words.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A ↔ a; G ↔ g; T ↔ t This matches the task.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for spacing and check the whole example.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "the red dog, with clear spaces and recognisable letters This matches the task.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can use spaces.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY08-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Choose case → form separate letters → check spacing → reread This matches the task.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a handwriting self-check.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Accurate case, unjoined legible forms and three word spaces This matches the task.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Practise start point and direction.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for spacing and check the whole example.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A-C-T, all recognisable and unjoined with consistent size This matches the task.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can use spaces.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All three matched correctly This matches the task.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Connecting handwriting features with functions.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Ava swims fast. with capital A, separate legible letters, spaces and end mark This matches the task.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use capitals only where needed.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Adds a visible word space: blue boat This matches the task.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY08-T-001",

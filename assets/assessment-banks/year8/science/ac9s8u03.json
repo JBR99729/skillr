@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Global earthquake and volcano belts provide evidence for tectonic plate boundaries.",
       "hint": "Look for one process that explains both mapped patterns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Symmetrical magnetic stripes record seafloor spreading from a mid-ocean ridge.",
       "hint": "Use the symmetry and the youngest crust at the centre."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The age pattern is predicted by seafloor spreading.",
       "hint": "Trace where new rock would begin and where it would travel."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "At this convergent boundary, denser oceanic lithosphere subducts beneath continental lithosphere.",
       "hint": "Compare plate density and the trench location."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Continental collision compresses, folds and uplifts crust to build mountains.",
       "hint": "Imagine what happens when buoyant continental crust is compressed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Transform boundaries commonly generate shallow earthquakes without creating or destroying crust.",
       "hint": "Focus on friction and sudden sideways movement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Repeated GPS measurements can directly show divergent plate motion.",
       "hint": "Extend the measured direction of movement through time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "A dipping zone of earthquakes maps the path of a subducting plate.",
       "hint": "Connect the trench to the change in earthquake depth."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Plate models can show relative motion but greatly distort material properties and timescale.",
       "hint": "Compare the model's materials and speed with the real Earth."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Several independent lines of evidence strengthen the inference of past continental connection.",
       "hint": "Ask whether one explanation accounts for all three observations."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Divergence and seafloor spreading.",
       "hint": "Follow the arrows."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Crust near the ridge is younger and has had less time to collect sediment.",
       "hint": "Connect age with accumulation time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A moving plate passed over a relatively fixed hotspot.",
       "hint": "Track plate motion across the source."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Stored strain was released as the overriding plate moved.",
       "hint": "Link locking, strain and release."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Brittle crust fractures close to the surface as plates separate.",
       "hint": "Use the boundary type and depth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Oceanic crust subducts beneath a continent.",
       "hint": "Explain all three bands together."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The continents were connected when the reptile lived.",
       "hint": "Consider the animal's habitat."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The continents once formed a connected landmass near a polar region.",
       "hint": "Reconstruct one continuous ice flow."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Tectonic plates move measurably today.",
       "hint": "Use what repeated positions measure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Strain is accumulating and may be released in an earthquake.",
       "hint": "Separate risk from certainty."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "It helps estimate distance from the station to the earthquake.",
       "hint": "Think speed difference and travel distance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Their intersection locates the epicentre.",
       "hint": "Look for the common intersection."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Sudden displacement of a large volume of seawater.",
       "hint": "Trace the displaced water."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Released water lowers the melting temperature of mantle rock.",
       "hint": "Water changes melting conditions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U03-T-001",

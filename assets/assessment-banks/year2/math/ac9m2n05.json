@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "2 groups of 2 make 4.",
       "hint": "Add 2 once for each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Repeat 2 once for every group: 2 + 2.",
       "hint": "The number in each group is the addend."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "4 ÷ 2 = 2, so each group gets 2.",
       "hint": "Share one counter to every group until none are left."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Each of the 2 rows has 2 dots, so there are 4.",
       "hint": "Skip-count by 2 for every row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Multiplication uses equal groups.",
       "hint": "Compare every group before you count the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "6 divided into groups of 2 makes 3 bags.",
       "hint": "Circle groups of 2 and count the circles."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The model has 2 equal groups of 2, giving 4.",
       "hint": "Count the groups and the amount in each group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "One group has 3, so the groups are not equal.",
       "hint": "Count every group, not just the first two."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "3 groups of 3 make 9.",
       "hint": "Add 3 once for each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Repeat 3 once for every group: 3 + 3 + 3.",
       "hint": "The number in each group is the addend."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "9 ÷ 3 = 3, so each group gets 3.",
       "hint": "Share one counter to every group until none are left."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Each of the 3 rows has 3 dots, so there are 9.",
       "hint": "Skip-count by 3 for every row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Multiplication uses equal groups.",
       "hint": "Compare every group before you count the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "12 divided into groups of 3 makes 4 bags.",
       "hint": "Circle groups of 3 and count the circles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The model has 3 equal groups of 3, giving 9.",
       "hint": "Count the groups and the amount in each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "One group has 4, so the groups are not equal.",
       "hint": "Count every group, not just the first two."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "4 groups of 4 make 16.",
       "hint": "Add 4 once for each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Repeat 4 once for every group: 4 + 4 + 4 + 4.",
       "hint": "The number in each group is the addend."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "16 ÷ 4 = 4, so each group gets 4.",
       "hint": "Share one counter to every group until none are left."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Each of the 4 rows has 4 dots, so there are 16.",
       "hint": "Skip-count by 4 for every row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Multiplication uses equal groups.",
       "hint": "Compare every group before you count the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "20 divided into groups of 4 makes 5 bags.",
       "hint": "Circle groups of 4 and count the circles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The model has 4 equal groups of 4, giving 16.",
       "hint": "Count the groups and the amount in each group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "One group has 5, so the groups are not equal.",
       "hint": "Count every group, not just the first two."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N05-T-001",

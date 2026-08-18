@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
       "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
       "hint": "Use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
       "hint": "Use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating the efficiency of ground ovens used by First Nations Australians",
       "hint": "Use the efficiency of ground ovens used by First Nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
       "hint": "Use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
       "hint": "Use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
       "hint": "Use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
       "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u05-t-001",

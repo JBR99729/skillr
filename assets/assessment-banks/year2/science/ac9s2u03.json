@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Bending changes direction or shape.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Twisting turns parts around each other.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Stretching increases length.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Breaking makes smaller pieces.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Changing shape does not change paper into a new material.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "The shape changed but the material did not.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Crumpling changes shape, not composition.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "Cutting changes size and arrangement.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-009",
@@ -303,7 +322,10 @@
     "explanation": {
       "summary": "Before-and-after evidence shows the observable effect.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "It clearly links the action to an observable change.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "The wire remains the same material.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "The cloth is turned around itself.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-013",
@@ -439,7 +468,9 @@
     "explanation": {
       "summary": "Stretchy materials can change size when pulled.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-014",
@@ -473,7 +504,9 @@
     "explanation": {
       "summary": "Breaking changed size, not the material type.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-015",
@@ -507,7 +540,9 @@
     "explanation": {
       "summary": "The foil changed shape without becoming a different material.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-016",
@@ -541,7 +576,9 @@
     "explanation": {
       "summary": "Its material stayed clay even though its shape changed.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-017",
@@ -575,7 +612,9 @@
     "explanation": {
       "summary": "The shape can be changed back.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-018",
@@ -609,7 +648,9 @@
     "explanation": {
       "summary": "A physical change need not be easy to reverse.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-019",
@@ -643,7 +684,9 @@
     "explanation": {
       "summary": "The effects on shape and number of pieces differ.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-020",
@@ -677,7 +720,9 @@
     "explanation": {
       "summary": "The same action can have different effects.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-P-021",
@@ -711,7 +756,10 @@
     "explanation": {
       "summary": "Elastic bands visibly lengthen under a safe pull.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-022",
@@ -745,7 +793,10 @@
     "explanation": {
       "summary": "A pipe cleaner is flexible and suitable for a safe test.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "Safety must be checked before applying force.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2U03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Keeping conditions similar makes the comparison fair.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2U03-T-001",

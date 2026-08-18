@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
       "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
       "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question",
       "hint": "Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets",
       "hint": "Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs",
       "hint": "Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model",
       "hint": "Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
       "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
       "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st02-t-001",
