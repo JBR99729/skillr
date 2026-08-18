@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10h01-p-001",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick\nHint: Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
-      "hint": "Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-002",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants\nHint: Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
-      "hint": "Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-003",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists\nHint: Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
-      "hint": "Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-004",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated"
-    ],
-    "correct": 3,
-    "explanation": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated\nHint: Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
-      "hint": "Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-005",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed\nHint: Use how the discovery of gravity waves validated Einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
-      "hint": "Use how the discovery of gravity waves validated Einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-006",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered\nHint: Use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
-      "hint": "Use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-007",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick\nHint: Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
-      "hint": "Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h01-p-008",
-    "curriculumCode": "AC9S10H01",
-    "bank": "practice",
-    "skill": "use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants"
-    ],
-    "correct": 3,
-    "explanation": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants\nHint: Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
-      "hint": "Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["validation","Which combination provides the strongest support for a new scientific claim?",["One successful experiment by its author","Peer review plus independent replication","Wide media coverage","Agreement by a government agency"],1,"Peer review checks the work and independent replication tests whether the result can be reproduced.","Look for both scrutiny and reproducibility."],
+["peer review","What is the main purpose of peer review before publication?",["To guarantee the conclusion is correct","To let relevant experts evaluate methods, evidence and reasoning","To make all scientists agree","To remove every source of bias"],1,"Peer review is expert scrutiny of the quality of the research; it does not guarantee correctness.","Peer review checks quality, not certainty."],
+["replication","Why does independent replication strengthen a scientific conclusion?",["It proves the original researchers were unbiased","It shows similar results can be obtained by other researchers","It removes uncertainty from the data","It makes the hypothesis a law"],1,"Independent replication reduces the chance that a result depends on one team, method or accident.","Think reproducibility."],
+["publication","Why is publication important in science?",["It allows methods and evidence to be scrutinised and tested","It guarantees funding","It makes a claim true","It prevents future disagreement"],0,"Publication makes methods, evidence and reasoning available for scrutiny and further testing.","Science must be open to checking."],
+["consensus","Which statement best describes scientific consensus?",["Every scientist agrees completely","Evidence-based agreement among relevant experts, while uncertainty may remain","A majority vote with no need for evidence","A conclusion that can never change"],1,"Consensus reflects the weight of evidence and expert assessment; it does not require 100% agreement.","Consensus is evidence-based, not absolute."],
+["disagreement","Why can scientific disagreement be useful?",["It shows science is unreliable","It can expose weaknesses and lead to better tests or models","It should be removed before publication","It means no conclusion can be reached"],1,"Reasoned disagreement can identify limitations, alternative explanations and new tests.","Debate can refine science."],
+["data","A study increases its sample from 20 to 2,000 measurements while keeping the method sound. What is the main likely benefit?",["All bias is eliminated","Random variation has less influence on the overall pattern","The hypothesis becomes true","Peer review is no longer needed"],1,"Larger well-collected samples generally reduce the influence of random variation, but do not automatically remove bias.","Large data helps with random variation."],
+["statistics","What is a key role of statistical analysis in science?",["To remove all uncertainty","To identify patterns and assess whether results are likely to be meaningful","To replace experiments","To guarantee causation"],1,"Statistics helps quantify patterns, variation and uncertainty; it does not guarantee causation or certainty.","Statistics evaluates evidence."],
+["anomalies","A result is very different from the rest of a reliable data set. What should scientists do first?",["Delete it immediately","Investigate the measurement, method and possible explanation","Assume the theory is false","Average it twice"],1,"Anomalies should be checked rather than automatically ignored or treated as proof against a theory.","Investigate before deciding."],
+["Franklin","Rosalind Franklin's major contribution to understanding DNA structure was:",["Sequencing the human genome","Producing high-quality X-ray diffraction data of DNA","Discovering genes","Inventing PCR"],1,"Franklin's X-ray diffraction work provided crucial structural evidence about DNA.","Think diffraction evidence."],
+["Franklin evidence","Why were X-ray diffraction data important to DNA model building?",["They directly showed every atom in DNA","They constrained possible structures using measurable diffraction patterns","They proved DNA contained proteins","They replaced chemical evidence"],1,"Diffraction patterns provided structural constraints that models had to fit.","Evidence constrains models."],
+["multiple evidence","Why is a scientific explanation stronger when supported by several independent lines of evidence?",["Different methods can test the same explanation in complementary ways","One method is always wrong","It removes the need for replication","It guarantees no future refinement"],0,"Agreement across independent methods makes it less likely that one method-specific error explains the result.","Independent methods matter."],
+["Mendel","What feature of Mendel's pea-plant work made patterns easier to evaluate scientifically?",["He used only one plant","He counted many offspring and compared numerical ratios","He avoided predictions","He ignored unusual results"],1,"Large counts and quantitative ratios made inheritance patterns testable.","Look for quantitative evidence."],
+["climate models","Why do scientists compare multiple climate models rather than relying on one?",["To ensure the models contradict each other","Different models represent complex processes and assumptions in different ways","Because observations are unnecessary","To eliminate uncertainty"],1,"Model ensembles help test robustness across different representations and assumptions.","Complex systems can be modelled differently."],
+["model validation","Which is the strongest way to evaluate a climate model?",["Check whether its outputs agree with relevant observations, including data not used to build it","Ask whether it looks realistic","Use the model with the most variables","Choose the model with the highest warming"],0,"Models are evaluated by comparing simulations or predictions with observations and by testing performance beyond calibration data.","Compare model with observations."],
+["uncertainty","What does an uncertainty range in a scientific model mean?",["The model is useless","A range of outcomes is plausible given current evidence and assumptions","The scientists made a mistake","The model cannot be tested"],1,"Uncertainty ranges communicate limits in data, parameters and model assumptions.","Uncertainty is quantified, not ignored."],
+["climate evidence","Which is the best example of evidence used to test long-term climate change?",["A single hot day","Long-term temperature records combined with other climate indicators","A weekly weather forecast","One social-media poll"],1,"Climate conclusions rely on long-term datasets and multiple indicators, not individual weather events.","Climate uses long-term evidence."],
+["Rubin","Vera Rubin's observations that supported dark matter focused on:",["Galaxy rotation curves","Earthquake waves","Solar eclipses","Planetary weather"],0,"Rubin measured how stars orbit in galaxies and found rotation patterns inconsistent with visible matter alone.","Think galaxy rotation."],
+["dark matter","Why did unexpectedly high orbital speeds in outer parts of galaxies support the idea of unseen matter?",["Visible matter alone could not provide enough gravity under the model","Stars were producing extra light","Galaxies had no mass","The speed of light had changed"],0,"The observed rotation implied more gravitational mass than could be accounted for by visible matter.","Missing gravitational mass."],
+["dark evidence","Which combination gives independent evidence relevant to dark matter?",["Galaxy rotation, gravitational lensing and cosmological observations","Sound waves, colour and rainfall","Only one galaxy image","Laboratory flame tests"],0,"Different astronomical observations independently indicate gravitational effects beyond visible matter.","Look for independent astronomical evidence."],
+["gravitational waves","Which instrument made the first direct detection of gravitational waves?",["LIGO","Hubble Space Telescope","Large Hadron Collider","Electron microscope"],0,"LIGO uses laser interferometry to detect extremely small changes in distance caused by gravitational waves.","Laser interferometry."],
+["Einstein","Why did the detection of gravitational waves strengthen general relativity?",["Einstein had predicted such waves as a consequence of the theory","Einstein built LIGO","The detection disproved gravity","The waves had been observed in 1915"],0,"A previously predicted phenomenon was later observed, providing a successful test of the theory.","Prediction confirmed by observation."],
+["technology","Why can new technology lead to refinement of scientific knowledge?",["It can make previously impossible measurements or observations possible","It prevents theories changing","It replaces evidence with simulations","It guarantees every prediction"],0,"Improved instruments can provide new evidence at scales or precision that were previously inaccessible.","Better tools can produce new evidence."],
+["periodic table","What most strongly validated Mendeleev's decision to leave gaps in his periodic table?",["Later discoveries had properties close to those he predicted","He arranged elements alphabetically","His table never changed","All elements were already known"],0,"Successful predictions of properties of later-discovered elements supported the usefulness of his periodic pattern.","Prediction is a strong test."]
 ];
+window.skillrPracticeQuestions = skillrRawQuestions.map((q,i)=>({id:`ac9s10h01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10H01",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4]+"\nHint: "+q[5],structuredExplanation:{summary:q[4],hint:q[5]},qualitySchema:"production-v1"}));
 window.quizQuestions = window.skillrPracticeQuestions;
