@@ -5,6 +5,7 @@ import path from "node:path";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const BANK_ROOT = path.join(ROOT, "assets/assessment-banks");
+const CHECK_ONLY = process.argv.includes("--check");
 
 const banned = [
   /^a (?:foundation|year \d+) student is solving a problem involving/i,
@@ -86,7 +87,7 @@ function walk(dir) {
   });
 }
 
-const report = { banks: 0, tagged: 0, gaps: [], rejectedFromConfidence: 0 };
+const report = { mode: CHECK_ONLY ? "check" : "write", banks: 0, tagged: 0, gaps: [], rejectedFromConfidence: 0 };
 for (const file of walk(BANK_ROOT)) {
   let data;
   try { data = JSON.parse(fs.readFileSync(file, "utf8")); } catch { continue; }
@@ -123,7 +124,7 @@ for (const file of walk(BANK_ROOT)) {
     });
   }
 
-  fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
+  if (!CHECK_ONLY) fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
   report.banks += 1;
   report.tagged += chosen.size;
 }
