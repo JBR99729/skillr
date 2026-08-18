@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10m04-p-001",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings\nHint: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.",
-    "structuredExplanation": {
-      "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-      "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-002",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "analyse instruments and methods for measuring in investigations and modelling activities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving analyse instruments and methods for measuring in investigations and modelling activities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving analyse instruments and methods for measuring in investigations and modelling activities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The measurement error and accuracy model is copied without interpretation",
-      "analysing instruments and methods for measuring in investigations and modelling activities",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "analysing instruments and methods for measuring in investigations and modelling activities\nHint: Analyse instruments and methods for measuring in investigations and modelling activities.",
-    "structuredExplanation": {
-      "summary": "analysing instruments and methods for measuring in investigations and modelling activities",
-      "hint": "Analyse instruments and methods for measuring in investigations and modelling activities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-003",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "determine the impact that compounding errors have on financial calculations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving determine the impact that compounding errors have on financial calculations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving determine the impact that compounding errors have on financial calculations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations\nHint: Determine the impact that compounding errors have on financial calculations.",
-    "structuredExplanation": {
-      "summary": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
-      "hint": "Determine the impact that compounding errors have on financial calculations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-004",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations"
-    ],
-    "correct": 3,
-    "explanation": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations\nHint: Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations.",
-    "structuredExplanation": {
-      "summary": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
-      "hint": "Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-005",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
-      "The measurement error and accuracy model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors\nHint: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.",
-    "structuredExplanation": {
-      "summary": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
-      "hint": "Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-006",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings\nHint: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.",
-    "structuredExplanation": {
-      "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
-      "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-007",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "analyse instruments and methods for measuring in investigations and modelling activities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving analyse instruments and methods for measuring in investigations and modelling activities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving analyse instruments and methods for measuring in investigations and modelling activities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "analysing instruments and methods for measuring in investigations and modelling activities",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "analysing instruments and methods for measuring in investigations and modelling activities\nHint: Analyse instruments and methods for measuring in investigations and modelling activities.",
-    "structuredExplanation": {
-      "summary": "analysing instruments and methods for measuring in investigations and modelling activities",
-      "hint": "Analyse instruments and methods for measuring in investigations and modelling activities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m04-p-008",
-    "curriculumCode": "AC9M10M04",
-    "bank": "practice",
-    "skill": "determine the impact that compounding errors have on financial calculations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving determine the impact that compounding errors have on financial calculations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving determine the impact that compounding errors have on financial calculations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The measurement error and accuracy model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations"
-    ],
-    "correct": 3,
-    "explanation": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations\nHint: Determine the impact that compounding errors have on financial calculations.",
-    "structuredExplanation": {
-      "summary": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
-      "hint": "Determine the impact that compounding errors have on financial calculations."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10M04",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Identify the type, size or effect of the measurement uncertainty."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10m04-p-001",1,"Definitions","Measurement error is:",["A mistake made intentionally","The difference between a measured value and the true or accepted value","Always zero","Always positive"],1,"Measurement error describes the difference between a measured result and the true or accepted value."),
+Q("ac9m10m04-p-002",2,"Definitions","Precision refers to:",["How close repeated measurements are to each other","How close measurements are to the true value","The largest possible error","The smallest possible unit"],0,"Precision describes the consistency or repeatability of measurements."),
+Q("ac9m10m04-p-003",3,"Definitions","Accuracy refers to:",["Repeatability","Closeness to the true or accepted value","Number of decimal places","Size of the instrument"],1,"Accuracy is how close a measurement is to the true or accepted value."),
+Q("ac9m10m04-p-004",4,"Definitions","A ruler marked in millimetres has a resolution of:",["1 cm","1 mm","0.1 mm","10 mm"],1,"Resolution is the smallest marked increment, here 1 mm."),
+Q("ac9m10m04-p-005",5,"Definitions","The smallest change an instrument can distinguish is called its:",["Range","Resolution","Error","Accuracy"],1,"Instrument resolution is the smallest increment it can distinguish."),
+Q("ac9m10m04-p-006",6,"Definitions","A length rounded to the nearest 0.1 cm is recorded as 4.6 cm. What rounding uncertainty is appropriate?",["±0.05 cm","±0.1 cm","±0.01 cm","±0.5 cm"],0,"Rounding to the nearest 0.1 cm gives a maximum rounding uncertainty of half that interval: ±0.05 cm."),
+Q("ac9m10m04-p-007",7,"Definitions","A digital scale displays mass to the nearest gram. Assuming rounding to the nearest displayed unit, the rounding uncertainty is:",["±1 g","±0.5 g","±0.1 g","±10 g"],1,"Half of the 1 g display interval is 0.5 g."),
+Q("ac9m10m04-p-008",8,"Definitions","A systematic error is:",["Random variation between readings","An error that tends to shift measurements consistently in one direction","An error that always cancels","An error that is impossible to detect"],1,"Systematic errors introduce a consistent bias into measurements."),
+Q("ac9m10m04-p-009",9,"Definitions","Random error is:",["Perfectly predictable","Always positive","Unpredictable variation between measurements","Caused only by faulty instruments"],2,"Random errors cause readings to vary unpredictably around a value."),
+Q("ac9m10m04-p-010",10,"Definitions","A set of measurements has high precision but low accuracy. This means:",["The measurements are close together but far from the true value","The measurements are scattered but centred exactly on the true value","The measurements are perfect","There is no measurement error"],0,"High precision means close together; low accuracy means not close to the true value."),
+Q("ac9m10m04-p-011",11,"Practical errors","Measuring a table with a tape measure that has stretched introduces mainly:",["Random error","Systematic error","No error","Only a recording error"],1,"A stretched tape biases measurements consistently because its scale is no longer correct."),
+Q("ac9m10m04-p-012",12,"Practical errors","Repeatedly measuring the position of a moving object at slightly different instants is most likely to introduce:",["Random variation","A fixed systematic offset","No error","Zero uncertainty"],0,"Small timing differences can cause unpredictable variation between readings."),
+Q("ac9m10m04-p-013",13,"Practical errors","Using a ruler whose zero edge is worn away, without correcting for it, most likely causes:",["Random error","Systematic error","No error","Only negative error"],1,"A damaged zero point can create a consistent offset in every measurement."),
+Q("ac9m10m04-p-014",14,"Practical errors","Reading an analogue scale from an angle rather than straight on causes:",["Parallax error","Zero error","No uncertainty","Calibration drift"],0,"Parallax occurs when the viewing direction is not perpendicular to the scale."),
+Q("ac9m10m04-p-015",15,"Practical errors","Parallax error is caused by:",["Viewing a scale from an incorrect angle","Using any digital instrument","Rounding a value","Repeating a measurement"],0,"Parallax is a viewing-angle error."),
+Q("ac9m10m04-p-016",16,"Practical errors","A thermometer that responds too slowly while temperature is steadily rising will tend to read:",["Too high","Too low","Exactly correct","Randomly above and below"],1,"A slow-response thermometer lags behind a steadily increasing temperature, producing readings that are systematically too low during the change."),
+Q("ac9m10m04-p-017",17,"Practical errors","A length rounded to the nearest 0.1 cm is recorded as 12.3 cm. What rounding uncertainty is appropriate?",["±0.05 cm","±0.01 cm","±1 cm","±0.5 cm"],0,"The maximum rounding uncertainty is half of 0.1 cm, or ±0.05 cm."),
+Q("ac9m10m04-p-018",18,"Practical errors","A scale consistently reads 2 g too high. This is:",["Random error","Systematic error","Parallax error","No error"],1,"A consistent +2 g bias is systematic."),
+Q("ac9m10m04-p-019",19,"Practical errors","A student measures a distance three times: 10.2 cm, 10.3 cm and 10.2 cm. The measurements show:",["High precision","Low precision","Zero uncertainty","No information about precision"],0,"The repeated values are very close together, indicating high precision."),
+Q("ac9m10m04-p-020",20,"Practical errors","The measurements 10.2 cm, 10.3 cm and 10.2 cm are compared with a true value of 12.0 cm. Their accuracy is:",["High","Low","Perfect","Impossible to assess"],1,"The readings are clustered well below the true value, so their accuracy is low."),
+Q("ac9m10m04-p-021",21,"Error propagation","A rectangle has measured length 10.0±0.1 cm and width 5.0±0.1 cm. Compared with either single measurement, the calculated area generally has:",["Uncertainty contributed by both measurements","Less uncertainty than both measurements","No uncertainty","Exactly ±0.1 cm² uncertainty"],0,"The area depends on both measured quantities, so uncertainty from both contributes to the result."),
+Q("ac9m10m04-p-022",22,"Error propagation","For a product of two independent measured quantities, a common worst-case approximation is to:",["Add their percentage uncertainties","Multiply their percentage uncertainties","Subtract all uncertainties","Ignore the smaller uncertainty"],0,"For multiplication or division, maximum fractional or percentage uncertainties are commonly approximated by adding them."),
+Q("ac9m10m04-p-023",23,"Error propagation","One measured factor has 2% uncertainty and another has 3% uncertainty. Using the usual worst-case rule for a product, the approximate percentage uncertainty is:",["1%","2%","3%","5%"],3,"For a product, approximate maximum percentage uncertainties add: 2%+3%=5%."),
+Q("ac9m10m04-p-024",24,"Error propagation","A prism volume is calculated using V=Ah. If the height is systematically measured too small while A is correct, the calculated volume will be:",["Too small","Too large","Exact","Random"],0,"Because volume is directly proportional to height, underestimating height underestimates volume.")];
+window.quizQuestions=window.skillrPracticeQuestions;
