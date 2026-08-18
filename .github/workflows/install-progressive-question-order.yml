@@ -1,0 +1,38 @@
+name: Install progressive question ordering
+
+on:
+  push:
+    branches:
+      - agent/progressive-question-difficulty
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/progressive-question-difficulty
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Patch shared quiz runtime
+        run: node scripts/patch_progressive_question_order.mjs
+      - name: Tag existing legitimate confidence questions
+        run: node scripts/assign_confidence_question_tiers.mjs || true
+      - name: Commit generated runtime and tier metadata
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No generated changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add quiz/assets/script.js assets/assessment-banks
+          git commit -m 'apply progressive easy-to-hard question ordering'
+          git push origin HEAD:agent/progressive-question-difficulty
