@@ -1,6 +1,6 @@
 # Year 1–10 live assessment-bank audit
 
-Generated: 2026-08-13T09:37:46.953Z
+Generated: 2026-08-18T00:27:49.947Z
 
 ## Release baseline
 
@@ -11,20 +11,20 @@ Generated: 2026-08-13T09:37:46.953Z
 
 ## Overall result
 
-- Curriculum codes checked: **628**
-- Passing the 24/16 count-and-separation baseline: **55**
-- Passing all automated quality signals: **55**
-- Practice and Test sharing one source: **460**
-- Below 24 Practice: **564**
-- Below 16 dedicated Test: **573**
-- Codes containing generic curriculum-description items: **451**
-- Codes containing visibly truncated prompts/options: **452**
-- Codes missing structured summary + hint feedback: **558**
-- Year 1–2 codes missing audio metadata: **42**
-- Pages without a loadable Practice or Test bank: **15**
-- Minimum additional Practice items needed: **9,144**
-- Minimum additional dedicated Test items needed: **8,384**
-- Minimum new items required for the baseline: **17,528**
+- Curriculum codes checked: **626**
+- Passing the 24/16 count-and-separation baseline: **367**
+- Passing all automated quality signals: **110**
+- Practice and Test sharing one source: **3**
+- Below 24 Practice: **256**
+- Below 16 dedicated Test: **259**
+- Codes containing generic curriculum-description items: **0**
+- Codes containing visibly truncated prompts/options: **6**
+- Codes missing structured summary + hint feedback: **4**
+- Year 1–2 codes missing audio metadata: **0**
+- Pages without a loadable Practice or Test bank: **0**
+- Minimum additional Practice items needed: **4,096**
+- Minimum additional dedicated Test items needed: **2,096**
+- Minimum new items required for the baseline: **6,192**
 
 ## Results by year and subject
 
@@ -33,33 +33,33 @@ Generated: 2026-08-13T09:37:46.953Z
 | 1 | math | 15 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | science | 10 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | english | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | math | 20 | 0 | 18 | 20 | 20 | 336 | 320 | 18 | 18 | 18 |
-| 2 | science | 10 | 0 | 0 | 10 | 10 | 240 | 160 | 0 | 0 | 0 |
-| 2 | english | 27 | 0 | 24 | 27 | 27 | 456 | 432 | 24 | 24 | 24 |
-| 3 | math | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 0 | 23 |
-| 3 | science | 12 | 0 | 0 | 12 | 12 | 192 | 96 | 0 | 0 | 12 |
-| 3 | english | 28 | 0 | 0 | 28 | 28 | 448 | 224 | 0 | 1 | 28 |
-| 4 | math | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 0 | 23 |
-| 4 | science | 12 | 0 | 0 | 12 | 12 | 192 | 96 | 0 | 0 | 12 |
-| 4 | english | 28 | 0 | 28 | 28 | 28 | 448 | 448 | 28 | 28 | 28 |
-| 5 | math | 24 | 0 | 24 | 24 | 24 | 384 | 384 | 24 | 24 | 24 |
-| 5 | science | 12 | 0 | 12 | 12 | 12 | 192 | 192 | 12 | 12 | 12 |
-| 5 | english | 24 | 0 | 24 | 24 | 24 | 384 | 384 | 24 | 24 | 24 |
-| 6 | math | 24 | 0 | 24 | 24 | 24 | 384 | 384 | 24 | 24 | 24 |
-| 6 | science | 12 | 0 | 12 | 12 | 12 | 192 | 192 | 12 | 12 | 12 |
-| 6 | english | 23 | 0 | 23 | 23 | 23 | 368 | 368 | 23 | 23 | 23 |
-| 7 | math | 30 | 0 | 30 | 21 | 30 | 336 | 480 | 21 | 21 | 30 |
-| 7 | science | 18 | 0 | 18 | 18 | 18 | 288 | 288 | 18 | 18 | 18 |
-| 7 | english | 24 | 0 | 24 | 24 | 24 | 384 | 384 | 24 | 24 | 24 |
-| 8 | math | 27 | 0 | 27 | 27 | 27 | 432 | 432 | 27 | 27 | 27 |
-| 8 | science | 19 | 0 | 19 | 19 | 19 | 304 | 304 | 19 | 19 | 19 |
-| 8 | english | 23 | 0 | 23 | 23 | 23 | 368 | 368 | 23 | 23 | 23 |
-| 9 | math | 23 | 0 | 23 | 23 | 23 | 368 | 368 | 23 | 23 | 23 |
-| 9 | science | 19 | 0 | 19 | 19 | 19 | 304 | 304 | 19 | 19 | 19 |
-| 9 | english | 23 | 0 | 23 | 23 | 23 | 368 | 368 | 23 | 23 | 23 |
-| 10 | math | 21 | 0 | 21 | 21 | 21 | 336 | 336 | 21 | 21 | 21 |
-| 10 | science | 19 | 0 | 19 | 19 | 19 | 304 | 304 | 19 | 19 | 19 |
-| 10 | english | 25 | 0 | 25 | 25 | 25 | 400 | 400 | 25 | 25 | 25 |
+| 2 | math | 18 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | science | 10 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | english | 27 | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 3 | math | 23 | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
+| 3 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | english | 28 | 28 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 4 | math | 23 | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 | english | 28 | 28 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | math | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | english | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | math | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | science | 12 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | english | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 2 | 0 |
+| 7 | math | 30 | 15 | 0 | 15 | 15 | 240 | 120 | 0 | 0 | 0 |
+| 7 | science | 18 | 0 | 1 | 17 | 18 | 272 | 152 | 0 | 0 | 1 |
+| 7 | english | 24 | 0 | 1 | 23 | 24 | 368 | 200 | 0 | 0 | 1 |
+| 8 | math | 27 | 0 | 0 | 27 | 27 | 432 | 216 | 0 | 0 | 0 |
+| 8 | science | 19 | 19 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 | english | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 0 | 0 |
+| 9 | math | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 0 | 0 |
+| 9 | science | 19 | 0 | 0 | 19 | 19 | 304 | 152 | 0 | 0 | 0 |
+| 9 | english | 23 | 0 | 0 | 23 | 23 | 368 | 184 | 0 | 0 | 0 |
+| 10 | math | 21 | 1 | 0 | 20 | 20 | 320 | 160 | 0 | 0 | 0 |
+| 10 | science | 19 | 0 | 1 | 18 | 19 | 288 | 160 | 0 | 0 | 1 |
+| 10 | english | 25 | 0 | 0 | 25 | 25 | 400 | 200 | 0 | 0 | 0 |
 
 ## Interpretation
 
