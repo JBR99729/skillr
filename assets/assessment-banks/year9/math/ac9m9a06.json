@@ -5,38 +5,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_transformations_of_the_graph_of_y_x_to_the_graph_of_y_ax_b_by_systematic_variation_of_a_and_b",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "For y = (x - 4)^2, where is the vertex?",
+    "audio_prompt": "For y equals open bracket x minus 4 close bracket squared, where is the vertex?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "(4, 0)", "is_correct": true},
+      {"text": "(-4, 0)", "is_correct": false},
+      {"text": "(0, 4)", "is_correct": false},
+      {"text": "(0, -4)", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-      "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "explanation": {"summary": "In y = a(x - h)^2 + k, the vertex is (h, k).", "hint": "Read h and k from vertex form."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-002",
@@ -44,38 +26,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_transformations_of_the_parabola_y_x_in_the_cartesian_plane_using_digital_tools_to_determine_the_relationship_between_graphical",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Compared with y = x^2, what does y = (x + 3)^2 do?",
+    "audio_prompt": "Compared with y equals x squared, what does y equals open bracket x plus 3 close bracket squared do?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The function transformations model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Moves 3 units left", "is_correct": true},
+      {"text": "Moves 3 units right", "is_correct": false},
+      {"text": "Moves 3 units up", "is_correct": false},
+      {"text": "Moves 3 units down", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-      "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "x + 3 = x - (-3), so the vertex moves 3 units left.", "hint": "The horizontal shift has the opposite sign inside the brackets."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-003",
@@ -83,38 +47,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "experiment_with_with_digital_tools_by_applying_transformations_to_the_graphs_of_functions_such_as_reciprocal_y_1_x_square_root_y_x_cube_y_x_and_exponential_functions_y_2_x",
-    "question": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Compared with y = x^2, what does y = x^2 + 5 do?",
+    "audio_prompt": "Compared with y equals x squared, what does y equals x squared plus 5 do?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Moves 5 units up", "is_correct": true},
+      {"text": "Moves 5 units down", "is_correct": false},
+      {"text": "Moves 5 units left", "is_correct": false},
+      {"text": "Moves 5 units right", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-      "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "Adding 5 outside the squared term translates the parabola 5 units up.", "hint": "k controls vertical movement."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-004",
@@ -122,38 +68,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_how_experimenting_with_the_effects_of_the_variation_of_parameters_of_related_functions_can_provide_artificial_intelligence_researchers_insights_into_the_predictive_behaviour_of_artificial_intelligence_models",
-    "question": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "What happens when y = x^2 becomes y = -x^2?",
+    "audio_prompt": "What happens when y equals x squared becomes y equals negative x squared?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-        "is_correct": true
-      }
+      {"text": "It is reflected in the x-axis", "is_correct": true},
+      {"text": "It is reflected in the y-axis", "is_correct": false},
+      {"text": "It moves 1 unit down", "is_correct": false},
+      {"text": "It moves 1 unit left", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-      "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "A negative value of a reflects the parabola across the x-axis.", "hint": "Look at the sign of a."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-005",
@@ -161,38 +89,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_transformations_of_the_graph_of_y_x_to_the_graph_of_y_ax_b_by_systematic_variation_of_a_and_b",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which graph is narrower than y = x^2?",
+    "audio_prompt": "Which graph is narrower than y equals x squared?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The function transformations model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = 3x^2", "is_correct": true},
+      {"text": "y = 0.5x^2", "is_correct": false},
+      {"text": "y = (x - 3)^2", "is_correct": false},
+      {"text": "y = x^2 + 3", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-      "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "explanation": {"summary": "When |a| > 1, the parabola is vertically stretched and appears narrower.", "hint": "Compare the size of |a| with 1."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-006",
@@ -200,38 +110,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_transformations_of_the_parabola_y_x_in_the_cartesian_plane_using_digital_tools_to_determine_the_relationship_between_graphical",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which graph is wider than y = x^2?",
+    "audio_prompt": "Which graph is wider than y equals x squared?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = 0.25x^2", "is_correct": true},
+      {"text": "y = 4x^2", "is_correct": false},
+      {"text": "y = (x + 4)^2", "is_correct": false},
+      {"text": "y = x^2 - 4", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-      "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "When 0 < |a| < 1, the parabola is vertically compressed and appears wider.", "hint": "Look for a coefficient between 0 and 1."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-007",
@@ -239,38 +131,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "experiment_with_with_digital_tools_by_applying_transformations_to_the_graphs_of_functions_such_as_reciprocal_y_1_x_square_root_y_x_cube_y_x_and_exponential_functions_y_2_x",
-    "question": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "What is the vertex of y = 2(x - 1)^2 - 3?",
+    "audio_prompt": "What is the vertex of y equals 2 open bracket x minus 1 close bracket squared minus 3?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "(1, -3)", "is_correct": true},
+      {"text": "(-1, -3)", "is_correct": false},
+      {"text": "(1, 3)", "is_correct": false},
+      {"text": "(-1, 3)", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-      "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "The vertex is (h, k) = (1, -3).", "hint": "Use vertex form y = a(x - h)^2 + k."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-p-008",
@@ -278,38 +152,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_how_experimenting_with_the_effects_of_the_variation_of_parameters_of_related_functions_can_provide_artificial_intelligence_researchers_insights_into_the_predictive_behaviour_of_artificial_intelligence_models",
-    "question": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which equation has vertex (-2, 4)?",
+    "audio_prompt": "Which equation has vertex negative 2 comma 4?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The function transformations model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-        "is_correct": true
-      }
+      {"text": "y = (x + 2)^2 + 4", "is_correct": true},
+      {"text": "y = (x - 2)^2 + 4", "is_correct": false},
+      {"text": "y = (x + 4)^2 + 2", "is_correct": false},
+      {"text": "y = (x - 4)^2 - 2", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-      "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "For vertex (-2, 4), h = -2 and k = 4, giving y = (x + 2)^2 + 4.", "hint": "Substitute h and k into vertex form."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a06-t-001",
@@ -317,36 +173,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_transformations_of_the_graph_of_y_x_to_the_graph_of_y_ax_b_by_systematic_variation_of_a_and_b",
-    "question": "Which response correctly uses explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b?",
-    "audio_prompt": "Which response correctly uses explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "For y = -2(x + 3)^2 + 5, which description is correct?",
+    "audio_prompt": "For y equals negative 2 open bracket x plus 3 close bracket squared plus 5, which description is correct?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Reflected in the x-axis, stretched by 2, moved 3 left and 5 up", "is_correct": true},
+      {"text": "Reflected in the x-axis, compressed by 2, moved 3 right and 5 up", "is_correct": false},
+      {"text": "Stretched by 2, moved 3 right and 5 down", "is_correct": false},
+      {"text": "Reflected in the y-axis, stretched by 2, moved 3 left and 5 down", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-      "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    }
+    "explanation": {"summary": "a = -2 gives reflection and stretch; h = -3 moves left 3; k = 5 moves up 5.", "hint": "Interpret a, h and k separately."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-002",
@@ -354,36 +194,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_transformations_of_the_parabola_y_x_in_the_cartesian_plane_using_digital_tools_to_determine_the_relationship_between_graphical",
-    "question": "Which response correctly uses explore transformations of the parabola y=x² in the cartesian plane using digital tools to determine the relationship between graphical?",
-    "audio_prompt": "Which response correctly uses explore transformations of the parabola y=x² in the cartesian plane using digital tools to determine the relationship between graphical?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "The graph of y = x^2 has vertex (0, 0). After a translation, the vertex is (5, -2). Which equation matches the new graph?",
+    "audio_prompt": "The graph of y equals x squared has vertex zero comma zero. After a translation, the vertex is 5 comma negative 2. Which equation matches the new graph?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = (x - 5)^2 - 2", "is_correct": true},
+      {"text": "y = (x + 5)^2 - 2", "is_correct": false},
+      {"text": "y = (x - 2)^2 - 5", "is_correct": false},
+      {"text": "y = (x + 2)^2 + 5", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-      "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "A vertex at (5, -2) gives h = 5 and k = -2.", "hint": "Use y = (x - h)^2 + k."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-003",
@@ -391,36 +215,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "experiment_with_with_digital_tools_by_applying_transformations_to_the_graphs_of_functions_such_as_reciprocal_y_1_x_square_root_y_x_cube_y_x_and_exponential_functions_y_2_x",
-    "question": "Which response correctly uses experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x?",
-    "audio_prompt": "Which response correctly uses experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which equation represents a parabola opening downward with vertex (2, 1)?",
+    "audio_prompt": "Which equation represents a parabola opening downward with vertex 2 comma 1?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The function transformations model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = -(x - 2)^2 + 1", "is_correct": true},
+      {"text": "y = (x - 2)^2 + 1", "is_correct": false},
+      {"text": "y = -(x + 2)^2 + 1", "is_correct": false},
+      {"text": "y = (x + 1)^2 - 2", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-      "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "A negative a opens downward, and h = 2, k = 1 gives the required vertex.", "hint": "Check both the sign of a and the vertex."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-004",
@@ -428,36 +236,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_how_experimenting_with_the_effects_of_the_variation_of_parameters_of_related_functions_can_provide_artificial_intelligence_researchers_insights_into_the_predictive_behaviour_of_artificial_intelligence_models",
-    "question": "Which response correctly uses explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models?",
-    "audio_prompt": "Which response correctly uses explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which change takes y = 2x^2 to y = 2(x - 4)^2?",
+    "audio_prompt": "Which change takes y equals 2 x squared to y equals 2 open bracket x minus 4 close bracket squared?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-        "is_correct": true
-      }
+      {"text": "Translate 4 units right", "is_correct": true},
+      {"text": "Translate 4 units left", "is_correct": false},
+      {"text": "Translate 4 units up", "is_correct": false},
+      {"text": "Stretch vertically by 4", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-      "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Replacing x by x - 4 shifts the graph 4 units right.", "hint": "Only h changed."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-005",
@@ -465,36 +257,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_transformations_of_the_graph_of_y_x_to_the_graph_of_y_ax_b_by_systematic_variation_of_a_and_b",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "A parabola has vertex (1, -4) and the same width as y = x^2. Which equation could represent it?",
+    "audio_prompt": "A parabola has vertex 1 comma negative 4 and the same width as y equals x squared. Which equation could represent it?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = (x - 1)^2 - 4", "is_correct": true},
+      {"text": "y = 2(x - 1)^2 - 4", "is_correct": false},
+      {"text": "y = (x + 1)^2 + 4", "is_correct": false},
+      {"text": "y = 0.5(x - 1)^2 - 4", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "investigating transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b and interpretating the effects of these transformations using digital tools; for example, y=x\\rightarrow y=2x (vertical enlargement as a>1) \\rightarrow y=2x-1 (vertical translation) and y=x\\rightarrow y=\\frac12x (vertical compression as a<1) \\rightarrow y=-\\frac12x (reflection in the horizontal axis) \\rightarrow y=-\\frac12x+3 (vertical translation)",
-      "hint": "Explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b."
-    }
+    "explanation": {"summary": "Same width as y = x^2 means |a| = 1; the vertex fixes h = 1 and k = -4.", "hint": "Match both the width and the vertex."},
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-006",
@@ -502,36 +278,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_transformations_of_the_parabola_y_x_in_the_cartesian_plane_using_digital_tools_to_determine_the_relationship_between_graphical",
-    "question": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "Which pair of equations differ only by a vertical translation?",
+    "audio_prompt": "Which pair of equations differ only by a vertical translation?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The function transformations model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "y = 3(x - 2)^2 and y = 3(x - 2)^2 + 7", "is_correct": true},
+      {"text": "y = x^2 and y = 2x^2", "is_correct": false},
+      {"text": "y = (x - 1)^2 and y = (x + 1)^2", "is_correct": false},
+      {"text": "y = x^2 and y = -x^2", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "investigating transformations of the parabola y=x^2 in the Cartesian plane using digital tools to determine the relationship between graphical and algebraic representations of quadratic functions, including the completed square form; for example, y=x^2\\rightarrow y=\\frac13x^2 (vertical compression as a 1) \\rightarrow y=-2x^2 (reflection in the horizontal axis) \\rightarrow y=-2(x+6)^2 (horizontal translation) \\rightarrow y=-2(x+6)^2+10 (vertical translation)",
-      "hint": "Explore transformations of the parabola y=x² in the Cartesian plane using digital tools to determine the relationship between graphical."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Only k changes in the first pair, so the graph moves vertically without changing shape or horizontal position.", "hint": "A vertical translation changes only k."},
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-007",
@@ -539,36 +299,20 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "experiment_with_with_digital_tools_by_applying_transformations_to_the_graphs_of_functions_such_as_reciprocal_y_1_x_square_root_y_x_cube_y_x_and_exponential_functions_y_2_x",
-    "question": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "The vertex of y = a(x - 3)^2 + 2 is (3, 2). What happens to the graph as a changes from 1 to 4?",
+    "audio_prompt": "The vertex of y equals a open bracket x minus 3 close bracket squared plus 2 is 3 comma 2. What happens to the graph as a changes from 1 to 4?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "It becomes narrower while the vertex stays fixed", "is_correct": true},
+      {"text": "It becomes wider and moves up", "is_correct": false},
+      {"text": "It reflects in the x-axis", "is_correct": false},
+      {"text": "It moves 3 units right", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "experimenting with digital tools by applying transformations to the graphs of functions, such as reciprocal y=\\frac1x, square root y=\\sqrt x, cube y=x^3 and exponential functions, y=2^x, y=(\\frac12)^x, identifying patterns",
-      "hint": "Experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Increasing positive |a| makes the parabola narrower; h and k stay unchanged, so the vertex stays fixed.", "hint": "Only a changes."},
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a06-t-008",
@@ -576,35 +320,19 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_how_experimenting_with_the_effects_of_the_variation_of_parameters_of_related_functions_can_provide_artificial_intelligence_researchers_insights_into_the_predictive_behaviour_of_artificial_intelligence_models",
-    "question": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "quadratic transformations",
+    "question": "A parabola is obtained from y = x^2 by reflecting it in the x-axis, moving it 2 units right and 6 units up. Which equation represents the result?",
+    "audio_prompt": "A parabola is obtained from y equals x squared by reflecting it in the x-axis, moving it 2 units right and 6 units up. Which equation represents the result?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-        "is_correct": true
-      }
+      {"text": "y = -(x - 2)^2 + 6", "is_correct": true},
+      {"text": "y = -(x + 2)^2 + 6", "is_correct": false},
+      {"text": "y = (x - 2)^2 - 6", "is_correct": false},
+      {"text": "y = -(x - 6)^2 + 2", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "investigating how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
-      "hint": "Explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Reflection gives a = -1, right 2 gives h = 2, and up 6 gives k = 6.", "hint": "Build the equation from a, h and k."},
+    "difficulty": 3,
+    "sequence_priority": 2
   }
 ]
