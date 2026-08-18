@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
-    "audioPrompt": "Which interpretation is accurate for use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "question": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "solve practical problems involving volume and capacity",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for solve practical problems involving volume and capacity?",
-    "audioPrompt": "Which interpretation is accurate for solve practical problems involving volume and capacity?",
+    "question": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "choose which measurements are useful to consider when solving practical problems in context",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for choose which measurements are useful to consider when solving practical problems in context?",
-    "audioPrompt": "Which interpretation is accurate for choose which measurements are useful to consider when solving practical problems in context?",
+    "question": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
-    "audioPrompt": "Which interpretation is accurate for investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "question": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

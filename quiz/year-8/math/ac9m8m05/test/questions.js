@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use taxation tables to calculate an individual s annual income tax",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use taxation tables to calculate an individual's annual income tax?",
-    "audioPrompt": "Which description correctly applies use taxation tables to calculate an individual's annual income tax?",
+    "question": "A Year 8 student is solving a problem involving use taxation tables to calculate an individual s annual income tax. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use taxation tables to calculate an individual s annual income tax. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore the application of rates in first nation australians land management practices including the rate of fire spread under different environmental conditions such as fuel types",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
-    "audioPrompt": "Which description correctly applies explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
+    "question": "A Year 8 student is solving a problem involving explore the application of rates in first nation australians land management practices including the rate of fire spread under different environmental conditions such as fuel types. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore the application of rates in first nation australians land management practices including the rate of fire spread under different environmental conditions such as fuel types. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "identify examples of rates in the real world including constant rates rate of pay cost per kilogram recipes simple interest and average rates",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
-    "audioPrompt": "Which interpretation is accurate for identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
+    "question": "A Year 8 student is solving a problem involving identify examples of rates in the real world including constant rates rate of pay cost per kilogram recipes simple interest and average rates. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify examples of rates in the real world including constant rates rate of pay cost per kilogram recipes simple interest and average rates. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

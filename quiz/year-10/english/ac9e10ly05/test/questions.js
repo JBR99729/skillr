@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape interpreting how visual features represent abstract concepts in advertising and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape summarising the qualities and interpreting the role of a character archetype in a range of texts and analysing the importance of this archetype and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape monitoring the language features associated with right and wrong in a text and interpreting the representation of the abstract concept of justice and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

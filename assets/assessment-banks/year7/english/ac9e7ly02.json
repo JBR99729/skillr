@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "paraphrase_accurately",
-    "question": "Which statement correctly explains paraphrase in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which statement correctly explains paraphrase in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "ask_probing_question",
-    "question": "Which description is accurate for probing question in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which description is accurate for probing question in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use ask probing question. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use ask probing question. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "justify_viewpoint",
-    "question": "Which statement gives an example of synthesis in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which statement gives an example of synthesis in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use justify viewpoint. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use justify viewpoint. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "synthesize_two_ideas",
-    "question": "What is important when using paraphrase in interaction skills for discussion and presentation?",
-    "audio_prompt": "What is important when using paraphrase in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use synthesize two ideas. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize two ideas. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "justify_viewpoint",
-    "question": "Which statement is true about probing question in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which statement is true about probing question in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use justify viewpoint. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use justify viewpoint. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "synthesize_two_ideas",
-    "question": "Which response correctly applies synthesize two ideas in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which response correctly applies synthesize two ideas in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use synthesize two ideas. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize two ideas. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "support_equitable_participation",
-    "question": "Which response shows correct use of support equitable participation in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which response shows correct use of support equitable participation in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use support equitable participation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use support equitable participation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "paraphrase_accurately",
-    "question": "Which interpretation is accurate for paraphrase accurately in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which interpretation is accurate for paraphrase accurately in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "ask_probing_question",
-    "question": "Which choice demonstrates ask probing question in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which choice demonstrates ask probing question in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use ask probing question. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use ask probing question. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "support_equitable_participation",
-    "question": "Which claim is accurate about support equitable participation in interaction skills for discussion and presentation?",
-    "audio_prompt": "Which claim is accurate about support equitable participation in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use support equitable participation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use support equitable participation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "paraphrase_accurately",
-    "question": "What is required to apply paraphrase accurately in interaction skills for discussion and presentation?",
-    "audio_prompt": "What is required to apply paraphrase accurately in interaction skills for discussion and presentation?",
+    "question": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use paraphrase accurately. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

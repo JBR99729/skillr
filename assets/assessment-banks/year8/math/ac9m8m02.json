@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_models_to_demonstrate_the_number_of_cubic_centimetres_in_a_cubic_metre_and_relating_this_to_capacities_of_millilitres_and_litres",
-    "question": "Which statement correctly describes use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
-    "audio_prompt": "Which statement correctly describes use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "question": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "solve_practical_problems_involving_volume_and_capacity",
-    "question": "Which statement correctly describes solve practical problems involving volume and capacity?",
-    "audio_prompt": "Which statement correctly describes solve practical problems involving volume and capacity?",
+    "question": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "choose_which_measurements_are_useful_to_consider_when_solving_practical_problems_in_context",
-    "question": "Which statement correctly describes choose which measurements are useful to consider when solving practical problems in context?",
-    "audio_prompt": "Which statement correctly describes choose which measurements are useful to consider when solving practical problems in context?",
+    "question": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "investigating_reasoning_and_finding_solutions_to_measurement_problems_involving_dimensions_rates_volume_and_capacity_of_objects",
-    "question": "Which statement correctly describes investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
-    "audio_prompt": "Which statement correctly describes investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "question": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_models_to_demonstrate_the_number_of_cubic_centimetres_in_a_cubic_metre_and_relating_this_to_capacities_of_millilitres_and_litres",
-    "question": "Which statement gives a valid example of use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
-    "audio_prompt": "Which statement gives a valid example of use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "question": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "solve_practical_problems_involving_volume_and_capacity",
-    "question": "Which statement gives a valid example of solve practical problems involving volume and capacity?",
-    "audio_prompt": "Which statement gives a valid example of solve practical problems involving volume and capacity?",
+    "question": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "choose_which_measurements_are_useful_to_consider_when_solving_practical_problems_in_context",
-    "question": "Which statement gives a valid example of choose which measurements are useful to consider when solving practical problems in context?",
-    "audio_prompt": "Which statement gives a valid example of choose which measurements are useful to consider when solving practical problems in context?",
+    "question": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "investigating_reasoning_and_finding_solutions_to_measurement_problems_involving_dimensions_rates_volume_and_capacity_of_objects",
-    "question": "Which statement gives a valid example of investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
-    "audio_prompt": "Which statement gives a valid example of investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "question": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_models_to_demonstrate_the_number_of_cubic_centimetres_in_a_cubic_metre_and_relating_this_to_capacities_of_millilitres_and_litres",
-    "question": "Which interpretation is accurate for use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
-    "audio_prompt": "Which interpretation is accurate for use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "question": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "solve_practical_problems_involving_volume_and_capacity",
-    "question": "Which interpretation is accurate for solve practical problems involving volume and capacity?",
-    "audio_prompt": "Which interpretation is accurate for solve practical problems involving volume and capacity?",
+    "question": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving solve practical problems involving volume and capacity. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_which_measurements_are_useful_to_consider_when_solving_practical_problems_in_context",
-    "question": "Which interpretation is accurate for choose which measurements are useful to consider when solving practical problems in context?",
-    "audio_prompt": "Which interpretation is accurate for choose which measurements are useful to consider when solving practical problems in context?",
+    "question": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving choose which measurements are useful to consider when solving practical problems in context. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "investigating_reasoning_and_finding_solutions_to_measurement_problems_involving_dimensions_rates_volume_and_capacity_of_objects",
-    "question": "Which interpretation is accurate for investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
-    "audio_prompt": "Which interpretation is accurate for investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "question": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

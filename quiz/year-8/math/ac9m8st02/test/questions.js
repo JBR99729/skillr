@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "explore different methods of sampling used to collect data considering the source and size of samples",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore different methods of sampling used to collect data, considering the source and size of samples?",
-    "audioPrompt": "Which interpretation is accurate for explore different methods of sampling used to collect data, considering the source and size of samples?",
+    "question": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
-    "audioPrompt": "Which interpretation is accurate for compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
+    "question": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
-    "audioPrompt": "Which interpretation is accurate for defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
+    "question": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
-    "audioPrompt": "Which interpretation is accurate for explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
+    "question": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

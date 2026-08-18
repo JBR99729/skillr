@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

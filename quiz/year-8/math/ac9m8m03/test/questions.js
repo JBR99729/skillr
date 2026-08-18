@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "deducing that the area of a circle is between 2 radius squares and 4 radius squares",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
-    "audioPrompt": "Which interpretation is accurate for deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
+    "question": "A Year 8 student is solving a problem involving deducing that the area of a circle is between 2 radius squares and 4 radius squares. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving deducing that the area of a circle is between 2 radius squares and 4 radius squares. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore the area of circles using a square grid or by rearranging a circle divided into smaller",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
-    "audioPrompt": "Which interpretation is accurate for explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
+    "question": "A Year 8 student is solving a problem involving explore the area of circles using a square grid or by rearranging a circle divided into smaller. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore the area of circles using a square grid or by rearranging a circle divided into smaller. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "apply the formulas for the area and circumference of a circle to solve practical problems and using one of the measures of radius diameter",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
-    "audioPrompt": "Which interpretation is accurate for apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
+    "question": "A Year 8 student is solving a problem involving apply the formulas for the area and circumference of a circle to solve practical problems and using one of the measures of radius diameter. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving apply the formulas for the area and circumference of a circle to solve practical problems and using one of the measures of radius diameter. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore traditional weaving designs by first nations australians and investigating the significance and use of circles",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
-    "audioPrompt": "Which interpretation is accurate for explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
+    "question": "A Year 8 student is solving a problem involving explore traditional weaving designs by first nations australians and investigating the significance and use of circles. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore traditional weaving designs by first nations australians and investigating the significance and use of circles. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

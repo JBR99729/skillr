@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "Which statement correctly describes describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
-    "audio_prompt": "Which statement correctly describes describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "question": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "Which statement correctly describes use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
-    "audio_prompt": "Which statement correctly describes use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "question": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "Which statement correctly describes use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
-    "audio_prompt": "Which statement correctly describes use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "question": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "Which statement correctly describes explore first nations australian children’s instructive games?",
-    "audio_prompt": "Which statement correctly describes explore first nations australian children’s instructive games?",
+    "question": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "Which statement gives a valid example of describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
-    "audio_prompt": "Which statement gives a valid example of describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "question": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "Which statement gives a valid example of use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
-    "audio_prompt": "Which statement gives a valid example of use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "question": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "Which statement gives a valid example of use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
-    "audio_prompt": "Which statement gives a valid example of use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "question": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "Which statement gives a valid example of explore first nations australian children’s instructive games?",
-    "audio_prompt": "Which statement gives a valid example of explore first nations australian children’s instructive games?",
+    "question": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
-    "audio_prompt": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "question": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
-    "audio_prompt": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "question": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
-    "audio_prompt": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "question": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
-    "audio_prompt": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
+    "question": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving the application of rates in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model situations involving the application of rates in practical contexts?",
-    "audioPrompt": "Which description correctly applies model situations involving the application of rates in practical contexts?",
+    "question": "A Year 9 student is solving a problem involving model situations involving the application of rates in practical contexts. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving the application of rates in practical contexts. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore fire techniques in land management practices used by first nations australians that use proportion relationships",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore fire techniques in land management practices used by first nations australians that use proportion relationships?",
-    "audioPrompt": "Which description correctly applies explore fire techniques in land management practices used by first nations australians that use proportion relationships?",
+    "question": "A Year 9 student is solving a problem involving explore fire techniques in land management practices used by first nations australians that use proportion relationships. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore fire techniques in land management practices used by first nations australians that use proportion relationships. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
-    "audioPrompt": "Which interpretation is accurate for model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
+    "question": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

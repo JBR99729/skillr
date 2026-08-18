@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "analyse nets of objects to generate short cuts and establish formulas for surface area",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for analyse nets of objects to generate short cuts and establish formulas for surface area?",
-    "audioPrompt": "Which interpretation is accurate for analyse nets of objects to generate short cuts and establish formulas for surface area?",
+    "question": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces?",
-    "audioPrompt": "Which interpretation is accurate for determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces?",
+    "question": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area?",
-    "audioPrompt": "Which interpretation is accurate for find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area?",
+    "question": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity?",
-    "audioPrompt": "Which interpretation is accurate for explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity?",
+    "question": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

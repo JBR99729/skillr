@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
-    "audioPrompt": "Which interpretation is accurate for establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
+    "question": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
-    "audioPrompt": "Which interpretation is accurate for identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
+    "question": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
-    "audioPrompt": "Which interpretation is accurate for apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
+    "question": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
-    "audioPrompt": "Which choice demonstrates establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
+    "question": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

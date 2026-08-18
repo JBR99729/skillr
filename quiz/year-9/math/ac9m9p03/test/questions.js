@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
-    "audioPrompt": "Which interpretation is accurate for use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
+    "question": "A Year 9 student is solving a problem involving use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "compare experiments which differ only by being undertaken with replacement or without replacement",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for compare experiments which differ only by being undertaken with replacement or without replacement?",
-    "audioPrompt": "Which interpretation is accurate for compare experiments which differ only by being undertaken with replacement or without replacement?",
+    "question": "A Year 9 student is solving a problem involving compare experiments which differ only by being undertaken with replacement or without replacement. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving compare experiments which differ only by being undertaken with replacement or without replacement. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "conduct two step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
-    "audioPrompt": "Which interpretation is accurate for conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
+    "question": "A Year 9 student is solving a problem involving conduct two step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving conduct two step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use repeated trials of first nations australian children s instructive games",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use repeated trials of first nations australian children’s instructive games?",
-    "audioPrompt": "Which interpretation is accurate for use repeated trials of first nations australian children’s instructive games?",
+    "question": "A Year 9 student is solving a problem involving use repeated trials of first nations australian children s instructive games. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use repeated trials of first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

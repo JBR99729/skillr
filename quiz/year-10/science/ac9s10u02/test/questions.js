@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
-    "audioPrompt": "Which statement correctly describes explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "question": "A Year 10 student is solving a problem involving explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
-    "audioPrompt": "Which statement correctly describes apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "question": "A Year 10 student is solving a problem involving apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
-    "audioPrompt": "Which statement gives a valid example of explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "question": "A Year 10 student is solving a problem involving explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
-    "audioPrompt": "Which statement gives a valid example of apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "question": "A Year 10 student is solving a problem involving apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

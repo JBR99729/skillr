@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
-    "audioPrompt": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "question": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
-    "audioPrompt": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "question": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
-    "audioPrompt": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "question": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "connect the tangent of an angle to the altitude and base of nested similar right angled triangles",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
-    "audioPrompt": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "question": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

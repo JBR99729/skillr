@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use patterns to assist in establishing the rules for the multiplication and division of integers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use patterns to assist in establishing the rules for the multiplication and division of integers?",
-    "audioPrompt": "Which interpretation is accurate for use patterns to assist in establishing the rules for the multiplication and division of integers?",
+    "question": "A Year 8 student is solving a problem involving use patterns to assist in establishing the rules for the multiplication and division of integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use patterns to assist in establishing the rules for the multiplication and division of integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
-    "audioPrompt": "Which interpretation is accurate for apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
+    "question": "A Year 8 student is solving a problem involving apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "recognise the effect of sign in the multiplication of integers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for recognise the effect of sign in the multiplication of integers?",
-    "audioPrompt": "Which interpretation is accurate for recognise the effect of sign in the multiplication of integers?",
+    "question": "A Year 8 student is solving a problem involving recognise the effect of sign in the multiplication of integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving recognise the effect of sign in the multiplication of integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use patterns to assist in establishing the rules for the multiplication and division of integers",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use patterns to assist in establishing the rules for the multiplication and division of integers?",
-    "audioPrompt": "Which choice demonstrates use patterns to assist in establishing the rules for the multiplication and division of integers?",
+    "question": "A Year 8 student is solving a problem involving use patterns to assist in establishing the rules for the multiplication and division of integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use patterns to assist in establishing the rules for the multiplication and division of integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

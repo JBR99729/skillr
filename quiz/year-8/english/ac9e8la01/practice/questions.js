@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
-    "audioPrompt": "Which statement correctly describes a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
-    "audioPrompt": "Which statement correctly describes a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
-    "audioPrompt": "Which statement gives a valid example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
-    "audioPrompt": "Which statement gives a valid example of a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

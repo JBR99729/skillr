@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use relative frequencies from historical data to predict proportions",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use relative frequencies from historical data to predict proportions?",
-    "audioPrompt": "Which description correctly applies use relative frequencies from historical data to predict proportions?",
+    "question": "A Year 8 student is solving a problem involving use relative frequencies from historical data to predict proportions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use relative frequencies from historical data to predict proportions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore the effect that adding or removing data from a data set has on measures of central tendency and spread",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the effect that adding or removing data from a data set has on measures of central tendency and spread?",
-    "audioPrompt": "Which description correctly applies explore the effect that adding or removing data from a data set has on measures of central tendency and spread?",
+    "question": "A Year 8 student is solving a problem involving explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species?",
-    "audioPrompt": "Which description correctly applies explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species?",
+    "question": "A Year 8 student is solving a problem involving explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems?",
-    "audioPrompt": "Which description correctly applies explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems?",
+    "question": "A Year 8 student is solving a problem involving explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

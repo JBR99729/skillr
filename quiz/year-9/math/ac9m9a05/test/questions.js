@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically?",
-    "audioPrompt": "Which description correctly applies model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically?",
+    "question": "A Year 9 student is solving a problem involving model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "model and solving problems involving financial contexts using linear functions",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model and solving problems involving financial contexts using linear functions?",
-    "audioPrompt": "Which description correctly applies model and solving problems involving financial contexts using linear functions?",
+    "question": "A Year 9 student is solving a problem involving model and solving problems involving financial contexts using linear functions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model and solving problems involving financial contexts using linear functions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving change",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model situations involving change?",
-    "audioPrompt": "Which description correctly applies model situations involving change?",
+    "question": "A Year 9 student is solving a problem involving model situations involving change. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving change. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey?",
-    "audioPrompt": "Which description correctly applies model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey?",
+    "question": "A Year 9 student is solving a problem involving model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

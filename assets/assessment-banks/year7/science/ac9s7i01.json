@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "operationalise_a_variable",
-    "question": "Which statement correctly explains investigable question in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which statement correctly explains investigable question in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "write_a_relationship_question",
-    "question": "Which description is accurate for prediction in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which description is accurate for prediction in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_prediction_hypothesis",
-    "question": "Which statement gives an example of hypothesis in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which statement gives an example of hypothesis in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "name_controls",
-    "question": "What is important when using investigable question in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "What is important when using investigable question in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_prediction_hypothesis",
-    "question": "Which statement is true about prediction in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which statement is true about prediction in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "name_controls",
-    "question": "Which response correctly applies name controls in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which response correctly applies name controls in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_falsifiable_evidence",
-    "question": "Which response shows correct use of identify falsifiable evidence in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which response shows correct use of identify falsifiable evidence in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "operationalise_a_variable",
-    "question": "Which interpretation is accurate for operationalise a variable in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which interpretation is accurate for operationalise a variable in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_relationship_question",
-    "question": "Which choice demonstrates write a relationship question in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which choice demonstrates write a relationship question in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_falsifiable_evidence",
-    "question": "Which claim is accurate about identify falsifiable evidence in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "Which claim is accurate about identify falsifiable evidence in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "operationalise_a_variable",
-    "question": "What is required to apply operationalise a variable in investigable questions, predictions and hypotheses?",
-    "audio_prompt": "What is required to apply operationalise a variable in investigable questions, predictions and hypotheses?",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

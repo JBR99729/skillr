@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape using graphics and text animations to accompany spoken text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape using graphics and text animations to accompany spoken text and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape using graphics and text animations to accompany spoken text and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape using graphics and text animations to accompany spoken text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape using graphics and text animations to accompany spoken text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape selecting features of voice such as tone volume pitch and pace for their specific effects to create tone or to persuade an audience and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape selecting features of voice such as tone, volume, pitch and pace for their specific effects to create tone or to persuade an audience and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape selecting features of voice such as tone, volume, pitch and pace for their specific effects to create tone or to persuade an audience and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape selecting features of voice such as tone volume pitch and pace for their specific effects to create tone or to persuade an audience and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape selecting features of voice such as tone volume pitch and pace for their specific effects to create tone or to persuade an audience and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape choosing text structures and adapting literary devices such as similes metaphors and personification to meet the perceived needs of an audience when debating a topic creating a voiceover for a media presentation or presenting a seminar and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape choosing text structures and adapting literary devices such as similes, metaphors and personification to meet the perceived needs of an audience when debating a topic, creating a voiceover for a media presentation or presenting a seminar and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape choosing text structures and adapting literary devices such as similes, metaphors and personification to meet the perceived needs of an audience when debating a topic, creating a voiceover for a media presentation or presenting a seminar and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape choosing text structures and adapting literary devices such as similes metaphors and personification to meet the perceived needs of an audience when debating a topic creating a voiceover for a media presentation or presenting a seminar and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape choosing text structures and adapting literary devices such as similes metaphors and personification to meet the perceived needs of an audience when debating a topic creating a voiceover for a media presentation or presenting a seminar and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape collaborating with peers to develop imaginative recreations of part of a text or to represent a key idea in a text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape collaborating with peers to develop imaginative recreations of part of a text or to represent a key idea in a text and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape collaborating with peers to develop imaginative recreations of part of a text or to represent a key idea in a text and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape collaborating with peers to develop imaginative recreations of part of a text or to represent a key idea in a text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape collaborating with peers to develop imaginative recreations of part of a text or to represent a key idea in a text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

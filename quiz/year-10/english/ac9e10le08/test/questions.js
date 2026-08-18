@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape experimenting with the aesthetic features that authors use in their own texts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape creating a range of texts experimenting with and manipulating voice for particular purposes and audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape creating a range of texts, experimenting with and manipulating “voice” for particular purposes and audiences and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape creating a range of texts experimenting with and manipulating voice for particular purposes and audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape creating a range of texts experimenting with and manipulating voice for particular purposes and audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating and editing a suite of short texts that focus on a key idea expressed in different voices and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use reader response to shape describing choices of text structures literary devices language auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use reader response to shape describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use reader response to shape describing choices of text structures, literary devices, language, auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use reader response to shape describing choices of text structures literary devices language auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use reader response to shape describing choices of text structures literary devices language auditory or visual features made in a literary text and reflecting on the effect of those choices and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

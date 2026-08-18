@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use judging the validity of science-related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use judging the validity of science-related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

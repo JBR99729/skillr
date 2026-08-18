@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

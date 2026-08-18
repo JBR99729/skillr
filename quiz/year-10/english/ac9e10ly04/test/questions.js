@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

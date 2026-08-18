@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_metaphor",
-    "question": "Which statement correctly explains literary device in literary devices, language and meaning?",
-    "audio_prompt": "Which statement correctly explains literary device in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_motif",
-    "question": "Which description is accurate for motif in literary devices, language and meaning?",
-    "audio_prompt": "Which description is accurate for motif in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_irony",
-    "question": "Which statement gives an example of irony in literary devices, language and meaning?",
-    "audio_prompt": "Which statement gives an example of irony in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "connect_sound_syntax",
-    "question": "What is important when using literary device in literary devices, language and meaning?",
-    "audio_prompt": "What is important when using literary device in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_irony",
-    "question": "Which statement is true about motif in literary devices, language and meaning?",
-    "audio_prompt": "Which statement is true about motif in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_sound_syntax",
-    "question": "Which response correctly applies connect sound/syntax in literary devices, language and meaning?",
-    "audio_prompt": "Which response correctly applies connect sound/syntax in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "build_whole_text_interpretation",
-    "question": "Which response shows correct use of build whole-text interpretation in literary devices, language and meaning?",
-    "audio_prompt": "Which response shows correct use of build whole-text interpretation in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_metaphor",
-    "question": "Which interpretation is accurate for analyse metaphor in literary devices, language and meaning?",
-    "audio_prompt": "Which interpretation is accurate for analyse metaphor in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "trace_motif",
-    "question": "Which choice demonstrates trace motif in literary devices, language and meaning?",
-    "audio_prompt": "Which choice demonstrates trace motif in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "build_whole_text_interpretation",
-    "question": "Which claim is accurate about build whole-text interpretation in literary devices, language and meaning?",
-    "audio_prompt": "Which claim is accurate about build whole-text interpretation in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_metaphor",
-    "question": "What is required to apply analyse metaphor in literary devices, language and meaning?",
-    "audio_prompt": "What is required to apply analyse metaphor in literary devices, language and meaning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

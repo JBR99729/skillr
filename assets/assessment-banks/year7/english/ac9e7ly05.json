@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "build_inference",
-    "question": "Which statement correctly explains inference in strategic comprehension and critical reading?",
-    "audio_prompt": "Which statement correctly explains inference in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "repair_confusion",
-    "question": "Which description is accurate for synthesis in strategic comprehension and critical reading?",
-    "audio_prompt": "Which description is accurate for synthesis in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "synthesize_sources",
-    "question": "Which statement gives an example of monitoring in strategic comprehension and critical reading?",
-    "audio_prompt": "Which statement gives an example of monitoring in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "evaluate_credibility",
-    "question": "What is important when using inference in strategic comprehension and critical reading?",
-    "audio_prompt": "What is important when using inference in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "synthesize_sources",
-    "question": "Which statement is true about synthesis in strategic comprehension and critical reading?",
-    "audio_prompt": "Which statement is true about synthesis in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "evaluate_credibility",
-    "question": "Which response correctly applies evaluate credibility in strategic comprehension and critical reading?",
-    "audio_prompt": "Which response correctly applies evaluate credibility in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "revise_prediction",
-    "question": "Which response shows correct use of revise prediction in strategic comprehension and critical reading?",
-    "audio_prompt": "Which response shows correct use of revise prediction in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "build_inference",
-    "question": "Which interpretation is accurate for build inference in strategic comprehension and critical reading?",
-    "audio_prompt": "Which interpretation is accurate for build inference in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "repair_confusion",
-    "question": "Which choice demonstrates repair confusion in strategic comprehension and critical reading?",
-    "audio_prompt": "Which choice demonstrates repair confusion in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "revise_prediction",
-    "question": "Which claim is accurate about revise prediction in strategic comprehension and critical reading?",
-    "audio_prompt": "Which claim is accurate about revise prediction in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "build_inference",
-    "question": "What is required to apply build inference in strategic comprehension and critical reading?",
-    "audio_prompt": "What is required to apply build inference in strategic comprehension and critical reading?",
+    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
-    "audioPrompt": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
+    "question": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
-    "audioPrompt": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
+    "question": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "design and making scale models of three dimensional objects using digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
-    "audioPrompt": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
+    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

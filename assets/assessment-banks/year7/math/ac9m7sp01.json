@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "draw_three_orthographic_views",
-    "question": "Which statement correctly explains orthographic view in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which statement correctly explains orthographic view in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_isometric_sketch",
-    "question": "Which description is accurate for isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which description is accurate for isometric sketch in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_ambiguity",
-    "question": "Which statement gives an example of cross-section in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which statement gives an example of cross-section in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "choose_a_representation",
-    "question": "What is important when using orthographic view in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "What is important when using orthographic view in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_ambiguity",
-    "question": "Which statement is true about isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which statement is true about isometric sketch in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_a_representation",
-    "question": "Which response correctly applies choose a representation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which response correctly applies choose a representation in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "state_a_limitation",
-    "question": "Which response shows correct use of state a limitation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which response shows correct use of state a limitation in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "draw_three_orthographic_views",
-    "question": "Which interpretation is accurate for draw three orthographic views in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which interpretation is accurate for draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "interpret_an_isometric_sketch",
-    "question": "Which choice demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which choice demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "state_a_limitation",
-    "question": "Which claim is accurate about state a limitation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which claim is accurate about state a limitation in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "draw_three_orthographic_views",
-    "question": "What is required to apply draw three orthographic views in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "What is required to apply draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

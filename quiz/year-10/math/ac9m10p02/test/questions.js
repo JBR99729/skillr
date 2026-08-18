@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
-    "audioPrompt": "Which description correctly applies identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
+    "question": "A Year 10 student is solving a problem involving identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving identify situations in real life where probability simulations are used for decision making such as supply and demand of product insurance risk and queueing. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use simulation to predict the number of people likely to be infected with a strain of flu or virus",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
-    "audioPrompt": "Which description correctly applies use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
+    "question": "A Year 10 student is solving a problem involving use simulation to predict the number of people likely to be infected with a strain of flu or virus. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use simulation to predict the number of people likely to be infected with a strain of flu or virus. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
-    "audioPrompt": "Which interpretation is accurate for use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
+    "question": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

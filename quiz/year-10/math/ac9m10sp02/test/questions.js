@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
-    "audioPrompt": "Which description correctly applies explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
+    "question": "A Year 10 student is solving a problem involving explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
-    "audioPrompt": "Which description correctly applies explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
+    "question": "A Year 10 student is solving a problem involving explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explore the use of networks to represent authentic situations",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the use of networks to represent authentic situations?",
-    "audioPrompt": "Which description correctly applies explore the use of networks to represent authentic situations?",
+    "question": "A Year 10 student is solving a problem involving explore the use of networks to represent authentic situations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the use of networks to represent authentic situations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
-    "audioPrompt": "Which description correctly applies represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
+    "question": "A Year 10 student is solving a problem involving represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

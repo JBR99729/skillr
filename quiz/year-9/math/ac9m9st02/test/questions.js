@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
-    "audioPrompt": "Which interpretation is accurate for explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
-    "audioPrompt": "Which interpretation is accurate for discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
-    "audioPrompt": "Which interpretation is accurate for explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
-    "audioPrompt": "Which choice demonstrates explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

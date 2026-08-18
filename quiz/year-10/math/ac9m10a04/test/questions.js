@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians artefacts or material culture",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians’ artefacts or material culture?",
-    "audioPrompt": "Which description correctly applies model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians’ artefacts or material culture?",
+    "question": "A Year 10 student is solving a problem involving model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians artefacts or material culture. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving model and investigating how exponential equations are used in carbon dating to estimate the age of first nations australians artefacts or material culture. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "model and formulating situations involving population growths of native animals on country place with varying reproductive behaviour using exponential equations and critiquing their applicability to real world situations",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model and formulating situations involving population growths of native animals on country/place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations?",
-    "audioPrompt": "Which description correctly applies model and formulating situations involving population growths of native animals on country/place with varying reproductive behaviour, using exponential equations and critiquing their applicability to real-world situations?",
+    "question": "A Year 10 student is solving a problem involving model and formulating situations involving population growths of native animals on country place with varying reproductive behaviour using exponential equations and critiquing their applicability to real world situations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving model and formulating situations involving population growths of native animals on country place with varying reproductive behaviour using exponential equations and critiquing their applicability to real world situations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "model situations and choosing between linear quadratic and exponential models by representing relationships in a table of values",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values?",
-    "audioPrompt": "Which interpretation is accurate for model situations and choosing between linear, quadratic and exponential models by representing relationships in a table of values?",
+    "question": "A Year 10 student is solving a problem involving model situations and choosing between linear quadratic and exponential models by representing relationships in a table of values. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving model situations and choosing between linear quadratic and exponential models by representing relationships in a table of values. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore sufficient conditions to establish that 2 triangles are congruent",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore sufficient conditions to establish that 2 triangles are congruent?",
-    "audioPrompt": "Which description correctly applies explore sufficient conditions to establish that 2 triangles are congruent?",
+    "question": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
-    "audioPrompt": "Which description correctly applies apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
+    "question": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies compare angle and side measurements of shapes under transformation to answer questions such as “what changes?” and “what stays the same?”?",
-    "audioPrompt": "Which description correctly applies compare angle and side measurements of shapes under transformation to answer questions such as “what changes?” and “what stays the same?”?",
+    "question": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations?",
-    "audioPrompt": "Which description correctly applies establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations?",
+    "question": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

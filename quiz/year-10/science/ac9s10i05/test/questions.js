@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

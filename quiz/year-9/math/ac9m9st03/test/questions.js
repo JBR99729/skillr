@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
-    "audioPrompt": "Which interpretation is accurate for describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
+    "question": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
-    "audioPrompt": "Which interpretation is accurate for use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
+    "question": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
-    "audioPrompt": "Which interpretation is accurate for construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
+    "question": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
-    "audioPrompt": "Which interpretation is accurate for explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
+    "question": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "create_an_algorithm_using_pseudocode_or_flow_charts_to_apply_the_triangle_inequality_or_an_algorithm_to_generate_pythagorean_triples",
-    "question": "Which statement correctly describes create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "audio_prompt": "Which statement correctly describes create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "create_and_testing_algorithms_designed_to_construct_or_bisect_angles_using_pseudocode_or_flow_charts",
-    "question": "Which statement correctly describes create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
-    "audio_prompt": "Which statement correctly describes create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
+    "question": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "develop_an_algorithm_for_an_animation_of_a_geometric_construction_or_a_visual_proof_evaluating_the_algorithm_using_test_cases",
-    "question": "Which statement correctly describes develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
-    "audio_prompt": "Which statement correctly describes develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "question": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "create_an_algorithm_using_pseudocode_or_flow_charts_to_apply_the_triangle_inequality_or_an_algorithm_to_generate_pythagorean_triples",
-    "question": "Which statement gives a valid example of create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "audio_prompt": "Which statement gives a valid example of create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "create_and_testing_algorithms_designed_to_construct_or_bisect_angles_using_pseudocode_or_flow_charts",
-    "question": "Which statement gives a valid example of create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
-    "audio_prompt": "Which statement gives a valid example of create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
+    "question": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "develop_an_algorithm_for_an_animation_of_a_geometric_construction_or_a_visual_proof_evaluating_the_algorithm_using_test_cases",
-    "question": "Which statement gives a valid example of develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
-    "audio_prompt": "Which statement gives a valid example of develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "question": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "create_an_algorithm_using_pseudocode_or_flow_charts_to_apply_the_triangle_inequality_or_an_algorithm_to_generate_pythagorean_triples",
-    "question": "Which interpretation is accurate for create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "audio_prompt": "Which interpretation is accurate for create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "create_and_testing_algorithms_designed_to_construct_or_bisect_angles_using_pseudocode_or_flow_charts",
-    "question": "Which interpretation is accurate for create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
-    "audio_prompt": "Which interpretation is accurate for create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
+    "question": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "develop_an_algorithm_for_an_animation_of_a_geometric_construction_or_a_visual_proof_evaluating_the_algorithm_using_test_cases",
-    "question": "Which interpretation is accurate for develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
-    "audio_prompt": "Which interpretation is accurate for develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "question": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "create_an_algorithm_using_pseudocode_or_flow_charts_to_apply_the_triangle_inequality_or_an_algorithm_to_generate_pythagorean_triples",
-    "question": "Which choice demonstrates create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "audio_prompt": "Which choice demonstrates create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

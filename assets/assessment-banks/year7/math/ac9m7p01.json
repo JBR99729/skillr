@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "list_a_sample_space",
-    "question": "Which statement correctly explains sample space in sample spaces and single-stage probability?",
-    "audio_prompt": "Which statement correctly explains sample space in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "assign_weighted_probabilities",
-    "question": "Which description is accurate for event in sample spaces and single-stage probability?",
-    "audio_prompt": "Which description is accurate for event in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_a_complement",
-    "question": "Which statement gives an example of complement in sample spaces and single-stage probability?",
-    "audio_prompt": "Which statement gives an example of complement in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "predict_expected_count",
-    "question": "What is important when using sample space in sample spaces and single-stage probability?",
-    "audio_prompt": "What is important when using sample space in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_a_complement",
-    "question": "Which statement is true about event in sample spaces and single-stage probability?",
-    "audio_prompt": "Which statement is true about event in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "predict_expected_count",
-    "question": "Which response correctly applies predict expected count in sample spaces and single-stage probability?",
-    "audio_prompt": "Which response correctly applies predict expected count in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "check_probabilities_sum_to_1",
-    "question": "Which response shows correct use of check probabilities sum to 1 in sample spaces and single-stage probability?",
-    "audio_prompt": "Which response shows correct use of check probabilities sum to 1 in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "list_a_sample_space",
-    "question": "Which interpretation is accurate for list a sample space in sample spaces and single-stage probability?",
-    "audio_prompt": "Which interpretation is accurate for list a sample space in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "assign_weighted_probabilities",
-    "question": "Which choice demonstrates assign weighted probabilities in sample spaces and single-stage probability?",
-    "audio_prompt": "Which choice demonstrates assign weighted probabilities in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "check_probabilities_sum_to_1",
-    "question": "Which claim is accurate about check probabilities sum to 1 in sample spaces and single-stage probability?",
-    "audio_prompt": "Which claim is accurate about check probabilities sum to 1 in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "list_a_sample_space",
-    "question": "What is required to apply list a sample space in sample spaces and single-stage probability?",
-    "audio_prompt": "What is required to apply list a sample space in sample spaces and single-stage probability?",
+    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

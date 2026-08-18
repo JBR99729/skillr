@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "identify pythagorean triples such as 3 4 5 5 12 13 7 24 25 and 8 15 17",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies identify pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17)?",
-    "audioPrompt": "Which description correctly applies identify pythagorean triples, such as (3,4,5), (5,12,13), (7, 24, 25) and (8,15, 17)?",
+    "question": "A Year 8 student is solving a problem involving identify pythagorean triples such as 3 4 5 5 12 13 7 24 25 and 8 15 17. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify pythagorean triples such as 3 4 5 5 12 13 7 24 25 and 8 15 17. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how pythagoras theorem can be applied to determine the distance between two points in the plane and how this can be used",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used?",
-    "audioPrompt": "Which description correctly applies explore how pythagoras' theorem can be applied to determine the distance between two points in the plane, and how this can be used?",
+    "question": "A Year 8 student is solving a problem involving explore how pythagoras theorem can be applied to determine the distance between two points in the plane and how this can be used. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore how pythagoras theorem can be applied to determine the distance between two points in the plane and how this can be used. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "discuss and comparing different applications demonstrations and proofs of pythagoras theorem from egypt and mesopotamia greece india and china with other historical and contemporary applications and proofs",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs?",
-    "audioPrompt": "Which interpretation is accurate for discuss and comparing different applications, demonstrations and proofs of pythagoras’ theorem, from egypt and mesopotamia, greece, india and china with other historical and contemporary applications and proofs?",
+    "question": "A Year 8 student is solving a problem involving discuss and comparing different applications demonstrations and proofs of pythagoras theorem from egypt and mesopotamia greece india and china with other historical and contemporary applications and proofs. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving discuss and comparing different applications demonstrations and proofs of pythagoras theorem from egypt and mesopotamia greece india and china with other historical and contemporary applications and proofs. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

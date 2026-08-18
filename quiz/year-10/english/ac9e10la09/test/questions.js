@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape examining an author s use of ellipses to create tentativeness in a character s speech and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape examining an author’s use of ellipses to create tentativeness in a character’s speech and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape examining an author’s use of ellipses to create tentativeness in a character’s speech and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining an author s use of ellipses to create tentativeness in a character s speech and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining an author s use of ellipses to create tentativeness in a character s speech and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use relationship to shape reviewing the use of punctuation to represent emotions and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use relationship to shape reviewing the use of punctuation to represent emotions and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use relationship to shape reviewing the use of punctuation to represent emotions and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape reviewing the use of punctuation to represent emotions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape reviewing the use of punctuation to represent emotions and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape using colons and semicolons in expositions and other extended texts to add detail or extend an idea and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

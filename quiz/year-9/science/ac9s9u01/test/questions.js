@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

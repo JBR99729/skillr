@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "construct_a_stem_plot",
-    "question": "Which statement correctly explains distribution in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which statement correctly explains distribution in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_median_from_display",
-    "question": "Which description is accurate for stem-and-leaf plot in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which description is accurate for stem-and-leaf plot in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_ranges",
-    "question": "Which statement gives an example of skew in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which statement gives an example of skew in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "describe_skew_cluster_gap",
-    "question": "What is important when using distribution in numerical data displays and distribution comparison?",
-    "audio_prompt": "What is important when using distribution in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_ranges",
-    "question": "Which statement is true about stem-and-leaf plot in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which statement is true about stem-and-leaf plot in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "describe_skew_cluster_gap",
-    "question": "Which response correctly applies describe skew/cluster/gap in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which response correctly applies describe skew/cluster/gap in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_an_effective_display",
-    "question": "Which response shows correct use of choose an effective display in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which response shows correct use of choose an effective display in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "construct_a_stem_plot",
-    "question": "Which interpretation is accurate for construct a stem plot in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which interpretation is accurate for construct a stem plot in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_median_from_display",
-    "question": "Which choice demonstrates find median from display in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which choice demonstrates find median from display in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_an_effective_display",
-    "question": "Which claim is accurate about choose an effective display in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which claim is accurate about choose an effective display in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "construct_a_stem_plot",
-    "question": "What is required to apply construct a stem plot in numerical data displays and distribution comparison?",
-    "audio_prompt": "What is required to apply construct a stem plot in numerical data displays and distribution comparison?",
+    "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

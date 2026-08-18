@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_the_gradient_of_a_line_is_calculated_using_the_gradient_of_a_line_segment_on_that_line",
-    "question": "Which statement correctly describes recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
-    "audio_prompt": "Which statement correctly describes recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
+    "question": "A Year 9 student is solving a problem involving recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_and_transformations_to_illustrate_that_parallel_lines_in_the_cartesian_plane_have_the_same_gradient",
-    "question": "Which statement correctly describes use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
-    "audio_prompt": "Which statement correctly describes use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
+    "question": "A Year 9 student is solving a problem involving use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_pythagoras_theorem_to_establish_the_distance_between_2_points_in_the_cartesian_plane_and_applying_this_using_horizontal_and_vertical_distances_and_coordinates",
-    "question": "Which statement correctly describes use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
-    "audio_prompt": "Which statement correctly describes use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
+    "question": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_graphical_and_algebraic_techniques_for_finding_the_midpoint_and_gradient_of_the_line_segment_between_2_points",
-    "question": "Which statement correctly describes explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
-    "audio_prompt": "Which statement correctly describes explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
+    "question": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_dynamic_graphing_software_and_superimposed_images",
-    "question": "Which statement correctly describes use dynamic graphing software and superimposed images?",
-    "audio_prompt": "Which statement correctly describes use dynamic graphing software and superimposed images?",
+    "question": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_coordinate_geometry_and_aspects_of_linear_algebra_play_a_fundamental_role_in_machine_learning_and_predictive_algorithms",
-    "question": "Which statement correctly describes explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
-    "audio_prompt": "Which statement correctly describes explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
+    "question": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_the_gradient_of_a_line_is_calculated_using_the_gradient_of_a_line_segment_on_that_line",
-    "question": "Which statement gives a valid example of recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
-    "audio_prompt": "Which statement gives a valid example of recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
+    "question": "A Year 9 student is solving a problem involving recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_and_transformations_to_illustrate_that_parallel_lines_in_the_cartesian_plane_have_the_same_gradient",
-    "question": "Which statement gives a valid example of use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
-    "audio_prompt": "Which statement gives a valid example of use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
+    "question": "A Year 9 student is solving a problem involving use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_pythagoras_theorem_to_establish_the_distance_between_2_points_in_the_cartesian_plane_and_applying_this_using_horizontal_and_vertical_distances_and_coordinates",
-    "question": "Which description correctly applies use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
-    "audio_prompt": "Which description correctly applies use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
+    "question": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_graphical_and_algebraic_techniques_for_finding_the_midpoint_and_gradient_of_the_line_segment_between_2_points",
-    "question": "Which description correctly applies explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
-    "audio_prompt": "Which description correctly applies explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
+    "question": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_dynamic_graphing_software_and_superimposed_images",
-    "question": "Which description correctly applies use dynamic graphing software and superimposed images?",
-    "audio_prompt": "Which description correctly applies use dynamic graphing software and superimposed images?",
+    "question": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_coordinate_geometry_and_aspects_of_linear_algebra_play_a_fundamental_role_in_machine_learning_and_predictive_algorithms",
-    "question": "Which description correctly applies explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
-    "audio_prompt": "Which description correctly applies explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
+    "question": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

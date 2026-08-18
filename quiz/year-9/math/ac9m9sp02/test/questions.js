@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "compare the ratio of lengths of corresponding sides of similar triangles and angles",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for compare the ratio of lengths of corresponding sides of similar triangles and angles?",
-    "audioPrompt": "Which interpretation is accurate for compare the ratio of lengths of corresponding sides of similar triangles and angles?",
+    "question": "A Year 9 student is solving a problem involving compare the ratio of lengths of corresponding sides of similar triangles and angles. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving compare the ratio of lengths of corresponding sides of similar triangles and angles. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the properties of similarity to solve problems involving enlargement",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the properties of similarity to solve problems involving enlargement?",
-    "audioPrompt": "Which interpretation is accurate for use the properties of similarity to solve problems involving enlargement?",
+    "question": "A Year 9 student is solving a problem involving use the properties of similarity to solve problems involving enlargement. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use the properties of similarity to solve problems involving enlargement. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
-    "audioPrompt": "Which interpretation is accurate for explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
+    "question": "A Year 9 student is solving a problem involving explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "compare the ratio of lengths of corresponding sides of similar triangles and angles",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates compare the ratio of lengths of corresponding sides of similar triangles and angles?",
-    "audioPrompt": "Which choice demonstrates compare the ratio of lengths of corresponding sides of similar triangles and angles?",
+    "question": "A Year 9 student is solving a problem involving compare the ratio of lengths of corresponding sides of similar triangles and angles. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving compare the ratio of lengths of corresponding sides of similar triangles and angles. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

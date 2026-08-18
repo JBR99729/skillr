@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

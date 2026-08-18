@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
-    "audioPrompt": "Which description correctly applies use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
+    "question": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
-    "audioPrompt": "Which description correctly applies explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
+    "question": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use dynamic graphing software and superimposed images",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use dynamic graphing software and superimposed images?",
-    "audioPrompt": "Which description correctly applies use dynamic graphing software and superimposed images?",
+    "question": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use dynamic graphing software and superimposed images. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
-    "audioPrompt": "Which description correctly applies explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
+    "question": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

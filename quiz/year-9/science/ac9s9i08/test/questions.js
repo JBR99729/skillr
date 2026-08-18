@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_variable_type",
-    "question": "Which statement correctly explains mean in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which statement correctly explains mean in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_mean_median_mode_range",
-    "question": "Which description is accurate for median in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which description is accurate for median in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_outlier",
-    "question": "Which statement gives an example of range in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which statement gives an example of range in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "clean_a_data_table",
-    "question": "What is important when using mean in acquiring numerical data and measures of centre?",
-    "audio_prompt": "What is important when using mean in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_outlier",
-    "question": "Which statement is true about median in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which statement is true about median in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "clean_a_data_table",
-    "question": "Which response correctly applies clean a data table in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which response correctly applies clean a data table in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "audit_a_spreadsheet_formula",
-    "question": "Which response shows correct use of audit a spreadsheet formula in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which response shows correct use of audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_variable_type",
-    "question": "Which interpretation is accurate for classify variable type in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which interpretation is accurate for classify variable type in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "calculate_mean_median_mode_range",
-    "question": "Which choice demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which choice demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "audit_a_spreadsheet_formula",
-    "question": "Which claim is accurate about audit a spreadsheet formula in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which claim is accurate about audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_variable_type",
-    "question": "What is required to apply classify variable type in acquiring numerical data and measures of centre?",
-    "audio_prompt": "What is required to apply classify variable type in acquiring numerical data and measures of centre?",
+    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

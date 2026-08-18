@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving the use of ratios in radiocarbon dating methods including the ratio of carbon 14 to carbon 12 isotopes in organisms",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms?",
-    "audioPrompt": "Which description correctly applies model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms?",
+    "question": "A Year 8 student is solving a problem involving model situations involving the use of ratios in radiocarbon dating methods including the ratio of carbon 14 to carbon 12 isotopes in organisms. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving the use of ratios in radiocarbon dating methods including the ratio of carbon 14 to carbon 12 isotopes in organisms. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving ratio and its application in the making of string and cordage by first nations australians including the ratio of length to the mass of a rope",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies model situations involving ratio and its application in the making of string and cordage by first nations australians, including the ratio of length to the mass of a rope?",
-    "audioPrompt": "Which description correctly applies model situations involving ratio and its application in the making of string and cordage by first nations australians, including the ratio of length to the mass of a rope?",
+    "question": "A Year 8 student is solving a problem involving model situations involving ratio and its application in the making of string and cordage by first nations australians including the ratio of length to the mass of a rope. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving ratio and its application in the making of string and cordage by first nations australians including the ratio of length to the mass of a rope. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "model and solving problems related to situations such as scales on maps and plans the mixing of chemicals or ingredients or calculating magnification factors applying relevant ratios",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
-    "audioPrompt": "Which interpretation is accurate for model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
+    "question": "A Year 8 student is solving a problem involving model and solving problems related to situations such as scales on maps and plans the mixing of chemicals or ingredients or calculating magnification factors applying relevant ratios. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model and solving problems related to situations such as scales on maps and plans the mixing of chemicals or ingredients or calculating magnification factors applying relevant ratios. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

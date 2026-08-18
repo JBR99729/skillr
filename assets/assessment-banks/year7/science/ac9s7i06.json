@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_an_assumption",
-    "question": "Which statement correctly explains assumption in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which statement correctly explains assumption in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "classify_error_bias",
-    "question": "Which description is accurate for bias in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which description is accurate for bias in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_confounding",
-    "question": "Which statement gives an example of confounding variable in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which statement gives an example of confounding variable in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "evaluate_conclusion_scope",
-    "question": "What is important when using assumption in evaluating methods, conclusions and claims?",
-    "audio_prompt": "What is important when using assumption in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_confounding",
-    "question": "Which statement is true about bias in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which statement is true about bias in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "evaluate_conclusion_scope",
-    "question": "Which response correctly applies evaluate conclusion scope in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which response correctly applies evaluate conclusion scope in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "reconcile_conflicting_evidence",
-    "question": "Which response shows correct use of reconcile conflicting evidence in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which response shows correct use of reconcile conflicting evidence in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating reconcile conflicting evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating reconcile conflicting evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_an_assumption",
-    "question": "Which interpretation is accurate for identify an assumption in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which interpretation is accurate for identify an assumption in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "classify_error_bias",
-    "question": "Which choice demonstrates classify error/bias in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which choice demonstrates classify error/bias in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "reconcile_conflicting_evidence",
-    "question": "Which claim is accurate about reconcile conflicting evidence in evaluating methods, conclusions and claims?",
-    "audio_prompt": "Which claim is accurate about reconcile conflicting evidence in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating reconcile conflicting evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating reconcile conflicting evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_an_assumption",
-    "question": "What is required to apply identify an assumption in evaluating methods, conclusions and claims?",
-    "audio_prompt": "What is required to apply identify an assumption in evaluating methods, conclusions and claims?",
+    "question": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

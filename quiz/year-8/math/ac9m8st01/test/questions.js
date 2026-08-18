@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools such as simulations and digital measuring devices to observe measure and record qualitative and quantitative data discussing precision and the implications of error",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
-    "audioPrompt": "Which description correctly applies use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
+    "question": "A Year 8 student is solving a problem involving use digital tools such as simulations and digital measuring devices to observe measure and record qualitative and quantitative data discussing precision and the implications of error. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools such as simulations and digital measuring devices to observe measure and record qualitative and quantitative data discussing precision and the implications of error. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how decisions concerning sampling relate to the training of artificial intelligence systems",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
-    "audioPrompt": "Which description correctly applies explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
+    "question": "A Year 8 student is solving a problem involving explore how decisions concerning sampling relate to the training of artificial intelligence systems. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore how decisions concerning sampling relate to the training of artificial intelligence systems. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "identify situations where data can be collected by census and those where a sample is appropriate",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for identify situations where data can be collected by census and those where a sample is appropriate?",
-    "audioPrompt": "Which interpretation is accurate for identify situations where data can be collected by census and those where a sample is appropriate?",
+    "question": "A Year 8 student is solving a problem involving identify situations where data can be collected by census and those where a sample is appropriate. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify situations where data can be collected by census and those where a sample is appropriate. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

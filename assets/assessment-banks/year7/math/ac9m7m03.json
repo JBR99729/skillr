@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_c_from_radius",
-    "question": "Which statement correctly explains radius in circle features and circumference?",
-    "audio_prompt": "Which statement correctly explains radius in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_radius_from_diameter",
-    "question": "Which description is accurate for diameter in circle features and circumference?",
-    "audio_prompt": "Which description is accurate for diameter in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "estimate_wheel_travel",
-    "question": "Which statement gives an example of circumference in circle features and circumference?",
-    "audio_prompt": "Which statement gives an example of circumference in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explain_as_ratio",
-    "question": "What is important when using radius in circle features and circumference?",
-    "audio_prompt": "What is important when using radius in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "estimate_wheel_travel",
-    "question": "Which statement is true about diameter in circle features and circumference?",
-    "audio_prompt": "Which statement is true about diameter in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explain_as_ratio",
-    "question": "Which response correctly applies explain π as ratio in circle features and circumference?",
-    "audio_prompt": "Which response correctly applies explain π as ratio in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_correct_units_and_accuracy",
-    "question": "Which response shows correct use of use correct units and accuracy in circle features and circumference?",
-    "audio_prompt": "Which response shows correct use of use correct units and accuracy in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_c_from_radius",
-    "question": "Which interpretation is accurate for find c from radius in circle features and circumference?",
-    "audio_prompt": "Which interpretation is accurate for find c from radius in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_radius_from_diameter",
-    "question": "Which choice demonstrates find radius from diameter in circle features and circumference?",
-    "audio_prompt": "Which choice demonstrates find radius from diameter in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_correct_units_and_accuracy",
-    "question": "Which claim is accurate about use correct units and accuracy in circle features and circumference?",
-    "audio_prompt": "Which claim is accurate about use correct units and accuracy in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_c_from_radius",
-    "question": "What is required to apply find c from radius in circle features and circumference?",
-    "audio_prompt": "What is required to apply find c from radius in circle features and circumference?",
+    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
-    "audioPrompt": "Which description correctly applies estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
+    "question": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
-    "audioPrompt": "Which description correctly applies explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
+    "question": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore error as a percentage of the exact value",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore error as a percentage of the exact value?",
-    "audioPrompt": "Which interpretation is accurate for explore error as a percentage of the exact value?",
+    "question": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

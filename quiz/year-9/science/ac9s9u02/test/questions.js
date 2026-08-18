@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "Which statement correctly describes understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
-    "audio_prompt": "Which statement correctly describes understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "question": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "Which statement correctly describes explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
-    "audio_prompt": "Which statement correctly describes explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "question": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "Which statement correctly describes establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
-    "audio_prompt": "Which statement correctly describes establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "question": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "Which statement correctly describes connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
-    "audio_prompt": "Which statement correctly describes connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "question": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "Which statement gives a valid example of understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
-    "audio_prompt": "Which statement gives a valid example of understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "question": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "Which statement gives a valid example of explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
-    "audio_prompt": "Which statement gives a valid example of explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "question": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "Which statement gives a valid example of establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
-    "audio_prompt": "Which statement gives a valid example of establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "question": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "Which statement gives a valid example of connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
-    "audio_prompt": "Which statement gives a valid example of connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "question": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
-    "audio_prompt": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "question": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand the terms base altitude hypotenuse and adjacent and opposite sides to an angle in a right angled triangle and identifying these for a given right angled triangle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
-    "audio_prompt": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "question": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore patterns to reason about nested similar triangles that are aligned on a coordinate plane connecting ideas of parallel sides. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
-    "audio_prompt": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "question": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving establish an understanding that the sine of an angle can be considered as the length of the altitude of a right angled triangle with a hypotenuse of length one unit. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
-    "audio_prompt": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "question": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving connect the tangent of an angle to the altitude and base of nested similar right angled triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue, and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue, and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape creating spoken multimodal texts that manipulate rhetorical devices to compel listeners to act and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape discussing and negotiating with peers in debates and panel discussions about issues related to a text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape discussing and negotiating with peers in debates and panel discussions about issues related to a text and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape discussing and negotiating with peers in debates and panel discussions about issues related to a text and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape discussing and negotiating with peers in debates and panel discussions about issues related to a text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape discussing and negotiating with peers in debates and panel discussions about issues related to a text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue, and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue, and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape taking the role of a character in a reflective monologue and considering and justifying actions and choices at a critical moment in the text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

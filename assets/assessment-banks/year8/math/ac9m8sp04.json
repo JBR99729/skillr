@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "listing_the_properties_or_criteria_necessary_to_determine_if_shapes_are_similar_or_congruent",
-    "question": "Which statement correctly describes listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audio_prompt": "Which statement correctly describes listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_conditions_for_congruence_of_triangles_and_similarity_of_triangles_to_develop_a_sorting_algorithm",
-    "question": "Which statement correctly describes use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "audio_prompt": "Which statement correctly describes use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "evaluating_algorithms_for_accuracy_in_classifying_and_distinguishing_between_similar_and_congruent_triangles",
-    "question": "Which statement correctly describes evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
-    "audio_prompt": "Which statement correctly describes evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "listing_the_properties_or_criteria_necessary_to_determine_if_shapes_are_similar_or_congruent",
-    "question": "Which statement gives a valid example of listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audio_prompt": "Which statement gives a valid example of listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_conditions_for_congruence_of_triangles_and_similarity_of_triangles_to_develop_a_sorting_algorithm",
-    "question": "Which statement gives a valid example of use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "audio_prompt": "Which statement gives a valid example of use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "evaluating_algorithms_for_accuracy_in_classifying_and_distinguishing_between_similar_and_congruent_triangles",
-    "question": "Which statement gives a valid example of evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
-    "audio_prompt": "Which statement gives a valid example of evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "listing_the_properties_or_criteria_necessary_to_determine_if_shapes_are_similar_or_congruent",
-    "question": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audio_prompt": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_conditions_for_congruence_of_triangles_and_similarity_of_triangles_to_develop_a_sorting_algorithm",
-    "question": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "audio_prompt": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "evaluating_algorithms_for_accuracy_in_classifying_and_distinguishing_between_similar_and_congruent_triangles",
-    "question": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
-    "audio_prompt": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "listing_the_properties_or_criteria_necessary_to_determine_if_shapes_are_similar_or_congruent",
-    "question": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audio_prompt": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

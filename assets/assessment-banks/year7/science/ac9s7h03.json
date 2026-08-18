@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "define_issue_and_response",
-    "question": "Which statement correctly explains contemporary issue in scientific responses to contemporary issues?",
-    "audio_prompt": "Which statement correctly explains contemporary issue in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_evidence",
-    "question": "Which description is accurate for trade-off in scientific responses to contemporary issues?",
-    "audio_prompt": "Which description is accurate for trade-off in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating identify evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "compare_trade_offs",
-    "question": "Which statement gives an example of ethical consideration in scientific responses to contemporary issues?",
-    "audio_prompt": "Which statement gives an example of ethical consideration in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating compare trade offs. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating compare trade offs. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "name_an_ethical_concern",
-    "question": "What is important when using contemporary issue in scientific responses to contemporary issues?",
-    "audio_prompt": "What is important when using contemporary issue in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating name an ethical concern. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name an ethical concern. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "compare_trade_offs",
-    "question": "Which statement is true about trade-off in scientific responses to contemporary issues?",
-    "audio_prompt": "Which statement is true about trade-off in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating compare trade offs. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating compare trade offs. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "name_an_ethical_concern",
-    "question": "Which response correctly applies name an ethical concern in scientific responses to contemporary issues?",
-    "audio_prompt": "Which response correctly applies name an ethical concern in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating name an ethical concern. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name an ethical concern. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_uncertainty_and_monitoring",
-    "question": "Which response shows correct use of state uncertainty and monitoring in scientific responses to contemporary issues?",
-    "audio_prompt": "Which response shows correct use of state uncertainty and monitoring in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating state uncertainty and monitoring. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state uncertainty and monitoring. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "define_issue_and_response",
-    "question": "Which interpretation is accurate for define issue and response in scientific responses to contemporary issues?",
-    "audio_prompt": "Which interpretation is accurate for define issue and response in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_evidence",
-    "question": "Which choice demonstrates identify evidence in scientific responses to contemporary issues?",
-    "audio_prompt": "Which choice demonstrates identify evidence in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating identify evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_uncertainty_and_monitoring",
-    "question": "Which claim is accurate about state uncertainty and monitoring in scientific responses to contemporary issues?",
-    "audio_prompt": "Which claim is accurate about state uncertainty and monitoring in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating state uncertainty and monitoring. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state uncertainty and monitoring. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "define_issue_and_response",
-    "question": "What is required to apply define issue and response in scientific responses to contemporary issues?",
-    "audio_prompt": "What is required to apply define issue and response in scientific responses to contemporary issues?",
+    "question": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating define issue and response. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

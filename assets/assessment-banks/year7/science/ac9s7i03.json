@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_resolution",
-    "question": "Which statement correctly explains accuracy in equipment, accuracy and precision?",
-    "audio_prompt": "Which statement correctly explains accuracy in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_accuracy_precision",
-    "question": "Which description is accurate for precision in equipment, accuracy and precision?",
-    "audio_prompt": "Which description is accurate for precision in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "plan_calibration",
-    "question": "Which statement gives an example of calibration in equipment, accuracy and precision?",
-    "audio_prompt": "Which statement gives an example of calibration in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "read_scale_correctly",
-    "question": "What is important when using accuracy in equipment, accuracy and precision?",
-    "audio_prompt": "What is important when using accuracy in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "plan_calibration",
-    "question": "Which statement is true about precision in equipment, accuracy and precision?",
-    "audio_prompt": "Which statement is true about precision in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "read_scale_correctly",
-    "question": "Which response correctly applies read scale correctly in equipment, accuracy and precision?",
-    "audio_prompt": "Which response correctly applies read scale correctly in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_digital_settings",
-    "question": "Which response shows correct use of audit digital settings in equipment, accuracy and precision?",
-    "audio_prompt": "Which response shows correct use of audit digital settings in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating audit digital settings. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit digital settings. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_resolution",
-    "question": "Which interpretation is accurate for choose resolution in equipment, accuracy and precision?",
-    "audio_prompt": "Which interpretation is accurate for choose resolution in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "distinguish_accuracy_precision",
-    "question": "Which choice demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
-    "audio_prompt": "Which choice demonstrates distinguish accuracy/precision in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_digital_settings",
-    "question": "Which claim is accurate about audit digital settings in equipment, accuracy and precision?",
-    "audio_prompt": "Which claim is accurate about audit digital settings in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating audit digital settings. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit digital settings. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_resolution",
-    "question": "What is required to apply choose resolution in equipment, accuracy and precision?",
-    "audio_prompt": "What is required to apply choose resolution in equipment, accuracy and precision?",
+    "question": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

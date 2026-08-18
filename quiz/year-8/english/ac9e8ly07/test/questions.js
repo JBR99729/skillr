@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience s understanding and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience s understanding and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience s understanding and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape choosing vocabulary and sentence structures and using literary devices such as similes metaphors and personification to meet perceived audience needs and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape choosing vocabulary and sentence structures and using literary devices such as similes metaphors and personification to meet perceived audience needs and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape choosing vocabulary and sentence structures and using literary devices such as similes metaphors and personification to meet perceived audience needs and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

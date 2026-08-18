@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "rearranging_and_simplifying_linear_expressions_involving_variables_with_integer_coefficients_and_constants_using_manipulatives_such_as_algebra_tiles_to_support_calculations",
-    "question": "Which statement correctly describes rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
-    "audio_prompt": "Which statement correctly describes rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
+    "question": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "demonstrating_the_relationship_between_factorising_and_expanding_linear_expressions_using_manipulatives_such_as_algebra_tiles_or_area_models_and_describing_with_mathematical_language",
-    "question": "Which statement correctly describes demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
-    "audio_prompt": "Which statement correctly describes demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
+    "question": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_distributive_associative_commutative_identity_and_inverse_properties_to_expand_and_factorise_algebraic_expressions_using_strategies_such_as_the_area_model",
-    "question": "Which statement correctly describes use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
-    "audio_prompt": "Which statement correctly describes use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
+    "question": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "rearranging_and_simplifying_linear_expressions_involving_variables_with_integer_coefficients_and_constants_using_manipulatives_such_as_algebra_tiles_to_support_calculations",
-    "question": "Which statement gives a valid example of rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
-    "audio_prompt": "Which statement gives a valid example of rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
+    "question": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "demonstrating_the_relationship_between_factorising_and_expanding_linear_expressions_using_manipulatives_such_as_algebra_tiles_or_area_models_and_describing_with_mathematical_language",
-    "question": "Which statement gives a valid example of demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
-    "audio_prompt": "Which statement gives a valid example of demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
+    "question": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_distributive_associative_commutative_identity_and_inverse_properties_to_expand_and_factorise_algebraic_expressions_using_strategies_such_as_the_area_model",
-    "question": "Which statement gives a valid example of use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
-    "audio_prompt": "Which statement gives a valid example of use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
+    "question": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "rearranging_and_simplifying_linear_expressions_involving_variables_with_integer_coefficients_and_constants_using_manipulatives_such_as_algebra_tiles_to_support_calculations",
-    "question": "Which interpretation is accurate for rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
-    "audio_prompt": "Which interpretation is accurate for rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
+    "question": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "demonstrating_the_relationship_between_factorising_and_expanding_linear_expressions_using_manipulatives_such_as_algebra_tiles_or_area_models_and_describing_with_mathematical_language",
-    "question": "Which interpretation is accurate for demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
-    "audio_prompt": "Which interpretation is accurate for demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language?",
+    "question": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving demonstrating the relationship between factorising and expanding linear expressions using manipulatives such as algebra tiles or area models and describing with mathematical language. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_distributive_associative_commutative_identity_and_inverse_properties_to_expand_and_factorise_algebraic_expressions_using_strategies_such_as_the_area_model",
-    "question": "Which interpretation is accurate for use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
-    "audio_prompt": "Which interpretation is accurate for use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model?",
+    "question": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the distributive associative commutative identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "rearranging_and_simplifying_linear_expressions_involving_variables_with_integer_coefficients_and_constants_using_manipulatives_such_as_algebra_tiles_to_support_calculations",
-    "question": "Which choice demonstrates rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
-    "audio_prompt": "Which choice demonstrates rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations?",
+    "question": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving rearranging and simplifying linear expressions involving variables with integer coefficients and constants using manipulatives such as algebra tiles to support calculations. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

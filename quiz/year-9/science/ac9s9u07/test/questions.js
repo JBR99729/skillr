@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
-    "audioPrompt": "Which description correctly applies explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
+    "question": "A Year 10 student is solving a problem involving explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
-    "audioPrompt": "Which description correctly applies explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
+    "question": "A Year 10 student is solving a problem involving explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "understand that the logarithmic scale is calibrated in terms of order of magnitude",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for understand that the logarithmic scale is calibrated in terms of order of magnitude?",
-    "audioPrompt": "Which interpretation is accurate for understand that the logarithmic scale is calibrated in terms of order of magnitude?",
+    "question": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

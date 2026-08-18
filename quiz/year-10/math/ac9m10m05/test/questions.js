@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore compliance with building codes and standards in design and construction such as for escalators in shopping centres",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
-    "audioPrompt": "Which description correctly applies explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
+    "question": "A Year 10 student is solving a problem involving explore compliance with building codes and standards in design and construction such as for escalators in shopping centres. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore compliance with building codes and standards in design and construction such as for escalators in shopping centres. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
-    "audioPrompt": "Which description correctly applies explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
+    "question": "A Year 10 student is solving a problem involving explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
-    "audioPrompt": "Which interpretation is accurate for use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
+    "question": "A Year 10 student is solving a problem involving use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
-    "audioPrompt": "Which interpretation is accurate for use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
+    "question": "A Year 8 student is solving a problem involving use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
-    "audioPrompt": "Which interpretation is accurate for use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
+    "question": "A Year 8 student is solving a problem involving use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to investigate integer solutions to equations such as 2x 3y 48",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
-    "audioPrompt": "Which interpretation is accurate for use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
+    "question": "A Year 8 student is solving a problem involving use digital tools to investigate integer solutions to equations such as 2x 3y 48. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate integer solutions to equations such as 2x 3y 48. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
-    "audioPrompt": "Which interpretation is accurate for explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
+    "question": "A Year 8 student is solving a problem involving explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_relative_frequency",
-    "question": "Which statement correctly explains relative frequency in repeated experiments and probability simulation?",
-    "audio_prompt": "Which statement correctly explains relative frequency in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_expected_count",
-    "question": "Which description is accurate for simulation in repeated experiments and probability simulation?",
-    "audio_prompt": "Which description is accurate for simulation in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sample_sizes",
-    "question": "Which statement gives an example of expected frequency in repeated experiments and probability simulation?",
-    "audio_prompt": "Which statement gives an example of expected frequency in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving compare sample sizes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare sample sizes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "audit_a_simulation",
-    "question": "What is important when using relative frequency in repeated experiments and probability simulation?",
-    "audio_prompt": "What is important when using relative frequency in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sample_sizes",
-    "question": "Which statement is true about simulation in repeated experiments and probability simulation?",
-    "audio_prompt": "Which statement is true about simulation in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving compare sample sizes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare sample sizes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "audit_a_simulation",
-    "question": "Which response correctly applies audit a simulation in repeated experiments and probability simulation?",
-    "audio_prompt": "Which response correctly applies audit a simulation in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explain_variation",
-    "question": "Which response shows correct use of explain variation in repeated experiments and probability simulation?",
-    "audio_prompt": "Which response shows correct use of explain variation in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "calculate_relative_frequency",
-    "question": "Which interpretation is accurate for calculate relative frequency in repeated experiments and probability simulation?",
-    "audio_prompt": "Which interpretation is accurate for calculate relative frequency in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_expected_count",
-    "question": "Which choice demonstrates find expected count in repeated experiments and probability simulation?",
-    "audio_prompt": "Which choice demonstrates find expected count in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explain_variation",
-    "question": "Which claim is accurate about explain variation in repeated experiments and probability simulation?",
-    "audio_prompt": "Which claim is accurate about explain variation in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "calculate_relative_frequency",
-    "question": "What is required to apply calculate relative frequency in repeated experiments and probability simulation?",
-    "audio_prompt": "What is required to apply calculate relative frequency in repeated experiments and probability simulation?",
+    "question": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

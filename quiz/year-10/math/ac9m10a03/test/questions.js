@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "recognise that in a table of values if the ratio between consecutive values of the dependent variable is constant then it is an exponential relation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
-    "audioPrompt": "Which interpretation is accurate for recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
+    "question": "A Year 10 student is solving a problem involving recognise that in a table of values if the ratio between consecutive values of the dependent variable is constant then it is an exponential relation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving recognise that in a table of values if the ratio between consecutive values of the dependent variable is constant then it is an exponential relation. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore the links between algebraic and graphical representations of exponential functions using graphing software",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore the links between algebraic and graphical representations of exponential functions using graphing software?",
-    "audioPrompt": "Which interpretation is accurate for explore the links between algebraic and graphical representations of exponential functions using graphing software?",
+    "question": "A Year 10 student is solving a problem involving explore the links between algebraic and graphical representations of exponential functions using graphing software. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the links between algebraic and graphical representations of exponential functions using graphing software. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools with symbolic manipulation functionality to systematically explore exponential relations",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
-    "audioPrompt": "Which interpretation is accurate for use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
+    "question": "A Year 10 student is solving a problem involving use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore first nations australian ranger groups and other groups programs that attempt to eradicate feral animals for survival of native animals on country place",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
-    "audioPrompt": "Which interpretation is accurate for explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
+    "question": "A Year 10 student is solving a problem involving explore first nations australian ranger groups and other groups programs that attempt to eradicate feral animals for survival of native animals on country place. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore first nations australian ranger groups and other groups programs that attempt to eradicate feral animals for survival of native animals on country place. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

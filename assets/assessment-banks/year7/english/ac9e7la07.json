@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "find_a_vector",
-    "question": "Which statement correctly explains vector in vectors, angle and social distance in images?",
-    "audio_prompt": "Which statement correctly explains vector in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_angle",
-    "question": "Which description is accurate for camera angle in vectors, angle and social distance in images?",
-    "audio_prompt": "Which description is accurate for camera angle in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_shot_distance",
-    "question": "Which statement gives an example of social distance in vectors, angle and social distance in images?",
-    "audio_prompt": "Which statement gives an example of social distance in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_gaze",
-    "question": "What is important when using vector in vectors, angle and social distance in images?",
-    "audio_prompt": "What is important when using vector in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_shot_distance",
-    "question": "Which statement is true about camera angle in vectors, angle and social distance in images?",
-    "audio_prompt": "Which statement is true about camera angle in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_gaze",
-    "question": "Which response correctly applies analyse gaze in vectors, angle and social distance in images?",
-    "audio_prompt": "Which response correctly applies analyse gaze in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_modes",
-    "question": "Which response shows correct use of connect modes in vectors, angle and social distance in images?",
-    "audio_prompt": "Which response shows correct use of connect modes in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "find_a_vector",
-    "question": "Which interpretation is accurate for find a vector in vectors, angle and social distance in images?",
-    "audio_prompt": "Which interpretation is accurate for find a vector in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_angle",
-    "question": "Which choice demonstrates explain angle in vectors, angle and social distance in images?",
-    "audio_prompt": "Which choice demonstrates explain angle in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_modes",
-    "question": "Which claim is accurate about connect modes in vectors, angle and social distance in images?",
-    "audio_prompt": "Which claim is accurate about connect modes in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "find_a_vector",
-    "question": "What is required to apply find a vector in vectors, angle and social distance in images?",
-    "audio_prompt": "What is required to apply find a vector in vectors, angle and social distance in images?",
+    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

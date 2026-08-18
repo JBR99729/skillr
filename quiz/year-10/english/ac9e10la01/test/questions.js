@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text?",
-    "audioPrompt": "Which description correctly applies a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text?",
-    "audioPrompt": "Which description correctly applies a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

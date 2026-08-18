@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "audioPrompt": "Which statement correctly describes identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "question": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "audioPrompt": "Which statement correctly describes identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "question": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "audioPrompt": "Which statement gives a valid example of identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "question": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "audioPrompt": "Which statement gives a valid example of identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "question": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

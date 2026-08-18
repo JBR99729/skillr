@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which choice demonstrates use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

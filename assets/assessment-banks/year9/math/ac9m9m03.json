@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_applications_of_pythagoras_theorem_in_authentic_problems_including_applying_pythagoras_theorem_and_trigonometry_to_problems_in_surveying_and_design",
-    "question": "Which statement correctly describes explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
-    "audio_prompt": "Which statement correctly describes explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
+    "question": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_the_formula_for_calculation_of_distances_between_points_on_the_cartesian_plane_from_their_coordinates_emphasising_the_connection_to_vertical_and_horizontal_displacements_between_the_points",
-    "question": "Which statement correctly describes apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
-    "audio_prompt": "Which statement correctly describes apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
+    "question": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_relationship_between_the_corresponding_sides_of_similar_right_angled_triangles_and_establishing_the_relationship_between_areas_of_similar_figures",
-    "question": "Which statement correctly describes understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
-    "audio_prompt": "Which statement correctly describes understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
+    "question": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_images_of_proportional_relationships_to_estimate_actual_measurements",
-    "question": "Which statement correctly describes use images of proportional relationships to estimate actual measurements?",
-    "audio_prompt": "Which statement correctly describes use images of proportional relationships to estimate actual measurements?",
+    "question": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_theorems_and_conjectures_involving_triangles",
-    "question": "Which statement correctly describes explore theorems and conjectures involving triangles?",
-    "audio_prompt": "Which statement correctly describes explore theorems and conjectures involving triangles?",
+    "question": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_knowledge_of_similar_triangles_pythagoras_theorem_rates_and_algebra_to_design_and_construct_a_biltmore_stick_used_to_measure_the_diameter_and_height_of_a_tree",
-    "question": "Which statement correctly describes use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
-    "audio_prompt": "Which statement correctly describes use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
+    "question": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_autonomous_vehicles_solve_spatial_problems_using_algorithms_based_on_geometric_properties_relating_to_angles_distances_and_scale",
-    "question": "Which statement correctly describes explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
-    "audio_prompt": "Which statement correctly describes explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
+    "question": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_applications_of_pythagoras_theorem_in_authentic_problems_including_applying_pythagoras_theorem_and_trigonometry_to_problems_in_surveying_and_design",
-    "question": "Which statement gives a valid example of explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
-    "audio_prompt": "Which statement gives a valid example of explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
+    "question": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_the_formula_for_calculation_of_distances_between_points_on_the_cartesian_plane_from_their_coordinates_emphasising_the_connection_to_vertical_and_horizontal_displacements_between_the_points",
-    "question": "Which description correctly applies apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
-    "audio_prompt": "Which description correctly applies apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
+    "question": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_the_relationship_between_the_corresponding_sides_of_similar_right_angled_triangles_and_establishing_the_relationship_between_areas_of_similar_figures",
-    "question": "Which description correctly applies understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
-    "audio_prompt": "Which description correctly applies understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
+    "question": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_images_of_proportional_relationships_to_estimate_actual_measurements",
-    "question": "Which description correctly applies use images of proportional relationships to estimate actual measurements?",
-    "audio_prompt": "Which description correctly applies use images of proportional relationships to estimate actual measurements?",
+    "question": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_theorems_and_conjectures_involving_triangles",
-    "question": "Which description correctly applies explore theorems and conjectures involving triangles?",
-    "audio_prompt": "Which description correctly applies explore theorems and conjectures involving triangles?",
+    "question": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_knowledge_of_similar_triangles_pythagoras_theorem_rates_and_algebra_to_design_and_construct_a_biltmore_stick_used_to_measure_the_diameter_and_height_of_a_tree",
-    "question": "Which description correctly applies use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
-    "audio_prompt": "Which description correctly applies use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
+    "question": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_autonomous_vehicles_solve_spatial_problems_using_algorithms_based_on_geometric_properties_relating_to_angles_distances_and_scale",
-    "question": "Which description correctly applies explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
-    "audio_prompt": "Which description correctly applies explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
+    "question": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
